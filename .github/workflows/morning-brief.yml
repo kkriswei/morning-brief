@@ -1,10 +1,10 @@
 name: Morning Brief
 
 on:
-  # 13:00 UTC = 9:00 AM ET (EDT). In winter (EST) this fires at 8 AM local.
+  # 13:30 UTC = 9:30 AM ET (EDT). In winter (EST) this fires at 8:30 AM local.
   # Cron in GitHub Actions runs in UTC and has ±15 min variability.
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "30 13 * * *"
   # Run on demand from the Actions tab
   workflow_dispatch:
 

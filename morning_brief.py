@@ -23,6 +23,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent
 ENV_PATH = ROOT / ".env"
 SITE_DIR = ROOT / "docs"  # GitHub Pages serves from /docs on main
+PWA_URL = "https://kkriswei.github.io/morning-brief/"  # tap-target for ntfy notifications
 
 ALPACA_NEWS_URL = "https://data.alpaca.markets/v1beta1/news"
 NTFY_URL = "https://ntfy.sh"
@@ -589,8 +590,8 @@ def main() -> int:
     for idx, chunk in enumerate(chunks, 1):
         start_index = (idx - 1) * CHUNK_SIZE + 1
         title, body = format_message(chunk, part=idx, total=total, start_index=start_index)
-        click_url = chunk[0].get("url")
-        push_ntfy(topic, title, body, click_url)
+        # Tapping the notification opens the morning-brief PWA, not a single article.
+        push_ntfy(topic, title, body, PWA_URL)
         print(f"Pushed part {idx}/{total} to ntfy topic '{topic}' ({len(body.encode('utf-8'))} bytes)")
     return 0
 
