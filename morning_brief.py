@@ -32,9 +32,15 @@ ARTICLE_FETCH_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
 }
-LEAD_TARGET_CHARS = 420
+LEAD_TARGET_CHARS = 420       # market news lead length
 LEAD_MAX_CHARS = 520
-CHUNK_SIZE = 3  # articles per ntfy push (so each can be elaborated within 4096-byte limit)
+GENERAL_LEAD_TARGET = 850     # general/world news — longer for English practice
+GENERAL_LEAD_MAX = 1000
+NTFY_SUMMARY_MAX = 450        # per-article cap when packing ntfy push (HTML uses full text)
+CHUNK_SIZE = 3                # articles per ntfy push (fits the 4096-byte free-tier limit)
+
+# Only show market news that touches one of these tickers.
+WATCH_SYMBOLS = {"SMH", "QQQ", "GLD", "MU", "VOO", "MRVL"}
 
 BOILERPLATE_PATTERNS = [
     r"subscribe", r"newsletter", r"read (also|more|next)",
@@ -164,6 +170,7 @@ def score_article(article: dict, now: datetime) -> float:
     elif source:
         score += 1
 
+    score += 8 * len(symbols & WATCH_SYMBOLS)
     score += 5 * len(symbols & INDEX_TICKERS)
     score += 3 * len(symbols & MEGA_CAPS)
 
@@ -215,7 +222,8 @@ def dedupe(articles: list[dict]) -> list[dict]:
     return out
 
 
-def extract_lead(url: str) -> str:
+def extract_lead(url: str, target_chars: int = LEAD_TARGET_CHARS,
+                 max_chars: int = LEAD_MAX_CHARS) -> str:
     """Fetch article and return its lead paragraphs, skipping boilerplate.
     Returns '' on failure."""
     if not url:
@@ -242,13 +250,13 @@ def extract_lead(url: str) -> str:
             continue
         kept.append(text)
         total += len(text) + 1
-        if total >= LEAD_TARGET_CHARS:
+        if total >= target_chars:
             break
 
     lead = " ".join(kept).strip()
-    if len(lead) > LEAD_MAX_CHARS:
-        cut = lead[:LEAD_MAX_CHARS].rsplit(". ", 1)
-        lead = (cut[0] + ".") if len(cut) == 2 else (lead[:LEAD_MAX_CHARS - 3] + "...")
+    if len(lead) > max_chars:
+        cut = lead[:max_chars].rsplit(". ", 1)
+        lead = (cut[0] + ".") if len(cut) == 2 else (lead[:max_chars - 3] + "...")
     return lead
 
 
@@ -276,9 +284,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#0a0a0a">
+<meta name="theme-color" content="#ffffff">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Morning Brief">
 <title>Morning Brief — {date_short}</title>
 <link rel="manifest" href="manifest.webmanifest">
@@ -286,8 +294,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <link rel="apple-touch-icon" href="icon.svg">
 <style>
   :root {{
-    --bg: #0a0a0a; --bg-card: #161616; --fg: #e8e8e8; --fg-muted: #888;
-    --accent: #4ade80; --border: #2a2a2a;
+    --bg: #ffffff; --bg-card: #f8fafc; --fg: #0f172a; --fg-muted: #64748b;
+    --accent: #15803d; --border: #e2e8f0;
   }}
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
   html, body {{ background: var(--bg); color: var(--fg); }}
@@ -356,8 +364,8 @@ MANIFEST_JSON = """{
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#0a0a0a",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]
@@ -439,12 +447,21 @@ def render_html(articles: list[dict], output_dir: Path) -> Path:
 
 def enrich_articles(articles: list[dict]) -> None:
     """Fetch article bodies + translate headlines & summaries, stashing results on each dict.
-    Done once so the ntfy push and HTML render reuse the same translations / scrapes."""
+    Done once so the ntfy push and HTML render reuse the same translations / scrapes.
+
+    General news (no symbols) gets a longer lead than market news, for more English to read.
+    """
     for i, a in enumerate(articles, 1):
         headline = html.unescape(a.get("headline") or "").strip()
         fallback = html.unescape(a.get("summary") or "").strip()
-        print(f"  [{i}/{len(articles)}] fetching: {headline[:60]}...")
-        summary = extract_lead(a.get("url") or "") or fallback
+        is_general = not (a.get("symbols") or [])
+        print(f"  [{i}/{len(articles)}] fetching ({'general' if is_general else 'market'}): {headline[:55]}...")
+        if is_general:
+            summary = extract_lead(a.get("url") or "",
+                                    target_chars=GENERAL_LEAD_TARGET,
+                                    max_chars=GENERAL_LEAD_MAX) or fallback
+        else:
+            summary = extract_lead(a.get("url") or "") or fallback
         a["_summary"] = summary
         a["_zh_headline"] = translate_zh(headline)
         a["_zh_summary"] = translate_zh(summary) if summary else ""
@@ -473,10 +490,17 @@ def format_message(articles: list[dict], part: int = 1, total: int = 1,
         parts = [f"{i}. {sym_str}{headline}{suffix_str}"]
         if a.get("_zh_headline"):
             parts.append(f"   {a['_zh_headline']}")
-        if a.get("_summary"):
-            parts.append(f"   • {a['_summary']}")
-            if a.get("_zh_summary"):
-                parts.append(f"   • {a['_zh_summary']}")
+        # Truncate per-article so 3 long articles still fit in one 4096-byte ntfy push.
+        summary = a.get("_summary") or ""
+        if len(summary) > NTFY_SUMMARY_MAX:
+            summary = summary[:NTFY_SUMMARY_MAX - 3].rsplit(" ", 1)[0] + "..."
+        zh_sum = a.get("_zh_summary") or ""
+        if len(zh_sum) > NTFY_SUMMARY_MAX:
+            zh_sum = zh_sum[:NTFY_SUMMARY_MAX - 3] + "..."
+        if summary:
+            parts.append(f"   • {summary}")
+            if zh_sum:
+                parts.append(f"   • {zh_sum}")
         blocks.append("\n".join(parts))
     body = "\n\n".join(blocks) if blocks else "No notable market-moving news in the overnight window."
     return title, body
@@ -525,6 +549,15 @@ def main() -> int:
                      if (ts := parse_ts(a.get("created_at"))) and ts >= start]
         print(f"Fetched {len(items)} from {source} ({len(in_window)} in window)")
         articles.extend(in_window)
+
+    # Filter: keep general news (no symbols) AND market news that touches the watchlist.
+    before = len(articles)
+    articles = [
+        a for a in articles
+        if not (a.get("symbols") or [])
+        or (set(a.get("symbols") or []) & WATCH_SYMBOLS)
+    ]
+    print(f"Filtered {before} -> {len(articles)} articles (kept general + watchlist: {sorted(WATCH_SYMBOLS)})")
 
     scored = sorted(
         ((score_article(a, now), a) for a in articles),
