@@ -1,0 +1,53 @@
+name: Morning Brief
+
+on:
+  # 13:00 UTC = 9:00 AM ET (EDT). In winter (EST) this fires at 8 AM local.
+  # Cron in GitHub Actions runs in UTC and has ±15 min variability.
+  schedule:
+    - cron: "0 13 * * *"
+  # Run on demand from the Actions tab
+  workflow_dispatch:
+
+# Allow the workflow to push commits back to the repo
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Generate morning brief
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
+          NTFY_NEWS_TOPIC: ${{ secrets.NTFY_NEWS_TOPIC }}
+        run: python morning_brief.py
+
+      - name: Commit updated brief
+        run: |
+          git config user.name  "morning-brief-bot"
+          git config user.email "morning-brief-bot@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Brief: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
