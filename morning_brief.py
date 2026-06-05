@@ -347,7 +347,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </header>
 {sections}
 <footer>
-  Generated {gen_ts} UTC · Updates daily at 9 AM ET
+  Generated {gen_ts} UTC · Refreshes hourly · Notifications at 9:30 AM and 4:30 PM ET
 </footer>
 </body>
 </html>
