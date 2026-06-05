@@ -1,10 +1,12 @@
 name: Morning Brief
 
 on:
-  # 13:30 UTC = 9:30 AM ET (EDT). In winter (EST) this fires at 8:30 AM local.
-  # Cron in GitHub Actions runs in UTC and has ±15 min variability.
+  # Run every hour at :30 — keeps the website fresh throughout the day so the
+  # PWA shows current news (intraday selloffs, breaking events, etc.).
+  # ntfy push notifications are only sent at 9:30 AM and 4:30 PM ET (the script
+  # decides based on UTC hour). Cron in GH Actions has ±15 min variability.
   schedule:
-    - cron: "30 13 * * *"
+    - cron: "30 * * * *"
   # Run on demand from the Actions tab
   workflow_dispatch:
 

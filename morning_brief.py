@@ -25,6 +25,11 @@ ENV_PATH = ROOT / ".env"
 SITE_DIR = ROOT / "docs"  # GitHub Pages serves from /docs on main
 PWA_URL = "https://kkriswei.github.io/morning-brief/"  # tap-target for ntfy notifications
 
+# UTC hours at which we push a ntfy notification (otherwise: silent HTML refresh only).
+# 13 UTC ≈ 9:30 AM ET (EDT) — morning brief.
+# 20 UTC ≈ 4:30 PM ET (EDT) — market-close recap.
+NOTIFY_HOURS_UTC = {13, 20}
+
 ALPACA_NEWS_URL = "https://data.alpaca.markets/v1beta1/news"
 NTFY_URL = "https://ntfy.sh"
 GTRANS_URL = "https://translate.googleapis.com/translate_a/single"
@@ -574,11 +579,17 @@ def main() -> int:
 
     enrich_articles(top)
 
-    # Always render the HTML page (for GitHub Pages / PWA)
+    # Always render the HTML page (so the PWA stays fresh on every hourly run)
     index_path = render_html(top, SITE_DIR)
     print(f"Rendered site: {index_path}")
 
-    # Push to ntfy in chunks
+    # Only push ntfy at the configured notification hours — otherwise this would
+    # spam the phone with up to 24 alerts per day.
+    current_hour_utc = now.hour
+    if current_hour_utc not in NOTIFY_HOURS_UTC:
+        print(f"Silent refresh: UTC hour {current_hour_utc} not in {sorted(NOTIFY_HOURS_UTC)}, skipping ntfy push.")
+        return 0
+
     if not top:
         title, body = format_message(top)
         push_ntfy(topic, title, body, None)
