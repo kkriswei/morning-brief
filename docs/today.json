@@ -2,6 +2,181 @@
   "date": "2026-06-08",
   "articles": [
     {
+      "headline": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
+      "summary": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.",
+      "url": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-08T13:26:08+00:00",
+      "_summary": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.",
+      "_zh_headline": "伊朗战争迫使能源进口国转向国内",
+      "_zh_summary": "伊朗战争正促使各国优先考虑国内能源，以保护自己免受石油和天然气市场波动的影响。",
+      "_added_at": "2026-06-08T14:35:40.833143+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-08T13:34:57Z",
+      "headline": "Micron Rallies, Nasdaq 100 Rebounds As Trump Calls For Immediate Iran-Israel Ceasefire",
+      "id": 53057000,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Trump-Makes-Stunning-Confession-About-Re.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Trump-Makes-Stunning-Confession-About-Re.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Trump-Makes-Stunning-Confession-About-Re.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks rebound on chip stocks bouncing and Trump&#39;s efforts for ceasefire, while Iran halts strikes on Israel. Micron leads semiconductor recovery.",
+      "symbols": [
+        "GLW",
+        "INTC",
+        "MU",
+        "ON",
+        "QQQ",
+        "SMCI",
+        "SNDK",
+        "STX",
+        "TER"
+      ],
+      "updated_at": "2026-06-08T13:34:57Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53057000/micron-rallies-nasdaq-100-rebounds-as-trump-calls-for-immediate-iran-israel-ceasefire",
+      "_summary": "U.S. stocks staged a sharp premarket rebound Monday as chip stocks bounced from Friday’s rout and President Donald Trump pushed to hold together a fragile Israel-Iran ceasefire, after a weekend in which the two sides t raded fresh strikes. Micron Technology Inc. (NASDAQ: MU ) jumped more than 8% in premarket trading, the best-performing stock among S&P 500 constituents.",
+      "_zh_headline": "特朗普呼吁伊朗和以色列立即停火，美光股价上涨，纳斯达克指数反弹 100 点",
+      "_zh_summary": "美国股市周一盘前大幅反弹，芯片股从周五的暴跌中反弹，而美国总统唐纳德·特朗普在周末双方进行了新的罢工后，推动维持脆弱的以色列和伊朗停火协议。美光科技公司（纳斯达克股票代码：MU）在盘前交易中上涨超过 8%，成为标准普尔 500 指数成分股中表现最好的股票。",
+      "_added_at": "2026-06-08T14:35:40.833143+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-06-08T14:02:24Z",
+      "headline": "Marvell Stock Is Up 230% In 2026 — S&P 500 Debut Could Make That Look Conservative",
+      "id": 53058937,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Marvell-Technology-Group-Company---EK.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Marvell-Technology-Group-Company---EK.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Marvell-Technology-Group-Company---EK.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell and Flex will join the S&amp;P 500. MRVL stock is up 210% in 2021, driven by its role in AI infrastructure.",
+      "symbols": [
+        "COIN",
+        "CPB",
+        "EME",
+        "FIX",
+        "MRVL",
+        "NVDA",
+        "POOL",
+        "TTD",
+        "VRT",
+        "WDAY"
+      ],
+      "updated_at": "2026-06-08T14:02:25Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53058937/marvell-stock-is-up-230-in-2026-sp-500-debut-could-make-that-look-conservative",
+      "_summary": "Marvell shares are trading 9% higher Monday morning. The move came after a bruising session on Friday when the stock fell nearly 17% — but zoomed out, the numbers still tell a remarkable story. MRVL is up approximately 230% in 2026 alone, a run that few mega-cap names can match. Marvell’s case for inclusion is hard to argue with.",
+      "_zh_headline": "Marvell 股价 2026 年上涨 230% — S&P 500 首次亮相可能会让这种情况看起来保守",
+      "_zh_summary": "Marvell 股价周一上午上涨 9%。周五，该股经历了一场惨痛的交易，当时该股下跌了近 17%，但放大来看，这些数字仍然讲述着一个非凡的故事。仅 2026 年，MRVL 就上涨了约 230%，这一涨幅是很少有大型企业能够匹敌的。 Marvell 的包容性理由无可争议。",
+      "_added_at": "2026-06-08T14:35:40.833143+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-06-08T13:34:39Z",
+      "headline": "Ed Yardeni Warns Gold Could Sink To $4,000 After Sharpest Weekly Decline In Months—But Doesn't Stop Being Bullish",
+      "id": 53056990,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Millions-In-Gold-And-Cash.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Millions-In-Gold-And-Cash.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Millions-In-Gold-And-Cash.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gold falls after a strong US payrolls boost rate expectations, raising carry costs and pressuring prices below key technical levels.",
+      "symbols": [
+        "GDX",
+        "GLD",
+        "IAU"
+      ],
+      "updated_at": "2026-06-08T13:34:39Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/53056990/ed-yardeni-warns-gold-could-sink-to-4000-after-sharpest-weekly-decline-in-months-but-doesnt-stop-being-bullish",
+      "_summary": "Gold futures fell to $4,321.80 an ounce on Monday, their biggest decline since March, with Ed Yardeni , founder of Yardeni Research , identifying $4,000 as a potential support level. Gold prices extended their decline after a 3% drop on Friday, marking the metal’s biggest one-day fall since March 26. The precious metal also posted a 4.9% weekly loss, its steepest weekly decline since the week ended March 20, reported MarketWatch on Monday, citing Dow Jones Market Data.",
+      "_zh_headline": "Ed Yardeni 警告金价在经历数月来最大幅度的周跌幅后可能会跌至 4,000 美元，但并没有停止看涨",
+      "_zh_summary": "黄金期货周一跌至每盎司 4,321.80 美元，创 3 月份以来最大跌幅，Yardeni Research 创始人 Ed Yardeni 将 4,000 美元确定为潜在支撑位。金价在周五下跌 3% 后延续跌势，创下自 3 月 26 日以来的最大单日跌幅。 MarketWatch 周一援引道琼斯市场数据报道称，金价周跌幅为 4.9%，为截至 3 月 20 日当周以来的最大单周跌幅。",
+      "_added_at": "2026-06-08T14:35:40.833143+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-08T14:30:10Z",
+      "headline": "Tango Therapeutics, American Battery Technology, Intel And Other Big Stocks Moving Higher On Monday",
+      "id": 53060442,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/The-Real-Villains-No-Longer-Hide.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/The-Real-Villains-No-Longer-Hide.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/The-Real-Villains-No-Longer-Hide.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks higher, Nasdaq Composite up 1%. Tango Therapeutics (TNGX) shares up 34.1% on positive trial data. Other big gainers include ENHA, JLHL, ABAT, BTGO, GLXY, CLYM, SOC, SRAD, AIAI, ALOY, and GENI.",
+      "symbols": [
+        "ABAT",
+        "AIAI",
+        "ALOY",
+        "AVTR",
+        "BTGO",
+        "CLYM",
+        "ELF",
+        "ENHA",
+        "GENI",
+        "GLXY",
+        "INTC",
+        "JLHL",
+        "KLAC",
+        "MRVL",
+        "SOC",
+        "SRAD",
+        "TNGX"
+      ],
+      "updated_at": "2026-06-08T14:30:10Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53060442/tango-therapeutics-american-battery-technology-intel-and-other-big-stocks-moving-higher-on-monday",
+      "_summary": "U.S. stocks were higher, with the Nasdaq Composite gaining around 1% on Monday. The results indicate a 90% progression-free survival rate at six months for patients with metastatic pancreatic ductal adenocarcinoma (PDAC). Tango Therapeutics shares jumped 34.1% to $27.12 on Monday. Here are some other big stocks recording gins in today’s session.",
+      "_zh_headline": "Tango Therapeutics、American Battery Technology、英特尔等大股周一走高",
+      "_zh_summary": "美国股市走高，纳斯达克综合指数周一上涨约 1%。结果表明，转移性胰腺导管腺癌 (PDAC) 患者六个月无进展生存率为 90%。 Tango Therapeutics 股价周一上涨 34.1% 至 27.12 美元。以下是今天交易中其他一些录得杜松子酒表现的大型股票。",
+      "_added_at": "2026-06-08T14:35:40.833143+00:00"
+    },
+    {
       "headline": "Europe Watches Its Economic Recovery Fade Into the Distance",
       "summary": "As the war in Iran persists, signs point to a prolonged period of higher prices and slower growth rather than a quick shock.",
       "url": "https://www.nytimes.com/2026/06/08/business/europe-inflation-iran-war.html",
