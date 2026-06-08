@@ -2,6 +2,30 @@
   "date": "2026-06-08",
   "articles": [
     {
+      "headline": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
+      "summary": "President Trump is grappling with his own version of the sort of Middle East crisis that beset his predecessors, and that he promised to avoid.",
+      "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-08T21:49:20+00:00",
+      "_summary": "President Trump is grappling with his own version of the sort of Middle East crisis that beset his predecessors, and that he promised to avoid.",
+      "_zh_headline": "特朗普想要发号施令。但在伊朗，他不断挑战自己的极限。",
+      "_zh_summary": "特朗普总统正在努力应对他自己版本的中东危机，这种危机困扰着他的前任，但他承诺要避免这种危机。",
+      "_added_at": "2026-06-08T22:58:14.166046+00:00"
+    },
+    {
+      "headline": "Iran and Israel Pull Back",
+      "summary": "Also, the N.B.A. finals arrive in New York. Here’s the latest at the end of Monday.",
+      "url": "https://www.nytimes.com/2026/06/08/briefing/iran-israel-strikes-todd-blanche.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-08T22:06:14+00:00",
+      "_summary": "Also, the N.B.A. finals arrive in New York. Here’s the latest at the end of Monday.",
+      "_zh_headline": "伊朗和以色列撤军",
+      "_zh_summary": "此外，N.B.A.决赛抵达纽约。这是周一月底的最新消息。",
+      "_added_at": "2026-06-08T22:58:14.166046+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-06-08T19:47:30Z",
@@ -531,30 +555,6 @@
       "_zh_headline": "黄金正在失去其避险功能——当避风港失效时，还剩下什么？",
       "_zh_summary": "黄金作为市场终极避风港的声誉正面临近年来最严峻的考验之一。自 6 月初以来，黄金已下跌超过 4.3%，周一触及每盎司 4,268.9 美元的盘中低点。此次下跌是由于强于预期的美国非农就业报告重新引发了对加息的预期。总体而言，这对金条来说是一次戏剧性的往返，抹去了全年的涨幅。",
       "_added_at": "2026-06-08T10:06:12.783058+00:00"
-    },
-    {
-      "headline": "Oil Surges, Asian Stocks Sink After Iran Strikes Israel",
-      "summary": "Oil prices jumped and stocks plunged after Iran fired missiles at Israel, raising doubts about the future of fragile cease-fire in the Middle East.",
-      "url": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-08T01:38:05+00:00",
-      "_summary": "Oil prices jumped and stocks plunged after Iran fired missiles at Israel, raising doubts about the future of fragile cease-fire in the Middle East.",
-      "_zh_headline": "伊朗袭击以色列后油价飙升，亚洲股市下跌",
-      "_zh_summary": "伊朗向以色列发射导弹后，油价上涨，股市暴跌，引发人们对中东脆弱停火未来的怀疑。",
-      "_added_at": "2026-06-08T05:15:04.326453+00:00"
-    },
-    {
-      "headline": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
-      "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-07T21:04:43+00:00",
-      "_summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
-      "_zh_headline": "面对战争死亡和飙升的通货膨胀，伊朗人陷入绝望",
-      "_zh_summary": "崩溃的经济让亲政府和反政府的伊朗人都感到绝望。对于那些希望政权更迭的人来说，失望是显而易见的。",
-      "_added_at": "2026-06-08T05:15:04.326453+00:00"
     }
   ]
 }
