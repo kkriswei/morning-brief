@@ -9,6 +9,7 @@ Designed to fire ~8 AM ET on weekdays before US market open.
 from __future__ import annotations
 
 import html
+import json
 import os
 import re
 import sys
@@ -16,6 +17,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -29,6 +31,11 @@ PWA_URL = "https://kkriswei.github.io/morning-brief/"  # tap-target for ntfy not
 # 13 UTC ≈ 9:30 AM ET (EDT) — morning brief.
 # 20 UTC ≈ 4:30 PM ET (EDT) — market-close recap.
 NOTIFY_HOURS_UTC = {13, 20}
+
+# Accumulation: the brief grows through the day, resets at ET midnight.
+ET_TZ = ZoneInfo("America/New_York")
+STATE_PATH = SITE_DIR / "today.json"
+MAX_ACCUMULATED = 20  # cap on stored articles per day so the page doesn't grow unbounded
 
 ALPACA_NEWS_URL = "https://data.alpaca.markets/v1beta1/news"
 NTFY_URL = "https://ntfy.sh"
@@ -529,6 +536,22 @@ def push_ntfy(topic: str, title: str, body: str, click_url: str | None) -> None:
     r.raise_for_status()
 
 
+def load_today_state() -> dict:
+    """Load persistent state for today's accumulated brief."""
+    try:
+        return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {"date": "", "articles": []}
+
+
+def save_today_state(state: dict) -> None:
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    STATE_PATH.write_text(
+        json.dumps(state, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
 def main() -> int:
     env = load_env(ENV_PATH)
     api_key = env.get("ALPACA_API_KEY") or os.environ.get("ALPACA_API_KEY")
@@ -577,26 +600,57 @@ def main() -> int:
     for i, a in enumerate(top, 1):
         print(f"  {i}. [{','.join(a.get('symbols', []) or [])}] {a.get('headline')}")
 
-    enrich_articles(top)
+    # Accumulate: load today's state, identify which of the top are NEW (not yet
+    # seen today), enrich only those, and prepend them to today's running list.
+    state = load_today_state()
+    today_et = datetime.now(ET_TZ).date().isoformat()
+    if state.get("date") != today_et:
+        print(f"New ET day ({today_et}); resetting accumulated brief from '{state.get('date')}'")
+        state = {"date": today_et, "articles": []}
 
-    # Always render the HTML page (so the PWA stays fresh on every hourly run)
-    index_path = render_html(top, SITE_DIR)
+    stored_urls = {a.get("url") for a in state["articles"]}
+    new_candidates = [a for a in top if a.get("url") not in stored_urls]
+    print(f"Accumulate: {len(new_candidates)} new of {len(top)} top "
+          f"(today already has {len(state['articles'])})")
+
+    enrich_articles(new_candidates)
+    added_at = now.isoformat()
+    for a in new_candidates:
+        a["_added_at"] = added_at
+
+    # Prepend new (newest-first), cap at MAX_ACCUMULATED.
+    state["articles"] = (new_candidates + state["articles"])[:MAX_ACCUMULATED]
+    save_today_state(state)
+    print(f"State saved: {len(state['articles'])} articles in today's brief.")
+
+    # Render HTML with the FULL accumulated list so users see all of today's coverage.
+    index_path = render_html(state["articles"], SITE_DIR)
     print(f"Rendered site: {index_path}")
 
-    # Only push ntfy at the configured notification hours — otherwise this would
-    # spam the phone with up to 24 alerts per day.
+    # ntfy push at scheduled hours, or any time when FORCE_NOTIFY=1 is set.
+    force = os.environ.get("FORCE_NOTIFY") in ("1", "true", "yes")
     current_hour_utc = now.hour
-    if current_hour_utc not in NOTIFY_HOURS_UTC:
+    if not force and current_hour_utc not in NOTIFY_HOURS_UTC:
         print(f"Silent refresh: UTC hour {current_hour_utc} not in {sorted(NOTIFY_HOURS_UTC)}, skipping ntfy push.")
         return 0
+    if force:
+        print("FORCE_NOTIFY set — pushing ntfy regardless of hour.")
 
-    if not top:
-        title, body = format_message(top)
+    # Push the top 6 from THIS run (already enriched if new; for existing/stored,
+    # re-use cached enrichment from state).
+    push_articles = []
+    for a in top:
+        # If this article is in state, use the stored copy (has _summary etc.)
+        match = next((s for s in state["articles"] if s.get("url") == a.get("url")), None)
+        push_articles.append(match if match else a)
+
+    if not push_articles:
+        title, body = format_message([])
         push_ntfy(topic, title, body, None)
         print(f"Pushed empty brief to ntfy topic '{topic}'")
         return 0
 
-    chunks = [top[i:i + CHUNK_SIZE] for i in range(0, len(top), CHUNK_SIZE)]
+    chunks = [push_articles[i:i + CHUNK_SIZE] for i in range(0, len(push_articles), CHUNK_SIZE)]
     total = len(chunks)
     for idx, chunk in enumerate(chunks, 1):
         start_index = (idx - 1) * CHUNK_SIZE + 1
