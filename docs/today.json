@@ -2,6 +2,82 @@
   "date": "2026-06-08",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-08T19:47:30Z",
+      "headline": "Micron And The Memory Trade Look Bulletproof: This Analyst Says A 5% Yield Cracks Them",
+      "id": 53072444,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Los-Angeles--California---24-January-202.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Los-Angeles--California---24-January-202.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Los-Angeles--California---24-January-202.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The most important chart on Wall Street right now isn’t Nvidia Corp. (NASDAQ:NVDA) or Micron Technology Inc.",
+      "symbols": [
+        "BTCUSD",
+        "DELL",
+        "DOCN",
+        "EWY",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "RXT",
+        "SNDK",
+        "SOXX"
+      ],
+      "updated_at": "2026-06-08T19:47:31Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53072444/2-year-treasury-yield-5-percent-target-ai-chips-stocks-memory-micron-sandisk",
+      "_summary": "According to John Roque, technical analyst at 22V Research, the front end of the Treasury curve has become “Public Enemy No. 1” for risk assets after breaking above its March and May highs, setting up what he believes could be a move toward 5%. While last Friday’s sharp correction appeared sudden – the Nasdaq 100 dropped 4.8% while the iShares Semiconductor ETF (NYSE: SOXX ) sunk over 10% – Roque indicates the warning signs had been flashing for weeks.",
+      "_zh_headline": "美光科技和内存行业看上去坚如磐石：这位分析师称 5% 的收益率足以让他们崩溃",
+      "_zh_summary": "22V Research 技术分析师约翰·罗克 (John Roque) 表示，在突破 3 月和 5 月高点后，美国国债曲线的前端已成为风险资产的“头号公敌”，他认为该曲线的前端可能会走向 5%。虽然上周五的大幅调整显得突然——纳斯达克 100 指数下跌 4.8%，而 iShares 半导体 ETF（纽约证券交易所股票代码：SOXX）下跌超过 10%——罗克表示，警告信号已经闪烁了数周。",
+      "_added_at": "2026-06-08T20:40:51.293301+00:00"
+    },
+    {
+      "author": "Opeyemi Babalola",
+      "content": "",
+      "created_at": "2026-06-08T20:25:58Z",
+      "headline": "Nvidia: Why Jensen Huang's Buy The Sell-off Remark Is A Grounded Structural Argument",
+      "id": 53074015,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Nvidia-office-building--Taipei--Taiwan-.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Nvidia-office-building--Taipei--Taiwan-.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Nvidia-office-building--Taipei--Taiwan-.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Nvidia CEO Jensen Huang called the tech selloff a buying opportunity on June 8. Here is what that means for investors.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SMH",
+        "SOXX"
+      ],
+      "updated_at": "2026-06-08T20:25:58Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53074015/nvidia-why-jensen-huangs-buy-the-sell-off-remark-is-a-grounded-structural-argument",
+      "_summary": "Huang's buying-opportunity call is not a forecast. It is a structural argument grounded in revenue acceleration, supply chain deepening, and a product cycle that is only beginning to ramp. The macro risk is real. Stronger jobs data and a hawkish Fed are not trivial headwinds for a stock trading at elevated multiples. However, investors separating noise from signal will note that Nvidia's fundamentals have not deteriorated.",
+      "_zh_headline": "英伟达：为什么黄仁勋的买入抛售言论是有根据的结构性论点",
+      "_zh_summary": "黄的买入机会呼吁并非预测。这是一个结构性论点，其基础是收入加速、供应链深化以及刚刚开始加速的产品周期。宏观风险是真实存在的。对于市盈率较高的股票来说，强劲的就业数据和鹰派的美联储并不是微不足道的阻力。然而，将噪音与信号分开的投资者会注意到，英伟达的基本面并未恶化。",
+      "_added_at": "2026-06-08T20:40:51.293301+00:00"
+    },
+    {
       "headline": "The 15-Hour Fight With Iran Showed the Bind Israel Is In",
       "summary": "As it braces for a possible U.S.-Iranian peace deal, Israel now knows that if it responds forcefully to attacks by Hezbollah, Iran may strike Israel with missiles.",
       "url": "https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html",
@@ -478,55 +554,6 @@
       "_summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
       "_zh_headline": "面对战争死亡和飙升的通货膨胀，伊朗人陷入绝望",
       "_zh_summary": "崩溃的经济让亲政府和反政府的伊朗人都感到绝望。对于那些希望政权更迭的人来说，失望是显而易见的。",
-      "_added_at": "2026-06-08T05:15:04.326453+00:00"
-    },
-    {
-      "headline": "Trump Defends Compensation Fund and Iran War in ‘Meet the Press’ Interview",
-      "summary": "In a lengthy interview with NBC’s “Meet the Press,” the president again vowed that gas prices would go down when the war in Iran ends.",
-      "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-07T20:19:53+00:00",
-      "_summary": "In a lengthy interview with NBC’s “Meet the Press,” the president again vowed that gas prices would go down when the war in Iran ends.",
-      "_zh_headline": "特朗普在“会见媒体”采访中为赔偿基金和伊朗战争辩护",
-      "_zh_summary": "在接受美国全国广播公司（NBC）“会见媒体”节目的长篇采访时，总统再次发誓，伊朗战争结束后，天然气价格将会下降。",
-      "_added_at": "2026-06-08T05:15:04.326453+00:00"
-    },
-    {
-      "author": "Benzinga Newsdesk",
-      "content": "",
-      "created_at": "2026-06-07T18:25:03Z",
-      "headline": "Nvidia Vera To Use SK Hynix Memory as Stock Surges 220% in 2026",
-      "id": 53049224,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/07/The-modern-Nvidia-logo-and-company-name-_0.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/07/The-modern-Nvidia-logo-and-company-name-_0.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/07/The-modern-Nvidia-logo-and-company-name-_0.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nvidia has selected SK Hynix as the memory chip supplier for its Vera chip, which will see it compete with AMD and Intel",
-      "symbols": [
-        "AMD",
-        "INTC",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QCOM"
-      ],
-      "updated_at": "2026-06-07T18:25:04Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53049224/nvidia-vera-to-use-sk-hynix-memory-as-stock-surges-220-in-2026",
-      "_summary": "Nvidia (NASDAQ: NVDA ) , the biggest company globally, has selected South Korea's SK Hynix to be the memory supplier for its new Vera chip, a move that may supercharge the latter's stock. SK Hynix stock has jumped by 220% this year and by 817% in the last 12 months, making it one of the best gainers globally. Its 1,500% surge in the last five years has helped to transform it into a $1 trillion company. SK Hynix stock five-year performance | Source: TradingView",
-      "_zh_headline": "Nvidia Vera 将使用 SK Hynix 内存 2026 年股价飙升 220%",
-      "_zh_summary": "全球最大的公司英伟达（纳斯达克股票代码：NVDA）已选择韩国SK海力士作为其新型Vera芯片的内存供应商，此举可能会推高后者的股价。 SK 海力士股价今年上涨了 220%，过去 12 个月上涨了 817%，成为全球涨幅最大的股票之一。过去五年中 1,500% 的增长帮助其转型为一家价值 1 万亿美元的公司。 SK海力士股票五年表现|来源：TradingView",
       "_added_at": "2026-06-08T05:15:04.326453+00:00"
     }
   ]
