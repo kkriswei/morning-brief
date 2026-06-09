@@ -2,6 +2,159 @@
   "date": "2026-06-09",
   "articles": [
     {
+      "headline": "Conflicts around the globe hit highest levels since World War II, new report says",
+      "summary": "The new report by the Uppsala Conflict Data Program said the massacres in El Fasher pushed one-sided violence in Africa to its highest levels since the Rwandan genocide in 1994.",
+      "url": "https://www.npr.org/2026/06/09/nx-s1-5849221/conflicts-around-the-globe-hit-highest-levels-since-world-war-ii-new-report-says",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-09T04:44:31-04:00",
+      "_summary": "The new report by the Uppsala Conflict Data Program said the massacres in El Fasher pushed one-sided violence in Africa to its highest levels since the Rwandan genocide in 1994.",
+      "_zh_headline": "新报告称全球冲突达到二战以来最高水平",
+      "_zh_summary": "乌普萨拉冲突数据项目的最新报告称，法希尔的大屠杀将非洲的单边暴力推向了自1994年卢旺达种族灭绝以来的最高水平。",
+      "_added_at": "2026-06-09T16:18:41.020099+00:00"
+    },
+    {
+      "author": "Sam Ro",
+      "content": "",
+      "created_at": "2026-06-09T14:41:09Z",
+      "headline": "Companies Are Cashing In On Consumers' Unwillingness To Bargain Shop",
+      "id": 53089548,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Sam-Ro.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Sam-Ro.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Sam-Ro.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Award-winning Financial writer Sam Ro says &#34;this contradiction helps explain why, despite poor vibes, the economy continues to grow, profit margins continue to expand, and corporate earnings continue to rise.&#34;",
+      "symbols": [],
+      "updated_at": "2026-06-09T14:41:10Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53089548/companies-are-cashing-in-on-this-contradiction",
+      "_summary": "Sentiment surveys confirm that consumers are very aware of rising prices, and they are complaining about them. People hate inflation. Interestingly, inflation hasn't really stopped people from spending. Economic data confirm this . A recent research note from Goldman Sachs highlights studies reflecting these trends. \"After-tax corporate profits as a share of value added have roughly doubled from about 5% in the late 1980s to over 10% recently,\" Goldman economists wrote. \"Over the same period, U.S. firms have substantially raised markups — the amount by which prices exceed the marginal cost of producing goods and services.\" At least some of this trend toward rising markups over the years can be explained by falling costs . Regardless, the point is that what customers are paying increasingly covers much more than the costs. But why hasn't there been more pushback from consumers ?",
+      "_zh_headline": "公司正在利用消费者不愿在商店讨价还价的现象获利",
+      "_zh_summary": "情绪调查证实，消费者非常清楚价格上涨，并且对此有所抱怨。人们讨厌通货膨胀。有趣的是，通货膨胀并没有真正阻止人们消费。经济数据证实了这一点。高盛最近的一份研究报告重点介绍了反映这些趋势的研究。高盛经济学家写道：“税后企业利润占增加值的比例大约翻了一番，从 20 世纪 80 年代末的 5% 左右增至最近的 10% 以上。” “在同一时期，美国公司大幅提高了加价幅度，即价格超过生产商品和服务的边际成本的幅度。”多年来这种加价上涨的趋势至少可以用成本下降来解释。无论如何，关键是客户支付的费用越来越多，远远超出了成本。但为什么消费者没有更多的抵制呢？",
+      "_added_at": "2026-06-09T16:18:41.020099+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-09T15:15:33Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "id": 53091303,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AAOI",
+        "AMD",
+        "APLD",
+        "BMNR",
+        "CRWV",
+        "MRVL",
+        "MSFT",
+        "MU",
+        "SNDK",
+        "WDAY"
+      ],
+      "updated_at": "2026-06-09T15:15:34Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53091303/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-09T16:18:41.020099+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-09T14:29:17Z",
+      "headline": "Micron, Marvell and Arm Stock Charts Flash The Same Warning — One Still Looks Cheap",
+      "id": 53088864,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/US-Revokes-Chip-Production-Permissions-I.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/US-Revokes-Chip-Production-Permissions-I.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/US-Revokes-Chip-Production-Permissions-I.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron, Marvell and Arm are the most stretched chip stocks above their 200-day averages. Only Micron still trades on a cheap valuation as the rally runs.",
+      "symbols": [
+        "ARM",
+        "INTC",
+        "MRVL",
+        "MU",
+        "SOXX"
+      ],
+      "updated_at": "2026-06-09T14:29:17Z",
+      "url": "https://www.benzinga.com/news/26/06/53088864/micron-marvell-arm-most-stretched-semiconductor-stocks",
+      "_summary": "The chip rally that carried U.S. markets to record highs this year has left three of its biggest winners hanging further above trend than anything else in the sector. Marvell trades roughly 250% above its 200-day line. Micron runs about 160% above. Arm sits near 130% and Intel around 113%. SOXX itself trades about 65% above its own 200-day average, down from a peak near 85% in early June.",
+      "_zh_headline": "美光科技、Marvell 和 Arm 股票图表都闪烁着同样的警告——其中一只看起来仍然很便宜",
+      "_zh_summary": "今年芯片股的上涨使美国市场创下了历史新高，这使得其中三个最大的赢家比该行业的其他任何股票都远远高于趋势水平。 Marvell 的股价较 200 日线高出约 250%。美光运行大约160%以上。 Arm 的市场份额接近 130%，英特尔的市场份额约为 113%。 SOXX 本身的交易价格比 200 日平均水平高出约 65%，低于 6 月初接近 85% 的峰值。",
+      "_added_at": "2026-06-09T16:18:41.020099+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-09T14:52:35Z",
+      "headline": "Micron's 750% Surge Just Got Upstaged By These Two Russell 2000 Stocks",
+      "id": 53090106,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Konskie--Poland---August-03--2025-Bloom-.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Konskie--Poland---August-03--2025-Bloom-.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Konskie--Poland---August-03--2025-Bloom-.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bloom Energy and Applied Optoelectronics soared past 1,000% in a year, outrunning Micron&#39;s AI rally. Now Bloom is leaving the Russell 2000.",
+      "symbols": [
+        "AAOI",
+        "BE",
+        "MU"
+      ],
+      "updated_at": "2026-06-09T14:52:36Z",
+      "url": "https://www.benzinga.com/news/26/06/53090106/micron-stock-rally-bloom-energy-applied-optoelectronics-russell-2000",
+      "_summary": "Yet the two biggest winners of the same boom are hiding in the small-cap benchmark, and almost no one is watching. Bloom Energy sells solid oxide fuel cells that deliver on-site power in months, rather than the years it takes to clear a grid interconnection queue. With hyperscalers starved for electricity, that pitch landed a $5 billion Brookfield partnership, a $2.65 billion American Electric Power agreement, and an expanded Oracle deal covering up to 2.8 gigawatts.",
+      "_zh_headline": "美光 750% 的涨幅刚刚被这两只罗素 2000 指数股票抢了风头",
+      "_zh_summary": "然而，同一繁荣时期的两个最大赢家却隐藏在小盘股基准中，几乎没有人在关注。 Bloom Energy 销售的固体氧化物燃料电池可在数月内提供现场电力，而不是清理电网互连队列所需的数年时间。由于超大规模企业对电力的需求旺盛，这次推介获得了价值 50 亿美元的 Brookfield 合作伙伴关系、价值 26.5 亿美元的美国电力公司协议，以及一项涵盖高达 2.8 吉瓦的扩大甲骨文交易。",
+      "_added_at": "2026-06-09T16:18:41.020099+00:00"
+    },
+    {
       "headline": "4 states head to the polls. And, global conflicts are on the rise, new report says",
       "summary": "Voters in four states head to the polls today for their primaries. Here are the races to watch. And, global conflicts are at their highest level since World War II, data shows.",
       "url": "https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts",
