@@ -2,6 +2,219 @@
   "date": "2026-06-09",
   "articles": [
     {
+      "author": "Andrea Unger",
+      "content": "",
+      "created_at": "2026-06-09T17:19:58Z",
+      "headline": "Trading Systems And Market News: How To Handle CPI, FOMC, And Unexpected Events",
+      "id": 53097073,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/F2.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/F2.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/F2.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [],
+      "updated_at": "2026-06-09T17:19:58Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53097073/trading-systems-and-market-news-how-to-handle-cpi-fomc-and-unexpected-events",
+      "_summary": "In systematic trading, the release of macroeconomic data and the publication of major market news represent particularly sensitive periods, as they can rapidly alter volatility, liquidity, market direction, and order book depth. Events such as the U.S. Consumer Price Index (CPI), Non-Farm Payrolls, interest rate decisions, or unexpected news can therefore be both a source of risk and, in some cases, an opportunity. The key question is not whether traders should broadly decide to trade or stay out of the market, but whether a trading system has been specifically designed and validated to operate under those conditions. Different strategies react differently: an intraday system with tight stops may struggle during sudden market swings, while a breakout or trend-following strategy could potentially benefit from them.",
+      "_zh_headline": "交易系统和市场新闻：如何处理 CPI、FOMC 和意外事件",
+      "_zh_summary": "在系统交易中，宏观经济数据的发布和主要市场新闻的发布是特别敏感的时期，因为它们可以迅速改变波动性、流动性、市场方向和订单深度。因此，美国消费者价格指数 (CPI)、非农就业数据、利率决策或意外消息等事件既可能是风险来源，在某些情况下也可能是机遇。关键问题不在于交易者是否应该广泛决定进行交易或远离市场，而是交易系统是否经过专门设计和验证，可以在这些条件下运行。不同的策略反应不同：具有严格止损的日内系统可能会在市场突然波动时陷入困境，而突破或趋势跟踪策略可能会从中受益。",
+      "_added_at": "2026-06-09T18:31:48.716372+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-09T17:26:33Z",
+      "headline": "Nasdaq 100 Tumbles Over 3%, Marvell Crashes 12%: Stock Market Today",
+      "id": 53097400,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Nasdaq 100 sank 3.3% Tuesday as AI and optical stocks cratered, while cash rotated into real estate, staples and utilities and oil slid more than 5%",
+      "symbols": [
+        "AMD",
+        "AVGO",
+        "COHR",
+        "DIA",
+        "DKNG",
+        "ENPH",
+        "FDXF",
+        "GSK",
+        "IWM",
+        "LITE",
+        "MRVL",
+        "MU",
+        "NUVL",
+        "ORCL",
+        "POOL",
+        "QQQ",
+        "SAIL",
+        "SJM",
+        "SMCI",
+        "SMH",
+        "SN",
+        "VOO",
+        "XLE",
+        "XLK"
+      ],
+      "updated_at": "2026-06-09T17:26:34Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53097400/nasdaq-100-craters-marvell-sinks-ai-rally-at-risk-markets-tuesday",
+      "_summary": "U.S. stocks slid Tuesday as the rotation out of high-flying chip and artificial-intelligence names resumed, dragging the Nasdaq 100 down over 3% and pulling the S&P 500 back below 7,300. • iShares Russell 2000 Index Fund shares are experiencing downward pressure. Why are IWM shares declining? A parallel collapse in oil prices — crude sank roughly 6% as Israel and Iran halted strikes — did little to steady equities ahead of Wednesday’s pivotal consumer price report.",
+      "_zh_headline": "纳斯达克 100 指数跌幅超过 3%，Marvell 暴跌 12%：今日股市",
+      "_zh_summary": "随着芯片和人工智能公司重新开始轮动，美国股市周二下跌，拖累纳斯达克 100 指数下跌超过 3%，并将标准普尔 500 指数拉回 7,300 点下方。 • iShares Russell 2000 指数基金股票正面临下行压力。为何IWM股价下跌？在周三关键的消费者物价报告公布之前，油价的同步暴跌——随着以色列和伊朗停止罢工，原油价格下跌了约 6%——对稳定股市几乎没有作用。",
+      "_added_at": "2026-06-09T18:31:48.716372+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-06-09T18:11:25Z",
+      "headline": "Bad News For Bulls: BTIG Nailed Tuesday's Nasdaq Selloff",
+      "id": 53098970,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Red-Arrow-And-Falling-Financial-Charts-O.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Red-Arrow-And-Falling-Financial-Charts-O.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Red-Arrow-And-Falling-Financial-Charts-O.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "History stacks against Nasdaq bulls as the index breaks below Friday&#39;s low in Tuesday&#39;s session. MRVL, AMD, INTC, MU and AVGO all down.",
+      "symbols": [
+        "AMAT",
+        "AMD",
+        "AVGO",
+        "INTC",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-09T18:11:26Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53098970/bad-news-for-bulls-btig-nailed-tuesdays-nasdaq-selloff",
+      "_summary": "Just one trading day after BTIG flagged that history was stacked against Nasdaq bulls, the index made good on that prediction — breaking below its Friday intraday low before Tuesday’s session was even half over. The Nasdaq Composite sliced through the 25,648.47 intraday floor set during Friday’s brutal chip-driven rout, touching 24,980.38 on Tuesday.",
+      "_zh_headline": "对多头来说坏消息：BTIG 周二纳斯达克抛售",
+      "_zh_summary": "就在 BTIG 表示历史对纳斯达克多头不利的一个交易日后，该指数就兑现了这一预测——在周二交易时段过半之前就跌破了周五盘中低点。纳斯达克综合指数突破了周五芯片驱动的残酷暴跌期间设定的盘中最低点 25,648.47 点，周二触及 24,980.38 点。",
+      "_added_at": "2026-06-09T18:31:48.716372+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-06-09T16:41:09Z",
+      "headline": "Tech Stocks' Relief Rally Crumbles: SOXL Craters 15%, AMD Sheds 6% As Recovery Fizzles",
+      "id": 53095242,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Close-Up-Of-Stock-Market-Candlestick-Cha.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Close-Up-Of-Stock-Market-Candlestick-Cha.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Close-Up-Of-Stock-Market-Candlestick-Cha.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The relief rally in tech stocks crumbles on Tuesday, as chip stocks plummet with AMD and SOXL among biggest losers.",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AMZN",
+        "AVGO",
+        "GOOGL",
+        "INTC",
+        "META",
+        "MSFT",
+        "MU",
+        "NOW",
+        "NVDA",
+        "QCOM",
+        "SOXL",
+        "SQQQ",
+        "TQQQ",
+        "TSLA"
+      ],
+      "updated_at": "2026-06-09T16:41:10Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53095242/tech-stocks-relief-rally-crumbles-soxl-amd-fall",
+      "_summary": "A brief morning pop in technology stocks evaporated Tuesday, leaving chip names and leveraged ETFs deep in the red as sellers reasserted control and snuffed out any hope of a sustained recovery. The intraday pattern was unmistakable — an early bounce, a rejection at resistance and a hard fade that accelerated into midday. Some experts pointed to a rotation out of tech stocks as investors gather capital ahead of SpaceX's market debut on Friday.",
+      "_zh_headline": "科技股的救济反弹崩溃：SOXL Craters 15%，AMD 因复苏失败而下跌 6%",
+      "_zh_summary": "周二上午，科技股的短暂上涨消失殆尽，导致芯片股和杠杆 ETF 大幅亏损，因为卖家重新掌控了控制权，并扼杀了持续复苏的希望。盘中模式是明确无误的——早期反弹，阻力位被拒绝，以及加速到中午的硬性衰退。一些专家指出，随着投资者在 SpaceX 周五上市之前筹集资金，科技股将会轮流退出。",
+      "_added_at": "2026-06-09T18:31:48.716372+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-09T17:35:24Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "id": 53097686,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "MRVL",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "ONDS",
+        "TSM",
+        "U",
+        "WOLF"
+      ],
+      "updated_at": "2026-06-09T17:35:25Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53097686/10-information-technology-stocks-whale-activity-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-09T18:31:48.716372+00:00"
+    },
+    {
       "headline": "Conflicts around the globe hit highest levels since World War II, new report says",
       "summary": "The new report by the Uppsala Conflict Data Program said the massacres in El Fasher pushed one-sided violence in Africa to its highest levels since the Rwandan genocide in 1994.",
       "url": "https://www.npr.org/2026/06/09/nx-s1-5849221/conflicts-around-the-globe-hit-highest-levels-since-world-war-ii-new-report-says",
@@ -416,77 +629,6 @@
       "_summary": "The BBC’s North America Editor Sarah Smith spoke with President Donald Trump in a brief phone call on Monday about his conversations with Israeli Prime Minister Benjamin Netanyahu leading up to strikes on Iran. When asked if Netanyahu defied him by firing at Iran on Sunday, Trump said the missiles were “already on their way” when he spoke with the Israeli prime minister. He added, “if I tell him to do something, he does it.” The call lasted just under a minute. The BBC's international editor, Jeremy Bowen, said the public are \"right to be worried\" as the consequences of the war will be felt for generations. BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh. One person was killed and more than 60 injured in the Iranian drone strike on Wednesday. Verified videos show strikes on densely populated neighbourhoods in southern Lebanon.",
       "_zh_headline": "观看：特朗普告诉 BBC 内塔尼亚胡并没有违抗他",
       "_zh_summary": "英国广播公司北美编辑莎拉·史密斯周一与唐纳德·特朗普总统进行了简短的电话交谈，谈论了他与以色列总理本杰明·内塔尼亚胡在袭击伊朗之前的谈话。当被问及内塔尼亚胡是否违抗他周日向伊朗开火时，特朗普表示，当他与以色列总理交谈时，导弹“已经在路上”。他补充道，“如果我告诉他做某事，他就会做。”通话持续了不到一分钟。英国广播公司(BBC)国际编辑杰里米·鲍文(Jeremy Bowen)表示，公众“担心是有道理的”，因为战争的后果将影响几代人。 BBC 记者约翰·萨德沃斯 (John Sudworth) 从贝鲁特支持真主党的大本营达希 (Dahieh) 进行报道。周三，伊朗无人机袭击造成 1 人死亡、60 多人受伤。经核实的视频显示，黎巴嫩南部人口稠密的社区遭到袭击。",
-      "_added_at": "2026-06-09T05:49:54.008676+00:00"
-    },
-    {
-      "headline": "Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud",
-      "summary": "The president is using the slow count of mail ballots in California to renew his effort to cast doubt on election outcomes he doesn’t like, despite a lack of evidence of any widespread fraud.",
-      "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-09T01:03:43+00:00",
-      "_summary": "The president is using the slow count of mail ballots in California to renew his effort to cast doubt on election outcomes he doesn’t like, despite a lack of evidence of any widespread fraud.",
-      "_zh_headline": "特朗普预览秋季战略，毫无根据地指控加州选举舞弊",
-      "_zh_summary": "总统正在利用加州邮寄选票的缓慢清点来重新努力对他不喜欢的选举结果提出质疑，尽管缺乏证据表明存在任何普遍的欺诈行为。",
-      "_added_at": "2026-06-09T05:49:54.008676+00:00"
-    },
-    {
-      "headline": "Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run",
-      "summary": "Nithya Raman, a progressive Democrat who entered the mayoral race at the last minute, secured the second spot to face Mayor Karen Bass in November. Her comeback sets up an intraparty battle.",
-      "url": "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-09T02:06:16+00:00",
-      "_summary": "Nithya Raman, a progressive Democrat who entered the mayoral race at the last minute, secured the second spot to face Mayor Karen Bass in November. Her comeback sets up an intraparty battle.",
-      "_zh_headline": "尼西亚·拉曼 (Nithya Raman) 获得第二个洛杉矶市长职位，结束斯宾塞·普拉特 (Spencer Pratt) 的竞选",
-      "_zh_summary": "Nithya Raman，一位在最后一刻参加市长竞选的进步民主党人，在 11 月份与市长 Karen Bass 争夺第二名。她的复出引发了一场党内斗争。",
-      "_added_at": "2026-06-09T05:49:54.008676+00:00"
-    },
-    {
-      "headline": "San Francisco Voters Appear to Reject Tax Hike on Highly Paid C.E.O.s",
-      "summary": "The proposal was seen as a possible measure of how residents felt about the recent flood of money into the city as a result of the A.I. boom.",
-      "url": "https://www.nytimes.com/2026/06/08/us/politics/san-francisco-tax-proposition-d.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-09T02:07:55+00:00",
-      "_summary": "The proposal was seen as a possible measure of how residents felt about the recent flood of money into the city as a result of the A.I. boom.",
-      "_zh_headline": "旧金山选民似乎拒绝对高薪首席执行官加税",
-      "_zh_summary": "该提案被视为衡量居民对最近人工智能带来的大量资金涌入该市的感受的一个可能措施。繁荣。",
-      "_added_at": "2026-06-09T05:49:54.008676+00:00"
-    },
-    {
-      "author": "Opeyemi Babalola",
-      "content": "",
-      "created_at": "2026-06-08T20:25:58Z",
-      "headline": "Nvidia: Why Jensen Huang's Buy The Sell-off Remark Is A Grounded Structural Argument",
-      "id": 53074015,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Nvidia-office-building--Taipei--Taiwan-.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Nvidia-office-building--Taipei--Taiwan-.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Nvidia-office-building--Taipei--Taiwan-.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nvidia CEO Jensen Huang called the tech selloff a buying opportunity on June 8. Here is what that means for investors.",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SMH",
-        "SOXX"
-      ],
-      "updated_at": "2026-06-08T20:25:58Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/53074015/nvidia-why-jensen-huangs-buy-the-sell-off-remark-is-a-grounded-structural-argument",
-      "_summary": "Huang's buying-opportunity call is not a forecast. It is a structural argument grounded in revenue acceleration, supply chain deepening, and a product cycle that is only beginning to ramp. The macro risk is real. Stronger jobs data and a hawkish Fed are not trivial headwinds for a stock trading at elevated multiples. However, investors separating noise from signal will note that Nvidia's fundamentals have not deteriorated.",
-      "_zh_headline": "英伟达：为什么黄仁勋的买入抛售言论是有根据的结构性论点",
-      "_zh_summary": "黄的买入机会呼吁并非预测。这是一个结构性论点，其基础是收入加速、供应链深化以及刚刚开始加速的产品周期。宏观风险是真实存在的。对于市盈率较高的股票来说，强劲的就业数据和鹰派的美联储并不是微不足道的阻力。然而，将噪音与信号分开的投资者会注意到，英伟达的基本面并未恶化。",
       "_added_at": "2026-06-09T05:49:54.008676+00:00"
     }
   ]
