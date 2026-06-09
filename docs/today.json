@@ -2,6 +2,125 @@
   "date": "2026-06-09",
   "articles": [
     {
+      "headline": "4 states head to the polls. And, global conflicts are on the rise, new report says",
+      "summary": "Voters in four states head to the polls today for their primaries. Here are the races to watch. And, global conflicts are at their highest level since World War II, data shows.",
+      "url": "https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-09T07:19:43-04:00",
+      "_summary": "Israel and Iran committed yesterday to stop attacking each other, just hours after exchanging missile fire and heightening tensions across the Middle East. Even with this pledge, both countries cited conditions that could lead to renewed hostilities . Israeli Defense Minister Israel Katz said that troops would continue operations against the militant group Hezbollah in Lebanon. Iran said that Israel's operations against Hezbollah prompted its missile strikes on Israel, first on Sunday night and again on Monday morning. Iran's military said it was halting further actions for now, but warned that if Israel kept up attacks in Lebanon, it would retaliate with \"much harsher and more forceful actions than before.\" A man looks at the wreckage of an Iranian missile that landed near the West Bank city of Jericho on Monday. Mahmoud Illean/AP hide caption",
+      "_zh_headline": "4个州即将举行投票。新报告称，全球冲突正在加剧",
+      "_zh_summary": "以色列和伊朗昨天承诺停止相互攻击，就在几小时前，双方进行了导弹交火，中东地区的紧张局势加剧。即使做出了这一承诺，两国都列举了可能导致新的敌对行动的条件。以色列国防部长以色列·卡茨表示，部队将继续对黎巴嫩境内的激进组织真主党采取行动。伊朗表示，以色列针对真主党的行动促使其对以色列进行导弹袭击，首先是在周日晚上，然后是在周一早上。伊朗军方表示，暂时停止进一步行动，但警告称，如果以色列继续对黎巴嫩发动袭击，它将以“比以前更严厉、更有力的行动”进行报复。一名男子正在查看周一落在约旦河西岸城市杰里科附近的伊朗导弹残骸。马哈茂德·伊利安/美联社隐藏标题栏",
+      "_added_at": "2026-06-09T13:24:59.258901+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-09T12:56:36Z",
+      "headline": "Why Is Intel Stock Gaining Tuesday?",
+      "id": 53083824,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Intel-Corporation.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Intel-Corporation.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Intel-Corporation.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel stock climbs premarket on reports of a massive Google AI chip order and packaging tests with Nvidia. Read the details.",
+      "symbols": [
+        "GOOGL",
+        "INTC",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "SNDK",
+        "SOXX",
+        "TSM"
+      ],
+      "updated_at": "2026-06-09T12:56:37Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53083824/why-is-intel-stock-gaining-tuesday",
+      "_summary": "The same report positioned Intel as a potential backup chipmaker for hyperscalers and AI leaders who look to diversify supply. Partsinevelos said Google reportedly placed an order with Intel for more than 3 million AI chips for 2028. She said NVIDIA has not placed an order but is actively testing Intel’s technology, making the story an ongoing catalyst for Intel shares. Partsinevelos said Intel’s move came as chip stocks rebounded from last week’s selloff.",
+      "_zh_headline": "为什么英特尔股票周二上涨？",
+      "_zh_summary": "同一份报告将英特尔定位为寻求供应多元化的超大规模企业和人工智能领导者的潜在备用芯片制造商。 Partsinevelos 表示，据报道，谷歌向英特尔订购了 2028 年超过 300 万颗 AI 芯片。她表示，NVIDIA 尚未下订单，但正在积极测试英特尔的技术，这使得该消息成为英特尔股价的持续催化剂。 Partsinevelos 表示，英特尔此举之际，芯片股从上周的抛售中反弹。",
+      "_added_at": "2026-06-09T13:24:59.258901+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-09T12:40:14Z",
+      "headline": "Worse Than Dot-Com Bubble? US Market Valuation Hits Record 238% Of GDP",
+      "id": 53083450,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Financial-Market-Bubble-Concept-And-Over.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Financial-Market-Bubble-Concept-And-Over.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Financial-Market-Bubble-Concept-And-Over.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "US stock market valuation hits a record 238% of GDP. At $75.7 trillion, learn why current asset prices now dwarf the 2000 dot-com bubble.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-09T12:40:15Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53083450/worse-than-dot-com-bubble-us-market-valuation-hits-record-238-of-gdp",
+      "_summary": "According to market data from MacroMicro and shared by the Kobeissi Letter, the total value of the U.S.",
+      "_zh_headline": "比互联网泡沫更糟糕？美国市场估值创历史新高，占 GDP 的 238%",
+      "_zh_summary": "根据MacroMicro和Kobeissi Letter分享的市场数据，美国的总价值",
+      "_added_at": "2026-06-09T13:24:59.258901+00:00"
+    },
+    {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-06-09T12:42:36Z",
+      "headline": "The 3% Delusion: New CBO Data Exposes The Hole In Trump's Fiscal Pledges",
+      "id": 53083515,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/January-16--2025---Washington-Dc-The-Sen_1.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/January-16--2025---Washington-Dc-The-Sen_1.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/January-16--2025---Washington-Dc-The-Sen_1.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Treasury Sec. Scott Bessent pledged a 3% GDP deficit, but CBO data shows the math doesn&#39;t add up. Read how policy clashes with reality.",
+      "symbols": [
+        "IVV",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-06-09T12:42:37Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53083515/the-3-delusion-new-cbo-data-exposes-the-hole-in-trumps-fiscal-pledges",
+      "_summary": "Treasury Secretary Scott Bessent has made a simple promise with complicated arithmetic. Appearing before both the Senate Finance Committee and the House Ways and Means Committee, Bessent endorsed a bipartisan effort to reduce the federal deficit to 3% of gross domestic product (GDP) by the end of President Donald Trump's term.",
+      "_zh_headline": "3%的错觉：国会预算办公室的新数据暴露了特朗普财政承诺中的漏洞",
+      "_zh_summary": "财政部长斯科特·贝森特用复杂的算术做出了一个简单的承诺。贝森特在参议院财政委员会和众议院筹款委员会出席会议时，支持两党共同努力，在唐纳德·特朗普总统任期结束前将联邦赤字减少至国内生产总值 (GDP) 的 3%。",
+      "_added_at": "2026-06-09T13:24:59.258901+00:00"
+    },
+    {
       "headline": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
       "summary": "Crew members of the unladen tanker had sent distress messages saying the vessel was on fire and sinking.",
       "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
