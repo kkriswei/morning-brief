@@ -2,6 +2,54 @@
   "date": "2026-06-08",
   "articles": [
     {
+      "headline": "Watch: Trump tells BBC Netanyahu did not defy him",
+      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-08T22:34:25+00:00",
+      "_summary": "The BBC’s North America Editor Sarah Smith spoke with President Donald Trump in a brief phone call on Monday about his conversations with Israeli Prime Minister Benjamin Netanyahu leading up to strikes on Iran. When asked if Netanyahu defied him by firing at Iran on Sunday, Trump said the missiles were “already on their way” when he spoke with the Israeli prime minister. He added, “if I tell him to do something, he does it.” The call lasted just under a minute. The BBC's international editor, Jeremy Bowen, said the public are \"right to be worried\" as the consequences of the war will be felt for generations. BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh. One person was killed and more than 60 injured in the Iranian drone strike on Wednesday. Verified videos show strikes on densely populated neighbourhoods in southern Lebanon.",
+      "_zh_headline": "观看：特朗普告诉 BBC 内塔尼亚胡并没有违抗他",
+      "_zh_summary": "英国广播公司北美编辑莎拉·史密斯周一与唐纳德·特朗普总统进行了简短的电话交谈，谈论了他与以色列总理本杰明·内塔尼亚胡在袭击伊朗之前的谈话。当被问及内塔尼亚胡是否违抗他周日向伊朗开火时，特朗普表示，当他与以色列总理交谈时，导弹“已经在路上”。他补充道，“如果我告诉他做某事，他就会做。”通话持续了不到一分钟。英国广播公司(BBC)国际编辑杰里米·鲍文(Jeremy Bowen)表示，公众“担心是有道理的”，因为战争的后果将影响几代人。 BBC 记者约翰·萨德沃斯 (John Sudworth) 从贝鲁特支持真主党的大本营达希 (Dahieh) 进行报道。周三，伊朗无人机袭击造成 1 人死亡、60 多人受伤。经核实的视频显示，黎巴嫩南部人口稠密的社区遭到袭击。",
+      "_added_at": "2026-06-09T01:28:16.147843+00:00"
+    },
+    {
+      "headline": "Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud",
+      "summary": "The president is using the slow count of mail ballots in California to renew his effort to cast doubt on election outcomes he doesn’t like, despite a lack of evidence of any widespread fraud.",
+      "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-09T01:03:43+00:00",
+      "_summary": "The president is using the slow count of mail ballots in California to renew his effort to cast doubt on election outcomes he doesn’t like, despite a lack of evidence of any widespread fraud.",
+      "_zh_headline": "特朗普预览秋季战略，毫无根据地指控加州选举舞弊",
+      "_zh_summary": "总统正在利用加州邮寄选票的缓慢清点来重新努力对他不喜欢的选举结果提出质疑，尽管缺乏证据表明存在任何普遍的欺诈行为。",
+      "_added_at": "2026-06-09T01:28:16.147843+00:00"
+    },
+    {
+      "headline": "Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run",
+      "summary": "Nithya Raman, a progressive Democrat who entered the mayoral race at the last minute, secured the second spot to face Mayor Karen Bass in November. Her comeback sets up an intraparty battle.",
+      "url": "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-09T00:07:28+00:00",
+      "_summary": "Nithya Raman, a progressive Democrat who entered the mayoral race at the last minute, secured the second spot to face Mayor Karen Bass in November. Her comeback sets up an intraparty battle.",
+      "_zh_headline": "尼西亚·拉曼 (Nithya Raman) 获得第二个洛杉矶市长职位，结束斯宾塞·普拉特 (Spencer Pratt) 的竞选",
+      "_zh_summary": "Nithya Raman，一位在最后一刻参加市长竞选的进步民主党人，在 11 月份与市长 Karen Bass 争夺第二名。她的复出引发了一场党内斗争。",
+      "_added_at": "2026-06-09T01:28:16.147843+00:00"
+    },
+    {
+      "headline": "A Timeline of Donald Trump and Lindsey Graham’s Relationship Before the South Carolina Primary",
+      "summary": "Once one of President Trump’s fiercest critics, the South Carolina senator has dramatically shifted his posture over the years. Will it pay off on Tuesday in his primary?",
+      "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-08T23:24:17+00:00",
+      "_summary": "Once one of President Trump’s fiercest critics, the South Carolina senator has dramatically shifted his posture over the years. Will it pay off on Tuesday in his primary?",
+      "_zh_headline": "唐纳德·特朗普和林赛·格雷厄姆在南卡罗来纳州初选前关系的时间表",
+      "_zh_summary": "这位南卡罗来纳州参议员曾经是特朗普总统最激烈的批评者之一，但多年来他的态度发生了巨大的转变。周二的初选会得到回报吗？",
+      "_added_at": "2026-06-09T01:28:16.147843+00:00"
+    },
+    {
       "headline": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
       "summary": "President Trump is grappling with his own version of the sort of Middle East crisis that beset his predecessors, and that he promised to avoid.",
       "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
@@ -430,130 +478,6 @@
       "_summary": "As the war in Iran persists, signs point to a prolonged period of higher prices and slower growth rather than a quick shock.",
       "_zh_headline": "欧洲眼睁睁看着经济复苏渐行渐远",
       "_zh_summary": "随着伊朗战争的持续，有迹象表明价格上涨和增长放缓将长期存在，而不是快速冲击。",
-      "_added_at": "2026-06-08T10:06:12.783058+00:00"
-    },
-    {
-      "headline": "Israel and Iran exchange missile fire threatening Middle East truce",
-      "summary": "The exchange marked a major escalation in the already tense region. It came on the 100th day of the U.S. and Israel's war with Iran as the heightened tensions further complicated efforts to end Middle East fighting.",
-      "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-08T00:23:36-04:00",
-      "_summary": "Israeli security forces examine a fragment of an intercepted Iranian missile in northern Israel, early Monday, June 8, 2026. Rami Shlush/AP hide caption TEL AVIV — Israel and Iran exchanged missile fire in the first such attacks between the two bitter rivals since a Middle East ceasefire was declared two months ago. The exchange marked a major escalation in the already tense region. But this was only part of increased military action in recent days that has also included the U.S., several Arab Gulf countries and the militant Lebanese group Hezbollah. All the shooting has further complicated efforts to end the war in Iran, which began on Feb. 28 and marked its 100th day on Monday. President Trump says an agreement is within reach — a claim he has made repeatedly in recent weeks. \"We are very close to a final deal with Iran. It's is going to be a good deal. I don't want it to blow up because of what is happening now,\" Trump told Axios on Sunday.",
-      "_zh_headline": "以色列和伊朗导弹交火威胁中东停战",
-      "_zh_summary": "2026 年 6 月 8 日星期一早些时候，以色列安全部队在以色列北部检查了一枚被拦截的伊朗导弹碎片。 Rami Shlush/美联社隐藏标题栏特拉维夫——以色列和伊朗之间发生了导弹交火，这是自两个月前宣布中东停火以来这两个宿敌之间的首次此类袭击。此次交锋标志着本已紧张的地区局势进一步升级。但这只是最近几天增加的军事行动的一部分，其中还包括美国、几个阿拉伯海湾国家和黎巴嫩激进组织真主党。所有枪击事件使结束伊朗战争的努力变得更加复杂。这场战争于 2 月 28 日开始，并于周一迎来了第 100 天。特朗普总统表示达成协议是指日可待的——他最近几周多次重申这一说法。 “我们非常接近与伊朗达成最终协议。这将是一项很好的协议。我不希望它因为现在发生的事情而破裂，”特朗普周日告诉 Axios。",
-      "_added_at": "2026-06-08T10:06:12.783058+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-08T09:32:25Z",
-      "headline": "Stock Market Today: Dow Jones Futures Fall, S&P 500 Gains As Israel, Iran Exchange Missile Strikes—SK Telecom, Nebius, AMD In Focus",
-      "id": 53051690,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Wall-Street.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Wall-Street.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Wall-Street.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were mixed on Monday, as the Nasdaq 100 and S&amp;P 500 indices gained, and the Dow Jones index fell, following Thursday’s sharp declines.",
-      "symbols": [
-        "AMD",
-        "BTCUSD",
-        "INGR",
-        "NBIS",
-        "NVDA",
-        "QQQ",
-        "RSKD",
-        "SKM",
-        "SPY"
-      ],
-      "updated_at": "2026-06-08T09:32:25Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53051690/stock-market-today-dow-jones-futures-fall-sp-500-gains-as-israel-iran-exchange-missile-strikes-sk-telecom-nebius-amd-in-focus",
-      "_summary": "U.S. stock futures were mixed on Monday, as the Nasdaq 100 and S&P 500 indices gained, and the Dow Jones index fell, following Thursday’s sharp declines. Additionally, this week, investors will be eyeing May’s CPI and PPI data. Meanwhile, the 10-year Treasury bond yielded 4.58%, and the two-year bond was at 4.19%. The CME Group's FedWatch tool ‘s projections show markets pricing a 98% likelihood of the Federal Reserve leaving the current interest rates unchanged during June’s meeting.",
-      "_zh_headline": "今日股市：道琼斯期货下跌，标准普尔 500 指数上涨，因以色列、伊朗交易所导弹袭击——SK Telecom、Nebius、AMD 成为焦点",
-      "_zh_summary": "周一美国股指期货涨跌互现，纳斯达克 100 指数和标准普尔 500 指数上涨，道琼斯指数继周四大幅下跌后下跌。此外，本周投资者将关注5月份的CPI和PPI数据。与此同时，10年期国债收益率为4.58%，两年期国债收益率为4.19%。 CME 集团的 FedWatch 工具的预测显示，市场定价美联储在 6 月会议期间维持当前利率不变的可能性为 98%。",
-      "_added_at": "2026-06-08T10:06:12.783058+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-08T06:17:28Z",
-      "headline": "S&P 500 Just Triggered A Signal That Has Never Failed Since 1950—Ryan Detrick Says 'My Oh My'",
-      "id": 53050315,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/SP-500-Set-To-Surge-Like-Never-Before-Be.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/SP-500-Set-To-Surge-Like-Never-Before-Be.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/SP-500-Set-To-Surge-Like-Never-Before-Be.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "S&amp;P 500 triggers a flawless bull signal. Ryan Detrick utters &#39;My oh my&#39; as data shows stocks never lower a year later with 40% average gains.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-06-08T07:01:01Z",
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/53050315/sp-500-just-triggered-a-signal-that-has-never-failed-since-1950-ryan-detrick-says-my-oh-my",
-      "_summary": "A two-month surge in the S&P 500 index , which was followed by a 2.64% decline on Friday, has triggered a rare, historically flawless bullish signal that could point to massive stock market gains over the next year. The S&P 500 recently logged an explosive advance, climbing more than 19% within a two-month window. Carson Group Chief Market Strategist Ryan Detrick said in an X post that “The S&P 500 just had one of the best two-month rallies ever, as it was up 19.5% in two months on 5/29/06.”",
-      "_zh_headline": "标准普尔 500 指数刚刚触发了一个自 1950 年以来从未失败过的信号——瑞安·德特里克 (Ryan Detrick) 表示“天哪”",
-      "_zh_summary": "标准普尔 500 指数连续两个月飙升，随后周五下跌 2.64%，引发了罕见的、历史上完美的看涨信号，可能预示着明年股市将大幅上涨。标准普尔 500 指数最近出现爆炸式上涨，两个月内上涨了 19% 以上。卡森集团首席市场策略师 Ryan Detrick 在 X 帖子中表示，“标准普尔 500 指数刚刚经历了有史以来最好的两个月反弹之一，2006 年 5 月 29 日两个月内上涨了 19.5%。”",
-      "_added_at": "2026-06-08T10:06:12.783058+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-08T09:52:57Z",
-      "headline": "Is Gold Losing Its Hedge — When Safe Havens Fail, What's Left?",
-      "id": 53051908,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Image-Of-Gold-Bullion-And-Gold-Coins.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Image-Of-Gold-Bullion-And-Gold-Coins.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/08/Image-Of-Gold-Bullion-And-Gold-Coins.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gold faces a ultimate test as prices drop 4.3% in June. Is the yellow metal losing its status as the market&#39;s top safe haven?",
-      "symbols": [
-        "BITO",
-        "BSV",
-        "GDX",
-        "GDXJ",
-        "GLD",
-        "IAU",
-        "TIP"
-      ],
-      "updated_at": "2026-06-08T09:52:58Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/53051908/is-gold-losing-its-hedge-when-safe-havens-fail-whats-left",
-      "_summary": "Gold’s reputation as the market’s ultimate safe haven is facing one of its toughest tests in recent times. Since the beginning of June, the yellow metal is down by over 4.3%, hitting an intraday low of $4,268.9 per ounce on Monday. The decline is the aftermath of a stronger-than-expected U.S. nonfarm payrolls report that reignited expectations for higher interest rates. Overall, it is a dramatic round trip for bullion, erasing the entire year’s gain.",
-      "_zh_headline": "黄金正在失去其避险功能——当避风港失效时，还剩下什么？",
-      "_zh_summary": "黄金作为市场终极避风港的声誉正面临近年来最严峻的考验之一。自 6 月初以来，黄金已下跌超过 4.3%，周一触及每盎司 4,268.9 美元的盘中低点。此次下跌是由于强于预期的美国非农就业报告重新引发了对加息的预期。总体而言，这对金条来说是一次戏剧性的往返，抹去了全年的涨幅。",
       "_added_at": "2026-06-08T10:06:12.783058+00:00"
     }
   ]
