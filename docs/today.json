@@ -2,6 +2,214 @@
   "date": "2026-06-10",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-10T17:13:55Z",
+      "headline": "Oil Jumps On Iran Strikes, Nasdaq 100 Falls On Hot Inflation: Stock Market Today",
+      "id": 53124067,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Oil-Pump-Jacks-And-Refinery-Silhouettes-_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Oil-Pump-Jacks-And-Refinery-Silhouettes-_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Oil-Pump-Jacks-And-Refinery-Silhouettes-_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Oil surged and gold tumbled as renewed U.S.-Iran strikes hit the Gulf, while a tech selloff and a hot 4.2% CPI dragged Wall Street lower.",
+      "symbols": [
+        "AA",
+        "AVGO",
+        "CASY",
+        "DIA",
+        "DUOL",
+        "DVN",
+        "ELF",
+        "GDX",
+        "GNRC",
+        "IWM",
+        "JETS",
+        "LAZ",
+        "MU",
+        "MUSA",
+        "QQQ",
+        "SMCI",
+        "SMH",
+        "SMMT",
+        "TAN",
+        "VOO",
+        "XLE",
+        "XLI",
+        "XLK",
+        "XLY",
+        "XOP"
+      ],
+      "updated_at": "2026-06-10T17:13:56Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53124067/oil-jumps-iran-strikes-tech-rout-drags-stocks-cpi-4-2-percent-markets-wednesday",
+      "_summary": "West Texas Intermediate crude climbed 3.3% to around $91.07 a barrel, while Brent rose 2.9% to roughly $94.10. On Wall Street, losses were broad-based but concentrated in technology, as concerns over elevated AI-related valuations resurfaced. The S&P 500 fell 0.9% to 7,319.63, while the Dow Jones Industrial Average dropped about 592 points, or 1.2%, to 50,280. The Nasdaq 100 was the day’s laggard, sliding 1.4% to 28,670. The small-cap Russell 2000 proved more resilient, slipping just 0.3% to 2,858.65.",
+      "_zh_headline": "伊朗罢工导致石油价格上涨，通胀加剧导致纳斯达克 100 指数下跌：今日股市",
+      "_zh_summary": "西德克萨斯中质原油上涨 3.3%，至每桶 91.07 美元左右，布伦特原油上涨 2.9%，至每桶 94.10 美元左右。在华尔街，损失广泛，但主要集中在科技领域，因为对人工智能相关估值上升的担忧重新浮现。标准普尔 500 指数下跌 0.9%，至 7,319.63 点；道琼斯工业平均指数下跌约 592 点，即 1.2%，至 50,280 点。纳斯达克 100 指数当天表现落后，下跌 1.4%，至 28,670 点。 事实证明，小盘股罗素 2000 指数更具弹性，仅下跌 0.3%，至 2,858.65 点。",
+      "_added_at": "2026-06-10T18:14:29.001169+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-10T16:27:28Z",
+      "headline": "What Is Going On With Arm Stock On Wednesday?",
+      "id": 53122333,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Arms-Us-Headquarters-In-San-Jose--Califo.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Arms-Us-Headquarters-In-San-Jose--Califo.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Arms-Us-Headquarters-In-San-Jose--Califo.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Arm Holdings (ARM) stock slipped 4.46% to $310.79 on Wednesday as a routine wave of broad-market profit-taking swept through the semiconductor sector. E",
+      "symbols": [
+        "AIPI",
+        "ARM",
+        "FPXI",
+        "NVDA",
+        "ORCL",
+        "QQQ",
+        "SMHX",
+        "SOXX",
+        "SPY"
+      ],
+      "updated_at": "2026-06-10T16:27:29Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53122333/what-is-going-on-with-arm-stock-on-wednesday-2",
+      "_summary": "Arm Holdings Plc (NASDAQ: ARM ) stock slid on Wednesday as investors took profits across the semiconductor sector and reacted to broader macro pressures, rather than company-specific negative news. Arm has gained over 190% year-to-date, topping the S&P 500’s 8% and the NASDAQ 100’s 16% returns. Arm CEO Rene Haas said U.S. restrictions on AI CPU exports to China would be difficult to enforce because CPUs are widely used across many applications and cannot easily be tied to AI workloads .",
+      "_zh_headline": "周三 Arm 股票怎么样？",
+      "_zh_summary": "Arm Holdings Plc（纳斯达克股票代码：ARM）股价周三下跌，原因是投资者在整个半导体行业获利了结，并对更广泛的宏观压力做出了反应，而不是针对公司特定的负面消息。今年迄今为止，Arm 的回报率已超过 190%，超过标准普尔 500 指数 8% 的回报率和纳斯达克 100 指数 16% 的回报率。 Arm 首席执行官雷内·哈斯 (Rene Haas) 表示，美国对向中国出口 AI CPU 的限制将很难执行，因为 CPU 广泛用于许多应用程序，并且不能轻易与 AI 工作负载挂钩。",
+      "_added_at": "2026-06-10T18:14:29.001169+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-10T16:18:56Z",
+      "headline": "Qualcomm Slips, Shorter-Term Momentum Cools From Roller Coaster AI Highs",
+      "id": 53122093,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Snapdragon-8-Elite-Gen-5.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Snapdragon-8-Elite-Gen-5.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Snapdragon-8-Elite-Gen-5.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Qualcomm (QCOM) stock dips as near-term chip profit-taking clashes with a bullish JPMorgan target aiming for a $69B non-handset revenue boom.",
+      "symbols": [
+        "FTXL",
+        "NVDA",
+        "QCOM",
+        "QQQ",
+        "ROYA",
+        "SLB",
+        "SMHX",
+        "SPY"
+      ],
+      "updated_at": "2026-06-10T16:18:57Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53122093/qualcomm-slips-shorter-term-momentum-cools-from-roller-coaster-ai-highs",
+      "_summary": "Qualcomm Inc (NASDAQ: QCOM ) stock slid on Wednesday as investors weighed a broader semiconductor correction and profit-taking after a sharp multi-month AI rally. The stock gained 17% year-to-date, topping the S&P 500’s 8% and the Nasdaq 100’s 16% returns, • Qualcomm stock is feeling bearish pressure. Why is QCOM stock dropping? Still, the move cooled as doubts about the video’s authenticity spread.",
+      "_zh_headline": "高通下滑，短期势头从过山车般的人工智能高点降温",
+      "_zh_summary": "高通公司（纳斯达克股票代码：QCOM）股价周三下跌，因投资者在人工智能连续数月大幅上涨后权衡更广泛的半导体调整和获利了结。该股今年迄今上涨了 17%，高于标准普尔 500 指数的 8% 和纳斯达克 100 指数的 16% 回报率。 • 高通股票正感受到看跌压力。高通股价为何下跌？尽管如此，随着对视频真实性的怀疑蔓延，这一举动逐渐降温。",
+      "_added_at": "2026-06-10T18:14:29.001169+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-10T17:35:42Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "id": 53124726,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "HPE",
+        "IREN",
+        "MRVL",
+        "MU",
+        "NOK",
+        "NOW",
+        "NVDA",
+        "ORCL",
+        "PLTR",
+        "SOUN"
+      ],
+      "updated_at": "2026-06-10T17:35:43Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53124726/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
+      "_added_at": "2026-06-10T18:14:29.001169+00:00"
+    },
+    {
+      "author": "Evette Mitkov",
+      "content": "",
+      "created_at": "2026-06-10T17:56:34Z",
+      "headline": "What's Going On With The Dip In Gold Today?",
+      "id": 53125457,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Investment-In-Gold-Involves-Allocating-F.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Investment-In-Gold-Involves-Allocating-F.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Investment-In-Gold-Involves-Allocating-F.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SPDR Gold (NYSE: GLD) shares are sliding Wednesday. Precious metals moved sharply lower across global markets.",
+      "symbols": [
+        "GLD"
+      ],
+      "updated_at": "2026-06-10T17:56:35Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53125457/whats-going-on-with-the-dip-in-gold-today",
+      "_summary": "SPDR Gold (NYSE: GLD ) shares are sliding Wednesday. Precious metals moved sharply lower across global markets. Here’s what you should know . Spot gold was down about 2.4% near $4,161.63 per ounce early in the morning and later traded even weaker around $4,117.29. U.S. gold futures also declined about 2.2% to settle near $4,194.90 per ounce, CNBC reported . The pullback reflected a shift in market attention back toward inflation and the Federal Reserve's policy path.",
+      "_zh_headline": "今天黄金下跌是怎么回事？",
+      "_zh_summary": "SPDR Gold（纽约证券交易所股票代码：GLD）股价周三下跌。全球市场贵金属大幅走低。这是你应该知道的。现货黄金早盘下跌约 2.4%，接近 4,161.63 美元/盎司，随后交投更弱于 4,117.29 美元/盎司附近。据 CNBC 报道，美国黄金期货也下跌约 2.2%，收于每盎司 4,194.90 美元附近。此次回调反映出市场注意力重新转向通胀和美联储的政策路径。",
+      "_added_at": "2026-06-10T18:14:29.001169+00:00"
+    },
+    {
       "headline": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
       "summary": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
       "url": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
