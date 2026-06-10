@@ -2,6 +2,127 @@
   "date": "2026-06-10",
   "articles": [
     {
+      "headline": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
+      "summary": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-10T09:08:58-04:00",
+      "_summary": "Energy costs accounted for more than 60% of the monthly rise in the consumer price index in May. Joe Raedle/Getty Images hide caption Soaring gasoline prices, triggered by the U.S. war with Iran, have pushed inflation to its highest level in more than three years. A report from the Labor Department on Wednesday showed consumer prices in May were up 4.2% from a year ago. That's the biggest annual increase since April of 2023.  By contrast, the Labor Department says average wages have risen only 3.4% over the last year, so workers' real spending power has declined. Prices rose 0.5% between April and May, with higher energy costs accounting for more than 60% of that monthly increase. Gas prices have jumped by well over a dollar a gallon since the war began, strangling shipping traffic in the Strait of Hormuz — a critical pathway for much of the world's oil supply.",
+      "_zh_headline": "汽油价格飙升导致通胀三年来首次突破 4%",
+      "_zh_summary": "能源成本占5月份消费者价格指数月度涨幅的60%以上。 Joe Raedle/Getty Images 隐藏标题 美国与伊朗的战争引发的汽油价格飙升，已将通货膨胀推至三年多来的最高水平。美国劳工部周三发布的报告显示，5 月份消费者价格同比上涨 4.2%。这是自 2023 年 4 月以来的最大年度增幅。相比之下，劳工部表示，去年平均工资仅上涨 3.4%，因此工人的实际消费能力有所下降。 4 月至 5 月期间，价格上涨 0.5%，其中能源成本上涨占月度涨幅的 60% 以上。自战争开始以来，天然气价格每加仑上涨超过一美元，扼杀了霍尔木兹海峡的航运交通，而霍尔木兹海峡是世界大部分石油供应的重要通道。",
+      "_added_at": "2026-06-10T14:37:35.229572+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-10T12:38:08Z",
+      "headline": "Why Is Broadcom Stock Falling Wednesday?",
+      "id": 53112323,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Broadcom--Kaufbeuren--Germany---April-26.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Broadcom--Kaufbeuren--Germany---April-26.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Broadcom--Kaufbeuren--Germany---April-26.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Broadcom stock tests key moving averages after post-earnings profit-taking. Get the latest AVGO chart levels and support zones.",
+      "symbols": [
+        "AVGO",
+        "HACK",
+        "IGM",
+        "QQQ",
+        "SOXX",
+        "SPY",
+        "TDIV"
+      ],
+      "updated_at": "2026-06-10T12:38:09Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53112323/why-is-broadcom-stock-falling-wednesday",
+      "_summary": "The early decline appears tied to both market-wide weakness and lingering post-earnings pressure rather than any new company-specific catalyst. Last week, the stock came under pressure despite reporting strong fiscal second-quarter results . Investors were disappointed after management maintained, rather than raised, its forecast for more than $100 billion in AI semiconductor revenue by fiscal 2027. Broadcom’s third-quarter AI revenue outlook also largely matched Wall Street’s already elevated expectations.",
+      "_zh_headline": "为什么博通股票周三下跌？",
+      "_zh_summary": "早期的下跌似乎与整个市场的疲软和持续的盈利后压力有关，而不是与任何新的公司特定催化剂有关。上周，尽管公布了强劲的第二季度财报，但该股仍面临压力。管理层维持而不是提高对 2027 财年人工智能半导体收入超过 1000 亿美元的预测后，投资者感到失望。博通第三季度人工智能收入前景也基本符合华尔街已经调高的预期。",
+      "_added_at": "2026-06-10T14:37:35.229572+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-10T13:10:05Z",
+      "headline": "Why Is AMD Stock Falling Wednesday?",
+      "id": 53113225,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/The-AMD-Trade_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/The-AMD-Trade_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/The-AMD-Trade_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AMD stock dips amid a broader chip sector pullback. Analysts stay bullish as tech investors weigh valuations and long-term AI trends.",
+      "symbols": [
+        "AMD",
+        "ARKW",
+        "ARTY",
+        "QQQ",
+        "SOXX",
+        "SPY"
+      ],
+      "updated_at": "2026-06-10T13:10:44Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53113225/why-is-amd-stock-falling-wednesday",
+      "_summary": "KKM Financial CEO Jeff Kilburg recently said his firm trimmed its AMD position ahead of the latest pullback after semiconductor stocks became “frothy.” However, he emphasized that the broader artificial intelligence trend “is not broken” and said he is watching AMD for a potential opportunity to rebuild exposure, signaling continued confidence in the company’s longer-term outlook.",
+      "_zh_headline": "AMD 股价为何周三下跌？",
+      "_zh_summary": "KKM Financial 首席执行官杰夫·基尔伯格 (Jeff Kilburg) 最近表示，在半导体股票出现“泡沫”后，他的公司在最近一次回调之前削减了 AMD 头寸。不过，他强调更广泛的人工智能趋势“并未被打破”，并表示他正在关注 AMD 寻找重建业务的潜在机会，这表明对该公司的长期前景仍然充满信心。",
+      "_added_at": "2026-06-10T14:37:35.229572+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-06-10T12:27:41Z",
+      "headline": "Why Is Marvell Technology Stock Falling Wednesday?",
+      "id": 53111985,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Marvell-Technology.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Marvell-Technology.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Marvell-Technology.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell Technology (MRVL) pulls back amid tech sell-off. Discover the critical support and resistance levels to watch for the stock.",
+      "symbols": [
+        "MRVL",
+        "NVDA",
+        "SPY"
+      ],
+      "updated_at": "2026-06-10T12:27:42Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53111985/why-is-marvell-technology-stock-falling-wednesday",
+      "_summary": "Geopolitical uncertainty further weighed on market sentiment after President Donald Trump ordered military strikes against Iran on Tuesday. The action followed the downing of a U.S. Apache helicopter near the Strait of Hormuz. Though Trump later told The Wall Street Journal the incident “wasn’t a big deal” because “the pilot is fine,” the conflict interrupted brief hopes for a ceasefire, shaking equity markets. The decline follows a volatile period for the chipmaker .",
+      "_zh_headline": "Marvell 科技股为何周三下跌？",
+      "_zh_summary": "在唐纳德·特朗普总统周二下令对伊朗进行军事打击后，地缘政治的不确定性进一步打压了市场情绪。此前，一架美国阿帕奇直升机在霍尔木兹海峡附近被击落。尽管特朗普后来告诉《华尔街日报》，这一事件“没什么大不了的”，因为“飞行员很好”，但这场冲突打断了停火的短暂希望，震动了股市。此次下跌是在这家芯片制造商经历了一段动荡时期之后发生的。",
+      "_added_at": "2026-06-10T14:37:35.229572+00:00"
+    },
+    {
       "headline": "How Quiet Oman Landed Itself in Trump’s Cross Hairs",
       "summary": "As the Iran war drags on, Oman — a U.S. ally and mediator with Iran — has found itself at odds with the Trump administration and some of its own neighbors.",
       "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
