@@ -1,6 +1,18 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "articles": [
+    {
+      "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-09T21:13:17+00:00",
+      "_summary": "The four young men in the rebel camp hidden deep in jungle-covered mountains never wanted a part in Myanmar's civil war. They didn't choose to be soldiers for the military either. One had been a chef on his way home from work when he was grabbed off the street. His lack of ID was enough for the military to detain him and force him to sign up. Another was taken on his way back from a late-night karaoke session; a third had been working for the forestry department when he was arrested. The fourth man says on being arrested, drugs were slipped into his shoe, and he was framed and made to enlist. \"Before we even understood what was happening, we were sent straight to the front lines,\" one of the men – all between the ages of 19 and 25 – tells the BBC. \"They made us do all kinds of things we didn't want to do,\" another adds. \"We never got any real rest, not in the morning, not during the day, and not even at night.",
+      "_zh_headline": "缅甸境内，武装分子正在节节败退，军队将男子编入军队",
+      "_zh_summary": "隐藏在丛林深处的山区叛军营地中的四名年轻人从来不想参与缅甸内战。他们也没有选择为军队当兵。其中一名厨师在下班回家的路上被人从街上抓走。由于缺乏身份证件，军方足以拘留他并强迫他报名。另一张是在他深夜唱完卡拉OK回来的路上被拍到的。第三人被捕时正在林业部门工作。第四名男子说，被捕后，毒品被塞进他的鞋子里，他被陷害并被迫入伍。其中一名年龄在 19 岁至 25 岁之间的男子告诉 BBC：“在我们还没弄清楚发生了什么之前，我们就被直接送到了前线。” “他们让我们做各种我们不想做的事情，”另一位补充道。 “我们从来没有得到过真正的休息，早上没有，白天没有，甚至晚上也没有。",
+      "_added_at": "2026-06-10T06:49:08.645257+00:00"
+    },
     {
       "headline": "World's largest chipmaker does not rule out price rises as costs increase",
       "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
@@ -10,20 +22,98 @@
       "created_at": "2026-06-09T22:00:24+00:00",
       "_summary": "The world's largest chipmaker has told the BBC that inflation is pushing up the cost of doing business, and did not rule out price rises. Taiwan Semiconductor Manufacturing Company (TSMC) makes the most advanced chips designed by companies such as Nvidia, AMD and Apple, so any increase in pricing could ripple through to the cost of AI infrastructure, and potentially over time, the prices customers pay for their electronic devices. However, the firm's chief financial officer, Wendell Huang, said it would not introduce sudden \"fourfold, fivefold\" price rises. \"We reflect our value,\" he said,  pointing to its \"technology leadership\" and \"manufacturing excellence\". In an exclusive and wide-ranging interview, Huang also denied that the AI boom was a bubble and that the firm's global expansion was due to geopolitical pressure.",
       "_zh_headline": "全球最大芯片制造商不排除因成本增加而涨价",
-      "_zh_summary": "这家全球最大的芯片制造商告诉BBC，通货膨胀正在推高经营成本，并且不排除价格上涨的可能性。台积电 (TSMC) 生产由 Nvidia、AMD 和 Apple 等公司设计的最先进芯片，因此定价的任何上涨都可能波及人工智能基础设施的成本，并可能随着时间的推移，影响客户为其电子设备支付的价格。不过，该公司首席财务官黄文德尔(Wendell Huang)表示，不会突然“四倍、五倍”提价。 “我们体现了我们的价值，”他说，并指出其“技术领先”和“卓越制造”。在一次独家且内容广泛的采访中，黄仁勋还否认人工智能热潮是泡沫，并且该公司的全球扩张是由于地缘政治压力。",
-      "_added_at": "2026-06-10T01:37:07.145394+00:00"
+      "_zh_summary": "这家全球最大的芯片制造商告诉BBC，通货膨胀正在推高经营成本，并且不排除价格上涨的可能性。台积电 (TSMC) 生产由 Nvidia、AMD 和 Apple 等公司设计的最先进芯片，因此定价的任何上涨都可能波及人工智能基础设施的成本，并可能随着时间的推移，影响客户为其电子设备支付的价格。不过，该公司首席财务官黄文德尔表示，不会突然“四倍、五倍”提价。 “我们体现了我们的价值，”他说，并指出其“技术领先”和“卓越制造”。在一次独家且内容广泛的采访中，黄仁勋还否认人工智能热潮是泡沫，并且该公司的全球扩张是由于地缘政治压力。",
+      "_added_at": "2026-06-10T06:49:08.645257+00:00"
     },
     {
-      "headline": "The U.S. Strikes Iran After Trump Vowed to Retaliate",
-      "summary": "Also, meet NASA’s Artemis III crew. Here’s the latest at the end of Tuesday.",
-      "url": "https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html",
-      "source": "NYT",
+      "author": "Badar Shaikh",
+      "content": "",
+      "created_at": "2026-06-10T06:35:25Z",
+      "headline": "JB Pritzker Freezes Illinois Gas Tax Hike, Calls It 'Relief' From Trump As Iran War Drives Up Fuel Prices",
+      "id": 53107551,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Washington-dc--United-States--April-14-2.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Washington-dc--United-States--April-14-2.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Washington-dc--United-States--April-14-2.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gov. JB Pritzker announced no tax hike on gas during the ongoing Iran war, touting it as relief amid Iran war surge.",
       "symbols": [],
-      "created_at": "2026-06-09T22:00:36+00:00",
-      "_summary": "Also, meet NASA’s Artemis III crew. Here’s the latest at the end of Tuesday.",
-      "_zh_headline": "特朗普誓言报复后，美国对伊朗进行打击",
-      "_zh_summary": "此外，还可以认识 NASA 的阿耳忒弥斯三号机组人员。这是周二月底的最新消息。",
-      "_added_at": "2026-06-10T01:37:07.145394+00:00"
+      "updated_at": "2026-06-10T06:35:26Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/53107551/jb-pritzker-illinois-gas-tax-hike-relief-from-trump-iran-war-fuel-prices",
+      "_summary": "Gov. Jay Robert ‘JB’ Pritzker (D-IL) on Tuesday shared that his administration would not be hiking taxes on gas as the Iran war continues to spark price rises at the pump. In a post on X , Pritzker shared that the government “eliminated this year's inflation on gas tax,” touting it as a move that would bring “working families some relief at the pump from Donald Trump.” Lawmakers in the state recently passed the budget for the fiscal year, which includes freezing a 1.3-cent increase in tax on gas. The hike, which adjusts for inflation, was slated to take effect on July 1st this year, but has now been pushed to January 2027. Illinois charges a tax of 48.3 cents for a gallon of gas on top of the Federal gas tax of approximately 18.4 cents, with diesel commanding a Federal tax of approximately 24 cents.",
+      "_zh_headline": "JB 普利兹克冻结伊利诺伊州汽油税上调，称其为特朗普的“救济”，因为伊朗战争推高了燃油价格",
+      "_zh_summary": "伊利诺伊州民主党州长杰伊·罗伯特·“JB”·普利茨克 (Jay Robert ‘JB’ Pritzker) 周二表示，由于伊朗战争继续引发油价上涨，他的政府不会提高天然气税。普利茨克在 X 上发表的一篇文章中表示，政府“消除了今年的汽油税通胀”，并称此举将为“唐纳德·特朗普的工薪家庭带来一些缓解”。该州立法者最近通过了本财年预算，其中包括冻结天然气税增加 1.3 美分。此次加息是根据通货膨胀进行调整的，原定于今年 7 月 1 日生效，但现已推迟到 2027 年 1 月。伊利诺伊州在联邦汽油税约 18.4 美分的基础上，对每加仑汽油征收 48.3 美分的税，对柴油征收约 24 美分的联邦税。",
+      "_added_at": "2026-06-10T06:49:08.645257+00:00"
+    },
+    {
+      "author": "Snigdha Gairola",
+      "content": "",
+      "created_at": "2026-06-10T04:51:33Z",
+      "headline": "Chuck Schumer Slams Trump Over Iran Conflict, Says He Was 'Wasting Taxpayer Dollars' Watching Knicks As US Soldiers Were Shot Down",
+      "id": 53107075,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Chuck-Schumer-during-a-press-conference-.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Chuck-Schumer-during-a-press-conference-.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Chuck-Schumer-during-a-press-conference-.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Chuck Schumer criticizes Trump over Iran conflict, calling it an &#34;illegal war&#34; and accusing him of prioritizing a Knicks game during crisis.",
+      "symbols": [],
+      "updated_at": "2026-06-10T04:51:34Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/53107075/chuck-schumer-slams-trump-over-iran-conflict-wasting-taxpayer-dollars-at-knicks",
+      "_summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) criticized President Donald Trump over the ongoing conflict with Iran, accusing him of prioritizing a basketball game over a military crisis after American soldiers were reportedly shot down. On Tuesday, in a post on X , Schumer attacked Trump’s handling of the conflict, writing, \"American soldiers were shot down in Iran as Trump was wasting taxpayer dollars to fall asleep while watching the Knicks.\" \"Each day this illegal war drags on further exposes this President’s recklessness,\" He said. Schumer highlighted the timing of Trump's June 9 activity on Truth Social . He shared a screenshot that showed the president reposting \"NYC loves @realDonaldTrump\" several hours after an Iranian attack reportedly downed a U.S. Apache helicopter over the Strait of Hormuz.",
+      "_zh_headline": "查克·舒默就伊朗冲突猛烈抨击特朗普，称他在美国士兵被击落时观看尼克斯队比赛是“浪费纳税人的钱”",
+      "_zh_summary": "参议院少数党领袖查克·舒默（纽约州民主党人）批评唐纳德·特朗普总统就与伊朗持续的冲突，指责他在据报道美国士兵被击落后将篮球比赛置于军事危机之上。周二，舒默在《X》上的一篇帖子中攻击了特朗普对冲突的处理方式，他写道，“美国士兵在伊朗被击落，因为特朗普浪费纳税人的钱在观看尼克斯队比赛时睡着了。”他说：“这场非法战争的每一天都在进一步暴露出这位总统的鲁莽。”舒默强调了特朗普 6 月 9 日在 Truth Social 上进行活动的时间。他分享了一张截图，显示总统在伊朗袭击霍尔木兹海峡上空击落一架美国阿帕奇直升机几小时后转发了“纽约爱@realDonaldTrump”。",
+      "_added_at": "2026-06-10T06:49:08.645257+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-06-10T02:10:16Z",
+      "headline": "Trump Says Response To Iran Should Be 'Very Strong, Very Powerful' As He Orders Strikes After Apache Helicopter Incident; Brent Above $91",
+      "id": 53106733,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Trump.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Trump.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Trump.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump ordered strikes on Iran after an Apache helicopter incident near Hormuz, lifting oil prices and escalating tensions with Tehran.",
+      "symbols": [],
+      "updated_at": "2026-06-10T02:10:17Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/53106733/trump-orders-iran-strikes-after-apache-helicopter-incident-brent-above-91",
+      "_summary": "On Tuesday, President Donald Trump ordered military strikes against Iran after a U.S. Apache helicopter was brought down near the Strait of Hormuz. Dow futures fell 62 points, or 0.12%, to 50,847.00, while S&P 500 futures declined 12.75 points, or 0.17%, to 7,380.00 and Nasdaq 100 futures lost 65.75 points, or 0.23%, to 29,051.25 as of around 9:10 p.m. EDT. In commodities, WTI crude oil climbed 0.41% to $88.56 per barrel, while Brent crude advanced 0.55% to $91.95 per barrel. Natural gas futures slipped 0.25% to $3.132 per MMBtu. Meanwhile, the U.S. dollar index stood at 99.980, down 0.01%. Asian markets traded lower, with South Korea's KOSPI falling 2.76% to 7,873.77 and Japan's Nikkei 225 declining 1.02% to 64,749.53. The latest escalation followed a Monday incident in which a U.S. Apache attack helicopter went down near the Strait of Hormuz.",
+      "_zh_headline": "特朗普表示对伊朗的反应应该“非常强烈、非常有力”，他在阿帕奇直升机事件后下令进行打击；布伦特原油价格高于 91 美元",
+      "_zh_summary": "周二，一架美国阿帕奇直升机在霍尔木兹海峡附近被击落后，唐纳德·特朗普总统下令对伊朗进行军事打击。截至晚上 9:10 左右，道指期货下跌 62 点，即 0.12%，至 50,847.00；标准普尔 500 指数期货下跌 12.75 点，即 0.17%，至 7,380.00；纳斯达克 100 指数期货下跌 65.75 点，即 0.23%，至 29,051.25。美东时间。大宗商品方面，WTI 原油上涨 0.41%，至每桶 88.56 美元，布伦特原油上涨 0.55%，至每桶 91.95 美元。天然气期货下跌 0.25%，至每 MMBtu 3.132 美元。与此同时，美元指数报99.980，下跌0.01%。亚洲市场走低，韩国综合股价指数下跌 2.76%，至 7,873.77 点；日本日经 225 指数下跌 1.02%，至 64,749.53 点。周一，一架美国阿帕奇攻击直升机在霍尔木兹海峡附近坠毁，事态最近升级。",
+      "_added_at": "2026-06-10T06:49:08.645257+00:00"
     },
     {
       "author": "Benzinga Insights",
@@ -41,532 +131,8 @@
       "url": "https://www.benzinga.com/insights/news/26/06/53105344/heres-how-much-1000-invested-in-vaneck-semiconductor-etf-5-years-ago-would-be-worth-today",
       "_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 5 years by 24.29% on an annualized basis producing an average annual return of 35.91%. Currently, VanEck Semiconductor ETF has a market capitalization of $67.10 billion. Buying $1000 In SMH: If an investor had bought $1000 of SMH stock 5 years ago, it would be worth $4,700.25 today based on a price of $587.38 for SMH at the time of writing.",
       "_zh_headline": "这是 5 年前投资于 VanEck Semiconductor ETF 的 1000 美元今天值多少钱",
-      "_zh_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 5 years by 24.29% on an annualized basis producing an average annual return of 35.91%.目前，VanEck Semiconductor ETF 市值为 671 亿美元。 Buying $1000 In SMH: If an investor had bought $1000 of SMH stock 5 years ago, it would be worth $4,700.25 today based on a price of $587.38 for SMH at the time of writing.",
-      "_added_at": "2026-06-09T23:00:43.336752+00:00"
-    },
-    {
-      "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
-      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-09T21:13:17+00:00",
-      "_summary": "The four young men in the rebel camp hidden deep in jungle-covered mountains never wanted a part in Myanmar's civil war. They didn't choose to be soldiers for the military either. One had been a chef on his way home from work when he was grabbed off the street. His lack of ID was enough for the military to detain him and force him to sign up. Another was taken on his way back from a late-night karaoke session; a third had been working for the forestry department when he was arrested. The fourth man says on being arrested, drugs were slipped into his shoe, and he was framed and made to enlist. \"Before we even understood what was happening, we were sent straight to the front lines,\" one of the men – all between the ages of 19 and 25 – tells the BBC. \"They made us do all kinds of things we didn't want to do,\" another adds. \"We never got any real rest, not in the morning, not during the day, and not even at night.",
-      "_zh_headline": "缅甸境内，武装分子正在节节败退，军队将男子编入军队",
-      "_zh_summary": "隐藏在丛林深处的山区叛军营地中的四名年轻人从来不想参与缅甸内战。他们也没有选择为军队当兵。其中一名厨师在下班回家的路上被人从街上抓走。由于缺乏身份证件，军方足以拘留他并强迫他报名。另一张是在他深夜唱完卡拉OK回来的路上被拍到的。第三人被捕时正在林业部门工作。第四名男子说，被捕后，毒品被塞进他的鞋子里，他被陷害并被迫入伍。其中一名年龄在 19 岁至 25 岁之间的男子告诉 BBC：“在我们还没弄清楚发生了什么之前，我们就被直接送到了前线。” “他们让我们做各种我们不想做的事情，”另一位补充道。 “我们从来没有得到过真正的休息，早上没有，白天没有，甚至晚上也没有。",
-      "_added_at": "2026-06-09T21:20:07.835868+00:00"
-    },
-    {
-      "headline": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-      "summary": "France will also bar far-right Israeli Minister Bezalel Smotrich from entry as part of the measures, which Israel condemns as \"disgraceful\".",
-      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-09T20:38:55+00:00",
-      "_summary": "The UK, Australia, Canada, France and Norway have imposed sanctions on what they call \"networks\" involved in financing and enabling attacks against Palestinian civilians by Jewish settlers in the Israeli-occupied West Bank. The move is designed to \"hold extremist settlers accountable for the horrific levels of settler violence\", the five countries said. France also barred far-right Israeli Finance Minister Bezalel Smotrich from entering the country. He has wide authority over government policies on settlements in the West Bank, which are illegal under international law. Israel said it rejected the \"disgraceful measures\", calling them political acts \"camouflaged as measures against violence\". Israel has built about 160 settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem - land Palestinians want, along with Gaza, for a hoped-for future state - during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them.",
-      "_zh_headline": "英国及其盟国制裁促成约旦河西岸定居者暴力的“网络”",
-      "_zh_summary": "英国、澳大利亚、加拿大、法国和挪威对以色列占领的西岸犹太定居者资助和支持袭击巴勒斯坦平民的所谓“网络”实施了制裁。这五个国家表示，此举旨在“追究极端主义定居者对定居者暴力的可怕程度的责任”。法国还禁止极右翼以色列财政部长贝扎雷尔·斯莫特里奇入境。他对政府关于西岸定居点的政策拥有广泛的权力，这些政策根据国际法是非法的。以色列表示拒绝这些“可耻的措施”，称这些措施是“伪装成反暴力措施的政治行为”。自 1967 年中东战争期间占领约旦河西岸和东耶路撒冷以来，以色列已建造了约 160 个定居点，容纳了 70 万犹太人。巴勒斯坦人希望这片土地与加沙一起建立一个充满希望的未来国家。据估计，有 330 万巴勒斯坦人与他们生活在一起。",
-      "_added_at": "2026-06-09T21:20:07.835868+00:00"
-    },
-    {
-      "headline": "U.S. and Iran Zero In on Four Nuclear Issues in Talks",
-      "summary": "With the cease-fire proving tenuous, negotiations between the two nations are in flux, but have advanced to outline potential paths forward on difficult questions about Iran’s nuclear program.",
-      "url": "https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-09T17:18:44+00:00",
-      "_summary": "With the cease-fire proving tenuous, negotiations between the two nations are in flux, but have advanced to outline potential paths forward on difficult questions about Iran’s nuclear program.",
-      "_zh_headline": "美国和伊朗在会谈中聚焦于四个核问题",
-      "_zh_summary": "由于停火协议被证明是脆弱的，两国之间的谈判仍在不断变化，但已取得进展，概述了有关伊朗核计划的难题的潜在前进道路。",
-      "_added_at": "2026-06-09T21:20:07.835868+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-06-09T20:18:25Z",
-      "headline": "OpenAI Files For IPO As Market Awaits CPI Data",
-      "id": 53103164,
-      "images": [],
-      "source": "benzinga",
-      "summary": "\n\n\n\nAI Excitement\n\n\n",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPY",
-        "TSLA",
-        "USO"
-      ],
-      "updated_at": "2026-06-09T20:30:57Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/53103164/exclusive-pick-unexpected-hedge-fund-trade-impacting-sats-ahead-of-the-spacex-ipo",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Microsoft Corp (NASDAQ: MSFT ) . In the early trade, money flows are negative in Apple Inc (NASDAQ: AAPL ) . Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals.",
-      "_zh_headline": "OpenAI 申请 IPO，市场等待 CPI 数据",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，微软公司（纳斯达克股票代码：MSFT）的资金流向呈中性。在早盘交易中，苹果公司（纳斯达克股票代码：AAPL）的资金流向为负。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。",
-      "_added_at": "2026-06-09T21:20:07.835868+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-09T18:42:00Z",
-      "headline": "Vishay's 300% Breakout Just Put The Spotlight On An Overlooked Corner Of Semiconductor ETFs",
-      "id": 53099937,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Concept-Of-Small-Cap-Write-On-Sticky-Not.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Concept-Of-Small-Cap-Write-On-Sticky-Not.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Concept-Of-Small-Cap-Write-On-Sticky-Not.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Vishay Intertechnology&#39;s rally commands attention beyond Nvidia and Broadcom to ETFs with exposure to industrial, EV and power-management chipmakers.",
-      "symbols": [
-        "AVGO",
-        "FSML",
-        "NVDA",
-        "PSCT",
-        "SMH",
-        "SOXX",
-        "TSM",
-        "VSH",
-        "XSD",
-        "XSVM"
-      ],
-      "updated_at": "2026-06-09T18:42:01Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/53099937/vishay-vsh-stock-rally-spotlights-semiconductor-etfs-xsd-xsvm",
-      "_summary": "Shares of the discrete semiconductor and power electronics manufacturer surged nearly 14% on Tuesday morning after the company reported first-quarter revenue of $839.2 million, topping analyst expectations. Vishay also returned to profitability with earnings per share of $0.05, beating consensus estimates, while management guided second-quarter revenue above Wall Street forecasts.",
-      "_zh_headline": "Vishay 300% 的突破让半导体 ETF 的一个被忽视的角落成为焦点",
-      "_zh_summary": "周二上午，这家分立半导体和电力电子制造商的股价飙升近 14%，此前该公司公布第一季度营收 8.392 亿美元，超出分析师预期。 Vishay 也恢复盈利，每股收益为 0.05 美元，超出市场普遍预期，而管理层指导第二季度营收高于华尔街预期。",
-      "_added_at": "2026-06-09T21:20:07.835868+00:00"
-    },
-    {
-      "author": "Andrea Unger",
-      "content": "",
-      "created_at": "2026-06-09T17:19:58Z",
-      "headline": "Trading Systems And Market News: How To Handle CPI, FOMC, And Unexpected Events",
-      "id": 53097073,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/F2.png?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/F2.png?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/F2.png?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": " ",
-      "symbols": [],
-      "updated_at": "2026-06-09T17:19:58Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/53097073/trading-systems-and-market-news-how-to-handle-cpi-fomc-and-unexpected-events",
-      "_summary": "In systematic trading, the release of macroeconomic data and the publication of major market news represent particularly sensitive periods, as they can rapidly alter volatility, liquidity, market direction, and order book depth. Events such as the U.S. Consumer Price Index (CPI), Non-Farm Payrolls, interest rate decisions, or unexpected news can therefore be both a source of risk and, in some cases, an opportunity. The key question is not whether traders should broadly decide to trade or stay out of the market, but whether a trading system has been specifically designed and validated to operate under those conditions. Different strategies react differently: an intraday system with tight stops may struggle during sudden market swings, while a breakout or trend-following strategy could potentially benefit from them.",
-      "_zh_headline": "交易系统和市场新闻：如何处理 CPI、FOMC 和意外事件",
-      "_zh_summary": "在系统交易中，宏观经济数据的发布和主要市场新闻的发布是特别敏感的时期，因为它们可以迅速改变波动性、流动性、市场方向和订单深度。因此，美国消费者价格指数 (CPI)、非农就业数据、利率决策或意外消息等事件既可能是风险来源，在某些情况下也可能是机遇。关键问题不在于交易者是否应该广泛决定进行交易或远离市场，而是交易系统是否经过专门设计和验证，可以在这些条件下运行。不同的策略反应不同：具有严格止损的日内系统可能会在市场突然波动时陷入困境，而突破或趋势跟踪策略可能会从中受益。",
-      "_added_at": "2026-06-09T18:31:48.716372+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-09T17:26:33Z",
-      "headline": "Nasdaq 100 Tumbles Over 3%, Marvell Crashes 12%: Stock Market Today",
-      "id": 53097400,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The Nasdaq 100 sank 3.3% Tuesday as AI and optical stocks cratered, while cash rotated into real estate, staples and utilities and oil slid more than 5%",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "COHR",
-        "DIA",
-        "DKNG",
-        "ENPH",
-        "FDXF",
-        "GSK",
-        "IWM",
-        "LITE",
-        "MRVL",
-        "MU",
-        "NUVL",
-        "ORCL",
-        "POOL",
-        "QQQ",
-        "SAIL",
-        "SJM",
-        "SMCI",
-        "SMH",
-        "SN",
-        "VOO",
-        "XLE",
-        "XLK"
-      ],
-      "updated_at": "2026-06-09T17:26:34Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53097400/nasdaq-100-craters-marvell-sinks-ai-rally-at-risk-markets-tuesday",
-      "_summary": "U.S. stocks slid Tuesday as the rotation out of high-flying chip and artificial-intelligence names resumed, dragging the Nasdaq 100 down over 3% and pulling the S&P 500 back below 7,300. • iShares Russell 2000 Index Fund shares are experiencing downward pressure. Why are IWM shares declining? A parallel collapse in oil prices — crude sank roughly 6% as Israel and Iran halted strikes — did little to steady equities ahead of Wednesday’s pivotal consumer price report.",
-      "_zh_headline": "纳斯达克 100 指数跌幅超过 3%，Marvell 暴跌 12%：今日股市",
-      "_zh_summary": "随着芯片和人工智能公司重新开始轮动，美国股市周二下跌，拖累纳斯达克 100 指数下跌超过 3%，并将标准普尔 500 指数拉回 7,300 点下方。 • iShares Russell 2000 指数基金股票正面临下行压力。为何IWM股价下跌？在周三关键的消费者物价报告公布之前，油价的同步暴跌——随着以色列和伊朗停止罢工，原油价格下跌了约 6%——对稳定股市几乎没有作用。",
-      "_added_at": "2026-06-09T18:31:48.716372+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-06-09T18:11:25Z",
-      "headline": "Bad News For Bulls: BTIG Nailed Tuesday's Nasdaq Selloff",
-      "id": 53098970,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Red-Arrow-And-Falling-Financial-Charts-O.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Red-Arrow-And-Falling-Financial-Charts-O.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Red-Arrow-And-Falling-Financial-Charts-O.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "History stacks against Nasdaq bulls as the index breaks below Friday&#39;s low in Tuesday&#39;s session. MRVL, AMD, INTC, MU and AVGO all down.",
-      "symbols": [
-        "AMAT",
-        "AMD",
-        "AVGO",
-        "INTC",
-        "MRVL",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-06-09T18:11:26Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53098970/bad-news-for-bulls-btig-nailed-tuesdays-nasdaq-selloff",
-      "_summary": "Just one trading day after BTIG flagged that history was stacked against Nasdaq bulls, the index made good on that prediction — breaking below its Friday intraday low before Tuesday’s session was even half over. The Nasdaq Composite sliced through the 25,648.47 intraday floor set during Friday’s brutal chip-driven rout, touching 24,980.38 on Tuesday.",
-      "_zh_headline": "对多头来说坏消息：BTIG 周二纳斯达克抛售",
-      "_zh_summary": "就在 BTIG 表示历史对纳斯达克多头不利的一个交易日后，该指数就兑现了这一预测——在周二交易时段过半之前就跌破了周五盘中低点。纳斯达克综合指数突破了周五芯片驱动的残酷暴跌期间设定的盘中最低点 25,648.47 点，周二触及 24,980.38 点。",
-      "_added_at": "2026-06-09T18:31:48.716372+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-06-09T16:41:09Z",
-      "headline": "Tech Stocks' Relief Rally Crumbles: SOXL Craters 15%, AMD Sheds 6% As Recovery Fizzles",
-      "id": 53095242,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Close-Up-Of-Stock-Market-Candlestick-Cha.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Close-Up-Of-Stock-Market-Candlestick-Cha.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Close-Up-Of-Stock-Market-Candlestick-Cha.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The relief rally in tech stocks crumbles on Tuesday, as chip stocks plummet with AMD and SOXL among biggest losers.",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "AMZN",
-        "AVGO",
-        "GOOGL",
-        "INTC",
-        "META",
-        "MSFT",
-        "MU",
-        "NOW",
-        "NVDA",
-        "QCOM",
-        "SOXL",
-        "SQQQ",
-        "TQQQ",
-        "TSLA"
-      ],
-      "updated_at": "2026-06-09T16:41:10Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53095242/tech-stocks-relief-rally-crumbles-soxl-amd-fall",
-      "_summary": "A brief morning pop in technology stocks evaporated Tuesday, leaving chip names and leveraged ETFs deep in the red as sellers reasserted control and snuffed out any hope of a sustained recovery. The intraday pattern was unmistakable — an early bounce, a rejection at resistance and a hard fade that accelerated into midday. Some experts pointed to a rotation out of tech stocks as investors gather capital ahead of SpaceX's market debut on Friday.",
-      "_zh_headline": "科技股的救济反弹崩溃：SOXL Craters 15%，AMD 因复苏失败而下跌 6%",
-      "_zh_summary": "周二上午，科技股的短暂上涨消失殆尽，导致芯片股和杠杆 ETF 大幅亏损，因为卖家重新掌控了控制权，并扼杀了持续复苏的希望。盘中模式是明确无误的——早期反弹，阻力位被拒绝，以及加速到中午的硬性衰退。一些专家指出，随着投资者在 SpaceX 周五上市之前筹集资金，科技股将会轮流退出。",
-      "_added_at": "2026-06-09T18:31:48.716372+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-09T17:35:24Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
-      "id": 53097686,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": " ",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "ONDS",
-        "TSM",
-        "U",
-        "WOLF"
-      ],
-      "updated_at": "2026-06-09T17:35:25Z",
-      "url": "https://www.benzinga.com/insights/options/26/06/53097686/10-information-technology-stocks-whale-activity-in-todays-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-06-09T18:31:48.716372+00:00"
-    },
-    {
-      "headline": "Conflicts around the globe hit highest levels since World War II, new report says",
-      "summary": "The new report by the Uppsala Conflict Data Program said the massacres in El Fasher pushed one-sided violence in Africa to its highest levels since the Rwandan genocide in 1994.",
-      "url": "https://www.npr.org/2026/06/09/nx-s1-5849221/conflicts-around-the-globe-hit-highest-levels-since-world-war-ii-new-report-says",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-09T04:44:31-04:00",
-      "_summary": "The new report by the Uppsala Conflict Data Program said the massacres in El Fasher pushed one-sided violence in Africa to its highest levels since the Rwandan genocide in 1994.",
-      "_zh_headline": "新报告称全球冲突达到二战以来最高水平",
-      "_zh_summary": "乌普萨拉冲突数据项目的最新报告称，法希尔的大屠杀将非洲的单边暴力推向了自1994年卢旺达种族灭绝以来的最高水平。",
-      "_added_at": "2026-06-09T16:18:41.020099+00:00"
-    },
-    {
-      "author": "Sam Ro",
-      "content": "",
-      "created_at": "2026-06-09T14:41:09Z",
-      "headline": "Companies Are Cashing In On Consumers' Unwillingness To Bargain Shop",
-      "id": 53089548,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Sam-Ro.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Sam-Ro.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Sam-Ro.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Award-winning Financial writer Sam Ro says &#34;this contradiction helps explain why, despite poor vibes, the economy continues to grow, profit margins continue to expand, and corporate earnings continue to rise.&#34;",
-      "symbols": [],
-      "updated_at": "2026-06-09T14:41:10Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/53089548/companies-are-cashing-in-on-this-contradiction",
-      "_summary": "Sentiment surveys confirm that consumers are very aware of rising prices, and they are complaining about them. People hate inflation. Interestingly, inflation hasn't really stopped people from spending. Economic data confirm this . A recent research note from Goldman Sachs highlights studies reflecting these trends. \"After-tax corporate profits as a share of value added have roughly doubled from about 5% in the late 1980s to over 10% recently,\" Goldman economists wrote. \"Over the same period, U.S. firms have substantially raised markups — the amount by which prices exceed the marginal cost of producing goods and services.\" At least some of this trend toward rising markups over the years can be explained by falling costs . Regardless, the point is that what customers are paying increasingly covers much more than the costs. But why hasn't there been more pushback from consumers ?",
-      "_zh_headline": "公司正在利用消费者不愿在商店讨价还价的现象获利",
-      "_zh_summary": "情绪调查证实，消费者非常清楚价格上涨，并且对此有所抱怨。人们讨厌通货膨胀。有趣的是，通货膨胀并没有真正阻止人们消费。经济数据证实了这一点。高盛最近的一份研究报告重点介绍了反映这些趋势的研究。高盛经济学家写道：“税后企业利润占增加值的比例大约翻了一番，从 20 世纪 80 年代末的 5% 左右增至最近的 10% 以上。” “在同一时期，美国公司大幅提高了加价幅度，即价格超过生产商品和服务的边际成本的幅度。”多年来这种加价上涨的趋势至少可以用成本下降来解释。无论如何，关键是客户支付的费用越来越多，远远超出了成本。但为什么消费者没有更多的抵制呢？",
-      "_added_at": "2026-06-09T16:18:41.020099+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-09T15:15:33Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
-      "id": 53091303,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": " ",
-      "symbols": [
-        "AAOI",
-        "AMD",
-        "APLD",
-        "BMNR",
-        "CRWV",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "SNDK",
-        "WDAY"
-      ],
-      "updated_at": "2026-06-09T15:15:34Z",
-      "url": "https://www.benzinga.com/insights/options/26/06/53091303/10-information-technology-stocks-with-whale-alerts-in-todays-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-06-09T16:18:41.020099+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-09T14:29:17Z",
-      "headline": "Micron, Marvell and Arm Stock Charts Flash The Same Warning — One Still Looks Cheap",
-      "id": 53088864,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/US-Revokes-Chip-Production-Permissions-I.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/US-Revokes-Chip-Production-Permissions-I.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/US-Revokes-Chip-Production-Permissions-I.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron, Marvell and Arm are the most stretched chip stocks above their 200-day averages. Only Micron still trades on a cheap valuation as the rally runs.",
-      "symbols": [
-        "ARM",
-        "INTC",
-        "MRVL",
-        "MU",
-        "SOXX"
-      ],
-      "updated_at": "2026-06-09T14:29:17Z",
-      "url": "https://www.benzinga.com/news/26/06/53088864/micron-marvell-arm-most-stretched-semiconductor-stocks",
-      "_summary": "The chip rally that carried U.S. markets to record highs this year has left three of its biggest winners hanging further above trend than anything else in the sector. Marvell trades roughly 250% above its 200-day line. Micron runs about 160% above. Arm sits near 130% and Intel around 113%. SOXX itself trades about 65% above its own 200-day average, down from a peak near 85% in early June.",
-      "_zh_headline": "美光科技、Marvell 和 Arm 股票图表都闪烁着同样的警告——其中一只看起来仍然很便宜",
-      "_zh_summary": "今年芯片股的上涨使美国市场创下了历史新高，这使得其中三个最大的赢家比该行业的其他任何股票都远远高于趋势水平。 Marvell 的股价较 200 日线高出约 250%。美光运行大约160%以上。 Arm 的市场份额接近 130%，英特尔的市场份额约为 113%。 SOXX 本身的交易价格比 200 日平均水平高出约 65%，低于 6 月初接近 85% 的峰值。",
-      "_added_at": "2026-06-09T16:18:41.020099+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-09T14:52:35Z",
-      "headline": "Micron's 750% Surge Just Got Upstaged By These Two Russell 2000 Stocks",
-      "id": 53090106,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Konskie--Poland---August-03--2025-Bloom-.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Konskie--Poland---August-03--2025-Bloom-.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Konskie--Poland---August-03--2025-Bloom-.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bloom Energy and Applied Optoelectronics soared past 1,000% in a year, outrunning Micron&#39;s AI rally. Now Bloom is leaving the Russell 2000.",
-      "symbols": [
-        "AAOI",
-        "BE",
-        "MU"
-      ],
-      "updated_at": "2026-06-09T14:52:36Z",
-      "url": "https://www.benzinga.com/news/26/06/53090106/micron-stock-rally-bloom-energy-applied-optoelectronics-russell-2000",
-      "_summary": "Yet the two biggest winners of the same boom are hiding in the small-cap benchmark, and almost no one is watching. Bloom Energy sells solid oxide fuel cells that deliver on-site power in months, rather than the years it takes to clear a grid interconnection queue. With hyperscalers starved for electricity, that pitch landed a $5 billion Brookfield partnership, a $2.65 billion American Electric Power agreement, and an expanded Oracle deal covering up to 2.8 gigawatts.",
-      "_zh_headline": "美光 750% 的涨幅刚刚被这两只罗素 2000 指数股票抢了风头",
-      "_zh_summary": "然而，同一繁荣时期的两个最大赢家却隐藏在小盘股基准中，几乎没有人在关注。 Bloom Energy 销售的固体氧化物燃料电池可在数月内提供现场电力，而不是清理电网互连队列所需的数年时间。由于超大规模企业对电力的需求旺盛，这次推介获得了价值 50 亿美元的 Brookfield 合作伙伴关系、价值 26.5 亿美元的美国电力公司协议，以及一项涵盖高达 2.8 吉瓦的扩大甲骨文交易。",
-      "_added_at": "2026-06-09T16:18:41.020099+00:00"
-    },
-    {
-      "headline": "4 states head to the polls. And, global conflicts are on the rise, new report says",
-      "summary": "Voters in four states head to the polls today for their primaries. Here are the races to watch. And, global conflicts are at their highest level since World War II, data shows.",
-      "url": "https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-09T07:19:43-04:00",
-      "_summary": "Israel and Iran committed yesterday to stop attacking each other, just hours after exchanging missile fire and heightening tensions across the Middle East. Even with this pledge, both countries cited conditions that could lead to renewed hostilities . Israeli Defense Minister Israel Katz said that troops would continue operations against the militant group Hezbollah in Lebanon. Iran said that Israel's operations against Hezbollah prompted its missile strikes on Israel, first on Sunday night and again on Monday morning. Iran's military said it was halting further actions for now, but warned that if Israel kept up attacks in Lebanon, it would retaliate with \"much harsher and more forceful actions than before.\" A man looks at the wreckage of an Iranian missile that landed near the West Bank city of Jericho on Monday. Mahmoud Illean/AP hide caption",
-      "_zh_headline": "4个州即将举行投票。新报告称，全球冲突正在加剧",
-      "_zh_summary": "以色列和伊朗昨天承诺停止相互攻击，就在几小时前，双方进行了导弹交火，中东地区的紧张局势加剧。即使做出了这一承诺，两国都列举了可能导致新的敌对行动的条件。以色列国防部长以色列·卡茨表示，部队将继续对黎巴嫩境内的激进组织真主党采取行动。伊朗表示，以色列针对真主党的行动促使其对以色列进行导弹袭击，首先是在周日晚上，然后是在周一早上。伊朗军方表示，暂时停止进一步行动，但警告称，如果以色列继续对黎巴嫩发动袭击，它将以“比以前更严厉、更有力的行动”进行报复。一名男子正在查看周一落在约旦河西岸城市杰里科附近的伊朗导弹残骸。马哈茂德·伊利安/美联社隐藏标题栏",
-      "_added_at": "2026-06-09T13:24:59.258901+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-09T12:56:36Z",
-      "headline": "Why Is Intel Stock Gaining Tuesday?",
-      "id": 53083824,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Intel-Corporation.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Intel-Corporation.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Intel-Corporation.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel stock climbs premarket on reports of a massive Google AI chip order and packaging tests with Nvidia. Read the details.",
-      "symbols": [
-        "GOOGL",
-        "INTC",
-        "MRVL",
-        "MU",
-        "NVDA",
-        "SNDK",
-        "SOXX",
-        "TSM"
-      ],
-      "updated_at": "2026-06-09T12:56:37Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53083824/why-is-intel-stock-gaining-tuesday",
-      "_summary": "The same report positioned Intel as a potential backup chipmaker for hyperscalers and AI leaders who look to diversify supply. Partsinevelos said Google reportedly placed an order with Intel for more than 3 million AI chips for 2028. She said NVIDIA has not placed an order but is actively testing Intel’s technology, making the story an ongoing catalyst for Intel shares. Partsinevelos said Intel’s move came as chip stocks rebounded from last week’s selloff.",
-      "_zh_headline": "为什么英特尔股票周二上涨？",
-      "_zh_summary": "同一份报告将英特尔定位为寻求供应多元化的超大规模企业和人工智能领导者的潜在备用芯片制造商。 Partsinevelos 表示，据报道，谷歌向英特尔订购了 2028 年超过 300 万颗 AI 芯片。她表示，NVIDIA 尚未下订单，但正在积极测试英特尔的技术，这使得该消息成为英特尔股价的持续催化剂。 Partsinevelos 表示，英特尔此举之际，芯片股从上周的抛售中反弹。",
-      "_added_at": "2026-06-09T13:24:59.258901+00:00"
+      "_zh_summary": "VanEck Semiconductor ETF（纳斯达克股票代码：SMH）在过去 5 年中的年化表现优于市场 24.29%，平均年回报率为 35.91%。目前，VanEck Semiconductor ETF 市值为 671 亿美元。购买 1000 美元的 SMH：如果投资者 5 年前购买了 1000 美元的 SMH 股票，那么根据撰写本文时 SMH 的价格为 587.38 美元，该股票今天的价值为 4,700.25 美元。",
+      "_added_at": "2026-06-10T06:49:08.645257+00:00"
     }
   ]
 }
