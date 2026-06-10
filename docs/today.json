@@ -2,6 +2,30 @@
   "date": "2026-06-10",
   "articles": [
     {
+      "headline": "The U.S. Strikes Iran Again",
+      "summary": "Also, inflation jumps for a third-straight month. Here’s the latest at the end of Wednesday.",
+      "url": "https://www.nytimes.com/2026/06/10/briefing/inflation-rises-us-iran-strikes.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-10T22:13:35+00:00",
+      "_summary": "Also, inflation jumps for a third-straight month. Here’s the latest at the end of Wednesday.",
+      "_zh_headline": "美国再次打击伊朗",
+      "_zh_summary": "此外，通胀连续第三个月上涨。这是周三月底的最新消息。",
+      "_added_at": "2026-06-10T23:09:11.878737+00:00"
+    },
+    {
+      "headline": "U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire",
+      "summary": "The escalating attacks threatened to derail efforts to end the war, with President Trump warning that Tehran would \"pay the price\" for stalled negotiations.",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-10T18:46:56-04:00",
+      "_summary": "A woman walks past a mural depicting a U.S. aircraft carrier under missile attack in downtown Tehran, Iran, on June 8. Vahid Salemi/AP hide caption DUBAI, United Arab Emirates — The U.S. military said Wednesday it has begun another round of strikes against Iran after President Trump said more were coming. The escalating attacks threatened to derail efforts to end the war , with Trump warning that Tehran would \"pay the price\" for stalled negotiations. U.S. Central Command said in a social media post that the military was striking \"multiple targets in Iran,\" attacks that were \"in response to Iran's unwarranted and continued aggression.\" The second day of American strikes came hours after Bahrain, Kuwait and Jordan — all of which host U.S. troops — came under Iranian fire. It was the third time this week that back-and-forth strikes have tested a two-month ceasefire. They also came a day after the U.S.",
+      "_zh_headline": "美国军方表示，在伊朗再次开火的第二天，它正在袭击伊朗的“多个目标”",
+      "_zh_summary": "6 月 8 日，伊朗德黑兰市中心，一名妇女走过一幅描绘美国航空母舰遭受导弹袭击的壁画。 Vahid Salemi/美联社隐藏标题栏 阿拉伯联合酋长国迪拜 — 美国军方周三表示，在特朗普总统表示将进行更多打击后，美国军方已开始对伊朗进行新一轮打击。不断升级的袭击有可能破坏结束战争的努力，特朗普警告德黑兰将为陷入僵局的谈判“付出代价”。美国中央司令部在社交媒体上发帖称，军方正在袭击“伊朗境内的多个目标”，这些袭击是“对伊朗无理和持续的侵略的回应”。美国发动袭击的第二天是在巴林、科威特和约旦（所有这些国家都有美军）遭到伊朗炮火袭击数小时后发生的。这是本周第三次来回的罢工考验了两个月的停火。他们也是在美国之后一天来的。",
+      "_added_at": "2026-06-10T23:09:11.878737+00:00"
+    },
+    {
       "headline": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’",
       "summary": "As inflation outpaces workers’ wages, the Trump administration insists that its agenda is working.",
       "url": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html",
@@ -537,48 +561,6 @@
       "_summary": "The four young men in the rebel camp hidden deep in jungle-covered mountains never wanted a part in Myanmar's civil war. They didn't choose to be soldiers for the military either. One had been a chef on his way home from work when he was grabbed off the street. His lack of ID was enough for the military to detain him and force him to sign up. Another was taken on his way back from a late-night karaoke session; a third had been working for the forestry department when he was arrested. The fourth man says on being arrested, drugs were slipped into his shoe, and he was framed and made to enlist. \"Before we even understood what was happening, we were sent straight to the front lines,\" one of the men – all between the ages of 19 and 25 – tells the BBC. \"They made us do all kinds of things we didn't want to do,\" another adds. \"We never got any real rest, not in the morning, not during the day, and not even at night.",
       "_zh_headline": "缅甸境内，武装分子正在节节败退，军队将男子编入军队",
       "_zh_summary": "隐藏在丛林深处的山区叛军营地中的四名年轻人从来不想参与缅甸内战。他们也没有选择为军队当兵。其中一名厨师在下班回家的路上被人从街上抓走。由于缺乏身份证件，军方足以拘留他并强迫他报名。另一张是在他深夜唱完卡拉OK回来的路上被拍到的。第三人被捕时正在林业部门工作。第四名男子说，被捕后，毒品被塞进他的鞋子里，他被陷害并被迫入伍。其中一名年龄在 19 岁至 25 岁之间的男子告诉 BBC：“在我们还没弄清楚发生了什么之前，我们就被直接送到了前线。” “他们让我们做各种我们不想做的事情，”另一位补充道。 “我们从来没有得到过真正的休息，早上没有，白天没有，甚至晚上也没有。",
-      "_added_at": "2026-06-10T06:49:08.645257+00:00"
-    },
-    {
-      "headline": "World's largest chipmaker does not rule out price rises as costs increase",
-      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-09T22:00:24+00:00",
-      "_summary": "The world's largest chipmaker has told the BBC that inflation is pushing up the cost of doing business, and did not rule out price rises. Taiwan Semiconductor Manufacturing Company (TSMC) makes the most advanced chips designed by companies such as Nvidia, AMD and Apple, so any increase in pricing could ripple through to the cost of AI infrastructure, and potentially over time, the prices customers pay for their electronic devices. However, the firm's chief financial officer, Wendell Huang, said it would not introduce sudden \"fourfold, fivefold\" price rises. \"We reflect our value,\" he said,  pointing to its \"technology leadership\" and \"manufacturing excellence\". In an exclusive and wide-ranging interview, Huang also denied that the AI boom was a bubble and that the firm's global expansion was due to geopolitical pressure.",
-      "_zh_headline": "全球最大芯片制造商不排除因成本增加而涨价",
-      "_zh_summary": "这家全球最大的芯片制造商告诉BBC，通货膨胀正在推高经营成本，并且不排除价格上涨的可能性。台积电 (TSMC) 生产由 Nvidia、AMD 和 Apple 等公司设计的最先进芯片，因此定价的任何上涨都可能波及人工智能基础设施的成本，并可能随着时间的推移，影响客户为其电子设备支付的价格。不过，该公司首席财务官黄文德尔表示，不会突然“四倍、五倍”提价。 “我们体现了我们的价值，”他说，并指出其“技术领先”和“卓越制造”。在一次独家且内容广泛的采访中，黄仁勋还否认人工智能热潮是泡沫，并且该公司的全球扩张是由于地缘政治压力。",
-      "_added_at": "2026-06-10T06:49:08.645257+00:00"
-    },
-    {
-      "author": "Badar Shaikh",
-      "content": "",
-      "created_at": "2026-06-10T06:35:25Z",
-      "headline": "JB Pritzker Freezes Illinois Gas Tax Hike, Calls It 'Relief' From Trump As Iran War Drives Up Fuel Prices",
-      "id": 53107551,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Washington-dc--United-States--April-14-2.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Washington-dc--United-States--April-14-2.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Washington-dc--United-States--April-14-2.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gov. JB Pritzker announced no tax hike on gas during the ongoing Iran war, touting it as relief amid Iran war surge.",
-      "symbols": [],
-      "updated_at": "2026-06-10T06:35:26Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/53107551/jb-pritzker-illinois-gas-tax-hike-relief-from-trump-iran-war-fuel-prices",
-      "_summary": "Gov. Jay Robert ‘JB’ Pritzker (D-IL) on Tuesday shared that his administration would not be hiking taxes on gas as the Iran war continues to spark price rises at the pump. In a post on X , Pritzker shared that the government “eliminated this year's inflation on gas tax,” touting it as a move that would bring “working families some relief at the pump from Donald Trump.” Lawmakers in the state recently passed the budget for the fiscal year, which includes freezing a 1.3-cent increase in tax on gas. The hike, which adjusts for inflation, was slated to take effect on July 1st this year, but has now been pushed to January 2027. Illinois charges a tax of 48.3 cents for a gallon of gas on top of the Federal gas tax of approximately 18.4 cents, with diesel commanding a Federal tax of approximately 24 cents.",
-      "_zh_headline": "JB 普利兹克冻结伊利诺伊州汽油税上调，称其为特朗普的“救济”，因为伊朗战争推高了燃油价格",
-      "_zh_summary": "伊利诺伊州民主党州长杰伊·罗伯特·“JB”·普利茨克 (Jay Robert ‘JB’ Pritzker) 周二表示，由于伊朗战争继续引发油价上涨，他的政府不会提高天然气税。普利茨克在 X 上发表的一篇文章中表示，政府“消除了今年的汽油税通胀”，并称此举将为“唐纳德·特朗普的工薪家庭带来一些缓解”。该州立法者最近通过了本财年预算，其中包括冻结天然气税增加 1.3 美分。此次加息是根据通货膨胀进行调整的，原定于今年 7 月 1 日生效，但现已推迟到 2027 年 1 月。伊利诺伊州在联邦汽油税约 18.4 美分的基础上，对每加仑汽油征收 48.3 美分的税，对柴油征收约 24 美分的联邦税。",
       "_added_at": "2026-06-10T06:49:08.645257+00:00"
     }
   ]
