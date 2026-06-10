@@ -2,6 +2,30 @@
   "date": "2026-06-09",
   "articles": [
     {
+      "headline": "World's largest chipmaker does not rule out price rises as costs increase",
+      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-09T22:00:24+00:00",
+      "_summary": "The world's largest chipmaker has told the BBC that inflation is pushing up the cost of doing business, and did not rule out price rises. Taiwan Semiconductor Manufacturing Company (TSMC) makes the most advanced chips designed by companies such as Nvidia, AMD and Apple, so any increase in pricing could ripple through to the cost of AI infrastructure, and potentially over time, the prices customers pay for their electronic devices. However, the firm's chief financial officer, Wendell Huang, said it would not introduce sudden \"fourfold, fivefold\" price rises. \"We reflect our value,\" he said,  pointing to its \"technology leadership\" and \"manufacturing excellence\". In an exclusive and wide-ranging interview, Huang also denied that the AI boom was a bubble and that the firm's global expansion was due to geopolitical pressure.",
+      "_zh_headline": "全球最大芯片制造商不排除因成本增加而涨价",
+      "_zh_summary": "这家全球最大的芯片制造商告诉BBC，通货膨胀正在推高经营成本，并且不排除价格上涨的可能性。台积电 (TSMC) 生产由 Nvidia、AMD 和 Apple 等公司设计的最先进芯片，因此定价的任何上涨都可能波及人工智能基础设施的成本，并可能随着时间的推移，影响客户为其电子设备支付的价格。不过，该公司首席财务官黄文德尔(Wendell Huang)表示，不会突然“四倍、五倍”提价。 “我们体现了我们的价值，”他说，并指出其“技术领先”和“卓越制造”。在一次独家且内容广泛的采访中，黄仁勋还否认人工智能热潮是泡沫，并且该公司的全球扩张是由于地缘政治压力。",
+      "_added_at": "2026-06-10T01:37:07.145394+00:00"
+    },
+    {
+      "headline": "The U.S. Strikes Iran After Trump Vowed to Retaliate",
+      "summary": "Also, meet NASA’s Artemis III crew. Here’s the latest at the end of Tuesday.",
+      "url": "https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-09T22:00:36+00:00",
+      "_summary": "Also, meet NASA’s Artemis III crew. Here’s the latest at the end of Tuesday.",
+      "_zh_headline": "特朗普誓言报复后，美国对伊朗进行打击",
+      "_zh_summary": "此外，还可以认识 NASA 的阿耳忒弥斯三号机组人员。这是周二月底的最新消息。",
+      "_added_at": "2026-06-10T01:37:07.145394+00:00"
+    },
+    {
       "author": "Benzinga Insights",
       "content": "",
       "created_at": "2026-06-09T22:01:04Z",
@@ -542,74 +566,6 @@
       "_summary": "The same report positioned Intel as a potential backup chipmaker for hyperscalers and AI leaders who look to diversify supply. Partsinevelos said Google reportedly placed an order with Intel for more than 3 million AI chips for 2028. She said NVIDIA has not placed an order but is actively testing Intel’s technology, making the story an ongoing catalyst for Intel shares. Partsinevelos said Intel’s move came as chip stocks rebounded from last week’s selloff.",
       "_zh_headline": "为什么英特尔股票周二上涨？",
       "_zh_summary": "同一份报告将英特尔定位为寻求供应多元化的超大规模企业和人工智能领导者的潜在备用芯片制造商。 Partsinevelos 表示，据报道，谷歌向英特尔订购了 2028 年超过 300 万颗 AI 芯片。她表示，NVIDIA 尚未下订单，但正在积极测试英特尔的技术，这使得该消息成为英特尔股价的持续催化剂。 Partsinevelos 表示，英特尔此举之际，芯片股从上周的抛售中反弹。",
-      "_added_at": "2026-06-09T13:24:59.258901+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-09T12:40:14Z",
-      "headline": "Worse Than Dot-Com Bubble? US Market Valuation Hits Record 238% Of GDP",
-      "id": 53083450,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Financial-Market-Bubble-Concept-And-Over.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Financial-Market-Bubble-Concept-And-Over.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/Financial-Market-Bubble-Concept-And-Over.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "US stock market valuation hits a record 238% of GDP. At $75.7 trillion, learn why current asset prices now dwarf the 2000 dot-com bubble.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-06-09T12:40:15Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/06/53083450/worse-than-dot-com-bubble-us-market-valuation-hits-record-238-of-gdp",
-      "_summary": "According to market data from MacroMicro and shared by the Kobeissi Letter, the total value of the U.S.",
-      "_zh_headline": "比互联网泡沫更糟糕？美国市场估值创历史新高，占 GDP 的 238%",
-      "_zh_summary": "根据MacroMicro和Kobeissi Letter分享的市场数据，美国的总价值",
-      "_added_at": "2026-06-09T13:24:59.258901+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-09T12:42:36Z",
-      "headline": "The 3% Delusion: New CBO Data Exposes The Hole In Trump's Fiscal Pledges",
-      "id": 53083515,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/January-16--2025---Washington-Dc-The-Sen_1.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/January-16--2025---Washington-Dc-The-Sen_1.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/09/January-16--2025---Washington-Dc-The-Sen_1.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Treasury Sec. Scott Bessent pledged a 3% GDP deficit, but CBO data shows the math doesn&#39;t add up. Read how policy clashes with reality.",
-      "symbols": [
-        "IVV",
-        "SPY",
-        "VOO"
-      ],
-      "updated_at": "2026-06-09T12:42:37Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/06/53083515/the-3-delusion-new-cbo-data-exposes-the-hole-in-trumps-fiscal-pledges",
-      "_summary": "Treasury Secretary Scott Bessent has made a simple promise with complicated arithmetic. Appearing before both the Senate Finance Committee and the House Ways and Means Committee, Bessent endorsed a bipartisan effort to reduce the federal deficit to 3% of gross domestic product (GDP) by the end of President Donald Trump's term.",
-      "_zh_headline": "3%的错觉：国会预算办公室的新数据暴露了特朗普财政承诺中的漏洞",
-      "_zh_summary": "财政部长斯科特·贝森特用复杂的算术做出了一个简单的承诺。贝森特在参议院财政委员会和众议院筹款委员会出席会议时，支持两党共同努力，在唐纳德·特朗普总统任期结束前将联邦赤字减少至国内生产总值 (GDP) 的 3%。",
       "_added_at": "2026-06-09T13:24:59.258901+00:00"
     }
   ]
