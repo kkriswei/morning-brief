@@ -1,18 +1,6 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "articles": [
-    {
-      "headline": "Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility",
-      "summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
-      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-11T00:14:07+00:00",
-      "_summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
-      "_zh_headline": "卫星图像和视频分析表明美国对伊朗供水设施进行了精确打击",
-      "_zh_summary": "目前尚不清楚美国是否有意袭击该设施或知道它是什么。故意针对民用基础设施可能构成战争罪。",
-      "_added_at": "2026-06-11T02:01:58.821477+00:00"
-    },
     {
       "headline": "Oil Prices Rise as U.S. Launches New Attack on Iran",
       "summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
@@ -23,7 +11,31 @@
       "_summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
       "_zh_headline": "随着美国对伊朗发动新的攻击，油价上涨",
       "_zh_summary": "美国和伊朗连续第二天交火后，油价上涨，加剧了人们对两国可能重新陷入公开冲突的担忧。",
-      "_added_at": "2026-06-11T02:01:58.821477+00:00"
+      "_added_at": "2026-06-11T07:15:42.580058+00:00"
+    },
+    {
+      "headline": "The War in Ukraine Has Now Gone On Longer Than World War I",
+      "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare.",
+      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T04:01:16+00:00",
+      "_summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare.",
+      "_zh_headline": "乌克兰战争的持续时间比第一次世界大战还长",
+      "_zh_summary": "从战斗的残酷性到新技术重塑战争的方式，这两场战争之间有很多相似之处。",
+      "_added_at": "2026-06-11T07:15:42.580058+00:00"
+    },
+    {
+      "headline": "Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility",
+      "summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
+      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T00:14:07+00:00",
+      "_summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
+      "_zh_headline": "卫星图像和视频分析表明美国对伊朗供水设施进行了精确打击",
+      "_zh_summary": "目前尚不清楚美国是否有意袭击该设施或知道它是什么。故意针对民用基础设施可能构成战争罪。",
+      "_added_at": "2026-06-11T07:15:42.580058+00:00"
     },
     {
       "headline": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
@@ -35,43 +47,19 @@
       "_summary": "President Donald Trump has said he \"loves the inflation\" as US prices rose last month at their fastest rate in three years. Bureau of Labor Statistics (BLS) figures showed prices went up by 4.2% in May from a year earlier. The increase, from 3.8% in April , was driven by rising energy costs in the wake of the US-Israel war in Iran. \"I love it. The numbers were great. You know what I really love? I love the inflation,\" Trump said at the White House. But he promised the rising prices would \"come down like a rock\" when the war with Iran was over. Later in the day, the US military bombed Iran. Reacting to the inflation figures on Wednesday, the president said US forces had conducted nighttime operations to take \"millions of barrels\" of oil from Iran, which he said had contributed to a slight drop in oil prices. \"When this conflict is over… you will see oil drop to where it was before,\" he told reporters in the White House.",
       "_zh_headline": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
       "_zh_summary": "唐纳德·特朗普总统表示，他“喜欢通货膨胀”，因为上个月美国物价以三年来最快的速度上涨。美国劳工统计局 (BLS) 的数据显示，5 月份物价同比上涨 4.2%。 4月份的增长为3.8%，这是由于美以伊朗战争后能源成本上涨所致。 “我喜欢它。这些数字很棒。你知道我真正喜欢什么吗？我喜欢通货膨胀，”特朗普在白宫表示。但他承诺，当与伊朗的战争结束时，不断上涨的价格将“像岩石一样下降”。当天晚些时候，美军轰炸了伊朗。针对周三的通胀数据，总统表示，美军进行了夜间行动，从伊朗夺取了“数百万桶”石油，他称这导致油价小幅下跌。他在白宫对记者说：“当这场冲突结束后……你会看到石油价格跌至之前的水平。”",
-      "_added_at": "2026-06-11T02:01:58.821477+00:00"
+      "_added_at": "2026-06-11T07:15:42.580058+00:00"
     },
     {
-      "headline": "The U.S. Strikes Iran Again",
-      "summary": "Also, inflation jumps for a third-straight month. Here’s the latest at the end of Wednesday.",
-      "url": "https://www.nytimes.com/2026/06/10/briefing/inflation-rises-us-iran-strikes.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-10T22:13:35+00:00",
-      "_summary": "Also, inflation jumps for a third-straight month. Here’s the latest at the end of Wednesday.",
-      "_zh_headline": "美国再次打击伊朗",
-      "_zh_summary": "此外，通胀连续第三个月上涨。这是周三月底的最新消息。",
-      "_added_at": "2026-06-10T23:09:11.878737+00:00"
-    },
-    {
-      "headline": "U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire",
-      "summary": "The escalating attacks threatened to derail efforts to end the war, with President Trump warning that Tehran would \"pay the price\" for stalled negotiations.",
+      "headline": "U.S. launches a second day of strikes on Iran and Iran fires back at Gulf States",
+      "summary": "The new U.S. assault across multiple Iranian cities came as efforts to negotiate an end the war again appeared stuck, with Iran insisting it would maintain its chokehold on the Strait of Hormuz",
       "url": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
       "source": "NPR",
       "symbols": [],
       "created_at": "2026-06-10T18:46:56-04:00",
-      "_summary": "A woman walks past a mural depicting a U.S. aircraft carrier under missile attack in downtown Tehran, Iran, on June 8. Vahid Salemi/AP hide caption DUBAI, United Arab Emirates — The U.S. military said Wednesday it has begun another round of strikes against Iran after President Trump said more were coming. The escalating attacks threatened to derail efforts to end the war , with Trump warning that Tehran would \"pay the price\" for stalled negotiations. U.S. Central Command said in a social media post that the military was striking \"multiple targets in Iran,\" attacks that were \"in response to Iran's unwarranted and continued aggression.\" The second day of American strikes came hours after Bahrain, Kuwait and Jordan — all of which host U.S. troops — came under Iranian fire. It was the third time this week that back-and-forth strikes have tested a two-month ceasefire. They also came a day after the U.S.",
-      "_zh_headline": "美国军方表示，在伊朗再次开火的第二天，它正在袭击伊朗的“多个目标”",
-      "_zh_summary": "6 月 8 日，伊朗德黑兰市中心，一名妇女走过一幅描绘美国航空母舰遭受导弹袭击的壁画。 Vahid Salemi/美联社隐藏标题栏 阿拉伯联合酋长国迪拜 — 美国军方周三表示，在特朗普总统表示将进行更多打击后，美国军方已开始对伊朗进行新一轮打击。不断升级的袭击有可能破坏结束战争的努力，特朗普警告德黑兰将为陷入僵局的谈判“付出代价”。美国中央司令部在社交媒体上发帖称，军方正在袭击“伊朗境内的多个目标”，这些袭击是“对伊朗无理和持续的侵略的回应”。美国发动袭击的第二天是在巴林、科威特和约旦（所有这些国家都有美军）遭到伊朗炮火袭击数小时后发生的。这是本周第三次来回的罢工考验了两个月的停火。他们也是在美国之后一天来的。",
-      "_added_at": "2026-06-10T23:09:11.878737+00:00"
-    },
-    {
-      "headline": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’",
-      "summary": "As inflation outpaces workers’ wages, the Trump administration insists that its agenda is working.",
-      "url": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-10T17:08:44+00:00",
-      "_summary": "As inflation outpaces workers’ wages, the Trump administration insists that its agenda is working.",
-      "_zh_headline": "特朗普对伊朗战争期间的高物价不屑一顾，并表示“我喜欢通货膨胀”",
-      "_zh_summary": "由于通货膨胀超过工人工资，特朗普政府坚称其议程正在发挥作用。",
-      "_added_at": "2026-06-10T21:08:11.559905+00:00"
+      "_summary": "A woman walks past a mural depicting a U.S. aircraft carrier under missile attack in downtown Tehran, Iran, on June 8. Vahid Salemi/AP hide caption DUBAI, United Arab Emirates — The United States launched a second round of airstrikes on Iran into Thursday morning after U.S. President Donald Trump warned that Tehran would \"pay the price\" for stalled negotiations, and Iran responded with strikes targeting Bahrain, Kuwait and Jordan. The new U.S. assault across multiple Iranian cities came as efforts to negotiate an end the war again appeared stuck, with Iran insisting it would maintain its chokehold on the Strait of Hormuz, which has disrupted global energy supplies and sent oil prices higher. The American attack appeared more intense and wider than the day before, but Iran released no information about what was hit. Kuwait closed its airspace because of the Thursday morning attack, without elaborating on any damage. Jordan didn't acknowledge the attack, though the U.S.",
+      "_zh_headline": "美国连续第二天对伊朗发动袭击，伊朗向海湾国家进行还击",
+      "_zh_summary": "6 月 8 日，伊朗德黑兰市中心，一名妇女走过一幅描绘美国航空母舰遭受导弹袭击的壁画。 Vahid Salemi/美联社 隐藏标题栏 阿拉伯联合酋长国迪拜 — 美国总统唐纳德·特朗普警告德黑兰将为陷入僵局的谈判“付出代价”，而伊朗则以针对巴林、科威特和约旦的打击作为回应，美国周四上午对伊朗发动了第二轮空袭。美国对伊朗多个城市发动新的袭击之际，结束战争的谈判似乎再次陷入困境，伊朗坚称将维持对霍尔木兹海峡的控制，这扰乱了全球能源供应并推高了油价。美国的袭击似乎比前一天更加激烈和广泛，但伊朗没有公布有关袭击内容的信息。科威特因周四上午的袭击而关闭了领空，但没有详细说明造成的任何损失。约旦没有承认这次袭击，但美国",
+      "_added_at": "2026-06-11T07:15:42.580058+00:00"
     },
     {
       "headline": "Veterans and relatives see no place for Trump's arch near Arlington National Cemetery",
@@ -83,434 +71,7 @@
       "_summary": "Shaun Byrnes, 83, a U.S. Navy veteran who served in Vietnam, arrives for an interview near Arlington National Cemetery in Arlington, Virginia on Monday, June 8, 2026. Public Citizen, representing Byrnes and other veterans, is suing the Trump administration to block construction of the proposed Triumphal Arch in Memorial Circle. Eric Lee for NPR hide caption Some of the most forceful objections against President Trump's proposed triumphal arch are coming from — and on behalf of — veterans. That's because the 250-foot structure would be built on a roundabout near the main entrance to Arlington National Cemetery, the final resting place for over 400,000 active-duty service members, veterans and their families. The Trump administration says in its proposal that the purpose of the arch is to \"celebrate the triumphs of the American people, inspire patriotism and love of country, and beautify our nation's capital.\"",
       "_zh_headline": "退伍军人和亲属认为阿灵顿国家公墓附近没有特朗普拱门的位置",
       "_zh_summary": "2026 年 6 月 8 日星期一，曾在越南服役的 83 岁美国海军退伍军人肖恩·伯恩斯 (Shaun Byrnes) 抵达弗吉尼亚州阿灵顿阿灵顿国家公墓附近接受采访。代表伯恩斯和其他退伍军人的公众公民正在起诉特朗普政府，要求阻止在纪念圈修建凯旋门。美国国家公共广播电台 (NPR) 的埃里克·李 (Eric Lee) 隐藏标题 对特朗普总统拟议的凯旋门提出的一些最强烈的反对意见来自退伍军人并代表退伍军人。这是因为这座 250 英尺高的建筑将建在阿灵顿国家公墓主入口附近的环形交叉路口上，阿灵顿国家公墓是超过 400,000 名现役军人、退伍军人及其家人的最后安息之地。特朗普政府在提案中表示，拱门的目的是“庆祝美国人民的胜利，激发爱国主义和对国家的热爱，并美化我们国家的首都”。",
-      "_added_at": "2026-06-10T21:08:11.559905+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-06-10T20:29:30Z",
-      "headline": "CPI Saves Market; China-Taiwan Tensions Hurt Semis-Momo Crowd Buys the Dip; Iran Truce Looks More Fragile",
-      "id": 53130222,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nCPI Saves Stock Market\n\n\n",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "CBRS",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPY",
-        "TSLA",
-        "USO"
-      ],
-      "updated_at": "2026-06-10T20:31:55Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/53130222/cpi-saves-market-china-taiwan-tensions-hurt-semis-momo-crowd-buys-the-dip-iran-truce-looks-more-fragile",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Apple Inc (NASDAQ: AAPL ) . API crude inventories came at a draw of 9.119M barrels vs. a consensus of a draw of 3.4M barrels. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals.",
-      "_zh_headline": "CPI拯救市场；中国与台湾的紧张局势损害了半成品 - 莫莫人群逢低买入；伊朗停战看起来更加脆弱",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，苹果公司（纳斯达克股票代码：AAPL）的资金流向呈中性。 API 原油库存消耗 911.9 万桶，而市场普遍预期消耗 340 万桶。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。",
-      "_added_at": "2026-06-10T21:08:11.559905+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-10T17:13:55Z",
-      "headline": "Oil Jumps On Iran Strikes, Nasdaq 100 Falls On Hot Inflation: Stock Market Today",
-      "id": 53124067,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Oil-Pump-Jacks-And-Refinery-Silhouettes-_0.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Oil-Pump-Jacks-And-Refinery-Silhouettes-_0.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Oil-Pump-Jacks-And-Refinery-Silhouettes-_0.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Oil surged and gold tumbled as renewed U.S.-Iran strikes hit the Gulf, while a tech selloff and a hot 4.2% CPI dragged Wall Street lower.",
-      "symbols": [
-        "AA",
-        "AVGO",
-        "CASY",
-        "DIA",
-        "DUOL",
-        "DVN",
-        "ELF",
-        "GDX",
-        "GNRC",
-        "IWM",
-        "JETS",
-        "LAZ",
-        "MU",
-        "MUSA",
-        "QQQ",
-        "SMCI",
-        "SMH",
-        "SMMT",
-        "TAN",
-        "VOO",
-        "XLE",
-        "XLI",
-        "XLK",
-        "XLY",
-        "XOP"
-      ],
-      "updated_at": "2026-06-10T17:13:56Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53124067/oil-jumps-iran-strikes-tech-rout-drags-stocks-cpi-4-2-percent-markets-wednesday",
-      "_summary": "West Texas Intermediate crude climbed 3.3% to around $91.07 a barrel, while Brent rose 2.9% to roughly $94.10. On Wall Street, losses were broad-based but concentrated in technology, as concerns over elevated AI-related valuations resurfaced. The S&P 500 fell 0.9% to 7,319.63, while the Dow Jones Industrial Average dropped about 592 points, or 1.2%, to 50,280. The Nasdaq 100 was the day’s laggard, sliding 1.4% to 28,670. The small-cap Russell 2000 proved more resilient, slipping just 0.3% to 2,858.65.",
-      "_zh_headline": "伊朗罢工导致石油价格上涨，通胀加剧导致纳斯达克 100 指数下跌：今日股市",
-      "_zh_summary": "西德克萨斯中质原油上涨 3.3%，至每桶 91.07 美元左右，布伦特原油上涨 2.9%，至每桶 94.10 美元左右。在华尔街，损失广泛，但主要集中在科技领域，因为对人工智能相关估值上升的担忧重新浮现。标准普尔 500 指数下跌 0.9%，至 7,319.63 点；道琼斯工业平均指数下跌约 592 点，即 1.2%，至 50,280 点。纳斯达克 100 指数当天表现落后，下跌 1.4%，至 28,670 点。 事实证明，小盘股罗素 2000 指数更具弹性，仅下跌 0.3%，至 2,858.65 点。",
-      "_added_at": "2026-06-10T18:14:29.001169+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-10T16:27:28Z",
-      "headline": "What Is Going On With Arm Stock On Wednesday?",
-      "id": 53122333,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Arms-Us-Headquarters-In-San-Jose--Califo.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Arms-Us-Headquarters-In-San-Jose--Califo.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Arms-Us-Headquarters-In-San-Jose--Califo.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Arm Holdings (ARM) stock slipped 4.46% to $310.79 on Wednesday as a routine wave of broad-market profit-taking swept through the semiconductor sector. E",
-      "symbols": [
-        "AIPI",
-        "ARM",
-        "FPXI",
-        "NVDA",
-        "ORCL",
-        "QQQ",
-        "SMHX",
-        "SOXX",
-        "SPY"
-      ],
-      "updated_at": "2026-06-10T16:27:29Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53122333/what-is-going-on-with-arm-stock-on-wednesday-2",
-      "_summary": "Arm Holdings Plc (NASDAQ: ARM ) stock slid on Wednesday as investors took profits across the semiconductor sector and reacted to broader macro pressures, rather than company-specific negative news. Arm has gained over 190% year-to-date, topping the S&P 500’s 8% and the NASDAQ 100’s 16% returns. Arm CEO Rene Haas said U.S. restrictions on AI CPU exports to China would be difficult to enforce because CPUs are widely used across many applications and cannot easily be tied to AI workloads .",
-      "_zh_headline": "周三 Arm 股票怎么样？",
-      "_zh_summary": "Arm Holdings Plc（纳斯达克股票代码：ARM）股价周三下跌，原因是投资者在整个半导体行业获利了结，并对更广泛的宏观压力做出了反应，而不是针对公司特定的负面消息。今年迄今为止，Arm 的回报率已超过 190%，超过标准普尔 500 指数 8% 的回报率和纳斯达克 100 指数 16% 的回报率。 Arm 首席执行官雷内·哈斯 (Rene Haas) 表示，美国对向中国出口 AI CPU 的限制将很难执行，因为 CPU 广泛用于许多应用程序，并且不能轻易与 AI 工作负载挂钩。",
-      "_added_at": "2026-06-10T18:14:29.001169+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-10T16:18:56Z",
-      "headline": "Qualcomm Slips, Shorter-Term Momentum Cools From Roller Coaster AI Highs",
-      "id": 53122093,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Snapdragon-8-Elite-Gen-5.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Snapdragon-8-Elite-Gen-5.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Snapdragon-8-Elite-Gen-5.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Qualcomm (QCOM) stock dips as near-term chip profit-taking clashes with a bullish JPMorgan target aiming for a $69B non-handset revenue boom.",
-      "symbols": [
-        "FTXL",
-        "NVDA",
-        "QCOM",
-        "QQQ",
-        "ROYA",
-        "SLB",
-        "SMHX",
-        "SPY"
-      ],
-      "updated_at": "2026-06-10T16:18:57Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53122093/qualcomm-slips-shorter-term-momentum-cools-from-roller-coaster-ai-highs",
-      "_summary": "Qualcomm Inc (NASDAQ: QCOM ) stock slid on Wednesday as investors weighed a broader semiconductor correction and profit-taking after a sharp multi-month AI rally. The stock gained 17% year-to-date, topping the S&P 500’s 8% and the Nasdaq 100’s 16% returns, • Qualcomm stock is feeling bearish pressure. Why is QCOM stock dropping? Still, the move cooled as doubts about the video’s authenticity spread.",
-      "_zh_headline": "高通下滑，短期势头从过山车般的人工智能高点降温",
-      "_zh_summary": "高通公司（纳斯达克股票代码：QCOM）股价周三下跌，因投资者在人工智能连续数月大幅上涨后权衡更广泛的半导体调整和获利了结。该股今年迄今上涨了 17%，高于标准普尔 500 指数的 8% 和纳斯达克 100 指数的 16% 回报率。 • 高通股票正感受到看跌压力。高通股价为何下跌？尽管如此，随着对视频真实性的怀疑蔓延，这一举动逐渐降温。",
-      "_added_at": "2026-06-10T18:14:29.001169+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-10T17:35:42Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
-      "id": 53124726,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": " ",
-      "symbols": [
-        "HPE",
-        "IREN",
-        "MRVL",
-        "MU",
-        "NOK",
-        "NOW",
-        "NVDA",
-        "ORCL",
-        "PLTR",
-        "SOUN"
-      ],
-      "updated_at": "2026-06-10T17:35:43Z",
-      "url": "https://www.benzinga.com/insights/options/26/06/53124726/10-information-technology-stocks-with-whale-alerts-in-todays-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
-      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
-      "_added_at": "2026-06-10T18:14:29.001169+00:00"
-    },
-    {
-      "author": "Evette Mitkov",
-      "content": "",
-      "created_at": "2026-06-10T17:56:34Z",
-      "headline": "What's Going On With The Dip In Gold Today?",
-      "id": 53125457,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Investment-In-Gold-Involves-Allocating-F.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Investment-In-Gold-Involves-Allocating-F.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Investment-In-Gold-Involves-Allocating-F.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SPDR Gold (NYSE: GLD) shares are sliding Wednesday. Precious metals moved sharply lower across global markets.",
-      "symbols": [
-        "GLD"
-      ],
-      "updated_at": "2026-06-10T17:56:35Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53125457/whats-going-on-with-the-dip-in-gold-today",
-      "_summary": "SPDR Gold (NYSE: GLD ) shares are sliding Wednesday. Precious metals moved sharply lower across global markets. Here’s what you should know . Spot gold was down about 2.4% near $4,161.63 per ounce early in the morning and later traded even weaker around $4,117.29. U.S. gold futures also declined about 2.2% to settle near $4,194.90 per ounce, CNBC reported . The pullback reflected a shift in market attention back toward inflation and the Federal Reserve's policy path.",
-      "_zh_headline": "今天黄金下跌是怎么回事？",
-      "_zh_summary": "SPDR Gold（纽约证券交易所股票代码：GLD）股价周三下跌。全球市场贵金属大幅走低。这是你应该知道的。现货黄金早盘下跌约 2.4%，接近 4,161.63 美元/盎司，随后交投更弱于 4,117.29 美元/盎司附近。据 CNBC 报道，美国黄金期货也下跌约 2.2%，收于每盎司 4,194.90 美元附近。此次回调反映出市场注意力重新转向通胀和美联储的政策路径。",
-      "_added_at": "2026-06-10T18:14:29.001169+00:00"
-    },
-    {
-      "headline": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
-      "summary": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-10T09:08:58-04:00",
-      "_summary": "Energy costs accounted for more than 60% of the monthly rise in the consumer price index in May. Joe Raedle/Getty Images hide caption Soaring gasoline prices, triggered by the U.S. war with Iran, have pushed inflation to its highest level in more than three years. A report from the Labor Department on Wednesday showed consumer prices in May were up 4.2% from a year ago. That's the biggest annual increase since April of 2023.  By contrast, the Labor Department says average wages have risen only 3.4% over the last year, so workers' real spending power has declined. Prices rose 0.5% between April and May, with higher energy costs accounting for more than 60% of that monthly increase. Gas prices have jumped by well over a dollar a gallon since the war began, strangling shipping traffic in the Strait of Hormuz — a critical pathway for much of the world's oil supply.",
-      "_zh_headline": "汽油价格飙升导致通胀三年来首次突破 4%",
-      "_zh_summary": "能源成本占5月份消费者价格指数月度涨幅的60%以上。 Joe Raedle/Getty Images 隐藏标题 美国与伊朗的战争引发的汽油价格飙升，已将通货膨胀推至三年多来的最高水平。美国劳工部周三发布的报告显示，5 月份消费者价格同比上涨 4.2%。这是自 2023 年 4 月以来的最大年度增幅。相比之下，劳工部表示，去年平均工资仅上涨 3.4%，因此工人的实际消费能力有所下降。 4 月至 5 月期间，价格上涨 0.5%，其中能源成本上涨占月度涨幅的 60% 以上。自战争开始以来，天然气价格每加仑上涨超过一美元，扼杀了霍尔木兹海峡的航运交通，而霍尔木兹海峡是世界大部分石油供应的重要通道。",
-      "_added_at": "2026-06-10T14:37:35.229572+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-10T12:38:08Z",
-      "headline": "Why Is Broadcom Stock Falling Wednesday?",
-      "id": 53112323,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Broadcom--Kaufbeuren--Germany---April-26.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Broadcom--Kaufbeuren--Germany---April-26.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Broadcom--Kaufbeuren--Germany---April-26.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Broadcom stock tests key moving averages after post-earnings profit-taking. Get the latest AVGO chart levels and support zones.",
-      "symbols": [
-        "AVGO",
-        "HACK",
-        "IGM",
-        "QQQ",
-        "SOXX",
-        "SPY",
-        "TDIV"
-      ],
-      "updated_at": "2026-06-10T12:38:09Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53112323/why-is-broadcom-stock-falling-wednesday",
-      "_summary": "The early decline appears tied to both market-wide weakness and lingering post-earnings pressure rather than any new company-specific catalyst. Last week, the stock came under pressure despite reporting strong fiscal second-quarter results . Investors were disappointed after management maintained, rather than raised, its forecast for more than $100 billion in AI semiconductor revenue by fiscal 2027. Broadcom’s third-quarter AI revenue outlook also largely matched Wall Street’s already elevated expectations.",
-      "_zh_headline": "为什么博通股票周三下跌？",
-      "_zh_summary": "早期的下跌似乎与整个市场的疲软和持续的盈利后压力有关，而不是与任何新的公司特定催化剂有关。上周，尽管公布了强劲的第二季度财报，但该股仍面临压力。管理层维持而不是提高对 2027 财年人工智能半导体收入超过 1000 亿美元的预测后，投资者感到失望。博通第三季度人工智能收入前景也基本符合华尔街已经调高的预期。",
-      "_added_at": "2026-06-10T14:37:35.229572+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-10T13:10:05Z",
-      "headline": "Why Is AMD Stock Falling Wednesday?",
-      "id": 53113225,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/The-AMD-Trade_0.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/The-AMD-Trade_0.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/The-AMD-Trade_0.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "AMD stock dips amid a broader chip sector pullback. Analysts stay bullish as tech investors weigh valuations and long-term AI trends.",
-      "symbols": [
-        "AMD",
-        "ARKW",
-        "ARTY",
-        "QQQ",
-        "SOXX",
-        "SPY"
-      ],
-      "updated_at": "2026-06-10T13:10:44Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53113225/why-is-amd-stock-falling-wednesday",
-      "_summary": "KKM Financial CEO Jeff Kilburg recently said his firm trimmed its AMD position ahead of the latest pullback after semiconductor stocks became “frothy.” However, he emphasized that the broader artificial intelligence trend “is not broken” and said he is watching AMD for a potential opportunity to rebuild exposure, signaling continued confidence in the company’s longer-term outlook.",
-      "_zh_headline": "AMD 股价为何周三下跌？",
-      "_zh_summary": "KKM Financial 首席执行官杰夫·基尔伯格 (Jeff Kilburg) 最近表示，在半导体股票出现“泡沫”后，他的公司在最近一次回调之前削减了 AMD 头寸。不过，他强调更广泛的人工智能趋势“并未被打破”，并表示他正在关注 AMD 寻找重建业务的潜在机会，这表明对该公司的长期前景仍然充满信心。",
-      "_added_at": "2026-06-10T14:37:35.229572+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-06-10T12:27:41Z",
-      "headline": "Why Is Marvell Technology Stock Falling Wednesday?",
-      "id": 53111985,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Marvell-Technology.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Marvell-Technology.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Marvell-Technology.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Marvell Technology (MRVL) pulls back amid tech sell-off. Discover the critical support and resistance levels to watch for the stock.",
-      "symbols": [
-        "MRVL",
-        "NVDA",
-        "SPY"
-      ],
-      "updated_at": "2026-06-10T12:27:42Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53111985/why-is-marvell-technology-stock-falling-wednesday",
-      "_summary": "Geopolitical uncertainty further weighed on market sentiment after President Donald Trump ordered military strikes against Iran on Tuesday. The action followed the downing of a U.S. Apache helicopter near the Strait of Hormuz. Though Trump later told The Wall Street Journal the incident “wasn’t a big deal” because “the pilot is fine,” the conflict interrupted brief hopes for a ceasefire, shaking equity markets. The decline follows a volatile period for the chipmaker .",
-      "_zh_headline": "Marvell 科技股为何周三下跌？",
-      "_zh_summary": "在唐纳德·特朗普总统周二下令对伊朗进行军事打击后，地缘政治的不确定性进一步打压了市场情绪。此前，一架美国阿帕奇直升机在霍尔木兹海峡附近被击落。尽管特朗普后来告诉《华尔街日报》，这一事件“没什么大不了的”，因为“飞行员很好”，但这场冲突打断了停火的短暂希望，震动了股市。此次下跌是在这家芯片制造商经历了一段动荡时期之后发生的。",
-      "_added_at": "2026-06-10T14:37:35.229572+00:00"
-    },
-    {
-      "headline": "How Quiet Oman Landed Itself in Trump’s Cross Hairs",
-      "summary": "As the Iran war drags on, Oman — a U.S. ally and mediator with Iran — has found itself at odds with the Trump administration and some of its own neighbors.",
-      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-10T09:02:02+00:00",
-      "_summary": "As the Iran war drags on, Oman — a U.S. ally and mediator with Iran — has found itself at odds with the Trump administration and some of its own neighbors.",
-      "_zh_headline": "安静的阿曼如何陷入特朗普的十字准线",
-      "_zh_summary": "随着伊朗战争的拖延，阿曼——美国的盟友和伊朗的调解者——发现自己与特朗普政府和一些邻国存在分歧。",
-      "_added_at": "2026-06-10T11:09:36.384220+00:00"
-    },
-    {
-      "headline": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
-      "summary": "Poland is threatening to strip Ukraine's president of a state honour over the naming Ukrainian military unit after controversial World War Two fighters.",
-      "url": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-10T09:57:20+00:00",
-      "_summary": "Ukraine is facing a major diplomatic fallout with key ally Poland, after Kyiv decided to name a military unit after controversial World War Two fighters, reopening a painful chapter from the past. Polish President Karol Nawrocki is considering stripping Ukraine's Volodymyr Zelensky of the country's highest state honour, the Order of the White Eagle. Nawrocki has already consulted with the council of the order and says he will decide whether to revoke the honour \"in due course\". The spat began when Zelensky issued a decree late last month naming a military unit of the Special Operations Forces after the Ukrainian Insurgent Army (UPA), which existed in the 1940s and 1950s. Many in Ukraine regard the UPA's members as heroes who fought for Ukrainian independence against the Soviet Red Army as well as Nazi Germany and Polish authorities. So for Ukrainians the title \"Heroes of the Ukrainian Insurgent Army\" is a major honour.",
-      "_zh_headline": "泽伦斯基面临压力，要求结束与波兰关于二战陆军单位名称的争执",
-      "_zh_summary": "基辅决定以有争议的第二次世界大战战士的名字命名一支军事部队，重新揭开过去的痛苦篇章后，乌克兰正面临着与主要盟友波兰的重大外交影响。波兰总统卡罗尔·纳罗基正在考虑剥夺乌克兰总统弗拉基米尔·泽伦斯基的国家最高荣誉——白鹰勋章。诺罗基已经与骑士团理事会进行了磋商，并表示他将“在适当的时候”决定是否撤销这一荣誉。这场争执始于泽伦斯基上个月末发布一项法令，以 1940 年代和 1950 年代存在的乌克兰叛乱军 (UPA) 的名字命名特种作战部队的一个军事单位。许多乌克兰人将 UPA 成员视为英雄，他们为乌克兰独立而反抗苏联红军、纳粹德国和波兰当局。因此，对于乌克兰人来说，“乌克兰起义军英雄”的称号是一项重大荣誉。",
-      "_added_at": "2026-06-10T11:09:36.384220+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-06-10T08:33:55Z",
-      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
-      "id": 53108294,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "June 10, 2026: Polymarket traders turn bearish on the S&amp;P 500 as Iran tensions escalate ahead of key inflation data.",
-      "symbols": [],
-      "updated_at": "2026-06-10T08:35:45Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53108294/sp500-june-10-open-up-or-down-polymarket-cpi-inflation-iran-strikes",
-      "_summary": "The S&P 500 fell on Tuesday as weakness in semiconductor stocks continued and investors weighed geopolitical uncertainty in the Middle East. Polymarket traders are now betting the benchmark index will open lower on Wednesday. The S&P 500 declined 0.26% to close at 7,386.65 on Tuesday after giving up early gains. The June 10 Polymarket contract implied just a 22% probability that the index will open higher on Wednesday, signaling a strongly bearish outlook among traders. Markets are facing a combination of rising geopolitical tensions and inflation concerns. Investors are also awaiting May’s consumer price index report due Wednesday morning. Economists surveyed by Dow Jones expect annual inflation to accelerate to 4.2%, marking the first reading above 4% since May 2023. Oil prices moved higher following the latest developments, with West Texas Intermediate crude futures rising around 1% in overnight trading.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于半导体股票持续疲软以及投资者权衡中东地缘政治的不确定性，标准普尔 500 指数周二下跌。 Polymarket 交易员现在押注基准指数将于周三低开。标准普尔 500 指数在回吐早盘涨幅后，周二下跌 0.26%，收于 7,386.65 点。 6 月 10 日 Polymarket 合约暗示该指数周三开盘走高的可能性仅为 22%，这表明交易者对前景强烈看跌。市场正面临地缘政治紧张局势加剧和通胀担忧的双重威胁。投资者还在等待周三上午发布的五月份消费者价格指数报告。道琼斯调查的经济学家预计，年度通胀率将加速至 4.2%，这是自 2023 年 5 月以来首次超过 4%。随着最新事态发展，油价走高，西德克萨斯中质原油期货隔夜交易上涨约 1%。",
-      "_added_at": "2026-06-10T11:09:36.384220+00:00"
+      "_added_at": "2026-06-11T07:15:42.580058+00:00"
     }
   ]
 }
