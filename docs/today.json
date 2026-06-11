@@ -2,6 +2,137 @@
   "date": "2026-06-11",
   "articles": [
     {
+      "headline": "With Inflation Bearing Down, Europe Is Facing Higher Interest Rates",
+      "summary": "The European Central Bank is set to raise rates, the first such move since September 2023, as energy disruptions caused by the Iran war drive higher prices.",
+      "url": "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T07:16:50+00:00",
+      "_summary": "The European Central Bank is set to raise rates, the first such move since September 2023, as energy disruptions caused by the Iran war drive higher prices.",
+      "_zh_headline": "随着通胀下降，欧洲面临更高的利率",
+      "_zh_summary": "由于伊朗战争造成的能源中断导致价格上涨，欧洲央行将加息，这是自 2023 年 9 月以来的首次加息。",
+      "_added_at": "2026-06-11T11:56:27.019541+00:00"
+    },
+    {
+      "headline": "Trump Shrugs Off Surging Inflation, and Why a Groundbreaking Social Media Ban Is Floundering",
+      "summary": "Plus, the man behind “GOOOOAL!”",
+      "url": "https://www.nytimes.com/2026/06/11/podcasts/the-headlines/trump-inflation-australia-social-media-ban.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T10:00:53+00:00",
+      "_summary": "Plus, the man behind “GOOOOAL!”",
+      "_zh_headline": "特朗普对通胀飙升不屑一顾，以及为何突破性的社交媒体禁令陷入困境",
+      "_zh_summary": "另外，“GOOOOAL！”背后的男人",
+      "_added_at": "2026-06-11T11:56:27.019541+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-11T10:10:12Z",
+      "headline": "Justin Wolfers Warns Of 'Affordability Crisis' As Real Wages Fall For Sixth Straight Month",
+      "id": 53135177,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Inflation-Word-On-Wooden-Cube-With-With-.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Inflation-Word-On-Wooden-Cube-With-With-.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Inflation-Word-On-Wooden-Cube-With-With-.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Economist Justin Wolfers warns of a 2026 &#39;affordability crisis&#39; as supply shocks drive up inflation and falling real wages hurt consumers",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-11T10:10:13Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53135177/justin-wolfers-warns-of-affordability-crisis-as-real-wages-fall-for-sixth-straight-month",
+      "_summary": "Top economist Justin Wolfers has warned of a growing “affordability crisis” as the newly released May CPI report reveals that “real wages” have been falling for six consecutive months, completely eroding worker gains in 2026. According to Wolfers, the latest inflation surge is a direct result of two “unhelpful supply shocks”: an escalating war pushing up energy costs and tariffs raising prices on everyday goods.",
+      "_zh_headline": "贾斯汀·沃尔弗斯警告称，由于实际工资连续六个月下降，出现“负担能力危机”",
+      "_zh_summary": "顶级经济学家贾斯汀·沃尔弗斯 (Justin Wolfers) 警告称，“负担能力危机”日益严重，因为新发布的 5 月份消费者物价指数 (CPI) 报告显示，“实际工资”已连续六个月下降，完全侵蚀了 2026 年工人的收入。沃尔弗斯表示，最新的通胀飙升是两个“无益的供应冲击”的直接结果：不断升级的战争推高了能源成本，关税提高了日常用品的价格。",
+      "_added_at": "2026-06-11T11:56:27.019541+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-11T09:39:53Z",
+      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Gain Despite Trump's Threats To Iran Amid Stalled Peace Talks—Oracle, CoreWeave, Visa In Focus",
+      "id": 53134639,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/New-York-Ny-Usa-march-21--2024-The-New-Y.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/New-York-Ny-Usa-march-21--2024-The-New-Y.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/New-York-Ny-Usa-march-21--2024-The-New-Y.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures rose on Thursday, as the Nasdaq 100, S&amp;P 500, and the Dow Jones indices advanced, following Wednesday’s lower close.\n\n\n\nInvestors are closely watching the upcoming May PPI release, along with the weekly jobless claims, before the opening bell.",
+      "symbols": [
+        "ADBE",
+        "BTCUSD",
+        "CRWV",
+        "ORCL",
+        "OXM",
+        "QQQ",
+        "SPY",
+        "V"
+      ],
+      "updated_at": "2026-06-11T09:39:54Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53134639/stock-market-today-dow-jones-sp-500-futures-gain-despite-trumps-threats-to-iran-amid-stalled-peace-talks-oracle-coreweave-visa-in-focus",
+      "_summary": "U.S. stock futures rose on Thursday, as the Nasdaq 100, S&P 500, and the Dow Jones indices advanced, following Wednesday’s lower close. Investors are closely watching the upcoming May PPI release, along with the weekly jobless claims, before the opening bell. Middle East tensions have escalated significantly as the U.S. and Iran traded direct military strikes, following warnings from President Donald Trump that Tehran would “pay the price” for stalled peace talks.",
+      "_zh_headline": "今日股市：尽管特朗普在和平谈判陷入僵局期间对伊朗发出威胁，道琼斯指数、标准普尔 500 指数期货仍上涨——焦点包括 Oracle、CoreWeave、Visa",
+      "_zh_summary": "美国股指期货周四上涨，纳斯达克 100 指数、标准普尔 500 指数和道琼斯指数继周三收盘走低后上涨。投资者正在密切关注开盘前即将发布的 5 月份生产者价格指数 (PPI) 以及每周初请失业金人数。在唐纳德·特朗普总统警告德黑兰将为陷入僵局的和谈“付出代价”之后，美国和伊朗进行了直接军事打击，中东紧张局势大幅升级。",
+      "_added_at": "2026-06-11T11:56:27.019541+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-11T11:36:58Z",
+      "headline": "Forget Micron: These Two Russell 2000 Stocks Are Quietly Delivering Triple-Digit Gains",
+      "id": 53136888,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Analysts reiterate Outperform for AI grid stocks Bloom Energy (BE) and Applied Optoelectronics (AAOI) as their 1,000% gains outpace Micron.",
+      "symbols": [
+        "AAOI",
+        "BE",
+        "MU"
+      ],
+      "updated_at": "2026-06-11T11:36:59Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53136888/forget-micron-these-two-russell-2000-stocks-are-quietly-delivering-triple-digit-gains",
+      "_summary": "With hyperscalers starved for electricity, Bloom Energy provides rapid on-site solid oxide fuel cells to bypass multi-year grid utility backlogs. RBC Capital recently reiterated its “Outperform” rating and a $335.00 price target for BE, representing a 43.02% upside from its current levels. The decision follows confirmation that a massive Wyoming data center project is moving forward directly with a hyperscaler customer.",
+      "_zh_headline": "忘记美光吧：这两只罗素 2000 指数股票正在悄然实现三位数的涨幅",
+      "_zh_summary": "由于超大规模企业急需电力，Bloom Energy 提供快速现场固体氧化物燃料电池，以绕过多年的电网公用事业积压。 RBC Capital 最近重申了 BE 的“跑赢大盘”评级和 335.00 美元的目标价，较当前水平上涨 43.02%。该决定是在确认怀俄明州的一个大型数据中心项目正在与超大规模客户直接推进之后做出的。",
+      "_added_at": "2026-06-11T11:56:27.019541+00:00"
+    },
+    {
       "headline": "Oil Prices Rise as U.S. Launches New Attack on Iran",
       "summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
       "url": "https://www.nytimes.com/2026/06/10/business/oil-gas-price-iran.html",
