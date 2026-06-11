@@ -2,6 +2,42 @@
   "date": "2026-06-10",
   "articles": [
     {
+      "headline": "Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility",
+      "summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
+      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T00:14:07+00:00",
+      "_summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
+      "_zh_headline": "卫星图像和视频分析表明美国对伊朗供水设施进行了精确打击",
+      "_zh_summary": "目前尚不清楚美国是否有意袭击该设施或知道它是什么。故意针对民用基础设施可能构成战争罪。",
+      "_added_at": "2026-06-11T02:01:58.821477+00:00"
+    },
+    {
+      "headline": "Oil Prices Rise as U.S. Launches New Attack on Iran",
+      "summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
+      "url": "https://www.nytimes.com/2026/06/10/business/oil-gas-price-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T01:49:17+00:00",
+      "_summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
+      "_zh_headline": "随着美国对伊朗发动新的攻击，油价上涨",
+      "_zh_summary": "美国和伊朗连续第二天交火后，油价上涨，加剧了人们对两国可能重新陷入公开冲突的担忧。",
+      "_added_at": "2026-06-11T02:01:58.821477+00:00"
+    },
+    {
+      "headline": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-11T00:02:45+00:00",
+      "_summary": "President Donald Trump has said he \"loves the inflation\" as US prices rose last month at their fastest rate in three years. Bureau of Labor Statistics (BLS) figures showed prices went up by 4.2% in May from a year earlier. The increase, from 3.8% in April , was driven by rising energy costs in the wake of the US-Israel war in Iran. \"I love it. The numbers were great. You know what I really love? I love the inflation,\" Trump said at the White House. But he promised the rising prices would \"come down like a rock\" when the war with Iran was over. Later in the day, the US military bombed Iran. Reacting to the inflation figures on Wednesday, the president said US forces had conducted nighttime operations to take \"millions of barrels\" of oil from Iran, which he said had contributed to a slight drop in oil prices. \"When this conflict is over… you will see oil drop to where it was before,\" he told reporters in the White House.",
+      "_zh_headline": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
+      "_zh_summary": "唐纳德·特朗普总统表示，他“喜欢通货膨胀”，因为上个月美国物价以三年来最快的速度上涨。美国劳工统计局 (BLS) 的数据显示，5 月份物价同比上涨 4.2%。 4月份的增长为3.8%，这是由于美以伊朗战争后能源成本上涨所致。 “我喜欢它。这些数字很棒。你知道我真正喜欢什么吗？我喜欢通货膨胀，”特朗普在白宫表示。但他承诺，当与伊朗的战争结束时，不断上涨的价格将“像岩石一样下降”。当天晚些时候，美军轰炸了伊朗。针对周三的通胀数据，总统表示，美军进行了夜间行动，从伊朗夺取了“数百万桶”石油，他称这导致油价小幅下跌。他在白宫对记者说：“当这场冲突结束后……你会看到石油价格跌至之前的水平。”",
+      "_added_at": "2026-06-11T02:01:58.821477+00:00"
+    },
+    {
       "headline": "The U.S. Strikes Iran Again",
       "summary": "Also, inflation jumps for a third-straight month. Here’s the latest at the end of Wednesday.",
       "url": "https://www.nytimes.com/2026/06/10/briefing/inflation-rises-us-iran-strikes.html",
@@ -475,93 +511,6 @@
       "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
       "_zh_summary": "由于半导体股票持续疲软以及投资者权衡中东地缘政治的不确定性，标准普尔 500 指数周二下跌。 Polymarket 交易员现在押注基准指数将于周三低开。标准普尔 500 指数在回吐早盘涨幅后，周二下跌 0.26%，收于 7,386.65 点。 6 月 10 日 Polymarket 合约暗示该指数周三开盘走高的可能性仅为 22%，这表明交易者对前景强烈看跌。市场正面临地缘政治紧张局势加剧和通胀担忧的双重威胁。投资者还在等待周三上午发布的五月份消费者价格指数报告。道琼斯调查的经济学家预计，年度通胀率将加速至 4.2%，这是自 2023 年 5 月以来首次超过 4%。随着最新事态发展，油价走高，西德克萨斯中质原油期货隔夜交易上涨约 1%。",
       "_added_at": "2026-06-10T11:09:36.384220+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-10T08:59:57Z",
-      "headline": "Stock Market Today: S&P 500, Dow Futures Fall As Trump Orders Strikes Against Iran—Autozi Internet, Cracker Barrel In Focus",
-      "id": 53108423,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Wall-Street.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Wall-Street.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Wall-Street.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures fell on Wednesday, as the Nasdaq 100, S&amp;P 500, and the Dow Jones indices declined, following Tuesday’s mixed close.",
-      "symbols": [
-        "AZI",
-        "BTCUSD",
-        "CASY",
-        "CBRL",
-        "ORCL",
-        "QQQ",
-        "SMCI",
-        "SPY"
-      ],
-      "updated_at": "2026-06-10T08:59:58Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53108423/stock-market-today-sp-500-dow-futures-fall-as-trump-orders-strikes-against-iran-autozi-internet-cracker-barrel-in-focus",
-      "_summary": "U.S. stock futures fell on Wednesday, as the Nasdaq 100, S&P 500, and the Dow Jones indices declined, following Tuesday’s mixed close. Investors are closely watching the upcoming May CPI release before the market opens, which FactSet data estimates will show a 4.2% year-over-year increase. If accurate, this uniform projection across surveyed analysts would mark the largest annual rise in consumer prices since April 2023.",
-      "_zh_headline": "今日股市：特朗普下令打击伊朗，标准普尔 500 指数、道琼斯指数期货下跌 - Autozi Internet、Cracker Barrel 成为焦点",
-      "_zh_summary": "美国股指期货周三下跌，纳斯达克 100 指数、标准普尔 500 指数和道琼斯指数在周二收盘涨跌互现后下跌。投资者在开盘前密切关注即将发布的 5 月份消费者物价指数 (CPI)，FactSet 数据预计该数据将显示同比增长 4.2%。如果准确的话，接受调查的分析师的这一统一预测将标志着自 2023 年 4 月以来消费者价格的最大年度涨幅。",
-      "_added_at": "2026-06-10T11:09:36.384220+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-10T10:16:40Z",
-      "headline": "The Late-Stage Debt Cycle Is A Hidden Gold Tailwind",
-      "id": 53109422,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Image-Of-Gold-Bullion-And-Gold-Coins.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Image-Of-Gold-Bullion-And-Gold-Coins.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/10/Image-Of-Gold-Bullion-And-Gold-Coins.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gold dips below $4,200, but soaring fiscal deficits and central bank buying suggest the metal&#39;s most compelling story is just starting.",
-      "symbols": [
-        "GDX",
-        "GDXJ",
-        "GLD",
-        "GLDM",
-        "IAU"
-      ],
-      "updated_at": "2026-06-10T10:16:41Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/53109422/the-late-stage-debt-cycle-is-a-hidden-gold-tailwind",
-      "_summary": "Yet, short-term volatility might be masking far stronger forces beneath the surface. Rising inflation, expanding fiscal deficits, and mounting sovereign debt are all converging in 2026. For investors focused on preserving purchasing power rather than chasing yield, that shift may represent gold’s most compelling story in decades. The world is moving toward a regime where preserving purchasing power matters more than generating yield, Sprott Managing Partner Paul Wong said in the latest report .",
-      "_zh_headline": "后期债务周期是隐藏的黄金顺风",
-      "_zh_summary": "然而，短期波动可能掩盖了表面之下更强大的力量。通胀上升、财政赤字扩大和主权债务增加都将在 2026 年汇聚。对于专注于保持购买力而不是追逐收益率的投资者来说，这种转变可能代表了黄金几十年来最引人注目的故事。 Sprott 管理合伙人 Paul Wong 在最新报告中表示，世界正在走向一种保持购买力比创造收益更重要的体制。",
-      "_added_at": "2026-06-10T11:09:36.384220+00:00"
-    },
-    {
-      "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
-      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-09T21:13:17+00:00",
-      "_summary": "The four young men in the rebel camp hidden deep in jungle-covered mountains never wanted a part in Myanmar's civil war. They didn't choose to be soldiers for the military either. One had been a chef on his way home from work when he was grabbed off the street. His lack of ID was enough for the military to detain him and force him to sign up. Another was taken on his way back from a late-night karaoke session; a third had been working for the forestry department when he was arrested. The fourth man says on being arrested, drugs were slipped into his shoe, and he was framed and made to enlist. \"Before we even understood what was happening, we were sent straight to the front lines,\" one of the men – all between the ages of 19 and 25 – tells the BBC. \"They made us do all kinds of things we didn't want to do,\" another adds. \"We never got any real rest, not in the morning, not during the day, and not even at night.",
-      "_zh_headline": "缅甸境内，武装分子正在节节败退，军队将男子编入军队",
-      "_zh_summary": "隐藏在丛林深处的山区叛军营地中的四名年轻人从来不想参与缅甸内战。他们也没有选择为军队当兵。其中一名厨师在下班回家的路上被人从街上抓走。由于缺乏身份证件，军方足以拘留他并强迫他报名。另一张是在他深夜唱完卡拉OK回来的路上被拍到的。第三人被捕时正在林业部门工作。第四名男子说，被捕后，毒品被塞进他的鞋子里，他被陷害并被迫入伍。其中一名年龄在 19 岁至 25 岁之间的男子告诉 BBC：“在我们还没弄清楚发生了什么之前，我们就被直接送到了前线。” “他们让我们做各种我们不想做的事情，”另一位补充道。 “我们从来没有得到过真正的休息，早上没有，白天没有，甚至晚上也没有。",
-      "_added_at": "2026-06-10T06:49:08.645257+00:00"
     }
   ]
 }
