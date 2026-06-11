@@ -2,6 +2,91 @@
   "date": "2026-06-11",
   "articles": [
     {
+      "headline": "Iran’s Attacks on Gulf States Underscore Their Dependence on U.S.",
+      "summary": "The targeted countries host sprawling American military bases and thousands of personnel at a time when the United States is waging war against Iran.",
+      "url": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T15:45:40+00:00",
+      "_summary": "The targeted countries host sprawling American military bases and thousands of personnel at a time when the United States is waging war against Iran.",
+      "_zh_headline": "伊朗对海湾国家的袭击凸显了它们对美国的依赖",
+      "_zh_summary": "在美国对伊朗发动战争之际，这些目标国家拥有庞大的美国军事基地和数千名人员。",
+      "_added_at": "2026-06-11T16:37:44.916260+00:00"
+    },
+    {
+      "headline": "Deadly Sudan drone strike targets funeral procession",
+      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-11T15:57:04+00:00",
+      "_summary": "A drone strike on a funeral procession at a cemetery in the Sudanese city of el-Obeid has killed at least four people and injured several others, two rights groups, Sudan Doctors Network and Emergency Lawyers, have said. Both groups blame the paramilitary Rapid Support Forces (RSF) for the attack. Emergency Lawyers said it was part of a series of drone strikes that started on Wednesday evening in which at least 23 people have died in all. El-Obeid, currently in the hands of the army, is a key battleground in Sudan's three-year civil war which began after the leaders of the army and RSF fell out over the future direction of the country. The fighting has created the world's worst humanitarian crisis with more than 11 million people forced from their homes and 28 million facing acute hunger. There are no reliable figures for the death toll, but it is thought to be at least 50,000.",
+      "_zh_headline": "苏丹致命无人机袭击送葬队伍",
+      "_zh_summary": "苏丹医生网络和紧急律师这两个人权组织表示，无人机袭击了苏丹奥贝德市一处墓地的送葬队伍，造成至少四人死亡，多人受伤。两个组织都将此次袭击归咎于准军事快速支援部队（RSF）。 Emergency Lawyers 表示，这是周三晚上开始的一系列无人机袭击的一部分，此次袭击总共造成至少 23 人死亡。目前由军队控制的奥贝德是苏丹三年内战的一个关键战场，这场内战是在军队和无国界部队领导人就国家未来方向发生争执后开始的。战斗造成了世界上最严重的人道主义危机，超过 1100 万人被迫离开家园，2800 万人面临严重饥饿。目前尚无可靠的死亡人数数字，但据信至少有 50,000 人。",
+      "_added_at": "2026-06-11T16:37:44.916260+00:00"
+    },
+    {
+      "headline": "Trump and Hegseth Broadcast U.S. Military Strikes Before They Happen",
+      "summary": "Commanders do not usually speak publicly about future operations to avoid jeopardizing the mission’s success.",
+      "url": "https://www.nytimes.com/2026/06/11/us/politics/trump-hegseth-military-operations.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T14:14:48+00:00",
+      "_summary": "Commanders do not usually speak publicly about future operations to avoid jeopardizing the mission’s success.",
+      "_zh_headline": "特朗普和赫格斯在美国军事袭击发生前进行广播",
+      "_zh_summary": "指挥官通常不会公开谈论未来的行动，以避免危及任务的成功。",
+      "_added_at": "2026-06-11T16:37:44.916260+00:00"
+    },
+    {
+      "headline": "Trump Administration Pushes Limits of Election Investigations",
+      "summary": "The Justice Department once tried to stay out of state elections, urging caution. It is now pressing forward with claims of fraud as President Trump revives his unfounded assertions that elections cannot be trusted.",
+      "url": "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T15:23:08+00:00",
+      "_summary": "The Justice Department once tried to stay out of state elections, urging caution. It is now pressing forward with claims of fraud as President Trump revives his unfounded assertions that elections cannot be trusted.",
+      "_zh_headline": "特朗普政府限制选举调查",
+      "_zh_summary": "司法部曾试图避免参与州选举，并敦促谨慎行事。随着特朗普总统重申其毫无根据的选举不可信的断言，该机构现在正在推进欺诈指控。",
+      "_added_at": "2026-06-11T16:37:44.916260+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-11T16:13:11Z",
+      "headline": "Oracle Missed On Cloud Revenue: Why AI ETFs Are Unfazed",
+      "id": 53147780,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Ai-Technology-Bubble-Concept-Chip-Stock-_1.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Ai-Technology-Bubble-Concept-Chip-Stock-_1.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Ai-Technology-Bubble-Concept-Chip-Stock-_1.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Oracle fell after a cloud revenue miss and a $40 billion AI funding plan, but AI ETFs barely moved, reflecting confidence in long-term AI demand.",
+      "symbols": [
+        "CLOU",
+        "ORCL",
+        "QQQ",
+        "SKYY",
+        "VGT",
+        "XLK"
+      ],
+      "updated_at": "2026-06-11T16:13:11Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/53147780/oracle-missed-on-cloud-revenue-why-ai-etfs-are-unfazed",
+      "_summary": "The company reported adjusted earnings per share of $2.11 on revenue of $19.18 billion, topping analyst estimates of $1.97 and $19.09 billion, respectively. However, cloud revenue came in at $9.91 billion, slightly below expectations of $9.97 billion. The stock also faced pressure after Oracle disclosed plans to finance new data center construction through a mix of debt and equity offerings. Yet while Oracle’s shares retreated, investors in AI-focused ETFs appeared largely unfazed.",
+      "_zh_headline": "甲骨文错失云收入：为何人工智能 ETF 不受影响",
+      "_zh_summary": "该公司报告调整后每股收益为 2.11 美元，营收为 191.8 亿美元，分别超出分析师预期的 1.97 美元和 190.9 亿美元。然而，云收入为 99.1 亿美元，略低于预期的 99.7 亿美元。在甲骨文披露通过债务和股票发行相结合的方式为新数据中心建设融资的计划后，该股也面临压力。然而，尽管甲骨文股价下跌，但专注于人工智能的 ETF 投资者似乎基本不受影响。",
+      "_added_at": "2026-06-11T16:37:44.916260+00:00"
+    },
+    {
       "headline": "With Inflation Bearing Down, Europe Is Facing Higher Interest Rates",
       "summary": "The European Central Bank is set to raise rates, the first such move since September 2023, as energy disruptions caused by the Iran war drive higher prices.",
       "url": "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html",
