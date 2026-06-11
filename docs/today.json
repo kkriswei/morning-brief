@@ -2,6 +2,240 @@
   "date": "2026-06-11",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-11T17:14:37Z",
+      "headline": "Chips Lead Nasdaq 100 Rebound, Oracle Sinks 11%: Stock Market Today",
+      "id": 53149689,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/3d-Render-Closeup-Of-Computer-Keyboard-W.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/3d-Render-Closeup-Of-Computer-Keyboard-W.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/3d-Render-Closeup-Of-Computer-Keyboard-W.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The S&amp;P 500 gained 0.5% while the tech-heavy Nasdaq 100 rose 1.1% by midday Thursday, extending a rebound from one-month lows.",
+      "symbols": [
+        "ALB",
+        "AMAT",
+        "BTCUSD",
+        "CHWY",
+        "CPNG",
+        "CRM",
+        "DIA",
+        "EFX",
+        "GDDY",
+        "GDX",
+        "IGV",
+        "INTC",
+        "IWM",
+        "KLAC",
+        "LRCX",
+        "ORCL",
+        "PTC",
+        "QQQ",
+        "SMH",
+        "SNDK",
+        "SOXX",
+        "VOO",
+        "XME",
+        "Z"
+      ],
+      "updated_at": "2026-06-11T17:14:38Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53149689/semiconductors-memory-nasdaq-100-rebound-oracle-sinks-markets-thursday",
+      "_summary": "The S&P 500 gained 0.5% while the tech-heavy Nasdaq 100 rose 1.1% by midday Thursday, extending a rebound from one-month lows. Chip equipment makers rallied alongside resilient small caps, offsetting fresh war-risk headlines and the return of rate-hike fears . A hot headline Producer Price Index print lifted producer inflation to its highest since late 2022, yet core measures came in below forecasts and echoed the softer core CPI a day earlier.",
+      "_zh_headline": "芯片股引领纳斯达克 100 指数反弹，甲骨文下跌 11%：今日股市",
+      "_zh_summary": "截至周四中午，标准普尔 500 指数上涨 0.5%，而以科技股为主的纳斯达克 100 指数上涨 1.1%，延续了从一个月低点的反弹势头。芯片设备制造商与有弹性的小盘股一起上涨，抵消了新的战争风险头条新闻和加息担忧的回归。热门标题生产者价格指数 (PPI) 将生产者通胀率提升至 2022 年底以来的最高水平，但核心指标低于预期，与前一天疲软的核心 CPI 相呼应。",
+      "_added_at": "2026-06-11T19:58:31.298912+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-06-11T18:30:46Z",
+      "headline": "Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised",
+      "id": 53152453,
+      "images": [],
+      "source": "benzinga",
+      "summary": "\n\n\n\nWhipsawed Stock Market\n\n\n",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "BTCUSD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPY",
+        "TSLA",
+        "USO"
+      ],
+      "updated_at": "2026-06-11T18:32:34Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53152453/stock-market-whipsawed-on-trump-statements-spacex-euphoria-ecb-rate-hike-hotter-ppi-but-prior-revised",
+      "_summary": "European Central Bank (ECB) raises its interest rate by 25 bps to 2.25%. This rate hike is inline with expectations.  ECB has become the first major central bank to raise rates to contain inflation stemming from the Iran war.  ECB is projecting 2026 inflation of 3.0% vs. prior 2.6%.  ECB is projecting 2026 growth of 0.8% vs. prior 0.9%. Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis.",
+      "_zh_headline": "股市因特朗普声明、SpaceX 兴奋、欧洲央行加息、PPI 上涨但先前修正而大幅波动",
+      "_zh_summary": "欧洲央行 (ECB) 将利率提高 25 个基点至 2.25%。此次加息符合预期。  欧洲央行成为第一家提高利率以遏制伊朗战争引发的通胀的主要央行。  欧洲央行预计 2026 年通胀率为 3.0%，此前为 2.6%。  欧洲央行预计 2026 年经济增长率为 0.8%，而此前为 0.9%。大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。",
+      "_added_at": "2026-06-11T19:58:31.298912+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-11T19:01:23Z",
+      "headline": "Nvidia Millionaires Can't Afford To Sell, ETFs May Be Their Escape Route",
+      "id": 53153136,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Businesswoman-Using-The-Laptop-To-Fill-I.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Businesswoman-Using-The-Laptop-To-Fill-I.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Businesswoman-Using-The-Laptop-To-Fill-I.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Big tech investors are sitting on massive unrealized gains. Here&#39;s how ETFs could help unlock billions trapped in concentrated stock positions.",
+      "symbols": [
+        "AAAU",
+        "AAPL",
+        "AAUS",
+        "IVV",
+        "MSFT",
+        "NVDA",
+        "PAPI",
+        "SPY",
+        "TSLA",
+        "VOO"
+      ],
+      "updated_at": "2026-06-11T19:01:24Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/53153136/nvidia-millionaires-cant-afford-to-sell-etfs-may-be-their-escape-route",
+      "_summary": "Selling even a portion of a concentrated position could trigger a substantial tax bill, leaving some investors reluctant to diversify despite growing portfolio risks. As a result, a growing corner of the ETF industry is developing solutions designed to help investors reduce concentration, gain broader market exposure, and potentially defer taxes along the way.",
+      "_zh_headline": "英伟达百万富翁卖不起，ETF可能是他们的逃生路线",
+      "_zh_summary": "即使出售一部分集中头寸也可能引发巨额税款，导致一些投资者尽管投资组合风险不断增加，但仍不愿进行多元化投资。因此，ETF 行业中越来越多的人正在开发解决方案，旨在帮助投资者降低集中度、获得更广泛的市场敞口，并可能在此过程中推迟纳税。",
+      "_added_at": "2026-06-11T19:58:31.298912+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-11T17:35:22Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "id": 53150365,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AAPL",
+        "AVGO",
+        "CRWV",
+        "INTC",
+        "MSFT",
+        "MU",
+        "NBIS",
+        "NVDA",
+        "PANW",
+        "STM"
+      ],
+      "updated_at": "2026-06-11T17:35:23Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53150365/10-information-technology-stocks-whale-activity-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-11T19:58:31.298912+00:00"
+    },
+    {
+      "author": "Daragh Thomas",
+      "content": "",
+      "created_at": "2026-06-11T16:49:21Z",
+      "headline": "Why's Gold Going Down? This Strategist Called The Drop Before It Happened",
+      "id": 53148858,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Millions-In-Gold-And-Cash.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Millions-In-Gold-And-Cash.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Millions-In-Gold-And-Cash.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gold slid below 4,100 as the Iran war reignited, abandoning its safe-haven role. An APMEX strategist saw it coming, and prediction markets say why.",
+      "symbols": [
+        "CVX",
+        "GLD",
+        "GOLD",
+        "NEM",
+        "XOM"
+      ],
+      "updated_at": "2026-06-11T16:49:22Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53148858/whys-gold-going-down-this-strategist-called-the-drop-before-it-happened",
+      "_summary": "President Donald Trump vowed to seize Iran’s main oil hub this morning, pushing the conflict into a second straight day of new strikes. Gold, the metal that usually rallies on war headlines like these, dropped instead. Spot gold fell below $4,100 an ounce for the first time since November, sliding as much as 3.5% in a single session. One precious metals strategist appeared to call the move back in late May.",
+      "_zh_headline": "黄金为何下跌？这位策略师在下跌发生之前就预测了下跌",
+      "_zh_summary": "唐纳德·特朗普总统今天早上发誓要夺取伊朗主要石油中心，将冲突推向连续第二天的新袭击。黄金这种通常会因此类战争头条新闻而上涨的金属反而下跌。现货黄金自11月以来首次跌破4100美元/盎司，单日跌幅高达3.5%。一位贵金属策略师似乎在五月底取消了这一举措。",
+      "_added_at": "2026-06-11T19:58:31.298912+00:00"
+    },
+    {
+      "author": "TradePulse",
+      "content": "",
+      "created_at": "2026-06-11T18:25:20Z",
+      "headline": "Micron Shares Climb Over 3% After Key Trading Signal",
+      "id": 53152274,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/image.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/image.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/image.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A key trading signal flashed for Micron shares at a price of $919.99, after which MU rose over 3% to an intraday high.",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-11T18:25:21Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53152274/micron-shares-climb-over-3-percent-after-key-trading-signal",
+      "_summary": "Order flow analytics analyze real-time buying and selling trends by examining the volume, timing, and order size across both retail and institutional traders. These insights offer a more detailed understanding of price behavior and market sentiment for a stock, allowing the trader or institution to make the most informed decision possible. At the time of the Power Inflow, MU was priced at $919.99. Following the signal:",
+      "_zh_headline": "关键交易信号发出后，美光股价上涨超过 3%",
+      "_zh_summary": "订单流分析通过检查零售和机构交易者的数量、时间和订单规模来分析实时买卖趋势。这些见解可以更详细地了解股票的价格行为和市场情绪，使交易者或机构能够做出最明智的决策。在电力流入时，MU 的价格为 919.99 美元。跟随信号：",
+      "_added_at": "2026-06-11T19:58:31.298912+00:00"
+    },
+    {
       "headline": "Iran’s Attacks on Gulf States Underscore Their Dependence on U.S.",
       "summary": "The targeted countries host sprawling American military bases and thousands of personnel at a time when the United States is waging war against Iran.",
       "url": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html",
@@ -263,30 +497,6 @@
       "_summary": "President Donald Trump has said he \"loves the inflation\" as US prices rose last month at their fastest rate in three years. Bureau of Labor Statistics (BLS) figures showed prices went up by 4.2% in May from a year earlier. The increase, from 3.8% in April , was driven by rising energy costs in the wake of the US-Israel war in Iran. \"I love it. The numbers were great. You know what I really love? I love the inflation,\" Trump said at the White House. But he promised the rising prices would \"come down like a rock\" when the war with Iran was over. Later in the day, the US military bombed Iran. Reacting to the inflation figures on Wednesday, the president said US forces had conducted nighttime operations to take \"millions of barrels\" of oil from Iran, which he said had contributed to a slight drop in oil prices. \"When this conflict is over… you will see oil drop to where it was before,\" he told reporters in the White House.",
       "_zh_headline": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
       "_zh_summary": "唐纳德·特朗普总统表示，他“喜欢通货膨胀”，因为上个月美国物价以三年来最快的速度上涨。美国劳工统计局 (BLS) 的数据显示，5 月份物价同比上涨 4.2%。 4月份的增长为3.8%，这是由于美以伊朗战争后能源成本上涨所致。 “我喜欢它。这些数字很棒。你知道我真正喜欢什么吗？我喜欢通货膨胀，”特朗普在白宫表示。但他承诺，当与伊朗的战争结束时，不断上涨的价格将“像岩石一样下降”。当天晚些时候，美军轰炸了伊朗。针对周三的通胀数据，总统表示，美军进行了夜间行动，从伊朗夺取了“数百万桶”石油，他称这导致油价小幅下跌。他在白宫对记者说：“当这场冲突结束后……你会看到石油价格跌至之前的水平。”",
-      "_added_at": "2026-06-11T07:15:42.580058+00:00"
-    },
-    {
-      "headline": "U.S. launches a second day of strikes on Iran and Iran fires back at Gulf States",
-      "summary": "The new U.S. assault across multiple Iranian cities came as efforts to negotiate an end the war again appeared stuck, with Iran insisting it would maintain its chokehold on the Strait of Hormuz",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-10T18:46:56-04:00",
-      "_summary": "A woman walks past a mural depicting a U.S. aircraft carrier under missile attack in downtown Tehran, Iran, on June 8. Vahid Salemi/AP hide caption DUBAI, United Arab Emirates — The United States launched a second round of airstrikes on Iran into Thursday morning after U.S. President Donald Trump warned that Tehran would \"pay the price\" for stalled negotiations, and Iran responded with strikes targeting Bahrain, Kuwait and Jordan. The new U.S. assault across multiple Iranian cities came as efforts to negotiate an end the war again appeared stuck, with Iran insisting it would maintain its chokehold on the Strait of Hormuz, which has disrupted global energy supplies and sent oil prices higher. The American attack appeared more intense and wider than the day before, but Iran released no information about what was hit. Kuwait closed its airspace because of the Thursday morning attack, without elaborating on any damage. Jordan didn't acknowledge the attack, though the U.S.",
-      "_zh_headline": "美国连续第二天对伊朗发动袭击，伊朗向海湾国家进行还击",
-      "_zh_summary": "6 月 8 日，伊朗德黑兰市中心，一名妇女走过一幅描绘美国航空母舰遭受导弹袭击的壁画。 Vahid Salemi/美联社 隐藏标题栏 阿拉伯联合酋长国迪拜 — 美国总统唐纳德·特朗普警告德黑兰将为陷入僵局的谈判“付出代价”，而伊朗则以针对巴林、科威特和约旦的打击作为回应，美国周四上午对伊朗发动了第二轮空袭。美国对伊朗多个城市发动新的袭击之际，结束战争的谈判似乎再次陷入困境，伊朗坚称将维持对霍尔木兹海峡的控制，这扰乱了全球能源供应并推高了油价。美国的袭击似乎比前一天更加激烈和广泛，但伊朗没有公布有关袭击内容的信息。科威特因周四上午的袭击而关闭了领空，但没有详细说明造成的任何损失。约旦没有承认这次袭击，但美国",
-      "_added_at": "2026-06-11T07:15:42.580058+00:00"
-    },
-    {
-      "headline": "Veterans and relatives see no place for Trump's arch near Arlington National Cemetery",
-      "summary": "Three Vietnam War veterans are suing to stop President Trump from building an arch just steps from Arlington National Cemetery, where 400,000 service members, veterans and their relatives are buried.",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5851587/trump-arch-veterans-arlington-national-cemetery",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-10T16:26:00-04:00",
-      "_summary": "Shaun Byrnes, 83, a U.S. Navy veteran who served in Vietnam, arrives for an interview near Arlington National Cemetery in Arlington, Virginia on Monday, June 8, 2026. Public Citizen, representing Byrnes and other veterans, is suing the Trump administration to block construction of the proposed Triumphal Arch in Memorial Circle. Eric Lee for NPR hide caption Some of the most forceful objections against President Trump's proposed triumphal arch are coming from — and on behalf of — veterans. That's because the 250-foot structure would be built on a roundabout near the main entrance to Arlington National Cemetery, the final resting place for over 400,000 active-duty service members, veterans and their families. The Trump administration says in its proposal that the purpose of the arch is to \"celebrate the triumphs of the American people, inspire patriotism and love of country, and beautify our nation's capital.\"",
-      "_zh_headline": "退伍军人和亲属认为阿灵顿国家公墓附近没有特朗普拱门的位置",
-      "_zh_summary": "2026 年 6 月 8 日星期一，曾在越南服役的 83 岁美国海军退伍军人肖恩·伯恩斯 (Shaun Byrnes) 抵达弗吉尼亚州阿灵顿阿灵顿国家公墓附近接受采访。代表伯恩斯和其他退伍军人的公众公民正在起诉特朗普政府，要求阻止在纪念圈修建凯旋门。美国国家公共广播电台 (NPR) 的埃里克·李 (Eric Lee) 隐藏标题 对特朗普总统拟议的凯旋门提出的一些最强烈的反对意见来自退伍军人并代表退伍军人。这是因为这座 250 英尺高的建筑将建在阿灵顿国家公墓主入口附近的环形交叉路口上，阿灵顿国家公墓是超过 400,000 名现役军人、退伍军人及其家人的最后安息之地。特朗普政府在提案中表示，拱门的目的是“庆祝美国人民的胜利，激发爱国主义和对国家的热爱，并美化我们国家的首都”。",
       "_added_at": "2026-06-11T07:15:42.580058+00:00"
     }
   ]
