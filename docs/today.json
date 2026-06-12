@@ -2,6 +2,123 @@
   "date": "2026-06-12",
   "articles": [
     {
+      "headline": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
+      "summary": "This week, Knicks fans had a big win after a big loss; fans of inflation were delighted and World Cup fans went broke. How will quiz fans fare?",
+      "url": "https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-12T05:02:00-04:00",
+      "_summary": "From left: Elon Musk, a person in a musical that there's a question about; Nithya Raman. Allison Robbert/AFP via Getty Images; Theo Wargo/Getty Images for Tony Awards Productions; JC Olivera/Getty Images for the National Wildlife Federation's #SaveLACougars Campaign hide caption This week, Knicks fans had a big win after a big loss ; fans of inflation were delighted and World Cup fans went broke. How will quiz fans fare?",
+      "_zh_headline": "哪位亿万富翁表示他们本周学到了“重要的教训”？测验就知道",
+      "_zh_summary": "左起：伊隆·马斯克，音乐剧中的一个有问题的人物；尼西亚·拉曼。艾莉森·罗伯特/法新社，盖蒂图片社；托尼奖制作公司 Theo Wargo/Getty Images； JC Olivera/Getty Images 为国家野生动物联合会#SaveLACougars 活动隐藏标题 本周，尼克斯队球迷在惨败后迎来了一场大胜利；通货膨胀的球迷很高兴，世界杯的球迷则破产了。问答爱好者的表现如何？",
+      "_added_at": "2026-06-12T09:44:09.021639+00:00"
+    },
+    {
+      "author": "Benzinga Newsdesk",
+      "content": "",
+      "created_at": "2026-06-12T08:50:31Z",
+      "headline": "Hillary Clinton Compares Trump's 'I Love The Inflation' Remark To Marie Antoinette's 'Let Them Eat Cake'",
+      "id": 53160476,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/New-York--Ny--Usa---April-13--2016-Hilla.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/New-York--Ny--Usa---April-13--2016-Hilla.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/New-York--Ny--Usa---April-13--2016-Hilla.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump&#39;s &#34;I love the inflation&#34; remark drew a Marie Antoinette comparison from Hillary Clinton amid backlash.",
+      "symbols": [],
+      "updated_at": "2026-06-12T08:50:32Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53160476/hillary-clinton-compares-trumps-i-love-the-inflation-remark-to-marie-antoinettes-let-them-eat-cake",
+      "_summary": "President Donald Trump ‘s “I love the inflation” remark continued to draw backlash across political circles Thursday, as former Secretary of State Hillary Clinton joined critics who have accused the president of being out of touch with the financial pressures facing American households. Trump’s remark drew criticism because it came as Americans continue to grapple with higher living costs, with headline inflation in May reaching its highest reading since April 2023, while housing, healthcare and other essential expenses continue to strain household budgets. In a post on X Thursday, Clinton drew a comparison between Trump and Marie Antoinette, invoking the French queen’s infamous “Let them eat cake” phrase often associated with elite detachment from ordinary people’s economic struggles.",
+      "_zh_headline": "希拉里·克林顿将特朗普的“我喜欢通货膨胀”言论与玛丽·安托瓦内特的“让他们吃蛋糕”进行比较",
+      "_zh_summary": "周四，唐纳德·特朗普总统的“我喜欢通货膨胀”言论继续在政界引起强烈反对，前国务卿希拉里·克林顿也加入批评者行列，指责总统对美国家庭面临的财务压力脱节。特朗普的言论引起了批评，因为美国人继续应对更高的生活成本，5月份总体通胀率达到2023年4月以来的最高水平，而住房、医疗保健和其他基本支出继续给家庭预算带来压力。在周四的一篇帖子中，克林顿将特朗普和玛丽·安托瓦内特进行了比较，引用了法国女王臭名昭著的“让他们吃蛋糕”这句话，这句话通常与精英阶层脱离普通民众的经济斗争联系在一起。",
+      "_added_at": "2026-06-12T09:44:09.021639+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-12T09:25:56Z",
+      "headline": "Stock Market Today: S&P 500, Dow Futures Gain Ahead Of SpaceX's Debut—Adobe, Lennar, CoreWeave In Focus",
+      "id": 53160732,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures rose on Friday, as the Nasdaq 100, S&amp;P 500, and the Dow Jones indices advanced, following Thursday’s higher close.",
+      "symbols": [
+        "ADBE",
+        "BTCUSD",
+        "CRWV",
+        "FRD",
+        "LEN",
+        "QQQ",
+        "RH",
+        "SPY"
+      ],
+      "updated_at": "2026-06-12T09:25:57Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53160732/stock-market-today-sp-500-dow-futures-gain-ahead-of-spacexs-debut-adobe-lennar-coreweave-in-focus",
+      "_summary": "U.S. stock futures rose on Friday, as the Nasdaq 100, S&P 500, and the Dow Jones indices advanced, following Thursday’s higher close. Meanwhile, the 10-year Treasury bond yielded 4.44%, and the two-year bond was at 4.05%. The CME Group's FedWatch tool ‘s projections show markets pricing a 96.4% likelihood of the Federal Reserve leaving the current interest rates unchanged during June’s meeting.",
+      "_zh_headline": "今日股市：标准普尔 500 指数、道琼斯指数期货在 SpaceX 首次亮相之前上涨——Adobe、Lennar、CoreWeave 成为焦点",
+      "_zh_summary": "美国股指期货周五上涨，纳斯达克 100 指数、标准普尔 500 指数和道琼斯指数继周四收高后上涨。与此同时，10年期国债收益率为4.44%，两年期国债收益率为4.05%。 CME Group 的 FedWatch 工具的预测显示，市场预计美联储在 6 月会议期间维持当前利率不变的可能性为 96.4%。",
+      "_added_at": "2026-06-12T09:44:09.021639+00:00"
+    },
+    {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-06-12T08:36:03Z",
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "id": 53160378,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "June 12, 2026: Polymarket traders bet on an S&amp;P 500 gain at open as Iran deal optimism grows before SpaceX&#39;s IPO.",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "MU",
+        "ORCL",
+        "SOXX"
+      ],
+      "updated_at": "2026-06-12T08:36:03Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53160378/sp500-june-12-open-up-or-down-polymarket-spacex-ipo-iran-deal",
+      "_summary": "The S&P 500 surged on Thursday as easing concerns over the U.S.-Iran war and a rebound in semiconductor stocks sparked a broad market rally. Polymarket traders are betting the benchmark index will extend those gains at Friday’s open. The S&P 500 climbed 1.75% to close at 7,394.30 on Thursday, recovering much of the prior session’s losses after President Donald Trump signaled that a peace agreement with Iran could be signed soon.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "由于对美伊战争的担忧缓解以及半导体股票的反弹引发了市场广泛上涨，标准普尔 500 指数周四飙升。 Polymarket 交易员押注基准指数将在周五开盘时延续涨幅。在唐纳德·特朗普总统表示可能很快与伊朗签署和平协议后，标准普尔 500 指数周四上涨 1.75%，收于 7,394.30 点，收复前一交易日的大部分跌幅。",
+      "_added_at": "2026-06-12T09:44:09.021639+00:00"
+    },
+    {
       "headline": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
       "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
       "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
