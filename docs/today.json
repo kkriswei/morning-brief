@@ -2,6 +2,30 @@
   "date": "2026-06-11",
   "articles": [
     {
+      "headline": "SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering",
+      "summary": "Elon Musk’s rocket company said it would sell more than 555 million shares at $135 each in its blockbuster initial public offering, which is set to begin trading on Friday.",
+      "url": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T21:38:41+00:00",
+      "_summary": "Elon Musk’s rocket company said it would sell more than 555 million shares at $135 each in its blockbuster initial public offering, which is set to begin trading on Friday.",
+      "_zh_headline": "SpaceX 最终确定 IPO 价格为每股 135 美元，这是全球最大规模的公开发行",
+      "_zh_summary": "埃隆·马斯克 (Elon Musk) 的火箭公司表示，将在其大规模首次公开募股中以每股 135 美元的价格出售超过 5.55 亿股股票，该股票定于周五开始交易。",
+      "_added_at": "2026-06-12T00:04:30.547927+00:00"
+    },
+    {
+      "headline": "Skeptics Question Whether SpaceX Is Worth $1.77 Trillion",
+      "summary": "Elon Musk’s rocket company is spending big and losing money. That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.",
+      "url": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-11T20:30:58+00:00",
+      "_summary": "Elon Musk’s rocket company is spending big and losing money. That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.",
+      "_zh_headline": "怀疑者质疑 SpaceX 是否值 1.77 万亿美元",
+      "_zh_summary": "埃隆·马斯克 (Elon Musk) 的火箭公司投入巨资，但仍在亏损。这引发了人们的疑问：该公司能否证明其大规模首次公开募股的估值合理。",
+      "_added_at": "2026-06-12T00:04:30.547927+00:00"
+    },
+    {
       "author": "Daragh Thomas",
       "content": "",
       "created_at": "2026-06-11T20:29:45Z",
@@ -522,30 +546,6 @@
       "_zh_headline": "忘记美光吧：这两只罗素 2000 指数股票正在悄然实现三位数的涨幅",
       "_zh_summary": "由于超大规模企业急需电力，Bloom Energy 提供快速现场固体氧化物燃料电池，以绕过多年的电网公用事业积压。 RBC Capital 最近重申了 BE 的“跑赢大盘”评级和 335.00 美元的目标价，较当前水平上涨 43.02%。该决定是在确认怀俄明州的一个大型数据中心项目正在与超大规模客户直接推进之后做出的。",
       "_added_at": "2026-06-11T11:56:27.019541+00:00"
-    },
-    {
-      "headline": "Oil Prices Rise as U.S. Launches New Attack on Iran",
-      "summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
-      "url": "https://www.nytimes.com/2026/06/10/business/oil-gas-price-iran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-11T01:49:17+00:00",
-      "_summary": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
-      "_zh_headline": "随着美国对伊朗发动新的攻击，油价上涨",
-      "_zh_summary": "美国和伊朗连续第二天交火后，油价上涨，加剧了人们对两国可能重新陷入公开冲突的担忧。",
-      "_added_at": "2026-06-11T07:15:42.580058+00:00"
-    },
-    {
-      "headline": "The War in Ukraine Has Now Gone On Longer Than World War I",
-      "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare.",
-      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-11T04:01:16+00:00",
-      "_summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare.",
-      "_zh_headline": "乌克兰战争的持续时间比第一次世界大战还长",
-      "_zh_summary": "从战斗的残酷性到新技术重塑战争的方式，这两场战争之间有很多相似之处。",
-      "_added_at": "2026-06-11T07:15:42.580058+00:00"
     }
   ]
 }
