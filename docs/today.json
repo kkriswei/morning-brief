@@ -2,6 +2,111 @@
   "date": "2026-06-12",
   "articles": [
     {
+      "headline": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
+      "summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal.",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T12:30:13+00:00",
+      "_summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal.",
+      "_zh_headline": "伊朗和世界陷入和平与战争之间的危险边缘",
+      "_zh_summary": "自两个月前宣布名义停火以来，伊朗、以色列和美国一直处于低强度暴力之中，这已成为一种新常态。",
+      "_added_at": "2026-06-12T13:47:05.160846+00:00"
+    },
+    {
+      "headline": "The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal",
+      "summary": "The amount of oil and fuel stored by businesses and governments has fallen sharply since the start of the U.S.-Israeli war against Iran.",
+      "url": "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T09:05:05+00:00",
+      "_summary": "The amount of oil and fuel stored by businesses and governments has fallen sharply since the start of the U.S.-Israeli war against Iran.",
+      "_zh_headline": "世界石油储备正在枯竭，和平协议压力加大",
+      "_zh_summary": "自美以针对伊朗的战争开始以来，企业和政府储存的石油和燃料数量急剧下降。",
+      "_added_at": "2026-06-12T13:47:05.160846+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-06-12T11:29:00Z",
+      "headline": "What's Going On With Super Micro Stock Friday?",
+      "id": 53162372,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Super-Micro-Computer-logo-on-smartphone.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Super-Micro-Computer-logo-on-smartphone.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Super-Micro-Computer-logo-on-smartphone.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Super Micro (SMCI) remains volatile below key moving averages with a mixed technical outlook. Explore key support, resistance, MACD levels.",
+      "symbols": [
+        "BUZZ",
+        "DIA",
+        "FNDA",
+        "IWM",
+        "QQQ",
+        "SMCI",
+        "SMCY",
+        "SPY"
+      ],
+      "updated_at": "2026-06-12T11:29:01Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53162372/whats-going-on-with-super-micro-stock-friday",
+      "_summary": "The stock has remained volatile since the company unveiled a multibillion-dollar equity financing plan to fund AI server demand. While investors welcomed Thursday’s rebound following a nearly 28% decline a day earlier, dilution concerns continue to pressure sentiment. The decline came despite gains across major U.S. equity indexes, suggesting the weakness was driven by company-specific factors rather than broader market sentiment.",
+      "_zh_headline": "周五超微股票怎么样？",
+      "_zh_summary": "自该公司公布数十亿美元的股权融资计划以满足人工智能服务器需求以来，该股一直保持波动。尽管投资者对前一天下跌近 28% 后周四的反弹表示欢迎，但稀释担忧继续给市场情绪带来压力。尽管美国主要股指上涨，但股价仍出现下跌，这表明疲软是由公司特定因素而非更广泛的市场情绪驱动的。",
+      "_added_at": "2026-06-12T13:47:05.160846+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-12T12:46:48Z",
+      "headline": "CoreWeave, Astera Labs, Nebius Group, And Others Added To Nasdaq-100: A 'Big Deal,' Says Jim Cramer",
+      "id": 53163628,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Los-Angeles--California---July-7-2025-Co.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Los-Angeles--California---July-7-2025-Co.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Los-Angeles--California---July-7-2025-Co.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "CoreWeave, Astera Labs, Nebius, Rocket Lab &amp; Teradyne join the Nasdaq-100. Jim Cramer calls this June 2026 index rebalance a &#39;big deal&#39;.",
+      "symbols": [
+        "ALAB",
+        "CHTR",
+        "CRWV",
+        "CTSH",
+        "INSM",
+        "NBIS",
+        "QQQ",
+        "RKLB",
+        "TER",
+        "VRSK",
+        "ZS"
+      ],
+      "updated_at": "2026-06-12T12:46:49Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53163628/coreweave-astera-labs-nebius-group-and-others-added-to-nasdaq-100-a-big-deal-says-jim-cramer",
+      "_summary": "This quarterly reconstitution is a major market shift that prominent financial commentator Jim Cramer has explicitly dubbed a “Big deal.” Nasdaq announced the final results of its June 2026 quarterly rebalance, ushering in a new wave of technology companies to its benchmark index. These highly anticipated changes will officially become effective before the market open on Monday, June 22. The announcement quickly caught the attention of Wall Street veterans and retail investors alike.",
+      "_zh_headline": "CoreWeave、Astera Labs、Nebius Group 和其他公司被纳入纳斯达克 100 指数：Jim Cramer 表示这是一件“大事”",
+      "_zh_summary": "此次季度重组是一次重大的市场转变，著名金融评论家吉姆·克莱默 (Jim Cramer) 明确将其称为“重大事件”。纳斯达克公布了 2026 年 6 月季度调整的最终结果，迎来了新一波科技公司加入其基准指数。这些备受期待的变化将于 6 月 22 日星期一开盘前正式生效。这一消息很快引起了华尔街资深人士和散户投资者的关注。",
+      "_added_at": "2026-06-12T13:47:05.160846+00:00"
+    },
+    {
       "headline": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
       "summary": "This week, Knicks fans had a big win after a big loss; fans of inflation were delighted and World Cup fans went broke. How will quiz fans fare?",
       "url": "https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz",
