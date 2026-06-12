@@ -2,6 +2,83 @@
   "date": "2026-06-12",
   "articles": [
     {
+      "headline": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
+      "summary": "If you have index funds — such as in a 401(k) — they may soon include shares of the mega company. Here’s a rough calculation.",
+      "url": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T17:40:07+00:00",
+      "_summary": "A lot of Americans are about to own a sliver of SpaceX. The company completed its initial public offering Friday in the world’s largest stock market debut — and in a few days many personal and retirement investment accounts will have a stake in it , largely through index funds that track the broader market. Below, you can estimate how much of SpaceX and other companies you’d own if your investments were in various index funds: In the context of other index fund holdings, SpaceX will probably take up a smaller portion than one might expect, because most of its stock is not publicly tradable yet. Other major tech companies, like Nvidia and Apple, will continue to make up a much larger share of index funds compared with SpaceX, at least for now. And most typical retirement accounts already have a bigger investment in another Elon Musk venture. According to our estimates, investors in total U.S. stock market index funds will own more than 10 times as much Tesla stock as they do SpaceX.",
+      "_zh_headline": "如果您拥有 401(k)，您将拥有多少 SpaceX 股票？",
+      "_zh_summary": "许多美国人即将拥有 SpaceX 的一小部分股份。该公司周五在全球最大的股票市场上完成了首次公开募股，几天后，许多个人和退休投资账户将持有该公司的股份，主要是通过追踪大盘的指数基金。下面，您可以估算一下，如果您投资于各种指数基金，您将持有 SpaceX 和其他公司的股份：在持有其他指数基金的背景下，SpaceX 所占的份额可能比人们预期的要小，因为其大部分股票尚未公开交易。与 SpaceX 相比，英伟达和苹果等其他主要科技公司将继续在指数基金中占据更大的份额，至少目前是这样。大多数典型的退休账户已经对埃隆·马斯克的另一家企业进行了更大的投资。根据我们的估计，美国股市指数基金投资者持有的特斯拉股票数量将是 SpaceX 股票数量的 10 倍以上。",
+      "_added_at": "2026-06-12T19:31:29.958033+00:00"
+    },
+    {
+      "headline": "As Speculation Swirls About the Emerging Iran Deal, Here’s What We Know",
+      "summary": "A “memorandum of understanding” between the two sides is under discussion. Both sides are keen to frame it as a victory.",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T18:54:09+00:00",
+      "_summary": "With a draft deal between the United States and Iran now on the table, speculation has been swirling about exactly what is in the agreement. President Trump insisted on Friday that reports circulating about details of the proposed deal were incorrect. In a post on social media, he said the terms “Iran leaked” to the media “have NOTHING to do with the terms that were agreed to, in writing.” There were conflicting accounts of the deal in Iranian media, with one hard-line news outlet reporting terms more favorable to Iran and the state news agency providing a more measured description. On Friday, Iran’s foreign minister, Abbas Araghchi, said that a deal “has never been closer,” but added that “the media should refrain from entering speculation about its content.” Much about the emerging deal remains murky, with both sides keen to frame it as a victory. What is known is that a “memorandum of understanding” between the two sides is under discussion.",
+      "_zh_headline": "随着有关伊朗协议的猜测不断，我们所知道的如下",
+      "_zh_summary": "随着美国和伊朗之间的协议草案现已摆上桌面，人们对协议中的具体内容一直有各种猜测。特朗普总统周五坚称，有关拟议交易细节的报道不正确。他在社交媒体上发帖称，“伊朗泄露”给媒体的条款“与书面同意的条款无关”。伊朗媒体对这笔交易的描述相互矛盾，一家强硬派新闻媒体报道了对伊朗更有利的条款，而国家通讯社则提供了更为谨慎的描述。周五，伊朗外交部长阿巴斯·阿拉格奇表示，达成协议“从未如此接近”，但补充说“媒体不应对其内容进行猜测”。关于即将达成的协议的许多内容仍然不明朗，双方都热衷于将其视为一场胜利。据了解，双方正在讨论一份“谅解备忘录”。",
+      "_added_at": "2026-06-12T19:31:29.958033+00:00"
+    },
+    {
+      "headline": "Judge Declines to Halt UFC Fight at the White House on Trump’s Birthday",
+      "summary": "In a ruling on Friday, Judge Amit P. Mehta wrote that the lawsuit arrived last minute and failed to show how the event irreversibly harmed the individuals who sued.",
+      "url": "https://www.nytimes.com/2026/06/12/us/politics/trump-ufc-cage-lawsuit.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T18:20:33+00:00",
+      "_summary": "In a ruling on Friday, Judge Amit P. Mehta wrote that the lawsuit arrived last minute and failed to show how the event irreversibly harmed the individuals who sued.",
+      "_zh_headline": "法官拒绝在特朗普生日当天停止在白宫举行的 UFC 比赛",
+      "_zh_summary": "在周五的裁决中，法官阿米特·梅塔 (Amit P. Mehta) 写道，诉讼是在最后一刻才提出的，未能表明该事件如何不可逆转地伤害了起诉者。",
+      "_added_at": "2026-06-12T19:31:29.958033+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-12T17:35:24Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "id": 53174857,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AMD",
+        "AVGO",
+        "CRWV",
+        "HPE",
+        "INTC",
+        "LRCX",
+        "MRVL",
+        "MSTR",
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-06-12T17:35:25Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53174857/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-12T19:31:29.958033+00:00"
+    },
+    {
       "headline": "Despite Talk of an Iran Peace Deal, Lebanon’s War Grinds On",
       "summary": "Israeli strikes on Friday left Lebanon out of sync with a cautious optimism taking hold elsewhere in the Middle East.",
       "url": "https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html",
@@ -406,39 +483,6 @@
       "_summary": "Elon Musk’s SpaceX hasn’t started trading yet, and it is already pulling cash out of the chip stocks retail traders spent the spring chasing. The do-it-yourself crowd has been trimming semiconductor exposure and skipping dips elsewhere, according to Vanda Research. Some analysts read the selling as retail gathering dry powder for the SpaceX debut, expected Friday. Non-professional traders sold individual stocks for three straight days through Wednesday, the first such streak since March 2020, Vanda’s data show.",
       "_zh_headline": "好主意吗？零售交易商正在抛售美光、高通、博通，以参与 Space X IPO",
       "_zh_summary": "埃隆·马斯克 (Elon Musk) 的 SpaceX 尚未开始交易，但它已经从散户交易员今年春季追逐的芯片股中提取现金。 Vanda Research 表示，DIY 人群一直在削减半导体投资，并跳过其他领域的下跌。一些分析师将这次抛售解读为散户为 SpaceX 预计周五的首次亮相收集干粉。 Vanda 的数据显示，截至周三，非专业交易员连续三天抛售个股，这是自 2020 年 3 月以来的首次连续出售个股。",
-      "_added_at": "2026-06-12T05:16:29.921811+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-06-11T22:15:42Z",
-      "headline": "Trump Phone Promised 'Made In America' — Teardown Shows It Was Designed In China",
-      "id": 53158074,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Made-In-Usa-Label-Macro.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Made-In-Usa-Label-Macro.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/11/Made-In-Usa-Label-Macro.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "A teardown of the new phone from Trump Mobile shows the phone may have parts from China and be assembled in China.",
-      "symbols": [
-        "MU",
-        "QCOM"
-      ],
-      "updated_at": "2026-06-11T22:15:43Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/53158074/trump-phone-promised-made-in-america-teardown-shows-it-was-designed-in-china",
-      "_summary": "• Micron Technology stock is trading at elevated levels. What’s next for MU stock? The Trump Organization previously got rid of its Made in America claims, using phrases like \"Designed with American Values,\" \"Proudly American\" and \"American Proud Design\" to describe its T1 phone. A new teardown of the T1 phone by iFixit and NBC reveals the phone is nearly identical to the HTC U24 Pro, a smartphone made in China for the Taiwanese company.",
-      "_zh_headline": "特朗普手机承诺“美国制造”——拆解显示它是中国设计的",
-      "_zh_summary": "• 美光科技股票交易价格处于高位。 MU股票的下一步是什么？特朗普集团此前放弃了“美国制造”的说法，使用“以美国价值观设计”、“美国自豪”和“美国自豪设计”等短语来描述其 T1 手机。 iFixit 和 NBC 对 T1 手机的最新拆解显示，这款手机与 HTC U24 Pro（为这家台湾公司在中国制造的智能手机）几乎一模一样。",
       "_added_at": "2026-06-12T05:16:29.921811+00:00"
     }
   ]
