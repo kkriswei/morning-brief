@@ -2,6 +2,86 @@
   "date": "2026-06-12",
   "articles": [
     {
+      "headline": "Despite Talk of an Iran Peace Deal, Lebanon’s War Grinds On",
+      "summary": "Israeli strikes on Friday left Lebanon out of sync with a cautious optimism taking hold elsewhere in the Middle East.",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T16:17:51+00:00",
+      "_summary": "Israeli strikes on Friday left Lebanon out of sync with a cautious optimism taking hold elsewhere in the Middle East.",
+      "_zh_headline": "尽管谈论伊朗和平协议，黎巴嫩战争仍在继续",
+      "_zh_summary": "以色列周五的袭击使黎巴嫩与中东其他地区的谨慎乐观情绪脱节。",
+      "_added_at": "2026-06-12T17:23:52.305805+00:00"
+    },
+    {
+      "headline": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
+      "summary": "With SpaceX shares soaring on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
+      "url": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-12T16:50:26+00:00",
+      "_summary": "With SpaceX shares soaring on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
+      "_zh_headline": "随着 SpaceX 股票开始交易，埃隆·马斯克成为世界上第一位亿万富翁",
+      "_zh_summary": "随着 SpaceX 股价在上市首日飙升，这位世界首富跨越了另一个里程碑——达到 13 位数。",
+      "_added_at": "2026-06-12T17:23:52.305805+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-12T17:12:00Z",
+      "headline": "Stock Market Today: SpaceX Jumps To $175, Rocks Space Rivals",
+      "id": 53174107,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Paris--France---February-3--2026-A-Horiz_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Paris--France---February-3--2026-A-Horiz_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Paris--France---February-3--2026-A-Horiz_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SpaceX surged as high as $175 in the largest IPO ever, triggering a sharp sell-off across space and satellite peers as oil slid on US-Iran deal hopes.",
+      "symbols": [
+        "ADBE",
+        "ALB",
+        "AMKR",
+        "ASTS",
+        "COHR",
+        "DIA",
+        "FLY",
+        "GDX",
+        "INTC",
+        "IWM",
+        "JETS",
+        "LEN",
+        "QQQ",
+        "RDDT",
+        "RH",
+        "RKLB",
+        "SATS",
+        "SPCX",
+        "VELO",
+        "VOO",
+        "VOYG",
+        "XLB",
+        "XLE",
+        "XLF",
+        "XLY"
+      ],
+      "updated_at": "2026-06-12T17:12:01Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53174107/stock-market-today-spacex-jumps-175-debut-rocks-space-stocks",
+      "_summary": "The roughly $75 billion offering at a $1.75 trillion valuation priced at $135 per share, and the Elon Musk -led company wasted no time leaving that mark behind, swinging between roughly $150 and $168 before pushing higher to $175 by midday a gain of about 30% from its listing price. Away from the space frenzy, the broader market traded on geopolitics.",
+      "_zh_headline": "今日股市：SpaceX 股价跃升至 175 美元，震撼太空竞争对手",
+      "_zh_summary": "此次发行约 750 亿美元，估值为 1.75 万亿美元，每股定价为 135 美元，这家埃隆·马斯克 (Elon Musk) 领导的公司立即在 150 美元至 168 美元之间波动，随后在中午上涨至 175 美元，较上市价上涨约 30%。除了太空狂热之外，更广泛的市场交易还取决于地缘政治。",
+      "_added_at": "2026-06-12T17:23:52.305805+00:00"
+    },
+    {
       "headline": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
       "summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal.",
       "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
