@@ -2,6 +2,59 @@
   "date": "2026-06-13",
   "articles": [
     {
+      "author": "Benzinga Senior Editor",
+      "content": "",
+      "created_at": "2026-06-13T12:01:19Z",
+      "headline": "Benzinga Bulls And Bears: Oracle, Apple, Super Micro — And SpaceX IPO Boosts Market",
+      "id": 53183478,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Bulls-and-Bears-1.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Bulls-and-Bears-1.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Bulls-and-Bears-1.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "symbols": [
+        "AAPL",
+        "ACHC",
+        "AMD",
+        "BROS",
+        "CAR",
+        "CBRL",
+        "CHH",
+        "CLSK",
+        "FIG",
+        "INHD",
+        "MRVL",
+        "ORCL",
+        "PRMB",
+        "RH",
+        "SMCI",
+        "SNDK",
+        "SOUN",
+        "SOXL",
+        "SPCX",
+        "SWMR",
+        "TSLA",
+        "VG"
+      ],
+      "updated_at": "2026-06-13T12:01:20Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/53183478/benzinga-bulls-and-bears-oracle-apple-super-micro-and-spacex-ipo-boosts-market",
+      "_summary": "Benzinga examined the prospects for many investors' favorite stocks over the last week — here's a look at some of our top stories. Benzinga provides daily reports on the stocks most popular with investors. Here are a few of this past week's most bullish and bearish posts that are worth another look. For additional bullish calls of the past week, check out the following: Cracker Barrel Beats Q3 Estimates, Raises FY26 Outlook, Shares Jump",
+      "_zh_headline": "Benzinga 牛市和熊市：甲骨文、苹果、超微以及 SpaceX IPO 提振市场",
+      "_zh_summary": "本辛加上周研究了许多投资者最喜欢的股票的前景——以下是我们的一些热门报道。 Benzinga 提供最受投资者欢迎的股票的每日报告。以下是过去一周最看涨和最看跌的一些帖子，值得再看一遍。对于过去一周的其他看涨预测，请查看以下内容：Cracker Barrel 超出第三季度预期、上调 2026 财年前景、股价上涨",
+      "_added_at": "2026-06-13T13:09:48.317227+00:00"
+    },
+    {
       "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
       "summary": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said.",
       "url": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
