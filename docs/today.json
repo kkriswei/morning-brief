@@ -2,6 +2,49 @@
   "date": "2026-06-12",
   "articles": [
     {
+      "headline": "Paramount-Warner Brothers merger gets Justice Department approval",
+      "summary": "The Justice Department closed its investigation into the proposed $110 billion merger of Paramount and Warner Brothers Discovery, saying it found no threat to competition or consumers.",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-12T19:24:40-04:00",
+      "_summary": "The Justice Department closed its investigation into the proposed $110 billion merger of Paramount and Warner Brothers Discovery, saying it found no threat to competition or consumers.",
+      "_zh_headline": "派拉蒙与华纳兄弟合并获得司法部批准",
+      "_zh_summary": "美国司法部结束了对派拉蒙和华纳兄弟探索公司 1100 亿美元合并提议的调查，称未发现对竞争或消费者构成威胁。",
+      "_added_at": "2026-06-13T00:01:20.226859+00:00"
+    },
+    {
+      "headline": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
+      "summary": "The decision paves the way for a proposed $111 billion merger uniting two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-12T18:29:12-04:00",
+      "_summary": "The main gate to Paramount Studios is seen on Melrose Avenue, July 8, 2015, in Los Angeles. Nick Ut/AP hide caption The Justice Department on Friday closed its antitrust investigation into the proposed $111 billion merger of Paramount and Warner Brothers Discovery, saying that it has found no threat to competition or consumers of film, broadcast television or streaming. The decision paves the way for a merger of two historic studio rivals — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN. Several states, including California, have raised antitrust concerns. The European Union is investigating as well. In a statement following the decision, Paramount described the deal as \"pro-competitive,\" and would result in \"a stronger company better positioned to compete against dominant technology platforms in an industry increasingly defined by intense competition for audiences, talent, technology, and investment.\"",
+      "_zh_headline": "司法部批准派拉蒙收购华纳兄弟探索公司",
+      "_zh_summary": "The main gate to Paramount Studios is seen on Melrose Avenue, July 8, 2015, in Los Angeles. Nick Ut/美联社 隐藏标题 司法部周五结束了对派拉蒙和华纳兄弟探索公司拟议的 1,110 亿美元合并的反垄断调查，称其未发现对电影、广播电视或流媒体的竞争或消费者构成威胁。这一决定为两家历史悠久的制片厂竞争对手的合并铺平了道路：哥伦比亚广播公司 (CBS) 的所有者派拉蒙 (Paramount) 和规模大得多的华纳 (Warner)，其中包括 HBO 和 CNN。 Several states, including California, have raised antitrust concerns.欧盟也在调查。在做出该决定后的一份声明中，派拉蒙将此次交易描述为“有利于竞争”，并将导致“一家更强大的公司能够更好地与占主导地位的技术平台竞争，而这个行业对观众、人才、技术和投资的竞争日益激烈。”",
+      "_added_at": "2026-06-13T00:01:20.226859+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-12T23:00:32Z",
+      "headline": "If You Invested $100 In VanEck Semiconductor ETF Stock 15 Years Ago, You Would Have This Much Today",
+      "id": 53182225,
+      "images": [],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "SMH"
+      ],
+      "updated_at": "2026-06-12T23:00:33Z",
+      "url": "https://www.benzinga.com/insights/news/26/06/53182225/if-you-invested-100-in-vaneck-semiconductor-etf-stock-15-years-ago-you-would-have-this-much-today",
+      "_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 15 years by 15.05% on an annualized basis producing an average annual return of 27.5%. Currently, VanEck Semiconductor ETF has a market capitalization of $70.86 billion. Buying $100 In SMH: If an investor had bought $100 of SMH stock 15 years ago, it would be worth $3,836.39 today based on a price of $620.30 for SMH at the time of writing.",
+      "_zh_headline": "如果您 15 年前投资 100 美元购买 VanEck Semiconductor ETF 股票，今天您将拥有这么多",
+      "_zh_summary": "VanEck Semiconductor ETF（纳斯达克股票代码：SMH）在过去 15 年中的年化表现优于市场 15.05%，平均年回报率为 27.5%。目前，VanEck Semiconductor ETF 市值为 708.6 亿美元。购买 100 美元的 SMH：如果投资者 15 年前购买了 100 美元的 SMH 股票，那么根据撰写本文时 SMH 的价格为 620.30 美元，该股票今天的价值为 3,836.39 美元。",
+      "_added_at": "2026-06-13T00:01:20.226859+00:00"
+    },
+    {
       "headline": "Trump says he has canceled planned strikes on Iran and peace deal is near — again",
       "summary": "President Trump has canceled planned strikes in Iran, claiming, once again, that a peace deal is near. This is just the latest salvo in a series of whiplash proclamations when it comes to the U.S.-Israel-led war in Iran.",
       "url": "https://www.npr.org/2026/06/12/g-s1177-127971/trump-says-he-has-canceled-planned-strikes-on-iran-and-peace-deal-is-near-again",
@@ -379,66 +422,6 @@
       "_zh_headline": "今日股市：标准普尔 500 指数、道琼斯指数期货在 SpaceX 首次亮相之前上涨——Adobe、Lennar、CoreWeave 成为焦点",
       "_zh_summary": "美国股指期货周五上涨，纳斯达克 100 指数、标准普尔 500 指数和道琼斯指数继周四收高后上涨。与此同时，10年期国债收益率为4.44%，两年期国债收益率为4.05%。 CME Group 的 FedWatch 工具的预测显示，市场预计美联储在 6 月会议期间维持当前利率不变的可能性为 96.4%。",
       "_added_at": "2026-06-12T09:44:09.021639+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-06-12T08:36:03Z",
-      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
-      "id": 53160378,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "June 12, 2026: Polymarket traders bet on an S&amp;P 500 gain at open as Iran deal optimism grows before SpaceX&#39;s IPO.",
-      "symbols": [
-        "AMD",
-        "INTC",
-        "MU",
-        "ORCL",
-        "SOXX"
-      ],
-      "updated_at": "2026-06-12T08:36:03Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53160378/sp500-june-12-open-up-or-down-polymarket-spacex-ipo-iran-deal",
-      "_summary": "The S&P 500 surged on Thursday as easing concerns over the U.S.-Iran war and a rebound in semiconductor stocks sparked a broad market rally. Polymarket traders are betting the benchmark index will extend those gains at Friday’s open. The S&P 500 climbed 1.75% to close at 7,394.30 on Thursday, recovering much of the prior session’s losses after President Donald Trump signaled that a peace agreement with Iran could be signed soon.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于对美伊战争的担忧缓解以及半导体股票的反弹引发了市场广泛上涨，标准普尔 500 指数周四飙升。 Polymarket 交易员押注基准指数将在周五开盘时延续涨幅。在唐纳德·特朗普总统表示可能很快与伊朗签署和平协议后，标准普尔 500 指数周四上涨 1.75%，收于 7,394.30 点，收复前一交易日的大部分跌幅。",
-      "_added_at": "2026-06-12T09:44:09.021639+00:00"
-    },
-    {
-      "headline": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-      "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
-      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-12T02:15:24+00:00",
-      "_summary": "US President Donald Trump has claimed an initial agreement aimed at ending the war with Iran is close after posting that he had cancelled strikes on the country. \"We just made a great settlement of the war with Iran,\" he told reporters in the Oval Office on Thursday. Iran's foreign ministry spokesperson Esmail Baghaei told state TV that reports of an agreement were \"speculative\" and \"nothing has been finalised\". Trump has made similar claims in the past that the two countries are close to reaching a deal to end the conflict. Hours before the announcement, Trump had declared he would hit Iran \"very hard\". The US and Israel launched wide-ranging strikes on Iran on 28 February. Iran responded by attacking Israel and US-allied states in the Gulf, and effectively closing the Strait of Hormuz - a key shipping route for the world's oil and liquefied natural gas.",
-      "_zh_headline": "特朗普声称结束伊朗战争的协议即将达成，但德黑兰表示“没有任何敲定”",
-      "_zh_summary": "美国总统唐纳德·特朗普在宣布取消对伊朗的袭击后声称，旨在结束与伊朗战争的初步协议即将达成。 “我们刚刚就与伊朗的战争达成了一项伟大的解决方案，”他周四在椭圆形办公室对记者说。伊朗外交部发言人埃斯梅尔·巴加伊 (Esmail Baghaei) 告诉国家电视台，有关协议的报道是“推测性的”，“一切尚未最终确定”。特朗普过去也曾发表过类似言论，称两国即将达成协议以结束冲突。在宣布这一消息的几个小时前，特朗普宣布他将“非常严厉”地打击伊朗。 2月28日，美国和以色列对伊朗发动了大范围打击。伊朗的回应是攻击以色列和美国在海湾的盟国，并有效关闭霍尔木兹海峡——世界石油和液化天然气的重要运输路线。",
-      "_added_at": "2026-06-12T05:16:29.921811+00:00"
-    },
-    {
-      "headline": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-      "summary": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
-      "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-11T20:22:16+00:00",
-      "_summary": "President Donald Trump cancelled strikes on Iran after earlier threatening that the US would strike the country on Thursday night. He cited negotiations for cancelling the strikes. The BBC's Gary O'Donoghue looks at Trump's mixed messaging over Iran and the questions it raises. The BBC spoke to voters in Maine on election day on who they want to challenge Republican Senator Susan Collins. Strong winds, intense rain and hailstones the size of golf balls pelted the city and the surrounding area on Monday. Nada Tawfik is at Delaney Hall, where protesters have clashed with police and authorities have imposed a curfew across a half-mile area surrounding the facility. An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online. According to Nasa, the meteor released the equivalent to about 300 tons of TNT when it broke up.",
-      "_zh_headline": "随波逐流还是故意？ - 解读特朗普的伊朗战略",
-      "_zh_summary": "唐纳德·特朗普总统在早些时候威胁美国将在周四晚上袭击伊朗后取消了对伊朗的袭击。他引用了取消罢工的谈判。英国广播公司 (BBC) 的加里·奥多诺霍 (Gary O'Donoghue) 探讨了特朗普在伊朗问题上发出的复杂信息及其引发的问题。英国广播公司 (BBC) 在选举日与缅因州选民进行了交谈，讨论他们希望谁来挑战共和党参议员苏珊·柯林斯 (Susan Collins)。周一，强风、暴雨和高尔夫球大小的冰雹袭击了这座城市及周边地区。纳达·陶菲克 (Nada Tawfik) 在德莱尼大厅 (Delaney Hall)，抗议者与警察发生冲突，当局已在该设施周围半英里的区域实施宵禁。数百万人在网上观看了一段特朗普总统名字被从大楼正面撕下来的人工智能视频。据美国宇航局称，流星破裂时释放出相当于约 300 吨 TNT 的炸药。",
-      "_added_at": "2026-06-12T05:16:29.921811+00:00"
     }
   ]
 }
