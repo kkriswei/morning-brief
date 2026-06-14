@@ -2,6 +2,30 @@
   "date": "2026-06-14",
   "articles": [
     {
+      "headline": "Oil Prices Tumble After Trump Announces Deal With Iran",
+      "summary": "Oil prices fell and stocks gained on Sunday evening on the hope that a deal would allow more energy and other goods to flow through the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-14T22:26:46+00:00",
+      "_summary": "Oil prices fell and stocks gained on Sunday evening on the hope that a deal would allow more energy and other goods to flow through the Strait of Hormuz.",
+      "_zh_headline": "特朗普宣布与伊朗达成协议后油价暴跌",
+      "_zh_summary": "周日晚间，由于希望达成协议将允许更多能源和其他商品流经霍尔木兹海峡，油价下跌，股市上涨。",
+      "_added_at": "2026-06-14T22:44:09.265777+00:00"
+    },
+    {
+      "headline": "The U.S. and Iran announce a deal to end the war",
+      "summary": "President Trump said the U.S. would remove its blockade of the Strait of Hormuz.",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-14T18:30:42-04:00",
+      "_summary": "President Trump watches the start of Game 3 of the NBA Finals between the New York Knicks and San Antonio Spurs at Madison Square Garden on June 8. Trump says the U.S. has reached a deal with Iran. Samuel Corum/Getty Images hide caption President Trump, Iran and Pakistani mediators say a deal has been reached to end the war between the U.S. and Iran. Trump announced the agreement on social media on Sunday. \"The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!\" Trump wrote, announcing also that the U.S. would lift its naval blockade of the Strait of Hormuz. \"Ships of the World, start your engines. Let the oil flow!\" Prime Minister Shehbaz Sharif of Pakistan, which had played a key mediating role in the negotiations, confirmed the deal, saying : \"Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.\"",
+      "_zh_headline": "美国和伊朗宣布达成结束战争的协议",
+      "_zh_summary": "6 月 8 日，特朗普总统在麦迪逊广场花园观看 NBA 总决赛第三场比赛的开始，纽约尼克斯队与圣安东尼奥马刺队之间。特朗普表示，美国已与伊朗达成协议。塞缪尔·科鲁姆/盖蒂图片社隐藏标题特朗普总统、伊朗和巴基斯坦调解人表示，已经达成协议以结束美国和伊朗之间的战争。特朗普周日在社交媒体上宣布了该协议。 “与伊朗伊斯兰共和国的协议现已完成。祝贺所有人！”特朗普写道，还宣布美国将解除对霍尔木兹海峡的海上封锁。 “世界上的船只，启动你的引擎。让油流动起来！”在谈判中发挥关键调解作用的巴基斯坦总理谢赫巴兹·谢里夫确认了该协议，并表示：“双方已宣布立即永久终止在所有战线上的军事行动，包括在黎巴嫩的军事行动。”",
+      "_added_at": "2026-06-14T22:44:09.265777+00:00"
+    },
+    {
       "headline": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
       "summary": "Israelis across the political spectrum say the deal appears to leave fundamental security threats posed by Iran unaddressed.",
       "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html",
