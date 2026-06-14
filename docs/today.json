@@ -2,6 +2,36 @@
   "date": "2026-06-14",
   "articles": [
     {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-06-14T12:31:21Z",
+      "headline": "Weekend Round-Up: SpaceX's Historic IPO, Musk's Trillionaire Status, Paramount's Major DOJ Approval And More",
+      "id": 53185430,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/The-Spacex-Logo-Is-Displayed-On-A-Mobile_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/The-Spacex-Logo-Is-Displayed-On-A-Mobile_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/The-Spacex-Logo-Is-Displayed-On-A-Mobile_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SpaceX&#39;s record IPO, Oracle and Adobe earnings beats, Musk&#39;s trillionaire milestone, and Paramount&#39;s DOJ win dominated this week.",
+      "symbols": [],
+      "updated_at": "2026-06-14T12:31:22Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53185430/weekend-round-up-spacexs-historic-ipo-musks-trillionaire-status-paramounts-major-doj-approval-and-more",
+      "_summary": "This week was a whirlwind of activity in the business world. From Oracle’s impressive Q4 results to SpaceX’s record-breaking IPO, there was no shortage of exciting news. Let’s dive into the details. Oracle reported a double beat in its Q4 results, with revenue reaching approximately $19.18 billion, surpassing analyst estimates of around $19.10 billion. Adjusted earnings saw a 24% YoY growth, hitting $2.11 per share and beating analyst estimates of $1.96 per share. However, investors were spooked after the software giant said it plans to spend $90 billion to $95 billion on capital expenditures in fiscal 2027 and raise roughly $40 billion through debt and equity financing, including a $20 billion share sale, to fund its AI expansion. SpaceX made a historic debut with the largest IPO in history, raising $75 billion through the sale of 555.6 million primary shares.",
+      "_zh_headline": "周末综述：SpaceX 历史性的 IPO、马斯克的亿万富翁地位、派拉蒙获得司法部的重大批准等等",
+      "_zh_summary": "本周商业界活动如旋风般。从甲骨文令人印象深刻的第四季度业绩到 SpaceX 破纪录的 IPO，不乏令人兴奋的消息。让我们深入了解细节。甲骨文公布的第四季度业绩双双超出预期，营收达到约 191.8 亿美元，超过分析师约 191.0 亿美元的预期。调整后收益同比增长 24%，达到每股 2.11 美元，超出分析师预期的每股 1.96 美元。然而，这家软件巨头表示计划在 2027 财年投入 900 亿至 950 亿美元的资本支出，并通过债务和股权融资（包括出售 200 亿美元的股票）筹集约 400 亿美元，为其人工智能扩张提供资金，这让投资者感到震惊。 SpaceX 历史性地首次亮相，通过发行 5.556 亿股初级股筹集了 750 亿美元，这是历史上规模最大的 IPO。",
+      "_added_at": "2026-06-14T13:15:12.008639+00:00"
+    },
+    {
       "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
       "summary": "Britain’s defense ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.",
       "url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html",
