@@ -2,6 +2,98 @@
   "date": "2026-06-15",
   "articles": [
     {
+      "headline": "Potential End of War Tests Trump’s Promise of Quick Economic Rebound",
+      "summary": "Gas prices and other goods could remain elevated for months, adding to the political challenge facing the White House in the midterm elections.",
+      "url": "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-15T21:56:25+00:00",
+      "_summary": "Gas prices and other goods could remain elevated for months, adding to the political challenge facing the White House in the midterm elections.",
+      "_zh_headline": "战争的潜在结束考验特朗普经济快速复苏的承诺",
+      "_zh_summary": "天然气和其他商品的价格可能会在数月内保持高位，这将加剧白宫在中期选举中面临的政治挑战。",
+      "_added_at": "2026-06-15T22:34:52.009206+00:00"
+    },
+    {
+      "headline": "Will Commercial Ships Have to Pay to Pass Through the Strait of Hormuz? Maybe.",
+      "summary": "Charging a toll is illegal under international law, but some fees are allowed for services. It is not clear what services Iran would provide, but there were no fees charged before the war.",
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-15T21:49:24+00:00",
+      "_summary": "Charging a toll is illegal under international law, but some fees are allowed for services. It is not clear what services Iran would provide, but there were no fees charged before the war.",
+      "_zh_headline": "商船通过霍尔木兹海峡需要付费吗？或许。",
+      "_zh_summary": "根据国际法，收取通行费是非法的，但某些服务费用是允许的。目前尚不清楚伊朗将提供哪些服务，但战前没有收取任何费用。",
+      "_added_at": "2026-06-15T22:34:52.009206+00:00"
+    },
+    {
+      "headline": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-15T20:33:54+00:00",
+      "_summary": "US President Donald Trump has said a preliminary deal to end the war with Iran has already been signed and suggested that details of the agreement are set to be published \"pretty soon\". \"I am very happy to say it's signed, the deal is all signed,\" he said during talks with French President Emmanuel Macron at the G7 summit on Monday. Senior US officials also began giving some details about the contents of the deal, briefing that the Strait of Hormuz would re-open on Friday - the same day the deal is formally inked in Geneva. Technical talks on Iran's nuclear programme are expected to begin this week, they said, while any sanctions relief or release of assets will depend on Iran meeting commitments under the deal. The US officials said the agreement had been signed electronically by Trump, Vice President JD Vance and Iranian Parliament Speaker Mohammad Bagher Ghalibaf.",
+      "_zh_headline": "特朗普称结束与伊朗战争的协议已经签署，细节将“很快”公布",
+      "_zh_summary": "美国总统唐纳德·特朗普表示，结束与伊朗战争的初步协议已经签署，并表示该协议的细节将“很快”公布。他在周一七国集团峰会上与法国总统马克龙会谈时表示：“我很高兴地说，协议已经签署，协议全部签署。”美国高级官员也开始提供有关该协议内容的一些细节，并通报称，霍尔木兹海峡将于周五重新开放，即该协议在日内瓦正式签署的同一天。他们表示，有关伊朗核计划的技术谈判预计将于本周开始，而任何制裁的解除或资产的释放将取决于伊朗是否履行协议下的承诺。美国官员表示，该协议已由特朗普、副总统万斯和伊朗议会议长穆罕默德·巴格尔·加利巴夫以电子方式签署。",
+      "_added_at": "2026-06-15T22:34:52.009206+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-06-15T20:19:00Z",
+      "headline": "Stock Market Euphoric Over New Musk Post And Iran Deal",
+      "id": 53211089,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Elon-Musk_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Elon-Musk_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Elon-Musk_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nEuphoric Stock Market\n\n\n",
+      "symbols": [
+        "AAL",
+        "AAPL",
+        "AMD",
+        "AMZN",
+        "BTCUSD",
+        "CCL",
+        "DAL",
+        "EWJ",
+        "EWY",
+        "GOOG",
+        "GS",
+        "INTC",
+        "META",
+        "MS",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "RCL",
+        "SNDK",
+        "SPCX",
+        "SPY",
+        "TSLA",
+        "UAL",
+        "USO"
+      ],
+      "updated_at": "2026-06-15T20:21:06Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53211089/stock-market-euphoric-over-new-musk-post-and-iran-deal",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor. It does not represent Benzinga’s reporting and has not been edited for content or accuracy.",
+      "_zh_headline": "股市因马斯克新职位和伊朗协议而欣喜若狂",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。它不代表 Benzinga 的报告，并且未经内容或准确性编辑。",
+      "_added_at": "2026-06-15T22:34:52.009206+00:00"
+    },
+    {
       "author": "Erica Kollmann",
       "content": "",
       "created_at": "2026-06-15T17:29:27Z",
