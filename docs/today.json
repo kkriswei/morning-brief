@@ -2,6 +2,80 @@
   "date": "2026-06-15",
   "articles": [
     {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-06-15T17:29:27Z",
+      "headline": "Micron's Broadcom‑Driven Drop Never Made Sense — Dip Buyers Are Up 40%",
+      "id": 53205289,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/The-Micron-Logo-Appears---EK.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/The-Micron-Logo-Appears---EK.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/The-Micron-Logo-Appears---EK.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron shares took a hit following Broadcom&#39;s Q2 earnings release. The logic behind the selloff was sloppy at best.",
+      "symbols": [
+        "AVGO",
+        "MU"
+      ],
+      "updated_at": "2026-06-15T17:29:28Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53205289/microns-broadcom%e2%80%91driven-drop-never-made-sense-dip-buyers-are-up-40",
+      "_summary": "The logic behind the selloff was sloppy at best — and the tape has since punished anyone who sold into it. Dip buyers who stepped in near $751 are sitting on gains of roughly 43.1%. Micron trades at $1,074.66 as of Monday afternoon, within striking distance of its 52-week high, according to Benzinga Pro . Broadcom’s Q2 transcript makes clear why the Micron selloff was misdirected. CEO Hock Tan guided Q3 AI semiconductor revenue to approximately $5.1 billion, up 60% year over year.",
+      "_zh_headline": "美光科技受 Broadcom 推动的价格下降毫无意义——低迷买家增加了 40%",
+      "_zh_summary": "抛售背后的逻辑充其量是草率的——此后，磁带已经惩罚了任何卖出它的人。逢低买入的买家在接近 751 美元时买入，涨幅约为 43.1%。据 Benzinga Pro 称，截至周一下午，美光科技股价为 1,074.66 美元，距离 52 周高点仅一步之遥。博通第二季度的业绩记录清楚地表明了为什么美光的抛售是错误的。首席执行官 Hock Tan 预计第三季度 AI 半导体收入约为 51 亿美元，同比增长 60%。",
+      "_added_at": "2026-06-15T19:31:11.613889+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-15T17:35:27Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "id": 53205496,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AMD",
+        "AMKR",
+        "BMNR",
+        "INTC",
+        "MU",
+        "NOK",
+        "SHOP",
+        "SNDK",
+        "TSM",
+        "WULF"
+      ],
+      "updated_at": "2026-06-15T17:35:28Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53205496/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
+      "_added_at": "2026-06-15T19:31:11.613889+00:00"
+    },
+    {
       "headline": "Trump Winds Down the War He Started With Goals Unmet",
       "summary": "While the president says the agreement with Iran would open the Strait of Hormuz and provide economic relief, the country’s nuclear program is still a subject for negotiation.",
       "url": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-deal-hormuz-trump-goals.html",
