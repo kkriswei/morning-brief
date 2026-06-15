@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "articles": [
+    {
+      "headline": "Oil Prices Tumble After Trump Announces Deal With Iran",
+      "summary": "Oil prices fell and stocks gained early Monday after Iran and the U.S. reached a deal that may allow more energy and other goods to flow through the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-15T05:50:37+00:00",
+      "_summary": "Oil prices fell and stocks gained early Monday after Iran and the U.S. reached a deal that may allow more energy and other goods to flow through the Strait of Hormuz.",
+      "_zh_headline": "特朗普宣布与伊朗达成协议后油价暴跌",
+      "_zh_summary": "伊朗和美国达成一项可能允许更多能源和其他商品流经霍尔木兹海峡的协议后，周一早盘油价下跌，股市上涨。",
+      "_added_at": "2026-06-15T08:37:18.606058+00:00"
+    },
+    {
+      "headline": "Oil prices fall and shares jump after US-Iran deal announced",
+      "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-15T07:38:09+00:00",
+      "_summary": "Oil prices have fallen and shares risen after the US and Iran said they had agreed a framework deal to end the war, which US President Donald Trump said would see the reopening of the key Strait of Hormuz shipping route. Brent crude, the global oil benchmark, dropped 4.7% to $83.24 (£61.94) a barrel, and shares in Asia and Europe jumped in reaction to the deal. Pakistan, which has been mediating an end to the US-Iran war, said an official signing ceremony would be held on Friday, 19 June in Switzerland. Iran's deputy foreign minister Kazem Gharibabadi confirmed in a phone call on state TV that a deal with the US had been finalised, while Trump posted on social media \"let the oil flow!\". But Vandana Hari from energy markets analysis firm Vanda Insights said a lack of detail on what has been agreed was \"likely to inject unease and uncertainty into the market\".",
+      "_zh_headline": "美伊协议宣布后油价下跌，股价上涨",
+      "_zh_summary": "在美国和伊朗表示已达成结束战争的框架协议后，油价下跌，股市上涨，美国总统唐纳德·特朗普表示，霍尔木兹海峡的主要航线将重新开放。全球石油基准布伦特原油下跌 4.7%，至每桶 83.24 美元（61.94 英镑），亚洲和欧洲股市因该交易而上涨。一直在调解结束美伊战争的巴基斯坦表示，正式签字仪式将于 6 月 19 日星期五在瑞士举行。伊朗副外长卡泽姆·加里巴迪在国家电视台的电话中证实，与美国的协议已经敲定，而特朗普则在社交媒体上发文“让石油流动吧！”。但能源市场分析公司 Vanda Insights 的 Vandana Hari 表示，协议内容缺乏细节“可能会给市场带来不安和不确定性”。",
+      "_added_at": "2026-06-15T08:37:18.606058+00:00"
+    },
     {
       "headline": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
       "summary": "Oil prices had already fallen quite dramatically on Thursday and Friday, in anticipation of an imminent deal. President Trump has posted online that the Strait of Hormuz will reopen after the deal is signed on Friday.",
@@ -11,321 +35,79 @@
       "_summary": "A ship remains anchored on May 16, 2026 in the Strait of Hormuz near Larak Island, Iran. Majid Saeedi/Getty Images Europe hide caption Crude oil prices sank on Sunday night after President Trump posted on social media that a deal to end the war with Iran was \"complete.\" Oil futures markets promptly dropped 4%, after markets reopened for trading following their typical weekend break. Prices had already fallen significantly on Thursday and Friday in anticipation of a deal, bringing the per-barrel price of crude Sunday night down 12% from where it had been in the middle of last week. Brent crude, the global benchmark, is now below $84 a barrel, and West Texas Intermediate, the U.S. benchmark, beneath $81. At one point in this conflict, global oil prices had touched $126 a barrel. They remain elevated compared to pre-war prices, which were in the $60s, but are now cheaper than they have been at any point since the very first days of this conflict.",
       "_zh_headline": "特朗普承诺周五签署伊朗协议后原油期货下跌",
       "_zh_summary": "2026 年 5 月 16 日，一艘船仍然停泊在伊朗拉拉克岛附近的霍尔木兹海峡。 Majid Saeedi/Getty Images Europe 隐藏标题 周日晚上，特朗普总统在社交媒体上发布结束与伊朗战争的协议“完成”后，原油价格下跌。在典型的周末休市后市场重新开盘后，石油期货市场迅速下跌 4%。由于预期将达成协议，周四和周五价格已大幅下跌，导致周日晚间每桶原油价格较上周中期下跌 12%。全球基准布伦特原油目前低于每桶 84 美元，美国基准西德克萨斯中质原油则低于每桶 81 美元。在这场冲突中，全球油价曾一度触及每桶 126 美元。与战前 60 美元的价格相比，它们仍然处于较高水平，但现在比冲突爆发第一天以来的任何时候都便宜。",
-      "_added_at": "2026-06-15T02:01:06.584223+00:00"
+      "_added_at": "2026-06-15T08:37:18.606058+00:00"
     },
     {
-      "headline": "Oil Prices Tumble After Trump Announces Deal With Iran",
-      "summary": "Oil prices fell and stocks gained on Sunday evening on the hope that a deal would allow more energy and other goods to flow through the Strait of Hormuz.",
-      "url": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-14T22:26:46+00:00",
-      "_summary": "Oil prices fell and stocks gained on Sunday evening on the hope that a deal would allow more energy and other goods to flow through the Strait of Hormuz.",
-      "_zh_headline": "特朗普宣布与伊朗达成协议后油价暴跌",
-      "_zh_summary": "周日晚间，由于希望达成协议将允许更多能源和其他商品流经霍尔木兹海峡，油价下跌，股市上涨。",
-      "_added_at": "2026-06-14T22:44:09.265777+00:00"
-    },
-    {
-      "headline": "The U.S. and Iran announce a deal to end the war",
-      "summary": "President Trump said the U.S. would remove its blockade of the Strait of Hormuz.",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-14T18:30:42-04:00",
-      "_summary": "President Trump watches the start of Game 3 of the NBA Finals between the New York Knicks and San Antonio Spurs at Madison Square Garden on June 8. Trump says the U.S. has reached a deal with Iran. Samuel Corum/Getty Images hide caption President Trump, Iran and Pakistani mediators say a deal has been reached to end the war between the U.S. and Iran. Trump announced the agreement on social media on Sunday. \"The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!\" Trump wrote, announcing also that the U.S. would lift its naval blockade of the Strait of Hormuz. \"Ships of the World, start your engines. Let the oil flow!\" Prime Minister Shehbaz Sharif of Pakistan, which had played a key mediating role in the negotiations, confirmed the deal, saying : \"Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.\"",
-      "_zh_headline": "美国和伊朗宣布达成结束战争的协议",
-      "_zh_summary": "6 月 8 日，特朗普总统在麦迪逊广场花园观看 NBA 总决赛第三场比赛的开始，纽约尼克斯队与圣安东尼奥马刺队之间。特朗普表示，美国已与伊朗达成协议。塞缪尔·科鲁姆/盖蒂图片社隐藏标题特朗普总统、伊朗和巴基斯坦调解人表示，已经达成协议以结束美国和伊朗之间的战争。特朗普周日在社交媒体上宣布了该协议。 “与伊朗伊斯兰共和国的协议现已完成。祝贺所有人！”特朗普写道，还宣布美国将解除对霍尔木兹海峡的海上封锁。 “世界上的船只，启动你的引擎。让油流动起来！”在谈判中发挥关键调解作用的巴基斯坦总理谢赫巴兹·谢里夫确认了该协议，并表示：“双方已宣布立即永久终止在所有战线上的军事行动，包括在黎巴嫩的军事行动。”",
-      "_added_at": "2026-06-14T22:44:09.265777+00:00"
-    },
-    {
-      "headline": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
-      "summary": "Israelis across the political spectrum say the deal appears to leave fundamental security threats posed by Iran unaddressed.",
-      "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-14T20:07:05+00:00",
-      "_summary": "Israelis across the political spectrum say the deal appears to leave fundamental security threats posed by Iran unaddressed.",
-      "_zh_headline": "以色列对美国与伊朗的新协议普遍不满",
-      "_zh_summary": "以色列各政治派别均表示，该协议似乎没有解决伊朗构成的根本安全威胁。",
-      "_added_at": "2026-06-14T20:48:52.386106+00:00"
-    },
-    {
-      "headline": "Lebanon says three killed in Israeli strike on Beirut suburb",
-      "summary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-14T15:34:32+00:00",
-      "_summary": "Lebanon's state media have said at least three people were killed and 15 injured in an Israeli air strike on Beirut's southern suburb on Sunday. The Israel Defense Forces (IDF) said it targeted a \"command centre\" used by Hezbollah in Dahieh, after the Iran-backed armed group launched \"aerial targets toward Israel\". Photographs of the scene showed extensive damage around the building that was hit. A senior Iranian official warned that the Israeli attack south of Beirut could derail an expected deal to end the fighting between Iran and the US. US President Trump later said the attack \"should not have happened, particularly on a special day when we are so close to a Peace Deal with Iran\". \"Israel has the right to defend itself against threats, but the attack it was responding to was very small and meaningless, nobody was hurt, injured, or killed, and should not disrupt this important process,\" Trump wrote in a post on Truth Social.",
-      "_zh_headline": "黎巴嫩称以色列对贝鲁特郊区的袭击造成三人死亡",
-      "_zh_summary": "黎巴嫩官方媒体称，以色列周日对贝鲁特南部郊区发动空袭，造成至少 3 人死亡、15 人受伤。以色列国防军（IDF）表示，在伊朗支持的武装组织向以色列发射“空中目标”后，他们瞄准了真主党在达希耶使用的“指挥中心”。现场照片显示，被击中的建筑物周围严重受损。一名伊朗高级官员警告称，以色列对贝鲁特以南的袭击可能会破坏旨在结束伊朗和美国之间战斗的协议。美国总统特朗普后来表示，这次袭击“不应该发生，特别是在我们如此接近与伊朗达成和平协议的特殊日子”。特朗普在《Truth Social》上发表的一篇文章中写道：“以色列有权防御威胁，但它所应对的袭击非常小且毫无意义，没有人受伤、受伤或死亡，不应该扰乱这一重要进程。”",
-      "_added_at": "2026-06-14T16:57:33.860365+00:00"
-    },
-    {
-      "headline": "The U.S.-led war in Iran will dominate Trump's G7 trip to France",
-      "summary": "The gathering was originally expected to be a meeting focused on a variety of separate economic and security issues.",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5857167/trump-g7-iran-war-macron-france",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-14T12:00:00-04:00",
-      "_summary": "French President Emmanuel Macron (L) and US President Donald Trump (R) shake hands during the greetings ceremony at the Gaza Peace Summit in Sharm El-Sheikh, on October 13, 2025. YOAN VALAT/POOL/AFP via Getty Images hide caption President Trump is leaving soon for France for a G7 summit that is likely to be dominated by the escalating conflict with Iran. Trump will meet with French President Emmanuel Macron, among other European leaders, who he has squabbled with over trade, Ukraine and security since his return to office. The U.S. president is also scheduled to met as a group and individually with key Middle Eastern leaders and attend a working session with Ukrainian President Volodymyr Zelenskyy and G7 leaders, said senior U.S. administration officials not authorized to speak publicly.",
-      "_zh_headline": "美国领导的伊朗战争将主导特朗普七国集团法国之行",
-      "_zh_summary": "法国总统埃马纽埃尔·马克龙（左）和美国总统唐纳德·特朗普（右）于 2025 年 10 月 13 日在沙姆沙伊赫举行的加沙和平峰会上握手。YOAN VALAT/POOL/法新社来自 Getty Images 隐藏标题 特朗普总统即将前往法国参加七国集团峰会，此次峰会的主题可能是与伊朗不断升级的冲突。特朗普将与法国总统马克龙以及其他欧洲领导人会面，自他重返办公室以来，他一直在贸易、乌克兰和安全问题上与他们发生争执。未获授权公开发言的美国政府高级官员表示，美国总统还计划与中东主要领导人进行集体和单独会晤，并出席与乌克兰总统泽伦斯基和七国集团领导人的工作会议。",
-      "_added_at": "2026-06-14T16:57:33.860365+00:00"
-    },
-    {
-      "headline": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
-      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-14T14:08:03+00:00",
-      "_summary": "A teenager was shot and buses destroyed during chaotic scenes in New York City that marred jubilant celebrations for the Knicks' historic NBA championship win. The New York Knicks beat the San Antonio Spurs 94–90 in game five on Saturday to clinch the title for the first time in more than half a century. The game was in Texas, but New Yorkers took to their hometown streets in droves to toast the milestone for fans and the city. As crowds swelled into the early hours, gunfire rang out near Times Square, a 17-year-old was wounded and school buses that had transported World Cup fans were torched. It is unclear if anyone was hurt in that incident. Knicks owner James Dolan had called for restraint following his team's victory against the Spurs in San Antonio on Saturday night. \"We need to tell everybody in New York that we know that they're celebrating, we want them to have a great time,\" said Dolan, interrupting Knicks player Josh Hart's news conference. \"Please be safe.",
-      "_zh_headline": "尼克斯队取得历史性的 NBA 胜利后，曼哈顿青少年遭枪杀，巴士被纵火",
-      "_zh_summary": "纽约市混乱的场面中，一名青少年被枪杀，巴士被毁，尼克斯队历史性 NBA 冠军夺冠的欢腾庆祝活动受到破坏。周六，纽约尼克斯队在第五场比赛中以 94-90 击败圣安东尼奥马刺队，半个多世纪以来首次夺得总冠军。比赛在德克萨斯州举行，但纽约人成群结队地走上家乡街道，为球迷和这座城市庆祝这一里程碑。随着人群涌入凌晨，时代广场附近响起枪声，一名 17 岁的青少年受伤，运送世界杯球迷的校车被纵火焚烧。目前尚不清楚是否有人在那次事件中受伤。尼克斯队老板詹姆斯·多兰在周六晚上在圣安东尼奥击败马刺队后呼吁保持克制。 “我们需要告诉纽约的每个人，我们知道他们正在庆祝，我们希望他们度过愉快的时光，”多兰打断了尼克斯队球员乔什·哈特的新闻发布会说。 “请注意安全。",
-      "_added_at": "2026-06-14T15:26:29.954363+00:00"
-    },
-    {
-      "author": "Chris Katje",
+      "author": "Snigdha Gairola",
       "content": "",
-      "created_at": "2026-06-14T14:35:48Z",
-      "headline": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
-      "id": 53185544,
+      "created_at": "2026-06-15T07:16:07Z",
+      "headline": "Ro Khanna Backs Trump's Iran Ceasefire Deal: 'Democrats Should Support It'",
+      "id": 53187434,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/Stock-Whisper-Index.jpeg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Washington--Dc--September-27--2021-Rep--.jpeg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/Stock-Whisper-Index.jpeg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Washington--Dc--September-27--2021-Rep--.jpeg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/Stock-Whisper-Index.jpeg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Washington--Dc--September-27--2021-Rep--.jpeg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "The Benzinga Stock Whisper Index highlights five stocks seeing increased investor interest during the week and looks at the catalysts driving attention.",
-      "symbols": [
-        "BB",
-        "CHAI",
-        "MRVL",
-        "NOK",
-        "STI"
-      ],
-      "updated_at": "2026-06-14T14:35:49Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/53185544/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet-115",
-      "_summary": "Each week, Benzinga’s Stock Whisper Index uses a combination of proprietary data and pattern recognition to showcase five stocks that are just under the surface and deserve attention . Investors are constantly on the hunt for undervalued, under-followed and emerging stocks. With countless methods available to retail traders, the challenge often lies in sifting through the abundance of information to uncover new opportunities and understand why certain stocks should be of interest.",
-      "_zh_headline": "Benzinga 的“股票耳语”指数：投资者秘密关注但尚未谈论的 5 只股票",
-      "_zh_summary": "Benzinga 的股票耳语指数每周都会结合专有数据和模式识别来展示五只隐藏在表面之下且值得关注的股票。投资者不断寻找被低估、关注不足的新兴股票。零售交易者可以使用无数的方法，但挑战往往在于筛选大量信息以发现新机会并理解为什么某些股票应该受到关注。",
-      "_added_at": "2026-06-14T15:26:29.954363+00:00"
+      "summary": "Ro Khanna backs Iran ceasefire and Strait of Hormuz reopening, saying it could lower gas prices, ease inflation.",
+      "symbols": [],
+      "updated_at": "2026-06-15T07:16:08Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/53187434/ro-khanna-backs-trumps-iran-ceasefire-deal-democrats-should-support-it",
+      "_summary": "On Sunday, Rep. Ro Khanna (D-Calif.) said a reported ceasefire involving Iran and the reopening of the Strait of Hormuz marks a positive turning point that could ease energy prices and help prevent further military escalation. In a post on X , Khanna praised the reported agreement and urged bipartisan support, arguing that it could stabilize global energy markets and reduce the risk of conflict. He wrote, \"The ceasefire agreement with Iran with the opening of the Strait of Hormuz is welcome news. Democrats should support it.\" He added that the deal reflects mutual respect for sovereignty and helps avoid \"a dumb war of choice again.\" Khanna also criticized past U.S. military actions in the region, saying, \"The war was a costly lesson for the US,\" and claimed earlier efforts at regime change had failed. Comparing it to prior diplomacy, he said, \"The terms seem no better than what Obama secured under the JCPOA nearly a decade ago.\"",
+      "_zh_headline": "罗·卡纳支持特朗普的伊朗停火协议：“民主党人应该支持”",
+      "_zh_summary": "周日，众议员罗·卡纳（加利福尼亚州民主党人）表示，据报道，涉及伊朗的停火和霍尔木兹海峡的重新开放标志着一个积极的转折点，可以缓解能源价格并有助于防止军事进一步升级。在 X 上的一篇帖子中，卡纳赞扬了报道中的协议，并敦促两党支持，认为它可以稳定全球能源市场并降低冲突风险。他写道，“随着霍尔木兹海峡的开放，与伊朗达成的停火协议是个好消息。民主党人应该支持它。”他补充说，该协议体现了对主权的相互尊重，有助于避免“再次发生愚蠢的选择战争”。卡纳还批评美国过去在该地区的军事行动，称“这场战争对美国来说是一个代价高昂的教训”，并声称早些时候的政权更迭努力已经失败。他说，与之前的外交相比，“这些条款似乎并不比奥巴马近十年前在联合全面行动计划中获得的条款好。”",
+      "_added_at": "2026-06-15T08:37:18.606058+00:00"
     },
     {
       "author": "Ananya Gairola",
       "content": "",
-      "created_at": "2026-06-14T12:31:21Z",
-      "headline": "Weekend Round-Up: SpaceX's Historic IPO, Musk's Trillionaire Status, Paramount's Major DOJ Approval And More",
-      "id": 53185430,
+      "created_at": "2026-06-15T02:05:09Z",
+      "headline": "Trump Says Iran Deal 'Now Complete,' Authorizes 'Opening' Of The Strait Of Hormuz: Crude Falls More than 4%, Dow Futures Jump 380 Points",
+      "id": 53186336,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/The-Spacex-Logo-Is-Displayed-On-A-Mobile_0.jpeg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/President-Of-The-United-States-Donald-Tr.jpeg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/The-Spacex-Logo-Is-Displayed-On-A-Mobile_0.jpeg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/President-Of-The-United-States-Donald-Tr.jpeg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/The-Spacex-Logo-Is-Displayed-On-A-Mobile_0.jpeg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/14/President-Of-The-United-States-Donald-Tr.jpeg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "SpaceX&#39;s record IPO, Oracle and Adobe earnings beats, Musk&#39;s trillionaire milestone, and Paramount&#39;s DOJ win dominated this week.",
+      "summary": "Stocks rallied and oil prices plunged after Trump announced a framework peace deal with Iran and plans to reopen the Strait of Hormuz.",
       "symbols": [],
-      "updated_at": "2026-06-14T12:31:22Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53185430/weekend-round-up-spacexs-historic-ipo-musks-trillionaire-status-paramounts-major-doj-approval-and-more",
-      "_summary": "This week was a whirlwind of activity in the business world. From Oracle’s impressive Q4 results to SpaceX’s record-breaking IPO, there was no shortage of exciting news. Let’s dive into the details. Oracle reported a double beat in its Q4 results, with revenue reaching approximately $19.18 billion, surpassing analyst estimates of around $19.10 billion. Adjusted earnings saw a 24% YoY growth, hitting $2.11 per share and beating analyst estimates of $1.96 per share. However, investors were spooked after the software giant said it plans to spend $90 billion to $95 billion on capital expenditures in fiscal 2027 and raise roughly $40 billion through debt and equity financing, including a $20 billion share sale, to fund its AI expansion. SpaceX made a historic debut with the largest IPO in history, raising $75 billion through the sale of 555.6 million primary shares.",
-      "_zh_headline": "周末综述：SpaceX 历史性的 IPO、马斯克的亿万富翁地位、派拉蒙获得司法部的重大批准等等",
-      "_zh_summary": "本周商业界活动如旋风般。从甲骨文令人印象深刻的第四季度业绩到 SpaceX 破纪录的 IPO，不乏令人兴奋的消息。让我们深入了解细节。甲骨文公布的第四季度业绩双双超出预期，营收达到约 191.8 亿美元，超过分析师约 191.0 亿美元的预期。调整后收益同比增长 24%，达到每股 2.11 美元，超出分析师预期的每股 1.96 美元。然而，这家软件巨头表示计划在 2027 财年投入 900 亿至 950 亿美元的资本支出，并通过债务和股权融资（包括出售 200 亿美元的股票）筹集约 400 亿美元，为其人工智能扩张提供资金，这让投资者感到震惊。 SpaceX 历史性地首次亮相，通过发行 5.556 亿股初级股筹集了 750 亿美元，这是历史上规模最大的 IPO。",
-      "_added_at": "2026-06-14T13:15:12.008639+00:00"
+      "updated_at": "2026-06-15T02:05:10Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/53186336/trump-says-iran-deal-now-complete-authorizes-opening-of-the-strait-of-hormuz-crude-falls-more-than-4-dow-futures-jump-380-points",
+      "_summary": "Late Sunday, U.S. stock futures surged and oil prices tumbled as President Donald Trump announced that a framework agreement to end the conflict with Iran had been completed. Dow futures rose 380.00 points, or 0.74%, to 51,607.00, while S&P 500 futures gained 72.25 points, or 0.97%, to 7,507.25 and Nasdaq 100 futures advanced 480.25 points, or 1.62%, to 30,142.25 as of around 8:50 p.m. EDT. In commodities, WTI crude oil fell 4.61% to $80.97 per barrel, while Brent crude declined 3.92% to $83.91 per barrel. Natural gas futures slipped 1.92% to $3.06 per MMBtu. Meanwhile, the U.S. dollar index, which tracks the greenback against a basket of currencies, stood at 99.568, down 0.24%. Asian markets traded sharply higher, with South Korea’s KOSPI surging 5.51% to 8,571.51 and Japan’s Nikkei 225 jumping 4.87% to 69,233.28. Trump said on Truth Social that “The Deal with the Islamic Republic of Iran is now complete.”",
+      "_zh_headline": "特朗普称伊朗协议“现已完成”，授权“开放”霍尔木兹海峡：原油跌逾4%，道指期货大涨380点",
+      "_zh_summary": "周日晚间，随着唐纳德·特朗普总统宣布结束与伊朗冲突的框架协议已经完成，美国股指期货飙升，油价暴跌。道指期货上涨 380.00 点，即 0.74%，至 51,607.00 点；标准普尔 500 指数期货上涨 72.25 点，即 0.97%，至 7,507.25；纳斯达克 100 指数期货上涨 480.25 点，即 1.62%，至 30,142.25 点。晚上 8:50美东时间。大宗商品方面，WTI 原油下跌 4.61%，至每桶 80.97 美元，布伦特原油下跌 3.92%，至每桶 83.91 美元。天然气期货下跌 1.92%，至每 MMBtu 3.06 美元。与此同时，追踪美元兑一篮子货币的美元指数报99.568，下跌0.24%。亚洲市场大幅走高，韩国综合股价指数上涨 5.51% 至 8,571.51 点，日本日经 225 指数上涨 4.87% 至 69,233.28 点。特朗普在《Truth Social》上表示，“与伊朗伊斯兰共和国的协议现已完成。”",
+      "_added_at": "2026-06-15T08:37:18.606058+00:00"
     },
     {
-      "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
-      "summary": "Britain’s defense ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.",
-      "url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html",
+      "headline": "For His 80th Birthday, Trump Brought a Cage Match to the White House Lawn",
+      "summary": "President Trump sat ringside beside his wife, Melania Trump, for an event that used the trappings of the White House for a U.F.C. brawl.",
+      "url": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-14T09:57:39+00:00",
-      "_summary": "Britain’s defense ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.",
-      "_zh_headline": "英国军队扣押俄罗斯影子舰队油轮",
-      "_zh_summary": "英国国防部表示，这是英国军队首次单独采取行动拦截该舰队中的一艘船只，该舰队是俄罗斯用来运输燃料和逃避制裁的船只的集合。",
-      "_added_at": "2026-06-14T10:38:20.802290+00:00"
-    },
-    {
-      "headline": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
-      "summary": "Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine.",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-14T04:45:23-04:00",
-      "_summary": "Britain's Prime Minister Keir Starmer leaves 10 Downing Street to attend the weekly session of Prime Minister's Questions in parliament in London, Wednesday, June 10, 2026. Kin Cheung/AP hide caption LONDON — Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine, British Prime Minister Keir Starmer said Sunday. British armed forces boarded and detained the vessel, the Smyrtos, on Sunday in the English Channel, in what the country's Defense Ministry called \"the first UK-led operation of its kind.\" The vessel will be held and monitored off the south coast of England for investigation, according to a statement by the Defense Ministry. The operation was carried out \"in close coordination\" with French authorities, who have previously intercepted a number of vessels linked to the \"shadow fleet.\"",
-      "_zh_headline": "英国扣押了一艘据信与俄罗斯影子舰队有关的受制裁油轮",
-      "_zh_summary": "2026 年 6 月 10 日星期三，英国首相基尔·斯塔默 (Keir Starmer) 离开唐宁街 10 号，出席在伦敦举行的每周一次的首相提问会。 Kin Cheung/美联社 隐藏标题栏 伦敦 — 英国首相基尔·斯塔默 (Keir Starmer) 周日表示，英国正在调查一艘涉嫌属于俄罗斯“影子舰队”的受制裁油轮，该油轮违反国际社会对莫斯科对乌克兰战争的制裁而运输石油。英国武装部队周日在英吉利海峡登上并扣押了“斯米尔托斯”号船只，英国国防部称这是“首次由英国主导的此类行动”。根据国防部的一份声明，这艘船将在英格兰南海岸附近被扣押和监视以进行调查。这次行动是与法国当局“密切协调”进行的，法国当局此前拦截了一些与“影子舰队”有关的船只。",
-      "_added_at": "2026-06-14T10:38:20.802290+00:00"
-    },
-    {
-      "headline": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-13T23:19:52+00:00",
-      "_summary": "Rousing orchestral music plays over a video of a snowy Moscow street dotted with billboards celebrating an end to the war in Ukraine. \"The Special Military Operation is over,\" one fictional billboard reads, using the Kremlin-approved term for its war on Ukraine. \"Our heroes are coming home.\" Underneath, a beautiful, airbrushed woman pushing a stroller turns to see a man in military uniform and throws her arms around his neck in tears. The 15-second AI-generated clip was posted on Instagram by a popular blogger with the online name Katya Jin, and the couple appear to be modelled on her and her husband. In reality, like tens of thousands Russian soldiers, he disappeared at the front. His fate remains unknown. AI-generated photos and videos featuring Russian soldiers have gained popularity on social media since mid-2025. They are most often posted by relatives of Russian servicemen fighting in Ukraine.",
-      "_zh_headline": "俄罗斯家庭利用人工智能“复活”在乌克兰遇害的亲人",
-      "_zh_summary": "视频中播放着振奋人心的管弦乐，视频中莫斯科白雪皑皑的街道上点缀着庆祝乌克兰战争结束的广告牌。 “特别军事行动结束了，”一个虚构的广告牌上写着，用的是克里姆林宫批准的对乌克兰战争的术语。 “我们的英雄要回家了。”在下面，一位推着婴儿车、经过喷漆的美丽女人转身看到一名穿着军装的男人，她用双臂搂住他的脖子，泪流满面。这段由人工智能生成的 15 秒剪辑是由一位网名为 Katya Jin 的热门博主发布在 Instagram 上的，这对夫妇似乎是以她和她丈夫为蓝本的。事实上，他和数以万计的俄罗斯士兵一样，消失在前线。他的命运仍然未知。自 2025 年中期以来，人工智能生成的俄罗斯士兵照片和视频在社交媒体上广受欢迎。它们最常由在乌克兰作战的俄罗斯军人的亲属发布。",
-      "_added_at": "2026-06-14T10:38:20.802290+00:00"
-    },
-    {
-      "headline": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
-      "summary": "President Trump said it would be signed on Sunday, but Iran’s Foreign Ministry cautioned that the timeline could be slower.",
-      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-14T06:51:52+00:00",
-      "_summary": "President Trump said it would be signed on Sunday, but Iran’s Foreign Ministry cautioned that the timeline could be slower.",
-      "_zh_headline": "伊朗战争实时更新：美国和德黑兰就即将达成的和平协议发出混合信号",
-      "_zh_summary": "特朗普总统表示将于周日签署，但伊朗外交部警告称，时间表可能会更慢。",
-      "_added_at": "2026-06-14T07:07:18.611255+00:00"
-    },
-    {
-      "headline": "Germany and Japan Are Rearming Again, 80 Years After World War II",
-      "summary": "After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.",
-      "url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-14T04:01:15+00:00",
-      "_summary": "After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.",
-      "_zh_headline": "二战后 80 年后，德国和日本再次重新武装",
-      "_zh_summary": "柏林和东京在 20 世纪 40 年代成为盟友并带来灾难性影响后，现在正在寻找新的合作理由——包括重建军队。",
-      "_added_at": "2026-06-14T07:07:18.611255+00:00"
-    },
-    {
-      "headline": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
-      "summary": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-13T23:46:07-04:00",
-      "_summary": "Residents swim and play in the waters of the Strait of Hormuz while cargo ships and commercial vessels lie anchored in the distance off Bandar Abbas, Iran, Wednesday, June 10, 2026. Razieh Poudat/ISNA via AP hide caption Progress on a deal to end the Iran war appeared to mount on Saturday, with mediator Pakistan and the U.S. saying an agreement could be reached as soon as Sunday — although, Iran cast doubt on that timing. President Trump, who has asserted many times throughout the war that the countries are on the verge of an agreement, said Saturday morning on Truth Social that a deal was \"scheduled to get signed\" Sunday and that the Strait of Hormuz — a key global oil and gas transport route — would open soon after. Iran's foreign ministry spokesperson Esmail Baghaei, however, said he didn't think a finalized pact would happen so soon.",
-      "_zh_headline": "特朗普称结束伊朗战争的协议将于周日签署，但伊朗在时间上存在分歧",
-      "_zh_summary": "2026 年 6 月 10 日星期三，居民们在霍尔木兹海峡的水域游泳和玩耍，而货船和商船则停泊在伊朗阿巴斯港远处。Razieh Poudat/ISNA，来自美联社 隐藏标题 周六，结束伊朗战争的协议似乎取得了进展，调解人巴基斯坦和美国表示最快可以在周日达成协议，不过伊朗对此时机表示怀疑。特朗普总统在整个战争期间多次声称两国即将达成协议，他周六早上在《真相社会》上表示，协议“计划于周日签署”，而霍尔木兹海峡——全球重要的石油和天然气运输路线——将在不久后开放。然而，伊朗外交部发言人埃斯梅尔·巴加伊表示，他认为最终协议不会这么快达成。",
-      "_added_at": "2026-06-14T07:07:18.611255+00:00"
-    },
-    {
-      "author": "Benzinga Newsdesk",
-      "content": "",
-      "created_at": "2026-06-13T20:11:17Z",
-      "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
-      "id": 53184727,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Los-Angeles--California---24-January-202.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Los-Angeles--California---24-January-202.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Los-Angeles--California---24-January-202.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron stock price has become highly volatile this month, but key valuation metrics suggest it has more gains to go.",
-      "symbols": [
-        "AMD",
-        "FDS",
-        "MRVL",
-        "MU",
-        "NVDA",
-        "SNDK"
-      ],
-      "updated_at": "2026-06-13T20:11:17Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53184727/micron-stock-has-become-volatile-but-key-metric-hints-at-further-gains",
-      "_summary": "Micron has become one of the best-performing companies in Wall Street. It has jumped by 232% this year, making it the second-best performing company in the S&P 500 Index after Sandisk (NASDAQ: SNDK ) . Micron has soared by over 1,100% in the last 12 months, with its market capitalization crossing the $1 trillion mark. Wall Street analysts are bullish on Micron, citing its large and growing addressable market and the ongoing DRAM shortage. Benzinga data shows that most pros have boosted their targets for the stock.",
-      "_zh_headline": "美光科技股价已变得不稳定，但关键指标暗示进一步上涨",
-      "_zh_summary": "美光已成为华尔街表现最好的公司之一。今年以来，该公司股价上涨了 232%，成为标准普尔 500 指数中表现第二好的公司，仅次于 Sandisk（纳斯达克股票代码：SNDK）。美光科技在过去 12 个月内飙升了 1,100% 以上，市值突破 1 万亿美元大关。华尔街分析师看好美光科技，理由是其庞大且不断增长的潜在市场以及持续的 DRAM 短缺。 Benzinga 数据显示，大多数专业人士都提高了对该股的目标。",
-      "_added_at": "2026-06-14T07:07:18.611255+00:00"
-    },
-    {
-      "author": "Benzinga Newsdesk",
-      "content": "",
-      "created_at": "2026-06-13T16:51:14Z",
-      "headline": "Bitcoin Price Forms Risky Pattern as It Suffers $4.4 Billion Headwind",
-      "id": 53184565,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Bitcoin.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Bitcoin.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Bitcoin.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bitcoin (CRYPTO: BTC) jumped above $64,250 on Saturday, helped by falling crude oil prices and dip buying among investors.",
-      "symbols": [
-        "BTCUSD",
-        "IBIT",
-        "VOO"
-      ],
-      "updated_at": "2026-06-13T16:51:15Z",
-      "url": "https://www.benzinga.com/crypto/26/06/53184565/bitcoin-price-forms-risky-pattern-as-it-suffers-4-4-billion-headwind",
-      "_summary": "This week's outflows brought the monthly loss to over $2.4 billion. Added to the $2.4 billion they lost in May, these funds have lost 44.4 billion in the last two months, much higher than the $3.2 billion they added in March and April this year. Investors have likely moved to the stock market because of its stronger performance compared to crypto in the past two years. Also, investors have rotated from the \"boring\" Bitcoin to the booming AI and space ETFs ahead of key IPOs.",
-      "_zh_headline": "比特币价格遭遇 44 亿美元逆风，形成风险格局",
-      "_zh_summary": "本周的资金流出使月度损失超过 24 亿美元。加上5月份损失的24亿美元，这些基金在过去两个月已经损失了444亿美元，远高于今年3月和4月增加的32亿美元。投资者可能已经转向股市，因为过去两年股市的表现比加密货币更强。此外，在关键 IPO 之前，投资者已从“无聊”的比特币转向蓬勃发展的人工智能和太空 ETF。",
-      "_added_at": "2026-06-14T07:07:18.611255+00:00"
-    },
-    {
-      "author": "Benzinga Newsdesk",
-      "content": "",
-      "created_at": "2026-06-13T18:08:10Z",
-      "headline": "Co-Founders of a Company You've Probably Never Heard Of Just Added $100 Billion to Their Net Worth",
-      "id": 53184636,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The co-founders of Kingston Technology, David Sun and John Tu, have added $100 billion to their net worth this year amid the memory boom",
-      "symbols": [
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-06-13T18:08:10Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53184636/co-founders-of-a-company-youve-probably-never-heard-of-just-added-100-billion-to-their-net-worth",
-      "_summary": "John Tu , David Sun , and Kingston Technology, the company they founded in 1983, are not widely known names in the United States. Yet the ongoing artificial intelligence (AI) boom has made them some of the richest people in the world. Bloomberg data shows that the two have a similar net worth of $80.3 billion. Sun has added $49.3 billion, while Tu has added $49.2 billion to his wealth this year. They now rank as the 25th and 26th wealthiest people in the world.",
-      "_zh_headline": "一家你可能从未听说过的公司的联合创始人刚刚增加了 1000 亿美元的净资产",
-      "_zh_summary": "John Tu、David Sun 和他们于 1983 年创立的金士顿科技公司在美国并不广为人知。然而，持续不断的人工智能（AI）热潮使他们成为世界上最富有的人之一。彭博社数据显示，两人的净资产相似，为 803 亿美元。今年，孙先生的财富增加了 493 亿美元，而涂先生的财富则增加了 492 亿美元。他们现在在全球最富有的人中排名第 25 位和第 26 位。",
-      "_added_at": "2026-06-14T07:07:18.611255+00:00"
+      "created_at": "2026-06-15T07:59:09+00:00",
+      "_summary": "President Trump sat ringside beside his wife, Melania Trump, for an event that used the trappings of the White House for a U.F.C. brawl.",
+      "_zh_headline": "为庆祝自己 80 岁生日，特朗普在白宫草坪上带来了一场笼式比赛",
+      "_zh_summary": "特朗普总统坐在他的妻子梅拉尼娅·特朗普 (Melania Trump) 旁边，参加一场利用白宫装饰举办 U.F.C. 的活动。争吵。",
+      "_added_at": "2026-06-15T08:37:18.606058+00:00"
     }
   ]
 }
