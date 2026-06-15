@@ -2,6 +2,18 @@
   "date": "2026-06-14",
   "articles": [
     {
+      "headline": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
+      "summary": "Oil prices had already fallen quite dramatically on Thursday and Friday, in anticipation of an imminent deal. President Trump has posted online that the Strait of Hormuz will reopen after the deal is signed on Friday.",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-14T21:33:09-04:00",
+      "_summary": "A ship remains anchored on May 16, 2026 in the Strait of Hormuz near Larak Island, Iran. Majid Saeedi/Getty Images Europe hide caption Crude oil prices sank on Sunday night after President Trump posted on social media that a deal to end the war with Iran was \"complete.\" Oil futures markets promptly dropped 4%, after markets reopened for trading following their typical weekend break. Prices had already fallen significantly on Thursday and Friday in anticipation of a deal, bringing the per-barrel price of crude Sunday night down 12% from where it had been in the middle of last week. Brent crude, the global benchmark, is now below $84 a barrel, and West Texas Intermediate, the U.S. benchmark, beneath $81. At one point in this conflict, global oil prices had touched $126 a barrel. They remain elevated compared to pre-war prices, which were in the $60s, but are now cheaper than they have been at any point since the very first days of this conflict.",
+      "_zh_headline": "特朗普承诺周五签署伊朗协议后原油期货下跌",
+      "_zh_summary": "2026 年 5 月 16 日，一艘船仍然停泊在伊朗拉拉克岛附近的霍尔木兹海峡。 Majid Saeedi/Getty Images Europe 隐藏标题 周日晚上，特朗普总统在社交媒体上发布结束与伊朗战争的协议“完成”后，原油价格下跌。在典型的周末休市后市场重新开盘后，石油期货市场迅速下跌 4%。由于预期将达成协议，周四和周五价格已大幅下跌，导致周日晚间每桶原油价格较上周中期下跌 12%。全球基准布伦特原油目前低于每桶 84 美元，美国基准西德克萨斯中质原油则低于每桶 81 美元。在这场冲突中，全球油价曾一度触及每桶 126 美元。与战前 60 美元的价格相比，它们仍然处于较高水平，但现在比冲突爆发第一天以来的任何时候都便宜。",
+      "_added_at": "2026-06-15T02:01:06.584223+00:00"
+    },
+    {
       "headline": "Oil Prices Tumble After Trump Announces Deal With Iran",
       "summary": "Oil prices fell and stocks gained on Sunday evening on the hope that a deal would allow more energy and other goods to flow through the Strait of Hormuz.",
       "url": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
