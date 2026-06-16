@@ -2,6 +2,73 @@
   "date": "2026-06-15",
   "articles": [
     {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-06-16T01:59:49Z",
+      "headline": "Trump Says Iran Deal Is 'All Signed,' But Key Questions Remain As Strait Of Hormuz Reopens; Crude Oil Is At $81.29",
+      "id": 53214406,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Washington-dc--United-States--April-14-2_2.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Washington-dc--United-States--April-14-2_2.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Washington-dc--United-States--April-14-2_2.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump announced a preliminary U.S.-Iran deal, but unresolved nuclear issues and Israeli opposition cast doubt on its future.",
+      "symbols": [],
+      "updated_at": "2026-06-16T01:59:50Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/53214406/trump-says-iran-deal-is-all-signed-but-key-questions-remain-as-strait-of-hormuz-reopens",
+      "_summary": "On Monday, President Donald Trump announced that the U.S. and Iran have signed a preliminary agreement aimed at ending months of conflict . Still, major questions about the deal’s final terms and long-term viability remain unresolved. Dow futures slipped 7.00 points, or 0.01%, to 51,735.00, while S&P 500 futures fell 10.75 points, or 0.14%, to 7,550.50 and Nasdaq 100 futures declined 87.25 points, or 0.29%, to 30,472.00 as of around 9:00 p.m. EDT. In commodities, WTI crude oil rose 0.67% to $81.29 per barrel, while Brent crude gained 0.58% to $83.65 per barrel. Natural gas futures edged up 0.16% to $3.152 per MMBtu. Meanwhile, the U.S. dollar index, which tracks the greenback against a basket of currencies, stood at 99.634, down 0.03%. Asian markets were mixed, with South Korea's KOSPI advancing 1.02% to 8,633.03, while Japan's Nikkei 225 slipped 0.06% to 69,277.25.",
+      "_zh_headline": "特朗普表示伊朗协议已“全部签署”，但随着霍尔木兹海峡重新开放，关键问题仍然存在；原油价格为 81.29 美元",
+      "_zh_summary": "周一，唐纳德·特朗普总统宣布美国和伊朗签署了一项旨在结束数月冲突的初步协议。尽管如此，有关该交易的最终条款和长期可行性的主要问题仍未解决。截至 9:00 左右，道琼斯指数期货下跌 7.00 点，即 0.01%，至 51,735.00；标准普尔 500 指数期货下跌 10.75 点，即 0.14%，至 7,550.50；纳斯达克 100 指数期货下跌 87.25 点，即 0.29%，至 30,472.00。下午美东时间。大宗商品方面，WTI 原油上涨 0.67%，至每桶 81.29 美元，布伦特原油上涨 0.58%，至每桶 83.65 美元。天然气期货小幅上涨 0.16%，至每 MMBtu 3.152 美元。与此同时，追踪美元兑一篮子货币的美元指数报99.634，下跌0.03%。亚洲市场涨跌互现，韩国综合股价指数上涨 1.02%，至 8,633.03 点；日本日经 225 指数下跌 0.06%，至 69,277.25 点。",
+      "_added_at": "2026-06-16T02:10:01.371339+00:00"
+    },
+    {
+      "author": "Shivdeep Dhaliwal",
+      "content": "",
+      "created_at": "2026-06-16T01:48:38Z",
+      "headline": "Micron, Marvell, Fox, Fiserv And Western Digital: Why These 5 Stocks Are On Investors' Radars Today",
+      "id": 53214373,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Stock-Market-Data-On-Digital-Led-Display.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Stock-Market-Data-On-Digital-Led-Display.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Stock-Market-Data-On-Digital-Led-Display.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "MU, MRVL, FOX, FISV, WDC were among the stocks seen trending on Monday, June 15, 2026.",
+      "symbols": [
+        "FISV",
+        "FOX",
+        "FOXA",
+        "MRVL",
+        "MU",
+        "WDC"
+      ],
+      "updated_at": "2026-06-16T01:48:39Z",
+      "url": "https://www.benzinga.com/news/26/06/53214373/micron-marvell-fox-fiserv-and-western-digital-why-these-5-stocks-are-on-investors-radars-today",
+      "_summary": "Major U.S. indexes closed higher on Monday, with the Dow Jones Industrial Average advancing 0.92% to 51,671.03, the S&P 500 climbing 1.65% to 7,554.29 and the Nasdaq surging 3.07% to 26,683.94. These are the top stocks that gained the attention of retail traders and investors through the day. Micron Technology’s stock jumped 10.84% to close at $1,087.99, reaching an intraday high of $1,097.47 and a low of $1,001.01. The stock is trading near its 52-week high of $1,097.47, far above its 52-week low of $103.38.",
+      "_zh_headline": "美光科技、Marvell、福克斯、Fiserv 和西部数据：为何这 5 只股票如今受到投资者关注",
+      "_zh_summary": "美国主要股指周一收高，其中道琼斯工业平均指数上涨0.92%至51,671.03点，标准普尔500指数上涨1.65%至7,554.29点，纳斯达克指数上涨3.07%至26,683.94点。这些是全天吸引散户交易者和投资者关注的顶级股票。美光科技股价上涨10.84%，收于1,087.99美元，盘中最高触及1,097.47美元，最低触及1,001.01美元。该股目前交易价格接近 52 周高点 1,097.47 美元，远高于 52 周低点 103.38 美元。",
+      "_added_at": "2026-06-16T02:10:01.371339+00:00"
+    },
+    {
       "headline": "Potential End of War Tests Trump’s Promise of Quick Economic Rebound",
       "summary": "Gas prices and other goods could remain elevated for months, adding to the political challenge facing the White House in the midterm elections.",
       "url": "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html",
