@@ -2,6 +2,85 @@
   "date": "2026-06-17",
   "articles": [
     {
+      "headline": "Trump Defends Deal to End the War With Iran as Details Emerge",
+      "summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
+      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T22:04:41+00:00",
+      "_summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
+      "_zh_headline": "随着细节浮出水面，特朗普捍卫结束与伊朗战争的协议",
+      "_zh_summary": "特朗普总统猛烈抨击批评人士，称该协议取得的成果低于巴拉克·奥巴马总统 2015 年签署的协议，并威胁称，如果伊朗违反该协议，他将再次轰炸伊朗。",
+      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+    },
+    {
+      "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+      "summary": "The agreement outlines a $300 billion plan to rebuild Iran, and says sanctions would be lifted in the future.",
+      "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T21:11:09+00:00",
+      "_summary": "The agreement outlines a $300 billion plan to rebuild Iran, and says sanctions would be lifted in the future.",
+      "_zh_headline": "特朗普批评奥巴马的伊朗协议，但新协议也将为德黑兰带来缓解",
+      "_zh_summary": "该协议概述了一项耗资3000亿美元重建伊朗的计划，并表示未来将取消制裁。",
+      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+    },
+    {
+      "headline": "Fed Meeting Live Updates: Kevin Warsh to Address U.S. Economy as Fed Holds Interest Rates Steady",
+      "summary": "Officials at the Federal Reserve were split between no cuts this year and one or more rate increases as they braced for higher inflation, according to a new set of projections.",
+      "url": "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T22:01:15+00:00",
+      "_summary": "Officials at the Federal Reserve were split between no cuts this year and one or more rate increases as they braced for higher inflation, according to a new set of projections.",
+      "_zh_headline": "美联储会议实时更新：凯文·沃什在美联储维持利率稳定的情况下发表讲话",
+      "_zh_summary": "根据一组新的预测，美联储官员在今年不降息和一次或多次加息之间存在分歧，因为他们准备迎接更高的通胀。",
+      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-06-17T19:47:11Z",
+      "headline": "Fed Holds Rates Steady; Retail Sales Remain Resilient",
+      "id": 53262681,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Federal-Reserve.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Federal-Reserve.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Federal-Reserve.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SOXL",
+        "SPCX",
+        "SPY",
+        "TSLA",
+        "USO"
+      ],
+      "updated_at": "2026-06-17T19:50:06Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/53262681/fed-holds-rates-steady-retail-sales-remain-resilient",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. API crude inventories came at a draw of 8.33M barrels vs. a consensus of a draw of 4.5M barrels. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor.",
+      "_zh_headline": "美联储维持利率稳定；零售销售保持弹性",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。 API 原油库存消耗 833 万桶，而市场普遍预期消耗 450 万桶。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。",
+      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+    },
+    {
       "headline": "See how the first Fed statement under Warsh evolved.",
       "summary": "Interest rates didn’t change, but the language in Fed’s policy statement, which it released alongside its rate decision today, certainly did.",
       "url": "https://www.nytimes.com/2026/06/17/business/economy/kevin-warsh-fed-statement.html",
@@ -376,74 +455,6 @@
       "_zh_headline": "美光可能会公布更高的第三季度收益；这些最准确的分析师在财报电话会议之前修改预测",
       "_zh_summary": "美光科技公司（纳斯达克股票代码：MU）将于 6 月 24 日星期三收盘后发布第三季度收益报告。分析师预计这家总部位于爱达荷州博伊西的公司将报告季度收益为每股 19.74 美元，高于去年同期的每股 1.91 美元。美光季度营收的普遍预期为 344.4 亿美元。据 Benzinga Pro 称，该公司去年的营收为 93 亿美元。",
       "_added_at": "2026-06-17T12:36:59.680857+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-17T09:58:41Z",
-      "headline": "Comparative Study: Micron Technology And Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "id": 53243380,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": " ",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-17T09:58:42Z",
-      "url": "https://www.benzinga.com/insights/news/26/06/53243380/comparative-study-micron-technology-and-industry-competitors-in-semiconductors-amp-semiconductor-eq",
-      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
-      "_zh_headline": "对比研究：美光科技与半导体及半导体设备行业的行业竞争对手",
-      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
-      "_added_at": "2026-06-17T12:36:59.680857+00:00"
-    },
-    {
-      "headline": "U.S. strike on an alleged drug boat kills 1, leaves 2 survivors",
-      "summary": "The U.S. military attacked a boat accused of smuggling drugs in the eastern Pacific Ocean on Tuesday, killing one man and leaving two survivors. This brings the number of people who have been killed in boat strikes to at least 208.",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5861424/u-s-strike-drug-boat-survivors",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-17T01:47:11-04:00",
-      "_summary": "President Donald Trump speaks during a Cabinet meeting at the White House, Wednesday, May 27, 2026, in Washington, as Secretary of Defense Pete Hegseth, looks on. Jacquelyn Martin/AP hide caption The U.S. military attacked a boat accused of smuggling drugs in the eastern Pacific Ocean on Tuesday, killing one man and leaving two survivors, as the Trump administration continues its monthslong campaign against alleged traffickers in Latin America. The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 208 since the Trump administration began targeting those it calls \"narcoterrorists\" in early September. As with most of the military's statements on strikes in the eastern Pacific Ocean and Caribbean Sea, U.S. Southern Command said it targeted the alleged drug traffickers along known smuggling routes. The military did not provide evidence that the vessel was ferrying drugs.",
-      "_zh_headline": "美国袭击一艘涉嫌贩毒船，造成1人死亡、2人幸存",
-      "_zh_summary": "唐纳德·特朗普总统于 2026 年 5 月 27 日星期三在华盛顿举行的白宫内阁会议上发表讲话，国防部长皮特·赫格斯在旁观。杰奎琳·马丁/美联社 隐藏标题 周二，美国军方在东太平洋袭击了一艘被指控走私毒品的船只，造成一名男子死亡，两名幸存者，而特朗普政府仍在继续其长达数月的打击拉丁美洲涉嫌走私毒品的行动。自特朗普政府9月初开始针对​​所谓的“毒品恐怖分子”以来，最新的袭击事件使美国军方在船只袭击中丧生的人数达到至少208人。与大多数军方关于东太平洋和加勒比海袭击的声明一样，美国南方司令部表示，其目标是已知走私路线上的涉嫌毒贩。军方没有提供证据证明该船正在运送毒品。",
-      "_added_at": "2026-06-17T07:35:55.849138+00:00"
-    },
-    {
-      "headline": "Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations",
-      "summary": "President Trump is under pressure to significantly improve upon the Obama-era deal in order to justify the huge human and economic cost of taking the United States to war.",
-      "url": "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-16T23:53:41+00:00",
-      "_summary": "President Trump is under pressure to significantly improve upon the Obama-era deal in order to justify the huge human and economic cost of taking the United States to war.",
-      "_zh_headline": "奥巴马的核协议笼罩在特朗普的伊朗谈判之上",
-      "_zh_summary": "特朗普总统面临着大幅改进奥巴马时代协议的压力，以证明让美国参战所付出的巨大人力和经济代价是合理的。",
-      "_added_at": "2026-06-17T07:35:55.849138+00:00"
-    },
-    {
-      "headline": "Republicans Again Block War Powers Measure in the Senate",
-      "summary": "Four G.O.P. senators crossed party lines to back the resolution to direct President Trump to halt the war in Iran and seek authorization from Congress, but their support was not enough.",
-      "url": "https://www.nytimes.com/2026/06/16/us/politics/republicans-iran-war-powers-senate.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-16T21:25:40+00:00",
-      "_summary": "Four G.O.P. senators crossed party lines to back the resolution to direct President Trump to halt the war in Iran and seek authorization from Congress, but their support was not enough.",
-      "_zh_headline": "共和党再次阻止参议院的战争权力措施",
-      "_zh_summary": "四个共和党人参议员们跨越党派界限支持指示特朗普总统停止伊朗战争并寻求国会授权的决议，但他们的支持还不够。",
-      "_added_at": "2026-06-17T07:35:55.849138+00:00"
     }
   ]
 }
