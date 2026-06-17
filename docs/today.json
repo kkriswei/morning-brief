@@ -2,6 +2,135 @@
   "date": "2026-06-17",
   "articles": [
     {
+      "headline": "See how the first Fed statement under Warsh evolved.",
+      "summary": "Interest rates didn’t change, but the language in Fed’s policy statement, which it released alongside its rate decision today, certainly did.",
+      "url": "https://www.nytimes.com/2026/06/17/business/economy/kevin-warsh-fed-statement.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T18:55:13+00:00",
+      "_summary": "Interest rates didn’t change, but the language in Fed’s policy statement, which it released alongside its rate decision today, certainly did.",
+      "_zh_headline": "看看沃什领导下的第一份美联储声明是如何演变的。",
+      "_zh_summary": "利率没有改变，但美联储今天与利率决定一起发布的政策声明中的语言肯定发生了变化。",
+      "_added_at": "2026-06-17T19:37:05.116508+00:00"
+    },
+    {
+      "headline": "Stocks Decline on Fed Decision, and Oil Is Muted Amid Peace Deal Talks",
+      "summary": "Traders are waiting for U.S. and Iranian officials to meet in Switzerland on Friday, when they are expected to sign an initial agreement and begin a 60-day cease-fire.",
+      "url": "https://www.nytimes.com/2026/06/17/business/iran-war-hormuz-oil-gas.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T19:19:48+00:00",
+      "_summary": "Traders are waiting for U.S. and Iranian officials to meet in Switzerland on Friday, when they are expected to sign an initial agreement and begin a 60-day cease-fire.",
+      "_zh_headline": "美联储决定导致股市下跌，和平协议谈判期间油价低迷",
+      "_zh_summary": "交易员正在等待美国和伊朗官员周五在瑞士会面，预计届时他们将签署初步协议并开始为期 60 天的停火。",
+      "_added_at": "2026-06-17T19:37:05.116508+00:00"
+    },
+    {
+      "headline": "An inside look at President Trump's campaign to acquire Greenland",
+      "summary": "New Yorker writer Ben Taub says while the idea of acquiring Greenland is out of the headlines, it hasn't been dropped. Taub describes how Trump's ongoing efforts have broken the trust of our allies.",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860861/an-inside-look-at-president-trumps-campaign-to-acquire-greenland",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-17T12:50:25-04:00",
+      "_summary": "New Yorker writer Ben Taub says while the idea of acquiring Greenland is out of the headlines, it hasn't been dropped. Taub describes how Trump's ongoing efforts have broken the trust of our allies. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
+      "_zh_headline": "特朗普总统收购格陵兰岛运动的内部观察",
+      "_zh_summary": "《纽约客》作家本·陶布表示，虽然收购格陵兰岛的想法已经不再是头条新闻，但它并没有被放弃。陶布描述了特朗普的持续努力如何破坏了我们盟友的信任。 NPR 文字记录的准确性和可用性可能有所不同。转录文本可能会被修改以纠正错误或匹配音频更新。 npr.org 上的音频可能会在其原始广播或发布后进行编辑。 NPR 节目的权威记录是音频记录。",
+      "_added_at": "2026-06-17T19:37:05.116508+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-17T17:33:03Z",
+      "headline": "Small Caps Near Record Highs, Robinhood Rallies 12%: Stock Market Today",
+      "id": 53258383,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Robinhood-Robinhood-Mobile-Icon-App-On-A.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Robinhood-Robinhood-Mobile-Icon-App-On-A.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Robinhood-Robinhood-Mobile-Icon-App-On-A.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks traded higher by midday Wednesday, with semiconductor equipment names and small caps leading the tape, as investors held their fire ahead of Kevin Warsh‘s first interest-rate decision as Federal Reserve chair, due at 2 p.m. ET.",
+      "symbols": [
+        "AMAT",
+        "BTCUSD",
+        "CBOE",
+        "CCC",
+        "CME",
+        "CVNA",
+        "DIA",
+        "ENTG",
+        "FRMI",
+        "HOOD",
+        "IWM",
+        "KMX",
+        "NDAQ",
+        "QQQ",
+        "RARE",
+        "SMH",
+        "SOXX",
+        "SPCX",
+        "SRPT",
+        "VOO",
+        "XLE",
+        "XLI",
+        "XLK"
+      ],
+      "updated_at": "2026-06-17T17:33:03Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53258383/russell-2000-small-caps-near-records-ahead-fed-meeting-robinhood-jumps-deutsche-bank-upgrad",
+      "_summary": "U.S. stocks traded higher by midday Wednesday, with semiconductor equipment names and small caps leading the tape, as investors held their fire ahead of Kevin Warsh ‘s first interest-rate decision as Federal Reserve chair, due at 2 p.m. ET. The Fed is all but certain to hold the funds rate at 3.50%-3.75%, putting the spotlight on the updated “dot plot” for any hawkish tilt from the committee — and on how Warsh frames inflation and the path for rates.",
+      "_zh_headline": "小盘股接近历史高位，Robinhood 上涨 12%：今日股市",
+      "_zh_summary": "周三中午，美国股市走高，其中半导体设备股和小盘股领涨，投资者在凯文·沃什 (Kevin Warsh) 于下午 2 点就任美联储主席后首次做出利率决定之前保持了热情。等。美联储几乎肯定会将基金利率维持在 3.50%-3.75%，这将焦点放在委员会任何鹰派倾向的最新“点阵图”上，以及沃什如何构建通胀和利率路径。",
+      "_added_at": "2026-06-17T19:37:05.116508+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-06-17T18:35:49Z",
+      "headline": "Marvell, Flex Could Be Days Away From Massive Passive-Fund Tailwind",
+      "id": 53260169,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/SP-500.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/SP-500.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/SP-500.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell and Flex join the S&amp;P 500 on June 22, setting up potential buying from passive funds and ETFs as investors continue searching for AI infrastructure winners.",
+      "symbols": [
+        "AVGO",
+        "CPB",
+        "FLEX",
+        "IVV",
+        "MRVL",
+        "POOL",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-06-17T18:35:49Z",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/53260169/marvell-flex-could-be-days-away-from-massive-passive-fund-tailwind",
+      "_summary": "• Marvell Technology stock is surging to new heights today. What’s fueling MRVL momentum? While the announcement on June 5 initially sparked interest in both stocks, the bigger event may still lie ahead. That’s because S&P 500 inclusion triggers a wave of mechanical buying from index funds and exchange-traded funds which track the benchmark. Those funds are required to own newly added constituents, creating demand that is largely unrelated to a company’s fundamentals.",
+      "_zh_headline": "Marvell、Flex 距离大规模被动基金顺风车可能还有几天",
+      "_zh_summary": "• Marvell Technology 股票今天飙升至新高。是什么推动了 MRVL 的发展？虽然 6 月 5 日的公告最初引发了人们对这两只股票的兴趣，但更大的事件可能还在后面。这是因为标普 500 指数的纳入引发了追踪该基准的指数基金和交易所交易基金的机械购买浪潮。这些基金需要拥有新增加的成分股，从而创造出与公司基本面基本上无关的需求。",
+      "_added_at": "2026-06-17T19:37:05.116508+00:00"
+    },
+    {
       "headline": "Iran sends tankers loaded with oil past US military blockade",
       "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
       "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
@@ -314,117 +443,6 @@
       "_summary": "Four G.O.P. senators crossed party lines to back the resolution to direct President Trump to halt the war in Iran and seek authorization from Congress, but their support was not enough.",
       "_zh_headline": "共和党再次阻止参议院的战争权力措施",
       "_zh_summary": "四个共和党人参议员们跨越党派界限支持指示特朗普总统停止伊朗战争并寻求国会授权的决议，但他们的支持还不够。",
-      "_added_at": "2026-06-17T07:35:55.849138+00:00"
-    },
-    {
-      "author": "Badar Shaikh",
-      "content": "",
-      "created_at": "2026-06-17T07:18:17Z",
-      "headline": "Trump's Iran Deal Sends Oil Lower, But Americans Are Still Paying More At The Pump, Says Analyst",
-      "id": 53242210,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Washington--January-30-2025-President-Do.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Washington--January-30-2025-President-Do.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Washington--January-30-2025-President-Do.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gas prices remain high despite Iran deal and falling oil prices. Americans paying $10-$25 more per fill-up compared to last year.",
-      "symbols": [],
-      "updated_at": "2026-06-17T07:18:18Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/53242210/trumps-iran-deal-sends-oil-lower-but-americans-are-still-paying-more-at-the-pump-says-analyst",
-      "_summary": "The Iran agreement, touted by President Donald Trump , has sparked optimism as oil prices continue to fall , but the national average price of gas at the pump continues to stay high. In a post on X , GasBuddy analyst Patrick De Haan posted a screenshot of user Hunter Eagleman ‘s post claiming that gas prices had fallen below $3/gallon in a town, without sharing further details. “While Hunter drives across the country for the *cheapest* gas station to post, the average American is spending $10-$25 more every fill-up” when compared to June 2025, De Haan said. Prices were also “over $1/gal more than February,” before a joint U.S.-Israeli operation resulted in the death of Iran’s former Supreme Leader Ayatollah Ali Khamenei via a missile strike on February 28, which kick-started the war in Iran.",
-      "_zh_headline": "分析师称，特朗普的伊朗协议导致油价下跌，但美国人仍在支付更多费用",
-      "_zh_summary": "随着油价持续下跌，唐纳德·特朗普总统宣扬的伊朗协议引发了乐观情绪，但全国平均天然气价格仍然居高不下。在 X 上的一篇帖子中，GasBuddy 分析师 Patrick De Haan 发布了用户 Hunter Eagleman 帖子的屏幕截图，声称某个城镇的汽油价格已跌破 3 美元/加仑，但没有透露更多细节。德哈恩表示，“虽然亨特开车穿越全国前往*最便宜的”加油站加油，但与 2025 年 6 月相比，美国人平均每次加满油的花费要多 10 至 25 美元。” 2 月 28 日，美国和以色列的联合行动导致伊朗前最高领袖阿亚图拉·阿里·哈梅内伊 (Ayatollah Ali Khamenei) 因导弹袭击身亡，伊朗战争由此拉开序幕。",
-      "_added_at": "2026-06-17T07:35:55.849138+00:00"
-    },
-    {
-      "author": "Benzinga Newsdesk",
-      "content": "",
-      "created_at": "2026-06-17T02:50:17Z",
-      "headline": "SpaceX Stock Is Buzzing And Asset Managers Are Rushing To Launch 'MANGOS' ETFs Built Around The Elon Musk-Led Company, OpenAI And Anthropic",
-      "id": 53240999,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/16/Paris--France---February-3--2026-A-Horiz_1.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/16/Paris--France---February-3--2026-A-Horiz_1.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/16/Paris--France---February-3--2026-A-Horiz_1.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Two asset managers plan to launch investment funds tied to the new &#34;MANGOS&#34; basket of AI-focused companies. ",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "DELL",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "META",
-        "MU",
-        "NVDA",
-        "SMCI",
-        "SNDK",
-        "SPCX"
-      ],
-      "updated_at": "2026-06-17T02:50:17Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/53240999/asset-managers-rush-to-launch-mangos-etfs-as-spacex-openai-and-anthropic-buzz-grows",
-      "_summary": "The acronym is positioned as a successor to the Magnificent Seven, grouping companies that investors view as the leading beneficiaries of the AI boom.",
-      "_zh_headline": "SpaceX 股价飙升，资产管理公司争相推出围绕埃隆·马斯克领导的公司、OpenAI 和 Anthropic 打造的“MANGOS”ETF",
-      "_zh_summary": "这个缩写词被定位为“七大巨头”的继任者，这些公司被投资者视为人工智能热潮的主要受益者。",
-      "_added_at": "2026-06-17T07:35:55.849138+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-17T06:32:16Z",
-      "headline": "Trump's Iran Peace Deal Could Ignite A 'Relief Rally,' Says Ben Emons, Flags 4 'Cheap' Stocks Beyond Tech",
-      "id": 53241789,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/U-s--President-Donald-Trump-Appears-On-S.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/U-s--President-Donald-Trump-Appears-On-S.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/U-s--President-Donald-Trump-Appears-On-S.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Trump&#39;s Middle East ceasefire sparks a market relief rally. FedWatch&#39;s Ben Emons reveals 4 cheap value stocks and key AI names to buy now.",
-      "symbols": [
-        "C",
-        "GE",
-        "GS",
-        "INTC",
-        "LMT",
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-06-17T06:32:17Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53241789/trumps-iran-peace-deal-could-ignite-a-relief-rally-says-ben-emons-flags-4-cheap-stocks-beyond-tech",
-      "_summary": "The solution for the conflict brings economic benefits, primarily by resolving severe bottlenecks in the Strait of Hormuz . For months, global supply chains faced critical shortages of oil, fertilizer, helium, and aluminum. Emons notes that normalizing the flow of these commodities prevented significant shortages that were only a few weeks away from hitting the market. “I think it’s a true relief rally,” Emons explained in a podcast with Phil Rosen .",
-      "_zh_headline": "本·埃蒙斯 (Ben Emons) 表示，特朗普的伊朗和平协议可能会引发“救济集会”，并指出科技股以外的 4 只“廉价”股票",
-      "_zh_summary": "冲突的解决会带来经济利益，主要是通过解决霍尔木兹海峡的严重瓶颈。几个月来，全球供应链面临石油、化肥、氦气和铝的严重短缺。埃蒙斯指出，这些商品的流动正常化避免了距离市场仅几周的严重短缺。 “我认为这是一次真正的缓解集会，”埃蒙斯在菲尔·罗森的播客中解释道。",
       "_added_at": "2026-06-17T07:35:55.849138+00:00"
     }
   ]
