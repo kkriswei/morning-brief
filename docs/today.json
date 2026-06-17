@@ -2,6 +2,57 @@
   "date": "2026-06-17",
   "articles": [
     {
+      "headline": "Here's how much the the Iran war cost -- and how its effects will linger",
+      "summary": "More than three months after the U.S. and Israel launched their war on Iran, the costs and aftereffects are felt around the world.",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-17T17:23:54-04:00",
+      "_summary": "A man walks past a billboard featuring the portraits of (right to left) Iran's new Supreme Leader Ayatollah Mojtaba Khamenei, the late Supreme Leader Ayatollah Ali Khamenei, and the late Supreme Leader Ayatollah Ruhollah Khomeini, in Srinagar, Jammu and Kashmir, on June 15. Firdous Nazir/NurPhoto via Getty Images hide caption As conflicts go, the Iran war, should a loose framework and ceasefire deal hold , was relatively short in duration. But its costs and aftereffects will likely linger for years. The months-long conflict, which pitted the world's most powerful military against a far weaker, yet strategically adept, adversary cost the lives of 13 U.S. service members and more than 3,300 Iranians, according to state media. Another 3,826 have been killed in Lebanon, nearly 60 in Israel and dozens across Gulf states, according to authorities in those countries.",
+      "_zh_headline": "以下是伊朗战争的代价及其影响将如何持续",
+      "_zh_summary": "6 月 15 日，在查谟和克什米尔的斯利那加，一名男子走过一块广告牌，广告牌上有伊朗新任最高领袖阿亚图拉·莫杰塔巴·哈梅内伊、已故最高领袖阿亚图拉·阿里·哈梅内伊和已故最高领袖阿亚图拉·鲁霍拉·霍梅尼的肖像。Firdous Nazir/NurPhoto via Getty Images 隐藏标题 随着冲突的发展，伊朗战争应该有一个松散的框架和停火交易持有，持续时间相对较短。但其成本和后果可能会持续数年。据官方媒体报道，这场长达数月的冲突让世界上最强大的军队与实力远弱但战略娴熟的对手展开对峙，导致 13 名美国军人和 3,300 多名伊朗人丧生。据这些国家当局称，黎巴嫩另有 3,826 人被杀，以色列有近 60 人被杀，海湾国家有数十人被杀。",
+      "_added_at": "2026-06-17T23:58:00.992660+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-06-17T22:19:18Z",
+      "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+      "id": 53266186,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple will raise prices across its product lineup due to soaring memory chip costs, CEO Tim Cook says.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-06-17T22:19:18Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53266186/apple-will-raise-prices-due-to-soaring-memory-costs-ceo-tim-cook-says-this-is-a-100-year-flood",
+      "_summary": "“Unfortunately, price increases are unavoidable,” Cook said in a Wall Street Journal interview published Wednesday. “We’re doing our best to mitigate the huge increases that are being passed to us, but the situation has become unsustainable.” Cook declined to specify which devices will see higher sticker tags or when changes will take effect. Apple's next major launch — the iPhone 18 lineup, which is anticipated to include a foldable model — is expected in September.",
+      "_zh_headline": "苹果因内存成本飙升将提价：CEO蒂姆·库克称“这是一场100年一遇的洪水”",
+      "_zh_summary": "“不幸的是，价格上涨是不可避免的，”库克在周三发表的《华尔街日报》采访中表示。 “我们正在尽最大努力减轻传递给我们的巨大增长，但情况已经变得不可持续。”库克拒绝具体说明哪些设备将看到更高的贴纸标签或更改何时生效。苹果的下一次重大发布——iPhone 18 系列，预计将包括可折叠机型——预计将于 9 月发布。",
+      "_added_at": "2026-06-17T23:58:00.992660+00:00"
+    },
+    {
       "headline": "Trump Defends Deal to End the War With Iran as Details Emerge",
       "summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
       "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
@@ -387,73 +438,6 @@
       "_summary": "A collapse in crude oil futures prices is poised to deliver savings to American motorists, with top economist Mohamed A. El-Erian predicting that regular gasoline and diesel will crash through the $4 and $5 thresholds, respectively, in the coming days. The nationwide average for regular gas currently sits at $4.04 per gallon, with diesel at $5.18 per gallon, according to the latest data from AAA. However, those numbers are expected to slide further.",
       "_zh_headline": "对于司机来说好消息：Mohamed El-Erian 预计随着原油价格暴跌，汽油价格将在几天内跌至 4 美元，柴油价格将跌至 5 美元",
       "_zh_summary": "原油期货价格暴跌将为美国驾车者节省开支，顶级经济学家穆罕默德·埃尔-埃里安 (Mohamed A. El-Erian) 预测，未来几天普通汽油和柴油将分别跌破 4 美元和 5 美元的门槛。根据 AAA 的最新数据，目前全国普通汽油平均价格为每加仑 4.04 美元，柴油价格为每加仑 5.18 美元。然而，这些数字预计将进一步下滑。",
-      "_added_at": "2026-06-17T12:36:59.680857+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-17T10:41:01Z",
-      "headline": "Why Is Micron Stock Gaining Wednesday?",
-      "id": 53244360,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Logo-On-Circuit-Board.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Logo-On-Circuit-Board.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Logo-On-Circuit-Board.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron (MU) stock jumps premarket ahead of its June 24 earnings. Will the chipmaker beat Wall Street&#39;s massive expectations?",
-      "symbols": [
-        "DAX",
-        "MU",
-        "SOXQ",
-        "SOXX"
-      ],
-      "updated_at": "2026-06-17T10:43:59Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53244360/why-is-micron-stock-gaining-wednesday",
-      "_summary": "The stock has rallied sharply over the past year and continues to trade near the upper end of its recent range. That strong run could also make shares more sensitive to any shift in market sentiment or earnings expectations. Micron is scheduled to report fiscal third-quarter results on June 24, 2026. The company heads into earnings with positive momentum after management reaffirmed a strong outlook at an investor conference in May, according to an S&P Global report .",
-      "_zh_headline": "为什么美光科技股票周三上涨？",
-      "_zh_summary": "该股在过去一年中大幅上涨，并继续在近期区间的上限附近交易。这种强劲的上涨也可能使股价对市场情绪或盈利预期的任何变化更加敏感。美光计划于 2026 年 6 月 24 日公布第三财季业绩。标准普尔全球报告显示，管理层在 5 月份的投资者会议上重申了强劲的前景后，该公司将迎来积极的盈利势头。",
-      "_added_at": "2026-06-17T12:36:59.680857+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-17T11:43:10Z",
-      "headline": "Micron Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-      "id": 53245447,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Inc--Logo-On-Smartphon.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Inc--Logo-On-Smartphon.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Inc--Logo-On-Smartphon.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron Technology (MU) will report Q3 earnings on 6/24, with analysts expecting $19.74/share and $34.44B revenue. On 6/10, it announced new construction partner. MU shares rose 10.8% on 6/22. Analysts have a positive outlook with an accuracy rate of 75-88%.",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-17T11:43:11Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/53245447/micron-likely-to-report-higher-q3-earnings-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
-      "_summary": "Micron Technology, Inc. (NASDAQ: MU ) will release its third quarter earnings report after the closing bell on Wednesday, June 24. Analysts expect the Boise, Idaho-based company to report quarterly earnings of $19.74 per share, up from $1.91 per share in the year-ago period. The consensus estimate for Micron's quarterly revenue is $34.44 billion. It reported $9.3 billion last year, according to Benzinga Pro .",
-      "_zh_headline": "美光可能会公布更高的第三季度收益；这些最准确的分析师在财报电话会议之前修改预测",
-      "_zh_summary": "美光科技公司（纳斯达克股票代码：MU）将于 6 月 24 日星期三收盘后发布第三季度收益报告。分析师预计这家总部位于爱达荷州博伊西的公司将报告季度收益为每股 19.74 美元，高于去年同期的每股 1.91 美元。美光季度营收的普遍预期为 344.4 亿美元。据 Benzinga Pro 称，该公司去年的营收为 93 亿美元。",
       "_added_at": "2026-06-17T12:36:59.680857+00:00"
     }
   ]
