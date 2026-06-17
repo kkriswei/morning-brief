@@ -2,6 +2,189 @@
   "date": "2026-06-17",
   "articles": [
     {
+      "headline": "Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran",
+      "summary": "Amid the war with Iran, Bahrain has stripped 69 people of their citizenship, including children, accusing them of disloyalty and rendering them stateless.",
+      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T09:00:53+00:00",
+      "_summary": "Amid the war with Iran, Bahrain has stripped 69 people of their citizenship, including children, accusing them of disloyalty and rendering them stateless.",
+      "_zh_headline": "巴林撤销了他们的公民身份，然后试图将他们驱逐到伊朗",
+      "_zh_summary": "在与伊朗的战争中，巴林剥夺了 69 人的公民身份，其中包括儿童，指责他们不忠并使他们成为无国籍人。",
+      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+    },
+    {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-06-17T10:21:44Z",
+      "headline": "Passive Funds Crossed $2.6 Trillion—Here Is The Percentage That Breaks The Market",
+      "id": 53243977,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/A-Dimly-Lit-Room-With-Multiple-Screens-D.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/A-Dimly-Lit-Room-With-Multiple-Screens-D.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/A-Dimly-Lit-Room-With-Multiple-Screens-D.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Has passive investing broken Wall Street? Explore how $2.6T index funds are shifting from market followers to becoming the market.",
+      "symbols": [
+        "DIA",
+        "IVV",
+        "META",
+        "MSFT",
+        "SCHX",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-06-17T10:21:45Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53243977/passive-funds-crossed-2-6-trillion-here-is-the-percentage-that-breaks-the-market",
+      "_summary": "For more than two decades, passive investing has been a humble idea successfully marketed to the retail audience. It was a set-and-forget approach – not trying to outsmart the market but simply owning it. Now, according to a growing camp of market critics, passive funds have become something far more consequential—they are the market. The trend means that an increasing share of investment decisions no longer belongs to analysts weighing earnings prospects or debating valuations.",
+      "_zh_headline": "被动基金突破 2.6 万亿美元——以下是突破市场的百分比",
+      "_zh_summary": "二十多年来，被动投资一直是一个成功向散户推销的不起眼的想法。这是一种一劳永逸的方法——不是试图智胜市场，而是简单地拥有它。现在，越来越多的市场批评者认为，被动型基金已经变得更加重要——它们就是市场。这一趋势意味着越来越多的投资决策不再属于权衡盈利前景或辩论估值的分析师。",
+      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-17T11:18:26Z",
+      "headline": "Good News For Drivers: Mohamed El-Erian Expects Gas Below $4 And Diesel Below $5 Within Days As Crude Prices Plunge",
+      "id": 53244978,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Man-Grabbing-A-Fuel-Pump-At-A-Gas-Statio.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Man-Grabbing-A-Fuel-Pump-At-A-Gas-Statio.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Man-Grabbing-A-Fuel-Pump-At-A-Gas-Statio.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Good news for drivers: Mohamed El-Erian expects gas below $4 and diesel under $5 within days following a massive 20% crude oil plunge.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-17T11:18:27Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/53244978/good-news-for-drivers-mohamed-el-erian-expects-gas-below-4-and-diesel-below-5-within-days-as-crude-prices-plunge",
+      "_summary": "A collapse in crude oil futures prices is poised to deliver savings to American motorists, with top economist Mohamed A. El-Erian predicting that regular gasoline and diesel will crash through the $4 and $5 thresholds, respectively, in the coming days. The nationwide average for regular gas currently sits at $4.04 per gallon, with diesel at $5.18 per gallon, according to the latest data from AAA. However, those numbers are expected to slide further.",
+      "_zh_headline": "对于司机来说好消息：Mohamed El-Erian 预计随着原油价格暴跌，汽油价格将在几天内跌至 4 美元，柴油价格将跌至 5 美元",
+      "_zh_summary": "原油期货价格暴跌将为美国驾车者节省开支，顶级经济学家穆罕默德·埃尔-埃里安 (Mohamed A. El-Erian) 预测，未来几天普通汽油和柴油将分别跌破 4 美元和 5 美元的门槛。根据 AAA 的最新数据，目前全国普通汽油平均价格为每加仑 4.04 美元，柴油价格为每加仑 5.18 美元。然而，这些数字预计将进一步下滑。",
+      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-17T10:41:01Z",
+      "headline": "Why Is Micron Stock Gaining Wednesday?",
+      "id": 53244360,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Logo-On-Circuit-Board.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Logo-On-Circuit-Board.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Logo-On-Circuit-Board.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron (MU) stock jumps premarket ahead of its June 24 earnings. Will the chipmaker beat Wall Street&#39;s massive expectations?",
+      "symbols": [
+        "DAX",
+        "MU",
+        "SOXQ",
+        "SOXX"
+      ],
+      "updated_at": "2026-06-17T10:43:59Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53244360/why-is-micron-stock-gaining-wednesday",
+      "_summary": "The stock has rallied sharply over the past year and continues to trade near the upper end of its recent range. That strong run could also make shares more sensitive to any shift in market sentiment or earnings expectations. Micron is scheduled to report fiscal third-quarter results on June 24, 2026. The company heads into earnings with positive momentum after management reaffirmed a strong outlook at an investor conference in May, according to an S&P Global report .",
+      "_zh_headline": "为什么美光科技股票周三上涨？",
+      "_zh_summary": "该股在过去一年中大幅上涨，并继续在近期区间的上限附近交易。这种强劲的上涨也可能使股价对市场情绪或盈利预期的任何变化更加敏感。美光计划于 2026 年 6 月 24 日公布第三财季业绩。标准普尔全球报告显示，管理层在 5 月份的投资者会议上重申了强劲的前景后，该公司将迎来积极的盈利势头。",
+      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-17T11:43:10Z",
+      "headline": "Micron Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "id": 53245447,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Inc--Logo-On-Smartphon.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Inc--Logo-On-Smartphon.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Micron-Technology-Inc--Logo-On-Smartphon.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron Technology (MU) will report Q3 earnings on 6/24, with analysts expecting $19.74/share and $34.44B revenue. On 6/10, it announced new construction partner. MU shares rose 10.8% on 6/22. Analysts have a positive outlook with an accuracy rate of 75-88%.",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-17T11:43:11Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/53245447/micron-likely-to-report-higher-q3-earnings-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
+      "_summary": "Micron Technology, Inc. (NASDAQ: MU ) will release its third quarter earnings report after the closing bell on Wednesday, June 24. Analysts expect the Boise, Idaho-based company to report quarterly earnings of $19.74 per share, up from $1.91 per share in the year-ago period. The consensus estimate for Micron's quarterly revenue is $34.44 billion. It reported $9.3 billion last year, according to Benzinga Pro .",
+      "_zh_headline": "美光可能会公布更高的第三季度收益；这些最准确的分析师在财报电话会议之前修改预测",
+      "_zh_summary": "美光科技公司（纳斯达克股票代码：MU）将于 6 月 24 日星期三收盘后发布第三季度收益报告。分析师预计这家总部位于爱达荷州博伊西的公司将报告季度收益为每股 19.74 美元，高于去年同期的每股 1.91 美元。美光季度营收的普遍预期为 344.4 亿美元。据 Benzinga Pro 称，该公司去年的营收为 93 亿美元。",
+      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-17T09:58:41Z",
+      "headline": "Comparative Study: Micron Technology And Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "id": 53243380,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-17T09:58:42Z",
+      "url": "https://www.benzinga.com/insights/news/26/06/53243380/comparative-study-micron-technology-and-industry-competitors-in-semiconductors-amp-semiconductor-eq",
+      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
+      "_zh_headline": "对比研究：美光科技与半导体及半导体设备行业的行业竞争对手",
+      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
+      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+    },
+    {
       "headline": "U.S. strike on an alleged drug boat kills 1, leaves 2 survivors",
       "summary": "The U.S. military attacked a boat accused of smuggling drugs in the eastern Pacific Ocean on Tuesday, killing one man and leaving two survivors. This brings the number of people who have been killed in boat strikes to at least 208.",
       "url": "https://www.npr.org/2026/06/17/nx-s1-5861424/u-s-strike-drug-boat-survivors",
