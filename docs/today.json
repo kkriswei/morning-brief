@@ -2,6 +2,54 @@
   "date": "2026-06-16",
   "articles": [
     {
+      "headline": "Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations",
+      "summary": "President Trump is under pressure to significantly improve upon the Obama-era deal in order to justify the huge human and economic cost of taking the United States to war.",
+      "url": "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-16T23:53:41+00:00",
+      "_summary": "President Trump is under pressure to significantly improve upon the Obama-era deal in order to justify the huge human and economic cost of taking the United States to war.",
+      "_zh_headline": "奥巴马的核协议笼罩在特朗普的伊朗谈判之上",
+      "_zh_summary": "特朗普总统面临着大幅改进奥巴马时代协议的压力，以证明让美国参战所付出的巨大人力和经济代价是合理的。",
+      "_added_at": "2026-06-17T02:03:32.592058+00:00"
+    },
+    {
+      "headline": "Who Are the Leaders at the G7 Summit in France?",
+      "summary": "On a roll or against a wall, Group of 7 leaders bring sharply different agendas. The leaders of some other nations are also attending to press their own interests.",
+      "url": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-16T22:58:54+00:00",
+      "_summary": "On a roll or against a wall, Group of 7 leaders bring sharply different agendas. The leaders of some other nations are also attending to press their own interests.",
+      "_zh_headline": "法国七国集团峰会的领导人是谁？",
+      "_zh_summary": "七国集团领导人无论是顺势还是逆流，都提出了截然不同的议程。其他一些国家的领导人也为了自身利益而出席。",
+      "_added_at": "2026-06-17T02:03:32.592058+00:00"
+    },
+    {
+      "headline": "The U.S. and Iran Tamp Down Heated Rhetoric",
+      "summary": "Also, primary elections test Trump’s sway in the South. Here’s the latest at the end of Tuesday.",
+      "url": "https://www.nytimes.com/2026/06/16/briefing/us-iran-deal-primary-elections.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-16T22:08:57+00:00",
+      "_summary": "Also, primary elections test Trump’s sway in the South. Here’s the latest at the end of Tuesday.",
+      "_zh_headline": "美国和伊朗平息激烈言论",
+      "_zh_summary": "此外，初选也考验着特朗普在南方的影响力。这是周二月底的最新消息。",
+      "_added_at": "2026-06-17T02:03:32.592058+00:00"
+    },
+    {
+      "headline": "Hillary Clinton Says Biden’s Re-election Bid Was a ‘Terrible Mistake’",
+      "summary": "If the former president had “passed the torch” and allowed a competitive Democratic primary in 2024, she said in a new interview, the winner “would have beaten Donald Trump.”",
+      "url": "https://www.nytimes.com/2026/06/16/us/politics/clinton-biden-reelection-terrible-mistake.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-16T21:37:54+00:00",
+      "_summary": "If the former president had “passed the torch” and allowed a competitive Democratic primary in 2024, she said in a new interview, the winner “would have beaten Donald Trump.”",
+      "_zh_headline": "希拉里·克林顿称拜登竞选连任是一个“可怕的错误”",
+      "_zh_summary": "她在一次新的采访中表示，如果这位前总统“传递火炬”并允许在 2024 年进行竞争性的民主党初选，获胜者“将击败唐纳德·特朗普”。",
+      "_added_at": "2026-06-17T02:03:32.592058+00:00"
+    },
+    {
       "headline": "Republicans Again Block War Powers Measure in the Senate",
       "summary": "Four G.O.P. senators crossed party lines to back the resolution to direct President Trump to halt the war in Iran and seek authorization from Congress, but their support was not enough.",
       "url": "https://www.nytimes.com/2026/06/16/us/politics/republicans-iran-war-powers-senate.html",
@@ -355,103 +403,6 @@
       "_summary": "The U.S. Navy will be deploying a new generation of drone-based countermeasures to search the sea floor and surface for any mines Iran laid.",
       "_zh_headline": "战后水雷仍可能阻碍海湾航运",
       "_zh_summary": "美国海军将部署新一代无人机反制措施，在海底和海面搜寻伊朗埋设的水雷。",
-      "_added_at": "2026-06-16T08:29:17.286579+00:00"
-    },
-    {
-      "headline": "Japan Raises Rates to 31-Year High to Ward Off War Inflation",
-      "summary": "Going against Prime Minister Takaichi’s wishes, Japan’s central bank acted amid U.S. pressure, a tanking currency and inflation from energy disruptions.",
-      "url": "https://www.nytimes.com/2026/06/16/business/japan-interest-rates-war.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-16T07:28:03+00:00",
-      "_summary": "Going against Prime Minister Takaichi’s wishes, Japan’s central bank acted amid U.S. pressure, a tanking currency and inflation from energy disruptions.",
-      "_zh_headline": "日本将利率提高至 31 年来的高位以抵御战争通胀",
-      "_zh_summary": "日本央行违背了首相高市的意愿，在美国的压力、货币贬值以及能源中断导致的通货膨胀的背景下采取了行动。",
-      "_added_at": "2026-06-16T08:29:17.286579+00:00"
-    },
-    {
-      "headline": "G7 leaders open summit talks in France on Ukraine and the Middle East",
-      "summary": "The talks come on the heels of President Trump's announcement of an agreement to end the U.S. war against Iran. In recent weeks, the Iranian conflict has overshadowed the war in Ukraine.",
-      "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-16T01:37:59-04:00",
-      "_summary": "Emmanuel Macron, President of France, left, greets U.S. President Donald Trump during the G7 summit in Evian-les-Bains, France, Monday, June 15, 2026. Christopher Katsarov/The Canadian Press via AP hide caption EVIAN-LES-BAINS, France — Leaders at the Group of Seven summit of major industrialized nations face a packed agenda on their first full day Tuesday, including challenging discussions on ending Russia's war in Ukraine and addressing the Middle East crisis. Ukrainian President Volodymyr Zelenskyy will be in attendance at the invitation of host France. The Ukraine talks come on the heels of U.S. President Donald Trump's announcement of an agreement to end the 3 1/2-month-old U.S. war against Iran. In recent weeks, the Iran conflict has overshadowed the war in Ukraine that Russian President Vladimir Putin launched more than four years ago.",
-      "_zh_headline": "七国集团领导人在法国就乌克兰和中东问题开启峰会会谈",
-      "_zh_summary": "法国总统埃马纽埃尔·马克龙（左）于 2026 年 6 月 15 日星期一在法国埃维昂莱班举行的七国集团峰会期间向美国总统唐纳德·特朗普致意。克里斯托弗·卡萨罗夫/加拿大新闻社通过美联社隐藏标题法国埃维昂莱班 — 主要工业化国家七国集团峰会的领导人在周二的第一个全天面临着繁忙的议程，包括有关结束俄罗斯在乌克兰的战争和解决中东危机的挑战性讨论。应东道国法国邀请，乌克兰总统泽连斯基将出席。乌克兰谈判紧接着美国总统唐纳德·特朗普宣布达成协议，结束长达 3.5 个月的美国对伊朗战争。最近几周，伊朗冲突盖过了俄罗斯总统普京四年多前发动的乌克兰战争。",
-      "_added_at": "2026-06-16T08:29:17.286579+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-16T06:11:17Z",
-      "headline": "Ed Yardeni Says He Hasn't 'Been Bullish Enough,' Predicts S&P 500 Will Hit 10,000 By 2029",
-      "id": 53215138,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/16/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/16/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/16/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Ed Yardeni predicts the S&amp;P 500 will hit 10,000 by 2029, driven by &#34;fabulous earnings momentum&#34; and an $89T baby boomer wealth wave.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPCX",
-        "SPY"
-      ],
-      "updated_at": "2026-06-16T06:11:17Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/53215138/ed-yardeni-says-he-hasnt-been-bullish-enough-predicts-sp-500-will-hit-10000-by-2029",
-      "_summary": "The S&P 500 is on track to reach a historic 10,000 milestone by the end of 2029, propelled by an unprecedented wave of corporate profitability rather than a speculative bubble, according to veteran market strategist Ed Yardeni . The president of Yardeni Research stated he is aggressively lifting his long-term targets, admitting that he is among the people who “haven’t been bullish enough” on the market’s current record-breaking trajectory.",
-      "_zh_headline": "艾德·亚德尼 (Ed Yardeni) 表示他“还不够乐观”，预计标普 500 指数到 2029 年将触及 10,000 点",
-      "_zh_summary": "资深市场策略师埃德·亚德尼 (Ed Yardeni) 表示，在前所未有的企业盈利浪潮而非投机泡沫的推动下，标准普尔 500 指数有望在 2029 年底达到历史性的 10,000 点里程碑。亚德尼研究公司总裁表示，他正在积极提高长期目标，并承认他是对市场当前创纪录的轨迹“不够乐观”的人之一。",
-      "_added_at": "2026-06-16T08:29:17.286579+00:00"
-    },
-    {
-      "author": "Benzinga Newsdesk",
-      "content": "",
-      "created_at": "2026-06-16T03:50:04Z",
-      "headline": "Elizabeth Warren Says Your Wages Are Stalled, But Trump's Net Worth Is Up $1.4 Billion: President 'Doesn't Care' About Your Financial Situation",
-      "id": 53214685,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Arlington--Va---February-13--2020-Senato_0.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Arlington--Va---February-13--2020-Senato_0.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/15/Arlington--Va---February-13--2020-Senato_0.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Elizabeth Warren says Trump&#39;s net worth rose $1.4 billion this year even as wage growth slowed for many Americans.",
-      "symbols": [
-        "AMZN",
-        "DELL",
-        "LLY",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-06-16T03:50:05Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/53214685/elizabeth-warren-says-trumps-net-worth-is-up-1-4-billion-while-workers-wages-remain-stalled",
-      "_summary": "Sen. Elizabeth Warren (D-Mass.) targeted President Donald Trump ‘s growing fortune on Monday, arguing that the president’s personal wealth had increased by roughly $1.4 billion this year even as wage growth for many Americans has slowed. In a post on X, Warren shared a graphic comparing Trump’s rising net worth with declining real wage growth and accused the president of prioritizing his own financial interests over those of working Americans.",
-      "_zh_headline": "伊丽莎白·沃伦称你的工资停滞不前，但特朗普的净资产却增加了14亿美元：总统“不关心”你的财务状况",
-      "_zh_summary": "马萨诸塞州民主党参议员伊丽莎白·沃伦 (Elizabeth Warren) 周一将矛头指向唐纳德·特朗普总统不断增长的财富，她认为，尽管许多美国人的工资增长放缓，但今年总统的个人财富增加了约 14 亿美元。在 X 上的一篇帖子中，沃伦分享了一张图表，将特朗普不断上升的净资产与不断下降的实际工资增长进行比较，并指责总统将自己的经济利益置于美国工薪阶层的利益之上。",
       "_added_at": "2026-06-16T08:29:17.286579+00:00"
     }
   ]
