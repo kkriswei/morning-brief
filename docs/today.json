@@ -2,6 +2,102 @@
   "date": "2026-06-17",
   "articles": [
     {
+      "headline": "Iran sends tankers loaded with oil past US military blockade",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-17T13:27:47+00:00",
+      "_summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows. Two were broadcasting their locations as they crossed and a third appeared to switch on its location tracker just past the line. Despite President Donald Trump announcing on Sunday the \"immediate removal\" of the blockade of Iranian ports, US naval forces later confirmed it would remain in effect until the deal with Iran was signed. This is expected to take place in Switzerland on Friday. \"This a sign that Iran is confident the blockade is over, even if the US has insisted it will be in place until Friday,\" Michelle Wiese Bockman, senior analyst at Windward Maritime Intelligence, told BBC Verify. The three Iran-flagged tankers, Diona, Hero II and Sonia I, are all owned by the National Iranian Tanker Company which has been sanctioned by the US Treasury, as have the ships themselves.",
+      "_zh_headline": "伊朗派遣满载石油的油轮突破美国军事封锁",
+      "_zh_summary": "船舶追踪数据显示，三艘满载原油的伊朗油轮已通过美国在阿曼湾的封锁线。其中两人在过线时广播了自己的位置，第三个人似乎在越过警线后就打开了位置追踪器。尽管唐纳德·特朗普总统周日宣布“立即取消”对伊朗港口的封锁，但美国海军后来证实，在与伊朗签署协议之前，封锁将继续有效。预计将于周五在瑞士举行。 Windward Maritime Intelligence 高级分析师米歇尔·维泽·博克曼 (Michelle Wiese Bockman) 告诉 BBC verify：“这表明伊朗有信心封锁已经结束，即使美国坚称封锁将持续到周五。”这三艘悬挂伊朗国旗的油轮“戴奥娜”号、“英雄二号”和“索尼娅一号”均属于伊朗国家油轮公司所有，该公司以及这些油轮本身都受到美国财政部的制裁。",
+      "_added_at": "2026-06-17T16:46:51.546711+00:00"
+    },
+    {
+      "headline": "The U.S. Economy Is Leaving Small Businesses Behind",
+      "summary": "Small businesses say relentless pressures from tariffs and higher energy prices have sapped their resilience and finances.",
+      "url": "https://www.nytimes.com/2026/06/17/business/economy/small-business-strain-economy.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T09:04:59+00:00",
+      "_summary": "Small businesses say relentless pressures from tariffs and higher energy prices have sapped their resilience and finances.",
+      "_zh_headline": "美国经济正在把小企业抛在后面",
+      "_zh_summary": "小企业表示，关税和能源价格上涨带来的持续压力削弱了他们的弹性和财务状况。",
+      "_added_at": "2026-06-17T16:46:51.546711+00:00"
+    },
+    {
+      "headline": "Intelligence Officials Have Welcomed Pulte and Then Clayton",
+      "summary": "The two, whom President Trump nominated as acting director and director of national intelligence, have both prepared to take over the office.",
+      "url": "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T15:42:34+00:00",
+      "_summary": "The two, whom President Trump nominated as acting director and director of national intelligence, have both prepared to take over the office.",
+      "_zh_headline": "情报官员先是欢迎普尔特，然后是克莱顿",
+      "_zh_summary": "被特朗普总统提名为代理局长和国家情报总监的两人都已准备好接管这一职位。",
+      "_added_at": "2026-06-17T16:46:51.546711+00:00"
+    },
+    {
+      "headline": "Stars of Israel’s TV Channel for Bibi Fans Turn on Trump",
+      "summary": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal.",
+      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T15:41:49+00:00",
+      "_summary": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal.",
+      "_zh_headline": "以色列比比粉丝电视频道的明星们开始攻击特朗普",
+      "_zh_summary": "支持总理本杰明·内塔尼亚胡的右翼广播公司第 14 频道的领导人物公开攻击美国总统的伊朗协议。",
+      "_added_at": "2026-06-17T16:46:51.546711+00:00"
+    },
+    {
+      "headline": "Trump Angrily Defends Iran Deal, Belittling the One Obama Signed",
+      "summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Tehran and argued that his agreement was better than the one Barack Obama struck in 2015.",
+      "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-17T14:22:49+00:00",
+      "_summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Tehran and argued that his agreement was better than the one Barack Obama struck in 2015.",
+      "_zh_headline": "特朗普愤怒地捍卫伊朗协议，贬低奥巴马签署的协议",
+      "_zh_summary": "特朗普总统否认美国将成为德黑兰 3000 亿美元重建基金的一部分，并辩称他的协议比巴拉克·奥巴马 (Barack Obama) 2015 年达成的协议更好。",
+      "_added_at": "2026-06-17T16:46:51.546711+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-06-17T15:28:16Z",
+      "headline": "JP Morgan's David Kelly Says It's 'A Great Economy For Stocks' Amid AI-Led Bull Market Despite Inflation Risks",
+      "id": 53254039,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Ai-And-Data-Analysis-For-Financial-Repor_1.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Ai-And-Data-Analysis-For-Financial-Repor_1.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Ai-And-Data-Analysis-For-Financial-Repor_1.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "JPMorgan urges staying invested in stocks into 2026, citing AI boom, strong consumption, and ongoing bull market gains.",
+      "symbols": [
+        "DJT",
+        "JPM",
+        "SPCX",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-06-17T15:28:16Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53254039/jp-morgans-david-kelly-says-its-a-great-economy-for-stocks-amid-ai-led-bull-market-despite-inflation-risks",
+      "_summary": "However, Kelly predicted that the Democrats could take control of the House after the mid-term elections, raising questions on the potential stimulus checks in 2027. \"It's an OK economy for Americans; it's a great economy for the stock market,\" he stated, while adding,  \"We're not forecasting recession…The wealth effect and the AI boom keep us going.\" Kelly stated that the U.S.",
+      "_zh_headline": "摩根大通的大卫·凯利表示，尽管存在通胀风险，但在人工智能主导的牛市中，“股市经济一片大好”",
+      "_zh_summary": "然而，凯利预测民主党可能会在中期选举后控制众议院，这引发了人们对 2027 年潜在刺激计划的质疑。“这对美国人来说是一个不错的经济；对股市来说是一个很好的经济，”他表示，同时补充道，“我们并不预测经济衰退……财富效应和人工智能繁荣让我们继续前进。”凯利表示，美国",
+      "_added_at": "2026-06-17T16:46:51.546711+00:00"
+    },
+    {
       "headline": "Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran",
       "summary": "Amid the war with Iran, Bahrain has stripped 69 people of their citizenship, including children, accusing them of disloyalty and rendering them stateless.",
       "url": "https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html",
