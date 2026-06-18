@@ -1,56 +1,17 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "articles": [
     {
-      "headline": "Here's how much the the Iran war cost -- and how its effects will linger",
-      "summary": "More than three months after the U.S. and Israel launched their war on Iran, the costs and aftereffects are felt around the world.",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
-      "source": "NPR",
+      "headline": "Before Making a Deal, Trump Demanded Iran’s Surrender. He Got a Surprise.",
+      "summary": "While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.",
+      "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
+      "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-17T17:23:54-04:00",
-      "_summary": "A man walks past a billboard featuring the portraits of (right to left) Iran's new Supreme Leader Ayatollah Mojtaba Khamenei, the late Supreme Leader Ayatollah Ali Khamenei, and the late Supreme Leader Ayatollah Ruhollah Khomeini, in Srinagar, Jammu and Kashmir, on June 15. Firdous Nazir/NurPhoto via Getty Images hide caption As conflicts go, the Iran war, should a loose framework and ceasefire deal hold , was relatively short in duration. But its costs and aftereffects will likely linger for years. The months-long conflict, which pitted the world's most powerful military against a far weaker, yet strategically adept, adversary cost the lives of 13 U.S. service members and more than 3,300 Iranians, according to state media. Another 3,826 have been killed in Lebanon, nearly 60 in Israel and dozens across Gulf states, according to authorities in those countries.",
-      "_zh_headline": "以下是伊朗战争的代价及其影响将如何持续",
-      "_zh_summary": "6 月 15 日，在查谟和克什米尔的斯利那加，一名男子走过一块广告牌，广告牌上有伊朗新任最高领袖阿亚图拉·莫杰塔巴·哈梅内伊、已故最高领袖阿亚图拉·阿里·哈梅内伊和已故最高领袖阿亚图拉·鲁霍拉·霍梅尼的肖像。Firdous Nazir/NurPhoto via Getty Images 隐藏标题 随着冲突的发展，伊朗战争应该有一个松散的框架和停火交易持有，持续时间相对较短。但其成本和后果可能会持续数年。据官方媒体报道，这场长达数月的冲突让世界上最强大的军队与实力远弱但战略娴熟的对手展开对峙，导致 13 名美国军人和 3,300 多名伊朗人丧生。据这些国家当局称，黎巴嫩另有 3,826 人被杀，以色列有近 60 人被杀，海湾国家有数十人被杀。",
-      "_added_at": "2026-06-17T23:58:00.992660+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-06-17T22:19:18Z",
-      "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
-      "id": 53266186,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Apple will raise prices across its product lineup due to soaring memory chip costs, CEO Tim Cook says.",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-06-17T22:19:18Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53266186/apple-will-raise-prices-due-to-soaring-memory-costs-ceo-tim-cook-says-this-is-a-100-year-flood",
-      "_summary": "“Unfortunately, price increases are unavoidable,” Cook said in a Wall Street Journal interview published Wednesday. “We’re doing our best to mitigate the huge increases that are being passed to us, but the situation has become unsustainable.” Cook declined to specify which devices will see higher sticker tags or when changes will take effect. Apple's next major launch — the iPhone 18 lineup, which is anticipated to include a foldable model — is expected in September.",
-      "_zh_headline": "苹果因内存成本飙升将提价：CEO蒂姆·库克称“这是一场100年一遇的洪水”",
-      "_zh_summary": "“不幸的是，价格上涨是不可避免的，”库克在周三发表的《华尔街日报》采访中表示。 “我们正在尽最大努力减轻传递给我们的巨大增长，但情况已经变得不可持续。”库克拒绝具体说明哪些设备将看到更高的贴纸标签或更改何时生效。苹果的下一次重大发布——iPhone 18 系列，预计将包括可折叠机型——预计将于 9 月发布。",
-      "_added_at": "2026-06-17T23:58:00.992660+00:00"
+      "created_at": "2026-06-18T01:21:45+00:00",
+      "_summary": "While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.",
+      "_zh_headline": "在达成协议之前，特朗普要求伊朗投降。他有一个惊喜。",
+      "_zh_summary": "尽管伊朗人在战争中遭受了巨大损失，但他们在与世界上最强大的军队的对抗中脱颖而出，证明了他们可以利用经济混乱作为武器。",
+      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     },
     {
       "headline": "Trump Defends Deal to End the War With Iran as Details Emerge",
@@ -58,35 +19,23 @@
       "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-17T22:04:41+00:00",
+      "created_at": "2026-06-18T03:09:17+00:00",
       "_summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
       "_zh_headline": "随着细节浮出水面，特朗普捍卫结束与伊朗战争的协议",
       "_zh_summary": "特朗普总统猛烈抨击批评人士，称该协议取得的成果低于巴拉克·奥巴马总统 2015 年签署的协议，并威胁称，如果伊朗违反该协议，他将再次轰炸伊朗。",
-      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     },
     {
-      "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
-      "summary": "The agreement outlines a $300 billion plan to rebuild Iran, and says sanctions would be lifted in the future.",
-      "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
-      "source": "NYT",
+      "headline": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "symbols": [],
-      "created_at": "2026-06-17T21:11:09+00:00",
-      "_summary": "The agreement outlines a $300 billion plan to rebuild Iran, and says sanctions would be lifted in the future.",
-      "_zh_headline": "特朗普批评奥巴马的伊朗协议，但新协议也将为德黑兰带来缓解",
-      "_zh_summary": "该协议概述了一项耗资3000亿美元重建伊朗的计划，并表示未来将取消制裁。",
-      "_added_at": "2026-06-17T22:21:19.583763+00:00"
-    },
-    {
-      "headline": "Fed Meeting Live Updates: Kevin Warsh to Address U.S. Economy as Fed Holds Interest Rates Steady",
-      "summary": "Officials at the Federal Reserve were split between no cuts this year and one or more rate increases as they braced for higher inflation, according to a new set of projections.",
-      "url": "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T22:01:15+00:00",
-      "_summary": "Officials at the Federal Reserve were split between no cuts this year and one or more rate increases as they braced for higher inflation, according to a new set of projections.",
-      "_zh_headline": "美联储会议实时更新：凯文·沃什在美联储维持利率稳定的情况下发表讲话",
-      "_zh_summary": "根据一组新的预测，美联储官员在今年不降息和一次或多次加息之间存在分歧，因为他们准备迎接更高的通胀。",
-      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+      "created_at": "2026-06-17T22:36:13+00:00",
+      "_summary": "Japan must \"strengthen its defence capabilities\", Defence Minister Shinjiro Koizumi has told the BBC, emphasising the need to revisit the pacifist posture that has defined the country since World War Two. He said boosting defence, \"reinforcing its alliance with the United States, and expanding collaboration with like-minded countries\" was part of \"building multi-layered deterrence critical for ensuring that no new war breaks out in this region\". He spoke of the recent changes in Japan's defence policy, such as relaxing decades-old arms export rules. For the first time in about 50 years, Tokyo can now sell or transfer defence equipment and lethal weapons to the 17 countries with which it has signed formal agreements, including the US and the UK. \"Australia has selected Japanese war ships. Discussions are under way with the Philippines for used destroyers from Japan's Maritime Self-Defence Force.",
+      "_zh_headline": "日本防卫大臣小泉纯一郎告诉 BBC，日本加强防卫对于防止战争“至关重要”",
+      "_zh_summary": "日本防卫大臣小泉进次郎告诉英国广播公司，日本必须“加强其防御能力”，并强调有必要重新审视自第二次世界大战以来日本所采取的和平主义姿态。他表示，加强国防、“加强与美国的联盟、扩大与志同道合的国家的合作”是“建立多层次威慑力量的一部分，这对于确保该地区不再爆发新的战争至关重要”。他谈到了日本防务政策最近的变化，例如放宽了数十年的武器出口规则。大约 50 年来，东京首次可以向其签署正式协议的 17 个国家出售或转让防御装备和致命武器，其中包括美国和英国。 “澳大利亚已经选择了日本战舰。正在与菲律宾讨论使用日本海上自卫队的二手驱逐舰。",
+      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     },
     {
       "author": "The Arora Report",
@@ -129,316 +78,80 @@
       "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. API crude inventories came at a draw of 8.33M barrels vs. a consensus of a draw of 4.5M barrels. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor.",
       "_zh_headline": "美联储维持利率稳定；零售销售保持弹性",
       "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。 API 原油库存消耗 833 万桶，而市场普遍预期消耗 450 万桶。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。",
-      "_added_at": "2026-06-17T22:21:19.583763+00:00"
+      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     },
     {
-      "headline": "See how the first Fed statement under Warsh evolved.",
-      "summary": "Interest rates didn’t change, but the language in Fed’s policy statement, which it released alongside its rate decision today, certainly did.",
-      "url": "https://www.nytimes.com/2026/06/17/business/economy/kevin-warsh-fed-statement.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T18:55:13+00:00",
-      "_summary": "Interest rates didn’t change, but the language in Fed’s policy statement, which it released alongside its rate decision today, certainly did.",
-      "_zh_headline": "看看沃什领导下的第一份美联储声明是如何演变的。",
-      "_zh_summary": "利率没有改变，但美联储今天与利率决定一起发布的政策声明中的语言肯定发生了变化。",
-      "_added_at": "2026-06-17T19:37:05.116508+00:00"
-    },
-    {
-      "headline": "Stocks Decline on Fed Decision, and Oil Is Muted Amid Peace Deal Talks",
-      "summary": "Traders are waiting for U.S. and Iranian officials to meet in Switzerland on Friday, when they are expected to sign an initial agreement and begin a 60-day cease-fire.",
-      "url": "https://www.nytimes.com/2026/06/17/business/iran-war-hormuz-oil-gas.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T19:19:48+00:00",
-      "_summary": "Traders are waiting for U.S. and Iranian officials to meet in Switzerland on Friday, when they are expected to sign an initial agreement and begin a 60-day cease-fire.",
-      "_zh_headline": "美联储决定导致股市下跌，和平协议谈判期间油价低迷",
-      "_zh_summary": "交易员正在等待美国和伊朗官员周五在瑞士会面，预计届时他们将签署初步协议并开始为期 60 天的停火。",
-      "_added_at": "2026-06-17T19:37:05.116508+00:00"
-    },
-    {
-      "headline": "An inside look at President Trump's campaign to acquire Greenland",
-      "summary": "New Yorker writer Ben Taub says while the idea of acquiring Greenland is out of the headlines, it hasn't been dropped. Taub describes how Trump's ongoing efforts have broken the trust of our allies.",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5860861/an-inside-look-at-president-trumps-campaign-to-acquire-greenland",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-17T12:50:25-04:00",
-      "_summary": "New Yorker writer Ben Taub says while the idea of acquiring Greenland is out of the headlines, it hasn't been dropped. Taub describes how Trump's ongoing efforts have broken the trust of our allies. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
-      "_zh_headline": "特朗普总统收购格陵兰岛运动的内部观察",
-      "_zh_summary": "《纽约客》作家本·陶布表示，虽然收购格陵兰岛的想法已经不再是头条新闻，但它并没有被放弃。陶布描述了特朗普的持续努力如何破坏了我们盟友的信任。 NPR 文字记录的准确性和可用性可能有所不同。转录文本可能会被修改以纠正错误或匹配音频更新。 npr.org 上的音频可能会在其原始广播或发布后进行编辑。 NPR 节目的权威记录是音频记录。",
-      "_added_at": "2026-06-17T19:37:05.116508+00:00"
-    },
-    {
-      "author": "Piero Cingari",
+      "author": "Erica Kollmann",
       "content": "",
-      "created_at": "2026-06-17T17:33:03Z",
-      "headline": "Small Caps Near Record Highs, Robinhood Rallies 12%: Stock Market Today",
-      "id": 53258383,
+      "created_at": "2026-06-17T22:19:18Z",
+      "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+      "id": 53266186,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Robinhood-Robinhood-Mobile-Icon-App-On-A.jpeg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Robinhood-Robinhood-Mobile-Icon-App-On-A.jpeg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Robinhood-Robinhood-Mobile-Icon-App-On-A.jpeg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Apple-Logo-On-Apple-Store-In-Hong-Kong.jpeg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "U.S. stocks traded higher by midday Wednesday, with semiconductor equipment names and small caps leading the tape, as investors held their fire ahead of Kevin Warsh‘s first interest-rate decision as Federal Reserve chair, due at 2 p.m. ET.",
+      "summary": "Apple will raise prices across its product lineup due to soaring memory chip costs, CEO Tim Cook says.",
       "symbols": [
-        "AMAT",
-        "BTCUSD",
-        "CBOE",
-        "CCC",
-        "CME",
-        "CVNA",
-        "DIA",
-        "ENTG",
-        "FRMI",
-        "HOOD",
-        "IWM",
-        "KMX",
-        "NDAQ",
-        "QQQ",
-        "RARE",
-        "SMH",
-        "SOXX",
-        "SPCX",
-        "SRPT",
-        "VOO",
-        "XLE",
-        "XLI",
-        "XLK"
-      ],
-      "updated_at": "2026-06-17T17:33:03Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53258383/russell-2000-small-caps-near-records-ahead-fed-meeting-robinhood-jumps-deutsche-bank-upgrad",
-      "_summary": "U.S. stocks traded higher by midday Wednesday, with semiconductor equipment names and small caps leading the tape, as investors held their fire ahead of Kevin Warsh ‘s first interest-rate decision as Federal Reserve chair, due at 2 p.m. ET. The Fed is all but certain to hold the funds rate at 3.50%-3.75%, putting the spotlight on the updated “dot plot” for any hawkish tilt from the committee — and on how Warsh frames inflation and the path for rates.",
-      "_zh_headline": "小盘股接近历史高位，Robinhood 上涨 12%：今日股市",
-      "_zh_summary": "周三中午，美国股市走高，其中半导体设备股和小盘股领涨，投资者在凯文·沃什 (Kevin Warsh) 于下午 2 点就任美联储主席后首次做出利率决定之前保持了热情。等。美联储几乎肯定会将基金利率维持在 3.50%-3.75%，这将焦点放在委员会任何鹰派倾向的最新“点阵图”上，以及沃什如何构建通胀和利率路径。",
-      "_added_at": "2026-06-17T19:37:05.116508+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-06-17T18:35:49Z",
-      "headline": "Marvell, Flex Could Be Days Away From Massive Passive-Fund Tailwind",
-      "id": 53260169,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/SP-500.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/SP-500.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/SP-500.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Marvell and Flex join the S&amp;P 500 on June 22, setting up potential buying from passive funds and ETFs as investors continue searching for AI infrastructure winners.",
-      "symbols": [
-        "AVGO",
-        "CPB",
-        "FLEX",
-        "IVV",
-        "MRVL",
-        "POOL",
-        "SPY",
-        "VOO"
-      ],
-      "updated_at": "2026-06-17T18:35:49Z",
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/53260169/marvell-flex-could-be-days-away-from-massive-passive-fund-tailwind",
-      "_summary": "• Marvell Technology stock is surging to new heights today. What’s fueling MRVL momentum? While the announcement on June 5 initially sparked interest in both stocks, the bigger event may still lie ahead. That’s because S&P 500 inclusion triggers a wave of mechanical buying from index funds and exchange-traded funds which track the benchmark. Those funds are required to own newly added constituents, creating demand that is largely unrelated to a company’s fundamentals.",
-      "_zh_headline": "Marvell、Flex 距离大规模被动基金顺风车可能还有几天",
-      "_zh_summary": "• Marvell Technology 股票今天飙升至新高。是什么推动了 MRVL 的发展？虽然 6 月 5 日的公告最初引发了人们对这两只股票的兴趣，但更大的事件可能还在后面。这是因为标普 500 指数的纳入引发了追踪该基准的指数基金和交易所交易基金的机械购买浪潮。这些基金需要拥有新增加的成分股，从而创造出与公司基本面基本上无关的需求。",
-      "_added_at": "2026-06-17T19:37:05.116508+00:00"
-    },
-    {
-      "headline": "Iran sends tankers loaded with oil past US military blockade",
-      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
-      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-17T13:27:47+00:00",
-      "_summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows. Two were broadcasting their locations as they crossed and a third appeared to switch on its location tracker just past the line. Despite President Donald Trump announcing on Sunday the \"immediate removal\" of the blockade of Iranian ports, US naval forces later confirmed it would remain in effect until the deal with Iran was signed. This is expected to take place in Switzerland on Friday. \"This a sign that Iran is confident the blockade is over, even if the US has insisted it will be in place until Friday,\" Michelle Wiese Bockman, senior analyst at Windward Maritime Intelligence, told BBC Verify. The three Iran-flagged tankers, Diona, Hero II and Sonia I, are all owned by the National Iranian Tanker Company which has been sanctioned by the US Treasury, as have the ships themselves.",
-      "_zh_headline": "伊朗派遣满载石油的油轮突破美国军事封锁",
-      "_zh_summary": "船舶追踪数据显示，三艘满载原油的伊朗油轮已通过美国在阿曼湾的封锁线。其中两人在过线时广播了自己的位置，第三个人似乎在越过警线后就打开了位置追踪器。尽管唐纳德·特朗普总统周日宣布“立即取消”对伊朗港口的封锁，但美国海军后来证实，在与伊朗签署协议之前，封锁将继续有效。预计将于周五在瑞士举行。 Windward Maritime Intelligence 高级分析师米歇尔·维泽·博克曼 (Michelle Wiese Bockman) 告诉 BBC verify：“这表明伊朗有信心封锁已经结束，即使美国坚称封锁将持续到周五。”这三艘悬挂伊朗国旗的油轮“戴奥娜”号、“英雄二号”和“索尼娅一号”均属于伊朗国家油轮公司所有，该公司以及这些油轮本身都受到美国财政部的制裁。",
-      "_added_at": "2026-06-17T16:46:51.546711+00:00"
-    },
-    {
-      "headline": "The U.S. Economy Is Leaving Small Businesses Behind",
-      "summary": "Small businesses say relentless pressures from tariffs and higher energy prices have sapped their resilience and finances.",
-      "url": "https://www.nytimes.com/2026/06/17/business/economy/small-business-strain-economy.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T09:04:59+00:00",
-      "_summary": "Small businesses say relentless pressures from tariffs and higher energy prices have sapped their resilience and finances.",
-      "_zh_headline": "美国经济正在把小企业抛在后面",
-      "_zh_summary": "小企业表示，关税和能源价格上涨带来的持续压力削弱了他们的弹性和财务状况。",
-      "_added_at": "2026-06-17T16:46:51.546711+00:00"
-    },
-    {
-      "headline": "Intelligence Officials Have Welcomed Pulte and Then Clayton",
-      "summary": "The two, whom President Trump nominated as acting director and director of national intelligence, have both prepared to take over the office.",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T15:42:34+00:00",
-      "_summary": "The two, whom President Trump nominated as acting director and director of national intelligence, have both prepared to take over the office.",
-      "_zh_headline": "情报官员先是欢迎普尔特，然后是克莱顿",
-      "_zh_summary": "被特朗普总统提名为代理局长和国家情报总监的两人都已准备好接管这一职位。",
-      "_added_at": "2026-06-17T16:46:51.546711+00:00"
-    },
-    {
-      "headline": "Stars of Israel’s TV Channel for Bibi Fans Turn on Trump",
-      "summary": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal.",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T15:41:49+00:00",
-      "_summary": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal.",
-      "_zh_headline": "以色列比比粉丝电视频道的明星们开始攻击特朗普",
-      "_zh_summary": "支持总理本杰明·内塔尼亚胡的右翼广播公司第 14 频道的领导人物公开攻击美国总统的伊朗协议。",
-      "_added_at": "2026-06-17T16:46:51.546711+00:00"
-    },
-    {
-      "headline": "Trump Angrily Defends Iran Deal, Belittling the One Obama Signed",
-      "summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Tehran and argued that his agreement was better than the one Barack Obama struck in 2015.",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T14:22:49+00:00",
-      "_summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Tehran and argued that his agreement was better than the one Barack Obama struck in 2015.",
-      "_zh_headline": "特朗普愤怒地捍卫伊朗协议，贬低奥巴马签署的协议",
-      "_zh_summary": "特朗普总统否认美国将成为德黑兰 3000 亿美元重建基金的一部分，并辩称他的协议比巴拉克·奥巴马 (Barack Obama) 2015 年达成的协议更好。",
-      "_added_at": "2026-06-17T16:46:51.546711+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-06-17T15:28:16Z",
-      "headline": "JP Morgan's David Kelly Says It's 'A Great Economy For Stocks' Amid AI-Led Bull Market Despite Inflation Risks",
-      "id": 53254039,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Ai-And-Data-Analysis-For-Financial-Repor_1.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Ai-And-Data-Analysis-For-Financial-Repor_1.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Ai-And-Data-Analysis-For-Financial-Repor_1.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "JPMorgan urges staying invested in stocks into 2026, citing AI boom, strong consumption, and ongoing bull market gains.",
-      "symbols": [
-        "DJT",
-        "JPM",
-        "SPCX",
-        "SPY",
-        "VOO"
-      ],
-      "updated_at": "2026-06-17T15:28:16Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53254039/jp-morgans-david-kelly-says-its-a-great-economy-for-stocks-amid-ai-led-bull-market-despite-inflation-risks",
-      "_summary": "However, Kelly predicted that the Democrats could take control of the House after the mid-term elections, raising questions on the potential stimulus checks in 2027. \"It's an OK economy for Americans; it's a great economy for the stock market,\" he stated, while adding,  \"We're not forecasting recession…The wealth effect and the AI boom keep us going.\" Kelly stated that the U.S.",
-      "_zh_headline": "摩根大通的大卫·凯利表示，尽管存在通胀风险，但在人工智能主导的牛市中，“股市经济一片大好”",
-      "_zh_summary": "然而，凯利预测民主党可能会在中期选举后控制众议院，这引发了人们对 2027 年潜在刺激计划的质疑。“这对美国人来说是一个不错的经济；对股市来说是一个很好的经济，”他表示，同时补充道，“我们并不预测经济衰退……财富效应和人工智能繁荣让我们继续前进。”凯利表示，美国",
-      "_added_at": "2026-06-17T16:46:51.546711+00:00"
-    },
-    {
-      "headline": "Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran",
-      "summary": "Amid the war with Iran, Bahrain has stripped 69 people of their citizenship, including children, accusing them of disloyalty and rendering them stateless.",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-17T09:00:53+00:00",
-      "_summary": "Amid the war with Iran, Bahrain has stripped 69 people of their citizenship, including children, accusing them of disloyalty and rendering them stateless.",
-      "_zh_headline": "巴林撤销了他们的公民身份，然后试图将他们驱逐到伊朗",
-      "_zh_summary": "在与伊朗的战争中，巴林剥夺了 69 人的公民身份，其中包括儿童，指责他们不忠并使他们成为无国籍人。",
-      "_added_at": "2026-06-17T12:36:59.680857+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-17T10:21:44Z",
-      "headline": "Passive Funds Crossed $2.6 Trillion—Here Is The Percentage That Breaks The Market",
-      "id": 53243977,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/A-Dimly-Lit-Room-With-Multiple-Screens-D.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/A-Dimly-Lit-Room-With-Multiple-Screens-D.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/A-Dimly-Lit-Room-With-Multiple-Screens-D.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Has passive investing broken Wall Street? Explore how $2.6T index funds are shifting from market followers to becoming the market.",
-      "symbols": [
-        "DIA",
-        "IVV",
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
         "META",
         "MSFT",
-        "SCHX",
-        "SPY",
-        "VOO"
+        "MU",
+        "SNDK"
       ],
-      "updated_at": "2026-06-17T10:21:45Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/53243977/passive-funds-crossed-2-6-trillion-here-is-the-percentage-that-breaks-the-market",
-      "_summary": "For more than two decades, passive investing has been a humble idea successfully marketed to the retail audience. It was a set-and-forget approach – not trying to outsmart the market but simply owning it. Now, according to a growing camp of market critics, passive funds have become something far more consequential—they are the market. The trend means that an increasing share of investment decisions no longer belongs to analysts weighing earnings prospects or debating valuations.",
-      "_zh_headline": "被动基金突破 2.6 万亿美元——以下是突破市场的百分比",
-      "_zh_summary": "二十多年来，被动投资一直是一个成功向散户推销的不起眼的想法。这是一种一劳永逸的方法——不是试图智胜市场，而是简单地拥有它。现在，越来越多的市场批评者认为，被动型基金已经变得更加重要——它们就是市场。这一趋势意味着越来越多的投资决策不再属于权衡盈利前景或辩论估值的分析师。",
-      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+      "updated_at": "2026-06-17T22:19:18Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53266186/apple-will-raise-prices-due-to-soaring-memory-costs-ceo-tim-cook-says-this-is-a-100-year-flood",
+      "_summary": "“Unfortunately, price increases are unavoidable,” Cook said in a Wall Street Journal interview published Wednesday. “We’re doing our best to mitigate the huge increases that are being passed to us, but the situation has become unsustainable.” Cook declined to specify which devices will see higher sticker tags or when changes will take effect. Apple's next major launch — the iPhone 18 lineup, which is anticipated to include a foldable model — is expected in September.",
+      "_zh_headline": "苹果因内存成本飙升将提价：CEO蒂姆·库克称“这是一场100年一遇的洪水”",
+      "_zh_summary": "“不幸的是，价格上涨是不可避免的，”库克在周三发表的《华尔街日报》采访中表示。 “我们正在尽最大努力减轻传递给我们的巨大增长，但情况已经变得不可持续。”库克拒绝具体说明哪些设备将看到更高的贴纸标签或更改何时生效。苹果的下一次重大发布——iPhone 18 系列，预计将包括可折叠机型——预计将于 9 月发布。",
+      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     },
     {
-      "author": "Rishabh Mishra",
+      "author": "Ananya Gairola",
       "content": "",
-      "created_at": "2026-06-17T11:18:26Z",
-      "headline": "Good News For Drivers: Mohamed El-Erian Expects Gas Below $4 And Diesel Below $5 Within Days As Crude Prices Plunge",
-      "id": 53244978,
+      "created_at": "2026-06-18T04:36:51Z",
+      "headline": "Nvidia Supplier SK Hynix Ships Next-Generation HBM Memory Samples To Major Customers",
+      "id": 53267631,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Man-Grabbing-A-Fuel-Pump-At-A-Gas-Statio.jpeg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Sk-Hynix-America-Headquarters-In-San-Jos.jpeg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Man-Grabbing-A-Fuel-Pump-At-A-Gas-Statio.jpeg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Sk-Hynix-America-Headquarters-In-San-Jos.jpeg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/17/Man-Grabbing-A-Fuel-Pump-At-A-Gas-Statio.jpeg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Sk-Hynix-America-Headquarters-In-San-Jos.jpeg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Good news for drivers: Mohamed El-Erian expects gas below $4 and diesel under $5 within days following a massive 20% crude oil plunge.",
+      "summary": "SK Hynix shipped samples of its next-generation HBM4E AI memory chips to major customers as demand for AI infrastructure surge.",
       "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
+        "MU",
+        "NVDA",
+        "SSNLF"
       ],
-      "updated_at": "2026-06-17T11:18:27Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/53244978/good-news-for-drivers-mohamed-el-erian-expects-gas-below-4-and-diesel-below-5-within-days-as-crude-prices-plunge",
-      "_summary": "A collapse in crude oil futures prices is poised to deliver savings to American motorists, with top economist Mohamed A. El-Erian predicting that regular gasoline and diesel will crash through the $4 and $5 thresholds, respectively, in the coming days. The nationwide average for regular gas currently sits at $4.04 per gallon, with diesel at $5.18 per gallon, according to the latest data from AAA. However, those numbers are expected to slide further.",
-      "_zh_headline": "对于司机来说好消息：Mohamed El-Erian 预计随着原油价格暴跌，汽油价格将在几天内跌至 4 美元，柴油价格将跌至 5 美元",
-      "_zh_summary": "原油期货价格暴跌将为美国驾车者节省开支，顶级经济学家穆罕默德·埃尔-埃里安 (Mohamed A. El-Erian) 预测，未来几天普通汽油和柴油将分别跌破 4 美元和 5 美元的门槛。根据 AAA 的最新数据，目前全国普通汽油平均价格为每加仑 4.04 美元，柴油价格为每加仑 5.18 美元。然而，这些数字预计将进一步下滑。",
-      "_added_at": "2026-06-17T12:36:59.680857+00:00"
+      "updated_at": "2026-06-18T04:36:52Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53267631/nvidia-supplier-sk-hynix-ships-next-gen-hbm-samples-as-ai-demand-surges",
+      "_summary": "In a statement, the South Korean memory giant said that it has started supplying samples of its next-generation 12-layer HBM4E chips for customer evaluation. The new memory delivers transfer speeds of up to 16 gigabits per second per pin and offers more than 20% better power efficiency compared with previous-generation products. HBM is a critical component in AI accelerators and graphics processors because it enables faster movement of massive datasets required to train and run advanced AI models.",
+      "_zh_headline": "Nvidia 供应商 SK Hynix 向主要客户提供下一代 HBM 内存样品",
+      "_zh_summary": "这家韩国内存巨头在一份声明中表示，已开始提供下一代 12 层 HBM4E 芯片的样品以供客户评估。与上一代产品相比，新款内存的每引脚传输速度高达 16 GB/秒，能效提高 20% 以上。 HBM 是 AI 加速器和图形处理器的关键组件，因为它可以更快地移动训练和运行高级 AI 模型所需的海量数据集。",
+      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     }
   ]
 }
