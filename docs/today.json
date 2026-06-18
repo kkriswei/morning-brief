@@ -2,6 +2,36 @@
   "date": "2026-06-18",
   "articles": [
     {
+      "author": "Caroline Ryan",
+      "content": "",
+      "created_at": "2026-06-18T20:09:17Z",
+      "headline": "Anthropic Makes 'Fetch' Happen As New Claude Models Beat Human Teams on Robotics Planning Tasks",
+      "id": 53291817,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/The-Claude-App-Icon-Is-Visible-On-An-Iph.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/The-Claude-App-Icon-Is-Visible-On-An-Iph.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/The-Claude-App-Icon-Is-Visible-On-An-Iph.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Anthropic reran its &#34;Project Fetch&#34; robotics test and found its newer Claude models could outperform the previous generation. ",
+      "symbols": [],
+      "updated_at": "2026-06-18T20:09:18Z",
+      "url": "https://www.benzinga.com/markets/private-markets/26/06/53291817/anthropic-fetch-claude-operates-robots-faster-than-humans",
+      "_summary": "Anthropic reran its \"Project Fetch\" robotics test and found its newer Claude models could outperform the previous generation. In its latest write-up, Anthropic detailed three trials using Claude Opus 4.7 inside Claude Code, with a researcher mainly connecting a laptop to the robot, entering the initial prompt, and approving commands and task transitions. The original experiment, run in August 2025, compared Anthropic employees with Claude support against a group limited to web research and their own problem-solving. Anthropic said Opus 4.7, running without human help, finished the subset of tested objectives at speeds it described as roughly 20 times faster than the quickest human team on tasks participants had completed less than a year earlier. The company also said that for any step at least one human team completed in phase one, Opus 4.7 finished that same step at least 10 times faster.",
+      "_zh_headline": "Anthropic 让“Fetch”成为现实，新的克劳德模型在机器人规划任务上击败人类团队",
+      "_zh_summary": "Anthropic 重新进行了“Project Fetch”机器人测试，发现其较新的 Claude 模型的性能可能优于上一代。 Anthropic 在最新的文章中详细介绍了在 Claude Code 中使用 Claude Opus 4.7 的三项试验，研究人员主要将笔记本电脑连接到机器人，输入初始提示，并批准命令和任务转换。最初的实验于 2025 年 8 月进行，将得到克劳德支持的 Anthropic 员工与仅限于网络研究和自己解决问题的团队进行了比较。 Anthropic 表示，Opus 4.7 在没有人类帮助的情况下运行，完成了测试目标的子集，其速度比最快的人类团队快了大约 20 倍，参与者完成的任务不到一年前。该公司还表示，对于至少一个人类团队在第一阶段完成的任何步骤，Opus 4.7 完成同一步骤的速度至少快 10 倍。",
+      "_added_at": "2026-06-18T23:19:19.096209+00:00"
+    },
+    {
       "headline": "What Iran and US get from deal and why both could struggle to keep it",
       "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
       "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
@@ -492,18 +522,6 @@
       "_summary": "While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.",
       "_zh_headline": "在达成协议之前，特朗普要求伊朗投降。他有一个惊喜。",
       "_zh_summary": "尽管伊朗人在战争中遭受了巨大损失，但他们在与世界上最强大的军队的对抗中脱颖而出，证明了他们可以利用经济混乱作为武器。",
-      "_added_at": "2026-06-18T05:19:59.963125+00:00"
-    },
-    {
-      "headline": "Trump Defends Deal to End the War With Iran as Details Emerge",
-      "summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-18T03:09:17+00:00",
-      "_summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
-      "_zh_headline": "随着细节浮出水面，特朗普捍卫结束与伊朗战争的协议",
-      "_zh_summary": "特朗普总统猛烈抨击批评人士，称该协议取得的成果低于巴拉克·奥巴马总统 2015 年签署的协议，并威胁称，如果伊朗违反该协议，他将再次轰炸伊朗。",
       "_added_at": "2026-06-18T05:19:59.963125+00:00"
     }
   ]
