@@ -2,6 +2,100 @@
   "date": "2026-06-18",
   "articles": [
     {
+      "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+      "summary": "The attack, which shut down the capital’s airports for several hours, appeared to be the biggest wave of strikes on the city since the start of the war.",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-18T13:12:43+00:00",
+      "_summary": "The attack, which shut down the capital’s airports for several hours, appeared to be the biggest wave of strikes on the city since the start of the war.",
+      "_zh_headline": "乌克兰大规模无人机袭击莫斯科炼油厂",
+      "_zh_summary": "这次袭击导致首都机场关闭了几个小时，这似乎是自战争开始以来该市最大规模的袭击浪潮。",
+      "_added_at": "2026-06-18T13:48:22.376185+00:00"
+    },
+    {
+      "headline": "Trump signs agreement with Iran. And, the president's approval hits record lows",
+      "summary": "Trump signed a preliminary agreement with Iran yesterday to end the war and open the Strait of Hormuz. And, the president's approval rating has hit a record low, according to a new NPR poll.",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-18T07:11:34-04:00",
+      "_summary": "President Trump yesterday signed a framework agreement to end the war with Iran during a dinner with French President Emmanuel Macron at Versailles. Earlier that day, the Trump administration shared details of the deal while Trump answered reporters' questions at a press conference capping off his visit to the G7 summit. The framework also aims to restore oil flows through the Strait of Hormuz. In the document, Iran commits to not building a nuclear weapon, while the U.S. says it is prepared to lift decades of sanctions, potentially allowing Iran to rebuild its devastated economy. President Trump speaks during a media conference at the end of the G7 summit in Evian-les-Bains, France, on June 17. Anna Moneymaker/Getty Images hide caption Trump's approval ratings continue to fall to record lows, particularly over his handling of the economy, according to the latest NPR/PBS News/Marist poll.",
+      "_zh_headline": "特朗普与伊朗签署协议。而且，总统的支持率创下历史新低",
+      "_zh_summary": "特朗普总统昨天在凡尔赛宫与法国总统马克龙共进晚餐时签署了结束与伊朗战争的框架协议。当天早些时候，特朗普政府分享了该协议的细节，同时特朗普在七国集团峰会结束之行的新闻发布会上回答了记者的问题。该框架还旨在恢复通过霍尔木兹海峡的石油流动。在文件中，伊朗承诺不制造核武器，而美国则表示准备解除数十年的制裁，这可能会让伊朗重建遭受重创的经济。 6 月 17 日，特朗普总统在法国埃维昂莱班七国集团峰会结束后的媒体会议上发表讲话。Anna Moneymaker/Getty Images 隐藏标题 根据 NPR/PBS News/Marist 的最新民意调查，特朗普的支持率继续跌至历史新低，尤其是在他对经济的处理方面。",
+      "_added_at": "2026-06-18T13:48:22.376185+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-18T11:33:40Z",
+      "headline": "Forget The June Fed Pause: Citadel Warns 'Second-Round Effects' Will Force A September Rate Hike",
+      "id": 53271236,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Fed-Wording-With-Up-And-Down-Arrow-On-Us_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Fed-Wording-With-Up-And-Down-Arrow-On-Us_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Fed-Wording-With-Up-And-Down-Arrow-On-Us_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Citadel warns the June Fed pause is temporary. Accelerating inflation and &#39;second-round effects&#39; will force a September rate hike.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-18T11:33:41Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53271236/forget-the-june-fed-pause-citadel-warns-second-round-effects-will-force-a-september-rate-hike",
+      "_summary": "The firm warns that temporary supply shocks are structurally altering the U.S. economy, rendering the June pause a brief intermission before “second-round effects” inevitably forcing a September rate hike. While the FOMC maintained the target range for the federal funds rate at 3.5% to 3.75% during Chairman Kevin Warsh 's first meeting , Citadel's analysis suggests underlying economic indicators tell a far more aggressive story.",
+      "_zh_headline": "忘掉 6 月美联储的暂停吧：Citadel 警告“第二轮效应”将迫使 9 月加息",
+      "_zh_summary": "该公司警告称，暂时的供应冲击正在结构性地改变美国经济，使 6 月的暂停成为短暂的间歇期，然后“第二轮效应”不可避免地迫使 9 月加息。尽管 FOMC 在主席凯文·沃什 (Kevin Warsh) 第一次会议上将联邦基金利率的目标区间维持在 3.5% 至 3.75%，但 Citadel 的分析表明，基本经济指标讲述了一个更为激进的故事。",
+      "_added_at": "2026-06-18T13:48:22.376185+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-18T11:46:15Z",
+      "headline": "What Is Going On With Micron Stock On Thursday?",
+      "id": 53271476,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Micron-Technology-Logo-Over-Blue-Printed.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Micron-Technology-Logo-Over-Blue-Printed.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Micron-Technology-Logo-Over-Blue-Printed.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron (NASDAQ: MU) stock climbed over 4% after Apple CEO Tim Cook revealed that soaring memory chip costs are making consumer gadget price hikes completely unavoidable.",
+      "symbols": [
+        "AAPL",
+        "DAX",
+        "MU",
+        "SOXQ",
+        "SOXX"
+      ],
+      "updated_at": "2026-06-18T11:46:16Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53271476/what-is-going-on-with-micron-stock-on-thursday-3",
+      "_summary": "Micron Technology Inc (NASDAQ: MU ) stock climbed Thursday as rising memory-chip prices, analyst price-forecast hikes, and AI-driven demand lifted sentiment ahead of the company's June 24 earnings report. Apple CEO Tim Cook told the Wall Street Journal that price increases were \"unavoidable\" because memory-chip costs have become \"unsustainable,\" citing \"less supply\" while \"the memory guys are passing along huge price increases.\"",
+      "_zh_headline": "周四美光股票发生了什么？",
+      "_zh_summary": "美光科技 (NASDAQ: MU) 股价周四攀升，原因是存储芯片价格上涨、分析师价格预测上调以及人工智能驱动的需求在该公司 6 月 24 日公布盈利报告之前提振了市场情绪。苹果首席执行官蒂姆·库克对《华尔街日报》表示，涨价是“不可避免的”，因为内存芯片的成本已经变得“不可持续”，理由是“供应减少”，而“内存厂商却在大幅提价”。",
+      "_added_at": "2026-06-18T13:48:22.376185+00:00"
+    },
+    {
       "author": "Benzinga Newsdesk",
       "content": "",
       "created_at": "2026-06-18T08:23:09Z",
