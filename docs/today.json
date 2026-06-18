@@ -2,6 +2,227 @@
   "date": "2026-06-18",
   "articles": [
     {
+      "headline": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-18T15:53:55+00:00",
+      "_summary": "The memorandum of understanding signed by President Donald Trump and President Masoud Pezeshkian of Iran lays out the political, military and economic consequences of the ill-judged decision to attack Iran on 28 February. The human cost is already clear. Thousands have been killed, many of them civilians, in Iran and Lebanon. The US, and by extension Israel, have suffered a strategic defeat. The regime in Tehran faced its worst nightmare: a joint military operation to cripple or destroy it by the US, the world's strongest power, and Israel, the Middle East's superpower. The regime has not just survived. It has been empowered. Its strategy of blocking the Strait of Hormuz, and with it one fifth of the world's supplies of oil and gas as well as other vital components in the global economy, has forced Trump to agree to a series of concessions that have infuriated and alarmed America's Iran hawks and the Israeli government.",
+      "_zh_headline": "鲍文：美伊协议引发了不可避免的问题：战争的目的是什么",
+      "_zh_summary": "唐纳德·特朗普总统和伊朗总统马苏德·佩泽什基安签署的谅解备忘录列出了 2 月 28 日错误决定袭击伊朗的政治、军事和经济后果。人力成本已经很明显了。伊朗和黎巴嫩有数千人被杀，其中许多是平民。美国以及以色列都遭受了战略失败。德黑兰政权面临着最可怕的噩梦：世界最强大的国家美国和中东超级大国以色列发起联合军事行动，削弱或摧毁它。该政权不仅幸存下来。它已被授权。它封锁霍尔木兹海峡的战略，以及由此带来的占世界五分之一的石油和天然气以及全球经济其他重要组成部分的供应，迫使特朗普同意一系列让步，这些让步激怒了美国的伊朗鹰派和以色列政府。",
+      "_added_at": "2026-06-18T17:43:16.315166+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-18T16:33:55Z",
+      "headline": "Nasdaq 100 Rallies, Oil Sinks To $75 On Iran Peace Deal: Stock Market Today",
+      "id": 53283834,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Oil-Derricks-Silhouette--Double-Exposure.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Oil-Derricks-Silhouette--Double-Exposure.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Oil-Derricks-Silhouette--Double-Exposure.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Stocks staged a broad rebound Thursday as a signed U.S.-Iran peace deal sank oil and an Intel-Apple chip pact powered semis.",
+      "symbols": [
+        "AAPL",
+        "ACN",
+        "ALAB",
+        "AMD",
+        "AVGO",
+        "CTSH",
+        "DIA",
+        "EPAM",
+        "FRMI",
+        "G",
+        "GDX",
+        "GLOB",
+        "INTC",
+        "ITB",
+        "IWM",
+        "JETS",
+        "MRVL",
+        "MU",
+        "OIH",
+        "QQQ",
+        "QS",
+        "SMH",
+        "SNDK",
+        "SPY",
+        "VOO",
+        "XLE",
+        "XLK",
+        "XLU",
+        "XLV",
+        "XOP"
+      ],
+      "updated_at": "2026-06-18T16:33:55Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/53283834/nasdaq-100-rallied-intel-apple-deal-oil-sinks-on-iran-peace-deal",
+      "_summary": "U.S. stocks rebounded Thursday, led by a sharp rally in semiconductors, as a signed U.S.-Iran peace deal sent oil tumbling and an Intel-Apple chip manufacturing pact lit a fire under technology shares. The rebound came one day after stocks slumped when the Federal Reserve – in Kevin Warsh ‘s first meeting as chair – held its benchmark rate at 3.50%-3.75% but raised its inflation outlook and signaled a growing bias among officials toward hiking later this year.",
+      "_zh_headline": "纳斯达克 100 指数上涨，伊朗和平协议导致油价跌至 75 美元：今日股市",
+      "_zh_summary": "美国股市周四在半导体大幅上涨的带动下反弹，美国与伊朗签署的和平协议导致油价暴跌，而英特尔-苹果芯片制造协议则点燃了科技股的热情。反弹出现的前一天，股市暴跌，当时美联储在凯文·沃什(Kevin Warsh)担任主席的第一次会议上将基准利率维持在3.50%-3.75%，但上调了通胀前景，并表明官员们对今年晚些时候加息的偏见越来越大。",
+      "_added_at": "2026-06-18T17:43:16.315166+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-18T17:38:44Z",
+      "headline": "Apple's Price-Hike Warning Exposes AI's Hidden Cost—And A Fresh ETF Opportunity",
+      "id": 53286214,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Apple-Ceo-Tim-Cook-Smiles-And-Claps-Duri.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Apple-Ceo-Tim-Cook-Smiles-And-Claps-Duri.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Apple-Ceo-Tim-Cook-Smiles-And-Claps-Duri.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple says AI-driven demand is spiking memory-chip costs, spotlighting semiconductor ETFs and Korea-focused funds as potential beneficiaries.",
+      "symbols": [
+        "AAPL",
+        "DRAM",
+        "EWY",
+        "FLKR",
+        "MU",
+        "SHOC",
+        "SMH",
+        "SNDK",
+        "SOXX",
+        "XSD"
+      ],
+      "updated_at": "2026-06-18T17:38:45Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/53286214/apples-price-hike-warning-exposes-ais-hidden-cost-etf-opportunities",
+      "_summary": "In an interview with The Wall Street Journal , Apple CEO Tim Cook said surging demand from AI data centers has tightened supply and driven up memory chip prices. Increasing production is being diverted to high-bandwidth memory (HBM), a specialized DRAM used in AI servers, reducing availability for consumer electronics. The resulting squeeze is forcing companies like Apple to either absorb higher costs or pass them on to consumers.",
+      "_zh_headline": "苹果的涨价警告暴露了人工智能的隐性成本——以及新的 ETF 机会",
+      "_zh_summary": "苹果首席执行官蒂姆·库克在接受《华尔街日报》采访时表示，人工智能数据中心的需求激增导致供应紧张，并推高了存储芯片的价格。越来越多的产量正在转向高带宽内存（HBM），这是一种用于人工智能服务器的专用 DRAM，从而降低了消费电子产品的可用性。由此产生的挤压迫使苹果等公司要么承担更高的成本，要么将其转嫁给消费者。",
+      "_added_at": "2026-06-18T17:43:16.315166+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-18T17:35:26Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "id": 53286088,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": " ",
+      "symbols": [
+        "AAOI",
+        "CIFR",
+        "IBM",
+        "INTC",
+        "INTU",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "QCOM",
+        "WULF"
+      ],
+      "updated_at": "2026-06-18T17:35:26Z",
+      "url": "https://www.benzinga.com/insights/options/26/06/53286088/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-18T17:43:16.315166+00:00"
+    },
+    {
+      "author": "Daragh Thomas",
+      "content": "",
+      "created_at": "2026-06-18T15:46:07Z",
+      "headline": "Trump Says Rate Hikes 'Keep A Country Down,' But Prediction Markets Say His Own Fed Chair Has Teed One Up",
+      "id": 53282137,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Federal-Reserve-Building.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Federal-Reserve-Building.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Federal-Reserve-Building.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Fed Chair Warsh signals a potential rate hike, defying Trump&#39;s calls for easing. Check the latest Polymarket and Kalshi odds on why a 2026 rate hike is back on the table.",
+      "symbols": [
+        "GLD"
+      ],
+      "updated_at": "2026-06-18T15:46:08Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53282137/trump-says-rate-hikes-keep-a-country-down-but-prediction-markets-say-his-own-fed-chair-has-teed-one-up",
+      "_summary": "President Donald Trump says raising interest rates “just keeps a country down.” But Kevin Warsh , the Fed chair he picked to deliver cuts, yesterday teed up the opposite. The Federal Reserve held its benchmark rate at 3.5% to 3.75% on Wednesday at Warsh’s first meeting as chairman . The vote was unanimous, but the projections flipped hawkish. Nine of 18 policymakers now expect a hike before year-end, six of them two, lifting the median year-end rate to 3.8% from 3.4% in March.",
+      "_zh_headline": "特朗普表示加息“会让一个国家陷入低迷”，但预测市场称他自己的美联储主席已经加息了",
+      "_zh_summary": "唐纳德·特朗普总统表示，加息“只会让一个国家陷入困境”。但他挑选的美联储主席凯文·沃什(Kevin Warsh)昨天却做出了相反的决定。周三，在沃什作为主席的首次会议上，美联储将基准利率维持在 3.5% 至 3.75%。投票结果一致，但预测转为鹰派。目前，18 名政策制定者中有 9 人预计年底前加息，其中 6 人预计加息，将年终利率中值从 3 月份的 3.4% 提高至 3.8%。",
+      "_added_at": "2026-06-18T17:43:16.315166+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-06-18T16:00:19Z",
+      "headline": "Take Chips Off The Table Before AI Trade Turns, UBS Warns",
+      "id": 53282704,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Creative-Ai-Background-With-Forex-Chart-_0.jpeg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Creative-Ai-Background-With-Forex-Chart-_0.jpeg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Creative-Ai-Background-With-Forex-Chart-_0.jpeg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "UBS warns investors to reduce risk in tech stocks as AI trade becomes crowded and macro conditions are uncertain.",
+      "symbols": [
+        "AMD",
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-06-18T16:00:19Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53282704/take-chips-off-the-table-before-ai-trade-turns-ubs-warns",
+      "_summary": "The UBS Group's trading desk sent a warning to clients late Wednesday, urging investors to “reduce risk meaningfully” in tech stocks as the AI trade grows increasingly crowded. The bank’s traders flagged a troubling shift in how markets are pricing AI-related names, particularly in semiconductors.",
+      "_zh_headline": "瑞银警告称，在人工智能贸易转向之前先下手为强",
+      "_zh_summary": "瑞银集团交易部门周三晚间向客户发出警告，敦促投资者随着人工智能交易变得越来越拥挤，“有意义地降低”科技股的风险。该银行的交易员指出，市场对人工智能相关企业（尤其是半导体企业）的定价方式发生了令人不安的转变。",
+      "_added_at": "2026-06-18T17:43:16.315166+00:00"
+    },
+    {
       "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
       "summary": "The attack, which shut down the capital’s airports for several hours, appeared to be the biggest wave of strikes on the city since the start of the war.",
       "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
@@ -341,40 +562,6 @@
       "_summary": "“Unfortunately, price increases are unavoidable,” Cook said in a Wall Street Journal interview published Wednesday. “We’re doing our best to mitigate the huge increases that are being passed to us, but the situation has become unsustainable.” Cook declined to specify which devices will see higher sticker tags or when changes will take effect. Apple's next major launch — the iPhone 18 lineup, which is anticipated to include a foldable model — is expected in September.",
       "_zh_headline": "苹果因内存成本飙升将提价：CEO蒂姆·库克称“这是一场100年一遇的洪水”",
       "_zh_summary": "“不幸的是，价格上涨是不可避免的，”库克在周三发表的《华尔街日报》采访中表示。 “我们正在尽最大努力减轻传递给我们的巨大增长，但情况已经变得不可持续。”库克拒绝具体说明哪些设备将看到更高的贴纸标签或更改何时生效。苹果的下一次重大发布——iPhone 18 系列，预计将包括可折叠机型——预计将于 9 月发布。",
-      "_added_at": "2026-06-18T05:19:59.963125+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-06-18T04:36:51Z",
-      "headline": "Nvidia Supplier SK Hynix Ships Next-Generation HBM Memory Samples To Major Customers",
-      "id": 53267631,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Sk-Hynix-America-Headquarters-In-San-Jos.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Sk-Hynix-America-Headquarters-In-San-Jos.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Sk-Hynix-America-Headquarters-In-San-Jos.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SK Hynix shipped samples of its next-generation HBM4E AI memory chips to major customers as demand for AI infrastructure surge.",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SSNLF"
-      ],
-      "updated_at": "2026-06-18T04:36:52Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53267631/nvidia-supplier-sk-hynix-ships-next-gen-hbm-samples-as-ai-demand-surges",
-      "_summary": "In a statement, the South Korean memory giant said that it has started supplying samples of its next-generation 12-layer HBM4E chips for customer evaluation. The new memory delivers transfer speeds of up to 16 gigabits per second per pin and offers more than 20% better power efficiency compared with previous-generation products. HBM is a critical component in AI accelerators and graphics processors because it enables faster movement of massive datasets required to train and run advanced AI models.",
-      "_zh_headline": "Nvidia 供应商 SK Hynix 向主要客户提供下一代 HBM 内存样品",
-      "_zh_summary": "这家韩国内存巨头在一份声明中表示，已开始提供下一代 12 层 HBM4E 芯片的样品以供客户评估。与上一代产品相比，新款内存的每引脚传输速度高达 16 GB/秒，能效提高 20% 以上。 HBM 是 AI 加速器和图形处理器的关键组件，因为它可以更快地移动训练和运行高级 AI 模型所需的海量数据集。",
       "_added_at": "2026-06-18T05:19:59.963125+00:00"
     }
   ]
