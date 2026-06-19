@@ -2,6 +2,129 @@
   "date": "2026-06-19",
   "articles": [
     {
+      "headline": "The Costs of the Iran War: Thousands of Lives and Billions of Dollars",
+      "summary": "The human toll and economic costs mounted rapidly after the United States and Israel attacked Iran on Feb. 28.",
+      "url": "https://www.nytimes.com/2026/06/19/us/politics/iran-war-costs-deaths.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-19T09:04:22+00:00",
+      "_summary": "The human toll and economic costs mounted rapidly after the United States and Israel attacked Iran on Feb. 28.",
+      "_zh_headline": "伊朗战争的代价：数千人的生命和数十亿美元",
+      "_zh_summary": "2月28日美国和以色列袭击伊朗后，人员伤亡和经济损失迅速增加。",
+      "_added_at": "2026-06-19T12:32:21.296715+00:00"
+    },
+    {
+      "headline": "Trump’s Military Budget Hits Snags Amid Questions on Iran War Costs",
+      "summary": "Republicans and Democrats alike are casting doubt on a push for the largest military budget in history as the administration declines to disclose the cost of the war with Iran.",
+      "url": "https://www.nytimes.com/2026/06/19/us/politics/military-budget-congress-iran-trump-hegseth.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-19T09:02:25+00:00",
+      "_summary": "Republicans and Democrats alike are casting doubt on a push for the largest military budget in history as the administration declines to disclose the cost of the war with Iran.",
+      "_zh_headline": "特朗普的军事预算因伊朗战争费用问题而陷入困境",
+      "_zh_summary": "由于政府拒绝透露与伊朗的战争成本，共和党人和民主党人都对推动历史上最大的军事预算表示怀疑。",
+      "_added_at": "2026-06-19T12:32:21.296715+00:00"
+    },
+    {
+      "headline": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+      "summary": "The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia.",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-19T10:42:22+00:00",
+      "_summary": "The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia.",
+      "_zh_headline": "“游戏规则改变者”？还为时过早。但乌克兰在进攻莫斯科时表现得很软弱。",
+      "_zh_summary": "无人机袭击导致莫斯科上空升起滚滚浓烟，这增强了乌克兰将战争引向俄罗斯的希望。",
+      "_added_at": "2026-06-19T12:32:21.296715+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-19T12:17:37Z",
+      "headline": "Most Crowded Trade In Market History? 80% Of Fund Managers Are Now Piling Into Global Semiconductors",
+      "id": 60001409,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A record 80% of Wall Street warns &#39;long semiconductors&#39; is the most crowded AI trade in history, per the BofA June 2026 survey.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-19T12:17:37Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60001409/most-crowded-trade-in-market-history-80-of-fund-managers-are-now-piling-into-global-semiconductors",
+      "_summary": "An unprecedented 80% of global fund managers agree that being “long global semiconductors ” is currently the “most crowded trade” in market history. This overwhelming consensus signals that institutional concentration in artificial intelligence chips has reached a historic extreme, leaving tech investors highly exposed to sudden reversals. The Bank of America Global Fund Manager Survey revealed that investor concentration in semiconductor stocks has broken all previous records.",
+      "_zh_headline": "市场历史上最拥挤的交易？ 80% 的基金经理纷纷涌入全球半导体领域",
+      "_zh_summary": "前所未有的80%全球基金经理一致认为，“做多全球半导体”是目前市场历史上“最拥挤的交易”。这种压倒性的共识表明，机构对人工智能芯片的集中度已达到历史极限，使科技投资者面临突然逆转的高度风险。美国银行全球基金经理调查显示，投资者对半导体股票的集中度打破了以往的所有记录。",
+      "_added_at": "2026-06-19T12:32:21.296715+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-19T10:05:13Z",
+      "headline": "US Treasury Is A 'Giant Ponzi'? Peter Schiff Warns There Is No ‘Easy Fix’ Left For $40 Trillion National Debt",
+      "id": 60000992,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/Gorvernment-Or-Public-National-Debt-Conc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/Gorvernment-Or-Public-National-Debt-Conc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/Gorvernment-Or-Public-National-Debt-Conc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Peter Schiff warns the $40T US financial system will ‘implode’ as interest costs explode. Read why the next debt crisis is unavoidable.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-19T10:05:13Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/60000992/us-treasury-is-a-giant-ponzi-peter-schiff-warns-there-is-no-easy-fix-left-for-40-trillion-national-debt",
+      "_summary": "Economist Peter Schiff has issued a stark warning to global investors, declaring that the escalating $40 trillion U.S. national debt has become completely unsustainable and will ultimately cause the entire American financial system to “implode.” According to Schiff, Washington and the Federal Reserve are trapped in a dangerous fiscal loop where they actively choose inflation over spending cuts to delay a broader economic collapse.",
+      "_zh_headline": "美国财政部是“巨型庞氏骗局”？彼得希夫警告说，40万亿美元的国家债务没有“简单的解决办法”",
+      "_zh_summary": "经济学家彼得·希夫向全球投资者发出严厉警告，宣称不断升级的40万亿美元美国国债已经完全不可持续，最终将导致整个美国金融体系“崩溃”。希夫表示，华盛顿和美联储陷入了危险的财政循环，他们积极选择通胀而不是削减开支，以推迟更广泛的经济崩溃。",
+      "_added_at": "2026-06-19T12:32:21.296715+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-19T09:58:28Z",
+      "headline": "Exploring The Competitive Space: Micron Technology Versus Industry Peers In Semiconductors &amp; Semiconductor Equipment",
+      "id": 60000896,
+      "images": [],
+      "source": "benzinga",
+      "summary": "In today&#39;s fast-paced and competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies before making investment decisions. In this article, we will conduct a",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-19T09:58:28Z",
+      "url": "https://www.benzinga.com/news/26/06/60000896/exploring-competitive-space-micron-technology-versus-industry-peers-semiconductors-amp-semiconductor",
+      "_summary": "In today's fast-paced and competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies before making investment decisions. In this article, we will conduct a",
+      "_zh_headline": "探索竞争空间：美光技术与半导体和半导体设备领域的同行",
+      "_zh_summary": "在当今快节奏、竞争激烈的商业环境中，投资者和行业爱好者在做出投资决策之前对公司进行彻底分析至关重要。在这篇文章中，我们将进行一次",
+      "_added_at": "2026-06-19T12:32:21.296715+00:00"
+    },
+    {
       "headline": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
       "summary": "The vice president said the United States had leverage to dictate the outcome of the next round of negotiations. But he claimed incorrectly that Iran got no new benefit from the lifting of oil sanctions.",
       "url": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html",
