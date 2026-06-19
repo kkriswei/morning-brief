@@ -2,6 +2,50 @@
   "date": "2026-06-19",
   "articles": [
     {
+      "headline": "Inside Hegseth’s War on Diversity and Blocked Promotions of Women and Black Officers",
+      "summary": "A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.",
+      "url": "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-19T14:25:52+00:00",
+      "_summary": "A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.",
+      "_zh_headline": "赫格塞斯对多元化的战争以及对女性和黑人军官的晋升受阻的内部",
+      "_zh_summary": "一位黑人海军上将解决了海军最严重的混乱之一。不管怎样，赫格斯先生还是阻止了他的晋升。",
+      "_added_at": "2026-06-19T16:19:16.056925+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-19T14:21:14Z",
+      "headline": "Goldman Cuts Gold Target To $4,900 As Markets Now Price Two Fed Hikes",
+      "id": 60001796,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/19/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Goldman Sachs lowered its gold price target to $4,900 per ounce by the end of 2026, citing delayed Fed cuts and growing market expectations for rate hikes through 2027.",
+      "symbols": [
+        "GLD"
+      ],
+      "updated_at": "2026-06-19T14:21:14Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60001796/goldman-sachs-cuts-gold-target-to-4900-as-markets-price-in-fed-rate-hikes",
+      "_summary": "Gold is down 8% month-to-date in June and one of Wall Street’s most bullish calls just got a haircut . Goldman Sachs lowered its year-end 2026 gold price target to $4,900 per ounce from $5,400, citing a more hawkish Federal Reserve outlook and weaker expectations for gold ETF demand. The bank said the revised forecast reflects delayed rate cuts and fading concerns about central bank independence following the first Federal Open Market Committee meeting under Fed Chair Kevin Warsh .",
+      "_zh_headline": "高盛将黄金目标下调至 4,900 美元，因市场目前预计美联储将加息两次",
+      "_zh_summary": "6 月份迄今为止，金价已下跌 8%，华尔街最看涨的预测之一刚刚被削减。高盛将2026年底金价目标从每盎司5,400美元下调至4,900美元，理由是美联储前景更加鹰派以及黄金ETF需求预期减弱。该行表示，修订后的预测反映了美联储主席凯文·沃什(Kevin Warsh)领导的首次联邦公开市场委员会会议后降息的推迟以及对央行独立性的担忧逐渐减弱。",
+      "_added_at": "2026-06-19T16:19:16.056925+00:00"
+    },
+    {
       "headline": "The Costs of the Iran War: Thousands of Lives and Billions of Dollars",
       "summary": "The human toll and economic costs mounted rapidly after the United States and Israel attacked Iran on Feb. 28.",
       "url": "https://www.nytimes.com/2026/06/19/us/politics/iran-war-costs-deaths.html",
