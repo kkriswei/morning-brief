@@ -2,6 +2,30 @@
   "date": "2026-06-18",
   "articles": [
     {
+      "headline": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+      "summary": "The vice president said the United States had leverage to dictate the outcome of the next round of negotiations. But he claimed incorrectly that Iran got no new benefit from the lifting of oil sanctions.",
+      "url": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-19T01:44:13+00:00",
+      "_summary": "Vice President JD Vance on Thursday defended the preliminary deal to stop the war with Iran as a “win for the American people.” But he relied in part on a string of aspirational, vague and misleading claims about the agreement. Mr. Vance, speaking at the White House, sought to counter criticism that the deal would reward and embolden Iran without ensuring that the United States achieved the main objectives laid out by President Trump at the start of the fighting. The vice president asserted that Iran would gain little if it did not agree to U.S. demands in the next phase of negotiations and will involve Iran’s nuclear program. “We have all the cards,” Mr. Vance said, adding, “If they change their behavior, big things are going to happen for Iran and for the world.",
+      "_zh_headline": "万斯对伊朗协议的辩护基于模糊和误导性的说法",
+      "_zh_summary": "副总统万斯周四为停止与伊朗战争的初步协议辩护，称其为“美国人民的胜利”。但他在一定程度上依赖于一系列有关该协议的雄心勃勃、模糊且具有误导性的说法。万斯在白宫发表讲话，试图反驳这样的批评：该协议将奖励和鼓舞伊朗，但无法确保美国实现特朗普总统在战斗开始时制定的主要目标。副总统断言，如果伊朗在下一阶段谈判中不同意美国的要求并涉及伊朗核计划，那么伊朗将得不到什么好处。 “我们掌握了所有牌，”万斯先生补充道，“如果他们改变行为，伊朗和世界都会发生大事。",
+      "_added_at": "2026-06-19T02:19:24.925885+00:00"
+    },
+    {
+      "headline": "Trump Redirects Millions From Secret Service Amid White House Construction",
+      "summary": "The White House insists that private donations are paying for a new ballroom, but the administration is using taxpayer money for a series of security upgrades.",
+      "url": "https://www.nytimes.com/2026/06/18/us/politics/trump-ballroom-security-secret-service-white-house.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-18T23:57:09+00:00",
+      "_summary": "The Trump administration has transferred about $350 million from the Secret Service to White House security upgrades as President Trump builds a luxury ballroom on the grounds with a secure military bunker underneath. Two transfers, of $340.8 million and $10.75 million , were made last week, according to the Office of Management and Budget. The Washington Post reported earlier on the transfer of funds . Mr. Trump has tried to ward off criticism of his plans to build a ballroom by insisting that private donations — not taxpayer money — would be used to pay for it. But the reality is more complicated. The Secret Service has acknowledged that taxpayer money will be used for “security enhancements” of the ballroom and the bunker. Rachel Cauley, the communications director for the White House Office of Management and Budget, said the funding was for security, not the construction of the ballroom itself.",
+      "_zh_headline": "特朗普在白宫建设期间从特勤局转移了数百万人的资金",
+      "_zh_summary": "特朗普政府已从特勤局拨款约 3.5 亿美元用于白宫安全升级，特朗普总统在场地上建造了一个豪华宴会厅，下面还有一个安全的军事掩体。据管理和预算办公室称，上周进行了两笔转账，金额分别为 3.408 亿美元和 1075 万美元。 《华盛顿邮报》早些时候报道了资金转移的情况。特朗普先生试图通过坚称将使用私人捐款（而不是纳税人的钱）来支付其建造宴会厅计划的批评，以避开对其建造宴会厅计划的批评。但现实要复杂得多。特勤局承认纳税人的钱将用于舞厅和地堡的“安全增强”。白宫管理和预算办公室通讯主管雷切尔·考利(Rachel Cauley)表示，这笔资金用于安全，而不是用于舞厅本身的建设。",
+      "_added_at": "2026-06-19T02:19:24.925885+00:00"
+    },
+    {
       "author": "Caroline Ryan",
       "content": "",
       "created_at": "2026-06-18T20:09:17Z",
@@ -475,54 +499,6 @@
       "_zh_headline": "今日股市：由于美联储维持利率不变，道琼斯指数和纳斯达克 100 指数期货在大幅抛售后飙升 - Freecast、Smith & Wesson 成为焦点",
       "_zh_summary": "美国股指期货周四上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二大幅抛售后上涨。周四将是本周的最后一个交易日，周五市场将因六月独立日休市。与此同时，10年期国债收益率为4.45%，两年期国债收益率为4.17%。",
       "_added_at": "2026-06-18T09:55:54.357880+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-18T09:40:18Z",
-      "headline": "Why Is Marvell Technology Stock Gaining Thursday?",
-      "id": 53269310,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Kanata--Ottawa--On--Canada---October-15-.jpeg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Kanata--Ottawa--On--Canada---October-15-.jpeg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/18/Kanata--Ottawa--On--Canada---October-15-.jpeg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "MRVL Technical Analysis: Marvell stock holds a powerful long-term uptrend near its 52-week high. Is a brief consolidation ahead?",
-      "symbols": [
-        "ARTY",
-        "FTXL",
-        "MRVL",
-        "SOXX",
-        "TSM"
-      ],
-      "updated_at": "2026-06-18T09:40:19Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53269310/why-is-marvell-technology-stock-gaining-thursday-2",
-      "_summary": "Although there was no fresh company announcement on Thursday, the report reinforced Marvell’s long-term AI growth narrative and kept attention on the stock after its strong rally over the past year. According to a Nikkei Asia report , Marvell plans to use Taiwan Semiconductor’s upcoming A14 (1.4-nanometer) process for next-generation AI chips as it deepens its focus on high-speed connectivity for AI data centers.",
-      "_zh_headline": "Marvell 科技股为何周四上涨？",
-      "_zh_summary": "尽管周四没有新的公司公告，但该报告强化了 Marvell 的长期人工智能增长叙述，并在过去一年强劲上涨后继续关注该股。据日经亚洲报道，Marvell 计划将台积电即将推出的 A14（1.4 纳米）工艺用于下一代 AI 芯片，以加深对 AI 数据中心高速连接的关注。",
-      "_added_at": "2026-06-18T09:55:54.357880+00:00"
-    },
-    {
-      "headline": "Before Making a Deal, Trump Demanded Iran’s Surrender. He Got a Surprise.",
-      "summary": "While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-18T01:21:45+00:00",
-      "_summary": "While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.",
-      "_zh_headline": "在达成协议之前，特朗普要求伊朗投降。他有一个惊喜。",
-      "_zh_summary": "尽管伊朗人在战争中遭受了巨大损失，但他们在与世界上最强大的军队的对抗中脱颖而出，证明了他们可以利用经济混乱作为武器。",
-      "_added_at": "2026-06-18T05:19:59.963125+00:00"
     }
   ]
 }
