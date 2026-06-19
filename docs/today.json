@@ -2,6 +2,34 @@
   "date": "2026-06-19",
   "articles": [
     {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-19T17:35:22Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60002363,
+      "images": [],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "symbols": [
+        "APLD",
+        "AVGO",
+        "HUT",
+        "MRVL",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "PATH",
+        "QCOM",
+        "SHOP"
+      ],
+      "updated_at": "2026-06-19T17:35:22Z",
+      "url": "https://www.benzinga.com/markets/options/26/06/60002363/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。\n鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。\n交易者经常",
+      "_added_at": "2026-06-19T18:18:35.094607+00:00"
+    },
+    {
       "headline": "Inside Hegseth’s War on Diversity and Blocked Promotions of Women and Black Officers",
       "summary": "A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.",
       "url": "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html",
