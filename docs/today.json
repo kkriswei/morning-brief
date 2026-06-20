@@ -2,6 +2,48 @@
   "date": "2026-06-20",
   "articles": [
     {
+      "headline": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-20T16:07:44+00:00",
+      "_summary": "The Iranian military says it has closed the Strait of Hormuz again over Israel's attacks on southern Lebanon. Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war. \"Do not approach the Strait of Hormuz; otherwise, your security will be jeopardized,\" Iran's Revolutionary Guard Corps Navy said. The US-Iran deal includes the reopening of the Strait of Hormuz - a shipping channel through which about 20% of the world's oil and liquefied natural gas passes. About two dozen people have reportedly been killed by Israeli airstrikes on southern Lebanon, less than 24 hours after a new ceasefire between Israel and Hezbollah was announced. The Iranian military accused the US of violating the US-Iran deal by not implementing the first clause in the 14-point memorandum of understanding , which agrees to \"the immediate and permanent termination of military operations on all fronts, including in Lebanon\".",
+      "_zh_headline": "伊朗表示将因以色列袭击黎巴嫩而关闭霍尔木兹海峡",
+      "_zh_summary": "伊朗军方表示，由于以色列袭击黎巴嫩南部，他们已再次关闭霍尔木兹海峡。伊朗表示，以色列对黎巴嫩的持续袭击违反了德黑兰与美国达成的结束战争协议。伊朗革命卫队海军表示：“不要接近霍尔木兹海峡；否则，你们的安全将受到威胁。”美伊协议包括重新开放霍尔木兹海峡——世界上约 20% 的石油和液化天然气都要经过这条航运通道。据报道，在以色列和真主党宣布新的停火不到 24 小时后，以色列对黎巴嫩南部的空袭造成约 20 人死亡。伊朗军方指责美国违反了美伊协议，没有执行14点谅解备忘录中的第一项，即“立即永久终止包括在黎巴嫩在内的所有战线的军事行动”。",
+      "_added_at": "2026-06-20T17:04:23.424844+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-20T15:30:53Z",
+      "headline": "Crude Oil Price Pops As Iran Closes Strait Of Hormuz",
+      "id": 60004404,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Brent and WTI crude oil benchmarks are rising today after Iran closed the Strait of Hormuz following the ongoing fighting in Lebanon.",
+      "symbols": [],
+      "updated_at": "2026-06-20T15:30:53Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60004404/crude-oil-price-pops-as-iran-closes-strait-of-hormuz",
+      "_summary": "Crude oil prices jumped today, June 20, on popular perpetual futures marketplaces like Hyperliquid and Aster, after Iran announced the sudden closure of the Strait of Hormuz. WTI jumped to $79, while Brent rose to $82. The two popular benchmarks have risen by 7% from their lowest levels this month. Iran has closed the Strait of Hormuz, citing the ongoing skirmishes in Lebanon and Gaza. This closure happened after Israel continued its strikes against Lebanon, killing at least 16 people. According to Reuters , Israel said that its strikes in South Lebanon were a response to Hezbollah attacks. It noted that Hezbollah launched over 50 projectiles towards Israel. At the same time, Hezbollah said that it would not allow Israel \"freedom of movement\" in Lebanon. Iran closed the Strait of Hormuz because peace in Lebanon is one of the 14 points of the deal that President Donald Trump and his Iranian counterpart signed this week.",
+      "_zh_headline": "伊朗关闭霍尔木兹海峡，原油价格上涨",
+      "_zh_summary": "伊朗宣布突然关闭霍尔木兹海峡后，6 月 20 日，Hyperliquid 和 Aster 等热门永续期货市场上的原油价格大幅上涨。 WTI 涨至 79 美元，布伦特原油涨至 82 美元。这两个受欢迎的基准指数较本月最低水平上涨了 7%。伊朗以黎巴嫩和加沙地带持续发生的小冲突为由，关闭了霍尔木兹海峡。此次关闭是在以色列继续袭击黎巴嫩并造成至少 16 人死亡之后发生的。据路透社报道，以色列表示，对黎巴嫩南部的袭击是对真主党袭击的回应。报告指出，真主党向以色列发射了 50 多枚射弹。与此同时，真主党表示不会允许以色列在黎巴嫩“行动自由”。伊朗关闭霍尔木兹海峡，因为黎巴嫩和平是唐纳德·特朗普总统和伊朗总统本周签署的协议的 14 点之一。",
+      "_added_at": "2026-06-20T17:04:23.424844+00:00"
+    },
+    {
       "author": "Benzinga Weekend Correspondent",
       "content": "",
       "created_at": "2026-06-20T14:31:29Z",
