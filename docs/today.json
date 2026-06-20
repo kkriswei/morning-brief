@@ -2,6 +2,42 @@
   "date": "2026-06-20",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-20T20:14:35Z",
+      "headline": "Top BofA Analyst Explains Why Sandisk Has More Upside After 4,755% Surge",
+      "id": 60004635,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Sandisk stock has soared since its spin off, and analysts at Bank of America believe that it has more upside to go in the near term.",
+      "symbols": [
+        "AAPL",
+        "MU",
+        "NVDA",
+        "SNDK",
+        "WDC"
+      ],
+      "updated_at": "2026-06-20T20:14:35Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60004635/top-bofa-analyst-explains-why-sandisk-has-more-upside-after-4755-surge",
+      "_summary": "Sandisk (NASDAQ: SNDK ) has been the best-performing company in the S&P 500 and Nasdaq 100 indices this year. It has soared by 800% since January, and is up by 4,755% in the last 12 months. This surge has turned it from a small Western Digital (NASDAQ: WDC ) spin-off into a $323 billion company. And in a recent note, a Bank of America analyst predicted that it has more upside to go. Wamsi Mohan, a top BofA analyst believes that Sandisk’s shares have more gains to go in the near term.",
+      "_zh_headline": "美国银行顶级分析师解释为何 Sandisk 在飙升 4,755% 后仍有更大上涨空间",
+      "_zh_summary": "Sandisk（纳斯达克股票代码：SNDK）是今年标准普尔 500 指数和纳斯达克 100 指数中表现最好的公司。自 1 月份以来已飙升 800%，在过去 12 个月内上涨了 4,755%。这一激增使其从西部数据（纳斯达克股票代码：WDC）的一家小型分拆公司发展成为一家价值 3,230 亿美元的公司。美国银行分析师在最近的一份报告中预测，该股还有更大的上涨空间。美国银行高级分析师瓦姆西·莫汉 (Wamsi Mohan) 认为，Sandisk 的股价短期内还有更多上涨空间。",
+      "_added_at": "2026-06-20T20:50:40.385905+00:00"
+    },
+    {
       "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
       "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
       "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
