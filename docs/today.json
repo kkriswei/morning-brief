@@ -1,38 +1,107 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "articles": [
     {
-      "author": "Crispus Nyaga",
+      "author": "Snigdha Gairola",
       "content": "",
-      "created_at": "2026-06-20T20:48:50Z",
-      "headline": "Micron Is Up 285% So Far This Year. Will It Surge or Crash After Earnings?",
-      "id": 60004657,
+      "created_at": "2026-06-21T05:42:48Z",
+      "headline": "Anthony Scaramucci Says Trump Has 'No Economic Philosophy,' Warns He Is On Pace To Spend $10 Trillion In Second Term",
+      "id": 60004900,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Anthony-Scaramucci--former-White-House-C.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Anthony-Scaramucci--former-White-House-C.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Anthony-Scaramucci--former-White-House-C.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Micron stock has jumped by 285% this year, helped by the ongoing memory chip shortage. Its earnings reports will be crucial.",
-      "symbols": [
-        "MU",
-        "WDC"
+      "summary": "Scaramucci criticized Trump’s economic policy, warning rising U.S. debt and spending could fuel inflation and deepen inequality.",
+      "symbols": [],
+      "updated_at": "2026-06-21T05:42:48Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/60004900/anthony-scaramucci-says-trump-has-no-economic-philosophy-warns-he-is-on-pace-to-spend-10-trillion-in-second-term",
+      "_summary": "Former White House communications director Anthony Scaramucci criticized President Donald Trump’s economic approach, arguing that rising federal spending and debt levels are pushing the U.S. toward inflation risks and potential financial instability. On Saturday, in a post on X , Scaramucci said Trump \"has no economic philosophy\" and pointed to surging federal spending across administrations. He said Trump oversaw $8.2 trillion in spending during his first term and is on pace for $9 trillion to $10 trillion in the current term. \"We’re at 100% debt to GDP held by investors. 122% if you count the Fed’s balance sheet,\" he wrote, adding that such levels resemble conditions linked to sovereign debt stress. He also cited investor Ray Dalio , saying high debt typically forces governments toward inflation as an easier way to manage obligations.",
+      "_zh_headline": "安东尼·斯卡拉穆奇称特朗普“没有经济哲学”，并警告称他将在第二个任期内花费 10 万亿美元",
+      "_zh_summary": "前白宫通讯主管安东尼·斯卡拉穆奇批评唐纳德·特朗普总统的经济方针，认为联邦支出和债务水平的上升正在将美国推向通胀风险和潜在的金融不稳定。周六，斯卡拉穆奇在 X 上发帖称，特朗普“没有经济哲学”，并指出历届政府的联邦支出激增。他表示，特朗普在第一个任期内监督了 8.2 万亿美元的支出，当前任期内的支出有望达到 9 万亿至 10 万亿美元。他写道：“投资者持有的债务占 GDP 的比例为 100%。如果算上美联储的资产负债表，则为 122%。”他补充说，这样的水平类似于与主权债务压力相关的情况。他还援引投资者雷·达利奥(Ray Dalio)的话说，高额债务通常会迫使政府将通胀作为管理债务的更简单方式。",
+      "_added_at": "2026-06-21T07:16:56.552970+00:00"
+    },
+    {
+      "author": "Snigdha Gairola",
+      "content": "",
+      "created_at": "2026-06-21T04:00:56Z",
+      "headline": "Adam Schiff Slams Trump, Says Americans Paid $60 Billion More For Gas During Iran War: 'Everything Is Going Up, Up, Up'",
+      "id": 60004847,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Adam-Schiff-speaks-during-House-Judiciar.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Adam-Schiff-speaks-during-House-Judiciar.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Adam-Schiff-speaks-during-House-Judiciar.jpg?width=250&height=187"
+        }
       ],
-      "updated_at": "2026-06-20T20:48:50Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60004657/micron-is-up-285-so-far-this-year-will-it-surge-or-crash-after-earnings",
-      "_summary": "MU stock has soared this year, mirroring the gains of companies in the memory industry like Samsung Electronics, SK Hynix, and Western Digital (NASDAQ: WDC ) . This surge has accelerated because of the ongoing supply shortage, which has led to a surge in prices, a trend that may continue over time. As a result, its revenue growth has accelerated, with the second quarter figure rising by 75% QoQ to $23 billion. This increase was up by 196% from the same period last year.",
-      "_zh_headline": "美光今年迄今已上涨 285%。盈利后会飙升还是崩盘？",
-      "_zh_summary": "MU 股价今年飙升，反映了三星电子、SK 海力士和西部数据（纳斯达克股票代码：WDC）等内存行业公司的收益。由于持续的供应短缺，这种飙升加速了，导致价格飙升，这种趋势可能会随着时间的推移而持续下去。因此，其收入增长加速，第二季度收入环比增长 75%，达到 230 亿美元。这一增幅比去年同期增长了196%。",
-      "_added_at": "2026-06-20T22:44:24.531308+00:00"
+      "source": "benzinga",
+      "summary": "Sen. Adam Schiff says Iran war is raising U.S. costs, citing higher gas prices and inflation while questioning a $300B reconstruction plan.",
+      "symbols": [],
+      "updated_at": "2026-06-21T04:00:56Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/60004847/adam-schiff-slams-trump-americans-paid-60-billion-more-gas-iran-war",
+      "_summary": "Sen. Adam Schiff (D-Calif.) said the ongoing conflict with Iran has driven up costs for American families, arguing that higher gas prices and broader inflation are being felt nationwide while criticizing a proposed foreign reconstruction plan. On Saturday, in a post on X alongside a speech clip, Schiff wrote, \"Since the start of the Iran War, our costs at home have gone higher and higher.\" He said that President Donald Trump is not doing enough to ease economic pressure, instead offering Iran a $300 billion reconstruction fund. \"This is hardly what people were expecting from a president promising America first,\" he added. In the accompanying clip, Schiff said Americans have paid \"$60 billion more for gas\" during the conflict and argued that global instability has pushed up prices across the economy. \"You paid $60 billion more for gas during the war,\" he said in the clip.",
+      "_zh_headline": "亚当·希夫猛烈抨击特朗普，称美国人在伊朗战争期间为天然气多支付了 600 亿美元：“一切都在上涨、上涨、上涨”",
+      "_zh_summary": "加利福尼亚州民主党参议员亚当·希夫表示，与伊朗的持续冲突推高了美国家庭的成本，他认为全国范围内都感受到了汽油价格上涨和更广泛的通货膨胀，同时批评了一项拟议的外国重建计划。周六，希夫在 X 上的一篇帖子和一段演讲片段中写道，“自伊朗战争爆发以来，我们在国内的成本越来越高。”他表示，特朗普总统在缓解经济压力方面做得不够，反而向伊朗提供了3000亿美元的重建基金。他补充道：“人们很难想象一位承诺美国优先的总统会做出这样的事情。”希夫在随附的视频中表示，冲突期间美国人“为天然气多支付了 600 亿美元”，并认为全球不稳定推高了整个经济领域的价格。 “战争期间你为天​​然气多支付了 600 亿美元，”他在视频中说道。",
+      "_added_at": "2026-06-21T07:16:56.552970+00:00"
+    },
+    {
+      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-20T17:40:43+00:00",
+      "_summary": "Lebanese environmental activist Mona Khalil, whose work helped turn a stretch of coastline in southern Lebanon into one of the eastern Mediterranean's most important nesting sites for endangered sea turtles, has died after being wounded in an Israeli strike. Khalil, 76, was injured when her house on Mansouri beach, near the southern city of Tyre, was hit during Israeli attacks in southern Lebanon two weeks ago. She died on Friday after several days in hospital, according to a local environmental group. Her death came as Israeli air strikes intensified across southern Lebanon, raising concerns about renewed violence despite diplomatic efforts to maintain a fragile regional peace. The BBC has reached out to the Israeli military for a response. \"She is a deeply committed environmental defender,\" Hisham Younes, the founder and president of Green Southerners, told the BBC.",
+      "_zh_headline": "黎巴嫩海龟保护主义者莫娜·哈利勒在以色列袭击中丧生",
+      "_zh_summary": "黎巴嫩环保活动人士莫娜·哈利勒在以色列的一次袭击中受伤后去世，她的工作帮助将黎巴嫩南部的一段海岸线变成了地中海东部最重要的濒危海龟筑巢地之一。两周前，以色列对黎巴嫩南部发动袭击，76 岁的哈利勒位于南部城市提尔附近曼苏里海滩的房屋遭到袭击，她受伤。据当地环保组织称，她在医院几天后于周五去世。她去世之际，以色列加强了对黎巴嫩南部的空袭，引发了人们对暴力事件再次发生的担忧，尽管外交努力维持了脆弱的地区和平。 BBC 已联系以色列军方寻求回应。 “她是一位坚定的环保卫士，”绿色南方人组织的创始人兼总裁希沙姆·尤尼斯 (Hisham Younes) 告诉英国广播公司 (BBC)。",
+      "_added_at": "2026-06-21T07:16:56.552970+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-20T15:30:53Z",
+      "headline": "Crude Oil Price Pops As Iran Closes Strait Of Hormuz",
+      "id": 60004404,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Brent and WTI crude oil benchmarks are rising today after Iran closed the Strait of Hormuz following the ongoing fighting in Lebanon.",
+      "symbols": [],
+      "updated_at": "2026-06-20T15:30:53Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60004404/crude-oil-price-pops-as-iran-closes-strait-of-hormuz",
+      "_summary": "Crude oil prices jumped today, June 20, on popular perpetual futures marketplaces like Hyperliquid and Aster, after Iran announced the sudden closure of the Strait of Hormuz. WTI jumped to $79, while Brent rose to $82. The two popular benchmarks have risen by 7% from their lowest levels this month. Iran has closed the Strait of Hormuz, citing the ongoing skirmishes in Lebanon and Gaza. This closure happened after Israel continued its strikes against Lebanon, killing at least 16 people. According to Reuters , Israel said that its strikes in South Lebanon were a response to Hezbollah attacks. It noted that Hezbollah launched over 50 projectiles towards Israel. At the same time, Hezbollah said that it would not allow Israel \"freedom of movement\" in Lebanon. Iran closed the Strait of Hormuz because peace in Lebanon is one of the 14 points of the deal that President Donald Trump and his Iranian counterpart signed this week.",
+      "_zh_headline": "伊朗关闭霍尔木兹海峡，原油价格上涨",
+      "_zh_summary": "伊朗宣布突然关闭霍尔木兹海峡后，6 月 20 日，Hyperliquid 和 Aster 等热门永续期货市场上的原油价格大幅上涨。 WTI 涨至 79 美元，布伦特原油涨至 82 美元。这两个受欢迎的基准指数较本月最低水平上涨了 7%。伊朗以黎巴嫩和加沙地带持续发生的小冲突为由，关闭了霍尔木兹海峡。此次关闭是在以色列继续袭击黎巴嫩并造成至少 16 人死亡之后发生的。据路透社报道，以色列表示，对黎巴嫩南部的袭击是对真主党袭击的回应。报告指出，真主党向以色列发射了 50 多枚射弹。与此同时，真主党表示不会允许以色列在黎巴嫩“行动自由”。伊朗关闭霍尔木兹海峡，因为黎巴嫩和平是唐纳德·特朗普总统和伊朗总统本周签署的协议的 14 点之一。",
+      "_added_at": "2026-06-21T07:16:56.552970+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -68,332 +137,40 @@
       "_summary": "Sandisk (NASDAQ: SNDK ) has been the best-performing company in the S&P 500 and Nasdaq 100 indices this year. It has soared by 800% since January, and is up by 4,755% in the last 12 months. This surge has turned it from a small Western Digital (NASDAQ: WDC ) spin-off into a $323 billion company. And in a recent note, a Bank of America analyst predicted that it has more upside to go. Wamsi Mohan, a top BofA analyst believes that Sandisk’s shares have more gains to go in the near term.",
       "_zh_headline": "美国银行顶级分析师解释为何 Sandisk 在飙升 4,755% 后仍有更大上涨空间",
       "_zh_summary": "Sandisk（纳斯达克股票代码：SNDK）是今年标准普尔 500 指数和纳斯达克 100 指数中表现最好的公司。自 1 月份以来已飙升 800%，在过去 12 个月内上涨了 4,755%。这一激增使其从西部数据（纳斯达克股票代码：WDC）的一家小型分拆公司发展成为一家价值 3,230 亿美元的公司。美国银行分析师在最近的一份报告中预测，该股还有更大的上涨空间。美国银行高级分析师瓦姆西·莫汉 (Wamsi Mohan) 认为，Sandisk 的股价短期内还有更多上涨空间。",
-      "_added_at": "2026-06-20T20:50:40.385905+00:00"
-    },
-    {
-      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
-      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-20T17:40:43+00:00",
-      "_summary": "Lebanese environmental activist Mona Khalil, whose work helped turn a stretch of coastline in southern Lebanon into one of the eastern Mediterranean's most important nesting sites for endangered sea turtles, has died after being wounded in an Israeli strike. Khalil, 76, was injured when her house on Mansouri beach, near the southern city of Tyre, was hit during Israeli attacks in southern Lebanon two weeks ago. She died on Friday after several days in hospital, according to a local environmental group. Her death came as Israeli air strikes intensified across southern Lebanon, raising concerns about renewed violence despite diplomatic efforts to maintain a fragile regional peace. The BBC has reached out to the Israeli military for a response. \"She is a deeply committed environmental defender,\" Hisham Younes, the founder and president of Green Southerners, told the BBC.",
-      "_zh_headline": "黎巴嫩海龟保护主义者莫娜·哈利勒在以色列袭击中丧生",
-      "_zh_summary": "黎巴嫩环保活动人士莫娜·哈利勒在以色列的一次袭击中受伤后去世，她的工作帮助将黎巴嫩南部的一段海岸线变成了地中海东部最重要的濒危海龟筑巢地之一。两周前，以色列对黎巴嫩南部发动袭击，76 岁的哈利勒位于南部城市提尔附近曼苏里海滩的房屋遭到袭击，她受伤。据当地环保组织称，她在医院几天后于周五去世。她去世之际，以色列加强了对黎巴嫩南部的空袭，引发了人们对暴力事件再次发生的担忧，尽管外交努力维持了脆弱的地区和平。 BBC 已联系以色列军方寻求回应。 “她是一位坚定的环保卫士，”绿色南方人组织的创始人兼总裁希沙姆·尤尼斯 (Hisham Younes) 告诉英国广播公司 (BBC)。",
-      "_added_at": "2026-06-20T18:55:28.877352+00:00"
-    },
-    {
-      "headline": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-20T16:07:44+00:00",
-      "_summary": "The Iranian military says it has closed the Strait of Hormuz again over Israel's attacks on southern Lebanon. Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war. \"Do not approach the Strait of Hormuz; otherwise, your security will be jeopardized,\" Iran's Revolutionary Guard Corps Navy said. The US-Iran deal includes the reopening of the Strait of Hormuz - a shipping channel through which about 20% of the world's oil and liquefied natural gas passes. About two dozen people have reportedly been killed by Israeli airstrikes on southern Lebanon, less than 24 hours after a new ceasefire between Israel and Hezbollah was announced. The Iranian military accused the US of violating the US-Iran deal by not implementing the first clause in the 14-point memorandum of understanding , which agrees to \"the immediate and permanent termination of military operations on all fronts, including in Lebanon\".",
-      "_zh_headline": "伊朗表示将因以色列袭击黎巴嫩而关闭霍尔木兹海峡",
-      "_zh_summary": "伊朗军方表示，由于以色列袭击黎巴嫩南部，他们已再次关闭霍尔木兹海峡。伊朗表示，以色列对黎巴嫩的持续袭击违反了德黑兰与美国达成的结束战争协议。伊朗革命卫队海军表示：“不要接近霍尔木兹海峡；否则，你们的安全将受到威胁。”美伊协议包括重新开放霍尔木兹海峡——世界上约 20% 的石油和液化天然气都要经过这条航运通道。据报道，在以色列和真主党宣布新的停火不到 24 小时后，以色列对黎巴嫩南部的空袭造成约 20 人死亡。伊朗军方指责美国违反了美伊协议，没有执行14点谅解备忘录中的第一项，即“立即永久终止包括在黎巴嫩在内的所有战线的军事行动”。",
-      "_added_at": "2026-06-20T17:04:23.424844+00:00"
+      "_added_at": "2026-06-21T07:16:56.552970+00:00"
     },
     {
       "author": "Crispus Nyaga",
       "content": "",
-      "created_at": "2026-06-20T15:30:53Z",
-      "headline": "Crude Oil Price Pops As Iran Closes Strait Of Hormuz",
-      "id": 60004404,
+      "created_at": "2026-06-20T20:48:50Z",
+      "headline": "Micron Is Up 285% So Far This Year. Will It Surge or Crash After Earnings?",
+      "id": 60004657,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Brent and WTI crude oil benchmarks are rising today after Iran closed the Strait of Hormuz following the ongoing fighting in Lebanon.",
-      "symbols": [],
-      "updated_at": "2026-06-20T15:30:53Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60004404/crude-oil-price-pops-as-iran-closes-strait-of-hormuz",
-      "_summary": "Crude oil prices jumped today, June 20, on popular perpetual futures marketplaces like Hyperliquid and Aster, after Iran announced the sudden closure of the Strait of Hormuz. WTI jumped to $79, while Brent rose to $82. The two popular benchmarks have risen by 7% from their lowest levels this month. Iran has closed the Strait of Hormuz, citing the ongoing skirmishes in Lebanon and Gaza. This closure happened after Israel continued its strikes against Lebanon, killing at least 16 people. According to Reuters , Israel said that its strikes in South Lebanon were a response to Hezbollah attacks. It noted that Hezbollah launched over 50 projectiles towards Israel. At the same time, Hezbollah said that it would not allow Israel \"freedom of movement\" in Lebanon. Iran closed the Strait of Hormuz because peace in Lebanon is one of the 14 points of the deal that President Donald Trump and his Iranian counterpart signed this week.",
-      "_zh_headline": "伊朗关闭霍尔木兹海峡，原油价格上涨",
-      "_zh_summary": "伊朗宣布突然关闭霍尔木兹海峡后，6 月 20 日，Hyperliquid 和 Aster 等热门永续期货市场上的原油价格大幅上涨。 WTI 涨至 79 美元，布伦特原油涨至 82 美元。这两个受欢迎的基准指数较本月最低水平上涨了 7%。伊朗以黎巴嫩和加沙地带持续发生的小冲突为由，关闭了霍尔木兹海峡。此次关闭是在以色列继续袭击黎巴嫩并造成至少 16 人死亡之后发生的。据路透社报道，以色列表示，对黎巴嫩南部的袭击是对真主党袭击的回应。报告指出，真主党向以色列发射了 50 多枚射弹。与此同时，真主党表示不会允许以色列在黎巴嫩“行动自由”。伊朗关闭霍尔木兹海峡，因为黎巴嫩和平是唐纳德·特朗普总统和伊朗总统本周签署的协议的 14 点之一。",
-      "_added_at": "2026-06-20T17:04:23.424844+00:00"
-    },
-    {
-      "author": "Benzinga Weekend Correspondent",
-      "content": "",
-      "created_at": "2026-06-20T14:31:29Z",
-      "headline": "Peace Talks Stall as Lebanon Fighting Escalates, Iran Closes Hormuz",
-      "id": 60004336,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Israel--Hezbollah-And-Lebanon-Flags-On-C.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Israel--Hezbollah-And-Lebanon-Flags-On-C.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Israel--Hezbollah-And-Lebanon-Flags-On-C.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Talks to end the war in the Middle East have stalled amid intense fighting between Israel and Hezbollah in southern Lebanon. ",
-      "symbols": [],
-      "updated_at": "2026-06-20T14:31:29Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60004336/us-iran-peace-talks-stall-as-israel-hezbollah-fighting-escalates-in-lebanon",
-      "_summary": "Talks between the US and Iran to end the nearly four‑month war in the Middle East have stalled amid intense fighting between Israel and Hezbollah in southern Lebanon. On Saturday, Iran again shut down passage through the Strait of Hormuz over the fighting. Iran has delayed negotiations that were meant to begin in Switzerland on Friday because of the ongoing fighting, Iran’s state-run broadcaster Press TV reported , citing Iranian Foreign Ministry spokesman Esmaeil Baghaei . Israeli attacks in southern Lebanon have violated the interim peace deal, he said. Under the terms of the agreement, the war on all fronts, including in Lebanon, should immediately end, Baghaei said. The US must also lift its naval blockade against Iran for the reopening of the Strait of Hormuz to commercial shipping, he said. The stalled talks and renewed clashes have injected fresh volatility into energy markets, with traders watching for any disruption to crude flows through the Strait of Hormuz.",
-      "_zh_headline": "黎巴嫩战斗升级，伊朗关闭霍尔木兹海峡，和平谈判陷入僵局",
-      "_zh_summary": "由于以色列和黎巴嫩真主党之间的激烈战斗，美国和伊朗之间结束近四个月中东战争的谈判陷入僵局。 周六，伊朗因战斗再次关闭霍尔木兹海峡的通道。伊朗国营广播公司 Press TV 援引伊朗外交部发言人埃斯梅尔·巴格哈伊 (Esmaeil Baghaei) 的话报道称，由于持续的战斗，伊朗推迟了原定于周五在瑞士开始的谈判。他说，以色列对黎巴嫩南部的袭击违反了临时和平协议。巴加伊说，根据协议条款，包括黎巴嫩在内的所有战线的战争应立即结束。他说，美国还必须解除对伊朗的海上封锁，以重新开放霍尔木兹海峡的商业航运。陷入僵局的谈判和重新爆发的冲突给能源市场带来了新的波动，交易员们正在关注霍尔木兹海峡原油流动是否受到干扰。",
-      "_added_at": "2026-06-20T14:42:19.700487+00:00"
-    },
-    {
-      "author": "Benzinga Senior Editor",
-      "content": "",
-      "created_at": "2026-06-20T14:18:59Z",
-      "headline": "Iran Has Closed Strait of Hormuz Over Israeli Strikes in Lebanon",
-      "id": 60004321,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Aramco-Reroutes-Tankers-From-Hormuz.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Aramco-Reroutes-Tankers-From-Hormuz.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Aramco-Reroutes-Tankers-From-Hormuz.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Iran said on Saturday it had shut the Strait of Hormuz again, a move that could disrupt a critical corridor for global crude shipments.",
-      "symbols": [],
-      "updated_at": "2026-06-20T14:18:59Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60004321/iran-has-closed-strait-of-hormuz-over-israeli-strikes-in-lebanon",
-      "_summary": "Iran said on Saturday it had shut the Strait of Hormuz again, a move that could disrupt a critical corridor for global crude shipments. The announcement tied the decision to what Tehran described as ceasefire breaches by the United States and Israel, along with ongoing Israeli military activity in Lebanon. According to Iran’s state-run Mehr news agency, the order came from the Khatam al-Anbiya Central Headquarters, which it the country’s top joint military command. Mehr reported the command warned the closure was only a \"first step,\" adding that further measures could follow if what Iran called aggression persists. The move lands only days after a U.S.-backed arrangement aimed at easing months of fighting and allowing vessels to resume transiting the waterway. Tankers had started using the route again after that agreement, according to the report.",
-      "_zh_headline": "伊朗因以色列袭击黎巴嫩而关闭霍尔木兹海峡",
-      "_zh_summary": "伊朗周六表示，已再次关闭霍尔木兹海峡，此举可能会扰乱全球原油运输的关键走廊。该声明将这一决定与德黑兰所说的美国和以色列违反停火以及以色列在黎巴嫩持续的军事活动联系在一起。据伊朗国营梅尔通讯社报道，该命令来自哈塔姆·安比亚中央总部，该总部是该国最高联合军事指挥部。梅尔报道称，该司令部警告称，关闭只是“第一步”，并补充说，如果伊朗所谓的侵略持续存在，可能会采取进一步措施。就在几天前，美国支持一项旨在缓解数月战斗并允许船只恢复通过该水道的安排。据报道，该协议签署后，油轮已再次开始使用该航线。",
-      "_added_at": "2026-06-20T14:42:19.700487+00:00"
-    },
-    {
-      "headline": "The Reflecting Pool Appears to Be Rejecting Its Makeover",
-      "summary": "As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.",
-      "url": "https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-20T13:29:17+00:00",
-      "_summary": "As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.",
-      "_zh_headline": "倒影池似乎拒绝改造",
-      "_zh_summary": "当国家公园管理局工作人员试图清除使水变成亮绿色的藻类时，另一个问题出现了：“美国国旗蓝”涂层正在脱落。",
-      "_added_at": "2026-06-20T14:42:19.700487+00:00"
-    },
-    {
-      "author": "Benzinga Senior Editor",
-      "content": "",
-      "created_at": "2026-06-20T12:02:06Z",
-      "headline": "Benzinga Bulls And Bears: SpaceX, SanDisk, Palantir — And Markets Volatile In Shortened Week",
-      "id": 60004198,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Bulls-and-Bears-1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Bulls-and-Bears-1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Bulls-and-Bears-1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+      "summary": "Micron stock has jumped by 285% this year, helped by the ongoing memory chip shortage. Its earnings reports will be crucial.",
       "symbols": [
-        "AAPL",
-        "ASTS",
-        "CRML",
-        "GPUS",
-        "IBM",
-        "LAC",
-        "MNTS",
-        "MP",
         "MU",
-        "PLTR",
-        "PPTA",
-        "RDW",
-        "SIDU",
-        "SNDK",
-        "SPCE",
-        "SPCX",
-        "TSLA",
-        "USAR",
-        "UUUU",
         "WDC"
       ],
-      "updated_at": "2026-06-20T12:02:06Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60004198/benzinga-bulls-and-bears-spacex-sandisk-palantir-and-markets-volatile-in-shortened-week",
-      "_summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories. Technology stocks, which had been the primary driver of gains earlier in the year, came under renewed pressure as rising Treasury yields weighed on valuations and prompted a rotation out of high-growth sectors.",
-      "_zh_headline": "Benzinga 牛市和熊市：SpaceX、SanDisk、Palantir — 市场在较短的一周内波动",
-      "_zh_summary": "本辛加上周研究了许多投资者最喜欢的股票的前景——以下是我们的一些热门报道。科技股曾是今年早些时候上涨的主要推动力，但随着美国国债收益率上升打压估值并促使其退出高增长板块，科技股再次面临压力。",
-      "_added_at": "2026-06-20T14:42:19.700487+00:00"
-    },
-    {
-      "headline": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
-      "summary": "A dozen miles away from the World Cup games in New York/ New Jersey Stadium, Palestinian-American kids turn to soccer as an escape from the realities of war.",
-      "url": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-20T06:00:00-04:00",
-      "_summary": "Omar Almashni during an evening practice with the Palestino Soccer Academy at Frank D Zaccaria Memorial Park in Woodland Park, New Jersey, on Saturday, June 6, 2026. José A. Alvarado Jr. for NPR hide caption PATERSON, NJ– It was a sweltering Saturday evening in Passaic County, in Northern New Jersey, when a team of about 60 kids took to the soccer field, flushed and dripping sweat. For these young athletes training just a short commute from the FIFA NY/NJ Stadium, the sport is an outlet for big dreams and big emotions. \"I'm telling you, without soccer the world has no meaning,\" said Taim Nadin, during a quick water break. \"Without soccer in life there's nothing. If I didn't play soccer, I'd be nothing, right?\" Taim Nadin participates in an evening practice at Frank D Zaccaria Memorial Park in Woodland Park, NJ, on June 6, 2026. José A. Alvarado Jr. for NPR hide caption",
-      "_zh_headline": "巴勒斯坦裔美国孩子在足球场上寻找灵感并逃离现实",
-      "_zh_summary": "2026 年 6 月 6 日星期六，奥马尔·阿尔马什尼 (Omar Almashni) 在新泽西州伍德兰帕克的弗兰克·D·扎卡里亚纪念公园 (Frank D Zaccaria Memorial Park) 与巴勒斯坦足球学院进行晚间训练。José A. Alvarado Jr. (NPR) 隐藏标题栏 新泽西州帕特森 - 这是新泽西州北部帕赛克县一个闷热的星期六晚上，一支由约 60 名孩子组成的球队走上足球场，脸红、大汗淋漓。对于这些在国际足联纽约/新泽西体育场附近训练的年轻运动员来说，这项运动是伟大梦想和情感的发泄口。 “我告诉你，如果没有足球，世界就没有任何意义，”泰姆·纳丁在快速喝水时说道。 “生活中没有足球就什么都不是。如果我不踢足球，我就什么都不是，对吧？” 2026 年 6 月 6 日，泰姆·纳丁 (Taim Nadin) 参加新泽西州伍德兰公园弗兰克·D·扎卡里亚纪念公园 (Frank D Zaccaria Memorial Park) 的晚间训练。José A. Alvarado Jr.（NPR）隐藏标题栏",
-      "_added_at": "2026-06-20T11:30:27.327119+00:00"
-    },
-    {
-      "headline": "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
-      "summary": "More oil is getting out of the Persian Gulf, but the region’s producers are looking for signs that it is safe as they ramp up plans for alternative routes.",
-      "url": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-20T09:02:32+00:00",
-      "_summary": "More oil is getting out of the Persian Gulf, but the region’s producers are looking for signs that it is safe as they ramp up plans for alternative routes.",
-      "_zh_headline": "矿山、物流和深度不确定性威胁中东石油反弹",
-      "_zh_summary": "更多石油正从波斯湾流出，但该地区的生产商正在寻找安全的迹象，同时加大替代路线的计划。",
-      "_added_at": "2026-06-20T11:30:27.327119+00:00"
-    },
-    {
-      "headline": "Disability Groups Fear RFK Jr.’s New Special Education Role",
-      "summary": "Alienated by Secretary Robert F. Kennedy Jr.’s claims about autism, advocates for disabled students are sounding the alarm about the Trump administration's shifting special education programs to his department.",
-      "url": "https://www.nytimes.com/2026/06/20/us/politics/special-education-rfk.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-20T09:02:12+00:00",
-      "_summary": "Alienated by Secretary Robert F. Kennedy Jr.’s claims about autism, advocates for disabled students are sounding the alarm about the Trump administration's shifting special education programs to his department.",
-      "_zh_headline": "残疾团体担心 RFK Jr. 的新特殊教育角色",
-      "_zh_summary": "残疾学生的倡导者们因国务卿小罗伯特·F·肯尼迪有关自闭症的言论而感到疏远，他们对特朗普政府将特殊教育项目转移到他的部门发出了警告。",
-      "_added_at": "2026-06-20T11:30:27.327119+00:00"
-    },
-    {
-      "headline": "Democratic Socialists Took City Hall. Now They’re Aiming at Congress.",
-      "summary": "After propelling Zohran Mamdani to become mayor of New York City, the Democratic Socialists of America are trying to take down incumbents in the House and the State Legislature.",
-      "url": "https://www.nytimes.com/2026/06/20/nyregion/dsa-mamdani-congress-nyc.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-20T07:00:07+00:00",
-      "_summary": "After propelling Zohran Mamdani to become mayor of New York City, the Democratic Socialists of America are trying to take down incumbents in the House and the State Legislature.",
-      "_zh_headline": "民主社会主义者占领了市政厅。现在他们瞄准了国会。",
-      "_zh_summary": "在推动佐兰·马姆达尼成为纽约市市长后，美国民主社会主义者正试图推翻众议院和州立法机构的现任议员。",
-      "_added_at": "2026-06-20T11:30:27.327119+00:00"
-    },
-    {
-      "headline": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
-      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-20T03:13:18+00:00",
-      "_summary": "World Cup fans flooded the streets in celebration in Seattle, Washington after the US beat Australia 2-0 to progress to the knockout round. Supporters dressed in the stars and stripes as well as green and gold came together to bask in football fever. BBC journalist Max Matza caught up with the fans to get their reactions. The Hollywood star is accused by fellow Australian actress Charlotte MacInnes of making defamatory statements. Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April. The boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag. BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit. The BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.",
-      "_zh_headline": "观看：世界杯球迷对美国击败澳大利亚进入淘汰赛的反应",
-      "_zh_summary": "美国队2-0击败澳大利亚队晋级淘汰赛后，华盛顿州西雅图的世界杯球迷涌上街头庆祝。身穿星条旗、绿色和金色服装的支持者聚集在一起，享受足球热潮。 BBC 记者马克斯·马特扎 (Max Matza) 采访了球迷，了解他们的反应。这位好莱坞明星被澳大利亚女演员夏洛特·麦金尼斯指控发表诽谤性言论。 Two-up 是一种掷硬币投注游戏，由澳大利亚士兵在第一次世界大战期间玩 - 现在只有 4 月 25 日才在澳大利亚合法。这名男孩没有受伤，但他的手臂和书包被后门夹住，被拖了350米。 BBC 新闻记者西蒙·阿特金森 (Simon Atkinson) 解释了这对夫妇的这次旅行与上次访问相比有何不同。英国广播公司采访了悉尼民众，了解他们对苏塞克斯公爵和公爵夫人澳大利亚之行的看法。",
-      "_added_at": "2026-06-20T08:33:17.361071+00:00"
-    },
-    {
-      "headline": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
-      "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-20T02:33:30+00:00",
-      "_summary": "African and Caribbean countries have called for a formal apology and reparations from countries that benefited from the transatlantic slave trade. The demands come at the end of a three day conference in Ghana which looked to advance the push for reparatory justice. It follows a landmark UN resolution earlier in March which recognised transatlantic slavery as the \"gravest crime against humanity\", urging UN member states to contribute to a reparations fund. Around 12-15 million African men, women and children were captured and trafficked to the Americas to work as slaves from the 15-19th century. A 19-point reparations plan has been endorsed as part of the \"Next Steps\" conference in the Ghanaian capital of Accra. It calls for comprehensive debt relief, the restitution of looted cultural property, and the establishment of a global reparations fund, though no specific amount was stated. It also addresses the disproportionate impact of slavery on African women and girls.",
-      "_zh_headline": "非洲和加勒比国家呼吁对跨大西洋奴隶制正式道歉",
-      "_zh_summary": "非洲和加勒比国家呼吁从跨大西洋奴隶贸易中受益的国家正式道歉并做出赔偿。这些要求是在加纳举行的为期三天的会议结束时提出的，该会议旨在推动赔偿性司法的进程。此前，联合国于三月初通过了一项具有里程碑意义的决议，该决议承认跨大西洋奴隶制是“最严重的危害人类罪”，并敦促联合国成员国为赔偿基金捐款。从 15 世纪到 19 世纪，大约有 12-1500 万非洲男人、女人和儿童被俘虏并被贩运到美洲充当奴隶。作为在加纳首都阿克拉举行的“下一步”会议的一部分，一项 19 点赔偿计划已得到批准。它呼吁全面减免债务，归还被掠夺的文化财产，并建立全球赔偿基金，但没有说明具体数额。它还解决了奴隶制对非洲妇女和女童造成的过度影响。",
-      "_added_at": "2026-06-20T08:33:17.361071+00:00"
-    },
-    {
-      "headline": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
-      "summary": "The conflict between Israel and Hezbollah, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it.",
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-19T22:31:39+00:00",
-      "_summary": "The conflict between Israel and Hezbollah, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it.",
-      "_zh_headline": "黎巴嫩成为美伊结束战争协议中的薄弱环节",
-      "_zh_summary": "以色列和真主党之间的冲突曾被视为美以对伊朗战争的次要战线，现已成为结束这场战争的主要障碍之一。",
-      "_added_at": "2026-06-20T04:53:28.725344+00:00"
-    },
-    {
-      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-19T19:27:12+00:00",
-      "_summary": "Israel and Hezbollah have agreed a ceasefire, a US official says, following intense Israeli air strikes in southern Lebanon that killed 47 people. The latest agreement followed concerns that continued clashes, which also saw Hezbollah kill four Israeli soldiers in Lebanon, would undermine the deal to end the war between the US and Iran. The Israeli military confirmed that a ceasefire was in effect, but later a spokesman said its forces would \"continue to remove immediate threats\". Hezbollah is yet to confirm the ceasefire but its secretary general, Sheikh Naim Qassem, said: \"The project to eliminate Hezbollah has failed.\" Rescue officials in the city of Nabatieh told the BBC there had been at least 12 air strikes since the ceasefire began at 16:00 local time (13:00 GMT). The deadly escalation is another sign that Donald Trump is not necessarily in control of the fate of his deal with Iran.",
-      "_zh_headline": "美国表示，以色列和真主党同意停火，据报道黎巴嫩发生更多袭击",
-      "_zh_summary": "一名美国官员表示，在以色列对黎巴嫩南部发动猛烈空袭并造成 47 人死亡后，以色列和真主党已同意停火。最新的协议是在人们担心持续的冲突（真主党在黎巴嫩杀死了四名以色列士兵）将破坏结束美国和伊朗之间战争的协议之后达成的。以色列军方证实停火已经生效，但随后发言人表示，其部队将“继续消除眼前的威胁”。真主党尚未确认停火，但其秘书长谢赫·纳伊姆·卡西姆表示：“消灭真主党的计划已经失败。”纳巴蒂耶市的救援官员告诉 BBC，自当地时间 16:00（格林威治标准时间 13:00）停火开始以来，至少发生了 12 次空袭。致命的升级是唐纳德·特朗普不一定能控制他与伊朗协议命运的另一个迹象。",
-      "_added_at": "2026-06-20T04:53:28.725344+00:00"
-    },
-    {
-      "headline": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-19T19:36:10+00:00",
-      "_summary": "Italy's prime minister, Giorgia Meloni, has said she is astonished after President Donald Trump told Italian TV she had \"begged\" him for a picture with her, in comments that have provoked an open row between the two leaders. Meloni said Trump's comments were entirely \"made-up\", and Italian Foreign Minister Antonio Tajani has cancelled a trip to the US early next week. The highly public exchange is an indication of how far their earlier close ties have frayed in the months since Trump's decision to go to war with Iran. Trump and Meloni were seen in close conversation at the G7 summit at Evian-les-Bains in eastern France this week, and the Italian leader later told reporters their relationship was unchanged and there had been \"no recriminations\". However, Trump has since given a phone interview with Italy's La7 TV channel in which he alleged: \"She begged me to take a photo with her; I felt sorry for her.\"",
-      "_zh_headline": "意大利的梅洛尼称特朗普“编造”了她“恳求”他在七国集团峰会上合影的故事",
-      "_zh_summary": "意大利总理乔治亚·梅洛尼表示，唐纳德·特朗普总统告诉意大利电视台，她“请求”他与她合影，她对此感到惊讶，这些言论引发了两国领导人之间的公开争吵。梅洛尼表示，特朗普的言论完全是“捏造的”，意大利外交部长安东尼奥·塔亚尼已取消下周初的美国之行。这种高度公开的交流表明，自特朗普决定与伊朗开战以来的几个月里，他们早先的密切关系已经恶化到何种程度。人们看到特朗普和梅洛尼本周在法国东部埃维昂莱班举行的七国集团峰会上进行了密切交谈，这位意大利领导人后来告诉记者，他们的关系没有改变，并且“没有相互指责”。然而，特朗普此后接受了意大利La7电视频道的电话采访，他在采访中声称：“她求我和她合影；我为她感到难过。”",
-      "_added_at": "2026-06-20T04:53:28.725344+00:00"
-    },
-    {
-      "headline": "Inside Hegseth’s War on Diversity and Blocked Promotions of Women and Black Officers",
-      "summary": "A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.",
-      "url": "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-19T14:25:52+00:00",
-      "_summary": "A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.",
-      "_zh_headline": "赫格塞斯对多元化的战争以及对女性和黑人军官的晋升受阻的内部",
-      "_zh_summary": "一位黑人海军上将解决了海军最严重的混乱之一。不管怎样，赫格斯先生还是阻止了他的晋升。",
-      "_added_at": "2026-06-20T04:53:28.725344+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-19T17:35:22Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "id": 60002363,
-      "images": [],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "symbols": [
-        "APLD",
-        "AVGO",
-        "HUT",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "PATH",
-        "QCOM",
-        "SHOP"
-      ],
-      "updated_at": "2026-06-19T17:35:22Z",
-      "url": "https://www.benzinga.com/markets/options/26/06/60002363/10-information-technology-stocks-whale-activity-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。\n鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。\n交易者经常",
-      "_added_at": "2026-06-20T04:53:28.725344+00:00"
+      "updated_at": "2026-06-20T20:48:50Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60004657/micron-is-up-285-so-far-this-year-will-it-surge-or-crash-after-earnings",
+      "_summary": "MU stock has soared this year, mirroring the gains of companies in the memory industry like Samsung Electronics, SK Hynix, and Western Digital (NASDAQ: WDC ) . This surge has accelerated because of the ongoing supply shortage, which has led to a surge in prices, a trend that may continue over time. As a result, its revenue growth has accelerated, with the second quarter figure rising by 75% QoQ to $23 billion. This increase was up by 196% from the same period last year.",
+      "_zh_headline": "美光今年迄今已上涨 285%。盈利后会飙升还是崩盘？",
+      "_zh_summary": "MU 股价今年飙升，反映了三星电子、SK 海力士和西部数据（纳斯达克股票代码：WDC）等内存行业公司的收益。由于持续的供应短缺，这种飙升加速了，导致价格飙升，这种趋势可能会随着时间的推移而持续下去。因此，其收入增长加速，第二季度收入环比增长 75%，达到 230 亿美元。这一增幅比去年同期增长了196%。",
+      "_added_at": "2026-06-21T07:16:56.552970+00:00"
     }
   ]
 }
