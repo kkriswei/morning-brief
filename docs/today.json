@@ -2,6 +2,44 @@
   "date": "2026-06-21",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-21T21:46:30Z",
+      "headline": "Investors Flee Cathie Wood's ARKK ETF As It Trails S&P 500, Nasdaq 100 By Far",
+      "id": 60005808,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/ARK-Invest-Photo-Cathie-Wood-3.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/ARK-Invest-Photo-Cathie-Wood-3.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Cathie Wood’s ARK Innovation ETF is shedding assets this year as it continues to underperform the technology-heavy Nasdaq 100 Index.",
+      "symbols": [
+        "ARKK",
+        "CRSP",
+        "HOOD",
+        "QQQM",
+        "SPCX",
+        "TSLA",
+        "VOO"
+      ],
+      "updated_at": "2026-06-21T21:46:30Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60005808/investors-flee-cathie-woods-arkk-etf-as-it-trails-sp-500-nasdaq-100-by-far",
+      "_summary": "Cathie Wood ’s ARK Innovation ETF (CBOE: ARKK) is shedding assets this year as it continues to underperform the technology-heavy Nasdaq 100 Index. Investors have withdrawn more than $313 million from the fund so far this year, bringing its assets under management down to $7.2 billion, well below its peak of $29 billion. The outflows stand in sharp contrast to the broader U.S. ETF market, which has attracted more than $1 trillion in inflows this year.",
+      "_zh_headline": "投资者逃离 Cathie Wood 的 ARKK ETF，因为它远远落后于标准普尔 500 指数和纳斯达克 100 指数",
+      "_zh_summary": "Cathie Wood 的 ARK Innovation ETF（CBOE：ARKK）今年将剥离资产，因为它的表现继续落后于以科技股为主的纳斯达克 100 指数。今年迄今为止，投资者已从该基金撤资超过 3.13 亿美元，使其管理的资产降至 72 亿美元，远低于 290 亿美元的峰值。这些资金流出与更广泛的美国 ETF 市场形成鲜明对比，该市场今年吸引了超过 1 万亿美元的资金流入。",
+      "_added_at": "2026-06-21T22:44:23.518287+00:00"
+    },
+    {
       "author": "Benzinga Neuro",
       "content": "",
       "created_at": "2026-06-21T19:07:18Z",
