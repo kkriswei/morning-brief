@@ -2,6 +2,76 @@
   "date": "2026-06-21",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-21T18:40:54Z",
+      "headline": "DRAM ETF Assets Hit $21 Billion AUM, But Key Risks May Lead To A Reversal",
+      "id": 60005624,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The fast-growing DRAM ETF has soared and crossed the $21 billion assets under management, but it faces some major risks",
+      "symbols": [
+        "AAPL",
+        "DRAM",
+        "MU",
+        "SNDK",
+        "WDC"
+      ],
+      "updated_at": "2026-06-21T18:40:54Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60005624/dram-etf-assets-hit-21-billion-aum-but-key-risks-may-lead-to-a-reversal",
+      "_summary": "The Roundhill Memory ETF (CBOE: DRAM) continued its strong rally last week and reached a record high of $77.63, up by 173% from its lowest point in April, when it was launched. It has recorded inflows every week since its launch, with assets under management reaching $21 billion. This makes it the fastest ETF ever to reach that milestone. Samsung Electronics and SK Hynix, the other two biggest names in the industry, are also doing well.",
+      "_zh_headline": "DRAM ETF资产管理规模达210亿美元，但关键风险或导致逆转",
+      "_zh_summary": "Roundhill Memory ETF（CBOE：DRAM）上周继续强劲上涨，创下77.63美元的历史新高，较4月份推出时的最低点上涨173%。自推出以来，每周都有资金流入，管理资产达到210亿美元。这使其成为有史以来最快达到这一里程碑的 ETF。业内另外两家巨头三星电子和SK海力士也表现不俗。",
+      "_added_at": "2026-06-21T19:02:33.877271+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-21T17:51:27Z",
+      "headline": "Top Three Catalysts For Dow, Nasdaq 100, and S&P 500 This Week",
+      "id": 60005536,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Here are the top three catalysts for the Dow Jones, Nasdaq 100, and S&amp;P 500 Index this week.",
+      "symbols": [
+        "AVGO",
+        "FDX",
+        "MU"
+      ],
+      "updated_at": "2026-06-21T17:51:27Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60005536/top-three-catalysts-for-dow-nasdaq-100-and-sp-500-this-week",
+      "_summary": "The S&P 500 , Dow Jones, and Nasdaq 100 indices have soared to their all-time highs this year, driven by the artificial intelligence supercycle and the strong earnings. They have soared by 9%, 6.50%, and 20%, respectively, this year. The rally stalled last week after the Federal Reserve delivered a hawkish decision , with nine officials pointing to higher interest rates this year. This article highlights the top three catalysts that will drive US stocks this week.",
+      "_zh_headline": "本周道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数的三大催化剂",
+      "_zh_summary": "在人工智能超级周期和强劲盈利的推动下，标准普尔 500 指数、道琼斯指数和纳斯达克 100 指数今年飙升至历史新高。今年它们分别飙升了 9%、6.50% 和 20%。上周美联储做出鹰派决定后，涨势陷入停滞，九名官员指出今年将加息。本文重点介绍了本周推动美国股市上涨的三大催化剂。",
+      "_added_at": "2026-06-21T19:02:33.877271+00:00"
+    },
+    {
       "author": "Lekha Gupta",
       "content": "",
       "created_at": "2026-06-21T13:41:05Z",
