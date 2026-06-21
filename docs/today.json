@@ -2,6 +2,42 @@
   "date": "2026-06-21",
   "articles": [
     {
+      "headline": "How Trump’s Fragile Agreement With Iran Is Shaping the Midterms",
+      "summary": "Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.",
+      "url": "https://www.nytimes.com/2026/06/21/us/politics/trump-iran-agreement-midterms.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-21T09:34:20+00:00",
+      "_summary": "Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.",
+      "_zh_headline": "特朗普与伊朗的脆弱协议如何影响中期选举",
+      "_zh_summary": "民主党人表示，总统发动了一场经济上痛苦的战争，但没有带来任何积极结果。共和党人的分歧更大，尽管他们对油价下跌表现出了一些缓解的迹象。",
+      "_added_at": "2026-06-21T13:22:57.429706+00:00"
+    },
+    {
+      "headline": "Mideast Live Updates: New Round of U.S.-Iran Talks Begins in Switzerland",
+      "summary": "An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.",
+      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-21T13:02:14+00:00",
+      "_summary": "An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.",
+      "_zh_headline": "中东实时动态：新一轮美伊会谈在瑞士开始",
+      "_zh_summary": "由副总统万斯率领的美国代表团与伊朗谈判代表一起参加了会谈。黎巴嫩冲突使实现更广泛和平和保持霍尔木兹海峡开放的努力变得更加复杂。",
+      "_added_at": "2026-06-21T13:22:57.429706+00:00"
+    },
+    {
+      "headline": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
+      "summary": "",
+      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/israel-directs-its-military-to-limit-its-actions-in-lebanon-though-tensions-persist",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-21T11:19:29+00:00",
+      "_summary": "",
+      "_zh_headline": "尽管紧张局势持续存在，以色列指示其军队限制其在黎巴嫩的行动。",
+      "_zh_summary": "",
+      "_added_at": "2026-06-21T13:22:57.429706+00:00"
+    },
+    {
       "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
       "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
       "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
