@@ -2,6 +2,42 @@
   "date": "2026-06-22",
   "articles": [
     {
+      "headline": "U.S. Eases Sanctions on Iran’s Oil",
+      "summary": "Also, Alan Greenspan dies at 100. Here’s the latest at the end of Monday.",
+      "url": "https://www.nytimes.com/2026/06/22/briefing/us-eases-sanctions-on-irans-oil.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-22T21:47:36+00:00",
+      "_summary": "Also, Alan Greenspan dies at 100. Here’s the latest at the end of Monday.",
+      "_zh_headline": "美国放松对伊朗石油制裁",
+      "_zh_summary": "此外，艾伦·格林斯潘 (Alan Greenspan) 去世，享年 100 岁。这是周一月底的最新消息。",
+      "_added_at": "2026-06-22T23:51:25.017777+00:00"
+    },
+    {
+      "headline": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-22T23:07:45+00:00",
+      "_summary": "Iran has denied a claim by Vice-President JD Vance that it will allow nuclear inspectors back into the country, after the first round of talks between Washington and Tehran to reach a final deal to end the war. Following negotiations in Switzerland, Vance said discussions with the International Atomic Energy Agency (IAEA) could be happening \"as soon as today\". But Iran's foreign ministry told state media that Tehran had made \"no new commitments\" on nuclear inspections. It came as the US temporarily waived sanctions, allowing Iran to sell oil in US dollars for the first time in decades. In a joint statement released on Monday, mediators Qatar and Pakistan said that after the first round of talks in the Swiss resort of Bürgenstock, the US and Iran had agreed to \"a roadmap towards reaching a final deal within 60 days\". Vance described the talks as having laid a \"very good foundation\".",
+      "_zh_headline": "伊朗否认万斯对核检查员的指控，美国放松石油制裁",
+      "_zh_summary": "伊朗副总统万斯声称，在华盛顿和德黑兰进行第一轮会谈以达成结束战争的最终协议后，伊朗将允许核检查人员重返该国，但伊朗对此予以否认。在瑞士进行谈判后，万斯表示，与国际原子能机构（IAEA）的讨论可能“最快今天”进行。但伊朗外交部告诉官方媒体，德黑兰在核检查方面“没有做出新的承诺”。与此同时，美国暂时放弃制裁，允许伊朗几十年来首次以美元出售石油。调解人卡塔尔和巴基斯坦在周一发布的联合声明中表示，在瑞士度假胜地布尔根施托克举行第一轮会谈后，美国和伊朗已同意“在 60 天内达成最终协议的路线图”。万斯称此次会谈奠定了“非常好的基础”。",
+      "_added_at": "2026-06-22T23:51:25.017777+00:00"
+    },
+    {
+      "headline": "Keir Starmer Resigns as UK Prime Minister",
+      "summary": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-22T21:31:10+00:00",
+      "_summary": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.",
+      "_zh_headline": "凯尔·斯塔默辞去英国首相职务",
+      "_zh_summary": "他在未来几周的离职为受欢迎的工党市长安迪·伯纳姆（Andy Burnham）成为十年来第七任总理扫清了道路。",
+      "_added_at": "2026-06-22T23:51:25.017777+00:00"
+    },
+    {
       "headline": "The U.S. and Iran are in talks to end the war. Here’s where things stand.",
       "summary": "The truce is still holding, but every hard question is still unsolved.",
       "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
@@ -515,116 +551,6 @@
       "_summary": "According to Zandi’s updated estimates, households in the top 20% of the income distribution—defined as those earning over $175k annually—now account for an “astounding nearly 60% of outlays.” Zandi noted this data presents an “overwhelming case” that the financial system is becoming “increasingly” unequal, leaving “most Americans… upset with their financial situations.” This economic data underscores a widening political rift over wealth distribution. Rep.",
       "_zh_headline": "马克·赞迪 (Mark Zandi) 表示，收入最高的 20% 的美国人现在占支出的近 60%，而收入最低的 80% 的人却落后于通货膨胀",
       "_zh_summary": "根据 Zandi 的最新估计，收入分配前 20% 的家庭（定义为年收入超过 17.5 万美元的家庭）现在占“支出的近 60%，令人震惊”。赞迪指出，这些数据提供了一个“压倒性的案例”，表明金融体系正在变得“日益”不平等，使“大多数美国人……对自己的财务状况感到不安”。这些经济数据凸显了财富分配方面日益扩大的政治分歧。代表。",
-      "_added_at": "2026-06-22T08:40:44.184835+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-21T21:46:30Z",
-      "headline": "Investors Flee Cathie Wood's ARKK ETF As It Trails S&P 500, Nasdaq 100 By Far",
-      "id": 60005808,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/ARK-Invest-Photo-Cathie-Wood-3.png?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/ARK-Invest-Photo-Cathie-Wood-3.png?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Cathie Wood’s ARK Innovation ETF is shedding assets this year as it continues to underperform the technology-heavy Nasdaq 100 Index.",
-      "symbols": [
-        "ARKK",
-        "CRSP",
-        "HOOD",
-        "QQQM",
-        "SPCX",
-        "TSLA",
-        "VOO"
-      ],
-      "updated_at": "2026-06-21T21:46:30Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60005808/investors-flee-cathie-woods-arkk-etf-as-it-trails-sp-500-nasdaq-100-by-far",
-      "_summary": "Cathie Wood ’s ARK Innovation ETF (CBOE: ARKK) is shedding assets this year as it continues to underperform the technology-heavy Nasdaq 100 Index. Investors have withdrawn more than $313 million from the fund so far this year, bringing its assets under management down to $7.2 billion, well below its peak of $29 billion. The outflows stand in sharp contrast to the broader U.S. ETF market, which has attracted more than $1 trillion in inflows this year.",
-      "_zh_headline": "投资者逃离 Cathie Wood 的 ARKK ETF，因为它远远落后于标准普尔 500 指数和纳斯达克 100 指数",
-      "_zh_summary": "Cathie Wood 的 ARK Innovation ETF（CBOE：ARKK）今年将剥离资产，因为它的表现继续落后于以科技股为主的纳斯达克 100 指数。今年迄今为止，投资者已从该基金撤资超过 3.13 亿美元，使其管理的资产降至 72 亿美元，远低于 290 亿美元的峰值。这些资金流出与更广泛的美国 ETF 市场形成鲜明对比，该市场今年吸引了超过 1 万亿美元的资金流入。",
-      "_added_at": "2026-06-22T08:40:44.184835+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-06-22T06:57:31Z",
-      "headline": "Nvidia Supplier SK Hynix Overtakes Samsung Electronics To Become South Korea’s Most Valuable Company",
-      "id": 60006946,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "AI-driven demand for advanced memory chips helped SK Hynix briefly surpass Samsung Electronics as South Korea&#39;s most valuable company.",
-      "symbols": [
-        "EWY",
-        "FLKR",
-        "MU",
-        "NVDA",
-        "SSNLF"
-      ],
-      "updated_at": "2026-06-22T06:57:31Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60006946/sk-hynix-overtakes-samsung-to-become-south-koreas-most-valuable-company",
-      "_summary": "Shares of SK Hynix surged 5.7% during trading, lifting the company’s market capitalization to about 2,082.5 trillion won ($1.35 trillion), narrowly edging past Samsung Electronics at 2,081.3 trillion won, Reuters reported. The milestone marked a historic shift in South Korea’s corporate hierarchy, with Samsung having held the top spot since 2000. At the time of writing, SK Hynix stock was trading 4.7% higher at KRW 2,894,000 (about $1,884) in Seoul while Samsung shares were up 0.14% at KRW 354,500 (about $230).",
-      "_zh_headline": "Nvidia供应商SK海力士超越三星电子成为韩国最有价值公司",
-      "_zh_summary": "据路透社报道，SK 海力士股价在交易期间飙升 5.7%，将该公司市值提升至约 2,082.5 万亿韩元（1.35 万亿美元），以微弱优势超过三星电子（2,081.3 万亿韩元）。这一里程碑标志着韩国企业等级制度的历史性转变，三星自 2000 年以来一直占据首位。截至撰写本文时，SK 海力士股票在首尔上涨 4.7%，至 2,894,000 韩元（约合 1,884 美元），而三星股价上涨 0.14%，至 354,500 韩元（约合 230 美元）。",
-      "_added_at": "2026-06-22T08:40:44.184835+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-21T18:40:54Z",
-      "headline": "DRAM ETF Assets Hit $21 Billion AUM, But Key Risks May Lead To A Reversal",
-      "id": 60005624,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The fast-growing DRAM ETF has soared and crossed the $21 billion assets under management, but it faces some major risks",
-      "symbols": [
-        "AAPL",
-        "DRAM",
-        "MU",
-        "SNDK",
-        "WDC"
-      ],
-      "updated_at": "2026-06-21T18:40:54Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60005624/dram-etf-assets-hit-21-billion-aum-but-key-risks-may-lead-to-a-reversal",
-      "_summary": "The Roundhill Memory ETF (CBOE: DRAM) continued its strong rally last week and reached a record high of $77.63, up by 173% from its lowest point in April, when it was launched. It has recorded inflows every week since its launch, with assets under management reaching $21 billion. This makes it the fastest ETF ever to reach that milestone. Samsung Electronics and SK Hynix, the other two biggest names in the industry, are also doing well.",
-      "_zh_headline": "DRAM ETF资产管理规模达210亿美元，但关键风险或导致逆转",
-      "_zh_summary": "Roundhill Memory ETF（CBOE：DRAM）上周继续强劲上涨，创下77.63美元的历史新高，较4月份推出时的最低点上涨173%。自推出以来，每周都有资金流入，管理资产达到210亿美元。这使其成为有史以来最快达到这一里程碑的 ETF。业内另外两家巨头三星电子和SK海力士也表现不俗。",
       "_added_at": "2026-06-22T08:40:44.184835+00:00"
     }
   ]
