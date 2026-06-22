@@ -2,6 +2,200 @@
   "date": "2026-06-22",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-22T17:01:47Z",
+      "headline": "Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale: Stock Market Today",
+      "id": 60023640,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Glowing-Red-Stock-Market-Graph-Shows-Dow.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Glowing-Red-Stock-Market-Graph-Shows-Dow.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Glowing-Red-Stock-Market-Graph-Shows-Dow.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Alphabet sinks 6% on a DeepMind departure as AI names drag the S&amp;P 500 and Nasdaq lower; the Dow and small caps rise.",
+      "symbols": [
+        "ABBV",
+        "AMZN",
+        "ASTS",
+        "DIA",
+        "FIGR",
+        "GETY",
+        "GOOGL",
+        "GTM",
+        "IWM",
+        "META",
+        "MSFT",
+        "ON",
+        "QQQ",
+        "RBLX",
+        "RIVN",
+        "RKLB",
+        "SMCI",
+        "SMH",
+        "SPCX",
+        "SWKS",
+        "VOO",
+        "XLC",
+        "XLF",
+        "XLI",
+        "XLV",
+        "XLY"
+      ],
+      "updated_at": "2026-06-22T17:02:59Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60023640/stock-market-today-alphabet-getty-spacex-nasdaq-s-p-500",
+      "_summary": "A renewed slide in AI hyperscalers pulled Wall Street’s biggest benchmarks lower at midday Monday. The S&P 500 and Nasdaq 100 are swinging into the red even as the Dow Jones and small caps pushed higher . U.S.-Iran talks over the Strait of Hormuz sent oil prices sliding, amid lingering bets that a hawkish Federal Reserve could still raise interest rates this year. West Texas Intermediate crude sank about 4.8% to roughly $73.64 a barrel, almost fully erasing its Iran-war premium.",
+      "_zh_headline": "债券发行后 Alphabet 暴跌 6%，SpaceX 下跌 10%：今日股市",
+      "_zh_summary": "周一中午，人工智能超大规模企业再次下滑，导致华尔街最大的基准指数走低。尽管道琼斯指数和小盘股走高，标准普尔 500 指数和纳斯达克 100 指数却陷入亏损。美国与伊朗关于霍尔木兹海峡的谈判导致油价下跌，而鹰派美联储今年仍可能加息的猜测挥之不去。西德克萨斯中质原油下跌约 4.8%，至每桶约 73.64 美元，几乎完全抹去了伊朗战争溢价。",
+      "_added_at": "2026-06-22T18:57:02.513664+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-22T17:22:14Z",
+      "headline": "Forget The June Fed Pause: Citadel Securities Warns ‘Second-Round Effects’ Will Force A September Rate Hike (CORRECTED)",
+      "id": 53271236,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Citadel warns the June Fed pause is temporary. Accelerating inflation and &#39;second-round effects&#39; will force a September rate hike.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-22T17:22:19Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53271236/forget-the-june-fed-pause-citadel-warns-second-round-effects-will-force-a-september-rate-hike",
+      "_summary": "Editor’s note: The story has been corrected to reflect that the report is from Citadel Securities. The firm warns that temporary supply shocks are structurally altering the U.S. economy, rendering the June pause a brief intermission before “second-round effects” inevitably forcing a September rate hike.",
+      "_zh_headline": "忘记 6 月美联储的暂停：Citadel 证券警告“第二轮效应”将迫使 9 月加息（已更正）",
+      "_zh_summary": "编者注：该报道已更正，以反映该报告来自 Citadel 证券。该公司警告说，暂时的供应冲击正在结构性地改变美国经济，使 6 月的暂停成为短暂的间歇期，然后“第二轮效应”不可避免地迫使 9 月加息。",
+      "_added_at": "2026-06-22T18:57:02.513664+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-22T18:46:26Z",
+      "headline": "Micron Earnings And An IPO Put This ETF Back In The Spotlight With 190% Gains",
+      "id": 60027045,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/The-Micron-Logo-Appears---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/The-Micron-Logo-Appears---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/The-Micron-Logo-Appears---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron upcoming earnings and a potential SK Hynix Nasdaq IPO are fueling interest in DRAM ETF as investors seek the next AI trade beyond Nvidia.",
+      "symbols": [
+        "DRAM",
+        "MU",
+        "NVDA",
+        "SMH",
+        "SNDK",
+        "SOXX",
+        "STX",
+        "WDC"
+      ],
+      "updated_at": "2026-06-22T18:46:26Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60027045/dram-etf-micron-earnings-sk-hynix-ipo",
+      "_summary": "Rather than owning broad semiconductor funds, investors are increasingly using memory ETFs to target what many see as the next phase of the AI buildout. DRAM’s largest holdings include SK Hynix, Samsung Electronics , and Micron , companies at the center of a memory market benefiting from surging demand for AI servers. The ETF has emerged as a focused way to gain exposure to high-bandwidth memory, a critical component used in advanced AI systems.",
+      "_zh_headline": "美光科技的盈利和 IPO 使该 ETF 重新成为人们关注的焦点，涨幅达 190%",
+      "_zh_summary": "投资者不再拥有广泛的半导体基金，而是越来越多地使用内存 ETF 来瞄准许多人认为的人工智能建设的下一阶段。 DRAM 最大的持仓包括 SK 海力士、三星电子和美光，这些公司处于内存市场的中心，受益于人工智能服务器需求的激增。 ETF 已成为获得高带宽内存（高级人工智能系统中使用的关键组件）的一种集中方式。",
+      "_added_at": "2026-06-22T18:57:02.513664+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-06-22T09:46:09Z",
+      "headline": "Micron Stock Climbs Over 3% In Pre-Market: What's Going On?",
+      "id": 60008042,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron stock rose after Bernstein lifted its price target to $1,300, citing strong memory pricing and AI-driven HBM demand.",
+      "symbols": [
+        "AAPL",
+        "META",
+        "MU",
+        "SSNLF",
+        "WDC"
+      ],
+      "updated_at": "2026-06-22T16:49:15Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60008042/micron-stock-climbs-over-3-in-pre-market-whats-going-on",
+      "_summary": "As Micron’s financial results are set to be announced on Wednesday after the closing bell, more analysts weighed in on the path ahead amid skyrocketing memory prices. According to Jack Gold , principal analyst at J.Gold Associates , the company has been increasingly focusing on high-bandwidth memory, a key technology for AI applications that offers higher profit margins than traditional dynamic random-access memory (DRAM).",
+      "_zh_headline": "美光股价盘前上涨超过 3%：发生了什么？",
+      "_zh_summary": "由于美光科技的财务业绩将于周三收盘后公布，更多分析师在内存价格飙升的情况下对未来的发展道路发表了看法。 J.Gold Associates 首席分析师 Jack Gold 表示，该公司越来越关注高带宽内存，这是人工智能应用的关键技术，比传统动态随机存取内存 (DRAM) 提供更高的利润率。",
+      "_added_at": "2026-06-22T18:57:02.513664+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-22T17:35:29Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "id": 60024813,
+      "images": [],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "symbols": [
+        "CRWV",
+        "IBM",
+        "IONQ",
+        "LRCX",
+        "MU",
+        "NVDA",
+        "QBTS",
+        "SNDK",
+        "TE",
+        "TSM"
+      ],
+      "updated_at": "2026-06-22T17:35:29Z",
+      "url": "https://www.benzinga.com/markets/options/26/06/60024813/10-information-technology-stocks-whale-alerts-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。\n鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。\n交易者经常",
+      "_added_at": "2026-06-22T18:57:02.513664+00:00"
+    },
+    {
       "headline": "Alan Greenspan, Fed Chairman Through Prosperity and Crisis, Dies at 100",
       "summary": "The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.",
       "url": "https://www.nytimes.com/2026/06/22/us/alan-greenspan-dead.html",
