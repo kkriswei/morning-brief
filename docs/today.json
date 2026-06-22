@@ -2,6 +2,187 @@
   "date": "2026-06-22",
   "articles": [
     {
+      "headline": "Alan Greenspan, Fed Chairman Through Prosperity and Crisis, Dies at 100",
+      "summary": "The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.",
+      "url": "https://www.nytimes.com/2026/06/22/us/alan-greenspan-dead.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-22T15:04:06+00:00",
+      "_summary": "The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.",
+      "_zh_headline": "经历繁荣与危机的美联储主席艾伦·格林斯潘去世，享年 100 岁",
+      "_zh_summary": "作为他那个时代杰出的经济政策制定者和熟练的政治操作者，他赞成市场友好的立场，而这种立场后来与破坏性的金融力量联系在一起。",
+      "_added_at": "2026-06-22T15:05:32.181335+00:00"
+    },
+    {
+      "headline": "Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?",
+      "summary": "Charismatic, northern and exuding a relaxed optimism, Mr. Burnham is a contrast to Keir Starmer. His allies hope he could mend Labour’s relationship with voters.",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-22T13:01:02+00:00",
+      "_summary": "Charismatic, northern and exuding a relaxed optimism, Mr. Burnham is a contrast to Keir Starmer. His allies hope he could mend Labour’s relationship with voters.",
+      "_zh_headline": "安迪·伯纳姆是谁？可能成为英国下一任首相的人？",
+      "_zh_summary": "伯纳姆先生具有超凡魅力，北方人，散发着轻松的乐观情绪，与凯尔·斯塔默形成鲜明对比。他的盟友希望他能够修复工党与选民的关系。",
+      "_added_at": "2026-06-22T15:05:32.181335+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-22T12:43:27Z",
+      "headline": "Stock Market Today: S&P 500, Dow Futures Gain As Trump Threatens 'Toll' Collection At Strait Of Hormuz— Getty, Intel, Hyperscale In Focus (UPDATED)",
+      "id": 60007817,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Wall-Street.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Wall-Street.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Wall-Street.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures down as Nasdaq 100, Dow Jones, and S&amp;P 500 fall following previous gains. Critical peace talks encounter intense strain.",
+      "symbols": [
+        "AAPL",
+        "BTCUSD",
+        "GETY",
+        "GPUS",
+        "INTC",
+        "QQQ",
+        "SAGT",
+        "SPY",
+        "YYGH"
+      ],
+      "updated_at": "2026-06-22T12:43:43Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60007817/stock-market-today-sp-500-dow-future-drop-as-trump-threatens-toll-collection-at-strait-of-hormuz-getty-images-intel-hyperscale-in-focus",
+      "_summary": "Editor’s Note: The future prices of benchmark tracking ETFs, and the headline were updated in the story. U.S. stock futures pared losses to advance on Monday, as the Nasdaq 100, Dow Jones, and S&P 500 indices rose. following Thursday’s gains. Additionally, Trump stated during a Fox News interview that the U.S. intends to take command of the vital maritime passageway and enforce transit tariffs should the diplomatic negotiations break down. \"If they don’t make a deal, we’ll collect tolls,\" Trump warned.",
+      "_zh_headline": "今日股市：特朗普威胁在霍尔木兹海峡征收“通行费”，标普 500 指数、道琼斯指数期货上涨 — 盖蒂、英特尔、超大规模聚焦（已更新）",
+      "_zh_summary": "编者注：基准跟踪 ETF 的未来价格和标题已在报道中更新。随着纳斯达克 100 指数、道琼斯指数和标准普尔 500 指数上涨，美国股指期货周一收复失地并上涨。继周四的上涨之后。此外，特朗普在接受福克斯新闻采访时表示，如果外交谈判破裂，美国打算掌控重要的海上通道并实施过境关税。特朗普警告说：“如果他们不达成协议，我们将收取通行费。”",
+      "_added_at": "2026-06-22T15:05:32.181335+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-22T13:23:17Z",
+      "headline": "Earnings Volatility Watch: Micron And 9 Stocks Set For Big Moves This Week",
+      "id": 60013412,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Turbulence-Stock-Market-Ups-Downs-Econom.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Turbulence-Stock-Market-Ups-Downs-Econom.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Turbulence-Stock-Market-Ups-Downs-Econom.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron headlines a busy final week of earnings season as options traders price in a 14% post-results swing.",
+      "symbols": [
+        "CBRS",
+        "CCL",
+        "FDX",
+        "ICLR",
+        "JEF",
+        "MKC",
+        "MU",
+        "PAYX",
+        "SNX",
+        "TCOM"
+      ],
+      "updated_at": "2026-06-22T13:23:17Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/06/60013412/earnings-volatility-watch-micron-technology-weekly-option-market",
+      "_summary": "The last week of June marks the tail of first-quarter earnings season, and it closes with the name most investors have been waiting for: Micron Technology, Inc. (NASDAQ: MU ) . The AI-memory giant has rallied 300% this year and crossed $1 trillion in market value, riding a wave of investment into artificial intelligence infrastructure that has made semiconductors its largest beneficiaries. Options are now pricing a 14% post-earnings swing in Micron.",
+      "_zh_headline": "盈利波动观察：美光科技和 9 只股票本周将出现大幅波动",
+      "_zh_summary": "六月的最后一周标志着第一季度财报季的尾声，而大多数投资者一直在等待的名字也随之结束：美光科技公司（纳斯达克股票代码：MU）。这家人工智能内存巨头今年股价上涨了 300%，市值突破 1 万亿美元，人工智能基础设施投资浪潮使半导体成为其最大受益者。美光科技目前的期权定价为 14% 的盈利后波动。",
+      "_added_at": "2026-06-22T15:05:32.181335+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-22T13:00:43Z",
+      "headline": "Micron To Rally More Than 36%? Here Are 10 Top Analyst Forecasts For Monday",
+      "id": 60012541,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Technology-Logo-Over-Blue-Printed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Technology-Logo-Over-Blue-Printed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Technology-Logo-Over-Blue-Printed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Top Wall Street analysts changed outlook on top names. See all changes, including upgrades/downgrades, on analyst ratings page.",
+      "symbols": [
+        "ACN",
+        "BTSG",
+        "COP",
+        "INCY",
+        "MU",
+        "OVV",
+        "PLXS",
+        "SBCF",
+        "SM",
+        "TEL"
+      ],
+      "updated_at": "2026-06-22T13:00:43Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/60012541/micron-to-rally-more-than-36-here-are-10-top-analyst-forecasts-for-monday",
+      "_summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page . Considering buying MU stock? Here’s what analysts think:",
+      "_zh_headline": "美光股价将上涨超过 36%？以下是周一 10 位顶级分析师的预测",
+      "_zh_summary": "华尔街顶级分析师改变了对这些顶级人物的看法。有关所有分析师评级变化（包括升级和降级）的完整视图，请参阅我们的分析师评级页面。考虑购买 MU 股票？以下是分析师的看法：",
+      "_added_at": "2026-06-22T15:05:32.181335+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-22T14:01:14Z",
+      "headline": "Micron Technology Stock Hits 52-Week High - Here's Why",
+      "id": 60015488,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron (MU) stock jumps 6% to new highs ahead of June 24 earnings as Needham raises its price forecast to a bullish $1,550.",
+      "symbols": [
+        "CHPX",
+        "MU",
+        "SOXQ",
+        "SPMO"
+      ],
+      "updated_at": "2026-06-22T14:01:14Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/06/60015488/micron-technology-stock-hits-52-week-high-heres-why",
+      "_summary": "Micron’s latest move follows renewed analyst optimism ahead of its June 24 earnings release. Needham analyst N. Quinn Bolton maintained a Buy rating and raised his price forecast to $1,550 from $500 on Monday. The analyst said the memory market has strengthened over the past 90 days and is likely to remain favorable because of solid demand, firm pricing, and limited capacity additions.",
+      "_zh_headline": "美光科技股价触及 52 周新高 - 原因如下",
+      "_zh_summary": "美光科技采取最新举措之前，分析师在 6 月 24 日发布财报之前再次表现出乐观态度。 Needham 分析师 N. Quinn Bolton 维持买入评级，并将其价格预测从周一的 500 美元上调至 1,550 美元。该分析师表示，内存市场在过去 90 天内有所走强，并且由于需求强劲、定价坚挺和产能增加有限，该市场可能会继续保持有利状态。",
+      "_added_at": "2026-06-22T15:05:32.181335+00:00"
+    },
+    {
       "headline": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
       "summary": "Oil prices retreated after Iran’s foreign minister said there had been “major progress” toward ending the fighting in Lebanon during the first session of high-level talks.",
       "url": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
