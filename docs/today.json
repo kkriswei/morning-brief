@@ -1,6 +1,52 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "articles": [
+    {
+      "headline": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
+      "summary": "Oil prices retreated after Iran’s foreign minister said there had been “major progress” toward ending the fighting in Lebanon during the first session of high-level talks.",
+      "url": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-22T04:34:11+00:00",
+      "_summary": "Oil prices retreated after Iran’s foreign minister said there had been “major progress” toward ending the fighting in Lebanon during the first session of high-level talks.",
+      "_zh_headline": "美伊谈判显示进展迹象，油价下跌",
+      "_zh_summary": "伊朗外长表示，在第一次高层会谈期间，在结束黎巴嫩战斗方面取得了“重大进展”，油价回落。",
+      "_added_at": "2026-06-22T08:40:44.184835+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-22T07:16:19Z",
+      "headline": "Mark Zandi Says Top 20% Of Americans Now Account For Nearly 60% Of Spending As Bottom 80% Fall Behind Inflation",
+      "id": 60007034,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Moody&#39;s flags a &#34;firmly intact&#34; K-shaped economy. The top 20% drives spending as 80% lose the battle with inflation.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-22T07:16:19Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60007034/moodys-k-shaped-economy-80-americans-are-losing-battle-with-inflation",
+      "_summary": "According to Zandi’s updated estimates, households in the top 20% of the income distribution—defined as those earning over $175k annually—now account for an “astounding nearly 60% of outlays.” Zandi noted this data presents an “overwhelming case” that the financial system is becoming “increasingly” unequal, leaving “most Americans… upset with their financial situations.” This economic data underscores a widening political rift over wealth distribution. Rep.",
+      "_zh_headline": "马克·赞迪 (Mark Zandi) 表示，收入最高的 20% 的美国人现在占支出的近 60%，而收入最低的 80% 的人却落后于通货膨胀",
+      "_zh_summary": "根据 Zandi 的最新估计，收入分配前 20% 的家庭（定义为年收入超过 17.5 万美元的家庭）现在占“支出的近 60%，令人震惊”。赞迪指出，这些数据提供了一个“压倒性的案例”，表明金融体系正在变得“日益”不平等，使“大多数美国人……对自己的财务状况感到不安”。这些经济数据凸显了财富分配方面日益扩大的政治分歧。代表。",
+      "_added_at": "2026-06-22T08:40:44.184835+00:00"
+    },
     {
       "author": "Crispus Nyaga",
       "content": "",
@@ -37,37 +83,43 @@
       "_summary": "Cathie Wood ’s ARK Innovation ETF (CBOE: ARKK) is shedding assets this year as it continues to underperform the technology-heavy Nasdaq 100 Index. Investors have withdrawn more than $313 million from the fund so far this year, bringing its assets under management down to $7.2 billion, well below its peak of $29 billion. The outflows stand in sharp contrast to the broader U.S. ETF market, which has attracted more than $1 trillion in inflows this year.",
       "_zh_headline": "投资者逃离 Cathie Wood 的 ARKK ETF，因为它远远落后于标准普尔 500 指数和纳斯达克 100 指数",
       "_zh_summary": "Cathie Wood 的 ARK Innovation ETF（CBOE：ARKK）今年将剥离资产，因为它的表现继续落后于以科技股为主的纳斯达克 100 指数。今年迄今为止，投资者已从该基金撤资超过 3.13 亿美元，使其管理的资产降至 72 亿美元，远低于 290 亿美元的峰值。这些资金流出与更广泛的美国 ETF 市场形成鲜明对比，该市场今年吸引了超过 1 万亿美元的资金流入。",
-      "_added_at": "2026-06-21T22:44:23.518287+00:00"
+      "_added_at": "2026-06-22T08:40:44.184835+00:00"
     },
     {
-      "author": "Benzinga Neuro",
+      "author": "Ananya Gairola",
       "content": "",
-      "created_at": "2026-06-21T19:07:18Z",
-      "headline": "Energy Secretary Says Strait Of Hormuz Traffic Back To Normal, Predicts Decline In Oil Prices Amid Trump’s Latest Threat",
-      "id": 60005661,
+      "created_at": "2026-06-22T06:57:31Z",
+      "headline": "Nvidia Supplier SK Hynix Overtakes Samsung Electronics To Become South Korea’s Most Valuable Company",
+      "id": 60006946,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Aerial-view-of-crude-oil-tanker-anchored.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Aerial-view-of-crude-oil-tanker-anchored.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Aerial-view-of-crude-oil-tanker-anchored.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "US Sec. of Energy Wright announces oil traffic through Strait of Hormuz back to normal after US-Iran agreement to reopen vital waterway.",
-      "symbols": [],
-      "updated_at": "2026-06-21T19:07:18Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60005661/energy-secretary-says-strait-of-hormuz-traffic-back-to-normal-predicts-decline-in-oil-prices-amid-trumps-latest-threat",
-      "_summary": "U.S. Secretary of Energy Chris Wright announced a significant shift in oil traffic through the Strait of Hormuz, after a preliminary agreement between the U.S. and Iran, aiming to resolve longstanding nuclear issues and reopen this vital waterway. This follows a preliminary agreement between the U.S. and Iran, which seeks to reopen the critical waterway while addressing unresolved nuclear issues. \"I’m long out of the business of predicting oil or gasoline prices, but they will continue to head down. Flows of oil and natural gas through the straits have already returned to normal, and they will continue that way whatever happens with the negotiations with the Iranians,\" Wright said. He also noted increased production from the U.S. and Venezuela, along with global cooperation among energy producers. The recent memorandum of understanding between U.S. and Iranian leaders has broken a stalemate in the Strait of Hormuz, a crucial passage for about 20% of the world’s oil supply.",
-      "_zh_headline": "能源部长表示霍尔木兹海峡交通恢复正常，预计在特朗普最新威胁下油价下跌",
-      "_zh_summary": "美国能源部长克里斯·赖特宣布，在美国和伊朗达成初步协议后，霍尔木兹海峡的石油运输将发生重大转变，旨在解决长期存在的核问题并重新开放这条重要水道。在此之前，美国和伊朗达成了初步协议，寻求重新开放关键水道，同时解决尚未解决的核问题。赖特说：“我早已不再预测石油或汽油价格，但它们将继续下跌。通过海峡的石油和天然气流量已经恢复正常，无论与伊朗的谈判如何，它们都将继续这种情况。”他还指出，美国和委内瑞拉的产量有所增加，以及能源生产国之间的全球合作。美国和伊朗领导人最近签署的谅解备忘录打破了霍尔木兹海峡的僵局，霍尔木兹海峡是全球约 20% 石油供应的重要通道。",
-      "_added_at": "2026-06-21T20:53:26.836475+00:00"
+      "summary": "AI-driven demand for advanced memory chips helped SK Hynix briefly surpass Samsung Electronics as South Korea&#39;s most valuable company.",
+      "symbols": [
+        "EWY",
+        "FLKR",
+        "MU",
+        "NVDA",
+        "SSNLF"
+      ],
+      "updated_at": "2026-06-22T06:57:31Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60006946/sk-hynix-overtakes-samsung-to-become-south-koreas-most-valuable-company",
+      "_summary": "Shares of SK Hynix surged 5.7% during trading, lifting the company’s market capitalization to about 2,082.5 trillion won ($1.35 trillion), narrowly edging past Samsung Electronics at 2,081.3 trillion won, Reuters reported. The milestone marked a historic shift in South Korea’s corporate hierarchy, with Samsung having held the top spot since 2000. At the time of writing, SK Hynix stock was trading 4.7% higher at KRW 2,894,000 (about $1,884) in Seoul while Samsung shares were up 0.14% at KRW 354,500 (about $230).",
+      "_zh_headline": "Nvidia供应商SK海力士超越三星电子成为韩国最有价值公司",
+      "_zh_summary": "据路透社报道，SK 海力士股价在交易期间飙升 5.7%，将该公司市值提升至约 2,082.5 万亿韩元（1.35 万亿美元），以微弱优势超过三星电子（2,081.3 万亿韩元）。这一里程碑标志着韩国企业等级制度的历史性转变，三星自 2000 年以来一直占据首位。截至撰写本文时，SK 海力士股票在首尔上涨 4.7%，至 2,894,000 韩元（约合 1,884 美元），而三星股价上涨 0.14%，至 354,500 韩元（约合 230 美元）。",
+      "_added_at": "2026-06-22T08:40:44.184835+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -103,7 +155,7 @@
       "_summary": "The Roundhill Memory ETF (CBOE: DRAM) continued its strong rally last week and reached a record high of $77.63, up by 173% from its lowest point in April, when it was launched. It has recorded inflows every week since its launch, with assets under management reaching $21 billion. This makes it the fastest ETF ever to reach that milestone. Samsung Electronics and SK Hynix, the other two biggest names in the industry, are also doing well.",
       "_zh_headline": "DRAM ETF资产管理规模达210亿美元，但关键风险或导致逆转",
       "_zh_summary": "Roundhill Memory ETF（CBOE：DRAM）上周继续强劲上涨，创下77.63美元的历史新高，较4月份推出时的最低点上涨173%。自推出以来，每周都有资金流入，管理资产达到210亿美元。这使其成为有史以来最快达到这一里程碑的 ETF。业内另外两家巨头三星电子和SK海力士也表现不俗。",
-      "_added_at": "2026-06-21T19:02:33.877271+00:00"
+      "_added_at": "2026-06-22T08:40:44.184835+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -137,341 +189,7 @@
       "_summary": "The S&P 500 , Dow Jones, and Nasdaq 100 indices have soared to their all-time highs this year, driven by the artificial intelligence supercycle and the strong earnings. They have soared by 9%, 6.50%, and 20%, respectively, this year. The rally stalled last week after the Federal Reserve delivered a hawkish decision , with nine officials pointing to higher interest rates this year. This article highlights the top three catalysts that will drive US stocks this week.",
       "_zh_headline": "本周道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数的三大催化剂",
       "_zh_summary": "在人工智能超级周期和强劲盈利的推动下，标准普尔 500 指数、道琼斯指数和纳斯达克 100 指数今年飙升至历史新高。今年它们分别飙升了 9%、6.50% 和 20%。上周美联储做出鹰派决定后，涨势陷入停滞，九名官员指出今年将加息。本文重点介绍了本周推动美国股市上涨的三大催化剂。",
-      "_added_at": "2026-06-21T19:02:33.877271+00:00"
-    },
-    {
-      "author": "Lekha Gupta",
-      "content": "",
-      "created_at": "2026-06-21T13:41:05Z",
-      "headline": "Consumer Tech News (June 15-18): Trump Signals Major US Chip Alliance, Snap AR Glasses Face Criticism & More",
-      "id": 60005276,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Man-Using-Mobile-Smart-Phone-With-Global.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Man-Using-Mobile-Smart-Phone-With-Global.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Man-Using-Mobile-Smart-Phone-With-Global.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "President Trump says Apple and Nvidia will work with Intel on US chip manufacturing, signaling a major shift in semiconductor geopolitics.",
-      "symbols": [
-        "AAPL",
-        "AEHR",
-        "AMD",
-        "AMKR",
-        "AMZN",
-        "ASTS",
-        "BRAI",
-        "CMTL",
-        "COHR",
-        "CRM",
-        "GILT",
-        "GM",
-        "GPUS",
-        "HIVE",
-        "HPE",
-        "MBLY",
-        "META",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "ORCL",
-        "OUST",
-        "QCOM",
-        "RBLX",
-        "RIVN",
-        "RUM",
-        "RXT",
-        "SNAP",
-        "SPCX",
-        "STI",
-        "TSLA",
-        "TSM",
-        "UBER",
-        "WRD",
-        "ZENA"
-      ],
-      "updated_at": "2026-06-21T13:41:05Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60005276/consumer-tech-news-june-15-18-trump-signals-major-us-chip-alliance-snap-ar-glasses-face-criticism-more",
-      "_summary": "President Trump says Apple and Nvidia will work with Intel on US chip manufacturing, signaling a major shift in semiconductor geopolitics.",
-      "_zh_headline": "消费者科技新闻（6 月 15 日至 18 日）：特朗普暗示美国主要芯片联盟、Snap AR 眼镜面临批评等",
-      "_zh_summary": "特朗普总统表示，苹果和英伟达将与英特尔在美国芯片制造领域合作，这标志着半导体地缘政治的重大转变。",
-      "_added_at": "2026-06-21T15:27:35.700662+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-21T15:01:10Z",
-      "headline": "Top Four S&P 500 Stocks To Watch Next Week: MU, CCL, FDX, PAYX",
-      "id": 60005355,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Fedex.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Fedex.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Fedex.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The top S&amp;P 500 Index companies to watch next week include popular names like Micron, Carnival, FedEx and Paychex.",
-      "symbols": [
-        "CCL",
-        "FDX",
-        "MU",
-        "PAYX"
-      ],
-      "updated_at": "2026-06-21T15:01:10Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60005355/top-four-sp-500-stocks-to-watch-next-week-mu-ccl-fdx-payx",
-      "_summary": "The S&P 500 Index has soared by 9% this year, helped by the AI supercycle, elevated energy prices, and strong corporate earnings. The rally faded last week after the hawkish Federal Reserve interest rate decision. This report explores some of the top stocks to watch next week, including Micron, Carnival, Paychex, and FedEx. Analysts anticipate the upcoming numbers to show that its revenue rose by 276% in the last quarter to $35 billion.",
-      "_zh_headline": "下周值得关注的四只标准普尔 500 股票：MU、CCL、FDX、PAYX",
-      "_zh_summary": "在人工智能超级周期、能源价格上涨和强劲的企业盈利的帮助下，标准普尔 500 指数今年飙升了 9%。上周美联储做出鹰派利率决定后，涨势消退。本报告探讨了下周值得关注的一些热门股票，包括美光科技、嘉年华、Paychex 和联邦快递。分析师预计即将公布的数据将显示其上一季度的收入增长 276%，达到 350 亿美元。",
-      "_added_at": "2026-06-21T15:27:35.700662+00:00"
-    },
-    {
-      "headline": "How Trump’s Fragile Agreement With Iran Is Shaping the Midterms",
-      "summary": "Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.",
-      "url": "https://www.nytimes.com/2026/06/21/us/politics/trump-iran-agreement-midterms.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-21T09:34:20+00:00",
-      "_summary": "Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.",
-      "_zh_headline": "特朗普与伊朗的脆弱协议如何影响中期选举",
-      "_zh_summary": "民主党人表示，总统发动了一场经济上痛苦的战争，但没有带来任何积极结果。共和党人的分歧更大，尽管他们对油价下跌表现出了一些缓解的迹象。",
-      "_added_at": "2026-06-21T13:22:57.429706+00:00"
-    },
-    {
-      "headline": "Mideast Live Updates: New Round of U.S.-Iran Talks Begins in Switzerland",
-      "summary": "An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.",
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-21T13:02:14+00:00",
-      "_summary": "An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.",
-      "_zh_headline": "中东实时动态：新一轮美伊会谈在瑞士开始",
-      "_zh_summary": "由副总统万斯率领的美国代表团与伊朗谈判代表一起参加了会谈。黎巴嫩冲突使实现更广泛和平和保持霍尔木兹海峡开放的努力变得更加复杂。",
-      "_added_at": "2026-06-21T13:22:57.429706+00:00"
-    },
-    {
-      "headline": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/israel-directs-its-military-to-limit-its-actions-in-lebanon-though-tensions-persist",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-21T11:19:29+00:00",
-      "_summary": "",
-      "_zh_headline": "尽管紧张局势持续存在，以色列指示其军队限制其在黎巴嫩的行动。",
-      "_zh_summary": "",
-      "_added_at": "2026-06-21T13:22:57.429706+00:00"
-    },
-    {
-      "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
-      "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
-      "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-21T09:02:03+00:00",
-      "_summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
-      "_zh_headline": "分析人士称，战争和特朗普的协议都没有消除伊朗的主要威胁",
-      "_zh_summary": "许多分析人士表示，战争和协议都没有消除来自伊朗的主要威胁。",
-      "_added_at": "2026-06-21T10:53:07.508451+00:00"
-    },
-    {
-      "headline": "U.S. and Iranian Officials to Meet for Peace Talks in Switzerland",
-      "summary": "The next phase of talks to end the war in Iran is expected to begin on Sunday amid fighting in Lebanon and renewed confusion over the Strait of Hormuz.",
-      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-peace-talks-switzerland.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-21T06:51:36+00:00",
-      "_summary": "The next phase of talks to end the war in Iran is expected to begin on Sunday amid fighting in Lebanon and renewed confusion over the Strait of Hormuz.",
-      "_zh_headline": "美国和伊朗官员将在瑞士会面进行和平谈判",
-      "_zh_summary": "结束伊朗战争的下一阶段谈判预计将于周日开始，黎巴嫩境内发生战斗，霍尔木兹海峡再次陷入混乱。",
-      "_added_at": "2026-06-21T10:53:07.508451+00:00"
-    },
-    {
-      "author": "Snigdha Gairola",
-      "content": "",
-      "created_at": "2026-06-21T05:42:48Z",
-      "headline": "Anthony Scaramucci Says Trump Has 'No Economic Philosophy,' Warns He Is On Pace To Spend $10 Trillion In Second Term",
-      "id": 60004900,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Anthony-Scaramucci--former-White-House-C.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Anthony-Scaramucci--former-White-House-C.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Anthony-Scaramucci--former-White-House-C.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Scaramucci criticized Trump’s economic policy, warning rising U.S. debt and spending could fuel inflation and deepen inequality.",
-      "symbols": [],
-      "updated_at": "2026-06-21T05:42:48Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60004900/anthony-scaramucci-says-trump-has-no-economic-philosophy-warns-he-is-on-pace-to-spend-10-trillion-in-second-term",
-      "_summary": "Former White House communications director Anthony Scaramucci criticized President Donald Trump’s economic approach, arguing that rising federal spending and debt levels are pushing the U.S. toward inflation risks and potential financial instability. On Saturday, in a post on X , Scaramucci said Trump \"has no economic philosophy\" and pointed to surging federal spending across administrations. He said Trump oversaw $8.2 trillion in spending during his first term and is on pace for $9 trillion to $10 trillion in the current term. \"We’re at 100% debt to GDP held by investors. 122% if you count the Fed’s balance sheet,\" he wrote, adding that such levels resemble conditions linked to sovereign debt stress. He also cited investor Ray Dalio , saying high debt typically forces governments toward inflation as an easier way to manage obligations.",
-      "_zh_headline": "安东尼·斯卡拉穆奇称特朗普“没有经济哲学”，并警告称他将在第二个任期内花费 10 万亿美元",
-      "_zh_summary": "前白宫通讯主管安东尼·斯卡拉穆奇批评唐纳德·特朗普总统的经济方针，认为联邦支出和债务水平的上升正在将美国推向通胀风险和潜在的金融不稳定。周六，斯卡拉穆奇在 X 上发帖称，特朗普“没有经济哲学”，并指出历届政府的联邦支出激增。他表示，特朗普在第一个任期内监督了 8.2 万亿美元的支出，当前任期内的支出有望达到 9 万亿至 10 万亿美元。他写道：“投资者持有的债务占 GDP 的比例为 100%。如果算上美联储的资产负债表，则为 122%。”他补充说，这样的水平类似于与主权债务压力相关的情况。他还援引投资者雷·达利奥(Ray Dalio)的话说，高额债务通常会迫使政府将通胀作为管理债务的更简单方式。",
-      "_added_at": "2026-06-21T07:16:56.552970+00:00"
-    },
-    {
-      "author": "Snigdha Gairola",
-      "content": "",
-      "created_at": "2026-06-21T04:00:56Z",
-      "headline": "Adam Schiff Slams Trump, Says Americans Paid $60 Billion More For Gas During Iran War: 'Everything Is Going Up, Up, Up'",
-      "id": 60004847,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Adam-Schiff-speaks-during-House-Judiciar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Adam-Schiff-speaks-during-House-Judiciar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/21/Adam-Schiff-speaks-during-House-Judiciar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Sen. Adam Schiff says Iran war is raising U.S. costs, citing higher gas prices and inflation while questioning a $300B reconstruction plan.",
-      "symbols": [],
-      "updated_at": "2026-06-21T04:00:56Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60004847/adam-schiff-slams-trump-americans-paid-60-billion-more-gas-iran-war",
-      "_summary": "Sen. Adam Schiff (D-Calif.) said the ongoing conflict with Iran has driven up costs for American families, arguing that higher gas prices and broader inflation are being felt nationwide while criticizing a proposed foreign reconstruction plan. On Saturday, in a post on X alongside a speech clip, Schiff wrote, \"Since the start of the Iran War, our costs at home have gone higher and higher.\" He said that President Donald Trump is not doing enough to ease economic pressure, instead offering Iran a $300 billion reconstruction fund. \"This is hardly what people were expecting from a president promising America first,\" he added. In the accompanying clip, Schiff said Americans have paid \"$60 billion more for gas\" during the conflict and argued that global instability has pushed up prices across the economy. \"You paid $60 billion more for gas during the war,\" he said in the clip.",
-      "_zh_headline": "亚当·希夫猛烈抨击特朗普，称美国人在伊朗战争期间为天然气多支付了 600 亿美元：“一切都在上涨、上涨、上涨”",
-      "_zh_summary": "加利福尼亚州民主党参议员亚当·希夫表示，与伊朗的持续冲突推高了美国家庭的成本，他认为全国范围内都感受到了汽油价格上涨和更广泛的通货膨胀，同时批评了一项拟议的外国重建计划。周六，希夫在 X 上的一篇帖子和一段演讲片段中写道，“自伊朗战争爆发以来，我们在国内的成本越来越高。”他表示，特朗普总统在缓解经济压力方面做得不够，反而向伊朗提供了3000亿美元的重建基金。他补充道：“人们很难想象一位承诺美国优先的总统会做出这样的事情。”希夫在随附的视频中表示，冲突期间美国人“为天然气多支付了 600 亿美元”，并认为全球不稳定推高了整个经济领域的价格。 “战争期间你为天​​然气多支付了 600 亿美元，”他在视频中说道。",
-      "_added_at": "2026-06-21T07:16:56.552970+00:00"
-    },
-    {
-      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
-      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-20T17:40:43+00:00",
-      "_summary": "Lebanese environmental activist Mona Khalil, whose work helped turn a stretch of coastline in southern Lebanon into one of the eastern Mediterranean's most important nesting sites for endangered sea turtles, has died after being wounded in an Israeli strike. Khalil, 76, was injured when her house on Mansouri beach, near the southern city of Tyre, was hit during Israeli attacks in southern Lebanon two weeks ago. She died on Friday after several days in hospital, according to a local environmental group. Her death came as Israeli air strikes intensified across southern Lebanon, raising concerns about renewed violence despite diplomatic efforts to maintain a fragile regional peace. The BBC has reached out to the Israeli military for a response. \"She is a deeply committed environmental defender,\" Hisham Younes, the founder and president of Green Southerners, told the BBC.",
-      "_zh_headline": "黎巴嫩海龟保护主义者莫娜·哈利勒在以色列袭击中丧生",
-      "_zh_summary": "黎巴嫩环保活动人士莫娜·哈利勒在以色列的一次袭击中受伤后去世，她的工作帮助将黎巴嫩南部的一段海岸线变成了地中海东部最重要的濒危海龟筑巢地之一。两周前，以色列对黎巴嫩南部发动袭击，76 岁的哈利勒位于南部城市提尔附近曼苏里海滩的房屋遭到袭击，她受伤。据当地环保组织称，她在医院几天后于周五去世。她去世之际，以色列加强了对黎巴嫩南部的空袭，引发了人们对暴力事件再次发生的担忧，尽管外交努力维持了脆弱的地区和平。 BBC 已联系以色列军方寻求回应。 “她是一位坚定的环保卫士，”绿色南方人组织的创始人兼总裁希沙姆·尤尼斯 (Hisham Younes) 告诉英国广播公司 (BBC)。",
-      "_added_at": "2026-06-21T07:16:56.552970+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-20T15:30:53Z",
-      "headline": "Crude Oil Price Pops As Iran Closes Strait Of Hormuz",
-      "id": 60004404,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Oil-Field--Falling-Chart-And-Petroleum-R.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Brent and WTI crude oil benchmarks are rising today after Iran closed the Strait of Hormuz following the ongoing fighting in Lebanon.",
-      "symbols": [],
-      "updated_at": "2026-06-20T15:30:53Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60004404/crude-oil-price-pops-as-iran-closes-strait-of-hormuz",
-      "_summary": "Crude oil prices jumped today, June 20, on popular perpetual futures marketplaces like Hyperliquid and Aster, after Iran announced the sudden closure of the Strait of Hormuz. WTI jumped to $79, while Brent rose to $82. The two popular benchmarks have risen by 7% from their lowest levels this month. Iran has closed the Strait of Hormuz, citing the ongoing skirmishes in Lebanon and Gaza. This closure happened after Israel continued its strikes against Lebanon, killing at least 16 people. According to Reuters , Israel said that its strikes in South Lebanon were a response to Hezbollah attacks. It noted that Hezbollah launched over 50 projectiles towards Israel. At the same time, Hezbollah said that it would not allow Israel \"freedom of movement\" in Lebanon. Iran closed the Strait of Hormuz because peace in Lebanon is one of the 14 points of the deal that President Donald Trump and his Iranian counterpart signed this week.",
-      "_zh_headline": "伊朗关闭霍尔木兹海峡，原油价格上涨",
-      "_zh_summary": "伊朗宣布突然关闭霍尔木兹海峡后，6 月 20 日，Hyperliquid 和 Aster 等热门永续期货市场上的原油价格大幅上涨。 WTI 涨至 79 美元，布伦特原油涨至 82 美元。这两个受欢迎的基准指数较本月最低水平上涨了 7%。伊朗以黎巴嫩和加沙地带持续发生的小冲突为由，关闭了霍尔木兹海峡。此次关闭是在以色列继续袭击黎巴嫩并造成至少 16 人死亡之后发生的。据路透社报道，以色列表示，对黎巴嫩南部的袭击是对真主党袭击的回应。报告指出，真主党向以色列发射了 50 多枚射弹。与此同时，真主党表示不会允许以色列在黎巴嫩“行动自由”。伊朗关闭霍尔木兹海峡，因为黎巴嫩和平是唐纳德·特朗普总统和伊朗总统本周签署的协议的 14 点之一。",
-      "_added_at": "2026-06-21T07:16:56.552970+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-20T20:14:35Z",
-      "headline": "Top BofA Analyst Explains Why Sandisk Has More Upside After 4,755% Surge",
-      "id": 60004635,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Sandisk stock has soared since its spin off, and analysts at Bank of America believe that it has more upside to go in the near term.",
-      "symbols": [
-        "AAPL",
-        "MU",
-        "NVDA",
-        "SNDK",
-        "WDC"
-      ],
-      "updated_at": "2026-06-20T20:14:35Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60004635/top-bofa-analyst-explains-why-sandisk-has-more-upside-after-4755-surge",
-      "_summary": "Sandisk (NASDAQ: SNDK ) has been the best-performing company in the S&P 500 and Nasdaq 100 indices this year. It has soared by 800% since January, and is up by 4,755% in the last 12 months. This surge has turned it from a small Western Digital (NASDAQ: WDC ) spin-off into a $323 billion company. And in a recent note, a Bank of America analyst predicted that it has more upside to go. Wamsi Mohan, a top BofA analyst believes that Sandisk’s shares have more gains to go in the near term.",
-      "_zh_headline": "美国银行顶级分析师解释为何 Sandisk 在飙升 4,755% 后仍有更大上涨空间",
-      "_zh_summary": "Sandisk（纳斯达克股票代码：SNDK）是今年标准普尔 500 指数和纳斯达克 100 指数中表现最好的公司。自 1 月份以来已飙升 800%，在过去 12 个月内上涨了 4,755%。这一激增使其从西部数据（纳斯达克股票代码：WDC）的一家小型分拆公司发展成为一家价值 3,230 亿美元的公司。美国银行分析师在最近的一份报告中预测，该股还有更大的上涨空间。美国银行高级分析师瓦姆西·莫汉 (Wamsi Mohan) 认为，Sandisk 的股价短期内还有更多上涨空间。",
-      "_added_at": "2026-06-21T07:16:56.552970+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-20T20:48:50Z",
-      "headline": "Micron Is Up 285% So Far This Year. Will It Surge or Crash After Earnings?",
-      "id": 60004657,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/20/Micron-Technology-Inc--Logo-On-Smartphon.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron stock has jumped by 285% this year, helped by the ongoing memory chip shortage. Its earnings reports will be crucial.",
-      "symbols": [
-        "MU",
-        "WDC"
-      ],
-      "updated_at": "2026-06-20T20:48:50Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60004657/micron-is-up-285-so-far-this-year-will-it-surge-or-crash-after-earnings",
-      "_summary": "MU stock has soared this year, mirroring the gains of companies in the memory industry like Samsung Electronics, SK Hynix, and Western Digital (NASDAQ: WDC ) . This surge has accelerated because of the ongoing supply shortage, which has led to a surge in prices, a trend that may continue over time. As a result, its revenue growth has accelerated, with the second quarter figure rising by 75% QoQ to $23 billion. This increase was up by 196% from the same period last year.",
-      "_zh_headline": "美光今年迄今已上涨 285%。盈利后会飙升还是崩盘？",
-      "_zh_summary": "MU 股价今年飙升，反映了三星电子、SK 海力士和西部数据（纳斯达克股票代码：WDC）等内存行业公司的收益。由于持续的供应短缺，这种飙升加速了，导致价格飙升，这种趋势可能会随着时间的推移而持续下去。因此，其收入增长加速，第二季度收入环比增长 75%，达到 230 亿美元。这一增幅比去年同期增长了196%。",
-      "_added_at": "2026-06-21T07:16:56.552970+00:00"
+      "_added_at": "2026-06-22T08:40:44.184835+00:00"
     }
   ]
 }
