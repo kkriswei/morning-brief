@@ -1,18 +1,6 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "articles": [
-    {
-      "headline": "U.S. Eases Sanctions on Iran’s Oil",
-      "summary": "Also, Alan Greenspan dies at 100. Here’s the latest at the end of Monday.",
-      "url": "https://www.nytimes.com/2026/06/22/briefing/us-eases-sanctions-on-irans-oil.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-22T21:47:36+00:00",
-      "_summary": "Also, Alan Greenspan dies at 100. Here’s the latest at the end of Monday.",
-      "_zh_headline": "美国放松对伊朗石油制裁",
-      "_zh_summary": "此外，艾伦·格林斯潘 (Alan Greenspan) 去世，享年 100 岁。这是周一月底的最新消息。",
-      "_added_at": "2026-06-22T23:51:25.017777+00:00"
-    },
     {
       "headline": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
       "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
@@ -23,31 +11,31 @@
       "_summary": "Iran has denied a claim by Vice-President JD Vance that it will allow nuclear inspectors back into the country, after the first round of talks between Washington and Tehran to reach a final deal to end the war. Following negotiations in Switzerland, Vance said discussions with the International Atomic Energy Agency (IAEA) could be happening \"as soon as today\". But Iran's foreign ministry told state media that Tehran had made \"no new commitments\" on nuclear inspections. It came as the US temporarily waived sanctions, allowing Iran to sell oil in US dollars for the first time in decades. In a joint statement released on Monday, mediators Qatar and Pakistan said that after the first round of talks in the Swiss resort of Bürgenstock, the US and Iran had agreed to \"a roadmap towards reaching a final deal within 60 days\". Vance described the talks as having laid a \"very good foundation\".",
       "_zh_headline": "伊朗否认万斯对核检查员的指控，美国放松石油制裁",
       "_zh_summary": "伊朗副总统万斯声称，在华盛顿和德黑兰进行第一轮会谈以达成结束战争的最终协议后，伊朗将允许核检查人员重返该国，但伊朗对此予以否认。在瑞士进行谈判后，万斯表示，与国际原子能机构（IAEA）的讨论可能“最快今天”进行。但伊朗外交部告诉官方媒体，德黑兰在核检查方面“没有做出新的承诺”。与此同时，美国暂时放弃制裁，允许伊朗几十年来首次以美元出售石油。调解人卡塔尔和巴基斯坦在周一发布的联合声明中表示，在瑞士度假胜地布尔根施托克举行第一轮会谈后，美国和伊朗已同意“在 60 天内达成最终协议的路线图”。万斯称此次会谈奠定了“非常好的基础”。",
-      "_added_at": "2026-06-22T23:51:25.017777+00:00"
+      "_added_at": "2026-06-23T04:42:26.949208+00:00"
     },
     {
-      "headline": "Keir Starmer Resigns as UK Prime Minister",
-      "summary": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+      "headline": "Demining the Strait of Hormuz",
+      "summary": "Our reporter John Ismay, who served as a Navy explosive ordnance disposal officer and deep-sea diver for eight years, explains why mines in the Strait of Hormuz may outlast the war. This video was originally published June 19 and was updated on June 22 to reflect news developments.",
+      "url": "https://www.nytimes.com/video/us/politics/100000010969459/iran-strait-hormuz-mines-shipping.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-22T21:31:10+00:00",
-      "_summary": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.",
-      "_zh_headline": "凯尔·斯塔默辞去英国首相职务",
-      "_zh_summary": "他在未来几周的离职为受欢迎的工党市长安迪·伯纳姆（Andy Burnham）成为十年来第七任总理扫清了道路。",
-      "_added_at": "2026-06-22T23:51:25.017777+00:00"
+      "created_at": "2026-06-22T20:59:56+00:00",
+      "_summary": "Our reporter John Ismay, who served as a Navy explosive ordnance disposal officer and deep-sea diver for eight years, explains why mines in the Strait of Hormuz may outlast the war. This video was originally published June 19 and was updated on June 22 to reflect news developments.",
+      "_zh_headline": "霍尔木兹海峡排雷",
+      "_zh_summary": "我们的记者约翰·伊斯梅曾担任海军爆炸物处理官和深海潜水员八年，他解释了为什么霍尔木兹海峡的水雷可能比战争更持久。该视频最初于 6 月 19 日发布，并于 6 月 22 日更新以反映新闻动态。",
+      "_added_at": "2026-06-23T04:42:26.949208+00:00"
     },
     {
-      "headline": "The U.S. and Iran are in talks to end the war. Here’s where things stand.",
-      "summary": "The truce is still holding, but every hard question is still unsolved.",
-      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "headline": "U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks",
+      "summary": "President Trump and Vice President JD Vance pointed to progress on Iran’s nuclear program, but officials in Tehran said “no new commitments” had been made.",
+      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-22T18:04:56+00:00",
-      "_summary": "Vice President JD Vance on Monday declared the first round of U.S.-Iran talks “a successful foundation” for a lasting peace agreement. He said Iran had agreed to invite United Nations nuclear inspectors back into the country. The Treasury Department granted a 60-day exemption to U.S. sanctions on Iranian oil while talks are underway. If confirmed, those provisions would echo key parts of the 2015 nuclear accord. President Trump withdrew the United States from that agreement three years later and derided it as “one of the Worst Deals ever.” Neither the war nor the cease-fire struck by Tehran and Washington has eliminated what U.S. and Israeli officials regard as the main threats from Iran: the country’s nuclear program, authoritarian regime, ballistic missiles and the armed groups that it backs in the region.",
-      "_zh_headline": "美国和伊朗正在就结束战争进行谈判。事情就是这样。",
-      "_zh_summary": "副总统万斯周一宣布，第一轮美伊会谈为持久和平协议奠定了“成功的基础”。他说，伊朗已同意邀请联合国核检查人员重返该国。在谈判进行期间，美国财政部授予美国对伊朗石油制裁 60 天的豁免。如果得到确认，这些条款将呼应 2015 年核协议的关键部分。三年后，特朗普总统让美国退出该协议，并嘲笑该协议是“有史以来最糟糕的协议之一”。无论是战争还是德黑兰和华盛顿达成的停火协议，都没有消除美国和以色列官员所认为的来自伊朗的主要威胁：该国的核计划、独裁政权、弹道导弹及其在该地区支持的武装团体。",
-      "_added_at": "2026-06-22T21:38:21.313554+00:00"
+      "created_at": "2026-06-22T21:00:06+00:00",
+      "_summary": "President Trump and Vice President JD Vance pointed to progress on Iran’s nuclear program, but officials in Tehran said “no new commitments” had been made.",
+      "_zh_headline": "美国以“富有成效”的会谈为由暂时解除对伊朗的石油制裁",
+      "_zh_summary": "特朗普总统和副总统万斯指出伊朗核计划取得了进展，但德黑兰官员表示“没有做出新的承诺”。",
+      "_added_at": "2026-06-23T04:42:26.949208+00:00"
     },
     {
       "headline": "Did you know? Alan Greenspan and Ayn Rand were close friends",
@@ -59,37 +47,7 @@
       "_summary": "Alan Greenspan and Ayn Rand are pictured in the Oval Office on Sept. 4, 1974, after Greenspan's swearing in as Chairman of the Council of Economic Advisors. David Hume Kennerly/Getty Images/Hulton Archive hide caption One of the most important intellectual relationships in the life of Alan Greenspan, the prominent former central banker who died Monday , was with author Ayn Rand, whose 1957 novel Atlas Shrugged has become a perennial favorite among conservatives and which the Library of Congress named as one of the books that has shaped America . The two first met when he was in his mid-twenties and she was in her forties, and already well-established via her 1943 novel The Fountainhead , which had been a best-seller. They were introduced through Greenspan's then-wife, the Canadian art historian Joan Mitchell. Mitchell was a close friend of the wife of Nathaniel Branden. Branden was Rand's protege and longtime lover.",
       "_zh_headline": "你可知道？艾伦·格林斯潘和艾因·兰德是亲密的朋友",
       "_zh_summary": "1974 年 9 月 4 日，格林斯潘宣誓就任经济顾问委员会主席后，艾伦·格林斯潘和艾因·兰德在椭圆形办公室合影。大卫·休姆·肯纳利/盖蒂图片社/赫尔顿档案馆隐藏说明周一去世的著名前央行行长艾伦·格林斯潘一生中最重要的知识分子关系之一是与作家艾因·兰德的关系。他 1957 年的小说《阿特拉斯耸耸肩》一直受到保守派人士的喜爱，美国国会图书馆将其列为塑造美国的书籍之一。两人第一次相识时，他二十多岁，而她四十多岁，并通过她 1943 年的畅销书《源泉》而确立了地位。他们是通过格林斯潘当时的妻子、加拿大艺术史学家琼·米切尔介绍的。米切尔是纳撒尼尔·布兰登妻子的密友。布兰登是兰德的门生和长期的情人。",
-      "_added_at": "2026-06-22T21:38:21.313554+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-22T17:42:51Z",
-      "headline": "Wall Street Is Least Hedged In Over A Year — Just As Fed's Warsh Turns Hawkish",
-      "id": 60025074,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Federal-Reserve-Building.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Federal-Reserve-Building.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Federal-Reserve-Building.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Markets slash hedging to year‑long lows just as Warsh makes the Fed more hawkish and unpredictable, raising the risk that investors are underestimating volatility beneath record‑high optimism.",
-      "symbols": [],
-      "updated_at": "2026-06-22T17:42:51Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60025074/wall-street-least-hedged-since-april-2025-warsh-hawkish",
-      "_summary": "Markets slash hedging to year‑long lows just as Warsh makes the Fed more hawkish and unpredictable, raising the risk that investors are underestimating volatility beneath record‑high optimism.",
-      "_zh_headline": "华尔街一年多以来受到的对冲最少——正如美联储沃什变得鹰派一样",
-      "_zh_summary": "就在沃什让美联储变得更加强硬和不可预测之际，市场将对冲大幅削减至全年低点，这增加了投资者在创纪录的乐观情绪下低估波动性的风险。",
-      "_added_at": "2026-06-22T21:38:21.313554+00:00"
+      "_added_at": "2026-06-23T04:42:26.949208+00:00"
     },
     {
       "author": "Daragh Thomas",
@@ -127,431 +85,46 @@
       ],
       "updated_at": "2026-06-22T19:54:39Z",
       "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60029258/googl-msft-plunge-up-to-6-on-monday-what-is-going-on-with-ai-hyperscalers",
-      "_summary": "AI CapEx fears have Big Tech sliding, but David Katz is using the selloff to buy more. Find out why he's bullish on hyperscalers and cautious on chips.",
+      "_summary": "The market is souring on the AI hyperscalers’ massive capex, but Matrix Asset Advisors’ David Katz is using the drop to buy more. Katz, chief investment officer at Matrix Asset Advisors, told CNBC he is not selling. He sees a buying opportunity. The pullback has left the group trading at 18 to 22 times earnings, which Katz called attractive for dominant franchises with strong long-term growth prospects.",
       "_zh_headline": "GOOGL、MSFT 周一暴跌 6%：AI 超大规模企业发生了什么？",
-      "_zh_summary": "对人工智能资本支出的担忧导致大型科技公司下滑，但大卫·卡茨 (David Katz) 正在利用抛售来购买更多股票。了解为什么他看好超大规模企业而对芯片持谨慎态度。",
-      "_added_at": "2026-06-22T21:38:21.313554+00:00"
+      "_zh_summary": "市场对人工智能超大规模企业的巨额资本支出感到不满，但 Matrix Asset Advisors 的 David Katz 正在利用这一下降来购买更多资产。 Matrix Asset Advisors 首席投资官卡茨告诉 CNBC，他不会出售该资产。他看到了买入机会。这次回调使该集团的市盈率达到了 18 至 22 倍，卡茨称这对于具有强劲长期增长前景的主导特许经营商具有吸引力。",
+      "_added_at": "2026-06-23T04:42:26.949208+00:00"
     },
     {
-      "author": "Piero Cingari",
+      "author": "Shivdeep Dhaliwal",
       "content": "",
-      "created_at": "2026-06-22T17:01:47Z",
-      "headline": "Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale: Stock Market Today",
-      "id": 60023640,
+      "created_at": "2026-06-23T01:28:13Z",
+      "headline": "SpaceX, Micron Technology, Super Micro Computer, Netflix And Palantir: Why These 5 Stocks Are On Investors' Radars Today",
+      "id": 60033576,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Glowing-Red-Stock-Market-Graph-Shows-Dow.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Stock-Market-Sell-off-During-Market-Cras.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Glowing-Red-Stock-Market-Graph-Shows-Dow.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Stock-Market-Sell-off-During-Market-Cras.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Glowing-Red-Stock-Market-Graph-Shows-Dow.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Stock-Market-Sell-off-During-Market-Cras.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Alphabet sinks 6% on a DeepMind departure as AI names drag the S&amp;P 500 and Nasdaq lower; the Dow and small caps rise.",
+      "summary": "Major U.S. indices finished mixed on Monday, with the Dow Jones Industrial Average gaining 0.29% to close at 51,712.71.",
       "symbols": [
-        "ABBV",
-        "AMZN",
-        "ASTS",
-        "DIA",
-        "FIGR",
-        "GETY",
-        "GOOGL",
-        "GTM",
-        "IWM",
-        "META",
-        "MSFT",
-        "ON",
-        "QQQ",
-        "RBLX",
-        "RIVN",
-        "RKLB",
+        "MU",
+        "NFLX",
+        "PLTR",
         "SMCI",
-        "SMH",
-        "SPCX",
-        "SWKS",
-        "VOO",
-        "XLC",
-        "XLF",
-        "XLI",
-        "XLV",
-        "XLY"
+        "SPCX"
       ],
-      "updated_at": "2026-06-22T17:02:59Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60023640/stock-market-today-alphabet-getty-spacex-nasdaq-s-p-500",
-      "_summary": "A renewed slide in AI hyperscalers pulled Wall Street’s biggest benchmarks lower at midday Monday. The S&P 500 and Nasdaq 100 are swinging into the red even as the Dow Jones and small caps pushed higher . U.S.-Iran talks over the Strait of Hormuz sent oil prices sliding, amid lingering bets that a hawkish Federal Reserve could still raise interest rates this year. West Texas Intermediate crude sank about 4.8% to roughly $73.64 a barrel, almost fully erasing its Iran-war premium.",
-      "_zh_headline": "债券发行后 Alphabet 暴跌 6%，SpaceX 下跌 10%：今日股市",
-      "_zh_summary": "周一中午，人工智能超大规模企业再次下滑，导致华尔街最大的基准指数走低。尽管道琼斯指数和小盘股走高，标准普尔 500 指数和纳斯达克 100 指数却陷入亏损。美国与伊朗关于霍尔木兹海峡的谈判导致油价下跌，而鹰派美联储今年仍可能加息的猜测挥之不去。西德克萨斯中质原油下跌约 4.8%，至每桶约 73.64 美元，几乎完全抹去了伊朗战争溢价。",
-      "_added_at": "2026-06-22T18:57:02.513664+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-22T17:22:14Z",
-      "headline": "Forget The June Fed Pause: Citadel Securities Warns ‘Second-Round Effects’ Will Force A September Rate Hike (CORRECTED)",
-      "id": 53271236,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Citadel warns the June Fed pause is temporary. Accelerating inflation and &#39;second-round effects&#39; will force a September rate hike.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-06-22T17:22:19Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/06/53271236/forget-the-june-fed-pause-citadel-warns-second-round-effects-will-force-a-september-rate-hike",
-      "_summary": "Editor’s note: The story has been corrected to reflect that the report is from Citadel Securities. The firm warns that temporary supply shocks are structurally altering the U.S. economy, rendering the June pause a brief intermission before “second-round effects” inevitably forcing a September rate hike.",
-      "_zh_headline": "忘记 6 月美联储的暂停：Citadel 证券警告“第二轮效应”将迫使 9 月加息（已更正）",
-      "_zh_summary": "编者注：该报道已更正，以反映该报告来自 Citadel 证券。该公司警告说，暂时的供应冲击正在结构性地改变美国经济，使 6 月的暂停成为短暂的间歇期，然后“第二轮效应”不可避免地迫使 9 月加息。",
-      "_added_at": "2026-06-22T18:57:02.513664+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-22T18:46:26Z",
-      "headline": "Micron Earnings And An IPO Put This ETF Back In The Spotlight With 190% Gains",
-      "id": 60027045,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/The-Micron-Logo-Appears---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/The-Micron-Logo-Appears---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/The-Micron-Logo-Appears---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron upcoming earnings and a potential SK Hynix Nasdaq IPO are fueling interest in DRAM ETF as investors seek the next AI trade beyond Nvidia.",
-      "symbols": [
-        "DRAM",
-        "MU",
-        "NVDA",
-        "SMH",
-        "SNDK",
-        "SOXX",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-06-22T18:46:26Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60027045/dram-etf-micron-earnings-sk-hynix-ipo",
-      "_summary": "Rather than owning broad semiconductor funds, investors are increasingly using memory ETFs to target what many see as the next phase of the AI buildout. DRAM’s largest holdings include SK Hynix, Samsung Electronics , and Micron , companies at the center of a memory market benefiting from surging demand for AI servers. The ETF has emerged as a focused way to gain exposure to high-bandwidth memory, a critical component used in advanced AI systems.",
-      "_zh_headline": "美光科技的盈利和 IPO 使该 ETF 重新成为人们关注的焦点，涨幅达 190%",
-      "_zh_summary": "投资者不再拥有广泛的半导体基金，而是越来越多地使用内存 ETF 来瞄准许多人认为的人工智能建设的下一阶段。 DRAM 最大的持仓包括 SK 海力士、三星电子和美光，这些公司处于内存市场的中心，受益于人工智能服务器需求的激增。 ETF 已成为获得高带宽内存（高级人工智能系统中使用的关键组件）的一种集中方式。",
-      "_added_at": "2026-06-22T18:57:02.513664+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-06-22T09:46:09Z",
-      "headline": "Micron Stock Climbs Over 3% In Pre-Market: What's Going On?",
-      "id": 60008042,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron stock rose after Bernstein lifted its price target to $1,300, citing strong memory pricing and AI-driven HBM demand.",
-      "symbols": [
-        "AAPL",
-        "META",
-        "MU",
-        "SSNLF",
-        "WDC"
-      ],
-      "updated_at": "2026-06-22T16:49:15Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60008042/micron-stock-climbs-over-3-in-pre-market-whats-going-on",
-      "_summary": "As Micron’s financial results are set to be announced on Wednesday after the closing bell, more analysts weighed in on the path ahead amid skyrocketing memory prices. According to Jack Gold , principal analyst at J.Gold Associates , the company has been increasingly focusing on high-bandwidth memory, a key technology for AI applications that offers higher profit margins than traditional dynamic random-access memory (DRAM).",
-      "_zh_headline": "美光股价盘前上涨超过 3%：发生了什么？",
-      "_zh_summary": "由于美光科技的财务业绩将于周三收盘后公布，更多分析师在内存价格飙升的情况下对未来的发展道路发表了看法。 J.Gold Associates 首席分析师 Jack Gold 表示，该公司越来越关注高带宽内存，这是人工智能应用的关键技术，比传统动态随机存取内存 (DRAM) 提供更高的利润率。",
-      "_added_at": "2026-06-22T18:57:02.513664+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-22T17:35:29Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "id": 60024813,
-      "images": [],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "symbols": [
-        "CRWV",
-        "IBM",
-        "IONQ",
-        "LRCX",
-        "MU",
-        "NVDA",
-        "QBTS",
-        "SNDK",
-        "TE",
-        "TSM"
-      ],
-      "updated_at": "2026-06-22T17:35:29Z",
-      "url": "https://www.benzinga.com/markets/options/26/06/60024813/10-information-technology-stocks-whale-alerts-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。\n鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。\n交易者经常",
-      "_added_at": "2026-06-22T18:57:02.513664+00:00"
-    },
-    {
-      "headline": "Alan Greenspan, Fed Chairman Through Prosperity and Crisis, Dies at 100",
-      "summary": "The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.",
-      "url": "https://www.nytimes.com/2026/06/22/us/alan-greenspan-dead.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-22T15:04:06+00:00",
-      "_summary": "The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.",
-      "_zh_headline": "经历繁荣与危机的美联储主席艾伦·格林斯潘去世，享年 100 岁",
-      "_zh_summary": "作为他那个时代杰出的经济政策制定者和熟练的政治操作者，他赞成市场友好的立场，而这种立场后来与破坏性的金融力量联系在一起。",
-      "_added_at": "2026-06-22T15:05:32.181335+00:00"
-    },
-    {
-      "headline": "Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?",
-      "summary": "Charismatic, northern and exuding a relaxed optimism, Mr. Burnham is a contrast to Keir Starmer. His allies hope he could mend Labour’s relationship with voters.",
-      "url": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-22T13:01:02+00:00",
-      "_summary": "Charismatic, northern and exuding a relaxed optimism, Mr. Burnham is a contrast to Keir Starmer. His allies hope he could mend Labour’s relationship with voters.",
-      "_zh_headline": "安迪·伯纳姆是谁？可能成为英国下一任首相的人？",
-      "_zh_summary": "伯纳姆先生具有超凡魅力，北方人，散发着轻松的乐观情绪，与凯尔·斯塔默形成鲜明对比。他的盟友希望他能够修复工党与选民的关系。",
-      "_added_at": "2026-06-22T15:05:32.181335+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-22T12:43:27Z",
-      "headline": "Stock Market Today: S&P 500, Dow Futures Gain As Trump Threatens 'Toll' Collection At Strait Of Hormuz— Getty, Intel, Hyperscale In Focus (UPDATED)",
-      "id": 60007817,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures down as Nasdaq 100, Dow Jones, and S&amp;P 500 fall following previous gains. Critical peace talks encounter intense strain.",
-      "symbols": [
-        "AAPL",
-        "BTCUSD",
-        "GETY",
-        "GPUS",
-        "INTC",
-        "QQQ",
-        "SAGT",
-        "SPY",
-        "YYGH"
-      ],
-      "updated_at": "2026-06-22T12:43:43Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60007817/stock-market-today-sp-500-dow-future-drop-as-trump-threatens-toll-collection-at-strait-of-hormuz-getty-images-intel-hyperscale-in-focus",
-      "_summary": "Editor’s Note: The future prices of benchmark tracking ETFs, and the headline were updated in the story. U.S. stock futures pared losses to advance on Monday, as the Nasdaq 100, Dow Jones, and S&P 500 indices rose. following Thursday’s gains. Additionally, Trump stated during a Fox News interview that the U.S. intends to take command of the vital maritime passageway and enforce transit tariffs should the diplomatic negotiations break down. \"If they don’t make a deal, we’ll collect tolls,\" Trump warned.",
-      "_zh_headline": "今日股市：特朗普威胁在霍尔木兹海峡征收“通行费”，标普 500 指数、道琼斯指数期货上涨 — 盖蒂、英特尔、超大规模聚焦（已更新）",
-      "_zh_summary": "编者注：基准跟踪 ETF 的未来价格和标题已在报道中更新。随着纳斯达克 100 指数、道琼斯指数和标准普尔 500 指数上涨，美国股指期货周一收复失地并上涨。继周四的上涨之后。此外，特朗普在接受福克斯新闻采访时表示，如果外交谈判破裂，美国打算掌控重要的海上通道并实施过境关税。特朗普警告说：“如果他们不达成协议，我们将收取通行费。”",
-      "_added_at": "2026-06-22T15:05:32.181335+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-22T13:23:17Z",
-      "headline": "Earnings Volatility Watch: Micron And 9 Stocks Set For Big Moves This Week",
-      "id": 60013412,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Turbulence-Stock-Market-Ups-Downs-Econom.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Turbulence-Stock-Market-Ups-Downs-Econom.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Turbulence-Stock-Market-Ups-Downs-Econom.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron headlines a busy final week of earnings season as options traders price in a 14% post-results swing.",
-      "symbols": [
-        "CBRS",
-        "CCL",
-        "FDX",
-        "ICLR",
-        "JEF",
-        "MKC",
-        "MU",
-        "PAYX",
-        "SNX",
-        "TCOM"
-      ],
-      "updated_at": "2026-06-22T13:23:17Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/06/60013412/earnings-volatility-watch-micron-technology-weekly-option-market",
-      "_summary": "The last week of June marks the tail of first-quarter earnings season, and it closes with the name most investors have been waiting for: Micron Technology, Inc. (NASDAQ: MU ) . The AI-memory giant has rallied 300% this year and crossed $1 trillion in market value, riding a wave of investment into artificial intelligence infrastructure that has made semiconductors its largest beneficiaries. Options are now pricing a 14% post-earnings swing in Micron.",
-      "_zh_headline": "盈利波动观察：美光科技和 9 只股票本周将出现大幅波动",
-      "_zh_summary": "六月的最后一周标志着第一季度财报季的尾声，而大多数投资者一直在等待的名字也随之结束：美光科技公司（纳斯达克股票代码：MU）。这家人工智能内存巨头今年股价上涨了 300%，市值突破 1 万亿美元，人工智能基础设施投资浪潮使半导体成为其最大受益者。美光科技目前的期权定价为 14% 的盈利后波动。",
-      "_added_at": "2026-06-22T15:05:32.181335+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-22T13:00:43Z",
-      "headline": "Micron To Rally More Than 36%? Here Are 10 Top Analyst Forecasts For Monday",
-      "id": 60012541,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Technology-Logo-Over-Blue-Printed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Technology-Logo-Over-Blue-Printed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Technology-Logo-Over-Blue-Printed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Top Wall Street analysts changed outlook on top names. See all changes, including upgrades/downgrades, on analyst ratings page.",
-      "symbols": [
-        "ACN",
-        "BTSG",
-        "COP",
-        "INCY",
-        "MU",
-        "OVV",
-        "PLXS",
-        "SBCF",
-        "SM",
-        "TEL"
-      ],
-      "updated_at": "2026-06-22T13:00:43Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/60012541/micron-to-rally-more-than-36-here-are-10-top-analyst-forecasts-for-monday",
-      "_summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page . Considering buying MU stock? Here’s what analysts think:",
-      "_zh_headline": "美光股价将上涨超过 36%？以下是周一 10 位顶级分析师的预测",
-      "_zh_summary": "华尔街顶级分析师改变了对这些顶级人物的看法。有关所有分析师评级变化（包括升级和降级）的完整视图，请参阅我们的分析师评级页面。考虑购买 MU 股票？以下是分析师的看法：",
-      "_added_at": "2026-06-22T15:05:32.181335+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-22T14:01:14Z",
-      "headline": "Micron Technology Stock Hits 52-Week High - Here's Why",
-      "id": 60015488,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron (MU) stock jumps 6% to new highs ahead of June 24 earnings as Needham raises its price forecast to a bullish $1,550.",
-      "symbols": [
-        "CHPX",
-        "MU",
-        "SOXQ",
-        "SPMO"
-      ],
-      "updated_at": "2026-06-22T14:01:14Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/06/60015488/micron-technology-stock-hits-52-week-high-heres-why",
-      "_summary": "Micron’s latest move follows renewed analyst optimism ahead of its June 24 earnings release. Needham analyst N. Quinn Bolton maintained a Buy rating and raised his price forecast to $1,550 from $500 on Monday. The analyst said the memory market has strengthened over the past 90 days and is likely to remain favorable because of solid demand, firm pricing, and limited capacity additions.",
-      "_zh_headline": "美光科技股价触及 52 周新高 - 原因如下",
-      "_zh_summary": "美光科技采取最新举措之前，分析师在 6 月 24 日发布财报之前再次表现出乐观态度。 Needham 分析师 N. Quinn Bolton 维持买入评级，并将其价格预测从周一的 500 美元上调至 1,550 美元。该分析师表示，内存市场在过去 90 天内有所走强，并且由于需求强劲、定价坚挺和产能增加有限，该市场可能会继续保持有利状态。",
-      "_added_at": "2026-06-22T15:05:32.181335+00:00"
-    },
-    {
-      "headline": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
-      "summary": "Oil prices retreated after Iran’s foreign minister said there had been “major progress” toward ending the fighting in Lebanon during the first session of high-level talks.",
-      "url": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-22T04:34:11+00:00",
-      "_summary": "Oil prices retreated after Iran’s foreign minister said there had been “major progress” toward ending the fighting in Lebanon during the first session of high-level talks.",
-      "_zh_headline": "美伊谈判显示进展迹象，油价下跌",
-      "_zh_summary": "伊朗外长表示，在第一次高层会谈期间，在结束黎巴嫩战斗方面取得了“重大进展”，油价回落。",
-      "_added_at": "2026-06-22T08:40:44.184835+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-22T07:16:19Z",
-      "headline": "Mark Zandi Says Top 20% Of Americans Now Account For Nearly 60% Of Spending As Bottom 80% Fall Behind Inflation",
-      "id": 60007034,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/22/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Moody&#39;s flags a &#34;firmly intact&#34; K-shaped economy. The top 20% drives spending as 80% lose the battle with inflation.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-06-22T07:16:19Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60007034/moodys-k-shaped-economy-80-americans-are-losing-battle-with-inflation",
-      "_summary": "According to Zandi’s updated estimates, households in the top 20% of the income distribution—defined as those earning over $175k annually—now account for an “astounding nearly 60% of outlays.” Zandi noted this data presents an “overwhelming case” that the financial system is becoming “increasingly” unequal, leaving “most Americans… upset with their financial situations.” This economic data underscores a widening political rift over wealth distribution. Rep.",
-      "_zh_headline": "马克·赞迪 (Mark Zandi) 表示，收入最高的 20% 的美国人现在占支出的近 60%，而收入最低的 80% 的人却落后于通货膨胀",
-      "_zh_summary": "根据 Zandi 的最新估计，收入分配前 20% 的家庭（定义为年收入超过 17.5 万美元的家庭）现在占“支出的近 60%，令人震惊”。赞迪指出，这些数据提供了一个“压倒性的案例”，表明金融体系正在变得“日益”不平等，使“大多数美国人……对自己的财务状况感到不安”。这些经济数据凸显了财富分配方面日益扩大的政治分歧。代表。",
-      "_added_at": "2026-06-22T08:40:44.184835+00:00"
+      "updated_at": "2026-06-23T02:15:06Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60033576/spacex-micron-technology-super-micro-computer-netflix-and-palantir-why-these-5-stocks-are-on-investors-radars-today",
+      "_summary": "Major U.S. indices finished mixed on Monday, with the Dow Jones Industrial Average gaining 0.29% to close at 51,712.71. The S&P 500 slipped 0.37% to 7,472.79, while the Nasdaq fell 1.3% to end the session at 26,166.60. These are the top stocks that gained the attention of retail traders and investors through the day. SpaceX’s stock plummeted by 16.43%, closing at $154.60. The stock reached an intraday high of $176.75 and a low of $154, with a 52-week range of $150 to $225.64.",
+      "_zh_headline": "SpaceX、美光科技、超微计算机、Netflix 和 Palantir：为什么这 5 只股票如今受到投资者关注",
+      "_zh_summary": "周一美国主要股指涨跌互现，道琼斯工业平均指数上涨 0.29%，收于 51,712.71 点。标准普尔 500 指数下跌 0.37%，至 7,472.79 点；纳斯达克指数下跌 1.3%，收于 26,166.60 点。这些是全天吸引散户交易者和投资者关注的顶级股票。 SpaceX 股价暴跌 16.43%，收于 154.60 美元。该股盘中最高价为176.75美元，最低价为154美元，52周区间为150美元至225.64美元。",
+      "_added_at": "2026-06-23T04:42:26.949208+00:00"
     }
   ]
 }
