@@ -2,6 +2,73 @@
   "date": "2026-06-23",
   "articles": [
     {
+      "headline": "Senate Votes to Direct End to Iran War, Rebuking Trump on War Powers",
+      "summary": "A few Republicans joined Democrats in favor of a measure instructing President Trump to halt military operations against Iran or seek congressional authorization.",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/senate-trump-war-powers-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-23T20:06:12+00:00",
+      "_summary": "A few Republicans joined Democrats in favor of a measure instructing President Trump to halt military operations against Iran or seek congressional authorization.",
+      "_zh_headline": "参议院投票决定直接结束伊朗战争，谴责特朗普的战争权力",
+      "_zh_summary": "一些共和党人与民主党人一起支持一项指示特朗普总统停止针对伊朗的军事行动或寻求国会授权的措施。",
+      "_added_at": "2026-06-23T22:47:51.661728+00:00"
+    },
+    {
+      "headline": "In symbolic vote, Congress directs Trump to remove forces from Iran war",
+      "summary": "The measure to remove U.S. armed forces from hostilities with Iran does not require the president's signature, nor does it carry the force of law. But it reflects bipartisan frustration with the war.",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-23T16:50:44-04:00",
+      "_summary": "The U.S. Capitol and National Mall is seen on June 13, 2026. Rahmat Gul/AP hide caption A bipartisan majority in Congress has voted in favor of a war powers resolution to remove U.S. armed forces from hostilities with Iran. The Senate voted 50 to 48 on Tuesday afternoon, with four Republicans joining Democrats in support. They were Bill Cassidy of Louisiana, Susan Collins of Maine, Rand Paul of Kentucky and Alaska's Lisa Murkowski. The measure, which is not legally binding and will not be sent to the White House for a signature, was approved by the House earlier this month . \"Today, Congress stood up to Donald Trump and voted to end his costly, unnecessary, and devastating war with Iran,\" Senate Minority Leader Chuck Schumer, D-N.Y., said in a statement after the vote. \"The message from the only branch of government with the power to declare war is unmistakable: the Trump administration must withdraw U.S. forces from hostilities in Iran.\"",
+      "_zh_headline": "国会象征性投票指示特朗普从伊朗战争中撤军",
+      "_zh_summary": "2026 年 6 月 13 日，美国国会大厦和国家广场。 Rahmat Gul/美联社 隐藏标题 国会两党多数投票赞成一项战争权力决议，以让美国武装部队摆脱与伊朗的敌对行动。周二下午，参议院以 50 比 48 的投票结果，四名共和党人和民主党人一起表示支持。他们是路易斯安那州的比尔·卡西迪、缅因州的苏珊·柯林斯、肯塔基州的兰德·保罗和阿拉斯加州的丽莎·默科斯基。该措施不具有法律约束力，也不会送交白宫签署，已于本月初获得众议院批准。纽约州参议院少数党领袖查克·舒默在投票后发表的一份声明中表示：“今天，国会勇敢地面对唐纳德·特朗普，并投票决定结束他与伊朗之间代价高昂、不必要且毁灭性的战争。” “唯一有权宣战的政府部门发出的信息是明确无误的：特朗普政府必须从伊朗的敌对行动中撤出美军。”",
+      "_added_at": "2026-06-23T22:47:51.661728+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-23T20:45:07Z",
+      "headline": "Micron's Run Isn't Over: Bank Of America Sees 40% More Upside",
+      "id": 60059003,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bank of America raised Micron&#39;s price target to $1,500, implying 40% upside, as analysts see AI-driven memory shortages, pricing power and long-term supply agreements fueling a multi-year semiconductor boom.",
+      "symbols": [
+        "ALAB",
+        "AMAT",
+        "ARM",
+        "CRDO",
+        "INTC",
+        "KLAC",
+        "LRCX",
+        "MKSI",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "TER"
+      ],
+      "updated_at": "2026-06-23T20:45:07Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/60059003/micron-technology-stock-bank-of-america-1500-price-target-rally-earnings-semiconductor-memory",
+      "_summary": "The bank’s semiconductor analyst Vivek Arya on Tuesday raised his 12-month price target on Micron from $950 to $1,500, implying roughly 40% upside from current levels and establishing one of the most bullish targets on Wall Street. Micron Technology Inc. fell about 11% on Tuesday to roughly $1,075, sliding from Monday’s record close of $1,211.38 as a memory-stock selloff that began in South Korea spread through global markets.",
+      "_zh_headline": "美光科技的涨势尚未结束：美国银行预计还有 40% 的上涨空间",
+      "_zh_summary": "该银行的半导体分析师 Vivek Arya 周二将美光的 12 个月目标股价从 950 美元上调至 1,500 美元，这意味着较当前水平上涨约 40%，并确立了华尔街最看涨的目标之一。美光科技公司 (Micron Technology Inc.) 周二下跌约 11%，至约 1,075 美元，较周一创纪录的收盘价 1,211.38 美元下滑，原因是始于韩国的内存股抛售蔓延至全球市场。",
+      "_added_at": "2026-06-23T22:47:51.661728+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-06-23T18:22:49Z",
@@ -600,123 +667,6 @@
       "_summary": "While JPMorgan’s baseline projection for the S&P 500 sits at 7,800—a figure that actually implies lower valuation multiples—the march to 8,900 remains firmly on the table. According to Parker, the primary engine behind the market’s current momentum is a stellar corporate earnings season that has consistently defied skeptical expectations. “The rally that we’ve seen this year has been entirely earnings driven,” Parker told CNBC. “Even the most bullish expectations have been consistently exceeded.",
       "_zh_headline": "忘掉“动物精神”吧——这位华尔街策略师表示，标准普尔 500 指数牛市完全取决于盈利：“势头将持续……”",
       "_zh_summary": "尽管摩根大通对标准普尔 500 指数的基线预测为 7,800 点（这一数字实际上意味着估值倍数较低），但仍坚定不移地考虑向 8,900 点进军。帕克表示，当前市场势头背后的主要引擎是企业财报季的出色表现，该财报季一直超出了人们的怀疑。帕克对 CNBC 表示：“我们今年看到的反弹完全是盈利驱动的。” “即使是最乐观的预期也一直超出了预期。",
-      "_added_at": "2026-06-23T12:21:44.265101+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-06-23T08:44:16Z",
-      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
-      "id": 60035209,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "June 23, 2026: Polymarket traders turn overwhelmingly bearish on the S&amp;P 500 open on Tuesday after a technology-led market selloff.",
-      "symbols": [
-        "AMD",
-        "AMZN",
-        "CCL",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "META",
-        "MSFT",
-        "MU",
-        "SPCX"
-      ],
-      "updated_at": "2026-06-23T08:44:16Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60035209/sp500-june-23-open-up-or-down-polymarket-tech-selloff-fed-inflation",
-      "_summary": "The S&P 500 fell on Monday as investors rotated out of major technology stocks, and Polymarket traders are overwhelmingly betting the weakness will continue at Tuesday’s open. The S&P 500 closed down 0.37% at 7,472.79. The June 23 Polymarket contract implied just a 2% probability that the index will open higher on Tuesday, reflecting a sharp shift in sentiment. Investors remain focused on the outlook for inflation and interest rates following last week’s hawkish Federal Reserve meeting.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于投资者纷纷撤出主要科技股，标普 500 指数周一下跌，而 Polymarket 交易员绝大多数押注周二开盘时将继续疲软。标准普尔 500 指数收盘下跌 0.37%，报 7,472.79 点。 6 月 23 日的 Polymarket 合约暗示该指数周二高开的可能性仅为 2%，反映出市场情绪的急剧转变。继上周鹰派的美联储会议之后，投资者仍关注通胀和利率前景。",
-      "_added_at": "2026-06-23T12:21:44.265101+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-23T09:39:29Z",
-      "headline": "Stock Market Today: Dow Jones, S&P 500 Future Drop Despite Trump's 60-Day Waiver On Iran Sanctions—Infleqtion, SpaceX, Primoris In Focus",
-      "id": 60035618,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Tuesday, as the Nasdaq 100, Dow Jones, and S&amp;P 500 indices fell, following Monday&#39;s mixed close.",
-      "symbols": [
-        "BTCUSD",
-        "FDX",
-        "INFQ",
-        "PRIM",
-        "QQQ",
-        "SPCX",
-        "SPY",
-        "VTAK"
-      ],
-      "updated_at": "2026-06-23T09:39:29Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60035618/stock-market-today-dow-jones-sp-500-future-drop-despite-trumps-60-day-waiver-on-iran-sanctions-infleqtion-spacex-primoris-in-focus",
-      "_summary": "U.S. stock futures declined on Tuesday, as the Nasdaq 100, Dow Jones, and S&P 500 indices fell, following Monday’s mixed close. President Donald Trump warned he will “do what I have to do” if Tehran fails to stick to a newly negotiated peace roadmap, which initiated a 60-day U.S. waiver on Iranian sanctions, according to Reuters. Trump added that upcoming weapons inspections would enforce “nuclear honesty,” though Iranian officials denied that discussions regarding its nuclear program had begun.",
-      "_zh_headline": "今日股市：尽管特朗普对伊朗制裁给予 60 天豁免，但道琼斯、标准普尔 500 指数未来仍下跌 - Infleqtion、SpaceX、Primoris 成为焦点",
-      "_zh_summary": "周二美国股指期货下跌，纳斯达克 100 指数、道琼斯指数和标准普尔 500 指数继周一涨跌互现后下跌。据路透社报道，美国总统唐纳德·特朗普警告称，如果德黑兰不遵守新谈判达成的和平路线图，他将“做我必须做的事情”。该路线图启动了美国对伊朗制裁的 60 天豁免。特朗普补充说，即将进行的武器检查将加强“核诚实”，尽管伊朗官员否认有关其核计划的讨论已经开始。",
-      "_added_at": "2026-06-23T12:21:44.265101+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-23T10:02:17Z",
-      "headline": "Gold's New Role Outweighs Its Technical Bear Market",
-      "id": 60035868,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/23/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "GLD slips 22% from its peak as Goldman Sachs cuts its gold price target. Explore the tactical bear case and the structural bull case.",
-      "symbols": [
-        "GLD",
-        "GLDM",
-        "IAU",
-        "IAUM",
-        "OUNZ",
-        "SGOL"
-      ],
-      "updated_at": "2026-06-23T10:58:43Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60035868/golds-new-role-outweighs-its-technical-bear-market",
-      "_summary": "Institutions have noticed. Goldman Sachs cut its year-end 2026 price target from $5,400 to $4,900 an ounce. Analysts Lina Thomas and Daan Struyven called the outlook “structurally constructive but tactically cautious.” The immediate culprit is the Federal Reserve. Under new Chair Kevin Warsh , the central bank has swung hawkish, with Warsh using his first press conference to vow a return to price stability.",
-      "_zh_headline": "黄金的新角色胜过其技术熊市",
-      "_zh_summary": "机构已经注意到了。高盛将 2026 年年底价格目标从每盎司 5,400 美元下调至 4,900 美元。分析师莉娜·托马斯 (Lina Thomas) 和达安·斯特鲁文 (Daan Struyven) 称这一前景“结构上具有建设性，但战术上谨慎”。直接的罪魁祸首是美联储。在新任主席凯文·沃什 (Kevin Warsh) 的领导下，央行立场转向鹰派，沃什在他的第一次新闻发布会上发誓要恢复价格稳定。",
       "_added_at": "2026-06-23T12:21:44.265101+00:00"
     }
   ]
