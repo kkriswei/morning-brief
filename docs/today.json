@@ -2,6 +2,188 @@
   "date": "2026-06-24",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-06-24T09:02:14Z",
+      "headline": "Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains As Trump Targets Energy Firms Overcharging At The Pump—FedEx, Cerebras, Micron In Focus",
+      "id": 60063311,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Wall-Street.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Wall-Street.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Wall-Street.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures were mixed on Wednesday, as the Dow Jones fell, but the Nasdaq 100 and S&amp;P 500 rose, following Tuesday&#39;s lower close.",
+      "symbols": [
+        "BTCUSD",
+        "CBRS",
+        "FDX",
+        "GOOG",
+        "KBH",
+        "MU",
+        "QQQ",
+        "SPY",
+        "VZ"
+      ],
+      "updated_at": "2026-06-24T09:02:14Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60063311/stock-market-today-dow-jones-futures-slip-sp-500-gains-as-trump-targets-energy-firms-overcharging-at-the-pump-fedex-cerebras-micron-in-focus",
+      "_summary": "U.S. stock futures were mixed on Wednesday, as the Dow Jones index fell, but the Nasdaq 100 and S&P 500 indices rose, following Tuesday’s lower close. President Donald Trump instructed the Department of Justice (DOJ) to look into oil firms for not lowering retail fuel costs as crude oil prices drop. In an early Wednesday post on Truth Social, Trump claimed that energy corporations are overcharging consumers because their pump prices do not reflect the much cheaper rates they are currently paying for crude.",
+      "_zh_headline": "今日股市：道琼斯期货下跌，标准普尔 500 指数上涨，因为特朗普针对能源公司过度收费——联邦快递、Cerebras、美光成为焦点",
+      "_zh_summary": "周三美国股指期货涨跌互现，道琼斯指数下跌，但纳斯达克 100 指数和标准普尔 500 指数在周二收盘走低后上涨。唐纳德·特朗普总统指示司法部（DOJ）调查石油公司在原油价格下跌时未降低零售燃料成本的情况。周三早些时候，特朗普在《Truth Social》上发表文章称，能源公司向消费者收取过高费用，因为它们的汽油价格并未反映出他们目前为原油支付的便宜得多的价格。",
+      "_added_at": "2026-06-24T09:58:17.971092+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-06-24T06:54:36Z",
+      "headline": "Micron Earnings Echo Nvidia's 2023 Moment? Futurum CEO Says Memory Chips Are 'The GPUs Of Three Years Ago,' Reiterates $1,500 Target",
+      "id": 60062500,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Los-Angeles--California---24-January-202.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Los-Angeles--California---24-January-202.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Los-Angeles--California---24-January-202.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Futurum CEO Daniel Newman likened AI memory chips to Nvidia&#39;s early AI-era GPUs, maintained a $1,500 Micron price target.",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "MU",
+        "NVDA",
+        "SSNLF"
+      ],
+      "updated_at": "2026-06-24T06:54:36Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60062500/micron-earnings-could-echo-nvidias-2023-moment-says-futurum-ceo",
+      "_summary": "On Tuesday, in a post on X , Newman shared a clip from his appearance on Yahoo Finance on which he said the era of memory as a commodity business is over, describing memory as “strategic” infrastructure in the AI economy. According to Newman, the key question heading into Micron’s earnings is whether the company can continue delivering exceptionally strong profitability as demand for advanced AI memory remains elevated.",
+      "_zh_headline": "美光财报呼应英伟达的 2023 年时刻？ Futurum 首席执行官表示内存芯片是“三年前的 GPU”，重申 1,500 美元目标",
+      "_zh_summary": "周二，在 X 上的一篇帖子中，纽曼分享了他在雅虎财经上露面的一段视频，他在视频中表示，内存作为商品业务的时代已经结束，并将内存描述为人工智能经济中的“战略”基础设施。纽曼表示，影响美光盈利的关键问题是，随着对先进人工智能内存的需求持续上升，该公司是否能够继续提供异常强劲的盈利能力。",
+      "_added_at": "2026-06-24T09:58:17.971092+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-06-24T07:55:32Z",
+      "headline": "Qualcomm Eyes TikTok Parent ByteDance For Custom Chip Design Services: Report",
+      "id": 60062938,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Qualcomm-Logo-On-The-Iphone--Qualcomm-Is.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Qualcomm-Logo-On-The-Iphone--Qualcomm-Is.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Qualcomm-Logo-On-The-Iphone--Qualcomm-Is.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Qualcomm is reportedly in talks with ByteDance to design custom AI chips and VPUs, with mass production eyed by year-end.",
+      "symbols": [
+        "AVGO",
+        "BIDU",
+        "MRVL",
+        "QCOM"
+      ],
+      "updated_at": "2026-06-24T07:55:32Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60062938/qualcomm-eyes-tiktok-parent-bytedance-for-custom-chip-design-services-report",
+      "_summary": "Global chip supplier Qualcomm Inc. (NASDAQ: QCOM ) is reportedly in talks with China’s ByteDance to provide custom chip-design services. If the deal materializes, the TikTok parent would become an early customer of Qualcomm’s chip-design services operation, Reuters reported on Wednesday. The proposed chips for ByteDance would partially utilize technology from AlphaWave Semi , a high-speed connectivity company acquired by Qualcomm last year.",
+      "_zh_headline": "高通关注 TikTok 母公司字节跳动提供定制芯片设计服务：报告",
+      "_zh_summary": "据报道，全球芯片供应商高通公司（纳斯达克股票代码：QCOM）正在与中国字节跳动进行谈判，以提供定制芯片设计服务。据路透社周三报道，如果交易落实，TikTok 母公司将成为高通芯片设计服务业务的早期客户。字节跳动拟议的芯片将部分利用 AlphaWave Semi 的技术，AlphaWave Semi 是一家去年被高通收购的高速连接公司。",
+      "_added_at": "2026-06-24T09:58:17.971092+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-06-24T06:26:56Z",
+      "headline": "Dan Ives Says The AI Revolution Is In The 3rd Inning, Calls Chip Sell-Off A 'Gut Check Moment' As Micron Earnings Loom",
+      "id": 60062350,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Wedbush&#39;s Dan Ives says AI is still in the &#39;third inning,&#39; calling Tuesday&#39;s tech selloff a &#39;gut check moment&#39;.",
+      "symbols": [
+        "CRM",
+        "EWY",
+        "KORU",
+        "MU",
+        "NOW",
+        "TSM"
+      ],
+      "updated_at": "2026-06-24T06:26:56Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60062350/dan-ives-says-ai-revolution-is-in-the-third-inning-calls-chip-sell-off-a-gut-check-moment",
+      "_summary": "Wedbush analyst Dan Ives believes the artificial intelligence trade remains in the “third inning,” calling Tuesday’s pullback in technology and memory-chip stocks a “gut check moment” rather than a sign of weakening demand. Speaking on CNBC’s Closing Bell Tuesday, Ives said checks in Taiwan and South Korea continue to point to strong demand across the AI supply chain.",
+      "_zh_headline": "丹·艾夫斯 (Dan Ives) 表示，人工智能革命已进入第三局，随着美光盈利的临近，芯片抛售是“全面检查时刻”",
+      "_zh_summary": "Wedbush 分析师丹·艾夫斯 (Dan Ives) 认为，人工智能交易仍处于“第三局”，他称周二科技和存储芯片股的回调是“肠道检查时刻”，而不是需求疲软的迹象。艾夫斯周二在 CNBC 的收盘钟声中表示，台湾和韩国的检查继续表明整个人工智能供应链的需求强劲。",
+      "_added_at": "2026-06-24T09:58:17.971092+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-06-24T09:32:50Z",
+      "headline": "Micron Earnings Could Decide Whether ASML's AI Boom Has Years Left To Run, Says Analyst",
+      "id": 60063535,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Shay Boloor said Micron&#39;s earnings could boost ASML if persistent AI-driven memory shortages support years of semiconductor spending.",
+      "symbols": [
+        "ASML",
+        "MU",
+        "SSNLF"
+      ],
+      "updated_at": "2026-06-24T09:32:50Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60063535/micron-earnings-could-decide-whether-asmls-ai-boom-has-years-left-to-run-says-analyst",
+      "_summary": "Ahead of Micron’s fiscal third-quarter results on Wednesday, Futurum Equities Chief Market Strategist Shay Boloor said investors should pay close attention to management’s commentary on the outlook for DRAM, NAND and high-bandwidth memory, or HBM. “If $MU confirms tomorrow that DRAM, NAND and HBM tightness can last into 2027 or 2028 then memory companies have more reason to keep spending on capacity and advanced manufacturing tools,” Boloor wrote on X .",
+      "_zh_headline": "分析师表示，美光的盈利可能决定 ASML 的人工智能热潮是否还能持续数年",
+      "_zh_summary": "在美光周三公布第三财季业绩之前，Futurum Equities 首席市场策略师 Shay Boloor 表示，投资者应密切关注管理层对 DRAM、NAND 和高带宽内存 (HBM) 前景的评论。 Boloor 在 X 上写道：“如果 $MU 明天确认 DRAM、NAND 和 HBM 的紧张状况可能会持续到 2027 年或 2028 年，那么存储器公司就有更多理由继续在产能和先进制造工具上进行支出。”",
+      "_added_at": "2026-06-24T09:58:17.971092+00:00"
+    },
+    {
       "headline": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
       "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
       "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
