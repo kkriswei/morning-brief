@@ -2,6 +2,215 @@
   "date": "2026-06-24",
   "articles": [
     {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-06-24T16:38:29Z",
+      "headline": "Micron Earnings Reaction To Test AI Trade; SK Hynix US Listing Is Bad News For MU",
+      "id": 60077439,
+      "images": [],
+      "source": "benzinga",
+      "summary": "\n\n\n\nAI Trade Test Ahead\n\n\n\nPlease click here for an enlarged chart of Micron Technology Inc (NASDAQ:MU).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of MU stock",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "BTCUSD",
+        "GLD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "SLV",
+        "SPY",
+        "SSNLF",
+        "TSLA",
+        "USO"
+      ],
+      "updated_at": "2026-06-24T16:40:07Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/60077439/micron-earnings-reaction-to-test-ai-trade-sk-hynix-us-listing-is-bad-news-for-mu",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. As of this writing, gold has fallen below the psychologically important support of $4000.  Note that our rating on gold has been negative for the short term.  As full disclosure, we are long gold from an average of $1103 and partial profits were taken as high as $5511.",
+      "_zh_headline": "美光科技盈利反应测试人工智能贸易； SK海力士美国上市对MU来说是个坏消息",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。截至撰写本文时，金价已跌破 4000 美元的重要心理支撑位。  请注意，我们对黄金的短期评级为负面。  据全面披露，我们从平均价 1103 美元开始做多黄金，并在最高至 5511 美元时获利了结。",
+      "_added_at": "2026-06-24T18:18:09.096281+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-24T17:17:52Z",
+      "headline": "S&P 500 Rebounds Ahead Of Micron Test, Oil Drops To $70: Stock Market Today",
+      "id": 60078743,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks rebounds Wednesday as oil sank below $70 on holding the Iran ceasefire, small caps hit a record, gold slides and traders await Micron earnings.",
+      "symbols": [
+        "AU",
+        "BKR",
+        "BLDR",
+        "CHRD",
+        "DIA",
+        "FLS",
+        "FOUR",
+        "GDX",
+        "IBB",
+        "ITB",
+        "IWM",
+        "JETS",
+        "MSTR",
+        "MU",
+        "QQQ",
+        "RH",
+        "RKLB",
+        "RKT",
+        "VOO",
+        "WEN",
+        "XLB",
+        "XLE",
+        "XLF",
+        "XLI",
+        "XLP",
+        "XLRE",
+        "XLY"
+      ],
+      "updated_at": "2026-06-24T17:17:52Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60078743/stocks-rebound-wall-street-wednesday-mu-micron-technology-earnings-report-oil-70-dollars",
+      "_summary": "U.S. stocks rebounded by midday Wednesday, recovering from Tuesday’s tech-led sell-off as crude oil tumbled to $70 a barrel on a holding U.S.-Iran ceasefire, sending small caps to a fresh record and the Dow Jones Industrial Average to an all-time high. The relief came as a U.S.-Iran ceasefire held and negotiators advanced a 60-day roadmap toward a final deal, with the Strait of Hormuz open and the Treasury authorizing temporary Iranian oil sales.",
+      "_zh_headline": "标准普尔 500 指数在微米测试之前反弹，油价跌至 70 美元：今日股市",
+      "_zh_summary": "美国股市周三午盘反弹，从周二科技股主导的抛售中恢复过来，因美伊停火导致原油价格跌至每桶 70 美元，小盘股创下新高，道琼斯工业平均指数创历史新高。消息传来之际，美国与伊朗达成停火协议，谈判人员为达成最终协议推进了 60 天的路线图，霍尔木兹海峡开放，财政部授权伊朗临时出售石油。",
+      "_added_at": "2026-06-24T18:18:09.096281+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-24T17:01:09Z",
+      "headline": "Cathie Wood Is Rebuilding The Magnificent 7 Trade: ARK ETFs Buy Amazon, Alphabet, Tesla During AI Pullback",
+      "id": 60078192,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Etf-Exchange-traded-Fund-Stock-Market-Tr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Etf-Exchange-traded-Fund-Stock-Market-Tr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Etf-Exchange-traded-Fund-Stock-Market-Tr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "On Tuesday, Cathie Wood boosted AMZN, GOOGL and TSLA holdings across ARK ETFs as markets fell, signaling a growing bet on Magnificent 7 stocks.",
+      "symbols": [
+        "AIQ",
+        "AMZN",
+        "ARKF",
+        "ARKK",
+        "ARKW",
+        "GOOGL",
+        "MAGS",
+        "MGK",
+        "QQQ",
+        "SMH",
+        "SOXX",
+        "TSLA"
+      ],
+      "updated_at": "2026-06-24T17:01:09Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60078192/cathie-wood-is-rebuilding-the-magnificent-7-trade-ark-etfs-buy-amazon-alphabet-tesla-during-ai-pullback",
+      "_summary": "Cathie Wood appears to be leaning back into the Magnificent Seven trade. The purchases came as investors continue debating whether the next leg of the AI rally will be led by semiconductor giants such as Nvidia or by mega-cap platform companies that are increasingly monetizing artificial intelligence through cloud computing, digital advertising, e-commerce and autonomous driving technologies. • ARK Innovation ETF shares are trending higher. What’s driving ARKK shares up?",
+      "_zh_headline": "Cathie Wood 正在重建宏伟的 7 交易：ARK ETF 在人工智能回调期间买入亚马逊、Alphabet、特斯拉",
+      "_zh_summary": "凯茜·伍德 (Cathie Wood) 似乎又开始回归七强贸易。此次收购发生之际，投资者仍在争论下一波人工智能涨势是否将由英伟达等半导体巨头引领，还是由通过云计算、数字广告、电子商务和自动驾驶技术越来越多地利用人工智能货币化的大型平台公司引领。 • ARK Innovation ETF 股票呈走高趋势。是什么推动 ARKK 股价上涨？",
+      "_added_at": "2026-06-24T18:18:09.096281+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-24T17:35:28Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60079332,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+      "symbols": [
+        "AMD",
+        "CRWV",
+        "DGXX",
+        "INTC",
+        "MRVL",
+        "MU",
+        "NBIS",
+        "NVDA",
+        "PLTR",
+        "WULF"
+      ],
+      "updated_at": "2026-06-24T17:35:28Z",
+      "url": "https://www.benzinga.com/markets/options/26/06/60079332/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-24T18:18:09.096281+00:00"
+    },
+    {
+      "author": "Michael Cohen",
+      "content": "",
+      "created_at": "2026-06-24T17:30:16Z",
+      "headline": "Earnings Scheduled For June 24, 2026 (CORRECTED)",
+      "id": 60065159,
+      "images": [],
+      "source": "benzinga",
+      "summary": "Companies Reporting Before The Bell\n• Crown Crafts (NASDAQ:CRWS) is estimated to report earnings for its fourth quarter. \n• PodcastOne (NASDAQ:PODC) is expected to report quarterly loss at $0.02 per share on revenue of",
+      "symbols": [
+        "BU",
+        "CRWS",
+        "DAKT",
+        "ET",
+        "FUL",
+        "JEF",
+        "LVO",
+        "MEI",
+        "MLKN",
+        "MNY",
+        "MU",
+        "NG",
+        "PAYX",
+        "PODC",
+        "TCOM",
+        "WS"
+      ],
+      "updated_at": "2026-06-24T17:30:19Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/06/60065159/earnings-scheduled-for-june-24-2026",
+      "_summary": "Editor’s Note: This article has been updated to remove companies that are not reporting earnings today. • Crown Crafts (NASDAQ: CRWS ) is estimated to report earnings for its fourth quarter. • PodcastOne (NASDAQ: PODC ) is expected to report quarterly loss at $0.02 per share on revenue of $15.50 million. • Daktronics (NASDAQ: DAKT ) is estimated to report quarterly earnings at $0.16 per share on revenue of $205.27 million.",
+      "_zh_headline": "预计 2026 年 6 月 24 日收益（已更正）",
+      "_zh_summary": "编者注：本文已更新，删除了今天未报告收益的公司。 • Crown Crafts（纳斯达克股票代码：CRWS）预计将公布第四季度收益。 • PodcastOne（纳斯达克股票代码：PODC）预计季度亏损为每股 0.02 美元，营收为 1,550 万美元。 • Daktronics（纳斯达克股票代码：DAKT）预计季度收益为每股 0.16 美元，营收为 2.0527 亿美元。",
+      "_added_at": "2026-06-24T18:18:09.096281+00:00"
+    },
+    {
       "author": "Chandrima Sanyal",
       "content": "",
       "created_at": "2026-06-24T15:45:19Z",
@@ -552,117 +761,6 @@
       "_zh_headline": "分析师表示，美光的盈利可能决定 ASML 的人工智能热潮是否还能持续数年",
       "_zh_summary": "在美光周三公布第三财季业绩之前，Futurum Equities 首席市场策略师 Shay Boloor 表示，投资者应密切关注管理层对 DRAM、NAND 和高带宽内存 (HBM) 前景的评论。 Boloor 在 X 上写道：“如果 $MU 明天确认 DRAM、NAND 和 HBM 的紧张状况可能会持续到 2027 年或 2028 年，那么存储器公司就有更多理由继续在产能和先进制造工具上进行支出。”",
       "_added_at": "2026-06-24T09:58:17.971092+00:00"
-    },
-    {
-      "headline": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-      "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-24T03:57:59+00:00",
-      "_summary": "The Republican-controlled US Senate has approved a measure instructing President Donald Trump to halt the war in Iran or seek congressional approval before continuing military action. A handful of Republicans joined Democrats in Tuesday's 50-48 vote. The same measure was passed by the US House of Representatives earlier this month. But the resolution is largely symbolic because, even after passing both chambers of Congress, it will not be sent to Trump for his consideration and does not carry the force of the law. It came as Republicans in Congress have expressed scepticism about a peace plan Trump agreed with Iran, and the unpopular conflict approaches its fifth month. UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls Trump criticised the resolution on Tuesday night, calling it \"poorly timed and meaningless\".",
-      "_zh_headline": "国会首次通过战争权力措施，谴责特朗普与伊朗的战争",
-      "_zh_summary": "共和党控制的美国参议院批准了一项措施，指示唐纳德·特朗普总统停止伊朗战争或在继续采取军事行动之前寻求国会批准。在周二的投票中，少数共和党人以 50 比 48 的投票结果加入了民主党的行列。本月早些时候，美国众议院也通过了同样的措施。但该决议在很大程度上是象征性的，因为即使在国会参众两院获得通过，它也不会送交特朗普审议，也不具有法律效力。国会共和党人对特朗普与伊朗达成的和平计划表示怀疑，这场不受欢迎的冲突已进入第五个月。联合国表示将撤离滞留在霍尔木兹海峡的水手，鲁比奥警告不要造成人员伤亡。特朗普周二晚批评该决议，称其“时机不当且毫无意义”。",
-      "_added_at": "2026-06-24T05:45:32.695629+00:00"
-    },
-    {
-      "headline": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-24T05:07:55+00:00",
-      "_summary": "US congressman Dan Goldman has been defeated in a New York primary election, capping a clean sweep for candidates backed by New York's democratic socialist Mayor Zohran Mamdani. Goldman was beaten by progressive challenger Brad Lander in New York's 10th congressional district in a contest that laid bare the party's divisions over the Israel-Gaza war. Lander has accused Israel of genocide in Gaza. Goldman, a two-term incumbent, was backed by pro-Israel groups. Two other candidates, both democratic socialists endorsed by Mamdani as he seeks to tilt the Democratic party to the left, won their primary races on Tuesday, in a boost for the party's left wing in America's largest city. Assemblywoman Claire Valdez unseated Brooklyn Borough President Antonio Reynoso in the 7th district. Darializa Avila Chevalier, a doctoral student who has joined pro-Palestinian protests at Columbia University, won her race in New York's 13th district.",
-      "_zh_headline": "马姆达尼支持的候选人在纽约民主党初选中大获全胜",
-      "_zh_summary": "美国国会议员丹·戈德曼(Dan Goldman)在纽约初选中落败，纽约民主社会主义市长佐赫兰·马姆达尼(Zohran Mamdani)支持的候选人大获全胜。高盛在纽约第十国会选区的竞选中被进步挑战者布拉德·兰德击败，这场竞选暴露了该党在以色列-加沙战争问题上的分歧。兰德指责以色列在加沙实施种族灭绝。高盛曾连任两届，得到了亲以色列团体的支持。另外两名候选人在周二的初选中赢得了初选，这为该党在美国最大城市的左翼势力带来了提振。女议员克莱尔·瓦尔迪兹 (Claire Valdez) 在第七选区罢免了布鲁克林区主席安东尼奥·雷诺索 (Antonio Reynoso)。参加哥伦比亚大学亲巴勒斯坦抗议活动的博士生 Darializa Avila Chevalier 在纽约第 13 区的竞选中获胜。",
-      "_added_at": "2026-06-24T05:45:32.695629+00:00"
-    },
-    {
-      "headline": "In symbolic vote, Congress directs Trump to remove forces from Iran war",
-      "summary": "The measure to remove U.S. armed forces from hostilities with Iran does not require the president's signature, nor does it carry the force of law. But it reflects bipartisan frustration with the war.",
-      "url": "https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-23T16:50:44-04:00",
-      "_summary": "The U.S. Capitol and National Mall is seen on June 13, 2026. Rahmat Gul/AP hide caption A bipartisan majority in Congress has voted in favor of a war powers resolution to remove U.S. armed forces from hostilities with Iran. The Senate voted 50 to 48 on Tuesday afternoon, with four Republicans joining Democrats in support. They were Bill Cassidy of Louisiana, Susan Collins of Maine, Rand Paul of Kentucky and Alaska's Lisa Murkowski. The measure, which is not legally binding and will not be sent to the White House for a signature, was approved by the House earlier this month . \"Today, Congress stood up to Donald Trump and voted to end his costly, unnecessary, and devastating war with Iran,\" Senate Minority Leader Chuck Schumer, D-N.Y., said in a statement after the vote. \"The message from the only branch of government with the power to declare war is unmistakable: the Trump administration must withdraw U.S. forces from hostilities in Iran.\"",
-      "_zh_headline": "国会象征性投票指示特朗普从伊朗战争中撤军",
-      "_zh_summary": "2026 年 6 月 13 日，美国国会大厦和国家广场。 Rahmat Gul/美联社 隐藏标题 国会两党多数投票赞成一项战争权力决议，以让美国武装部队摆脱与伊朗的敌对行动。周二下午，参议院以 50 比 48 的投票结果，四名共和党人和民主党人一起表示支持。他们是路易斯安那州的比尔·卡西迪、缅因州的苏珊·柯林斯、肯塔基州的兰德·保罗和阿拉斯加州的丽莎·默科斯基。该措施不具有法律约束力，也不会送交白宫签署，已于本月初获得众议院批准。纽约州参议院少数党领袖查克·舒默在投票后发表的一份声明中表示：“今天，国会勇敢地面对唐纳德·特朗普，并投票决定结束他与伊朗之间代价高昂、不必要且毁灭性的战争。” “唯一有权宣战的政府部门发出的信息是明确无误的：特朗普政府必须从伊朗的敌对行动中撤出美军。”",
-      "_added_at": "2026-06-24T05:45:32.695629+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-24T05:13:28Z",
-      "headline": "Micron, FedEx And 3 Stocks To Watch Heading Into Wednesday",
-      "id": 60061974,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Konskie--Poland---November-21--2024-Micr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Konskie--Poland---November-21--2024-Micr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Konskie--Poland---November-21--2024-Micr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Stocks to watch: PAYX, FDX, MU, KBH, JEF. Market slightly lower. PAYX, KBH beat earnings estimates, FDX, JEF missed. Check premarket coverage.",
-      "symbols": [
-        "FDX",
-        "JEF",
-        "KBH",
-        "MU",
-        "PAYX"
-      ],
-      "updated_at": "2026-06-24T05:13:28Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60061974/micron-fedex-and-3-stocks-to-watch-heading-into-wednesday",
-      "_summary": "With U.S. stock futures trading slightly lower this morning on Wednesday, some of the stocks that may grab investor focus today are as follows:",
-      "_zh_headline": "美光科技、联邦快递和周三值得关注的 3 只股票",
-      "_zh_summary": "由于周三美国股指期货交易小幅走低，今天可能吸引投资者关注的一些股票如下：",
-      "_added_at": "2026-06-24T05:45:32.695629+00:00"
-    },
-    {
-      "author": "Aniket Verma",
-      "content": "",
-      "created_at": "2026-06-24T02:12:12Z",
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Drop Further Amid Global Chip Sell-Off: Analyst Flags 'The Most Important Level' For BTC",
-      "id": 60061465,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Golden-Bitcoin-Coin-In-Red-And-Blue-Smok.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Golden-Bitcoin-Coin-In-Red-And-Blue-Smok.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Golden-Bitcoin-Coin-In-Red-And-Blue-Smok.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Leading cryptocurrencies cracked alongside stocks on Tuesday, June 23, after a sharp decline in chip-related stocks cast doubts on the sustainability of the AI rally.",
-      "symbols": [
-        "BMNR",
-        "BTCUSD",
-        "DOGEUSD",
-        "ETHUSD",
-        "MSTR",
-        "MU",
-        "SOLUSD",
-        "XRPUSD"
-      ],
-      "updated_at": "2026-06-24T02:12:12Z",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60061465/bitcoin-ethereum-xrp-dogecoin-drop-amid-chip-sell-off-analyst-flags-key-btc-level",
-      "_summary": "Leading cryptocurrencies cracked alongside stocks on Tuesday, after a sharp decline in chip-related stocks cast doubts on the sustainability of the AI rally. Bitcoin dropped below $62,000 amid heavy selling, while Ethereum bulls failed to defend the support at $1,700. XRP and Dogecoin recorded sharp declines as well. Over $560 million was liquidated from the cryptocurrency market in the last 24 hours, with $490 million in bullish long positions wiped out, according to Coinglass data.",
-      "_zh_headline": "比特币、以太坊、瑞波币、狗狗币在全球芯片抛售中进一步下跌：分析师标记比特币“最重要的水平”",
-      "_zh_summary": "周二，在芯片相关股票大幅下跌引发人们对人工智能涨势可持续性的怀疑之后，领先的加密货币与股市一起崩盘。在大量抛售中，比特币跌破 62,000 美元，而以太坊多头未能守住 1,700 美元的支撑位。 XRP 和狗狗币也出现大幅下跌。根据 Coinglass 的数据，过去 24 小时内，加密货币市场清算了超过 5.6 亿美元，其中 4.9 亿美元的看涨多头头寸被清空。",
-      "_added_at": "2026-06-24T05:45:32.695629+00:00"
     }
   ]
 }
