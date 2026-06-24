@@ -2,6 +2,73 @@
   "date": "2026-06-24",
   "articles": [
     {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-06-24T19:12:09Z",
+      "headline": "Gold Just Met Its First Real Rival In Years — And It’s Not What Anyone Expected",
+      "id": 60082587,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gold’s smooth climb just hit real competition — a bond‑market comeback that’s suddenly challenging gold’s momentum and splitting Wall Street on what happens next.",
+      "symbols": [
+        "GLD",
+        "TLT"
+      ],
+      "updated_at": "2026-06-24T19:12:09Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60082587/gold-vs-bonds-yields-fed-tlt-gld",
+      "_summary": "Gold’s smooth climb just hit real competition — a bond‑market comeback that’s suddenly challenging gold’s momentum and splitting Wall Street on what happens next.",
+      "_zh_headline": "黄金刚刚遇到多年来的第一个真正的竞争对手——这并不是任何人所期望的",
+      "_zh_summary": "金价的平稳攀升刚刚遭遇了真正的竞争——债券市场的卷土重来突然挑战了金价的势头，并使华尔街对接下来发生的事情产生了分歧。",
+      "_added_at": "2026-06-24T20:18:41.720834+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-24T17:33:46Z",
+      "headline": "VanEck Launches China Semiconductor ETF As Beijing’s $98 Billion Chip Push Gains Steam",
+      "id": 60079267,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/China-Semiconductor-Industry--Computer-C.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/China-Semiconductor-Industry--Computer-C.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/China-Semiconductor-Industry--Computer-C.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The China Semiconductor ETF targets China’s growing chip industry as Beijing boosts semiconductor investment and self-sufficiency efforts.",
+      "symbols": [
+        "SMH",
+        "SMHC",
+        "SMHX"
+      ],
+      "updated_at": "2026-06-24T17:33:46Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60079267/vaneck-launches-china-semiconductor-etf-as-beijings-98-billion-chip-push-gains-steam",
+      "_summary": "The China Semiconductor ETF targets China’s growing chip industry as Beijing boosts semiconductor investment and self-sufficiency efforts.",
+      "_zh_headline": "VanEck 推出中国半导体 ETF，北京 980 亿美元的筹码推动势头强劲",
+      "_zh_summary": "随着北京加大半导体投资和自给自足力度，中国半导体ETF瞄准了中国不断增长的芯片行业。",
+      "_added_at": "2026-06-24T20:18:41.720834+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-06-24T16:38:29Z",
@@ -689,77 +756,6 @@
       "_summary": "Global chip supplier Qualcomm Inc. (NASDAQ: QCOM ) is reportedly in talks with China’s ByteDance to provide custom chip-design services. If the deal materializes, the TikTok parent would become an early customer of Qualcomm’s chip-design services operation, Reuters reported on Wednesday. The proposed chips for ByteDance would partially utilize technology from AlphaWave Semi , a high-speed connectivity company acquired by Qualcomm last year.",
       "_zh_headline": "高通关注 TikTok 母公司字节跳动提供定制芯片设计服务：报告",
       "_zh_summary": "据报道，全球芯片供应商高通公司（纳斯达克股票代码：QCOM）正在与中国字节跳动进行谈判，以提供定制芯片设计服务。据路透社周三报道，如果交易落实，TikTok 母公司将成为高通芯片设计服务业务的早期客户。字节跳动拟议的芯片将部分利用 AlphaWave Semi 的技术，AlphaWave Semi 是一家去年被高通收购的高速连接公司。",
-      "_added_at": "2026-06-24T09:58:17.971092+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-06-24T06:26:56Z",
-      "headline": "Dan Ives Says The AI Revolution Is In The 3rd Inning, Calls Chip Sell-Off A 'Gut Check Moment' As Micron Earnings Loom",
-      "id": 60062350,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Wedbush&#39;s Dan Ives says AI is still in the &#39;third inning,&#39; calling Tuesday&#39;s tech selloff a &#39;gut check moment&#39;.",
-      "symbols": [
-        "CRM",
-        "EWY",
-        "KORU",
-        "MU",
-        "NOW",
-        "TSM"
-      ],
-      "updated_at": "2026-06-24T06:26:56Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60062350/dan-ives-says-ai-revolution-is-in-the-third-inning-calls-chip-sell-off-a-gut-check-moment",
-      "_summary": "Wedbush analyst Dan Ives believes the artificial intelligence trade remains in the “third inning,” calling Tuesday’s pullback in technology and memory-chip stocks a “gut check moment” rather than a sign of weakening demand. Speaking on CNBC’s Closing Bell Tuesday, Ives said checks in Taiwan and South Korea continue to point to strong demand across the AI supply chain.",
-      "_zh_headline": "丹·艾夫斯 (Dan Ives) 表示，人工智能革命已进入第三局，随着美光盈利的临近，芯片抛售是“全面检查时刻”",
-      "_zh_summary": "Wedbush 分析师丹·艾夫斯 (Dan Ives) 认为，人工智能交易仍处于“第三局”，他称周二科技和存储芯片股的回调是“肠道检查时刻”，而不是需求疲软的迹象。艾夫斯周二在 CNBC 的收盘钟声中表示，台湾和韩国的检查继续表明整个人工智能供应链的需求强劲。",
-      "_added_at": "2026-06-24T09:58:17.971092+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-06-24T09:32:50Z",
-      "headline": "Micron Earnings Could Decide Whether ASML's AI Boom Has Years Left To Run, Says Analyst",
-      "id": 60063535,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Shay Boloor said Micron&#39;s earnings could boost ASML if persistent AI-driven memory shortages support years of semiconductor spending.",
-      "symbols": [
-        "ASML",
-        "MU",
-        "SSNLF"
-      ],
-      "updated_at": "2026-06-24T09:32:50Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60063535/micron-earnings-could-decide-whether-asmls-ai-boom-has-years-left-to-run-says-analyst",
-      "_summary": "Ahead of Micron’s fiscal third-quarter results on Wednesday, Futurum Equities Chief Market Strategist Shay Boloor said investors should pay close attention to management’s commentary on the outlook for DRAM, NAND and high-bandwidth memory, or HBM. “If $MU confirms tomorrow that DRAM, NAND and HBM tightness can last into 2027 or 2028 then memory companies have more reason to keep spending on capacity and advanced manufacturing tools,” Boloor wrote on X .",
-      "_zh_headline": "分析师表示，美光的盈利可能决定 ASML 的人工智能热潮是否还能持续数年",
-      "_zh_summary": "在美光周三公布第三财季业绩之前，Futurum Equities 首席市场策略师 Shay Boloor 表示，投资者应密切关注管理层对 DRAM、NAND 和高带宽内存 (HBM) 前景的评论。 Boloor 在 X 上写道：“如果 $MU 明天确认 DRAM、NAND 和 HBM 的紧张状况可能会持续到 2027 年或 2028 年，那么存储器公司就有更多理由继续在产能和先进制造工具上进行支出。”",
       "_added_at": "2026-06-24T09:58:17.971092+00:00"
     }
   ]
