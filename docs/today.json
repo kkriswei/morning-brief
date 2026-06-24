@@ -2,6 +2,160 @@
   "date": "2026-06-24",
   "articles": [
     {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-06-24T12:10:29Z",
+      "headline": "Semiconductor Volatility Flashes A Dot-Com Warning, Reveals An Unexpected Hedge",
+      "id": 60066523,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tech-Bubble-Risk-And-Economic-Technology.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tech-Bubble-Risk-And-Economic-Technology.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tech-Bubble-Risk-And-Economic-Technology.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Is the semiconductor boom flashing a dotcom-era warning? Extreme volatility near record highs has investors on edge.",
+      "symbols": [
+        "ASML",
+        "MU",
+        "SMH",
+        "SOXL",
+        "SOXQ",
+        "SOXX",
+        "USD",
+        "XLK",
+        "XSD"
+      ],
+      "updated_at": "2026-06-24T12:10:29Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60066523/semiconductor-volatility-flashes-a-dot-com-warning-reveals-an-unexpected-hedge",
+      "_summary": "However, beneath the record highs, one market indicator is flashing an uncomfortably familiar warning. The Philadelphia Semiconductor Index (SOX) has recorded nine single-day gains of 5% or more over the last 60 trading sessions. That kind of volatility is exceptionally rare. In fact, historical data shows this exact pattern has only been exceeded during the collapse of the Dotcom bubble in the early 2000s.",
+      "_zh_headline": "半导体波动发出互联网警告，揭示意外的对冲",
+      "_zh_summary": "然而，在创纪录的高位之下，一个市场指标正在闪烁着令人不安的熟悉警告。费城半导体指数 (SOX) 在过去 60 个交易日中有 9 个单日涨幅达到 5% 或以上。这种波动非常罕见。事实上，历史数据显示，直到 2000 年代初期互联网泡沫破裂期间，这一确切模式才被突破。",
+      "_added_at": "2026-06-24T12:34:17.438515+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-06-24T11:15:36Z",
+      "headline": "Nvidia Supplier SK Hynix Targets Massive Nasdaq Debut— And It's Coming For Alibaba's Record",
+      "id": 60065267,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SK Hynix plans a $29.4 billion Nasdaq ADR listing that could surpass Alibaba&#39;s record, fueled by booming AI chip demand.",
+      "symbols": [
+        "BABA",
+        "MU",
+        "NVDA",
+        "SSNLF"
+      ],
+      "updated_at": "2026-06-24T11:15:36Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60065267/nvidia-supplier-sk-hynix-targets-massive-nasdaq-debut-and-its-coming-for-alibabas-record",
+      "_summary": "South Korean semiconductor giant SK Hynix is setting its sights on a massive American Depositary Receipts (ADR) listing in a bid to expand its investor base and ramp up chip production capabilities. The firm intends to issue 17.79 million new shares to facilitate the ADR listing on the Nasdaq market, slated for July 10. The funds raised will be channeled towards building a chip factory in Yongin, an advanced packaging fab in Cheongju, and acquiring chipmaking equipment like an Extreme Ultraviolet Scanner.",
+      "_zh_headline": "Nvidia 供应商 SK Hynix 目标在纳斯达克大规模亮相——这将打破阿里巴巴的纪录",
+      "_zh_summary": "韩国半导体巨头 SK 海力士正着眼于大规模美国存托凭证 (ADR) 上市，以扩大其投资者基础并提高芯片生产能力。该公司计划发行 1779 万股新股，以促进定于 7 月 10 日在纳斯达克市场的 ADR 上市。筹集的资金将用于在龙仁建设一家芯片工厂、在清州建设一家先进封装工厂，并购买极紫外扫描仪等芯片制造设备。",
+      "_added_at": "2026-06-24T12:34:17.438515+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-24T11:11:17Z",
+      "headline": "Earnings Scheduled For June 24, 2026",
+      "id": 60065159,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Companies Reporting Before The Bell\n• Crown Crafts (NASDAQ:CRWS) is estimated to report earnings for its fourth quarter. \n• PodcastOne (NASDAQ:PODC) is expected to report quarterly loss at $0.02 per share on revenue of",
+      "symbols": [
+        "BU",
+        "CRWS",
+        "DAKT",
+        "ET",
+        "FUL",
+        "JEF",
+        "LVO",
+        "MEI",
+        "MLKN",
+        "MNY",
+        "MU",
+        "NG",
+        "PAYX",
+        "PODC",
+        "TCOM",
+        "WS"
+      ],
+      "updated_at": "2026-06-24T11:11:17Z",
+      "url": "https://www.benzinga.com/news/earnings/26/06/60065159/earnings-scheduled-june-24-2026",
+      "_summary": "• Crown Crafts (NASDAQ: CRWS ) is estimated to report earnings for its fourth quarter. • PodcastOne (NASDAQ: PODC ) is expected to report quarterly loss at $0.02 per share on revenue of $15.50 million. • Daktronics (NASDAQ: DAKT ) is estimated to report quarterly earnings at $0.16 per share on revenue of $205.27 million. • MoneyHero (NASDAQ: MNY ) is likely to report quarterly loss at $0.05 per share on revenue of $17.38 million.",
+      "_zh_headline": "预计 2026 年 6 月 24 日收益",
+      "_zh_summary": "• Crown Crafts（纳斯达克股票代码：CRWS）预计将公布第四季度收益。 • PodcastOne（纳斯达克股票代码：PODC）预计季度亏损为每股 0.02 美元，营收为 1,550 万美元。 • Daktronics（纳斯达克股票代码：DAKT）预计季度收益为每股 0.16 美元，营收为 2.0527 亿美元。 • MoneyHero（纳斯达克股票代码：MNY）可能报告季度亏损为每股0.05 美元，营收为1,738 万美元。",
+      "_added_at": "2026-06-24T12:34:17.438515+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-06-24T12:20:42Z",
+      "headline": "Why Is Micron Technology Stock Surging Wednesday?",
+      "id": 60066684,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-On-Circuit-Board.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-On-Circuit-Board.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-On-Circuit-Board.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "MU stock jumps premarket before Q3 results. Can Micron beat lofty expectations amid a tech rebound and soaring HBM demand?",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-24T12:20:42Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60066684/why-is-micron-technology-stock-surging-wednesday",
+      "_summary": "According to Benzinga Pro estimates, options markets are bracing for a high-volatility event, pricing in an implied move of approximately 14% in either direction. Nasdaq futures are up 0.43% while S&P 500 futures have gained 0.22%. Wall Street maintains high expectations for the memory manufacturer. Analysts track consensus projections for fiscal third-quarter earnings at $20.76 per share, representing a tenfold increase from the $1.91 per share earned in the prior-year period.",
+      "_zh_headline": "为什么美光科技股价周三飙升？",
+      "_zh_summary": "根据 Benzinga Pro 的估计，期权市场正在为高波动性事件做好准备，定价双向隐含波动约为 14%。纳斯达克期货上涨 0.43%，标准普尔 500 指数期货上涨 0.22%。华尔街对这家内存制造商保持着很高的期望。分析师对第三财季每股收益的普遍预测为 20.76 美元，比去年同期的每股收益 1.91 美元增长了十倍。",
+      "_added_at": "2026-06-24T12:34:17.438515+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-06-24T09:02:14Z",
