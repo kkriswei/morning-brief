@@ -1,17 +1,40 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "articles": [
     {
-      "headline": "Trump Asks Congress for $88 Billion, Mostly for War With Iran",
-      "summary": "The proposal was all but dead on arrival in the Senate, where it would need bipartisan support, and comes amid growing G.O.P. skepticism about the conflict.",
-      "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-congress-iran-war-pentagon.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-24T21:30:20+00:00",
-      "_summary": "The proposal was all but dead on arrival in the Senate, where it would need bipartisan support, and comes amid growing G.O.P. skepticism about the conflict.",
-      "_zh_headline": "特朗普向国会请求880亿美元，主要用于与伊朗的战争",
-      "_zh_summary": "该提案在抵达参议院时几乎胎死腹中，需要两党的支持，而且是在共和党不断壮大的背景下提出的。对冲突持怀疑态度。",
-      "_added_at": "2026-06-24T21:54:44.928334+00:00"
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-06-25T04:04:59Z",
+      "headline": "SanDisk, Western Digital, Seagate Surge After Hours As Micron's Blowout Earnings Signal Memory Upcycle",
+      "id": 60088616,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SanDisk, Western Digital and Seagate Technology shares surged after hours Wednesday after Micron&#39;s strong earnings.",
+      "symbols": [
+        "MU",
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "updated_at": "2026-06-25T04:05:00Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60088616/sandisk-western-digital-and-seagate-surge-after-microns-blowout-earnings-signal-memory-upcycle",
+      "_summary": "The gains in late trading session reflect a ripple effect, where earnings from a major industry player drive moves in related stocks. Micron’s strong results triggered a sympathy rally in WDC, SNDK and STX, which are exposed to the same demand trends. All three technology stocks reversed intraday losses in after-hours trading following Micron’s results. Trading volume for all three names remained active during the regular session.",
+      "_zh_headline": "闪迪、西部数据、希捷盘后股价飙升，美光业绩井喷预示内存升级周期",
+      "_zh_summary": "尾盘上涨反映了连锁反应，主要行业参与者的收益推动了相关股票的走势。美光的强劲业绩引发了 WDC、SNDK 和 STX 的同情反弹，这些公司也面临着相同的需求趋势。美光公布业绩后，所有三只科技股在盘后交易中扭转了盘中跌幅。常规交易期间，这三个名称的交易量仍然活跃。",
+      "_added_at": "2026-06-25T04:46:46.717632+00:00"
     },
     {
       "author": "Benzinga Insights",
@@ -54,7 +77,75 @@
       "_summary": "Gainers\n\nMethode Electronics (NYSE:MEI) shares moved upwards by 14.7% to $15.01 during Wednesday's after-market session. The company's market cap stands at $474.7 million. As per the press release, Q4 earnings",
       "_zh_headline": "12 只信息技术股在周三盘后交易中走势",
       "_zh_summary": "赢家\n\nMethode Electronics (NYSE:MEI) 股价在周三盘后交易时段上涨 14.7% 至 15.01 美元。该公司的市值为 4.747 亿美元。根据新闻稿，第四季度收益",
-      "_added_at": "2026-06-24T21:54:44.928334+00:00"
+      "_added_at": "2026-06-25T04:46:46.717632+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-06-25T02:17:15Z",
+      "headline": "Micron Didn't Beat Expectations, It 'Annihilated' Them, Says This Analyst: MU Stock Pops Over 15% After Hours",
+      "id": 60088326,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Los-Angeles--California---24-January-202.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Los-Angeles--California---24-January-202.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Los-Angeles--California---24-January-202.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron surged over 15% after crushing earnings estimates and forecasting continued strength from booming AI-driven memory demand.",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-25T02:17:15Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60088326/micron-didnt-beat-expectations-it-annihilated-them-says-this-analyst-mu-stock-pops-over-15-after-hours",
+      "_summary": "Micron reported third-quarter revenue of $41.46 billion, topping analyst estimates of $35.59 billion, while adjusted earnings came in at $25.11 per share, ahead of expectations for $20.63 per share. Total revenue jumped approximately 346% from a year earlier. The company also issued a strong forecast for the fourth quarter, projecting revenue of $50 billion, plus or minus $1 billion, and adjusted earnings of $31 per share, plus or minus $1.",
+      "_zh_headline": "这位分析师表示，美光科技没有超出预期，而是“消灭”了预期：盘后，MU 股价上涨超过 15%",
+      "_zh_summary": "美光公布第三季度营收为 414.6 亿美元，超过分析师预期的 355.9 亿美元，调整后收益为每股 25.11 美元，高于预期的每股 20.63 美元。总收入较上年同期增长约 346%。该公司还发布了第四季度的强劲预测，预计收入为 500 亿美元，上下浮动 10 亿美元，调整后每股收益为 31 美元，上下浮动 1 美元。",
+      "_added_at": "2026-06-25T04:46:46.717632+00:00"
+    },
+    {
+      "author": "Shivdeep Dhaliwal",
+      "content": "",
+      "created_at": "2026-06-25T01:31:51Z",
+      "headline": "Micron Technology, Qualcomm, The Wendy's Company, SanDisk And Western Digital: Why These 5 Stocks Are On Investors' Radars Today",
+      "id": 60088161,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Businessman-Interacting-With-Digital-For.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Businessman-Interacting-With-Digital-For.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Businessman-Interacting-With-Digital-For.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "MU, QCOM, WEN, SNDK, WDC were among trending stocks on Wednesday, June 24, 2026.",
+      "symbols": [
+        "MU",
+        "QCOM",
+        "SNDK",
+        "WDC",
+        "WEN"
+      ],
+      "updated_at": "2026-06-25T01:31:51Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60088161/micron-technology-qualcomm-the-wendys-company-sandisk-and-western-digital-why-these-5-stocks-are-on-investors-radars-today",
+      "_summary": "Major U.S. indexes ended Wednesday mixed, with the Dow Jones Industrial Average gaining 0.35% to 51,848.90, while the S&P 500 slipped 0.10% to 7,358.22 and the Nasdaq declined 0.43% to 25,476.63. These are the top stocks that gained the attention of retail traders and investors through the day: Micron Technology’s stock dipped 0.37%, closing at $1,047.92. The stock reached an intraday high of $1,083.32 and a low of $991.10, with a 52-week range between $103.38 and $1,213.56.",
+      "_zh_headline": "美光科技、高通、The Wendy's Company、SanDisk 和西部数据：为何这 5 只股票如今受到投资者关注",
+      "_zh_summary": "美国主要股指周三收盘涨跌互现，道琼斯工业平均指数上涨0.35%，至51,848.90点；标准普尔500指数下跌0.10%，至7,358.22点；纳斯达克指数下跌0.43%，至25,476.63点。以下是全天最受散户交易者和投资者关注的股票：美光科技 (Micron Technology) 股价下跌 0.37%，收于 1,047.92 美元。该股盘中最高价为 1,083.32 美元，最低价为 991.10 美元，52 周波动区间为 103.38 美元至 1,213.56 美元。",
+      "_added_at": "2026-06-25T04:46:46.717632+00:00"
     },
     {
       "author": "Erica Kollmann",
@@ -89,7 +180,7 @@
       "_summary": "Investors are reading Micron’s numbers as confirmation that the upcycle in memory, NAND and broader storage demand remains intact, driving a bid into the entire group. Revenue surged to $41.46 billion, far ahead of analyst expectations near $35.6 billion, while adjusted EPS jumped to $25.11, topping forecasts of roughly $20.60 per share, according to Benzinga Pro . Year-over-year revenue growth of about 346% highlights how rapidly demand for high-bandwidth memory and advanced DRAM is hitting the balance sheet.",
       "_zh_headline": "美光第三季度井喷报告波及存储股闪迪、西部数据",
       "_zh_summary": "投资者将美光的数据视为内存、NAND 和更广泛存储需求的升级周期保持不变的确认，从而推动了对整个集团的收购。根据 Benzinga Pro 的数据，收入飙升至 414.6 亿美元，远远高于分析师近 356 亿美元的预期，而调整后每股收益跃升至 25.11 美元，超过每股约 20.60 美元的预期。收入同比增长约 346%，凸显了对高带宽内存和先进 DRAM 的需求正在迅速影响资产负债表。",
-      "_added_at": "2026-06-24T21:54:44.928334+00:00"
+      "_added_at": "2026-06-25T04:46:46.717632+00:00"
     },
     {
       "author": "Chris Capre",
@@ -121,606 +212,7 @@
       "_summary": "But the stock price reaction is only part of the story. The options market had its own projection going into the print — and what it’s showing now tells us something important about where MU may be headed next. Here’s what the positioning and price action are saying about the trade going forward. For the quarter, Micron reported earnings per share of $25.11 on revenue of $41.5 billion.",
       "_zh_headline": "美光刚刚大幅盈利，期权市场称 1,100 美元只是一个开始",
       "_zh_summary": "但股价反应只是故事的一部分。期权市场有自己的预测，现在的情况告诉我们一些关于 MU 下一步可能走向的重要信息。以下是仓位和价格走势对未来交易的影响。美光科技公布本季度每股收益为 25.11 美元，营收为 415 亿美元。",
-      "_added_at": "2026-06-24T21:54:44.928334+00:00"
-    },
-    {
-      "author": "Adam Eckert",
-      "content": "",
-      "created_at": "2026-06-24T20:18:34Z",
-      "headline": "Micron Delivers Another Blowout Quarter, Raises Guidance On 'Rapidly Growing' Demand",
-      "id": 60085248,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron Technology Inc (NASDAQ:MU) posts financial results for the third quarter of fiscal 2026 on Wednesday after the closing bell.",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-24T20:18:34Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/06/60085248/micron-delivers-another-blowout-quarter-raises-guidance-on-rapidly-growing-demand",
-      "_summary": "Micron reported third-quarter revenue of $41.46 billion, exceeding analyst estimates of $35.59 billion, according to Benzinga Pro . The semiconductor company posted adjusted earnings of $25.11 per share, beating analyst estimates of $20.63 per share. Total revenue was up approximately 346% on a year-over-year basis. Operating cash flow came in at $25.39 billion versus $11.90 billion in the prior quarter and $4.61 billion in the comparable quarter last year.",
-      "_zh_headline": "美光迎来又一个井喷季度，提高了“快速增长”需求的指导",
-      "_zh_summary": "据 Benzinga Pro 称，美光第三季度营收为 414.6 亿美元，超出分析师预期的 355.9 亿美元。该半导体公司公布调整后每股收益 25.11 美元，超出分析师预期的每股 20.63 美元。总收入同比增长约 346%。运营现金流为 253.9 亿美元，上一季度为 119 亿美元，去年同期为 46.1 亿美元。",
-      "_added_at": "2026-06-24T21:54:44.928334+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-24T19:12:09Z",
-      "headline": "Gold Just Met Its First Real Rival In Years — And It’s Not What Anyone Expected",
-      "id": 60082587,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gold’s smooth climb just hit real competition — a bond‑market comeback that’s suddenly challenging gold’s momentum and splitting Wall Street on what happens next.",
-      "symbols": [
-        "GLD",
-        "TLT"
-      ],
-      "updated_at": "2026-06-24T19:12:09Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60082587/gold-vs-bonds-yields-fed-tlt-gld",
-      "_summary": "Gold’s smooth climb just hit real competition — a bond‑market comeback that’s suddenly challenging gold’s momentum and splitting Wall Street on what happens next.",
-      "_zh_headline": "黄金刚刚遇到多年来的第一个真正的竞争对手——这并不是任何人所期望的",
-      "_zh_summary": "金价的平稳攀升刚刚遭遇了真正的竞争——债券市场的卷土重来突然挑战了金价的势头，并使华尔街对接下来发生的事情产生了分歧。",
-      "_added_at": "2026-06-24T20:18:41.720834+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-24T17:33:46Z",
-      "headline": "VanEck Launches China Semiconductor ETF As Beijing’s $98 Billion Chip Push Gains Steam",
-      "id": 60079267,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/China-Semiconductor-Industry--Computer-C.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/China-Semiconductor-Industry--Computer-C.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/China-Semiconductor-Industry--Computer-C.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The China Semiconductor ETF targets China’s growing chip industry as Beijing boosts semiconductor investment and self-sufficiency efforts.",
-      "symbols": [
-        "SMH",
-        "SMHC",
-        "SMHX"
-      ],
-      "updated_at": "2026-06-24T17:33:46Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60079267/vaneck-launches-china-semiconductor-etf-as-beijings-98-billion-chip-push-gains-steam",
-      "_summary": "The China Semiconductor ETF targets China’s growing chip industry as Beijing boosts semiconductor investment and self-sufficiency efforts.",
-      "_zh_headline": "VanEck 推出中国半导体 ETF，北京 980 亿美元的筹码推动势头强劲",
-      "_zh_summary": "随着北京加大半导体投资和自给自足力度，中国半导体ETF瞄准了中国不断增长的芯片行业。",
-      "_added_at": "2026-06-24T20:18:41.720834+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-06-24T16:38:29Z",
-      "headline": "Micron Earnings Reaction To Test AI Trade; SK Hynix US Listing Is Bad News For MU",
-      "id": 60077439,
-      "images": [],
-      "source": "benzinga",
-      "summary": "\n\n\n\nAI Trade Test Ahead\n\n\n\nPlease click here for an enlarged chart of Micron Technology Inc (NASDAQ:MU).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of MU stock",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GLD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SLV",
-        "SPY",
-        "SSNLF",
-        "TSLA",
-        "USO"
-      ],
-      "updated_at": "2026-06-24T16:40:07Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/60077439/micron-earnings-reaction-to-test-ai-trade-sk-hynix-us-listing-is-bad-news-for-mu",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. As of this writing, gold has fallen below the psychologically important support of $4000.  Note that our rating on gold has been negative for the short term.  As full disclosure, we are long gold from an average of $1103 and partial profits were taken as high as $5511.",
-      "_zh_headline": "美光科技盈利反应测试人工智能贸易； SK海力士美国上市对MU来说是个坏消息",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。截至撰写本文时，金价已跌破 4000 美元的重要心理支撑位。  请注意，我们对黄金的短期评级为负面。  据全面披露，我们从平均价 1103 美元开始做多黄金，并在最高至 5511 美元时获利了结。",
-      "_added_at": "2026-06-24T18:18:09.096281+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-24T17:17:52Z",
-      "headline": "S&P 500 Rebounds Ahead Of Micron Test, Oil Drops To $70: Stock Market Today",
-      "id": 60078743,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stocks rebounds Wednesday as oil sank below $70 on holding the Iran ceasefire, small caps hit a record, gold slides and traders await Micron earnings.",
-      "symbols": [
-        "AU",
-        "BKR",
-        "BLDR",
-        "CHRD",
-        "DIA",
-        "FLS",
-        "FOUR",
-        "GDX",
-        "IBB",
-        "ITB",
-        "IWM",
-        "JETS",
-        "MSTR",
-        "MU",
-        "QQQ",
-        "RH",
-        "RKLB",
-        "RKT",
-        "VOO",
-        "WEN",
-        "XLB",
-        "XLE",
-        "XLF",
-        "XLI",
-        "XLP",
-        "XLRE",
-        "XLY"
-      ],
-      "updated_at": "2026-06-24T17:17:52Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60078743/stocks-rebound-wall-street-wednesday-mu-micron-technology-earnings-report-oil-70-dollars",
-      "_summary": "U.S. stocks rebounded by midday Wednesday, recovering from Tuesday’s tech-led sell-off as crude oil tumbled to $70 a barrel on a holding U.S.-Iran ceasefire, sending small caps to a fresh record and the Dow Jones Industrial Average to an all-time high. The relief came as a U.S.-Iran ceasefire held and negotiators advanced a 60-day roadmap toward a final deal, with the Strait of Hormuz open and the Treasury authorizing temporary Iranian oil sales.",
-      "_zh_headline": "标准普尔 500 指数在微米测试之前反弹，油价跌至 70 美元：今日股市",
-      "_zh_summary": "美国股市周三午盘反弹，从周二科技股主导的抛售中恢复过来，因美伊停火导致原油价格跌至每桶 70 美元，小盘股创下新高，道琼斯工业平均指数创历史新高。消息传来之际，美国与伊朗达成停火协议，谈判人员为达成最终协议推进了 60 天的路线图，霍尔木兹海峡开放，财政部授权伊朗临时出售石油。",
-      "_added_at": "2026-06-24T18:18:09.096281+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-24T17:01:09Z",
-      "headline": "Cathie Wood Is Rebuilding The Magnificent 7 Trade: ARK ETFs Buy Amazon, Alphabet, Tesla During AI Pullback",
-      "id": 60078192,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Etf-Exchange-traded-Fund-Stock-Market-Tr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Etf-Exchange-traded-Fund-Stock-Market-Tr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Etf-Exchange-traded-Fund-Stock-Market-Tr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "On Tuesday, Cathie Wood boosted AMZN, GOOGL and TSLA holdings across ARK ETFs as markets fell, signaling a growing bet on Magnificent 7 stocks.",
-      "symbols": [
-        "AIQ",
-        "AMZN",
-        "ARKF",
-        "ARKK",
-        "ARKW",
-        "GOOGL",
-        "MAGS",
-        "MGK",
-        "QQQ",
-        "SMH",
-        "SOXX",
-        "TSLA"
-      ],
-      "updated_at": "2026-06-24T17:01:09Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60078192/cathie-wood-is-rebuilding-the-magnificent-7-trade-ark-etfs-buy-amazon-alphabet-tesla-during-ai-pullback",
-      "_summary": "Cathie Wood appears to be leaning back into the Magnificent Seven trade. The purchases came as investors continue debating whether the next leg of the AI rally will be led by semiconductor giants such as Nvidia or by mega-cap platform companies that are increasingly monetizing artificial intelligence through cloud computing, digital advertising, e-commerce and autonomous driving technologies. • ARK Innovation ETF shares are trending higher. What’s driving ARKK shares up?",
-      "_zh_headline": "Cathie Wood 正在重建宏伟的 7 交易：ARK ETF 在人工智能回调期间买入亚马逊、Alphabet、特斯拉",
-      "_zh_summary": "凯茜·伍德 (Cathie Wood) 似乎又开始回归七强贸易。此次收购发生之际，投资者仍在争论下一波人工智能涨势是否将由英伟达等半导体巨头引领，还是由通过云计算、数字广告、电子商务和自动驾驶技术越来越多地利用人工智能货币化的大型平台公司引领。 • ARK Innovation ETF 股票呈走高趋势。是什么推动 ARKK 股价上涨？",
-      "_added_at": "2026-06-24T18:18:09.096281+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-24T17:35:28Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "id": 60079332,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "symbols": [
-        "AMD",
-        "CRWV",
-        "DGXX",
-        "INTC",
-        "MRVL",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "PLTR",
-        "WULF"
-      ],
-      "updated_at": "2026-06-24T17:35:28Z",
-      "url": "https://www.benzinga.com/markets/options/26/06/60079332/10-information-technology-stocks-whale-activity-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-06-24T18:18:09.096281+00:00"
-    },
-    {
-      "author": "Michael Cohen",
-      "content": "",
-      "created_at": "2026-06-24T17:30:16Z",
-      "headline": "Earnings Scheduled For June 24, 2026 (CORRECTED)",
-      "id": 60065159,
-      "images": [],
-      "source": "benzinga",
-      "summary": "Companies Reporting Before The Bell\n• Crown Crafts (NASDAQ:CRWS) is estimated to report earnings for its fourth quarter. \n• PodcastOne (NASDAQ:PODC) is expected to report quarterly loss at $0.02 per share on revenue of",
-      "symbols": [
-        "BU",
-        "CRWS",
-        "DAKT",
-        "ET",
-        "FUL",
-        "JEF",
-        "LVO",
-        "MEI",
-        "MLKN",
-        "MNY",
-        "MU",
-        "NG",
-        "PAYX",
-        "PODC",
-        "TCOM",
-        "WS"
-      ],
-      "updated_at": "2026-06-24T17:30:19Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/06/60065159/earnings-scheduled-for-june-24-2026",
-      "_summary": "Editor’s Note: This article has been updated to remove companies that are not reporting earnings today. • Crown Crafts (NASDAQ: CRWS ) is estimated to report earnings for its fourth quarter. • PodcastOne (NASDAQ: PODC ) is expected to report quarterly loss at $0.02 per share on revenue of $15.50 million. • Daktronics (NASDAQ: DAKT ) is estimated to report quarterly earnings at $0.16 per share on revenue of $205.27 million.",
-      "_zh_headline": "预计 2026 年 6 月 24 日收益（已更正）",
-      "_zh_summary": "编者注：本文已更新，删除了今天未报告收益的公司。 • Crown Crafts（纳斯达克股票代码：CRWS）预计将公布第四季度收益。 • PodcastOne（纳斯达克股票代码：PODC）预计季度亏损为每股 0.02 美元，营收为 1,550 万美元。 • Daktronics（纳斯达克股票代码：DAKT）预计季度收益为每股 0.16 美元，营收为 2.0527 亿美元。",
-      "_added_at": "2026-06-24T18:18:09.096281+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-24T15:45:19Z",
-      "headline": "Why QQQ Is Pulling Further Ahead Of Bitcoin ETFs In 2026",
-      "id": 60075704,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Qqq-Word-On-Yellow-Sticky-With-Calculato.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Qqq-Word-On-Yellow-Sticky-With-Calculato.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Qqq-Word-On-Yellow-Sticky-With-Calculato.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Crypto ETP assets are shrinking while AI-driven ETFs such as QQQ continue attracting investor capital.",
-      "symbols": [
-        "AIQ",
-        "AMD",
-        "AVGO",
-        "BTCUSD",
-        "MAGS",
-        "MSFT",
-        "NVDA",
-        "ORCL",
-        "PLTR",
-        "QQQ",
-        "QTUM"
-      ],
-      "updated_at": "2026-06-24T15:45:19Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60075704/why-qqq-is-pulling-further-ahead-of-bitcoin-etfs-in-2026",
-      "_summary": "The race between crypto exchange-traded products (ETP) and traditional growth-focused ETFs is turning increasingly one-sided, according to a new mid-year report from crypto asset manager 21Shares . While institutional adoption of digital assets continues to advance, crypto ETPs remain far from catching the tech-fueled momentum that has propelled the Nasdaq-100 and its ETF proxies to new heights. • Invesco QQQ Trust, Series 1 stock is showing positive momentum. Where are QQQ shares going?",
-      "_zh_headline": "为什么QQQ在2026年进一步领先于比特币ETF",
-      "_zh_summary": "根据加密资产管理公司 21Shares 的一份新的年中报告，加密货币交易所交易产品（ETP）和传统的增长型 ETF 之间的竞争正变得越来越一边倒。尽管机构对数字资产的采用不断推进，但加密货币 ETP 仍远未赶上技术推动的势头，而正是这种势头将纳斯达克 100 指数及其 ETF 代理推向了新的高度。 • Invesco QQQ Trust，系列1 股票显示出积极的势头。 QQQ的股票去哪儿了？",
-      "_added_at": "2026-06-24T15:52:01.586859+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-06-24T14:22:15Z",
-      "headline": "Gold Just Did Something It Hasn't Done Since 2022. Nvidia Bulls May Like It",
-      "id": 60071776,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Gold-Stock-Price.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Gold-Stock-Price.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Gold-Stock-Price.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gold has fallen below its 200-day moving average by the largest margin since 2022. Here&#39;s why Nvidia investors may be paying attention.",
-      "symbols": [
-        "AMZN",
-        "GLD",
-        "GLDM",
-        "GOOGL",
-        "IAU",
-        "META",
-        "MSFT",
-        "NVDA"
-      ],
-      "updated_at": "2026-06-24T14:22:15Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60071776/gold-just-did-something-it-hasnt-done-since-2022-nvidia-bulls-may-like-it",
-      "_summary": "Gold investors may not like what they’re seeing on the charts. According to Barchart, gold has fallen below its 200-day moving average by the largest margin since 2022, a notable technical breakdown for one of the market’s favorite safe-haven assets. But while the move may concern gold bulls, Nvidia Corp. (NASDAQ: NVDA ) investors could see it differently. Gold often thrives when investors are worried.",
-      "_zh_headline": "黄金刚刚做了自 2022 年以来从未做过的事情。英伟达看涨者可能会喜欢它",
-      "_zh_summary": "黄金投资者可能不喜欢他们在图表上看到的内容。根据 Barchart 的数据，黄金已跌破 200 日移动均线，跌幅为 2022 年以来的最大跌幅，对于市场最受欢迎的避险资产之一来说，这是一个值得注意的技术崩溃。不过，尽管此举可能令黄金多头担忧，但英伟达公司（纳斯达克股票代码：NVDA）的投资者可能会有不同的看法。当投资者感到担忧时，黄金往往会上涨。",
-      "_added_at": "2026-06-24T15:52:01.586859+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-06-24T14:09:54Z",
-      "headline": "Micron Reports Tonight. The Real Story May Be Nvidia",
-      "id": 60071139,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron reports after the bell, but Nvidia investors may be paying closer attention. Here&#39;s why Micron&#39;s results could provide a crucial read on AI demand.",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-06-24T14:09:54Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60071139/micron-reports-tonight-the-real-story-may-be-nvidia",
-      "_summary": "That’s because Micron has become one of the most important suppliers in the artificial intelligence supply chain. Wall Street will certainly be watching revenue, earnings and guidance. But investors may be paying even closer attention to commentary surrounding high-bandwidth memory, or HBM. HBM has emerged as one of the most critical components inside modern AI servers.",
-      "_zh_headline": "美光今晚报道。真实的故事可能是英伟达",
-      "_zh_summary": "那是因为美光已经成为人工智能供应链中最重要的供应商之一。华尔街肯定会关注收入、盈利和指引。但投资者可能会更加关注有关高带宽内存（HBM）的评论。 HBM 已成为现代人工智能服务器中最关键的组件之一。",
-      "_added_at": "2026-06-24T15:52:01.586859+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-24T14:16:12Z",
-      "headline": "The Hidden Truth About ETFs And 401(k)s: Tax Advantages Aren't Everything",
-      "id": 60071497,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tapping-401k-For-Home-Delivers-Painful-T.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tapping-401k-For-Home-Delivers-Painful-T.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tapping-401k-For-Home-Delivers-Painful-T.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ETF tax advantages matter less in 401(k)s and IRAs. For retirement savers, low fees, employer matches, and steady investing may be more important.",
-      "symbols": [
-        "QQQ"
-      ],
-      "updated_at": "2026-06-24T14:16:12Z",
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/60071497/the-hidden-truth-about-etfs-and-401ks-tax-advantages-arent-everything",
-      "_summary": "The ETF industry’s biggest selling point may not matter as much as investors think, at least not inside retirement accounts. ETFs have attracted trillions of dollars in assets partly because of their tax-efficient structure. Unlike mutual funds, ETFs can generally avoid distributing taxable capital gains through their in-kind creation and redemption mechanism. In taxable brokerage accounts, that advantage can add meaningful after-tax returns over time.",
-      "_zh_headline": "关于 ETF 和 401(k) 的隐藏真相：税收优惠并不是一切",
-      "_zh_summary": "ETF行业的最大卖点可能并不像投资者想象的那么重要，至少在退休账户内不是这样。 ETF 吸引了数万亿美元的资产，部分原因是其节税结构。与共同基金不同，ETF 通常可以通过其实物创建和赎回机制避免分配应税资本利得。在应税经纪账户中，随着时间的推移，这种优势可以增加有意义的税后回报。",
-      "_added_at": "2026-06-24T15:52:01.586859+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-06-24T13:41:08Z",
-      "headline": "Micron Earnings Prediction Market Preview: What Will Sanjay Mehrotra Say About The Anthropic Deal?",
-      "id": 60069522,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron reports fiscal Q3 earnings today. Polymarket gives MU a 96% chance to beat, and traders are betting on whether Sanjay Mehrotra mentions Nvidia. ",
-      "symbols": [
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-06-24T13:41:08Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60069522/micron-earnings-prediction-market-preview-what-will-sanjay-mehrotra-say-about-the-anthropic-deal",
-      "_summary": "The company reports fiscal Q3 2026 earnings after the bell today, and Polymarket traders give it a 96% chance of topping the roughly $19.72 EPS consensus. That beat looks close to priced in after a cycle that roughly tripled revenue year over year. The livelier wagers sit on a separate Kalshi board, where traders are betting on which words CEO Sanjay Mehrotra and his team will say on the call. “Inventory” trades at 56%, fitting for a supplier that has said it can meet only half to two-thirds of customer demand.",
-      "_zh_headline": "美光盈利预测市场预览：Sanjay Mehrotra 对 Anthropic 交易有何看法？",
-      "_zh_summary": "该公司今天盘后公布了 2026 年第三季度财报，Polymarket 交易员认为该公司有 96% 的机会超过每股收益约 19.72 美元的共识。在收入同比增长约三倍的周期之后，这一增长似乎已经接近定价。更活跃的赌注是在一个单独的 Kalshi 板上进行的，交易员们押注首席执行官桑杰·梅赫罗特拉 (Sanjay Mehrotra) 和他的团队将在电话会议上说哪些话。 “库存”交易率为 56%，适合一家声称只能满足一半到三分之二客户需求的供应商。",
-      "_added_at": "2026-06-24T15:52:01.586859+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-24T13:49:37Z",
-      "headline": "South Korea Crashes 10%, Then Roars Back: Inside The ‘Black Tuesday’ Memory-Chip Whiplash",
-      "id": 60070049,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/South-Korea-Flag.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/South-Korea-Flag.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/South-Korea-Flag.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "South Korea&#39;s KOSPI crashed nearly 10% on &#34;Black Tuesday,&#34; then rebounded as Samsung unveiled a $59B buyback. Inside the 24-hour AI memory-chip whiplash.",
-      "symbols": [
-        "EWY",
-        "MU"
-      ],
-      "updated_at": "2026-06-24T13:49:37Z",
-      "url": "https://www.benzinga.com/etfs/emerging-market-etfs/26/06/60070049/south-korea-kospi-ewy-samsung-sk-hynix-crash-rebound-explained",
-      "_summary": "South Korea’s benchmark KOSPI suffered a near-vertical drop on Tuesday, June 23, plunging 10% – its steepest fall since March and one of the five largest single-day declines in the index’s history. The slide was severe enough to trip a market-wide circuit breaker, freezing trading for 20 minutes. For U.S. investors, the move showed up in the iShares MSCI South Korea ETF (NYSE: EWY ) , which fell 12.25% on Tuesday — a one-day drop the fund has registered only a handful of times in roughly 25 years.",
-      "_zh_headline": "韩国股市暴跌 10%，然后又卷土重来：“黑色星期二”内存芯片暴跌的内幕",
-      "_zh_summary": "6 月 23 日星期二，韩国基准综合股价指数 (KOSPI) 近乎垂直下跌，暴跌 10%，为 3 月份以来的最大跌幅，也是该指数历史上五个最大单日跌幅之一。此次下跌的严重程度足以触发整个市场的熔断机制，导致交易冻结 20 分钟。对于美国投资者来说，这一举措体现在 iShares MSCI 韩国 ETF（纽约证券交易所股票代码：EWY）周二下跌 12.25%——该基金在大约 25 年来仅出现过几次单日下跌。",
-      "_added_at": "2026-06-24T15:52:01.586859+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-06-24T12:10:29Z",
-      "headline": "Semiconductor Volatility Flashes A Dot-Com Warning, Reveals An Unexpected Hedge",
-      "id": 60066523,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tech-Bubble-Risk-And-Economic-Technology.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tech-Bubble-Risk-And-Economic-Technology.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Tech-Bubble-Risk-And-Economic-Technology.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Is the semiconductor boom flashing a dotcom-era warning? Extreme volatility near record highs has investors on edge.",
-      "symbols": [
-        "ASML",
-        "MU",
-        "SMH",
-        "SOXL",
-        "SOXQ",
-        "SOXX",
-        "USD",
-        "XLK",
-        "XSD"
-      ],
-      "updated_at": "2026-06-24T12:10:29Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60066523/semiconductor-volatility-flashes-a-dot-com-warning-reveals-an-unexpected-hedge",
-      "_summary": "However, beneath the record highs, one market indicator is flashing an uncomfortably familiar warning. The Philadelphia Semiconductor Index (SOX) has recorded nine single-day gains of 5% or more over the last 60 trading sessions. That kind of volatility is exceptionally rare. In fact, historical data shows this exact pattern has only been exceeded during the collapse of the Dotcom bubble in the early 2000s.",
-      "_zh_headline": "半导体波动发出互联网警告，揭示意外的对冲",
-      "_zh_summary": "然而，在创纪录的高位之下，一个市场指标正在闪烁着令人不安的熟悉警告。费城半导体指数 (SOX) 在过去 60 个交易日中有 9 个单日涨幅达到 5% 或以上。这种波动非常罕见。事实上，历史数据显示，直到 2000 年代初期互联网泡沫破裂期间，这一确切模式才被突破。",
-      "_added_at": "2026-06-24T12:34:17.438515+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-06-24T11:15:36Z",
-      "headline": "Nvidia Supplier SK Hynix Targets Massive Nasdaq Debut— And It's Coming For Alibaba's Record",
-      "id": 60065267,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SK Hynix plans a $29.4 billion Nasdaq ADR listing that could surpass Alibaba&#39;s record, fueled by booming AI chip demand.",
-      "symbols": [
-        "BABA",
-        "MU",
-        "NVDA",
-        "SSNLF"
-      ],
-      "updated_at": "2026-06-24T11:15:36Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60065267/nvidia-supplier-sk-hynix-targets-massive-nasdaq-debut-and-its-coming-for-alibabas-record",
-      "_summary": "South Korean semiconductor giant SK Hynix is setting its sights on a massive American Depositary Receipts (ADR) listing in a bid to expand its investor base and ramp up chip production capabilities. The firm intends to issue 17.79 million new shares to facilitate the ADR listing on the Nasdaq market, slated for July 10. The funds raised will be channeled towards building a chip factory in Yongin, an advanced packaging fab in Cheongju, and acquiring chipmaking equipment like an Extreme Ultraviolet Scanner.",
-      "_zh_headline": "Nvidia 供应商 SK Hynix 目标在纳斯达克大规模亮相——这将打破阿里巴巴的纪录",
-      "_zh_summary": "韩国半导体巨头 SK 海力士正着眼于大规模美国存托凭证 (ADR) 上市，以扩大其投资者基础并提高芯片生产能力。该公司计划发行 1779 万股新股，以促进定于 7 月 10 日在纳斯达克市场的 ADR 上市。筹集的资金将用于在龙仁建设一家芯片工厂、在清州建设一家先进封装工厂，并购买极紫外扫描仪等芯片制造设备。",
-      "_added_at": "2026-06-24T12:34:17.438515+00:00"
+      "_added_at": "2026-06-25T04:46:46.717632+00:00"
     }
   ]
 }
