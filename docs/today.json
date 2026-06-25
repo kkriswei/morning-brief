@@ -2,6 +2,220 @@
   "date": "2026-06-25",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-25T13:40:55Z",
+      "headline": "Dow Surges 250 Points; Micron Posts Upbeat Q3 Earnings",
+      "id": 60097112,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Dow Jones index rose 0.5% to 52,107.28, NASDAQ up 0.7% to 25,654.49, S&amp;P 500 gained 0.6% to 7,401.17. Tech shares jump 1.6% while communication services stocks fell 1.9%. Micron beats expectations with Q3 results. Triller Group Inc up 259%.",
+      "symbols": [
+        "AZI",
+        "DCX",
+        "ILLR",
+        "KUST",
+        "MU",
+        "NNOX",
+        "PAVS"
+      ],
+      "updated_at": "2026-06-25T13:40:55Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60097112/dow-surges-250-points-micron-posts-upbeat-q3-earnings",
+      "_summary": "U.S. stocks traded higher this morning, with the Dow Jones index gaining around 250 points on Thursday. Following the market opening Thursday, the Dow traded up 0.50% to 52,107.28 while the NASDAQ surged 0.70% to 25,654.49. The S&P 500 also rose, gaining, 0.58% to 7,401.17. Information technology shares jumped by 1.6% on Thursday. In trading on Thursday, communication services stocks fell by 1.9%. Micron Technology Inc.",
+      "_zh_headline": "道指飙升 250 点；美光公布乐观的第三季度收益",
+      "_zh_summary": "今天上午美国股市走高，道琼斯指数周四上涨约 250 点。周四开盘后，道指上涨 0.50% 至 52,107.28 点，纳斯达克指数上涨 0.70% 至 25,654.49 点。标准普尔 500 指数也上涨 0.58%，至 7,401.17 点。信息技术股周四上涨 1.6%。周四交易中，通信服务股下跌 1.9%。美光科技公司",
+      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-25T13:19:06Z",
+      "headline": "Why Is Taiwan Semiconductor Stock Gaining Thursday?",
+      "id": 60096083,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/TSMC.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/TSMC.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/TSMC.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Taiwan Semiconductor stock jumps 4% premarket as Micron’s blowout earnings fuel optimism for the massive AI infrastructure spending boom.",
+      "symbols": [
+        "BLOX",
+        "GEME",
+        "MU",
+        "OSEA",
+        "TSM"
+      ],
+      "updated_at": "2026-06-25T13:19:06Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60096083/why-is-taiwan-semiconductor-stock-gaining-thursday",
+      "_summary": "The broader market also supported sentiment, with S&P 500 futures rising about 0.7%. Micron reported fiscal third-quarter adjusted earnings of $25.11 per share on revenue of $41.46 billion. The company also forecast fiscal fourth-quarter adjusted earnings of about $31 per share on roughly $50 billion in revenue. The results strengthened investor confidence that AI infrastructure demand continues to support pricing power across the semiconductor industry.",
+      "_zh_headline": "为什么台积电股票周四上涨？",
+      "_zh_summary": "大盘也支撑了市场情绪，标准普尔 500 指数期货上涨约 0.7%。美光公布第三财季调整后每股收益为 25.11 美元，营收为 414.6 亿美元。该公司还预计第四财季调整后每股收益约为 31 美元，营收约为 500 亿美元。这一结果增强了投资者的信心，即人工智能基础设施需求将继续支持整个半导体行业的定价能力。",
+      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-25T13:06:49Z",
+      "headline": "Micron To Rally More Than 57%? Here Are 10 Top Analyst Forecasts For Thursday",
+      "id": 60095710,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Top analysts changed outlook on top names. See full changes, upgrades, downgrades on analyst ratings page. See how analysts view PepsiCo, Absci, Okta, Datadog, ICON, Nike, UWM, Micron.",
+      "symbols": [
+        "ABSI",
+        "DDOG",
+        "HSY",
+        "ICLR",
+        "MU",
+        "NKE",
+        "OKTA",
+        "PEP",
+        "URI",
+        "UWMC"
+      ],
+      "updated_at": "2026-06-25T13:06:49Z",
+      "url": "https://www.benzinga.com/news/26/06/60095710/micron-to-rally-more-than-57-here-are-10-top-analyst-forecasts-for-thursday",
+      "_summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page . Considering buying URI stock? Here’s what analysts think:",
+      "_zh_headline": "美光股价将上涨超过 57%？以下是周四 10 名顶级分析师的预测",
+      "_zh_summary": "华尔街顶级分析师改变了对这些顶级人物的看法。有关所有分析师评级变化（包括升级和降级）的完整视图，请参阅我们的分析师评级页面。考虑购买 URI 股票？以下是分析师的看法：",
+      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-25T15:19:23Z",
+      "headline": "The AI Memory Trade Is Heating Up: Defiance Launches 2X DRAM ETF After Micron's Blowout Quarter",
+      "id": 60103609,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Defiance launches the DRAL ETF, offering leveraged exposure to AI-driven memory stocks as Micron&#39;s strong earnings boost the memory trade.",
+      "symbols": [
+        "DRAL",
+        "DRAM",
+        "MU",
+        "RAM"
+      ],
+      "updated_at": "2026-06-25T15:19:23Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60103609/the-ai-memory-trade-is-heating-up-defiance-launches-2x-dram-etf-after-microns-blowout-quarter",
+      "_summary": "The launch comes at the heels of Roundhill Investments’ launch of a leveraged fund designed to deliver twice the daily performance of the Roundhill Memory ETF (NASDAQ: DRAM ). Micron reported fiscal third-quarter revenue of $11.3 billion, up 37% year-over-year, while data center revenue more than doubled as demand for high-bandwidth memory (HBM) chips used in AI servers continued to surge. The company also issued strong forward guidance, signaling that demand for AI memory products remains robust.",
+      "_zh_headline": "AI内存贸易正在升温：美光季度井喷后，Defiance推出2X DRAM ETF",
+      "_zh_summary": "此前，Roundhill Investments 推出了一款杠杆基金，旨在实现 Roundhill 内存 ETF（纳斯达克股票代码：DRAM）每日业绩的两倍。美光公布第三财季营收为 113 亿美元，同比增长 37%，而随着人工智能服务器中使用的高带宽内存 (HBM) 芯片的需求持续激增，数据中心营收增长了一倍多。该公司还发布了强有力的前瞻性指引，表明人工智能内存产品的需求仍然强劲。",
+      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+    },
+    {
+      "author": "Michael Adeleke",
+      "content": "",
+      "created_at": "2026-06-25T14:27:54Z",
+      "headline": "Wall Street Cheers Micron's Earnings Surprise—Can The Stock Keep Climbing?",
+      "id": 60100721,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Just days after investors dumped AI stocks on fears that valuations had gotten too high, Micron Technology (NASDAQ:MU) returned with a bang. \n\n\n\nThe memory-chip giant reported quarterly results that crushed",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-25T14:27:54Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/60100721/wall-street-cheers-micron-earnings-surprise",
+      "_summary": "Just days after investors dumped AI stocks on fears that valuations had gotten too high, Micron Technology (NASDAQ: MU ) returned with a bang. The memory-chip giant reported quarterly results that crushed expectations, and even issued a stronger-than-expected outlook. This showed that customers have committed $22 billion to secure future chip supplies. The update sent Micron shares soaring more than 15% in after-hours trading.",
+      "_zh_headline": "华尔街为美光科技的盈利惊喜欢呼——该股能否继续上涨？",
+      "_zh_summary": "就在投资者因担心估值过高而抛售人工智能股票几天后，美光科技（纳斯达克股票代码：MU）强势回归。这家存储芯片巨头公布的季度业绩超出预期，甚至发布了强于预期的前景。这表明客户已投入 220 亿美元来确保未来的芯片供应。这一更新导致美光科技股价在盘后交易中飙升超过 15%。",
+      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-25T14:14:58Z",
+      "headline": "These Analysts Boost Their Forecasts On Micron Technology After Better-Than-Expected Q3 Results",
+      "id": 60100007,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/What-Are-Analysts-Expecting-From-Mag-7-S.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/What-Are-Analysts-Expecting-From-Mag-7-S.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/What-Are-Analysts-Expecting-From-Mag-7-S.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "NASDAQ:MU surpasses Q3 expectations with revenue of $41.46B and adjusted EPS of $25.11. Strong guidance for Q4. Analysts raise price targets.",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-06-25T14:14:58Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/60100007/these-analysts-boost-their-forecasts-on-micron-technology-after-better-than-expected-q3-results",
+      "_summary": "Micron reported third-quarter revenue of $41.46 billion, exceeding analyst estimates of $35.59 billion, according to Benzinga Pro. The semiconductor company posted adjusted earnings of $25.11 per share, beating analyst estimates of $20.63 per share. \"Micron is investing at record levels in technology, products and supply to address our customers’ rapidly growing demand.",
+      "_zh_headline": "在第三季度业绩好于预期后，这些分析师提高了对美光科技的预测",
+      "_zh_summary": "据 Benzinga Pro 称，美光第三季度营收为 414.6 亿美元，超出分析师预期的 355.9 亿美元。该半导体公司公布调整后每股收益 25.11 美元，超出分析师预期的每股 20.63 美元。 “美光科技正在技术、产品和供应方面进行创纪录的投资，以满足客户快速增长的需求。",
+      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-06-25T09:53:35Z",
@@ -509,109 +723,6 @@
       "_summary": "Micron reported third-quarter revenue of $41.46 billion, topping analyst estimates of $35.59 billion, while adjusted earnings came in at $25.11 per share, ahead of expectations for $20.63 per share. Total revenue jumped approximately 346% from a year earlier. The company also issued a strong forecast for the fourth quarter, projecting revenue of $50 billion, plus or minus $1 billion, and adjusted earnings of $31 per share, plus or minus $1.",
       "_zh_headline": "这位分析师表示，美光科技没有超出预期，而是“消灭”了预期：盘后，MU 股价上涨超过 15%",
       "_zh_summary": "美光公布第三季度营收为 414.6 亿美元，超过分析师预期的 355.9 亿美元，调整后收益为每股 25.11 美元，高于预期的每股 20.63 美元。总收入较上年同期增长约 346%。该公司还发布了第四季度的强劲预测，预计收入为 500 亿美元，上下浮动 10 亿美元，调整后每股收益为 31 美元，上下浮动 1 美元。",
-      "_added_at": "2026-06-25T04:46:46.717632+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-06-25T01:31:51Z",
-      "headline": "Micron Technology, Qualcomm, The Wendy's Company, SanDisk And Western Digital: Why These 5 Stocks Are On Investors' Radars Today",
-      "id": 60088161,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Businessman-Interacting-With-Digital-For.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Businessman-Interacting-With-Digital-For.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Businessman-Interacting-With-Digital-For.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "MU, QCOM, WEN, SNDK, WDC were among trending stocks on Wednesday, June 24, 2026.",
-      "symbols": [
-        "MU",
-        "QCOM",
-        "SNDK",
-        "WDC",
-        "WEN"
-      ],
-      "updated_at": "2026-06-25T01:31:51Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60088161/micron-technology-qualcomm-the-wendys-company-sandisk-and-western-digital-why-these-5-stocks-are-on-investors-radars-today",
-      "_summary": "Major U.S. indexes ended Wednesday mixed, with the Dow Jones Industrial Average gaining 0.35% to 51,848.90, while the S&P 500 slipped 0.10% to 7,358.22 and the Nasdaq declined 0.43% to 25,476.63. These are the top stocks that gained the attention of retail traders and investors through the day: Micron Technology’s stock dipped 0.37%, closing at $1,047.92. The stock reached an intraday high of $1,083.32 and a low of $991.10, with a 52-week range between $103.38 and $1,213.56.",
-      "_zh_headline": "美光科技、高通、The Wendy's Company、SanDisk 和西部数据：为何这 5 只股票如今受到投资者关注",
-      "_zh_summary": "美国主要股指周三收盘涨跌互现，道琼斯工业平均指数上涨0.35%，至51,848.90点；标准普尔500指数下跌0.10%，至7,358.22点；纳斯达克指数下跌0.43%，至25,476.63点。以下是全天最受散户交易者和投资者关注的股票：美光科技 (Micron Technology) 股价下跌 0.37%，收于 1,047.92 美元。该股盘中最高价为 1,083.32 美元，最低价为 991.10 美元，52 周波动区间为 103.38 美元至 1,213.56 美元。",
-      "_added_at": "2026-06-25T04:46:46.717632+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-06-24T20:57:27Z",
-      "headline": "Micron's Blowout Q3 Report Ripples Through Memory Stocks SanDisk, Western Digital",
-      "id": 60086491,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Memory and storage company Micron Technology (NASDAQ:MU) reports strong Q3 earnings, driving up shares of SanDisk, Western Digital and Seagate.",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-06-24T20:57:27Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60086491/microns-blowout-q3-report-ripples-through-memory-stocks-sandisk-western-digital",
-      "_summary": "Investors are reading Micron’s numbers as confirmation that the upcycle in memory, NAND and broader storage demand remains intact, driving a bid into the entire group. Revenue surged to $41.46 billion, far ahead of analyst expectations near $35.6 billion, while adjusted EPS jumped to $25.11, topping forecasts of roughly $20.60 per share, according to Benzinga Pro . Year-over-year revenue growth of about 346% highlights how rapidly demand for high-bandwidth memory and advanced DRAM is hitting the balance sheet.",
-      "_zh_headline": "美光第三季度井喷报告波及存储股闪迪、西部数据",
-      "_zh_summary": "投资者将美光的数据视为内存、NAND 和更广泛存储需求的升级周期保持不变的确认，从而推动了对整个集团的收购。根据 Benzinga Pro 的数据，收入飙升至 414.6 亿美元，远远高于分析师近 356 亿美元的预期，而调整后每股收益跃升至 25.11 美元，超过每股约 20.60 美元的预期。收入同比增长约 346%，凸显了对高带宽内存和先进 DRAM 的需求正在迅速影响资产负债表。",
-      "_added_at": "2026-06-25T04:46:46.717632+00:00"
-    },
-    {
-      "author": "Chris Capre",
-      "content": "",
-      "created_at": "2026-06-24T20:56:52Z",
-      "headline": "Micron Just Crushed Earnings and the Options Market Says $1,100 Is Just the Beginning",
-      "id": 60086475,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/24/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron (NASDAQ:MU) just posted one of the most impressive earnings beats in recent memory — blowing past analyst estimates on both the top and bottom lines. The stock closed at $1,048 yesterday and surged another 15% in",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-24T20:56:52Z",
-      "url": "https://www.benzinga.com/opinion/26/06/60086475/micron-just-crushed-earnings-and-the-options-market-says-1100-is-just-the-beginning",
-      "_summary": "But the stock price reaction is only part of the story. The options market had its own projection going into the print — and what it’s showing now tells us something important about where MU may be headed next. Here’s what the positioning and price action are saying about the trade going forward. For the quarter, Micron reported earnings per share of $25.11 on revenue of $41.5 billion.",
-      "_zh_headline": "美光刚刚大幅盈利，期权市场称 1,100 美元只是一个开始",
-      "_zh_summary": "但股价反应只是故事的一部分。期权市场有自己的预测，现在的情况告诉我们一些关于 MU 下一步可能走向的重要信息。以下是仓位和价格走势对未来交易的影响。美光科技公布本季度每股收益为 25.11 美元，营收为 415 亿美元。",
       "_added_at": "2026-06-25T04:46:46.717632+00:00"
     }
   ]
