@@ -2,6 +2,219 @@
   "date": "2026-06-26",
   "articles": [
     {
+      "author": "Benzinga Neuro",
+      "content": "",
+      "created_at": "2026-06-26T09:28:10Z",
+      "headline": "Stock Market Today: Dow Jones Inches Up, S&P 500 And Nasdaq Futures Slip As Tech Selloff Gathers Pace— Apple, Beyond Air In Focus",
+      "id": 60120170,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures mixed on Friday, Nasdaq 100 &amp; S&amp;P 500 down, Dow Jones up. Macro data shows strong PCE Index &amp; revised Q1 GDP.",
+      "symbols": [
+        "AAPL",
+        "APOG",
+        "BTCUSD",
+        "CNVS",
+        "MU",
+        "ON",
+        "QQQ",
+        "SPY",
+        "SYNA",
+        "XAIR"
+      ],
+      "updated_at": "2026-06-26T09:32:06Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60120170/stock-market-today-dow-jones-inches-up-sp-500-and-nasdaq-futures-slip-as-tech-selloff-gathers-pace-apple-beyond-air-in-focus",
+      "_summary": "U.S. stock futures were mixed on Friday, mirroring the moves on Thursday, with the Nasdaq 100 and S&P 500 indexes declining, while futures tied to the Dow Jones Industrial Average (DJIA) edged up. On the macroeconomic data front, the Personal Consumption Expenditures (PCE) Index came in hottest since October 2023 , while the first-quarter (Q1) GDP was revised upward to 2.1% from 1.7% in the third estimate released by the Bureau of Economic Analysis.",
+      "_zh_headline": "今日股市：随着科技股抛售步伐加快，道琼斯指数小幅上涨，标准普尔 500 指数和纳斯达克期货下跌——苹果、超越空气成为焦点",
+      "_zh_summary": "周五美国股指期货涨跌互现，与周四的走势一致，纳斯达克 100 指数和标准普尔 500 指数下跌，而与道琼斯工业平均指数 (DJIA) 相关的期货小幅上涨。宏观经济数据方面，个人消费支出(PCE)指数创2023年10月以来最热，而经济分析局发布的第三次预测将第一季度GDP从1.7%上调至2.1%。",
+      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+    },
+    {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-06-26T09:00:00Z",
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "id": 60120031,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "June 26, 2026: Polymarket traders turn cautious on Friday as technology stocks slide despite Micron&#39;s blowout earnings and easing inflation concerns.",
+      "symbols": [
+        "AAPL",
+        "MSFT",
+        "MU",
+        "QCOM"
+      ],
+      "updated_at": "2026-06-26T09:00:00Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60120031/sp500-june-26-open-up-or-down-polymarket-tech-selloff-micron-ai-stocks",
+      "_summary": "The S&P 500 slipped 0.01% to close at 7,357.49. Polymarket’s June 26 contract now implies just a 40% probability that the benchmark index will open higher on Friday. The latest bout of weakness suggests investors are becoming increasingly concerned about the rising costs of artificial intelligence infrastructure rather than demand for AI itself.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "标准普尔 500 指数下跌 0.01%，收于 7,357.49 点。 Polymarket 的 6 月 26 日合约现在意味着基准指数周五开盘走高的可能性仅为 40%。最新一轮的疲软表明，投资者越来越担心人工智能基础设施成本上升，而不是对人工智能本身的需求。",
+      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-06-26T10:12:40Z",
+      "headline": "Micron Stock Takes A Breather After Explosive AI-Fueled Rally",
+      "id": 60120901,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-MU-Logo-On-Smartphone-With-Semico.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-MU-Logo-On-Smartphone-With-Semico.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-MU-Logo-On-Smartphone-With-Semico.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron (MU) stock dips 5% premarket after a massive 15% rally. Investors lock in profits despite a stellar, AI-driven earnings beat.",
+      "symbols": [
+        "AVGO",
+        "CHPX",
+        "MU",
+        "NVDA",
+        "SOXQ",
+        "SPMO"
+      ],
+      "updated_at": "2026-06-26T10:12:40Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60120901/micron-stock-takes-a-breather-after-explosive-ai-fueled-rally",
+      "_summary": "Micron reported adjusted earnings per share of $25.11 on revenue of $41.46 billion, while adjusted gross margin reached 84.9%. The company also forecast fiscal fourth-quarter adjusted EPS of about $31 on revenue of roughly $50 billion. Management said it has signed multi-year strategic customer agreements designed to make revenue and earnings more predictable. Analysts also pointed to sustained pricing strength for AI-focused DRAM and NAND memory as another positive sign for the business.",
+      "_zh_headline": "美光科技股价在人工智能推动的爆炸性上涨后稍作喘息",
+      "_zh_summary": "美光公布调整后每股收益为 25.11 美元，营收为 414.6 亿美元，调整后毛利率达到 84.9%。该公司还预计第四财季调整后每股收益约为 31 美元，营收约为 500 亿美元。管理层表示，该公司已签署多年战略客户协议，旨在提高收入和盈利的可预测性。分析师还指出，专注于人工智能的 DRAM 和 NAND 内存的持续定价优势是该业务的另一个积极信号。",
+      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-06-26T09:24:05Z",
+      "headline": "Mohamed El-Erian Says Gold Needs One Key Buyer To Break Out Of Its $4,000 Slump",
+      "id": 60120146,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Shiny-Gold-Ingot-On-Nuggets--Top-View.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Shiny-Gold-Ingot-On-Nuggets--Top-View.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Shiny-Gold-Ingot-On-Nuggets--Top-View.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "El-Erian believes central bank buying could lift gold out of its slump. Lower oil prices could support this trend.",
+      "symbols": [
+        "GLD"
+      ],
+      "updated_at": "2026-06-26T09:24:05Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60120146/mohamed-el-erian-says-gold-needs-one-key-buyer-to-break-out-of-its-4000-slump",
+      "_summary": "Economist Mohamed El-Erian on Thursday said that the renewed buying by central banks could lift gold out of its recent slump after the precious metal briefly fell below $4,000 an ounce this week. In a post on X, El-Erian said the biggest factor that could reverse gold’s recent weakness is “renewed, consistent central bank buying.” He added that lower oil prices could support that trend by easing pressure on many countries’ foreign exchange reserves, potentially allowing central banks to resume accumulating gold.",
+      "_zh_headline": "Mohamed El-Erian 表示黄金需要一位关键买家才能摆脱 4,000 美元的暴跌",
+      "_zh_summary": "经济学家Mohamed El-Erian周四表示，在金价本周短暂跌破4,000美元/盎司之后，央行重新买盘可能会使金价摆脱近期的暴跌。 El-Erian 在 X 上发表的一篇文章中表示，扭转黄金近期疲软趋势的最大因素是“央行重新持续购买”。他补充说，油价下跌可能会缓解许多国家外汇储备的压力，从而支持这一趋势，从而有可能让各国央行恢复积累黄金。",
+      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-06-26T06:49:52Z",
+      "headline": "Nasdaq Falls For Fourth Day Amid Decline In Apple Shares: Investor Sentiment Declines, Greed Index Remains In ‘Fear’ Zone",
+      "id": 60119325,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Market-sentiment---Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Market-sentiment---Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Market-sentiment---Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The CNN Fear &amp; Greed Index, measuring market sentiment, showed a slight decline on Thursday, remaining in the Fear zone at 25.5.",
+      "symbols": [
+        "AAPL",
+        "APOG",
+        "CNVS",
+        "MU",
+        "XAIR"
+      ],
+      "updated_at": "2026-06-26T06:49:52Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60119325/nasdaq-falls-for-fourth-day-amid-decline-in-apple-shares-investor-sentiment-declines-greed-index-remains-in-fear-zone",
+      "_summary": "The CNN Money Fear and Greed index showed a slight decline in the overall market sentiment, while the index remained in the “Fear” zone on Thursday. U.S. stocks settled mixed on Thursday, with the Nasdaq Composite falling more than 100 points during the session despite a strong earnings report from Micron Technology Inc. (NASDAQ: MU ) . Apple Inc. (NASDAQ: AAPL ) shares fell more than 6% on Thursday after the company raised prices on several of its hardware products.",
+      "_zh_headline": "苹果股价下跌，纳斯达克指数连续第四天下跌：投资者情绪下降，贪婪指数仍处于“恐惧”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪略有下降，该指数周四仍处于“恐惧”区域。周四美国股市涨跌互现，尽管美光科技公司（纳斯达克股票代码：MU）发布了强劲的盈利报告，但纳斯达克综合指数盘中仍下跌超过 100 点。苹果公司（纳斯达克股票代码：AAPL）周四提高了几种硬件产品的价格后，其股价下跌了 6% 以上。",
+      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-26T09:58:50Z",
+      "headline": "Comparing Marvell Technology With Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "id": 60120393,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "In the dynamic and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating",
+      "symbols": [
+        "MRVL"
+      ],
+      "updated_at": "2026-06-26T09:58:50Z",
+      "url": "https://www.benzinga.com/news/26/06/60120393/comparing-marvell-technology-industry-competitors-semiconductors-amp-semiconductor-equipment-industr",
+      "_summary": "Marvell Technology is a fabless chip designer focused on wired networking, where it has the second-highest market share. Marvell serves the data center, carrier, enterprise, and consumer end markets with processors, optical and copper transceivers, switches, and storage controllers. After thoroughly examining Marvell Technology, the following trends can be inferred: The debt-to-equity (D/E) ratio provides insights into the proportion of debt a company has in relation to its equity and asset value.",
+      "_zh_headline": "将 Marvell 技术与半导体和半导体设备行业的行业竞争对手进行比较",
+      "_zh_summary": "Marvell Technology 是一家专注于有线网络的无晶圆厂芯片设计公司，在该领域拥有第二高的市场份额。 Marvell 通过处理器、光纤和铜缆收发器、交换机和存储控制器为数据中心、运营商、企业和消费者终端市场提供服务。彻底研究 Marvell Technology 后，可以推断出以下趋势： 债务股本 (D/E) 比率可深入了解公司的债务与其权益和资产价值之间的比例。",
+      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+    },
+    {
       "headline": "The Aftermath of Venezuela’s Earthquakes",
       "summary": "Adriana Loureiro Fernandez, a photographer for The New York Times, describes the scene on the ground after the Venezuelan earthquakes.",
       "url": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
