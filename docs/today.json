@@ -2,6 +2,18 @@
   "date": "2026-06-26",
   "articles": [
     {
+      "headline": "U.S. Forces Attack Iran",
+      "summary": "Also, a former Trump adviser pleads guilty. Here’s the latest at the end of Friday.",
+      "url": "https://www.nytimes.com/2026/06/26/briefing/us-military-strikes-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-26T22:10:16+00:00",
+      "_summary": "Also, a former Trump adviser pleads guilty. Here’s the latest at the end of Friday.",
+      "_zh_headline": "美军袭击伊朗",
+      "_zh_summary": "此外，特朗普的一名前顾问也认罪。这是周五结束时的最新消息。",
+      "_added_at": "2026-06-26T22:46:46.179288+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-06-26T20:00:42Z",
@@ -635,38 +647,6 @@
       "_summary": "Micron reported adjusted earnings per share of $25.11 on revenue of $41.46 billion, while adjusted gross margin reached 84.9%. The company also forecast fiscal fourth-quarter adjusted EPS of about $31 on revenue of roughly $50 billion. Management said it has signed multi-year strategic customer agreements designed to make revenue and earnings more predictable. Analysts also pointed to sustained pricing strength for AI-focused DRAM and NAND memory as another positive sign for the business.",
       "_zh_headline": "美光科技股价在人工智能推动的爆炸性上涨后稍作喘息",
       "_zh_summary": "美光公布调整后每股收益为 25.11 美元，营收为 414.6 亿美元，调整后毛利率达到 84.9%。该公司还预计第四财季调整后每股收益约为 31 美元，营收约为 500 亿美元。管理层表示，该公司已签署多年战略客户协议，旨在提高收入和盈利的可预测性。分析师还指出，专注于人工智能的 DRAM 和 NAND 内存的持续定价优势是该业务的另一个积极信号。",
-      "_added_at": "2026-06-26T10:36:32.162779+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-06-26T09:24:05Z",
-      "headline": "Mohamed El-Erian Says Gold Needs One Key Buyer To Break Out Of Its $4,000 Slump",
-      "id": 60120146,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Shiny-Gold-Ingot-On-Nuggets--Top-View.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Shiny-Gold-Ingot-On-Nuggets--Top-View.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Shiny-Gold-Ingot-On-Nuggets--Top-View.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "El-Erian believes central bank buying could lift gold out of its slump. Lower oil prices could support this trend.",
-      "symbols": [
-        "GLD"
-      ],
-      "updated_at": "2026-06-26T09:24:05Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60120146/mohamed-el-erian-says-gold-needs-one-key-buyer-to-break-out-of-its-4000-slump",
-      "_summary": "Economist Mohamed El-Erian on Thursday said that the renewed buying by central banks could lift gold out of its recent slump after the precious metal briefly fell below $4,000 an ounce this week. In a post on X, El-Erian said the biggest factor that could reverse gold’s recent weakness is “renewed, consistent central bank buying.” He added that lower oil prices could support that trend by easing pressure on many countries’ foreign exchange reserves, potentially allowing central banks to resume accumulating gold.",
-      "_zh_headline": "Mohamed El-Erian 表示黄金需要一位关键买家才能摆脱 4,000 美元的暴跌",
-      "_zh_summary": "经济学家Mohamed El-Erian周四表示，在金价本周短暂跌破4,000美元/盎司之后，央行重新买盘可能会使金价摆脱近期的暴跌。 El-Erian 在 X 上发表的一篇文章中表示，扭转黄金近期疲软趋势的最大因素是“央行重新持续购买”。他补充说，油价下跌可能会缓解许多国家外汇储备的压力，从而支持这一趋势，从而有可能让各国央行恢复积累黄金。",
       "_added_at": "2026-06-26T10:36:32.162779+00:00"
     }
   ]
