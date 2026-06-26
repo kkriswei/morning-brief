@@ -2,6 +2,42 @@
   "date": "2026-06-26",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-26T20:00:42Z",
+      "headline": "Microsoft Has Worst Month Since 2000, Micron Delivers Memorable Beat: This Week On Wall Street",
+      "id": 60140539,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Microsoft heads for its worst June since 2000 as AI capex fears bite, while Micron delivers record revenue and EPS — the AI capex squeeze rewriting the trade.",
+      "symbols": [
+        "AAPL",
+        "MAGS",
+        "MSFT",
+        "MU",
+        "ORCL"
+      ],
+      "updated_at": "2026-06-26T20:00:42Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60140539/microsoft-micron-ai-capex-squeeze-week-wall-street",
+      "_summary": "WTI crude has now fully wiped out its war premium. Oil is also down more than 20% on the month, on pace for its worst monthly performance since March 2020. Saudi Arabia resumed loading tankers at Ras Tanura, and Persian Gulf exports recovered to roughly 75% of prewar levels, according to Goldman Sachs estimates. On Friday, President Donald Trump said Iran had fired four “one-way attack drones” at ships transiting the Strait of Hormuz, calling it “a foolish violation of our ceasefire agreement.” Markets shrugged.",
+      "_zh_headline": "微软遭遇 2000 年以来最糟糕的一个月，美光科技表现令人难忘：本周华尔街",
+      "_zh_summary": "WTI 原油现已完全消除其战争溢价。本月石油价格也下跌超过 20%，创 2020 年 3 月以来最差月度表现。据高盛估计，沙特阿拉伯恢复在 Ras Tanura 油轮装载，波斯湾出口恢复至战前水平的约 75%。周五，唐纳德·特朗普总统表示，伊朗向经过霍尔木兹海峡的船只发射了四架“单向攻击无人机”，称其“愚蠢地违反了我们的停火协议”。市场耸耸肩。",
+      "_added_at": "2026-06-26T21:07:16.711999+00:00"
+    },
+    {
       "headline": "Oil Prices Return to Prewar Levels After Four Months",
       "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
       "url": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
@@ -631,42 +667,6 @@
       "_summary": "Economist Mohamed El-Erian on Thursday said that the renewed buying by central banks could lift gold out of its recent slump after the precious metal briefly fell below $4,000 an ounce this week. In a post on X, El-Erian said the biggest factor that could reverse gold’s recent weakness is “renewed, consistent central bank buying.” He added that lower oil prices could support that trend by easing pressure on many countries’ foreign exchange reserves, potentially allowing central banks to resume accumulating gold.",
       "_zh_headline": "Mohamed El-Erian 表示黄金需要一位关键买家才能摆脱 4,000 美元的暴跌",
       "_zh_summary": "经济学家Mohamed El-Erian周四表示，在金价本周短暂跌破4,000美元/盎司之后，央行重新买盘可能会使金价摆脱近期的暴跌。 El-Erian 在 X 上发表的一篇文章中表示，扭转黄金近期疲软趋势的最大因素是“央行重新持续购买”。他补充说，油价下跌可能会缓解许多国家外汇储备的压力，从而支持这一趋势，从而有可能让各国央行恢复积累黄金。",
-      "_added_at": "2026-06-26T10:36:32.162779+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-26T06:49:52Z",
-      "headline": "Nasdaq Falls For Fourth Day Amid Decline In Apple Shares: Investor Sentiment Declines, Greed Index Remains In ‘Fear’ Zone",
-      "id": 60119325,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Market-sentiment---Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Market-sentiment---Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Market-sentiment---Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The CNN Fear &amp; Greed Index, measuring market sentiment, showed a slight decline on Thursday, remaining in the Fear zone at 25.5.",
-      "symbols": [
-        "AAPL",
-        "APOG",
-        "CNVS",
-        "MU",
-        "XAIR"
-      ],
-      "updated_at": "2026-06-26T06:49:52Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60119325/nasdaq-falls-for-fourth-day-amid-decline-in-apple-shares-investor-sentiment-declines-greed-index-remains-in-fear-zone",
-      "_summary": "The CNN Money Fear and Greed index showed a slight decline in the overall market sentiment, while the index remained in the “Fear” zone on Thursday. U.S. stocks settled mixed on Thursday, with the Nasdaq Composite falling more than 100 points during the session despite a strong earnings report from Micron Technology Inc. (NASDAQ: MU ) . Apple Inc. (NASDAQ: AAPL ) shares fell more than 6% on Thursday after the company raised prices on several of its hardware products.",
-      "_zh_headline": "苹果股价下跌，纳斯达克指数连续第四天下跌：投资者情绪下降，贪婪指数仍处于“恐惧”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪略有下降，该指数周四仍处于“恐惧”区域。周四美国股市涨跌互现，尽管美光科技公司（纳斯达克股票代码：MU）发布了强劲的盈利报告，但纳斯达克综合指数盘中仍下跌超过 100 点。苹果公司（纳斯达克股票代码：AAPL）周四提高了几种硬件产品的价格后，其股价下跌了 6% 以上。",
       "_added_at": "2026-06-26T10:36:32.162779+00:00"
     }
   ]
