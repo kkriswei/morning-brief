@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "articles": [
     {
-      "headline": "Supreme Court Expands Trump’s Immigration Power",
-      "summary": "Also, Iran strikes a ship in the Strait of Hormuz. Here’s the latest at the end of Thursday.",
-      "url": "https://www.nytimes.com/2026/06/25/briefing/supreme-court-trump-immigration.html",
+      "headline": "The Aftermath of Venezuela’s Earthquakes",
+      "summary": "Adriana Loureiro Fernandez, a photographer for The New York Times, describes the scene on the ground after the Venezuelan earthquakes.",
+      "url": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-25T21:34:19+00:00",
-      "_summary": "Also, Iran strikes a ship in the Strait of Hormuz. Here’s the latest at the end of Thursday.",
-      "_zh_headline": "最高法院扩大特朗普的移民权力",
-      "_zh_summary": "此外，伊朗还袭击了霍尔木兹海峡的一艘船只。这是周四月底的最新消息。",
-      "_added_at": "2026-06-26T01:37:43.883319+00:00"
+      "created_at": "2026-06-26T02:31:38+00:00",
+      "_summary": "Adriana Loureiro Fernandez, a photographer for The New York Times, describes the scene on the ground after the Venezuelan earthquakes.",
+      "_zh_headline": "委内瑞拉地震的后果",
+      "_zh_summary": "《纽约时报》摄影师阿德里亚娜·洛雷罗·费尔南德斯 (Adriana Loureiro Fernandez) 描述了委内瑞拉地震后的现场景象。",
+      "_added_at": "2026-06-26T06:35:58.501485+00:00"
     },
     {
       "headline": "Hoping for Miracles as Venezuela Digs Out From Massive Quakes",
@@ -19,89 +19,47 @@
       "url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-25T21:15:16+00:00",
+      "created_at": "2026-06-26T02:54:38+00:00",
       "_summary": "It is known as a “doublet,” two earthquakes in quick succession, and it has brought the Latin American country to its knees.",
       "_zh_headline": "委内瑞拉从大地震中恢复过来，期待奇迹出现",
       "_zh_summary": "它被称为“双重地震”，即连续两次地震，使这个拉丁美洲国家陷入瘫痪。",
-      "_added_at": "2026-06-26T01:37:43.883319+00:00"
+      "_added_at": "2026-06-26T06:35:58.501485+00:00"
     },
     {
-      "author": "European Capital Insights ECI",
-      "content": "",
-      "created_at": "2026-06-25T17:30:21Z",
-      "headline": "Europe Backs US–Iran Peace Deal As Energy Volatility Rises And Geopolitical Risks Deepen",
-      "id": 60109470,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/European-Union-flag.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/European-Union-flag.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/European-Union-flag.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "European nations have thrown their support behind the US–Iran peace deal, hoping it will end months of conflict that have disrupted energy markets and raised gas prices.\n\n\n\nThe UK, France, Germany, and Italy welcomed",
-      "symbols": [],
-      "updated_at": "2026-06-25T17:30:21Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/60109470/europe-backs-us-iran-peace-deal-as-energy-volatility-rises-and-geopolitical-risks-deepen",
-      "_summary": "European nations have thrown their support behind the US–Iran peace deal, hoping it will end months of conflict that have disrupted energy markets and raised gas prices. The UK, France, Germany, and Italy welcomed the deal as \"a moment of opportunity to restore regional stability and stabilize the global economy.\" They tied their cooperation to strict conditions. \"We are prepared to lift relevant sanctions in response to clear, verifiable steps by Iran on its nuclear program,\" they said in a joint statement. \"Iran must never acquire a nuclear weapon. We stand ready to work with the US, Iran, and the International Atomic Energy Agency (IAEA) to this end.\" The four European countries urged the rapid implementation of the agreement and stressed reopening the Strait of Hormuz without restrictions. They want Gulf stability to protect growth and keep global energy flows moving without disruption.",
-      "_zh_headline": "随着能源波动加剧和地缘政治风险加深，欧洲支持美伊和平协议",
-      "_zh_summary": "欧洲国家支持美伊和平协议，希望该协议能够结束数月来扰乱能源市场并抬高天然气价格的冲突。英国、法国、德国和意大利对该协议表示欢迎，称其为“恢复地区稳定和稳定全球经济的机会”。他们将合作附加了严格的条件。他们在一份联合声明中表示：“我们准备解除相关制裁，以回应伊朗对其核计划采取的明确、可核查的步骤。” “伊朗决不能获得核武器。我们随时准备为此与美国、伊朗和国际原子能机构（IAEA）合作。”欧洲四国敦促迅速执行协议，并强调不受限制地重新开放霍尔木兹海峡。他们希望海湾地区的稳定能够保护经济增长并保持全球能源流动不受干扰。",
-      "_added_at": "2026-06-25T22:56:55.283562+00:00"
-    },
-    {
-      "headline": "Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic",
-      "summary": "The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement.",
-      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+      "headline": "He Was Deported Back to Venezuela and Started Anew. Then the Quakes Hit.",
+      "summary": "Venezuelans in South Florida were frantically trying to track down friends and relatives after two earthquakes in Venezuela. Jorge Erazo was among the missing.",
+      "url": "https://www.nytimes.com/2026/06/25/us/florida-venezuela-earthquake-missing-relatives.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-25T22:25:18+00:00",
-      "_summary": "The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement.",
-      "_zh_headline": "伊朗在霍尔木兹海峡袭击船只，破坏恢复交通的努力",
-      "_zh_summary": "美国和伊朗官员证实了这次袭击事件，此前德黑兰威胁要扰乱该水道的航运，而华盛顿则为其和平协议寻求地区支持。",
-      "_added_at": "2026-06-25T22:56:55.283562+00:00"
+      "created_at": "2026-06-26T00:56:42+00:00",
+      "_summary": "Venezuelans in South Florida were frantically trying to track down friends and relatives after two earthquakes in Venezuela. Jorge Erazo was among the missing.",
+      "_zh_headline": "他被驱逐回委内瑞拉并重新开始。然后地震袭来。",
+      "_zh_summary": "委内瑞拉发生两次地震后，南佛罗里达州的委内瑞拉人疯狂地寻找朋友和亲戚。豪尔赫·埃拉佐是失踪者之一。",
+      "_added_at": "2026-06-26T06:35:58.501485+00:00"
     },
     {
-      "headline": "U.S. Military’s Weapons Shortage Shows Few Signs of Easing Soon",
-      "summary": "President Trump and Pentagon officials tried to reassure manufacturers as they sought additional funding from Congress.",
-      "url": "https://www.nytimes.com/2026/06/25/us/politics/us-military-weapons-shortage.html",
+      "headline": "Mamdani’s Rent Freeze Is Approved by New York City Board",
+      "summary": "Mayor Zohran Mamdani’s pledge to freeze rents for rent-stabilized apartments became a centerpiece of his campaign. Six months into his first year, a city panel delivered.",
+      "url": "https://www.nytimes.com/2026/06/25/nyregion/nyc-rent-freeze-vote-mamdani.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-25T19:07:56+00:00",
-      "_summary": "President Trump and Pentagon officials tried to reassure manufacturers as they sought additional funding from Congress.",
-      "_zh_headline": "美军武器短缺问题几乎没有缓解的迹象",
-      "_zh_summary": "特朗普总统和五角大楼官员在向国会寻求额外资金时试图安抚制造商。",
-      "_added_at": "2026-06-25T22:56:55.283562+00:00"
+      "created_at": "2026-06-26T02:36:22+00:00",
+      "_summary": "Mayor Zohran Mamdani’s pledge to freeze rents for rent-stabilized apartments became a centerpiece of his campaign. Six months into his first year, a city panel delivered.",
+      "_zh_headline": "纽约市议会批准曼达尼的租金冻结",
+      "_zh_summary": "市长佐兰·马姆达尼 (Zohran Mamdani) 承诺冻结租金稳定公寓的租金成为其竞选活动的核心内容。第一年就任六个月后，市政府小组交付了成果。",
+      "_added_at": "2026-06-26T06:35:58.501485+00:00"
     },
     {
-      "headline": "Oil price falls back to pre-Iran war levels",
-      "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "headline": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+      "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "symbols": [],
-      "created_at": "2026-06-25T15:32:04+00:00",
-      "_summary": "The price of oil has fallen to levels not seen since before the Iran war as traffic through the key Strait of Hormuz shipping route gradually resumes. Global benchmark Brent crude briefly fell below $72.48 (Â£55) a barrel, the price it was at the day before the US and Israel launched attacks on Iran on 28 February, before edging up to $73.23. Energy prices have been on a wild ride since Iran responded to the strikes by effectively closing the strait, a critical waterway for oil and gas shipments. The cost of crude has been moving sharply lower since the US and Iran signed a Memorandum of Understanding (MOU) on 17 June which set out a 60-day period for negotiations on Tehran's nuclear programme and other measures to end the war. However, Pratibha Thaker, regional director of Middle East and Africa at the Economist Intelligence Unit, said though oil prices have fallen back to pre-conflict levels, risks still remain.",
-      "_zh_headline": "油价回落至伊朗战争前水平",
-      "_zh_summary": "随着霍尔木兹海峡主要航线的交通逐渐恢复，石油价格已跌至伊朗战争前以来的最低水平。全球基准布伦特原油一度跌破每桶 72.48 美元（55 英镑），这是美国和以色列 2 月 28 日对伊朗发动袭击前一天的价格，随后小幅升至 73.23 美元。自从伊朗通过有效关闭海峡这一石油和天然气运输的重要水道来应对袭击以来，能源价格一直在疯狂上涨。自美国和伊朗于 6 月 17 日签署谅解备忘录 (MOU) 以来，原油成本一直大幅走低，该谅解备忘录规定为期 60 天的时间，就德黑兰的核计划和其他结束战争的措施进行谈判。不过，经济学人智库中东和非洲区域主任普拉蒂巴·塔克表示，尽管油价已回落至冲突前水平，但风险依然存在。",
-      "_added_at": "2026-06-25T20:32:34.214467+00:00"
-    },
-    {
-      "headline": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-25T09:06:59+00:00",
-      "_summary": "Congress has told Trump to stop Iran war - why does it matter? The White House has asked lawmakers to approve $87.6bn (Â£66.5bn), mostly for \"urgent needs\" connected with the US war on Iran, a day after Congress passed a resolution rebuking the military action. The bulk of the funding - $67bn - is for the US Department of Defence, the White House said. But the proposal faces an uphill battle in Congress. The Iran conflict is unpopular with voters ahead of the US midterm elections in November, though a ceasefire is currently in effect. US President Donald Trump has also found himself at odds with some members of his Republican Party over the issue of Iran, and is alleged to have ended up in an angry exchange with one senator on Wednesday. That senator, Bill Cassidy of Louisiana, was one of a handful of Republicans who defied the president on Tuesday by voting to pass a measure demanding that he halt the war or seek congressional approval before continuing military action.",
-      "_zh_headline": "在与共和党关系紧张后，特朗普要求国会为伊朗战争提供数十亿美元",
-      "_zh_summary": "国会告诉特朗普停止伊朗战争——为什么这很重要？在国会通过一项谴责军事行动的决议一天后，白宫已要求立法者批准 876 亿美元（665 亿英镑），主要用于与美国对伊朗战争有关的“紧急需求”。白宫表示，其中 670 亿美元的大部分资金将提供给美国国防部。但该提案在国会面临着一场艰苦的战斗。尽管停火目前已经生效，但在 11 月美国中期选举之前，伊朗冲突不受选民欢迎。美国总统唐纳德·特朗普还发现自己与共和党一些成员在伊朗问题上存在分歧，据称周三与一名参议员发生了愤怒的交锋。这位来自路易斯安那州的参议员比尔·卡西迪是周二公然反抗总统的少数共和党人之一，他们投票通过了一项措施，要求他停止战争或在继续采取军事行动之前寻求国会批准。",
-      "_added_at": "2026-06-25T20:32:34.214467+00:00"
+      "created_at": "2026-06-26T03:24:12+00:00",
+      "_summary": "Rescues and prayers a day after Venezuelan earthquakes Rescuers are searching through rubble in a rush to save lives after two powerful earthquakes struck Venezuela near the capital, killing at least 235 people and injuring at least 4,300. In Caracas and the nearby coastal city of La Guaira, people could be heard calling for help from under the debris of collapsed buildings. The first 7.2-magnitude quake was followed seconds later by an even stronger 7.5-magnitude one, according to the US Geological Survey (USGS), with both occurring close to the surface, making destruction more severe. Many more people are feared dead, with others left homeless or too afraid to stay in damaged, unsafe buildings sleeping in the streets after the disaster. The earthquakes struck at 18:04 local time (22:04 GMT) on Wednesday - a national holiday in Venezuela, meaning more people would have been at home than on a normal weekday.",
+      "_zh_headline": "委内瑞拉地震造成至少 235 人死亡，救援人员在废墟中搜寻幸存者",
+      "_zh_summary": "委内瑞拉地震发生一天后的救援和祈祷 委内瑞拉首都附近发生两次强烈地震，造成至少 235 人死亡、至少 4,300 人受伤，救援人员正在废墟中搜寻，急于拯救生命。在加拉加斯和附近的沿海城市拉瓜伊拉，可以听到人们在倒塌建筑物的废墟下呼救。据美国地质调查局 (USGS) 称，第一次 7.2 级地震几秒钟后又发生了更强烈的 7.5 级地震，两次地震都发生在靠近地表的地方，造成破坏更加严重。灾难发生后，人们担心会有更多的人死亡，还有一些人无家可归，或者不敢住在受损、不安全的建筑里，睡在街上。地震发生在当地时间周三 18:04（格林威治标准时间 22:04），当时恰逢委内瑞拉的国定假日，这意味着在家中的人数比正常工作日要多。",
+      "_added_at": "2026-06-26T06:35:58.501485+00:00"
     },
     {
       "author": "Piero Cingari",
@@ -169,463 +127,7 @@
       "_summary": "Micron’s blowout print confirmed that memory prices are climbing fast, a windfall for chipmakers and equipment suppliers but a fresh margin threat for the companies that have to buy those chips. The May core PCE price index rose to 3.4% on the year, while the headline PCE hit 4.1% — the highest since April 2023. Both readings matched expectations, with the odds of a Fed increase in September falling to 63% from 68% the prior day.",
       "_zh_headline": "美光涨 15%，苹果因内存成本下跌 6%：今日股市",
       "_zh_summary": "美光的井喷式印刷证实内存价格正在快速攀升，这对芯片制造商和设备供应商来说是一笔意外之财，但对必须购买这些芯片的公司来说却是新的利润威胁。 5 月份核心 PCE 价格指数同比上涨至 3.4%，而总体 PCE 则触及 4.1%，为 2023 年 4 月以来的最高水平。这两个数据均符合预期，美联储 9 月加息的可能性从前一天的 68% 降至 63%。",
-      "_added_at": "2026-06-25T20:32:34.214467+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-25T17:35:22Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "id": 60109753,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "symbols": [
-        "AAPL",
-        "AMAT",
-        "INTC",
-        "MRVL",
-        "MSTR",
-        "MU",
-        "PLTR",
-        "SNDK",
-        "TSM",
-        "WULF"
-      ],
-      "updated_at": "2026-06-25T17:35:22Z",
-      "url": "https://www.benzinga.com/markets/options/26/06/60109753/10-information-technology-stocks-whale-activity-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
-      "_added_at": "2026-06-25T20:32:34.214467+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-25T17:11:41Z",
-      "headline": "Micron Rallies 15%, Apple Sinks 6% On Memory Costs: Stock Market Today",
-      "id": 60108692,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Close-Up-Of-Stock-Market-Candlestick-Cha.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Close-Up-Of-Stock-Market-Candlestick-Cha.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Close-Up-Of-Stock-Market-Candlestick-Cha.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron&#39;s blowout earnings powered memory and chip stocks higher, but the broad rally stalled by midday as the S&amp;P 500 slipped.",
-      "symbols": [
-        "AAPL",
-        "AMAT",
-        "AMZN",
-        "AYI",
-        "BTCUSD",
-        "DE",
-        "DELL",
-        "DIA",
-        "DUOL",
-        "ESTC",
-        "GLD",
-        "GLW",
-        "GOOGL",
-        "IGV",
-        "IWM",
-        "JEF",
-        "JPM",
-        "META",
-        "MS",
-        "MSFT",
-        "MSTR",
-        "MU",
-        "NVDA",
-        "QCOM",
-        "QQQ",
-        "SMH",
-        "SNDK",
-        "TECH",
-        "VOO",
-        "XLB",
-        "XLC",
-        "XLE",
-        "XLI",
-        "XLK",
-        "XLP",
-        "XLV",
-        "XLY"
-      ],
-      "updated_at": "2026-06-25T17:11:41Z",
-      "url": "https://www.benzinga.com/news/26/06/60108692/micron-rallies-apple-sinks-stock-market-thursday",
-      "_summary": "Micron’s blowout print confirmed that memory prices are climbing fast, a windfall for chipmakers and equipment suppliers but a fresh margin threat for the companies that have to buy those chips. The May core PCE price index rose to 3.4% on the year, while the headline PCE hit 4.1% — the highest since April 2023. Both readings matched expectations, with the odds of a Fed increase in September falling to 63% from 68% the prior day.",
-      "_zh_headline": "美光涨 15%，苹果因内存成本下跌 6%：今日股市",
-      "_zh_summary": "美光的井喷式印刷证实内存价格正在快速攀升，这对芯片制造商和设备供应商来说是一笔意外之财，但对必须购买这些芯片的公司来说却是新的利润威胁。 5 月份核心 PCE 价格指数同比上涨至 3.4%，而总体 PCE 则触及 4.1%，为 2023 年 4 月以来的最高水平。这两个数据均符合预期，美联储 9 月加息的可能性从前一天的 68% 降至 63%。",
-      "_added_at": "2026-06-25T17:31:41.092553+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-06-25T15:47:03Z",
-      "headline": "Micron Earnings Reignite AI Optimism, But More Memory Supply Ahead—PCE Shows Sticky Inflation",
-      "id": 60104872,
-      "images": [],
-      "source": "benzinga",
-      "summary": "\n\n\n\nMore Memory Supply \n\n\n\nPlease click here for an enlarged chart of Micron Technology Inc (NASDAQ:MU).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of MU stock",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "IBM",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QCOM",
-        "QQQ",
-        "SPY",
-        "TSLA"
-      ],
-      "updated_at": "2026-06-25T15:48:33Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/60104872/micron-earnings-reignite-ai-optimism-but-more-memory-supply-ahead-pce-shows-sticky-inflation",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. Investors can gain an edge by knowing money flows in SPY and QQQ.  Investors can get a bigger edge by knowing when smart money is buying stocks, gold, and oil.  The most popular ETF for gold is SPDR Gold Trust (GLD).  The most popular ETF for silver is iShares Silver Trust (SLV).  The most popular ETF for oil is United States Oil ETF (USO).",
-      "_zh_headline": "美光财报重燃人工智能乐观情绪，但内存供应量将增加——PCE 显示粘性通胀",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。投资者可以通过了解 SPY 和 QQQ 的资金流向来获得优势。  通过了解聪明的资金何时购买股票、黄金和石油，投资者可以获得更大的优势。  最受欢迎的黄金 ETF 是 SPDR Gold Trust (GLD)。  最受欢迎的白银 ETF 是 iShares Silver Trust (SLV)。  最受欢迎的石油 ETF 是美国石油 ETF (USO)。",
-      "_added_at": "2026-06-25T17:31:41.092553+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-25T16:41:21Z",
-      "headline": "What's Going On With Marvell Technology Stock Thursday?",
-      "id": 60107355,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Marvell.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Marvell.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Marvell.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Marvell (MRVL) stock rides tech rally higher. Check out the latest analyst price targets, technical indicators, and CFO insider selling.",
-      "symbols": [
-        "AMZN",
-        "ARTY",
-        "MRVL",
-        "MSFT",
-        "SOXQ",
-        "SOXX"
-      ],
-      "updated_at": "2026-06-25T16:41:21Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60107355/whats-going-on-with-marvell-technology-stock-thursday-2",
-      "_summary": "Marvell Technology Inc. (NASDAQ: MRVL ) stock traded in a volatile range on Thursday before turning modestly higher, as chip stocks benefited from a risk-on market while investors weighed the stock’s recent sharp rally. The Nasdaq gained 1.02%, the S&P 500 added 0.32%, and the Technology sector led the market with a 1% increase. Marvell’s gains appeared to be driven more by improving market sentiment than company-specific news.",
-      "_zh_headline": "Marvell 科技股周四走势如何？",
-      "_zh_summary": "Marvell Technology Inc.（纳斯达克股票代码：MRVL）的股票周四在波动区间内交易，然后小幅走高，因为芯片股受益于风险市场，而投资者则权衡了该股最近的大幅上涨。纳斯达克指数上涨 1.02%，标准普尔 500 指数上涨 0.32%，科技股上涨 1%，领涨大盘。 Marvell 的上涨似乎更多地是受到市场情绪改善的推动，而不是公司具体新闻的推动。",
-      "_added_at": "2026-06-25T17:31:41.092553+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-06-25T17:15:33Z",
-      "headline": "Apple Just Confirmed Micron's Biggest AI Prediction",
-      "id": 60108831,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Cupertino--California--September-25--202.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Cupertino--California--September-25--202.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Cupertino--California--September-25--202.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Apple says AI-driven shortages of memory and storage are behind price hikes for Macs and iPads, echoing Micron&#39;s warning.",
-      "symbols": [
-        "AAPL",
-        "MU"
-      ],
-      "updated_at": "2026-06-25T17:15:33Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60108831/apple-just-confirmed-microns-biggest-ai-prediction",
-      "_summary": "The price increases affect products including the MacBook Neo, MacBook Air, MacBook Pro, iPad Pro, iPad Air, HomePod, HomePod mini and Apple TV, while iPhone pricing remains unchanged. Apple attributed the increases to tightening supplies of memory and storage components as AI infrastructure spending accelerates.",
-      "_zh_headline": "苹果刚刚确认了美光最大的人工智能预测",
-      "_zh_summary": "价格上涨影响的产品包括 MacBook Neo、MacBook Air、MacBook Pro、iPad Pro、iPad Air、HomePod、HomePod mini 和 Apple TV，而 iPhone 定价保持不变。苹果将​​增长归因于人工智能基础设施支出加速，内存和存储组件供应紧张。",
-      "_added_at": "2026-06-25T17:31:41.092553+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-25T17:08:17Z",
-      "headline": "Micron Just Delivered 'A Memorable Beat' – This Analyst Now Sees The Stock At $1,550",
-      "id": 60108584,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/The-Micron-Logo-Appears---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/The-Micron-Logo-Appears---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/The-Micron-Logo-Appears---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron stock jumped 15% after blockbuster earnings as Bank of America raised its price target to $1,550. Analysts say AI demand and long-term customer agreements could permanently reshape the memory-chip business.",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-25T17:08:17Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60108584/micron-earnings-analyst-reactions-bofa-1550-vivek-arya-susquehanna-2000",
-      "_summary": "Bank of America reiterated its Buy rating on the stock and raised its price target to $1,550 from $1,500, after what analyst Vivek Arya called “another memorable beat.” Micron shares rallied roughly 15% on Thursday near $1,180. Bank of America’s new target implies another 31% of upside from there. Micron’s fiscal third-quarter revenue surged 346% from a year earlier to $41.5 billion, topping consensus by about 16%.",
-      "_zh_headline": "美光科技刚刚发布了“令人难忘的业绩”——这位分析师现在认为该股价格为 1,550 美元",
-      "_zh_summary": "美国银行重申了对该股的买入评级，并将目标价从 1,500 美元上调至 1,550 美元，此前分析师 Vivek Arya 称其为“又一次令人难忘的表现”。美光科技股价周四上涨约 15%，接近 1,180 美元。美国银行的新目标意味着在此基础上还有 31% 的上涨空间。美光第三财季营收同比增长 346% 至 415 亿美元，超出市场预期约 16%。",
-      "_added_at": "2026-06-25T17:31:41.092553+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-25T13:40:55Z",
-      "headline": "Dow Surges 250 Points; Micron Posts Upbeat Q3 Earnings",
-      "id": 60097112,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The Dow Jones index rose 0.5% to 52,107.28, NASDAQ up 0.7% to 25,654.49, S&amp;P 500 gained 0.6% to 7,401.17. Tech shares jump 1.6% while communication services stocks fell 1.9%. Micron beats expectations with Q3 results. Triller Group Inc up 259%.",
-      "symbols": [
-        "AZI",
-        "DCX",
-        "ILLR",
-        "KUST",
-        "MU",
-        "NNOX",
-        "PAVS"
-      ],
-      "updated_at": "2026-06-25T13:40:55Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60097112/dow-surges-250-points-micron-posts-upbeat-q3-earnings",
-      "_summary": "U.S. stocks traded higher this morning, with the Dow Jones index gaining around 250 points on Thursday. Following the market opening Thursday, the Dow traded up 0.50% to 52,107.28 while the NASDAQ surged 0.70% to 25,654.49. The S&P 500 also rose, gaining, 0.58% to 7,401.17. Information technology shares jumped by 1.6% on Thursday. In trading on Thursday, communication services stocks fell by 1.9%. Micron Technology Inc.",
-      "_zh_headline": "道指飙升 250 点；美光公布乐观的第三季度收益",
-      "_zh_summary": "今天上午美国股市走高，道琼斯指数周四上涨约 250 点。周四开盘后，道指上涨 0.50% 至 52,107.28 点，纳斯达克指数上涨 0.70% 至 25,654.49 点。标准普尔 500 指数也上涨 0.58%，至 7,401.17 点。信息技术股周四上涨 1.6%。周四交易中，通信服务股下跌 1.9%。美光科技公司",
-      "_added_at": "2026-06-25T15:25:17.873576+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-25T13:19:06Z",
-      "headline": "Why Is Taiwan Semiconductor Stock Gaining Thursday?",
-      "id": 60096083,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/TSMC.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/TSMC.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/TSMC.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Taiwan Semiconductor stock jumps 4% premarket as Micron’s blowout earnings fuel optimism for the massive AI infrastructure spending boom.",
-      "symbols": [
-        "BLOX",
-        "GEME",
-        "MU",
-        "OSEA",
-        "TSM"
-      ],
-      "updated_at": "2026-06-25T13:19:06Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60096083/why-is-taiwan-semiconductor-stock-gaining-thursday",
-      "_summary": "The broader market also supported sentiment, with S&P 500 futures rising about 0.7%. Micron reported fiscal third-quarter adjusted earnings of $25.11 per share on revenue of $41.46 billion. The company also forecast fiscal fourth-quarter adjusted earnings of about $31 per share on roughly $50 billion in revenue. The results strengthened investor confidence that AI infrastructure demand continues to support pricing power across the semiconductor industry.",
-      "_zh_headline": "为什么台积电股票周四上涨？",
-      "_zh_summary": "大盘也支撑了市场情绪，标准普尔 500 指数期货上涨约 0.7%。美光公布第三财季调整后每股收益为 25.11 美元，营收为 414.6 亿美元。该公司还预计第四财季调整后每股收益约为 31 美元，营收约为 500 亿美元。这一结果增强了投资者的信心，即人工智能基础设施需求将继续支持整个半导体行业的定价能力。",
-      "_added_at": "2026-06-25T15:25:17.873576+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-25T13:06:49Z",
-      "headline": "Micron To Rally More Than 57%? Here Are 10 Top Analyst Forecasts For Thursday",
-      "id": 60095710,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Top analysts changed outlook on top names. See full changes, upgrades, downgrades on analyst ratings page. See how analysts view PepsiCo, Absci, Okta, Datadog, ICON, Nike, UWM, Micron.",
-      "symbols": [
-        "ABSI",
-        "DDOG",
-        "HSY",
-        "ICLR",
-        "MU",
-        "NKE",
-        "OKTA",
-        "PEP",
-        "URI",
-        "UWMC"
-      ],
-      "updated_at": "2026-06-25T13:06:49Z",
-      "url": "https://www.benzinga.com/news/26/06/60095710/micron-to-rally-more-than-57-here-are-10-top-analyst-forecasts-for-thursday",
-      "_summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page . Considering buying URI stock? Here’s what analysts think:",
-      "_zh_headline": "美光股价将上涨超过 57%？以下是周四 10 名顶级分析师的预测",
-      "_zh_summary": "华尔街顶级分析师改变了对这些顶级人物的看法。有关所有分析师评级变化（包括升级和降级）的完整视图，请参阅我们的分析师评级页面。考虑购买 URI 股票？以下是分析师的看法：",
-      "_added_at": "2026-06-25T15:25:17.873576+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-25T15:19:23Z",
-      "headline": "The AI Memory Trade Is Heating Up: Defiance Launches 2X DRAM ETF After Micron's Blowout Quarter",
-      "id": 60103609,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Defiance launches the DRAL ETF, offering leveraged exposure to AI-driven memory stocks as Micron&#39;s strong earnings boost the memory trade.",
-      "symbols": [
-        "DRAL",
-        "DRAM",
-        "MU",
-        "RAM"
-      ],
-      "updated_at": "2026-06-25T15:19:23Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60103609/the-ai-memory-trade-is-heating-up-defiance-launches-2x-dram-etf-after-microns-blowout-quarter",
-      "_summary": "The launch comes at the heels of Roundhill Investments’ launch of a leveraged fund designed to deliver twice the daily performance of the Roundhill Memory ETF (NASDAQ: DRAM ). Micron reported fiscal third-quarter revenue of $11.3 billion, up 37% year-over-year, while data center revenue more than doubled as demand for high-bandwidth memory (HBM) chips used in AI servers continued to surge. The company also issued strong forward guidance, signaling that demand for AI memory products remains robust.",
-      "_zh_headline": "AI内存贸易正在升温：美光季度井喷后，Defiance推出2X DRAM ETF",
-      "_zh_summary": "此前，Roundhill Investments 推出了一款杠杆基金，旨在实现 Roundhill 内存 ETF（纳斯达克股票代码：DRAM）每日业绩的两倍。美光公布第三财季营收为 113 亿美元，同比增长 37%，而随着人工智能服务器中使用的高带宽内存 (HBM) 芯片的需求持续激增，数据中心营收增长了一倍多。该公司还发布了强有力的前瞻性指引，表明人工智能内存产品的需求仍然强劲。",
-      "_added_at": "2026-06-25T15:25:17.873576+00:00"
-    },
-    {
-      "author": "Michael Adeleke",
-      "content": "",
-      "created_at": "2026-06-25T14:27:54Z",
-      "headline": "Wall Street Cheers Micron's Earnings Surprise—Can The Stock Keep Climbing?",
-      "id": 60100721,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Micron.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Just days after investors dumped AI stocks on fears that valuations had gotten too high, Micron Technology (NASDAQ:MU) returned with a bang. \n\n\n\nThe memory-chip giant reported quarterly results that crushed",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-25T14:27:54Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/60100721/wall-street-cheers-micron-earnings-surprise",
-      "_summary": "Just days after investors dumped AI stocks on fears that valuations had gotten too high, Micron Technology (NASDAQ: MU ) returned with a bang. The memory-chip giant reported quarterly results that crushed expectations, and even issued a stronger-than-expected outlook. This showed that customers have committed $22 billion to secure future chip supplies. The update sent Micron shares soaring more than 15% in after-hours trading.",
-      "_zh_headline": "华尔街为美光科技的盈利惊喜欢呼——该股能否继续上涨？",
-      "_zh_summary": "就在投资者因担心估值过高而抛售人工智能股票几天后，美光科技（纳斯达克股票代码：MU）强势回归。这家存储芯片巨头公布的季度业绩超出预期，甚至发布了强于预期的前景。这表明客户已投入 220 亿美元来确保未来的芯片供应。这一更新导致美光科技股价在盘后交易中飙升超过 15%。",
-      "_added_at": "2026-06-25T15:25:17.873576+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-06-25T14:14:58Z",
-      "headline": "These Analysts Boost Their Forecasts On Micron Technology After Better-Than-Expected Q3 Results",
-      "id": 60100007,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/What-Are-Analysts-Expecting-From-Mag-7-S.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/What-Are-Analysts-Expecting-From-Mag-7-S.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/What-Are-Analysts-Expecting-From-Mag-7-S.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "NASDAQ:MU surpasses Q3 expectations with revenue of $41.46B and adjusted EPS of $25.11. Strong guidance for Q4. Analysts raise price targets.",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-25T14:14:58Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/60100007/these-analysts-boost-their-forecasts-on-micron-technology-after-better-than-expected-q3-results",
-      "_summary": "Micron reported third-quarter revenue of $41.46 billion, exceeding analyst estimates of $35.59 billion, according to Benzinga Pro. The semiconductor company posted adjusted earnings of $25.11 per share, beating analyst estimates of $20.63 per share. \"Micron is investing at record levels in technology, products and supply to address our customers’ rapidly growing demand.",
-      "_zh_headline": "在第三季度业绩好于预期后，这些分析师提高了对美光科技的预测",
-      "_zh_summary": "据 Benzinga Pro 称，美光第三季度营收为 414.6 亿美元，超出分析师预期的 355.9 亿美元。该半导体公司公布调整后每股收益 25.11 美元，超出分析师预期的每股 20.63 美元。 “美光科技正在技术、产品和供应方面进行创纪录的投资，以满足客户快速增长的需求。",
-      "_added_at": "2026-06-25T15:25:17.873576+00:00"
+      "_added_at": "2026-06-26T06:35:58.501485+00:00"
     }
   ]
 }
