@@ -2,6 +2,30 @@
   "date": "2026-06-25",
   "articles": [
     {
+      "headline": "Supreme Court Expands Trump’s Immigration Power",
+      "summary": "Also, Iran strikes a ship in the Strait of Hormuz. Here’s the latest at the end of Thursday.",
+      "url": "https://www.nytimes.com/2026/06/25/briefing/supreme-court-trump-immigration.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-25T21:34:19+00:00",
+      "_summary": "Also, Iran strikes a ship in the Strait of Hormuz. Here’s the latest at the end of Thursday.",
+      "_zh_headline": "最高法院扩大特朗普的移民权力",
+      "_zh_summary": "此外，伊朗还袭击了霍尔木兹海峡的一艘船只。这是周四月底的最新消息。",
+      "_added_at": "2026-06-26T01:37:43.883319+00:00"
+    },
+    {
+      "headline": "Hoping for Miracles as Venezuela Digs Out From Massive Quakes",
+      "summary": "It is known as a “doublet,” two earthquakes in quick succession, and it has brought the Latin American country to its knees.",
+      "url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-25T21:15:16+00:00",
+      "_summary": "It is known as a “doublet,” two earthquakes in quick succession, and it has brought the Latin American country to its knees.",
+      "_zh_headline": "委内瑞拉从大地震中恢复过来，期待奇迹出现",
+      "_zh_summary": "它被称为“双重地震”，即连续两次地震，使这个拉丁美洲国家陷入瘫痪。",
+      "_added_at": "2026-06-26T01:37:43.883319+00:00"
+    },
+    {
       "author": "European Capital Insights ECI",
       "content": "",
       "created_at": "2026-06-25T17:30:21Z",
@@ -602,81 +626,6 @@
       "_zh_headline": "在第三季度业绩好于预期后，这些分析师提高了对美光科技的预测",
       "_zh_summary": "据 Benzinga Pro 称，美光第三季度营收为 414.6 亿美元，超出分析师预期的 355.9 亿美元。该半导体公司公布调整后每股收益 25.11 美元，超出分析师预期的每股 20.63 美元。 “美光科技正在技术、产品和供应方面进行创纪录的投资，以满足客户快速增长的需求。",
       "_added_at": "2026-06-25T15:25:17.873576+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-25T09:53:35Z",
-      "headline": "Stock Market Today: S&P 500, Nasdaq Futures Gain As AI Stocks Rally On Micron’s Strong Outlook—Qualcomm, Wendy's In Focus",
-      "id": 60090940,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures rose on Thursday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices rose, following Wednesday&#39;s mixed close.",
-      "symbols": [
-        "AMD",
-        "BTCUSD",
-        "FUL",
-        "MU",
-        "QCOM",
-        "QQQ",
-        "SPY",
-        "WEN"
-      ],
-      "updated_at": "2026-06-25T09:53:35Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60090940/stock-market-today-sp-500-nasdaq-futures-gain-as-ai-stocks-rally-on-microns-strong-outlook-qualcomm-wendys-in-focus",
-      "_summary": "U.S. stock futures rose on Thursday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Wednesday’s mixed close. Investors are awaiting Thursday’s release of the Personal Consumption Expenditures Price Index, which serves as the Federal Reserve’s preferred inflation gauge. He also unveiled a comprehensive \" 3 through 3 \" economic blueprint designed to sustain high GDP growth while neutralizing \"structural inflation.\"",
-      "_zh_headline": "今日股市：随着美光科技强劲前景推动人工智能股票上涨，标普 500 指数和纳斯达克期货上涨——焦点集中在高通、Wendy's",
-      "_zh_summary": "美国股指期货周四上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三涨跌互现后上涨。投资者正在等待周四发布的个人消费支出价格指数，该指数是美联储首选的通胀指标。他还公布了全面的“3至3”经济蓝图，旨在维持GDP高增长，同时抵消“结构性通胀”。",
-      "_added_at": "2026-06-25T12:02:22.427357+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-06-25T09:48:06Z",
-      "headline": "Foreign Investors Are ‘All In’ On America As US Stock Holdings Hit Record $23 Trillion",
-      "id": 60090869,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/25/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Foreign investors held a record $23.2 trillion in U.S. equities in April after adding about $2 trillion in a single month.",
-      "symbols": [
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-06-25T09:48:06Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60090869/foreign-investors-are-all-in-on-america-as-us-stock-holdings-hit-record-23-trillion",
-      "_summary": "Foreign investors held a record $23.2 trillion worth of U.S. equities in April, adding about $2 trillion in a single month as overseas demand for American stocks continued to climb. The increase more than doubled foreign holdings from levels seen during the 2022 bear market and marked a sharp rise from roughly $7.5 trillion during the 2020 pandemic, according to the data shared by The Kobeissi Letter on X.",
-      "_zh_headline": "美国股票持仓量创历史新高 23 万亿美元 外国投资者“全神贯注”美国",
-      "_zh_summary": "4月份外国投资者持有的美国股票价值达到创纪录的23.2万亿美元，随着海外对美国股票的需求持续攀升，单月增加了约2万亿美元。根据 The Koheissi Letter 在 X 上分享的数据，与 2022 年熊市期间的水平相比，外国持有量增加了一倍以上，也标志着 2020 年大流行期间约 7.5 万亿美元的急剧增加。",
-      "_added_at": "2026-06-25T12:02:22.427357+00:00"
     }
   ]
 }
