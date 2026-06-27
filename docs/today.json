@@ -2,6 +2,80 @@
   "date": "2026-06-27",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-27T18:27:03Z",
+      "headline": "MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM",
+      "id": 60146043,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "US investors are increasingly skeptical about the Magnificent 7, with most of these stocks still trading well below their all-time highs.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "DRAM",
+        "GOOG",
+        "MAGS",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "TSLA"
+      ],
+      "updated_at": "2026-06-27T18:27:03Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60146043/mags-etf-magnificent-7-outflows-surge-as-investors-rotate-into-dram",
+      "_summary": "Data compiled by ETFDB shows that investors have continued dumping the MAGS ETF. Outflows have jumped to over $607 million in the last six months, with its assets under management dropping to $3.6 billion. The ongoing performance is primarily because most Magnificent 7 companies have retreated in the past few months. Alphabet (NASDAQ: GOOG ) stock dropped by 17.5% from its highest point this year.",
+      "_zh_headline": "MAGS ETF：随着投资者转向 DRAM，7 月份资金流出激增",
+      "_zh_summary": "ETFDB 编制的数据显示，投资者继续抛售 MAGS ETF。过去六个月，资金外流跃升至超过 6.07 亿美元，其管理的资产降至 36 亿美元。持续的表现主要是因为大多数 Magnificent 7 公司在过去几个月中都出现了下滑。 Alphabet（纳斯达克股票代码：GOOG）股价较今年最高点下跌了 17.5%。",
+      "_added_at": "2026-06-27T18:45:59.313199+00:00"
+    },
+    {
+      "author": "Shomik Sen Bhattacharjee",
+      "content": "",
+      "created_at": "2026-06-27T17:00:24Z",
+      "headline": "Micron CEO Sanjay Mehrotra Says Watching Berkeley’s ‘The Play’ Helped Shape A Leadership Quality He Later Brought To SanDisk",
+      "id": 60145981,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron&#39;s CEO credits a legendary college football play for teaching him tenacity. The lesson helped him lead SanDisk and Micron to success.",
+      "symbols": [
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-06-27T17:00:24Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60145981/micron-ceo-sanjay-mehrotra-says-berkeleys-the-play-helped-shape-a-leadership-trait-he-brought-to-sandisk",
+      "_summary": "During the 1982 \"Big Game\" between the UC Berkeley Cal Bears and the Stanford Cardinal, Mehrotra watched from the stands as a young Berkeley student. With four seconds left, Cal pulled off a five-lateral kickoff return through the Stanford marching band to score a game-winning touchdown. In an interview with Business Insider, Mehrotra said he still remembers the moment vividly. \"I was there, and it still gives me goosebumps,\" he said. \"It was extremely exciting, an unbelievable finish.\"",
+      "_zh_headline": "美光首席执行官桑杰·梅赫罗特拉 (Sanjay Mehrotra) 表示，观看伯克利大学的“The Play”有助于塑造他后来带到 SanDisk 的领导素质",
+      "_zh_summary": "1982 年，加州大学伯克利分校熊队 (UC Berkeley Cal Bears) 与斯坦福大学红雀队 (Stanford Cardinal) 之间的“重大比赛”期间，作为一名年轻的伯克利学生，梅赫罗特拉 (Mehrotra) 在看台上观看了比赛。还剩四秒时，卡尔在斯坦福军乐队中完成五次横向开球回攻，取得了赢得比赛的达阵。梅赫罗特拉在接受《商业内幕》采访时表示，他仍然清楚地记得那一刻。 “我当时就在那里，但至今仍让我起鸡皮疙瘩，”他说。 “这非常令人兴奋，令人难以置信的结局。”",
+      "_added_at": "2026-06-27T18:45:59.313199+00:00"
+    },
+    {
       "headline": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
       "summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
       "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
