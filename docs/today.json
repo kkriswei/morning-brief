@@ -2,6 +2,30 @@
   "date": "2026-06-27",
   "articles": [
     {
+      "headline": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+      "summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
+      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-27T09:02:30+00:00",
+      "_summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
+      "_zh_headline": "纽约选举后，以色列人担心美以关系进一步破裂",
+      "_zh_summary": "对以色列加沙战争的批评、对伊朗战争的愤怒以及纽约的选举结果都表明，华盛顿对以色列的坚定支持可能是时日无多了。",
+      "_added_at": "2026-06-27T11:11:18.736660+00:00"
+    },
+    {
+      "headline": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
+      "summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.",
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-27T09:02:39+00:00",
+      "_summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.",
+      "_zh_headline": "委内瑞拉经济正在崛起。然后地震发生了。",
+      "_zh_summary": "现在，人们对美国在帮助委内瑞拉方面发挥的作用的期望不断上升，委内瑞拉已经因数十年的暴政而陷入低谷。",
+      "_added_at": "2026-06-27T11:11:18.736660+00:00"
+    },
+    {
       "headline": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
       "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
       "url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
