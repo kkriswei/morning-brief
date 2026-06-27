@@ -2,6 +2,30 @@
   "date": "2026-06-27",
   "articles": [
     {
+      "headline": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
+      "summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
+      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-27T13:30:59+00:00",
+      "_summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
+      "_zh_headline": "美伊协议中含糊的语言再次困扰和平努力",
+      "_zh_summary": "该协议要求伊朗为船只通过霍尔木兹海峡“做出安排”。伊朗将此解释为它可以指定船只行驶的路线。",
+      "_added_at": "2026-06-27T16:40:23.281089+00:00"
+    },
+    {
+      "headline": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
+      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-27T14:33:25+00:00",
+      "_summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
+      "_zh_headline": "志愿者冒着生命危险阻止埃博拉病毒。他们并不总是受欢迎。",
+      "_zh_summary": "进行安全埋葬的前线刚果工作人员对于遏制专家担心的可能成为有史以来最严重的埃博拉疫情至关重要。他们不仅面临感染的风险，还面临恐惧社区的愤怒。",
+      "_added_at": "2026-06-27T16:40:23.281089+00:00"
+    },
+    {
       "headline": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
       "summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
       "url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
