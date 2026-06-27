@@ -2,6 +2,30 @@
   "date": "2026-06-26",
   "articles": [
     {
+      "headline": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+      "summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
+      "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-26T22:58:06+00:00",
+      "_summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
+      "_zh_headline": "美国打击伊朗，报复霍尔木兹海峡船只遇袭事件",
+      "_zh_summary": "特朗普总统周五称伊朗一天前对一艘穿越霍尔木兹海峡的集装箱船的袭击是“愚蠢”的行为。",
+      "_added_at": "2026-06-27T01:28:57.448317+00:00"
+    },
+    {
+      "headline": "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon",
+      "summary": "Secretary of State Marco Rubio acknowledged that the agreement marked only “the beginning of the beginning” of negotiations between Israel and Lebanon.",
+      "url": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-26T23:19:37+00:00",
+      "_summary": "Secretary of State Marco Rubio acknowledged that the agreement marked only “the beginning of the beginning” of negotiations between Israel and Lebanon.",
+      "_zh_headline": "以色列同意小步从黎巴嫩两个地区撤军",
+      "_zh_summary": "国务卿马可·卢比奥承认，该协议仅标志着以色列和黎巴嫩之间谈判的“开始”。",
+      "_added_at": "2026-06-27T01:28:57.448317+00:00"
+    },
+    {
       "headline": "U.S. Forces Attack Iran",
       "summary": "Also, a former Trump adviser pleads guilty. Here’s the latest at the end of Friday.",
       "url": "https://www.nytimes.com/2026/06/26/briefing/us-military-strikes-iran.html",
@@ -575,78 +599,6 @@
       "_summary": "U.S. stock futures were mixed on Friday, mirroring the moves on Thursday, with the Nasdaq 100 and S&P 500 indexes declining, while futures tied to the Dow Jones Industrial Average (DJIA) edged up. On the macroeconomic data front, the Personal Consumption Expenditures (PCE) Index came in hottest since October 2023 , while the first-quarter (Q1) GDP was revised upward to 2.1% from 1.7% in the third estimate released by the Bureau of Economic Analysis.",
       "_zh_headline": "今日股市：随着科技股抛售步伐加快，道琼斯指数小幅上涨，标准普尔 500 指数和纳斯达克期货下跌——苹果、超越空气成为焦点",
       "_zh_summary": "周五美国股指期货涨跌互现，与周四的走势一致，纳斯达克 100 指数和标准普尔 500 指数下跌，而与道琼斯工业平均指数 (DJIA) 相关的期货小幅上涨。宏观经济数据方面，个人消费支出(PCE)指数创2023年10月以来最热，而经济分析局发布的第三次预测将第一季度GDP从1.7%上调至2.1%。",
-      "_added_at": "2026-06-26T10:36:32.162779+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-06-26T09:00:00Z",
-      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
-      "id": 60120031,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "June 26, 2026: Polymarket traders turn cautious on Friday as technology stocks slide despite Micron&#39;s blowout earnings and easing inflation concerns.",
-      "symbols": [
-        "AAPL",
-        "MSFT",
-        "MU",
-        "QCOM"
-      ],
-      "updated_at": "2026-06-26T09:00:00Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60120031/sp500-june-26-open-up-or-down-polymarket-tech-selloff-micron-ai-stocks",
-      "_summary": "The S&P 500 slipped 0.01% to close at 7,357.49. Polymarket’s June 26 contract now implies just a 40% probability that the benchmark index will open higher on Friday. The latest bout of weakness suggests investors are becoming increasingly concerned about the rising costs of artificial intelligence infrastructure rather than demand for AI itself.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "标准普尔 500 指数下跌 0.01%，收于 7,357.49 点。 Polymarket 的 6 月 26 日合约现在意味着基准指数周五开盘走高的可能性仅为 40%。最新一轮的疲软表明，投资者越来越担心人工智能基础设施成本上升，而不是对人工智能本身的需求。",
-      "_added_at": "2026-06-26T10:36:32.162779+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-26T10:12:40Z",
-      "headline": "Micron Stock Takes A Breather After Explosive AI-Fueled Rally",
-      "id": 60120901,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-MU-Logo-On-Smartphone-With-Semico.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-MU-Logo-On-Smartphone-With-Semico.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-MU-Logo-On-Smartphone-With-Semico.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron (MU) stock dips 5% premarket after a massive 15% rally. Investors lock in profits despite a stellar, AI-driven earnings beat.",
-      "symbols": [
-        "AVGO",
-        "CHPX",
-        "MU",
-        "NVDA",
-        "SOXQ",
-        "SPMO"
-      ],
-      "updated_at": "2026-06-26T10:12:40Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60120901/micron-stock-takes-a-breather-after-explosive-ai-fueled-rally",
-      "_summary": "Micron reported adjusted earnings per share of $25.11 on revenue of $41.46 billion, while adjusted gross margin reached 84.9%. The company also forecast fiscal fourth-quarter adjusted EPS of about $31 on revenue of roughly $50 billion. Management said it has signed multi-year strategic customer agreements designed to make revenue and earnings more predictable. Analysts also pointed to sustained pricing strength for AI-focused DRAM and NAND memory as another positive sign for the business.",
-      "_zh_headline": "美光科技股价在人工智能推动的爆炸性上涨后稍作喘息",
-      "_zh_summary": "美光公布调整后每股收益为 25.11 美元，营收为 414.6 亿美元，调整后毛利率达到 84.9%。该公司还预计第四财季调整后每股收益约为 31 美元，营收约为 500 亿美元。管理层表示，该公司已签署多年战略客户协议，旨在提高收入和盈利的可预测性。分析师还指出，专注于人工智能的 DRAM 和 NAND 内存的持续定价优势是该业务的另一个积极信号。",
       "_added_at": "2026-06-26T10:36:32.162779+00:00"
     }
   ]
