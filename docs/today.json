@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "articles": [
     {
       "headline": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
@@ -7,95 +7,35 @@
       "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-26T22:58:06+00:00",
+      "created_at": "2026-06-27T01:36:11+00:00",
       "_summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
       "_zh_headline": "美国打击伊朗，报复霍尔木兹海峡船只遇袭事件",
       "_zh_summary": "特朗普总统周五称伊朗一天前对一艘穿越霍尔木兹海峡的集装箱船的袭击是“愚蠢”的行为。",
-      "_added_at": "2026-06-27T01:28:57.448317+00:00"
+      "_added_at": "2026-06-27T05:33:07.983691+00:00"
     },
     {
-      "headline": "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon",
-      "summary": "Secretary of State Marco Rubio acknowledged that the agreement marked only “the beginning of the beginning” of negotiations between Israel and Lebanon.",
-      "url": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html",
+      "headline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+      "summary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
+      "url": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-26T23:19:37+00:00",
-      "_summary": "Secretary of State Marco Rubio acknowledged that the agreement marked only “the beginning of the beginning” of negotiations between Israel and Lebanon.",
-      "_zh_headline": "以色列同意小步从黎巴嫩两个地区撤军",
-      "_zh_summary": "国务卿马可·卢比奥承认，该协议仅标志着以色列和黎巴嫩之间谈判的“开始”。",
-      "_added_at": "2026-06-27T01:28:57.448317+00:00"
+      "created_at": "2026-06-26T23:45:58+00:00",
+      "_summary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
+      "_zh_headline": "倒影池是如何变绿的：缺少“起泡器”和紧急工作",
+      "_zh_summary": "在特朗普总统终极格斗冠军生日派对的促销活动之前，笨重的“纳米气泡”机器被运走。",
+      "_added_at": "2026-06-27T05:33:07.983691+00:00"
     },
     {
-      "headline": "U.S. Forces Attack Iran",
-      "summary": "Also, a former Trump adviser pleads guilty. Here’s the latest at the end of Friday.",
-      "url": "https://www.nytimes.com/2026/06/26/briefing/us-military-strikes-iran.html",
+      "headline": "What to Know About Problems at the Reflecting Pool and Trump’s Claims of Vandalism",
+      "summary": "The administration has provided little evidence to back up some of his assertions about the Lincoln Memorial pool. Experts say other factors could have caused the major problems that have plagued it.",
+      "url": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-26T22:10:16+00:00",
-      "_summary": "Also, a former Trump adviser pleads guilty. Here’s the latest at the end of Friday.",
-      "_zh_headline": "美军袭击伊朗",
-      "_zh_summary": "此外，特朗普的一名前顾问也认罪。这是周五结束时的最新消息。",
-      "_added_at": "2026-06-26T22:46:46.179288+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-26T20:00:42Z",
-      "headline": "Microsoft Has Worst Month Since 2000, Micron Delivers Memorable Beat: This Week On Wall Street",
-      "id": 60140539,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Microsoft heads for its worst June since 2000 as AI capex fears bite, while Micron delivers record revenue and EPS — the AI capex squeeze rewriting the trade.",
-      "symbols": [
-        "AAPL",
-        "MAGS",
-        "MSFT",
-        "MU",
-        "ORCL"
-      ],
-      "updated_at": "2026-06-26T20:00:42Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60140539/microsoft-micron-ai-capex-squeeze-week-wall-street",
-      "_summary": "WTI crude has now fully wiped out its war premium. Oil is also down more than 20% on the month, on pace for its worst monthly performance since March 2020. Saudi Arabia resumed loading tankers at Ras Tanura, and Persian Gulf exports recovered to roughly 75% of prewar levels, according to Goldman Sachs estimates. On Friday, President Donald Trump said Iran had fired four “one-way attack drones” at ships transiting the Strait of Hormuz, calling it “a foolish violation of our ceasefire agreement.” Markets shrugged.",
-      "_zh_headline": "微软遭遇 2000 年以来最糟糕的一个月，美光科技表现令人难忘：本周华尔街",
-      "_zh_summary": "WTI 原油现已完全消除其战争溢价。本月石油价格也下跌超过 20%，创 2020 年 3 月以来最差月度表现。据高盛估计，沙特阿拉伯恢复在 Ras Tanura 油轮装载，波斯湾出口恢复至战前水平的约 75%。周五，唐纳德·特朗普总统表示，伊朗向经过霍尔木兹海峡的船只发射了四架“单向攻击无人机”，称其“愚蠢地违反了我们的停火协议”。市场耸耸肩。",
-      "_added_at": "2026-06-26T21:07:16.711999+00:00"
-    },
-    {
-      "headline": "Oil Prices Return to Prewar Levels After Four Months",
-      "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
-      "url": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-26T18:40:58+00:00",
-      "_summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
-      "_zh_headline": "四个月后油价恢复至战前水平",
-      "_zh_summary": "原油成本已成为伊朗战争对全球经济造成影响的实时晴雨表。",
-      "_added_at": "2026-06-26T19:19:52.686899+00:00"
-    },
-    {
-      "headline": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-      "summary": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
-      "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-26T11:08:14-04:00",
-      "_summary": "Rescue workers put out a fire at a building destroyed after a Russian strike on Zaporizhzhia, Ukraine, on Friday. Kateryna Klochko/AP hide caption Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, Moscow's Defense Ministry said Friday, in what appeared to be one of Kyiv's biggest drone assaults since the Kremlin's full-scale invasion more than four years ago. Russian air defenses intercepted 660 Ukrainian drones, Russia's Defense Ministry said. The previous biggest Ukrainian attack over the past year, as Ukraine has accelerated its drone development, involved 556 drones on May 17. In an effort to turn the tables on Russia's grinding war of attrition, Ukrainian long-range drones have been battering oil production and energy facilities behind the front line and deep inside Russia.",
-      "_zh_headline": "随着俄罗斯袭击乌克兰，乌克兰发动了最猛烈的无人机轰炸之一",
-      "_zh_summary": "周五，救援人员正在扑灭俄罗斯袭击乌克兰扎波罗热州后被毁的建筑物的大火。莫斯科国防部周五表示，乌克兰对俄罗斯十几个地区、俄罗斯控制的克里米亚及其周边海域发动了大规模夜间袭击，这似乎是自四年多前克里姆林宫全面入侵基辅以来最大规模的无人机袭击之一。俄罗斯国防部称，俄罗斯防空系统拦截了 660 架乌克兰无人机。 5月17日，随着乌克兰加速无人机研发，乌克兰发动了去年最大规模的袭击，共有556架无人机参与。为了扭转俄罗斯残酷的消耗战局面，乌克兰远程无人机一直在攻击前线后方和俄罗斯腹地的石油生产和能源设施。",
-      "_added_at": "2026-06-26T19:19:52.686899+00:00"
+      "created_at": "2026-06-27T01:09:23+00:00",
+      "_summary": "The administration has provided little evidence to back up some of his assertions about the Lincoln Memorial pool. Experts say other factors could have caused the major problems that have plagued it.",
+      "_zh_headline": "关于倒影池的问题和特朗普的故意破坏行为，您需要了解什么",
+      "_zh_summary": "政府几乎没有提供任何证据来支持他关于林肯纪念堂水池的一些主张。专家表示，其他因素也可能导致了困扰它的重大问题。",
+      "_added_at": "2026-06-27T05:33:07.983691+00:00"
     },
     {
       "author": "The Arora Report",
@@ -139,44 +79,43 @@
       "_summary": "Apple Inc (NASDAQ: AAPL ) is announcing significant price hikes due to higher memory prices.  It will be interesting to see if consumers easily absorb the price increases or if it results in reduced demand. Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis.",
       "_zh_headline": "股市的特征可能已经开始改变",
       "_zh_summary": "由于内存价格上涨，苹果公司（纳斯达克股票代码：AAPL）宣布大幅提价。  消费者是否能轻易接受价格上涨，或者是否会导致需求减少，这将是一件很有趣的事情。大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。",
-      "_added_at": "2026-06-26T19:19:52.686899+00:00"
+      "_added_at": "2026-06-27T05:33:07.983691+00:00"
     },
     {
-      "author": "Chandrima Sanyal",
+      "author": "Piero Cingari",
       "content": "",
-      "created_at": "2026-06-26T16:37:31Z",
-      "headline": "Micron Rally Sparks Triple-Digit Fortunes, These ETFs Near 800% Gains In H1 2026",
-      "id": 60133672,
+      "created_at": "2026-06-26T20:00:42Z",
+      "headline": "Microsoft Has Worst Month Since 2000, Micron Delivers Memorable Beat: This Week On Wall Street",
+      "id": 60140539,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Micron&#39;s rally has sent leveraged ETFs MUU and MULL soaring nearly 1,000% so far in 2026, making them the year&#39;s top-performing funds.",
+      "summary": "Microsoft heads for its worst June since 2000 as AI capex fears bite, while Micron delivers record revenue and EPS — the AI capex squeeze rewriting the trade.",
       "symbols": [
+        "AAPL",
+        "MAGS",
+        "MSFT",
         "MU",
-        "MULL",
-        "MUU",
-        "SMH",
-        "SOXX",
-        "XSD"
+        "ORCL"
       ],
-      "updated_at": "2026-06-26T16:37:31Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60133672/micron-rally-sparks-triple-digit-fortunes-these-etfs-near-800-gains-in-h1-2026",
-      "_summary": "The AI-driven rally in Micron Technology Inc (NASDAQ: MU ) is producing unprecedented winners in the ETF market . The two funds have benefited from surging investor enthusiasm for AI infrastructure plays, with Micron cementing its position as one of the biggest beneficiaries of the artificial intelligence boom through its leadership in high-bandwidth memory (HBM), a key component used in AI accelerators. Micron has become one of Wall Street’s hottest AI trades.",
-      "_zh_headline": "美光涨势引发三位数财富，这些 ETF 2026 年上半年涨幅接近 800%",
-      "_zh_summary": "美光科技公司（纳斯达克股票代码：MU）人工智能驱动的反弹正在 ETF 市场产生前所未有的赢家。这两只基金受益于投资者对人工智能基础设施投资热情高涨，美光科技通过其在高带宽内存（HBM）（人工智能加速器中使用的关键组件）领域的领先地位，巩固了其作为人工智能热潮最大受益者之一的地位。美光科技已成为华尔街最热门的人工智能交易之一。",
-      "_added_at": "2026-06-26T19:19:52.686899+00:00"
+      "updated_at": "2026-06-26T20:00:42Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60140539/microsoft-micron-ai-capex-squeeze-week-wall-street",
+      "_summary": "WTI crude has now fully wiped out its war premium. Oil is also down more than 20% on the month, on pace for its worst monthly performance since March 2020. Saudi Arabia resumed loading tankers at Ras Tanura, and Persian Gulf exports recovered to roughly 75% of prewar levels, according to Goldman Sachs estimates. On Friday, President Donald Trump said Iran had fired four “one-way attack drones” at ships transiting the Strait of Hormuz, calling it “a foolish violation of our ceasefire agreement.” Markets shrugged.",
+      "_zh_headline": "微软遭遇 2000 年以来最糟糕的一个月，美光科技表现令人难忘：本周华尔街",
+      "_zh_summary": "WTI 原油现已完全消除其战争溢价。本月石油价格也下跌超过 20%，创 2020 年 3 月以来最差月度表现。据高盛估计，沙特阿拉伯恢复在 Ras Tanura 油轮装载，波斯湾出口恢复至战前水平的约 75%。周五，唐纳德·特朗普总统表示，伊朗向经过霍尔木兹海峡的船只发射了四架“单向攻击无人机”，称其“愚蠢地违反了我们的停火协议”。市场耸耸肩。",
+      "_added_at": "2026-06-27T05:33:07.983691+00:00"
     },
     {
       "author": "Chandrima Sanyal",
@@ -226,380 +165,7 @@
       "_summary": "The artificial intelligence trade may be entering its next phase—and ETF investors are taking notice. IGV’s gains were fueled by a broad rally across enterprise software names. The strong performance comes after software stocks spent much of the AI boom trailing semiconductor companies. Investors had largely favored chipmakers, betting they would be the primary beneficiaries of surging demand for AI infrastructure, while concerns persisted that generative AI could disrupt parts of the software industry.",
       "_zh_headline": "软件 ETF 终于迎来了人工智能的顺风车",
       "_zh_summary": "人工智能行业可能正在进入下一阶段——ETF 投资者正在注意到这一点。 IGV 的上涨得益于企业软件品牌的广泛上涨。在人工智能繁荣时期，软件股的大部分表现落后于半导体公司，之后软件股表现强劲。投资者在很大程度上青睐芯片制造商，认为他们将成为人工智能基础设施需求激增的主要受益者，但人们仍然担心生成式人工智能可能会扰乱部分软件行业。",
-      "_added_at": "2026-06-26T19:19:52.686899+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-26T16:22:08Z",
-      "headline": "Chip Rout Drags Nasdaq 100, Oil Sinks Below $69: Stock Market Today",
-      "id": 60133015,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Walmart-Misses-Nasdaq-100--LULU-Slumps.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Walmart-Misses-Nasdaq-100--LULU-Slumps.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Walmart-Misses-Nasdaq-100--LULU-Slumps.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Semiconductors cratered Friday, dragging the stock market lower, while health care and software led a rotation and oil sank below $69",
-      "symbols": [
-        "ASTS",
-        "DIA",
-        "ENTG",
-        "FDS",
-        "GDX",
-        "GLW",
-        "IBB",
-        "IGV",
-        "IWM",
-        "LITE",
-        "MAN",
-        "MORN",
-        "MRNA",
-        "MU",
-        "ON",
-        "QQQ",
-        "SMH",
-        "SYNA",
-        "VOO",
-        "WDC"
-      ],
-      "updated_at": "2026-06-26T16:22:08Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60133015/semiconductor-chipmaker-stocks-fall-nasdaq-100-oil-crude-sinks-69-markets-friday",
-      "_summary": "A fresh burst of selling in chipmakers and artificial-intelligence names dragged U.S. equities into mixed territory Friday, sending the tech-heavy Nasdaq 100 lower while a value-oriented Dow Jones clung to gains near record highs. Investors continued to question whether the industry’s massive AI spending can justify its lofty valuations. West Texas Intermediate crude tumbled 4.7% to around $68.55 a barrel, leaving the U.S. benchmark down nearly 23% for the month.",
-      "_zh_headline": "芯片溃败拖累纳斯达克 100 指数，油价跌破 69 美元：今日股市",
-      "_zh_summary": "周五，芯片制造商和人工智能公司的新一轮抛售拖累美国股市涨跌互现，以科技股为主的纳斯达克 100 指数走低，而以价值为导向的道琼斯指数则坚守在历史高点附近。投资者继续质疑该行业大规模的人工智能支出能否证明其高估值是合理的。西德克萨斯中质原油下跌 4.7%，至每桶 68.55 美元左右，使美国基准原油本月下跌近 23%。",
-      "_added_at": "2026-06-26T16:32:23.264811+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-26T14:42:15Z",
-      "headline": "The Memory Oligopoly: How Micron And 6 Other Names Now Set The Price For The AI Race",
-      "id": 60128618,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron&#39;s blowout earnings cap a year in which seven memory makers — the de-facto oligopoly behind DRAM and HBM — took control of what the AI race pays.",
-      "symbols": [
-        "AAPL",
-        "MU",
-        "NVDA",
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-06-26T14:42:16Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60128618/memory-cartel-micron-ai-prices",
-      "_summary": "In June 2025, memory was still seen as a classic boom-and-bust business — one where high prices eventually cure high prices as suppliers add capacity or demand cools. The price of 64 gigabytes of DDR5 memory — used in high-end PCs and AI servers — has risen roughly fivefold in 12 months. And one company has built an empire on it. Micron Technology Inc. (NASDAQ: MU ) just posted quarterly revenue up 346% year-over-year to $41.5 billion, with data-center revenue near $25 billion — close to $100 billion annualized.",
-      "_zh_headline": "内存寡头垄断：美光科技和其他 6 家公司现在如何为人工智能竞赛定价",
-      "_zh_summary": "2025 年 6 月，存储器仍被视为典型的繁荣与萧条行业——随着供应商增加产能或需求降温，高价格最终会治愈高价格。用于高端 PC 和人工智能服务器的 64 GB DDR5 内存的价格在 12 个月内上涨了大约五倍。一家公司在此基础上建立了一个帝国。美光科技公司（纳斯达克股票代码：MU）刚刚发布季度收入同比增长 346% 至 415 亿美元，其中数据中心收入接近 250 亿美元，年化收入接近 1000 亿美元。",
-      "_added_at": "2026-06-26T16:32:23.264811+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-06-26T14:31:49Z",
-      "headline": "One Chart Shows Nvidia's AI Monopoly Is Slowly Fading",
-      "id": 60128112,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Bahia--Brazil---August-29--2025-Nvidia-L.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Bahia--Brazil---August-29--2025-Nvidia-L.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Bahia--Brazil---August-29--2025-Nvidia-L.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nvidia&#39;s performance relative to the SOXX semiconductor ETF is declining as investors broaden AI bets to Micron and Broadcom.",
-      "symbols": [
-        "AVGO",
-        "MU",
-        "NVDA",
-        "SOXX"
-      ],
-      "updated_at": "2026-06-26T14:31:49Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60128112/one-chart-shows-nvidias-ai-monopoly-is-slowly-fading",
-      "_summary": "The ratio has now returned to levels last seen in early 2024, erasing almost two years of Nvidia’s relative outperformance versus the broader semiconductor sector. The move doesn’t necessarily mean Nvidia is struggling. Instead, it suggests the rest of the semiconductor industry is increasingly sharing in the AI boom. A falling NVDA/SOXX ratio means Nvidia is underperforming the broader semiconductor index on a relative basis.",
-      "_zh_headline": "一张图表显示 Nvidia 的 AI 垄断正在慢慢消失",
-      "_zh_summary": "该比率现已恢复至 2024 年初的水平，抹去了英伟达近两年来相对于更广泛的半导体行业的相对领先表现。此举并不一定意味着英伟达正在苦苦挣扎。相反，它表明半导体行业的其他部分正在越来越多地分享人工智能的繁荣。 NVDA/SOXX 比率下降意味着 Nvidia 的表现相对而言落后于更广泛的半导体指数。",
-      "_added_at": "2026-06-26T16:32:23.264811+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-06-26T14:38:06Z",
-      "headline": "'There's An Execution Crisis In Ethereum': Is ETH Losing To Hotter Tech Trades Like MU And NVDA?",
-      "id": 60128408,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Eth-Coin-With-Blurred-Candlestick-Chart-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Eth-Coin-With-Blurred-Candlestick-Chart-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Eth-Coin-With-Blurred-Candlestick-Chart-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bankless co-founder Ryan Adams says Ethereum has an execution crisis, not a funding crisis, as the Foundation cuts its 2026 budget 40%.",
-      "symbols": [
-        "BMNR",
-        "ETHUSD",
-        "MU",
-        "NVDA",
-        "SBET"
-      ],
-      "updated_at": "2026-06-26T14:38:06Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60128408/theres-an-execution-crisis-in-ethereum-is-eth-losing-to-hotter-tech-trades-like-mu-and-nvda",
-      "_summary": "Bankless co-founder Ryan Sean Adams said this week that Ethereum’s challenge is not money but delivery, as the Ethereum Foundation moves through the most significant restructuring in its history. “There’s actually an execution crisis in Ethereum,” Adams said on the weekly Bankless rollup , pushing back on the framing that the protocol faces a funding gap. He compared the situation to “a shipping crisis,” asking, “What’s the point of funding incompetent shipping?”",
-      "_zh_headline": "“以太坊存在执行危机”：ETH 是否会输给 MU 和 NVDA 等更热门的科技交易？",
-      "_zh_summary": "Bankless 联合创始人瑞安·肖恩·亚当斯 (Ryan Sean Adams) 本周表示，以太坊面临的挑战不是资金，而是交付，因为以太坊基金会正在经历其历史上最重大的重组。 Adams 在每周的 Bankless 汇总中表示，“以太坊实际上存在执行危机”，反驳了该协议面临资金缺口的框架。他将这种情况比作“航运危机”，并问道：“为无能的航运提供资金有什么意义？”",
-      "_added_at": "2026-06-26T16:32:23.264811+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-26T14:16:55Z",
-      "headline": "What Is Going On With Broadcom Stock On Friday?",
-      "id": 60127352,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Sunnyvale--Causa---March-1--2014-Broadco.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Sunnyvale--Causa---March-1--2014-Broadco.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Sunnyvale--Causa---March-1--2014-Broadco.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Broadcom (NASDAQ: AVGO) stock dipped nearly 4% in premarket trading as semiconductor investors locked in gains following a historic, sector-wide AI chip rally.",
-      "symbols": [
-        "AVGO",
-        "CIBR",
-        "IGM",
-        "MU",
-        "TDIV"
-      ],
-      "updated_at": "2026-06-26T14:16:55Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60127352/what-is-going-on-with-broadcom-stock-on-friday",
-      "_summary": "Micron also forecast fiscal fourth-quarter adjusted EPS of about $31, with roughly $50 billion in revenue, and highlighted multi-year customer agreements designed to make revenue and earnings more predictable. Meanwhile, S&P 500 futures were down 0.8% in premarket trading, adding to the cautious tone and weighing on mega-cap tech and semiconductor stocks. Looking further out, the next major catalyst for the stock arrives with the September 3, 2026 (estimated) earnings report.",
-      "_zh_headline": "周五博通股票发生了什么？",
-      "_zh_summary": "美光还预测第四财季调整后每股收益约为 31 美元，收入约为 500 亿美元，并强调了旨在使收入和收益更加可预测的多年客户协议。与此同时，标普 500 指数期货在盘前交易中下跌 0.8%，加剧了谨慎基调，并对大型科技股和半导体股构成压力。展望未来，该股的下一个主要催化剂将是 2026 年 9 月 3 日（预计）的收益报告。",
-      "_added_at": "2026-06-26T16:32:23.264811+00:00"
-    },
-    {
-      "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-06-26T12:54:18+00:00",
-      "_summary": "The sanctions target Rwanda's Gasabo Gold Refinery The US has sanctioned a major gold refinery in Rwanda and two of its executives, accusing them of smuggling minerals from rebel-controlled areas of neighbouring Democratic Republic of Congo. Washington alleged what it described as a \"network\" was collaborating with the M23 rebel group, which commands tracts of DR Congo that are home to vast reserves of gold and coltan, a metallic ore key to making electronics. Despite overwhelming evidence from the likes of UN experts, Rwanda has long denied supporting the M23. The government there has not responded to the US' recent sanctions, but have previously described similar measures against Rwanda as unfair and one-sided. The sanctions, announced on Thursday, target the Gasabo Gold Refinery, its chairman Jean Malic Kalima and its general manager Bosco Kayobotsi.",
-      "_zh_headline": "美国制裁被指控走私刚果民主共和国矿物的卢旺达黄金精炼厂",
-      "_zh_summary": "制裁针对卢旺达的加萨博黄金精炼厂 美国制裁了卢旺达一家大型黄金精炼厂及其两名高管，指控他们从邻国刚果民主共和国叛军控制地区走私矿物。华盛顿声称其所谓的“网络”正在与M23叛乱组织合作，该组织控制着刚果民主共和国的大片地区，这些地区蕴藏着大量黄金和钶钽铁矿石，而钶钽铁矿是制造电子产品的关键金属矿石。尽管联合国专家等提供了压倒性的证据，但卢旺达长期以来一直否认支持“3·23”运动。卢旺达政府尚未对美国最近的制裁做出回应，但此前曾表示针对卢旺达的类似措施是不公平和片面的。周四宣布的制裁针对的是 Gasabo Gold Refinery、其董事长 Jean Malic Kalima 和总经理 Bosco Kayobotsi。",
-      "_added_at": "2026-06-26T13:31:39.102129+00:00"
-    },
-    {
-      "headline": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-      "summary": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
-      "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-26T12:56:49+00:00",
-      "_summary": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
-      "_zh_headline": "乌克兰袭击事件促使克里米亚宣布进入紧急状态",
-      "_zh_summary": "乌克兰连续数周的猛烈袭击给克里米亚的日常生活带来了自2014年俄罗斯非法吞并克里米亚半岛以来从未有过的混乱。",
-      "_added_at": "2026-06-26T13:31:39.102129+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-26T13:27:27Z",
-      "headline": "Magnificent Seven’s Black June Triggers $1 Billion Exodus From MAGS ETF",
-      "id": 60124389,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Magnificent-Seven-stocks.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Magnificent-Seven-stocks.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Magnificent-Seven-stocks.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The Roundhill Magnificent Seven ETF (MAGS) is heading for its worst month since inception as all seven mega-caps fall and over $1 billion exits the fund.",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "GOOGL",
-        "MAGS",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "TSLA"
-      ],
-      "updated_at": "2026-06-26T13:27:27Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60124389/magnificent-seven-selloff-june-mags-etf-outflows",
-      "_summary": "The trade that powered Wall Street for three years is having its worst month on record. MAGS has fallen more than 13% in June and has bled over $1 billion in net outflows month-to-date, according to fund-flow data from Tradingview. The slide dragged the fund into correction territory, down more than 14% from its May 14 record close of $70.94. Is the market’s elite group merely showing cracks, or has it already crumbled?",
-      "_zh_headline": "《华丽七人组》的黑色六月引发 MAGS ETF 资金流失 10 亿美元",
-      "_zh_summary": "三年来为华尔街提供动力的交易正在经历有记录以来最糟糕的一个月。根据 Tradingview 的资金流数据，MAGS 6 月份下跌超过 13%，本月迄今净流出已超过 10 亿美元。此次下跌将该基金拖入调整区间，较 5 月 14 日创下的收盘价 70.94 美元下跌逾 14%。市场的精英群体只是出现了裂痕，还是已经崩溃了？",
-      "_added_at": "2026-06-26T13:31:39.102129+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-06-26T12:49:09Z",
-      "headline": "Dan Ives Says Microsoft And Meta Are Being Treated Like 'Bear Market' Stocks",
-      "id": 60123475,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Stock-Market-Candlestick-Cha.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Stock-Market-Candlestick-Cha.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Stock-Market-Candlestick-Cha.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Dan Ives says investors are favoring Micron over Microsoft and Meta as hyperscalers navigate an AI monetization &#34;air pocket&#34; despite spending $700 billion on AI infrastructure.",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "MU"
-      ],
-      "updated_at": "2026-06-26T12:49:09Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/60123475/dan-ives-says-microsoft-and-meta-are-being-treated-like-bear-market-stocks",
-      "_summary": "Ives described the current market as a “Twilight Zone,” arguing that investors have become increasingly impatient with hyperscalers waiting for their massive AI investments to translate into meaningful revenue growth. According to Ives, the market is currently in an “air pocket stage” where Big Tech’s unprecedented spending has yet to produce the financial payoff investors are looking for.",
-      "_zh_headline": "丹·艾夫斯表示，微软和 Meta 正被视为“熊市”股票",
-      "_zh_summary": "艾夫斯将当前市场描述为“暮光区”，他认为投资者对等待大规模人工智能投资转化为有意义的收入增长的超大规模企业越来越不耐烦。艾夫斯表示，市场目前正处于“空气袋阶段”，大型科技公司前所未有的支出尚未产生投资者所寻求的财务回报。",
-      "_added_at": "2026-06-26T13:31:39.102129+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-06-26T12:24:02Z",
-      "headline": "Why Is Sandisk Stock Falling Friday?",
-      "id": 60122988,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/SanDisk-Bangkok--Thailand---February-05-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/SanDisk-Bangkok--Thailand---February-05-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/SanDisk-Bangkok--Thailand---February-05-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SanDisk stock (SNDK) drops 5% premarket as traders lock in profits following Thursday&#39;s massive AI-driven memory chip rally.",
-      "symbols": [
-        "DRAM",
-        "FPX",
-        "MU",
-        "RPG",
-        "SNDK"
-      ],
-      "updated_at": "2026-06-26T12:24:02Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60122988/why-is-sandisk-stock-falling-friday",
-      "_summary": "The broader market also weighed on sentiment, with Nasdaq futures down 1.04% and S&P 500 futures off 0.44%. With no new company-specific news from SanDisk on Friday, traders appeared to lock in gains as risk appetite cooled across high-beta technology stocks. The weaker futures market also encouraged investors to trim positions after the stock’s sharp advance over the past year. Friday’s decline has not changed SanDisk’s longer-term uptrend.",
-      "_zh_headline": "为什么Sandisk 股票周五下跌？",
-      "_zh_summary": "大盘也打压市场情绪，纳斯达克期货下跌 1.04%，标准普尔 500 指数期货下跌 0.44%。由于周五闪迪没有发布具体公司的新消息，随着高贝塔科技股的风险偏好降温，交易员似乎锁定了涨幅。在该股过去一年大幅上涨后，期货市场疲软也鼓励投资者削减头寸。周五的下跌并没有改变闪迪的长期上升趋势。",
-      "_added_at": "2026-06-26T13:31:39.102129+00:00"
-    },
-    {
-      "author": "Benzinga Neuro",
-      "content": "",
-      "created_at": "2026-06-26T09:28:10Z",
-      "headline": "Stock Market Today: Dow Jones Inches Up, S&P 500 And Nasdaq Futures Slip As Tech Selloff Gathers Pace— Apple, Beyond Air In Focus",
-      "id": 60120170,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures mixed on Friday, Nasdaq 100 &amp; S&amp;P 500 down, Dow Jones up. Macro data shows strong PCE Index &amp; revised Q1 GDP.",
-      "symbols": [
-        "AAPL",
-        "APOG",
-        "BTCUSD",
-        "CNVS",
-        "MU",
-        "ON",
-        "QQQ",
-        "SPY",
-        "SYNA",
-        "XAIR"
-      ],
-      "updated_at": "2026-06-26T09:32:06Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60120170/stock-market-today-dow-jones-inches-up-sp-500-and-nasdaq-futures-slip-as-tech-selloff-gathers-pace-apple-beyond-air-in-focus",
-      "_summary": "U.S. stock futures were mixed on Friday, mirroring the moves on Thursday, with the Nasdaq 100 and S&P 500 indexes declining, while futures tied to the Dow Jones Industrial Average (DJIA) edged up. On the macroeconomic data front, the Personal Consumption Expenditures (PCE) Index came in hottest since October 2023 , while the first-quarter (Q1) GDP was revised upward to 2.1% from 1.7% in the third estimate released by the Bureau of Economic Analysis.",
-      "_zh_headline": "今日股市：随着科技股抛售步伐加快，道琼斯指数小幅上涨，标准普尔 500 指数和纳斯达克期货下跌——苹果、超越空气成为焦点",
-      "_zh_summary": "周五美国股指期货涨跌互现，与周四的走势一致，纳斯达克 100 指数和标准普尔 500 指数下跌，而与道琼斯工业平均指数 (DJIA) 相关的期货小幅上涨。宏观经济数据方面，个人消费支出(PCE)指数创2023年10月以来最热，而经济分析局发布的第三次预测将第一季度GDP从1.7%上调至2.1%。",
-      "_added_at": "2026-06-26T10:36:32.162779+00:00"
+      "_added_at": "2026-06-27T05:33:07.983691+00:00"
     }
   ]
 }
