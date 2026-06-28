@@ -1,51 +1,41 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "articles": [
     {
-      "headline": "Trump Picks Lance Schroyer as New ICE Director",
-      "summary": "The president said he was nominating Lance Schroyer, an adviser to Markwayne Mullin, the D.H.S. secretary, to lead the high-profile agency.",
-      "url": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html",
+      "headline": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
+      "summary": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-06-27T23:31:00+00:00",
-      "_summary": "President Trump said on Saturday he was nominating Lance Schroyer, a former Oklahoma state trooper, to lead Immigration and Customs Enforcement. In a post on Truth Social, Mr. Trump told the Senate to move quickly to confirm Mr. Schroyer, who would be the first Senate-confirmed leader of the high-profile agency since 2017. “Lance has firsthand experience getting Illegal Aliens OFF our streets and, just like ME and our Secretary of Homeland Security Markwayne Mullin, he LOVES the men and women of ICE,” Mr. Trump wrote. ICE has been at the center of the Trump administration’s push to ramp up deportations across the country. Those efforts have brought heavy scrutiny to the agency, particularly after immigration agents killed two Americans in Minneapolis earlier this year. Mr. Schroyer appears to have limited experience managing national policies, and had never worked at ICE before Mr. Mullin took over as homeland security secretary in March . He is currently a senior adviser to Mr.",
-      "_zh_headline": "特朗普任命兰斯·施罗耶为新任 ICE 局长",
-      "_zh_summary": "特朗普总统周六表示，他将提名前俄克拉荷马州警官兰斯·施罗耶领导移民和海关执法局。在《Truth Social》上的一篇帖子中，特朗普要求参议院迅速采取行动，确认施罗耶的任命，施罗耶将成为自 2017 年以来首位获得参议院确认的这一备受瞩目机构的领导人。特朗普写道：“兰斯拥有将非法外国人赶出街头的第一手经验，就像我和我们的国土安全部部长马克韦恩·穆林一样，他热爱 ICE 的工作人员。” ICE 一直是特朗普政府推动全国范围内驱逐出境的核心。这些努力给该机构带来了严格审查，特别是在今年早些时候移民局在明尼阿波利斯杀害了两名美国人之后。施罗耶先生管理国家政策的经验似乎有限，并且在穆林先生三月份接任国土安全部部长之前从未在 ICE 工作过。现任先生的高级顾问。",
-      "_added_at": "2026-06-28T01:34:40.530839+00:00"
+      "created_at": "2026-06-28T02:30:02+00:00",
+      "_summary": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
+      "_zh_headline": "据称美国官员对马查多的求助感到沮丧",
+      "_zh_summary": "委内瑞拉反对派流亡领导人玛丽亚·科里纳·马查多希望回家。美国官员表示，她的愿望来得不合时宜。",
+      "_added_at": "2026-06-28T06:44:18.478930+00:00"
     },
     {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-27T21:24:38Z",
-      "headline": "Nike Stock Gets A Rude Awakening As Technicals Point To More Weakness Ahead Of Earnings",
-      "id": 60146220,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Moffat-Describes-Relaxed-Alertness.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Moffat-Describes-Relaxed-Alertness.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Moffat-Describes-Relaxed-Alertness.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nike stock price has gotten a rude awakening as its turnaround takes long to take shape and analysts remain bearish ahead of earnings",
-      "symbols": [
-        "MU",
-        "NKE",
-        "NVDA"
-      ],
-      "updated_at": "2026-06-27T21:24:38Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60146220/nike-stock-gets-a-rude-awakening-as-technicals-point-to-more-weakness-ahead-of-earnings",
-      "_summary": "In a recent note, Stifel Nicolaus lowered the Nike stock target from $56 to $50, while Deutsche Bank’s Krisztina Katai slashed from $51 to $43. Oppenheimer’s Brian Nagel and BTIG’s Robert Drbul cut their targets to $60 and $55, respectively. The general view among analysts is that Nike’s business is facing major challenges and that its turnaround strategy is taking time to generate returns. Analysts expect the upcoming results to show that its revenue dropped by 2.19% in the quarter to $10.85 billion.",
-      "_zh_headline": "耐克股票猛然觉醒，因为技术面显示盈利前将出现更多疲软",
-      "_zh_summary": "在最近的一份报告中，Stifel Nicolaus 将耐克的股价目标从 56 美元下调至 50 美元，而德意志银行的 Krisztina Katai 将目标股价从 51 美元下调至 43 美元。 Oppenheimer 的 Brian Nagel 和 BTIG 的 Robert Drbul 分别将目标下调至 60 美元和 55 美元。分析师普遍认为，耐克的业务正面临重大挑战，其扭亏为盈战略需要时间才能产生回报。分析师预计即将公布的业绩显示，该季度营收将下降 2.19%，至 108.5 亿美元。",
-      "_added_at": "2026-06-27T22:37:52.690627+00:00"
+      "headline": "Julia Letlow, Lifted by Trump, Wins Republican Senate Runoff in Louisiana",
+      "summary": "If she reaches the Senate, Ms. Letlow would replace Senator Bill Cassidy and become the first G.O.P. woman to represent Louisiana in the chamber.",
+      "url": "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-28T02:54:30+00:00",
+      "_summary": "If she reaches the Senate, Ms. Letlow would replace Senator Bill Cassidy and become the first G.O.P. woman to represent Louisiana in the chamber.",
+      "_zh_headline": "朱莉娅·莱特洛 (Julia Letlow) 在特朗普的提拔下赢得路易斯安那州共和党参议院决选",
+      "_zh_summary": "如果莱特洛女士进入参议院，她将取代参议员比尔·卡西迪，成为第一位共和党议员。妇女在会议厅代表路易斯安那州。",
+      "_added_at": "2026-06-28T06:44:18.478930+00:00"
+    },
+    {
+      "headline": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-06-28T04:54:50+00:00",
+      "_summary": "The US has conducted new strikes on Iran, following a drone attack on a Panama-flagged vessel in the Strait of Hormuz on Saturday. US Central Command (Centcom) said it hit multiple targets across Iran in direct response to \"continued aggression\" against commercial shipping. In retaliation, Iran's Islamic Revolutionary Guard Corps (IRGC) said it has launched missiles and drones at US infrastructure in Kuwait and Bahrain, in a statement shared to state media. Following the exchange of fire, the US and Iran accused each other of violating the ceasefire agreement. Centcom said in a statement, \"Iran was given a chance to honor the ceasefire agreement but elected not to when its forces launched a one-way attack drone that hit MT Kiku,\" a Panama-flagged tanker. In response, it said, US fighter jets conducted strikes on 10 Iranian military targets at multiple locations in and near the Strait of Hormuz.",
+      "_zh_headline": "美国和伊朗交锋并指责对方违反停火协议",
+      "_zh_summary": "周六，一艘悬挂巴拿马国旗的船只在霍尔木兹海峡遭到无人机袭击后，美国对伊朗进行了新的打击。美国中央司令部（Centcom）表示，它袭击了伊朗各地的多个目标，以直接回应针对商业航运的“持续侵略”。作为报复，伊朗伊斯兰革命卫队（IRGC）在向官方媒体分享的一份声明中表示，它已向科威特和巴林的美国基础设施发射了导弹和无人机。交火后，美国和伊朗互相指责对方违反停火协议。中央司令部在一份声明中表示，“伊朗本来有机会遵守停火协议，但当伊朗军队发射一架单向攻击无人机击中一艘悬挂巴拿马国旗的油轮 MT Kiku 时，伊朗选择不这样做。”作为回应，美国战斗机对霍尔木兹海峡及其附近多个地点的 10 个伊朗军事目标进行了袭击。",
+      "_added_at": "2026-06-28T06:44:18.478930+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -86,7 +76,41 @@
       "_summary": "Data compiled by ETFDB shows that investors have continued dumping the MAGS ETF. Outflows have jumped to over $607 million in the last six months, with its assets under management dropping to $3.6 billion. The ongoing performance is primarily because most Magnificent 7 companies have retreated in the past few months. Alphabet (NASDAQ: GOOG ) stock dropped by 17.5% from its highest point this year.",
       "_zh_headline": "MAGS ETF：随着投资者转向 DRAM，7 月份资金流出激增",
       "_zh_summary": "ETFDB 编制的数据显示，投资者继续抛售 MAGS ETF。过去六个月，资金外流跃升至超过 6.07 亿美元，其管理的资产降至 36 亿美元。持续的表现主要是因为大多数 Magnificent 7 公司在过去几个月中都出现了下滑。 Alphabet（纳斯达克股票代码：GOOG）股价较今年最高点下跌了 17.5%。",
-      "_added_at": "2026-06-27T18:45:59.313199+00:00"
+      "_added_at": "2026-06-28T06:44:18.478930+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-27T21:24:38Z",
+      "headline": "Nike Stock Gets A Rude Awakening As Technicals Point To More Weakness Ahead Of Earnings",
+      "id": 60146220,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Moffat-Describes-Relaxed-Alertness.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Moffat-Describes-Relaxed-Alertness.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Moffat-Describes-Relaxed-Alertness.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Nike stock price has gotten a rude awakening as its turnaround takes long to take shape and analysts remain bearish ahead of earnings",
+      "symbols": [
+        "MU",
+        "NKE",
+        "NVDA"
+      ],
+      "updated_at": "2026-06-27T21:24:38Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60146220/nike-stock-gets-a-rude-awakening-as-technicals-point-to-more-weakness-ahead-of-earnings",
+      "_summary": "In a recent note, Stifel Nicolaus lowered the Nike stock target from $56 to $50, while Deutsche Bank’s Krisztina Katai slashed from $51 to $43. Oppenheimer’s Brian Nagel and BTIG’s Robert Drbul cut their targets to $60 and $55, respectively. The general view among analysts is that Nike’s business is facing major challenges and that its turnaround strategy is taking time to generate returns. Analysts expect the upcoming results to show that its revenue dropped by 2.19% in the quarter to $10.85 billion.",
+      "_zh_headline": "耐克股票猛然觉醒，因为技术面显示盈利前将出现更多疲软",
+      "_zh_summary": "在最近的一份报告中，Stifel Nicolaus 将耐克的股价目标从 56 美元下调至 50 美元，而德意志银行的 Krisztina Katai 将目标股价从 51 美元下调至 43 美元。 Oppenheimer 的 Brian Nagel 和 BTIG 的 Robert Drbul 分别将目标下调至 60 美元和 55 美元。分析师普遍认为，耐克的业务正面临重大挑战，其扭亏为盈战略需要时间才能产生回报。分析师预计即将公布的业绩显示，该季度营收将下降 2.19%，至 108.5 亿美元。",
+      "_added_at": "2026-06-28T06:44:18.478930+00:00"
     },
     {
       "author": "Shomik Sen Bhattacharjee",
@@ -119,348 +143,7 @@
       "_summary": "During the 1982 \"Big Game\" between the UC Berkeley Cal Bears and the Stanford Cardinal, Mehrotra watched from the stands as a young Berkeley student. With four seconds left, Cal pulled off a five-lateral kickoff return through the Stanford marching band to score a game-winning touchdown. In an interview with Business Insider, Mehrotra said he still remembers the moment vividly. \"I was there, and it still gives me goosebumps,\" he said. \"It was extremely exciting, an unbelievable finish.\"",
       "_zh_headline": "美光首席执行官桑杰·梅赫罗特拉 (Sanjay Mehrotra) 表示，观看伯克利大学的“The Play”有助于塑造他后来带到 SanDisk 的领导素质",
       "_zh_summary": "1982 年，加州大学伯克利分校熊队 (UC Berkeley Cal Bears) 与斯坦福大学红雀队 (Stanford Cardinal) 之间的“重大比赛”期间，作为一名年轻的伯克利学生，梅赫罗特拉 (Mehrotra) 在看台上观看了比赛。还剩四秒时，卡尔在斯坦福军乐队中完成五次横向开球回攻，取得了赢得比赛的达阵。梅赫罗特拉在接受《商业内幕》采访时表示，他仍然清楚地记得那一刻。 “我当时就在那里，但至今仍让我起鸡皮疙瘩，”他说。 “这非常令人兴奋，令人难以置信的结局。”",
-      "_added_at": "2026-06-27T18:45:59.313199+00:00"
-    },
-    {
-      "headline": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
-      "summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T13:30:59+00:00",
-      "_summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
-      "_zh_headline": "美伊协议中含糊的语言再次困扰和平努力",
-      "_zh_summary": "该协议要求伊朗为船只通过霍尔木兹海峡“做出安排”。伊朗将此解释为它可以指定船只行驶的路线。",
-      "_added_at": "2026-06-27T16:40:23.281089+00:00"
-    },
-    {
-      "headline": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
-      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
-      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T14:33:25+00:00",
-      "_summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
-      "_zh_headline": "志愿者冒着生命危险阻止埃博拉病毒。他们并不总是受欢迎。",
-      "_zh_summary": "进行安全埋葬的前线刚果工作人员对于遏制专家担心的可能成为有史以来最严重的埃博拉疫情至关重要。他们不仅面临感染的风险，还面临恐惧社区的愤怒。",
-      "_added_at": "2026-06-27T16:40:23.281089+00:00"
-    },
-    {
-      "headline": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
-      "summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T14:33:58+00:00",
-      "_summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
-      "_zh_headline": "与以色列的协议导致黎巴嫩分裂，加剧贝鲁特的抗议活动",
-      "_zh_summary": "支持者对该协议表示欢迎，认为这是限制伊朗在黎巴嫩影响力的一步，但其他人走上街头，称其为投降。",
-      "_added_at": "2026-06-27T15:02:25.443439+00:00"
-    },
-    {
-      "headline": "Renewed Strikes Threaten Setback to Shipping Recovery in Persian Gulf",
-      "summary": "The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.",
-      "url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T11:26:14+00:00",
-      "_summary": "The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.",
-      "_zh_headline": "新一轮袭击可能导致波斯湾航运业复苏受挫",
-      "_zh_summary": "此次袭击发生之前，霍尔木兹海峡的交通量达到了美国对伊朗战争开始以来的最高水平。",
-      "_added_at": "2026-06-27T12:52:22.953983+00:00"
-    },
-    {
-      "author": "Benzinga Senior Editor",
-      "content": "",
-      "created_at": "2026-06-27T12:01:09Z",
-      "headline": "Benzinga Bulls And Bears: Micron, Take-Two, SpaceX — And Nasdaq Posts Sharpest Decline In Months",
-      "id": 60144904,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Bulls-and-Bears-1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Bulls-and-Bears-1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Bulls-and-Bears-1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
-      "symbols": [
-        "AAPL",
-        "AMC",
-        "CBRS",
-        "HOOD",
-        "INTC",
-        "MSFT",
-        "MU",
-        "NFLX",
-        "NOK",
-        "PLTR",
-        "QCOM",
-        "RKLB",
-        "SPCX",
-        "TTWO"
-      ],
-      "updated_at": "2026-06-27T12:01:09Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60144904/benzinga-bulls-and-bears-micron-take-two-spacex-and-nasdaq-posts-sharpest-decline-in-months",
-      "_summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories. Beyond earnings, markets continued to grapple with macroeconomic uncertainty as expectations for higher interest rates persisted following recent Federal Reserve signals. Investors increasingly rotated toward value-oriented sectors while trimming exposure to high-growth technology names, reflecting concerns that elevated borrowing costs could pressure future AI-related spending.",
-      "_zh_headline": "Benzinga 牛市和熊市：Micron、Take-Two、SpaceX — 纳斯达克指数出现数月来最大跌幅",
-      "_zh_summary": "本辛加上周研究了许多投资者最喜欢的股票的前景——以下是我们的一些热门报道。除了收益之外，市场继续应对宏观经济的不确定性，因为在美联储最近发出信号后，利率上升的预期持续存在。投资者越来越多地转向价值导向型行业，同时削减对高增长科技公司的投资，反映出人们担心借贷成本上升可能会给未来人工智能相关支出带来压力。",
-      "_added_at": "2026-06-27T12:52:22.953983+00:00"
-    },
-    {
-      "headline": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T09:02:30+00:00",
-      "_summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
-      "_zh_headline": "纽约选举后，以色列人担心美以关系进一步破裂",
-      "_zh_summary": "对以色列加沙战争的批评、对伊朗战争的愤怒以及纽约的选举结果都表明，华盛顿对以色列的坚定支持可能是时日无多了。",
-      "_added_at": "2026-06-27T11:11:18.736660+00:00"
-    },
-    {
-      "headline": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-      "summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.",
-      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T09:02:39+00:00",
-      "_summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.",
-      "_zh_headline": "委内瑞拉经济正在崛起。然后地震发生了。",
-      "_zh_summary": "现在，人们对美国在帮助委内瑞拉方面发挥的作用的期望不断上升，委内瑞拉已经因数十年的暴政而陷入低谷。",
-      "_added_at": "2026-06-27T11:11:18.736660+00:00"
-    },
-    {
-      "headline": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
-      "url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-27T05:02:00-04:00",
-      "_summary": "Soldiers from the First Center of Unmanned Systems launch a deep-strike drone from an undisclosed location in eastern Ukraine. Serhii Korovvayny for NPR hide caption EASTERN UKRAINE — As the sun sets on a vast farm field, soldiers in full body armor pull over on a dirt road and unload what looks like a miniature jet from a truck. This drone, made by Fire Point, a Ukrainian defense technology company, can travel between 800 and 1,200 miles. Ukraine's military has used drones like these to repeatedly hit oil refineries and depots deep inside Russia, including Moscow and even Siberia. On June 18, Ukraine launched its largest drone offensive yet on Moscow and hit an oil refinery. Thick black smoke billowed into the sky as residents reported a flurry of \"oil rain.\" People walk in a park as black smoke rises from the area of the Russian oil producer Gazprom Neft's Moscow oil refinery on the southeastern outskirts of Moscow on June 18, 2026.",
-      "_zh_headline": "乌克兰秘密团队对俄罗斯发动深度无人机袭击",
-      "_zh_summary": "来自第一无人系统中心的士兵从乌克兰东部的一个秘密地点发射了一架深度打击无人机。 NPR 的 Serhii Korovvayny 隐藏标题 乌克兰东部 — 当太阳落在广阔的农田上时，身穿全身装甲的士兵把车停在土路上，从卡车上卸下看起来像一架微型喷气式飞机的东西。这架无人机由乌克兰国防技术公司 Fire Point 制造，飞行距离可达 800 至 1,200 英里。乌克兰军方多次使用此类无人机袭击俄罗斯境内的炼油厂和油库，包括莫斯科甚至西伯利亚。 6月18日，乌克兰对莫斯科发动迄今为止最大规模的无人机攻势，并袭击了一座炼油厂。浓浓黑烟冲天，居民报告称出现了一阵“油雨”。 2026 年 6 月 18 日，莫斯科东南郊，俄罗斯石油生产商俄罗斯天然气工业股份公司 (Gazprom Neft) 的莫斯科炼油厂冒出黑烟，人们在公园里散步。",
-      "_added_at": "2026-06-27T09:12:47.256002+00:00"
-    },
-    {
-      "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
-      "summary": "The Trump administration said it would commit aid, at a time when it has been expanding U.S. commercial interests in Venezuela beyond oil.",
-      "url": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T03:18:31+00:00",
-      "_summary": "The Trump administration said it would commit aid, at a time when it has been expanding U.S. commercial interests in Venezuela beyond oil.",
-      "_zh_headline": "地震考验美国和委内瑞拉之间日益密切的关系",
-      "_zh_summary": "特朗普政府表示将提供援助，而此时它一直在将美国在委内瑞拉的商业利益扩大到石油以外的领域。",
-      "_added_at": "2026-06-27T09:12:47.256002+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-06-27T05:40:37Z",
-      "headline": "Elon Musk's SpaceX Scores Fast-Tracked Nasdaq-100 Entry After Stellar IPO With Billions In Passive Inflows Expected",
-      "id": 60144551,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Paris--France---February-3--2026-A-Horiz.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Paris--France---February-3--2026-A-Horiz.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/27/Paris--France---February-3--2026-A-Horiz.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SpaceX will join the Nasdaq-100 on July 7, a move expected to drive an estimated $4.3 billion in passive inflows.",
-      "symbols": [
-        "QQQ",
-        "QQQM",
-        "SPCX"
-      ],
-      "updated_at": "2026-06-27T05:40:37Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60144551/elon-musks-spacex-scores-fast-tracked-nasdaq-100-entry-after-stellar-ipo-with-billions-in-passive-inflows-expected",
-      "_summary": "Nasdaq confirmed Friday that SpaceX will be added to the tech-heavy Nasdaq-100 index effective July 7, less than a month after the company’s June 12 public debut . JP Morgan estimates the move could generate roughly $4.3 billion in passive inflows as index funds rebalance their portfolios to include SpaceX, Reuters reported. SpaceX’s rapid addition follows recent changes by Nasdaq to make its exchange more attractive to companies pursuing U.S. listings.",
-      "_zh_headline": "埃隆·马斯克 (Elon Musk) 的 SpaceX 在出色的 IPO 后快速进入纳斯达克 100 指数，预计将有数十亿美元的被动资金流入",
-      "_zh_summary": "纳斯达克周五证实，SpaceX 将于 7 月 7 日起被纳入以科技股为主的纳斯达克 100 指数，距离该公司 6 月 12 日公开亮相还不到一个月。据路透社报道，摩根大通估计，随着指数基金重新平衡其投资组合，将 SpaceX 纳入其中，此举可能会产生约 43 亿美元的被动资金流入。纳斯达克最近进行了一些改革，以使其交易所对寻求在美国上市的公司更具吸引力，随后 SpaceX 迅速加入。",
-      "_added_at": "2026-06-27T09:12:47.256002+00:00"
-    },
-    {
-      "headline": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-      "summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
-      "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T01:36:11+00:00",
-      "_summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
-      "_zh_headline": "美国打击伊朗，报复霍尔木兹海峡船只遇袭事件",
-      "_zh_summary": "特朗普总统周五称伊朗一天前对一艘穿越霍尔木兹海峡的集装箱船的袭击是“愚蠢”的行为。",
-      "_added_at": "2026-06-27T05:33:07.983691+00:00"
-    },
-    {
-      "headline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
-      "summary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
-      "url": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-26T23:45:58+00:00",
-      "_summary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
-      "_zh_headline": "倒影池是如何变绿的：缺少“起泡器”和紧急工作",
-      "_zh_summary": "在特朗普总统终极格斗冠军生日派对的促销活动之前，笨重的“纳米气泡”机器被运走。",
-      "_added_at": "2026-06-27T05:33:07.983691+00:00"
-    },
-    {
-      "headline": "What to Know About Problems at the Reflecting Pool and Trump’s Claims of Vandalism",
-      "summary": "The administration has provided little evidence to back up some of his assertions about the Lincoln Memorial pool. Experts say other factors could have caused the major problems that have plagued it.",
-      "url": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-27T01:09:23+00:00",
-      "_summary": "The administration has provided little evidence to back up some of his assertions about the Lincoln Memorial pool. Experts say other factors could have caused the major problems that have plagued it.",
-      "_zh_headline": "关于倒影池的问题和特朗普的故意破坏行为，您需要了解什么",
-      "_zh_summary": "政府几乎没有提供任何证据来支持他关于林肯纪念堂水池的一些主张。专家表示，其他因素也可能导致了困扰它的重大问题。",
-      "_added_at": "2026-06-27T05:33:07.983691+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-06-26T17:42:04Z",
-      "headline": "Stock Market's Character May Have Begun To Change",
-      "id": 60136163,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Micron.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nMarket Character\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector, and semiconductor mania is",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPY",
-        "SSNLF",
-        "TSLA"
-      ],
-      "updated_at": "2026-06-26T17:43:44Z",
-      "url": "https://www.benzinga.com/Opinion/26/06/60136163/stock-markets-character-may-have-begun-to-change",
-      "_summary": "Apple Inc (NASDAQ: AAPL ) is announcing significant price hikes due to higher memory prices.  It will be interesting to see if consumers easily absorb the price increases or if it results in reduced demand. Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis.",
-      "_zh_headline": "股市的特征可能已经开始改变",
-      "_zh_summary": "由于内存价格上涨，苹果公司（纳斯达克股票代码：AAPL）宣布大幅提价。  消费者是否能轻易接受价格上涨，或者是否会导致需求减少，这将是一件很有趣的事情。大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。",
-      "_added_at": "2026-06-27T05:33:07.983691+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-06-26T20:00:42Z",
-      "headline": "Microsoft Has Worst Month Since 2000, Micron Delivers Memorable Beat: This Week On Wall Street",
-      "id": 60140539,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Exterior-Of-New-York-Stock-Exchange--Lar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Microsoft heads for its worst June since 2000 as AI capex fears bite, while Micron delivers record revenue and EPS — the AI capex squeeze rewriting the trade.",
-      "symbols": [
-        "AAPL",
-        "MAGS",
-        "MSFT",
-        "MU",
-        "ORCL"
-      ],
-      "updated_at": "2026-06-26T20:00:42Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60140539/microsoft-micron-ai-capex-squeeze-week-wall-street",
-      "_summary": "WTI crude has now fully wiped out its war premium. Oil is also down more than 20% on the month, on pace for its worst monthly performance since March 2020. Saudi Arabia resumed loading tankers at Ras Tanura, and Persian Gulf exports recovered to roughly 75% of prewar levels, according to Goldman Sachs estimates. On Friday, President Donald Trump said Iran had fired four “one-way attack drones” at ships transiting the Strait of Hormuz, calling it “a foolish violation of our ceasefire agreement.” Markets shrugged.",
-      "_zh_headline": "微软遭遇 2000 年以来最糟糕的一个月，美光科技表现令人难忘：本周华尔街",
-      "_zh_summary": "WTI 原油现已完全消除其战争溢价。本月石油价格也下跌超过 20%，创 2020 年 3 月以来最差月度表现。据高盛估计，沙特阿拉伯恢复在 Ras Tanura 油轮装载，波斯湾出口恢复至战前水平的约 75%。周五，唐纳德·特朗普总统表示，伊朗向经过霍尔木兹海峡的船只发射了四架“单向攻击无人机”，称其“愚蠢地违反了我们的停火协议”。市场耸耸肩。",
-      "_added_at": "2026-06-27T05:33:07.983691+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-26T19:18:43Z",
-      "headline": "Software ETFs Are Finally Catching An AI Tailwind",
-      "id": 60139041,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Saas-Software-As-A-Service-Concept-With-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Saas-Software-As-A-Service-Concept-With-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/26/Saas-Software-As-A-Service-Concept-With-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Software ETFs surged while semiconductor funds fell as investors broadened the AI trade beyond chipmakers to enterprise software companies.",
-      "symbols": [
-        "ADI",
-        "APP",
-        "ASAN",
-        "BB",
-        "FDN",
-        "GWRE",
-        "IGV",
-        "INTA",
-        "MCHP",
-        "MPWR",
-        "NOW",
-        "ON",
-        "PLTR",
-        "SMH",
-        "SOXX",
-        "TER",
-        "WDAY",
-        "XLK",
-        "XSW"
-      ],
-      "updated_at": "2026-06-26T19:18:43Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60139041/software-etfs-are-finally-catching-an-ai-tailwind",
-      "_summary": "The artificial intelligence trade may be entering its next phase—and ETF investors are taking notice. IGV’s gains were fueled by a broad rally across enterprise software names. The strong performance comes after software stocks spent much of the AI boom trailing semiconductor companies. Investors had largely favored chipmakers, betting they would be the primary beneficiaries of surging demand for AI infrastructure, while concerns persisted that generative AI could disrupt parts of the software industry.",
-      "_zh_headline": "软件 ETF 终于迎来了人工智能的顺风车",
-      "_zh_summary": "人工智能行业可能正在进入下一阶段——ETF 投资者正在注意到这一点。 IGV 的上涨得益于企业软件品牌的广泛上涨。在人工智能繁荣时期，软件股的大部分表现落后于半导体公司，之后软件股表现强劲。投资者在很大程度上青睐芯片制造商，认为他们将成为人工智能基础设施需求激增的主要受益者，但人们仍然担心生成式人工智能可能会扰乱部分软件行业。",
-      "_added_at": "2026-06-27T05:33:07.983691+00:00"
+      "_added_at": "2026-06-28T06:44:18.478930+00:00"
     }
   ]
 }
