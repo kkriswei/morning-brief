@@ -2,6 +2,118 @@
   "date": "2026-06-28",
   "articles": [
     {
+      "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
+      "summary": "Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel. “This war has brought so much loss,” one resident said.",
+      "url": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-28T09:00:47+00:00",
+      "_summary": "Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel. “This war has brought so much loss,” one resident said.",
+      "_zh_headline": "黎巴嫩真主党与以色列停战期间达希亚的生活是什么样的",
+      "_zh_summary": "达希亚是一个广阔的地区，也是真主党的据点，在与以色列的紧张休战中正在恢复生机。 “这场战争带来了如此大的损失，”一位居民说。",
+      "_added_at": "2026-06-28T10:11:58.924209+00:00"
+    },
+    {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-06-28T10:01:12Z",
+      "headline": "Anthony Scaramucci Criticizes Trump, Cathie Wood Foresees Crisis And Oil Prices Set To Skyrocket: This Week In Economy",
+      "id": 60146738,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Washington-Dc--2026-February-24--Preside.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Washington-Dc--2026-February-24--Preside.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Washington-Dc--2026-February-24--Preside.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Anthony Scaramucci criticized Trump’s economic policies while Cathie Wood warned of a potential global financial crisis.",
+      "symbols": [],
+      "updated_at": "2026-06-28T10:01:12Z",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/06/60146738/anthony-scaramucci-criticizes-trump-cathie-wood-foresees-crisis-and-oil-prices-set-to-skyrocket-this-week-in-economy",
+      "_summary": "The week was buzzing with a variety of stories that kept the financial world on its toes. From Anthony Scaramucci ‘s critique of President Donald Trump ‘s economic policies to Cathie Wood ‘s warning of a looming global financial crisis, there was no shortage of news. Let’s dive into the top five stories that made headlines. Former White House communications director Anthony Scaramucci took to social media to voice his concerns about Trump’s economic strategy. Scaramucci criticized the president for his lack of economic philosophy and the escalating federal spending under his administration. He highlighted that Trump’s spending reached $8.2 trillion in his first term and is projected to hit between $9 trillion and $10 trillion in his current term. CEO of Ark Invest , Cathie Wood , issued a warning about a potential global financial crisis.",
+      "_zh_headline": "安东尼·斯卡拉穆奇批评特朗普，凯西·伍德预见危机和油价将飙升：本周经济",
+      "_zh_summary": "本周充斥着各种让金融界保持警惕的故事。从安东尼·斯卡拉穆奇对唐纳德·特朗普总统经济政策的批评，到凯茜·伍德对迫在眉睫的全球金融危机的警告，新闻不绝于耳。让我们深入探讨成为头条新闻的前五个故事。前白宫通讯主管安东尼·斯卡拉穆奇在社交媒体上表达了他对特朗普经济战略的担忧。斯卡拉穆奇批评总统缺乏经济哲学以及他的政府不断增加的联邦支出。他强调，特朗普第一任期内的支出达到 8.2 万亿美元，预计当前任期将达到 9 万亿至 10 万亿美元。 Ark Invest 首席执行官 Cathie Wood 对潜在的全球金融危机发出警告。",
+      "_added_at": "2026-06-28T10:11:58.924209+00:00"
+    },
+    {
+      "author": "Benzinga Neuro",
+      "content": "",
+      "created_at": "2026-06-28T06:50:06Z",
+      "headline": "Tech's Grip On S&P 500 Hits Record 39% As AI Rally Pushes Concentration Beyond Dot-Com Peak",
+      "id": 60146571,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tech sector&#39;s share of S&amp;P 500 at all-time high of 39%, surpassing previous highs in dot-com era and energy sector, with AI leadership driving gains.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "HPE",
+        "MRVL",
+        "NFLX"
+      ],
+      "updated_at": "2026-06-28T06:50:07Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60146571/techs-grip-on-sp-500-hits-record-39-as-ai-rally-pushes-concentration-beyond-dot-com-peak",
+      "_summary": "In a post on social media platform X , the Kobeissi Letter noted that the tech sector’s weight has more than doubled since the 2020 pandemic and has moved beyond prior extremes. It also said tech’s current slice is above the dot-com era high of about 33% and the energy sector’s roughly 31% crest in the 1980s. The takeaway for investors is portfolio concentration risk, as a narrow group of companies increasingly drives index returns while reducing the benefits of diversification.",
+      "_zh_headline": "科技股对标普 500 指数的掌控力达到创纪录的 39%，人工智能反弹将集中度推向互联网高峰期之外",
+      "_zh_summary": "《Kobeissi Letter》在社交媒体平台 X 上的一篇帖子中指出，自 2020 年大流行以来，科技行业的权重增加了一倍多，并且已经超出了之前的极端水平。它还表示，科技行业目前的份额高于互联网时代约 33% 的高点，也高于能源行业 20 世纪 80 年代约 31% 的峰值。投资者面临的问题是投资组合集中风险，因为一小部分公司日益推动指数回报，同时降低了多元化的好处。",
+      "_added_at": "2026-06-28T10:11:58.924209+00:00"
+    },
+    {
+      "author": "Benzinga Neuro",
+      "content": "",
+      "created_at": "2026-06-28T07:29:15Z",
+      "headline": "Apple's Push For Chinese Memory Chips Isn't The Micron Threat Investors Think It Is, Analyst Says: 5 Reasons Why",
+      "id": 60146621,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Apple-Extends-Revenue-Streak.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Apple-Extends-Revenue-Streak.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Apple-Extends-Revenue-Streak.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Fears over Apple&#39;s use of cheaper chips from China&#39;s CXMT hurting Micron may be overblown.",
+      "symbols": [
+        "AAPL",
+        "MU"
+      ],
+      "updated_at": "2026-06-28T07:29:15Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60146621/apples-push-for-chinese-memory-chips-isnt-the-micron-threat-investors-think-it-is-analyst-says-5-reasons-why",
+      "_summary": "In a post on X, Milk Road AI analyst Melvin said investors are focusing on the wrong part of the memory market. While Apple’s potential use of chips from China’s ChangXin Memory Technologies (CXMT) could pressure commodity DRAM suppliers, he argued Micron has largely shifted its focus to premium HBM products powering AI data centers, where CXMT remains years behind.",
+      "_zh_headline": "分析师表示，苹果推动中国存储芯片并不是投资者所认为的美光威胁：5个原因",
+      "_zh_summary": "Milk Road AI 分析师 Melvin 在 X 上发表的一篇文章中表示，投资者关注的是内存市场的错误部分。虽然苹果可能使用中国长鑫存储技术公司 (CXMT) 的芯片可能会给商品 DRAM 供应商带来压力，但他认为美光已将其重点转向为 AI 数据中心提供动力的优质 HBM 产品，而 CXMT 在这方面仍落后数年。",
+      "_added_at": "2026-06-28T10:11:58.924209+00:00"
+    },
+    {
       "headline": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
       "summary": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
       "url": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
