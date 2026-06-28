@@ -2,6 +2,40 @@
   "date": "2026-06-28",
   "articles": [
     {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-06-28T11:01:00Z",
+      "headline": "Apple's Top Hardware Chief Leaves For OpenAI, Tim Cook's Price Hike Strategy And More: This Week In Appleverse",
+      "id": 60146820,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Beijing--China---July-21--2023-Apple-Log.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Beijing--China---July-21--2023-Apple-Log.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Beijing--China---July-21--2023-Apple-Log.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple had a turbulent week marked by a senior hardware executive’s departure to OpenAI, rising product prices and failed merger discussion.",
+      "symbols": [
+        "AAPL",
+        "DIS",
+        "MU"
+      ],
+      "updated_at": "2026-06-28T11:01:00Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60146820/apples-top-hardware-chief-leaves-for-openai-tim-cooks-price-hike-strategy-and-more-this-week-in-appleverse",
+      "_summary": "Apple had a turbulent week marked by a senior hardware executive’s departure to OpenAI, rising product prices and failed merger discussion.",
+      "_zh_headline": "苹果高级硬件主管离职前往 OpenAI、蒂姆·库克的涨价策略等：本周 Appleverse",
+      "_zh_summary": "苹果公司度过了动荡的一周，其中包括一名高级硬件高管跳槽到 OpenAI、产品价格上涨以及合并讨论失败。",
+      "_added_at": "2026-06-28T12:04:06.733277+00:00"
+    },
+    {
       "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
       "summary": "Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel. “This war has brought so much loss,” one resident said.",
       "url": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
