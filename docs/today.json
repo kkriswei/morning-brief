@@ -2,6 +2,77 @@
   "date": "2026-06-28",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-28T18:51:03Z",
+      "headline": "Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
+      "id": 60147235,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Bull.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Bull.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Bull.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The top S&amp;P 500 Index stocks to watch this week include popular names like Nike, Micron and Amazon.",
+      "symbols": [
+        "AAPL",
+        "ADBE",
+        "AMZN",
+        "MU",
+        "NKE"
+      ],
+      "updated_at": "2026-06-28T18:51:03Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60147235/top-three-sp-500-stocks-to-watch-this-week-nike-micron-amazon",
+      "_summary": "Nike will be one of the key S&P 500 Index stocks to watch this week as it publishes its earnings. These numbers come at a time when its stock has plummeted by 77% from its highest point in 2021. It has dropped to its lowest level since 2014, making it one of the top laggards. Nike’s earnings will, therefore, provide more information on whether the management’s turnaround strategy is working.",
+      "_zh_headline": "本周最值得关注的三只标准普尔 500 股票：耐克、美光、亚马逊",
+      "_zh_summary": "耐克将成为本周发布财报时值得关注的标准普尔 500 指数主要股票之一。这些数字是在其股价从 2021 年的最高点暴跌 77% 之际发布的。该公司已跌至 2014 年以来的最低水平，使其成为最落后的股票之一。因此，耐克的财报将提供更多关于管理层的扭亏为盈策略是否有效的信息。",
+      "_added_at": "2026-06-28T19:55:07.972656+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-06-28T19:16:03Z",
+      "headline": "Dow Jones and Nasdaq 100: Top 4 Events Investors Should Watch This Week",
+      "id": 60147274,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Here are the top four key catalysts that will drive the Dow Jones and Nasdaq 100 indices this week, including the US NFP data and Nike earnings",
+      "symbols": [
+        "JPM",
+        "MU",
+        "NKE",
+        "SPCX"
+      ],
+      "updated_at": "2026-06-28T19:16:04Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60147274/dow-jones-and-nasdaq-100-top-4-events-investors-should-watch-this-week",
+      "_summary": "The Dow Jones and Nasdaq 100 indices have lost momentum in recent days as stock market volatility has picked up. The tech-heavy Nasdaq 100 Index slipped to 29,118 on Friday from its record high of 30,750, while the Dow Jones Industrial Average retreated from 52,650 to 51,880. Investors are now turning their attention to four key events that are likely to shape the direction of U.S. stocks this week.",
+      "_zh_headline": "道琼斯指数和纳斯达克 100 指数：投资者本周应关注的 4 大事件",
+      "_zh_summary": "随着股市波动加剧，道琼斯指数和纳斯达克 100 指数最近几天失去了动力。以科技股为主的纳斯达克 100 指数周五从 30,750 点的历史高点下滑至 29,118 点，而道琼斯工业平均指数则从 52,650 点回落至 51,880 点。投资者现在将注意力转向可能影响本周美国股市走向的四个关键事件。",
+      "_added_at": "2026-06-28T19:55:07.972656+00:00"
+    },
+    {
       "headline": "Trade tensions shake up Brazil's caipirinha spirit",
       "summary": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
       "url": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
