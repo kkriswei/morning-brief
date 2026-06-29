@@ -2,6 +2,54 @@
   "date": "2026-06-29",
   "articles": [
     {
+      "headline": "Supreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States",
+      "summary": "The Supreme Court ruled on Monday that state laws allowing ballots to arrive after Election Day are legal. The decision is the latest in a series of setbacks for President Trump’s efforts to regulate elections.",
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T19:46:44+00:00",
+      "_summary": "The Supreme Court ruled on Monday that state laws allowing ballots to arrive after Election Day are legal. The decision is the latest in a series of setbacks for President Trump’s efforts to regulate elections.",
+      "_zh_headline": "最高法院关于迟到邮寄选票的裁决向 18 个州提供救济",
+      "_zh_summary": "最高法院周一裁定，允许选票在选举日之后送达的州法律是合法的。这一决定是特朗普总统监管选举的努力遭遇的一系列挫折中的最新一起。",
+      "_added_at": "2026-06-29T20:26:28.724754+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-29T20:10:19Z",
+      "headline": "'AI Equals Memory': Why The AI Boom Now Runs Through Micron, SK Hynix And Samsung",
+      "id": 60173329,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/AI-chips.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/AI-chips.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/AI-chips.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AI&#39;s next bottleneck may be memory, not GPUs. A 22V Research note highlights HBM demand as Micron surges and an antitrust lawsuit targets DRAM leaders.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "updated_at": "2026-06-29T20:10:19Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60173329/ai-equals-memory-why-the-ai-boom-now-runs-through-micron-sk-hynix-and-samsung",
+      "_summary": "The defining bottleneck of the artificial-intelligence boom is no longer the graphics processor. It is the memory that sits next to it. That is the core argument of a Monday note from Jordi Visser, head of AI macro nexus at 22V Research.",
+      "_zh_headline": "“人工智能等于内存”：为何美光、SK 海力士和三星如今掀起人工智能热潮",
+      "_zh_summary": "人工智能繁荣的决定性瓶颈不再是图形处理器。这是位于它旁边的记忆。这是 22V Research 人工智能宏观关系主管 Jordi Visser 周一发布的报告的核心论点。",
+      "_added_at": "2026-06-29T20:26:28.724754+00:00"
+    },
+    {
       "headline": "Supreme Court says Fed's Lisa Cook can stay in her job for now",
       "summary": "The court's decision means Cook can stay in her position as her challenge to her dismissal plays out in the lower courts.",
       "url": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
@@ -554,48 +602,6 @@
       "_summary": "Editor’s Note: The headline has been corrected to fix a typographical error. Former U.S. Ambassador to the United Nations Nikki Haley urged the Trump administration to keep strict sanctions on Iran, refuse to unfreeze Iranian assets and pressure China and Russia to stop buying Iranian oil and supplying equipment to Tehran, arguing that Washington should starve the regime of money rather than ease up after a fragile ceasefire. \"Keep the sanctions on Iran. Don’t unfreeze their assets. Put the pressure on China and Russia to stop buying oil and supplying Iran with equipment,\" Haley wrote Sunday on X. \"The administration did the bulk of the work. Reversing the progress that was made is a waste. Keep the pressure on and have the gulf states support that pressure. You have to stop their ability to get any money,\" she added.",
       "_zh_headline": "尼基·黑利希望特朗普政府继续制裁伊朗，因为脆弱的停火面临新的考验：“继续施加压力”（已更正）",
       "_zh_summary": "编者注：标题已更正，以修复印刷错误。美国前驻联合国大使妮基·黑利敦促特朗普政府继续对伊朗实施严格制裁，拒绝解冻伊朗资产，并向中国和俄罗斯施压，停止购买伊朗石油和向德黑兰供应设备，她认为华盛顿应该让伊朗政权陷入资金匮乏，而不是在脆弱的停火后放松警惕。黑利周日在X上写道：“继续对伊朗实施制裁。不要解冻他们的资产。向中国和俄罗斯施加压力，要求他们停止购买石油和向伊朗提供设备。政府已经完成了大部分工作。扭转已经取得的进展是一种浪费。继续施加压力，并让海湾国家支持这种压力。你必须阻止他们获得任何资金的能力。”",
-      "_added_at": "2026-06-29T05:13:51.895084+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-06-29T01:55:54Z",
-      "headline": "Trump Administration Official Says US, Iran Will 'Stand Down' For Now And Vessels Can Move 'Freely': Oil Climbs To Nearly $70, Dow Futures Gain 127 Points",
-      "id": 60147825,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Poll-Shows-Iran-Advantage.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Poll-Shows-Iran-Advantage.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Poll-Shows-Iran-Advantage.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Trump administration said the U.S. and Iran would &#34;stand down for now,&#34; lifting stock futures even as oil prices climbed.",
-      "symbols": [],
-      "updated_at": "2026-06-29T01:55:55Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60147825/trump-administration-official-says-us-and-iran-will-stand-down-for-now-as-oil-and-futures-rise",
-      "_summary": "Late Sunday, U.S. stock futures traded higher as the Donald Trump administration reportedly said the U.S. and Iran would “stand down\" for now following an exchange of strikes . Dow futures rose 127.00 points, or 0.24%, to 52,336.00, while S&P 500 futures gained 28.00 points, or 0.38%, to 7,429.75 and Nasdaq 100 futures climbed 63.50 points, or 0.22%, to 29,431.75 as of around 8:52 p.m. EDT. In commodities, WTI crude oil rose 1.05% to $69.96 per barrel, while Brent crude gained 0.75% to $72.53 per barrel. Natural gas futures edged up 0.52% to $3.296 per MMBtu. Meanwhile, the U.S. dollar index, which tracks the greenback against a basket of currencies, stood at 101.365, little changed on the day. Asian markets were lower, with South Korea’s KOSPI falling 1.96% to 8,246.75, while Japan’s Nikkei 225 declined 1.60% to 68,253.39.",
-      "_zh_headline": "特朗普政府官员称美国、伊朗将暂时“停战”，船只可“自由”航行：油价攀升至近70美元，道指期货上涨127点",
-      "_zh_summary": "周日晚间，美国股指期货走高，据报道，唐纳德·特朗普政府表示，美国和伊朗在相互袭击后将暂时“停止”。道琼斯指数期货上涨 127.00 点，即 0.24%，至 52,336.00 点；标准普尔 500 指数期货上涨 28.00 点，即 0.38%，至 7,429.75；纳斯达克 100 指数期货上涨 63.50 点，即 0.22%，至 29,431.75 点。晚上 8:52美东时间。大宗商品方面，WTI 原油上涨 1.05%，至每桶 69.96 美元，布伦特原油上涨 0.75%，至每桶 72.53 美元。天然气期货小幅上涨 0.52%，至每 MMBtu 3.296 美元。与此同时，追踪美元兑一篮子货币的美元指数为101.365，当天变化不大。亚洲市场走低，韩国综合股价指数下跌 1.96%，至 8,246.75 点；日本日经 225 指数下跌 1.60%，至 68,253.39 点。",
-      "_added_at": "2026-06-29T05:13:51.895084+00:00"
-    },
-    {
-      "headline": "Trade tensions shake up Brazil's caipirinha spirit",
-      "summary": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
-      "url": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-06-28T11:45:42-04:00",
-      "_summary": "Bartender Rafaella Demelo adds sugar, 1.5 ounces of Leblon, and half a lime over ice in a shaker while preparing a caipirinha, Brazil's trademark cocktail. Alan Diaz/AP hide caption RIO DE JANEIRO, Brazil—The Trump administration's tariffs may have done what decades of diplomacy couldn't: convince Europe and South America they needed each other. For Brazil's cachaça makers, that diplomatic shift is already becoming a business opportunity. \"I think growth will be immense,\" distiller Assja Schymura of Pindorama, said. \"If we can only get over these initial barriers.\" Cachaça, Brazil's sugarcane-based liquor and the key ingredient in the country's famed cocktail, the caipirinha, has won awards in European competitions but has long struggled to break into the market. Import taxes and lack of familiarity kept it mostly a niche export. Producers now see a chance to change that.",
-      "_zh_headline": "贸易紧张局势动摇了巴西的凯匹林纳精神",
-      "_zh_summary": "调酒师 Rafaella Demelo 在调制巴西标志性鸡尾酒凯匹林纳鸡尾酒时，将糖、1.5 盎司 Leblon 和半个青柠放入摇酒壶中加冰块。艾伦·迪亚兹/美联社隐藏标题巴西里约热内卢——特朗普政府的关税可能做到了数十年外交无法做到的事情：让欧洲和南美洲相信他们彼此需要。对于巴西的卡莎萨生产商来说，这种外交转变已经成为一个商机。 Pindorama 的酿酒师 Assja Schymura 表示：“我认为增长将是巨大的。” “如果我们能够克服这些最初的障碍就好了。” Cachaça 是巴西以甘蔗为原料的酒，也是该国著名鸡尾酒凯匹林纳鸡尾酒的主要成分，它曾在欧洲比赛中获奖，但长期以来一直难以打入市场。进口税和缺乏熟悉度使其主要成为利基出口产品。制片人现在看到了改变这种状况的机会。",
       "_added_at": "2026-06-29T05:13:51.895084+00:00"
     }
   ]
