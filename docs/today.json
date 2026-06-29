@@ -2,6 +2,84 @@
   "date": "2026-06-29",
   "articles": [
     {
+      "headline": "China Emerges as a Relative Winner From Strait of Hormuz Crisis",
+      "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
+      "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T12:21:55+00:00",
+      "_summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
+      "_zh_headline": "中国成为霍尔木兹海峡危机的相对赢家",
+      "_zh_summary": "一份报告探讨了伊朗战争如何给亚洲经济带来压力，但却使中国处于更有利的地位。",
+      "_added_at": "2026-06-29T14:35:05.740232+00:00"
+    },
+    {
+      "headline": "Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Gulf Attacks",
+      "summary": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.",
+      "url": "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T13:45:15+00:00",
+      "_summary": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.",
+      "_zh_headline": "美国和伊朗讨论暂停海湾袭击协议，油价上涨",
+      "_zh_summary": "一名美国官员表示，美国和伊朗已同意停止对一条关键航道的袭击，这引发了人们对敌对行动不会升级的希望，油价小幅走高。",
+      "_added_at": "2026-06-29T14:35:05.740232+00:00"
+    },
+    {
+      "author": "Tanya Rawat",
+      "content": "",
+      "created_at": "2026-06-29T12:34:33Z",
+      "headline": "Former Fed Official Drops Bombshell: You May Need To 'Talk Seriously About Raising Rates’ As Inflation Refuses To Cool",
+      "id": 60153696,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Former Fed official Esther George says Americans should prepare for higher interest rates under Kevin Warsh.",
+      "symbols": [],
+      "updated_at": "2026-06-29T12:34:57Z",
+      "url": "https://www.benzinga.com/news/financing/26/06/60153696/former-fed-hawk-esther-george-warns-americans-to-prepare-for-higher-rates-under-kevin-warsh",
+      "_summary": "Former Federal Reserve Bank of Kansas City President Esther George said Americans making long-term financial decisions should prepare for higher interest rates rather than expect near-term relief in borrowing costs, as persistent inflation continues to pressure the Federal Reserve’s policy outlook. In an interview published Monday, George said, \"If I were someone planning with that kind of horizon, I’d plan for higher rates coming ahead,\" Fortune reported , on Monday. George is widely regarded as one of the Fed’s most hawkish former policymakers, meaning she has historically favored higher interest rates to keep inflation under control. Kevin Warsh, who succeeded former Fed Chair Jerome Powell in May, kept the benchmark federal funds rate unchanged at 3.5% to 3.75% during his first Federal Open Market Committee meeting on June 17. The Federal Open Market Committee, or FOMC, is the Fed panel responsible for deciding whether to raise, cut or hold interest rates.",
+      "_zh_headline": "前美联储官员抛出重磅炸弹：随着通胀拒绝降温，你可能需要“认真讨论加息”",
+      "_zh_summary": "堪萨斯城联邦储备银行前行长埃丝特·乔治表示，美国人在做出长期财务决策时应该为更高的利率做好准备，而不是期望短期内借贷成本会下降，因为持续的通胀继续给美联储的政策前景带来压力。 《财富》周一报道称，乔治在周一发表的采访中表示，“如果我是一个有这种视野的人，我会计划未来更高的利率。”乔治被广泛认为是美联储最鹰派的前政策制定者之一，这意味着她历来支持提高利率以控制通胀。 5月份接替前美联储主席杰罗姆·鲍威尔的凯文·沃什在6月17日举行的首次联邦公开市场委员会会议上将基准联邦基金利率维持在3.5%至3.75%不变。联邦公开市场委员会（FOMC）是美联储负责决定是否加息、降息或维持利率的小组。",
+      "_added_at": "2026-06-29T14:35:05.740232+00:00"
+    },
+    {
+      "headline": "Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law",
+      "summary": "The justices had been asked to examine the legality of the state’s grace period for late-arriving mail-in ballots.",
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T14:14:17+00:00",
+      "_summary": "The justices had been asked to examine the legality of the state’s grace period for late-arriving mail-in ballots.",
+      "_zh_headline": "最高法院维持密西西比州迟到邮寄选票法",
+      "_zh_summary": "法官们被要求审查该州对迟到的邮寄选票的宽限期的合法性。",
+      "_added_at": "2026-06-29T14:35:05.740232+00:00"
+    },
+    {
+      "headline": "A Frantic Search for Survivors in Venezuela, and Fires Scorch Western U.S.",
+      "summary": "Plus, microdramas are trying to go mainstream.",
+      "url": "https://www.nytimes.com/2026/06/29/podcasts/the-headlines/survivors-venezuela-fires-us.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T10:00:10+00:00",
+      "_summary": "Plus, microdramas are trying to go mainstream.",
+      "_zh_headline": "委内瑞拉疯狂搜寻幸存者，大火烧焦美国西部",
+      "_zh_summary": "另外，微剧正试图成为主流。",
+      "_added_at": "2026-06-29T14:35:05.740232+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-06-29T07:49:09Z",
