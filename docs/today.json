@@ -2,6 +2,235 @@
   "date": "2026-06-29",
   "articles": [
     {
+      "headline": "Supreme Court says Fed's Lisa Cook can stay in her job for now",
+      "summary": "The court's decision means Cook can stay in her position as her challenge to her dismissal plays out in the lower courts.",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-06-29T10:44:00-04:00",
+      "_summary": "Lisa Cook takes the oath of office to serve as a member of the Board of Governors at the Federal Reserve System at the Federal Reserve in Washington on May 23, 2022 Drew Angerer/Getty Images hide caption The Supreme Court on Thursday shot down President Trump's attempt to fire Lisa Cook, a member of the Federal Reserve governing board, at least for now. The court's decision means Cook will stay in her job until her legal challenge to her firing plays out in the lower courts. That process could take considerable time, and in the meantime, Cook, the first African-American woman to serve on the Fed Board, will remain in her position, unlike other independent agency heads who have been fired at will by Trump, without any finding of wrongdoing. In each of those cases, the Supreme Court refused to reinstate the agency heads while their cases were being considered by the court.",
+      "_zh_headline": "最高法院称美联储丽莎库克暂时可以留任",
+      "_zh_summary": "丽莎·库克 (Lisa Cook) 于 2022 年 5 月 23 日在华盛顿的美联储宣誓就任美联储理事会成员。 Drew Angerer/Getty Images 隐藏标题 周四，最高法院否决了特朗普总统至少暂时解雇美联储理事会成员丽莎·库克 (Lisa Cook) 的企图。法院的裁决意味着库克将继续留任，直到她对解雇的法律挑战在下级法院得到解决。这一过程可能需要相当长的时间，与此同时，库克作为第一位在美联储理事会任职的非裔美国女性，将继续留任，这与其他被特朗普随意解雇的独立机构负责人不同，而且没有发现任何不当行为。在每一起案件中，最高法院都拒绝在法院审理案件期间恢复机构负责人的职务。",
+      "_added_at": "2026-06-29T17:58:25.107555+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-29T17:19:33Z",
+      "headline": "Nasdaq 100 Soars As Semis Rebound, Tesla Jumps: Stock Market Today",
+      "id": 60166806,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Wall-Street-Bull.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Wall-Street-Bull.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Wall-Street-Bull.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. tech stocks rally as semiconductor shares rebound, Tesla surges on Full Self-Driving updates and space stocks soar following Rocket Lab&#39;s $8 billion Iridium deal.",
+      "symbols": [
+        "ALAB",
+        "AMAT",
+        "AMZN",
+        "ASTS",
+        "BLD",
+        "BTCUSD",
+        "DIA",
+        "GAP",
+        "GLIBA",
+        "GLW",
+        "GOOGL",
+        "IRDM",
+        "IWM",
+        "KLAC",
+        "META",
+        "QQQ",
+        "RBLX",
+        "RKLB",
+        "SMH",
+        "SOXX",
+        "TSLA",
+        "VOO",
+        "VZ",
+        "XLC",
+        "XLK",
+        "XLY"
+      ],
+      "updated_at": "2026-06-29T17:19:33Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60166806/stock-market-today-nasdaq-100-semis-rebound-tesla-monday",
+      "_summary": "U.S. tech stocks rallied Monday as semiconductor shares rebounded from last week’s sell-off, with buyers wagering that the sector’s investment boom will keep underpinning corporate earnings. The tech-heavy Nasdaq 100 led the advance, climbing 1.5% to 29,566. The S&P 500 added 0.9% to 7,417, while the Dow Jones Industrial Average rose 236 points, or 0.5%, to 52,112. West Texas Intermediate bounced 2.0% to about $70.64 a barrel after the strikes over the weekend.",
+      "_zh_headline": "纳斯达克 100 指数因半成品反弹而飙升，特斯拉股价上涨：今日股市",
+      "_zh_summary": "美国科技股周一上涨，半导体股从上周的抛售中反弹，买家押注该行业的投资热潮将继续支撑企业盈利。以科技股为主的纳斯达克 100 指数领涨，上涨 1.5%，至 29,566 点。标准普尔 500 指数上涨 0.9%，至 7,417 点；道琼斯工业平均指数上涨 236 点，即 0.5%，至 52,112 点。周末罢工后，西德克萨斯中质原油反弹 2.0%，至每桶 70.64 美元左右。",
+      "_added_at": "2026-06-29T17:58:25.107555+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-06-29T15:45:19Z",
+      "headline": "Big Tech Hasn't Looked This Risky Relative To S&P 500 In 23 Years",
+      "id": 60162888,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Nasdaq-100 Volatility Index and VIX spread has reached its widest level in at least 23 years, signaling more uncertainty into Big Tech than the broader S&amp;P 500.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "AVGO",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-29T15:45:19Z",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/60162888/big-tech-hasnt-looked-this-risky-relative-to-sp-500-in-23-years",
+      "_summary": "Investors may still be pouring money into artificial intelligence , but one closely watched market indicator suggests they’re demanding a historically large premium to own Big Tech. • State Street SPDR S&P 500 ETF Trust shares are advancing steadily. Why are SPY shares climbing? Since the beginning of May, the VXN has climbed roughly 43%, or about nine points, while the VIX has risen just 9%, or approximately two points.",
+      "_zh_headline": "相对于标准普尔 500 指数，大型科技公司 23 年来从未出现过如此高的风险",
+      "_zh_summary": "投资者可能仍在向人工智能投入大量资金，但一项备受关注的市场指标表明，他们要求以历史最高的溢价来拥有大型科技公司。 • State Street SPDR S&P 500 ETF Trust 股票正在稳步上涨。为什么 SPY 股价上涨？自 5 月初以来，VXN 已上涨约 43%，即约 9 个点，而 VIX 只上涨了 9%，即约 2 个点。",
+      "_added_at": "2026-06-29T17:58:25.107555+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-29T17:17:03Z",
+      "headline": "Hedge Funds Cut Magnificent Seven Exposure—Which ETFs Are Most At Risk?",
+      "id": 60166681,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Hedge funds posted a major selloff of U.S. technology stocks, according to Goldman Sachs. Here&#39;s what it means for tech ETFs.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "AVGO",
+        "GOOGL",
+        "MAGS",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "RSP",
+        "TSLA",
+        "VGT",
+        "XLF",
+        "XLI",
+        "XLK"
+      ],
+      "updated_at": "2026-06-29T17:17:03Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60166681/hedge-funds-cut-magnificent-seven-exposure-which-etfs-are-most-at-risk",
+      "_summary": "Technology-focused ETFs could face increased uncertainty after hedge funds recorded their largest weekly selloff of U.S. information technology stocks since Goldman Sachs began tracking the data in 2016, raising questions about whether institutional de-risking could spill over into passive investment vehicles. According to data from Goldman Sachs Prime Services shared by The Kobeissi Lette r on X , hedge funds posted their biggest net selling of U.S.",
+      "_zh_headline": "对冲基金大幅削减七项风险敞口——哪些 ETF 面临的风险最大？",
+      "_zh_summary": "自高盛自 2016 年开始跟踪数据以来，对冲基金录得美国信息科技股最大单周抛售，以科技为重点的 ETF 可能面临更大的不确定性，引发了机构去风险是否会蔓延到被动投资工具的疑问。根据《科比西快报》在 X 上分享的高盛 Prime Services 数据，对冲基金公布了最大的美国净抛售额。",
+      "_added_at": "2026-06-29T17:58:25.107555+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-29T17:35:22Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "id": 60167718,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "symbols": [
+        "APLD",
+        "CBRS",
+        "INTC",
+        "KEEL",
+        "MRVL",
+        "MSTR",
+        "MU",
+        "NVDA",
+        "ON",
+        "SNDK"
+      ],
+      "updated_at": "2026-06-29T17:35:22Z",
+      "url": "https://www.benzinga.com/markets/options/26/06/60167718/10-information-technology-stocks-whale-alerts-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
+      "_added_at": "2026-06-29T17:58:25.107555+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-29T16:45:55Z",
+      "headline": "Here's How Much $100 Invested In VanEck Semiconductor ETF 15 Years Ago Would Be Worth Today",
+      "id": 60165262,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "VanEck Semiconductor ETF (NASDAQ:SMH) has outperformed the market over the past 15 years by 15.02% on an annualized basis producing an average annual return of 27.08%. Currently, VanEck Semiconductor ETF has a market",
+      "symbols": [
+        "SMH"
+      ],
+      "updated_at": "2026-06-29T16:45:55Z",
+      "url": "https://www.benzinga.com/news/26/06/60165262/here-s-how-much-100-invested-vaneck-semiconductor-etf-15-years-ago-would-be-worth-today",
+      "_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 15 years by 15.02% on an annualized basis producing an average annual return of 27.08%. Currently, VanEck Semiconductor ETF has a market capitalization of $71.81 billion. Buying $100 In SMH: If an investor had bought $100 of SMH stock 15 years ago, it would be worth $3,642.08 today based on a price of $626.62 for SMH at the time of writing.",
+      "_zh_headline": "15 年前投资 VanEck Semiconductor ETF 的 100 美元在今天值多少钱",
+      "_zh_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 15 years by 15.02% on an annualized basis producing an average annual return of 27.08%.目前，VanEck Semiconductor ETF 市值为 718.1 亿美元。 Buying $100 In SMH: If an investor had bought $100 of SMH stock 15 years ago, it would be worth $3,642.08 today based on a price of $626.62 for SMH at the time of writing.",
+      "_added_at": "2026-06-29T17:58:25.107555+00:00"
+    },
+    {
       "headline": "China Emerges as a Relative Winner From Strait of Hormuz Crisis",
       "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
       "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
@@ -367,107 +596,6 @@
       "_summary": "Bartender Rafaella Demelo adds sugar, 1.5 ounces of Leblon, and half a lime over ice in a shaker while preparing a caipirinha, Brazil's trademark cocktail. Alan Diaz/AP hide caption RIO DE JANEIRO, Brazil—The Trump administration's tariffs may have done what decades of diplomacy couldn't: convince Europe and South America they needed each other. For Brazil's cachaça makers, that diplomatic shift is already becoming a business opportunity. \"I think growth will be immense,\" distiller Assja Schymura of Pindorama, said. \"If we can only get over these initial barriers.\" Cachaça, Brazil's sugarcane-based liquor and the key ingredient in the country's famed cocktail, the caipirinha, has won awards in European competitions but has long struggled to break into the market. Import taxes and lack of familiarity kept it mostly a niche export. Producers now see a chance to change that.",
       "_zh_headline": "贸易紧张局势动摇了巴西的凯匹林纳精神",
       "_zh_summary": "调酒师 Rafaella Demelo 在调制巴西标志性鸡尾酒凯匹林纳鸡尾酒时，将糖、1.5 盎司 Leblon 和半个青柠放入摇酒壶中加冰块。艾伦·迪亚兹/美联社隐藏标题巴西里约热内卢——特朗普政府的关税可能做到了数十年外交无法做到的事情：让欧洲和南美洲相信他们彼此需要。对于巴西的卡莎萨生产商来说，这种外交转变已经成为一个商机。 Pindorama 的酿酒师 Assja Schymura 表示：“我认为增长将是巨大的。” “如果我们能够克服这些最初的障碍就好了。” Cachaça 是巴西以甘蔗为原料的酒，也是该国著名鸡尾酒凯匹林纳鸡尾酒的主要成分，它曾在欧洲比赛中获奖，但长期以来一直难以打入市场。进口税和缺乏熟悉度使其主要成为利基出口产品。制片人现在看到了改变这种状况的机会。",
-      "_added_at": "2026-06-29T05:13:51.895084+00:00"
-    },
-    {
-      "author": "Benzinga Weekend Correspondent",
-      "content": "",
-      "created_at": "2026-06-28T13:46:27Z",
-      "headline": "BIS Flags Rising Global Risks as Middle East Conflict, Oil Losses and AI‑Investment Boom Collide",
-      "id": 60146964,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/GLobe.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/GLobe.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/GLobe.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The global economy has displayed “surprising resilience” despite the Middle East conflict and tariffs, driven partly by artificial intelligence-related investments. ",
-      "symbols": [],
-      "updated_at": "2026-06-28T13:57:36Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60146964/bis-flags-rising-global-risks-as-middle-east-conflict-oil-losses-and-ai%e2%80%91investment-boom-collide",
-      "_summary": "The global economy has displayed \"surprising resilience\" despite the Middle East conflict and tariffs, driven partly by artificial intelligence-related investments. That fortitude may be under threat, the Bank for International Settlements (BIS) said in its annual report on Sunday. \"The global economy remains caught in the crosscurrents of progress and peril,\" the BIS said. \"The perils have grown with pressure points around risks of persistent inflation, the sustainability of AI-related investments, growing financial vulnerabilities and weakening fiscal positions.\" The energy shock due to the war in the Middle East has accelerated inflation and slowed global economic growth. Prices in the US rose to a three-year high of 4.2% in May. The energy index increased 23.5% for the 12 months ending May. That inflation shock has already forced institutions to reassess the outlook.",
-      "_zh_headline": "国际清算银行指出，中东冲突、石油损失和人工智能投资热潮相互碰撞，全球风险不断上升",
-      "_zh_summary": "尽管存在中东冲突和关税，全球经济仍表现出“惊人的弹性”，部分原因是人工智能相关投资。国际清算银行（BIS）在周日的年度报告中表示，这种毅力可能受到威胁。国际清算银行表示：“全球经济仍然陷入进步与危险的矛盾之中。” “随着持续通胀风险、人工智能相关投资的可持续性、金融脆弱性加剧和财政状况疲软等压力点，危险也在增加。”中东战争造成的能源冲击加速了通货膨胀，减缓了全球经济增长。 5 月份美国物价上涨 4.2%，创三年新高。截至 5 月份的 12 个月内，能源指数上涨了 23.5%。通胀冲击已经迫使机构重新评估前景。",
-      "_added_at": "2026-06-29T05:13:51.895084+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-28T18:51:03Z",
-      "headline": "Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
-      "id": 60147235,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Bull.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Bull.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Bull.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The top S&amp;P 500 Index stocks to watch this week include popular names like Nike, Micron and Amazon.",
-      "symbols": [
-        "AAPL",
-        "ADBE",
-        "AMZN",
-        "MU",
-        "NKE"
-      ],
-      "updated_at": "2026-06-28T18:51:03Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60147235/top-three-sp-500-stocks-to-watch-this-week-nike-micron-amazon",
-      "_summary": "Nike will be one of the key S&P 500 Index stocks to watch this week as it publishes its earnings. These numbers come at a time when its stock has plummeted by 77% from its highest point in 2021. It has dropped to its lowest level since 2014, making it one of the top laggards. Nike’s earnings will, therefore, provide more information on whether the management’s turnaround strategy is working.",
-      "_zh_headline": "本周最值得关注的三只标准普尔 500 股票：耐克、美光、亚马逊",
-      "_zh_summary": "耐克将成为本周发布财报时值得关注的标准普尔 500 指数主要股票之一。这些数字是在其股价从 2021 年的最高点暴跌 77% 之际发布的。该公司已跌至 2014 年以来的最低水平，使其成为最落后的股票之一。因此，耐克的财报将提供更多关于管理层的扭亏为盈策略是否有效的信息。",
-      "_added_at": "2026-06-29T05:13:51.895084+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-06-28T19:16:03Z",
-      "headline": "Dow Jones and Nasdaq 100: Top 4 Events Investors Should Watch This Week",
-      "id": 60147274,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/28/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Here are the top four key catalysts that will drive the Dow Jones and Nasdaq 100 indices this week, including the US NFP data and Nike earnings",
-      "symbols": [
-        "JPM",
-        "MU",
-        "NKE",
-        "SPCX"
-      ],
-      "updated_at": "2026-06-28T19:16:04Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/06/60147274/dow-jones-and-nasdaq-100-top-4-events-investors-should-watch-this-week",
-      "_summary": "The Dow Jones and Nasdaq 100 indices have lost momentum in recent days as stock market volatility has picked up. The tech-heavy Nasdaq 100 Index slipped to 29,118 on Friday from its record high of 30,750, while the Dow Jones Industrial Average retreated from 52,650 to 51,880. Investors are now turning their attention to four key events that are likely to shape the direction of U.S. stocks this week.",
-      "_zh_headline": "道琼斯指数和纳斯达克 100 指数：投资者本周应关注的 4 大事件",
-      "_zh_summary": "随着股市波动加剧，道琼斯指数和纳斯达克 100 指数最近几天失去了动力。以科技股为主的纳斯达克 100 指数周五从 30,750 点的历史高点下滑至 29,118 点，而道琼斯工业平均指数则从 52,650 点回落至 51,880 点。投资者现在将注意力转向可能影响本周美国股市走向的四个关键事件。",
       "_added_at": "2026-06-29T05:13:51.895084+00:00"
     }
   ]
