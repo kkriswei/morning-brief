@@ -2,6 +2,30 @@
   "date": "2026-06-29",
   "articles": [
     {
+      "headline": "Supreme Court Expands Trump’s Power to Fire Officials but Prevents Lisa Cook Removal",
+      "summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.",
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T22:04:36+00:00",
+      "_summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.",
+      "_zh_headline": "最高法院扩大特朗普解雇官员的权力，但阻止丽莎·库克被免职",
+      "_zh_summary": "在两项裁决中，最高法院确认了美联储的独立性，并表示不能随意解雇美联储领导人，但表示特朗普总统可以以任何理由解雇其他独立监管机构。",
+      "_added_at": "2026-06-29T23:35:06.269379+00:00"
+    },
+    {
+      "headline": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
+      "summary": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.",
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T22:18:19+00:00",
+      "_summary": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.",
+      "_zh_headline": "最高法院裁决后，特朗普再次威胁解雇美联储理事丽莎·库克",
+      "_zh_summary": "特朗普总统承诺对他试图解雇的美联储理事丽莎·库克“立即采取适当行动”，尽管法院确认美联储官员只能因故被解雇。",
+      "_added_at": "2026-06-29T23:35:06.269379+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-06-29T21:21:18Z",
@@ -528,86 +552,6 @@
       "_summary": "While acknowledging that artificial intelligence is a “dazzlingly important idea” that will fundamentally change human life, Grantham argued that the technology is repeating a historical pattern of speculative excess. Major inventions, including railroads and the early internet, have always triggered immense psychological hype, leading to severely overvalued markets . “We all want to put our money in it… and it sucks in more than you can shake a stick at and you get overinvestment,” Grantham told CNBC.",
       "_zh_headline": "Nvidia 会追随亚马逊的互联网之路吗？杰里米·格兰瑟姆警告科技股将出现残酷逆转",
       "_zh_summary": "格兰瑟姆承认人工智能是一个“极其重要的想法”，将从根本上改变人类的生活，但他认为这项技术正在重复过度投机的历史模式。包括铁路和早期互联网在内的重大发明总是引发巨大的心理炒作，导致市场价值严重高估。格兰瑟姆对 CNBC 表示：“我们都想把钱投入其中……但它的吸纳量超出了你的能力，导致投资过度。”",
-      "_added_at": "2026-06-29T10:09:38.775947+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-29T09:11:20Z",
-      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Admin Says US, Iran Will 'Stand Down'—Verizon, HP, Universe Pharmaceuticals In Focus",
-      "id": 60149448,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures rose on Monday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices rose, following Friday&#39;s mixed close.",
-      "symbols": [
-        "BTCUSD",
-        "GIS",
-        "HPQ",
-        "NKE",
-        "QCOM",
-        "QQQ",
-        "SPY",
-        "STZ",
-        "UPC",
-        "VRDN",
-        "VZ"
-      ],
-      "updated_at": "2026-06-29T09:11:20Z",
-      "url": "https://www.benzinga.com/markets/equities/26/06/60149448/stock-market-today-dow-jones-sp-500-futures-gain-as-trump-admin-says-us-iran-will-stand-down-verizon-hp-universe-pharmaceuticals-in-focus",
-      "_summary": "U.S. stock futures rose on Monday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Friday’s mixed close. Late Sunday, the Donald Trump administration announced that both the U.S. and Iran will \" stand down for now ,\" allowing commercial vessels to once again move freely through the critical Strait of Hormuz shipping corridor.",
-      "_zh_headline": "今日股市：特朗普政府称美国、伊朗将“停摆”，道琼斯、标准普尔 500 指数期货上涨——焦点集中在威瑞森、惠普、Universe Pharmaceuticals",
-      "_zh_summary": "周五收盘涨跌互现后，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数周一上涨，美国股指期货上涨。周日晚间，唐纳德·特朗普政府宣布美国和伊朗将“暂时停止”，允许商船再次自由通过关键的霍尔木兹海峡航运走廊。",
-      "_added_at": "2026-06-29T10:09:38.775947+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-06-29T05:48:47Z",
-      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
-      "id": 60148258,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Polymarket odds for a June 29 S&amp;P 500 up open hit 86% as Trump officials report a U.S.-Iran de-escalation ahead of Tuesday&#39;s Doha summit.",
-      "symbols": [
-        "AAPL",
-        "GIS",
-        "MSFT",
-        "MU",
-        "NKE",
-        "POLUSD",
-        "STZ"
-      ],
-      "updated_at": "2026-06-29T05:48:47Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60148258/stock-market-will-sp-500-open-up-or-down-today-5",
-      "_summary": "Late Sunday, the Donald Trump administration announced that both the U.S. and Iran will “ stand down for now ,” allowing commercial vessels to once again move freely through the critical Strait of Hormuz shipping corridor. Furthermore, technical implementation talks regarding the initial peace memorandum remain “on track,” with a high-level diplomatic summit officially scheduled for Tuesday in Doha , Qatar. This geopolitical breather is breathing life back into index futures ahead of the opening bell:",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "周日晚间，唐纳德·特朗普政府宣布美国和伊朗将“暂时停止”，允许商船再次自由通过关键的霍尔木兹海峡航运走廊。此外，有关初步和平备忘录的技术实施谈判仍“按计划进行”，高级别外交峰会正式定于周二在卡塔尔多哈举行。这种地缘政治的喘息正在开盘前为股指期货注入活力：",
       "_added_at": "2026-06-29T10:09:38.775947+00:00"
     }
   ]
