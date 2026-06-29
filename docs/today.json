@@ -2,6 +2,107 @@
   "date": "2026-06-29",
   "articles": [
     {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-06-29T21:21:18Z",
+      "headline": "Prudent Investors Pay Attention To News From Korea; Buying On Talks From Iran After Strikes",
+      "id": 60175404,
+      "images": [],
+      "source": "benzinga",
+      "summary": "\n\n\n\n\n\n\n\nLeading Indicator\n\n\n\nPlease click here for an enlarged chart of Applied Materials Inc (NASDAQ:AMAT).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of AMAT",
+      "symbols": [
+        "AAPL",
+        "AMAT",
+        "AMZN",
+        "BTCUSD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-06-29T21:22:34Z",
+      "url": "https://www.benzinga.com/Opinion/26/06/60175404/prudent-investors-pay-attention-to-news-from-korea-buying-on-talks-from-iran-after-strikes",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Apple Inc (NASDAQ: AAPL ) .",
+      "_zh_headline": "谨慎投资者关注韩国消息；袭击后从伊朗谈判中买入",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，苹果公司（纳斯达克股票代码：AAPL）的资金流向呈中性。",
+      "_added_at": "2026-06-29T21:54:49.477008+00:00"
+    },
+    {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-06-29T21:46:33Z",
+      "headline": "BlackRock Flags Big AI Trade Beyond Nvidia, AMD, Micron",
+      "id": 60175793,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Energy-Shutterstock.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Energy-Shutterstock.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Energy-Shutterstock.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The next leg of the AI economy may focus on energy security, favoring infrastructure and critical bottlenecks.",
+      "symbols": [
+        "AMD",
+        "ETN",
+        "GEV",
+        "MU",
+        "NVDA",
+        "VST"
+      ],
+      "updated_at": "2026-06-29T21:46:33Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60175793/blackrock-flags-big-ai-trade-beyond-nvidia-amd-micron",
+      "_summary": "GPUs, high-bandwidth memory and the silicon supply chain kept the machine going. • GE Vernova stock is showing upward bias. What’s ahead for GEV stock? But the next leg of the AI economy may be less about what makes the machine bigger and more about what makes it alive. Electricity, power equipment, grid connections, turbines, transformers… the unglamorous yet essential business of getting electrons to data centers on time.",
+      "_zh_headline": "贝莱德 (BlackRock) 标记人工智能贸易规模超越 Nvidia、AMD、Micron",
+      "_zh_summary": "GPU、高带宽内存和硅供应链使机器保持运转。 • GE Vernova 股票呈现上涨倾向。 GEV 股票的前景如何？但人工智能经济的下一步可能不再是让机器变得更大，而是让机器变得活跃。电力、电力设备、电网连接、涡轮机、变压器……将电子按时输送到数据中心的不起眼但必不可少的业务。",
+      "_added_at": "2026-06-29T21:54:49.477008+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-29T20:47:23Z",
+      "headline": "4 Gold ETFs That Could Regain Momentum As Goldman Sachs Sees $900 Upside For 2026",
+      "id": 60174517,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Goldman Sachs says gold&#39;s rally isn&#39;t over despite recent weakness. Here&#39;s why gold ETFs could regain momentum as the gold price forecast remains bullish.",
+      "symbols": [
+        "GLD",
+        "GLDM",
+        "IAU",
+        "SGOL"
+      ],
+      "updated_at": "2026-06-29T20:47:23Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60174517/4-gold-etfs-that-could-regain-momentum-as-goldman-sachs-sees-900-upside-for-2026",
+      "_summary": "Gold prices have stumbled over the past four months, but Goldman Sachs believes the pullback is unlikely to mark the end of the precious metal’s rally, a view that could reignite interest in gold-backed ETFs if the investment bank’s forecast plays out. The firm argues that both structural and cyclical drivers remain intact, even as the potential for higher interest rates has temporarily weighed on investor demand for gold and gold-backed ETFs.",
+      "_zh_headline": "高盛预计 2026 年 4 只黄金 ETF 有望重获 900 美元的上涨空间",
+      "_zh_summary": "过去四个月金价大幅下跌，但高盛认为，此次回调不太可能标志着贵金属涨势的结束，如果该投行的预测成真，这一观点可能会重新激发人们对黄金支持的 ETF 的兴趣。该公司认为，尽管利率上升的可能性暂时影响了投资者对黄金和黄金支持的 ETF 的需求，但结构性和周期性驱动因素仍然完好无损。",
+      "_added_at": "2026-06-29T21:54:49.477008+00:00"
+    },
+    {
       "headline": "Supreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States",
       "summary": "The Supreme Court ruled on Monday that state laws allowing ballots to arrive after Election Day are legal. The decision is the latest in a series of setbacks for President Trump’s efforts to regulate elections.",
       "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html",
@@ -508,101 +609,6 @@
       "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
       "_zh_summary": "周日晚间，唐纳德·特朗普政府宣布美国和伊朗将“暂时停止”，允许商船再次自由通过关键的霍尔木兹海峡航运走廊。此外，有关初步和平备忘录的技术实施谈判仍“按计划进行”，高级别外交峰会正式定于周二在卡塔尔多哈举行。这种地缘政治的喘息正在开盘前为股指期货注入活力：",
       "_added_at": "2026-06-29T10:09:38.775947+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-06-29T05:26:31Z",
-      "headline": "Apple's Reported Push To Buy Chinese Memory Chips Isn't About Lower Prices, It's About Surviving A Worsening AI-Driven Supply Crunch, Says Analyst",
-      "id": 60148183,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Cupertino--California--September-25--202.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Cupertino--California--September-25--202.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Cupertino--California--September-25--202.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Analyst Ming-Chi Kuo says Apple&#39;s reported CXMT push is driven by AI-fueled memory shortages, not lower chip costs.",
-      "symbols": [
-        "AAPL",
-        "MU"
-      ],
-      "updated_at": "2026-06-29T05:26:31Z",
-      "url": "https://www.benzinga.com/markets/tech/26/06/60148183/analyst-says-apples-reported-push-to-buy-chinese-memory-chips-is-about-surviving-the-ai-supply-crunch",
-      "_summary": "In a post on Sunday, Kuo said the “memory supply-demand gap will keep widening through 2027,” arguing that this is the real reason Apple is lobbying the Donald Trump administration to keep ChangXin Memory Technologies (CXMT) off the U.S. Entity List.",
-      "_zh_headline": "分析师称，苹果公司推动购买中国存储芯片并不是为了降低价格，而是为了应对日益恶化的人工智能驱动的供应短缺",
-      "_zh_summary": "郭明池在周日的一篇文章中表示，“到 2027 年，内存供需缺口将继续扩大”，他认为这就是苹果游说唐纳德·特朗普政府将长鑫内存技术公司 (CXMT) 从美国实体名单中剔除的真正原因。",
-      "_added_at": "2026-06-29T10:09:38.775947+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-29T09:58:41Z",
-      "headline": "Exploring The Competitive Space: Micron Technology Versus Industry Peers In Semiconductors &amp; Semiconductor Equipment",
-      "id": 60149774,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "In the dynamic and fiercely competitive business environment, conducting a thorough analysis of companies is crucial for investors and industry enthusiasts. In this article, we will perform an extensive industry",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-29T09:58:41Z",
-      "url": "https://www.benzinga.com/news/26/06/60149774/exploring-competitive-space-micron-technology-versus-industry-peers-semiconductors-amp-semiconductor",
-      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
-      "_zh_headline": "探索竞争空间：美光技术与半导体和半导体设备领域的同行",
-      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
-      "_added_at": "2026-06-29T10:09:38.775947+00:00"
-    },
-    {
-      "author": "Shomik Sen Bhattacharjee",
-      "content": "",
-      "created_at": "2026-06-29T02:16:47Z",
-      "headline": "Nikki Haley Wants Trump Administration To Continue Sanctioning Iran As Fragile Ceasefire Faces New Tests: 'Keep The Pressure On' (CORRECTED)",
-      "id": 60147875,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Nikki-Haley-Speaks-On-The-2nd-Day-Of-Cpa.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Nikki-Haley-Speaks-On-The-2nd-Day-Of-Cpa.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/Nikki-Haley-Speaks-On-The-2nd-Day-Of-Cpa.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Former US Ambassador Nikki Haley urges keeping strict sanctions on Iran, pressuring China and Russia to stop support.",
-      "symbols": [],
-      "updated_at": "2026-06-29T02:51:49Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60147875/nikki-haley-urges-trump-administration-to-keep-sanctions-on-iran-as-fragile-ceasefire-faces-new-tests",
-      "_summary": "Editor’s Note: The headline has been corrected to fix a typographical error. Former U.S. Ambassador to the United Nations Nikki Haley urged the Trump administration to keep strict sanctions on Iran, refuse to unfreeze Iranian assets and pressure China and Russia to stop buying Iranian oil and supplying equipment to Tehran, arguing that Washington should starve the regime of money rather than ease up after a fragile ceasefire. \"Keep the sanctions on Iran. Don’t unfreeze their assets. Put the pressure on China and Russia to stop buying oil and supplying Iran with equipment,\" Haley wrote Sunday on X. \"The administration did the bulk of the work. Reversing the progress that was made is a waste. Keep the pressure on and have the gulf states support that pressure. You have to stop their ability to get any money,\" she added.",
-      "_zh_headline": "尼基·黑利希望特朗普政府继续制裁伊朗，因为脆弱的停火面临新的考验：“继续施加压力”（已更正）",
-      "_zh_summary": "编者注：标题已更正，以修复印刷错误。美国前驻联合国大使妮基·黑利敦促特朗普政府继续对伊朗实施严格制裁，拒绝解冻伊朗资产，并向中国和俄罗斯施压，停止购买伊朗石油和向德黑兰供应设备，她认为华盛顿应该让伊朗政权陷入资金匮乏，而不是在脆弱的停火后放松警惕。黑利周日在X上写道：“继续对伊朗实施制裁。不要解冻他们的资产。向中国和俄罗斯施加压力，要求他们停止购买石油和向伊朗提供设备。政府已经完成了大部分工作。扭转已经取得的进展是一种浪费。继续施加压力，并让海湾国家支持这种压力。你必须阻止他们获得任何资金的能力。”",
-      "_added_at": "2026-06-29T05:13:51.895084+00:00"
     }
   ]
 }
