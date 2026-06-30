@@ -2,6 +2,78 @@
   "date": "2026-06-30",
   "articles": [
     {
+      "headline": "Supreme Court Expands Trump’s Power to Fire Officials but Prevents Lisa Cook Removal",
+      "summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.",
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-29T22:04:36+00:00",
+      "_summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.",
+      "_zh_headline": "最高法院扩大特朗普解雇官员的权力，但阻止丽莎·库克被免职",
+      "_zh_summary": "在两项裁决中，最高法院确认了美联储的独立性，并表示不能随意解雇美联储领导人，但表示特朗普总统可以以任何理由解雇其他独立监管机构。",
+      "_added_at": "2026-06-30T08:42:17.328075+00:00"
+    },
+    {
+      "author": "Badar Shaikh",
+      "content": "",
+      "created_at": "2026-06-30T07:32:42Z",
+      "headline": "Gavin Newsom Defends California Gas Tax, Blames 'GOP-Enabled Iran War' For $63 Billion In Higher Fuel Costs",
+      "id": 60178194,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gavin Newsom criticizes Trump administration for profiting off high gas prices, defends California&#39;s gas tax.",
+      "symbols": [],
+      "updated_at": "2026-06-30T07:32:42Z",
+      "url": "https://www.benzinga.com/news/politics/26/06/60178194/gavin-newsom-defends-california-gas-tax-blames-gop-enabled-iran-war-for-63-billion-in-higher-fuel-costs",
+      "_summary": "Gov. Gavin Newsom (D-CA) on Monday slammed the Donald Trump administration as the situation in the Middle East with Iran remains uncertain and gas prices continue to fluctuate. In a post on X , Newsom’s Press Office handle shared a screenshot of Trump directing oil companies to reduce prices at the pump. “REMINDER of what Trump said on March 12: ‘When oil prices go up, we make a lot of money’,” Newsom’s Press Office said. In a separate post, Newsom fended off criticism of California’s gas tax, quoting a post by Rep. Vince Fong (R-CA), who accused Newsom of causing California residents to pay $2 more than the national average price for a gallon of gas. “55% of the cost of our gas already comes from state imposed taxes and mandates. And now, Newsom wants to raise taxes even more,” Fong said. The Press Office, in turn, slammed the GOP lawmaker.",
+      "_zh_headline": "加文·纽瑟姆 (Gavin Newsom) 捍卫加州汽油税，将 630 亿美元的燃油成本上涨归咎于“共和党促成的伊朗战争”",
+      "_zh_summary": "加州州长加文·纽瑟姆 (Gavin Newsom) 周一猛烈抨击唐纳德·特朗普政府，因为中东与伊朗的局势仍然不确定，天然气价格持续波动。在 X 上的一篇帖子中，纽瑟姆的新闻办公室负责人分享了特朗普指示石油公司降低加油站价格的屏幕截图。纽瑟姆新闻办公室表示：“谨记特朗普 3 月 12 日所说的话：‘当油价上涨时，我们会赚很多钱’。”在另一篇帖子中，纽森驳斥了对加州汽油税的批评，引用了众议员文斯·方 (R-CA) 的帖子，后者指责纽森导致加州居民为每加仑汽油支付的费用比全国平均价格高出 2 美元。 “我们天然气成本的 55% 已经来自州征收的税收和指令。现在，纽瑟姆希望进一步提高税收，”Fong 说。新闻办公室反过来猛烈抨击了这位共和党议员。",
+      "_added_at": "2026-06-30T08:42:17.328075+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-06-30T02:54:07Z",
+      "headline": "Trump Can't Fire Lisa Cook For Now, Rules Supreme Court: Fed Governor Says, 'Refused To Bow To Political Pressure'",
+      "id": 60177023,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Washington-D-c---Usa---February-4--2025-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Washington-D-c---Usa---February-4--2025-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Washington-D-c---Usa---February-4--2025-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The U.S. Supreme Court on Monday rejected President Donald Trump&#39;s bid to remove Fed Governor Lisa Cook for now.",
+      "symbols": [],
+      "updated_at": "2026-06-30T02:54:07Z",
+      "url": "https://www.benzinga.com/news/legal/26/06/60177023/supreme-court-says-trump-cant-fire-fed-governor-lisa-cook-for-now",
+      "_summary": "The U.S. Supreme Court on Monday rejected President Donald Trump ‘s bid to fire Federal Reserve Governor Lisa Cook from the Fed’s Board of Governors. In a 5-4 ruling, the court said Trump had not followed the procedures required under federal law to remove Cook from the Fed’s board, according to a Reuters News report. Chief Justice John Roberts , who authored the ruling, said Trump had “failed to afford Cook the procedural protections to which she was entitled by statute.” The dispute stems from Trump’s August 2025 attempt to remove Cook over alleged mortgage fraud, which she denies. The ruling returns the case to lower courts, where Cook can challenge the allegations.",
+      "_zh_headline": "最高法院裁定特朗普暂时不能解雇丽莎·库克：美联储理事称“拒绝屈服于政治压力”",
+      "_zh_summary": "美国最高法院周一驳回了唐纳德·特朗普总统将美联储理事丽莎·库克从美联储理事会解雇的提议。据路透社报道，法院以 5 比 4 的裁决称，特朗普没有遵循联邦法律规定的程序将库克从美联储董事会中除名。起草该裁决的首席大法官约翰·罗伯茨表示，特朗普“未能向库克提供法律赋予她的程序保护”。这场纠纷源于特朗普于 2025 年 8 月试图因涉嫌抵押贷款欺诈而罢免库克，但她否认了这一点。该裁决将案件发回下级法院，库克可以对这些指控提出质疑。",
+      "_added_at": "2026-06-30T08:42:17.328075+00:00"
+    },
+    {
       "headline": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
       "summary": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.",
       "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
