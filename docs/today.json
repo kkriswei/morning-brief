@@ -2,6 +2,204 @@
   "date": "2026-06-30",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-30T17:26:06Z",
+      "headline": "AI Chips Power Wall Street Higher, Dow Eyes Records: Stock Market Today",
+      "id": 60196958,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Rally-tops-amid-skepticism.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Rally-tops-amid-skepticism.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Rally-tops-amid-skepticism.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tech and semis lead the S&amp;P 500 and Nasdaq higher into quarter-end",
+      "symbols": [
+        "ALAB",
+        "AMAT",
+        "APD",
+        "AVAV",
+        "BTCUSD",
+        "COIN",
+        "CRCL",
+        "CRDO",
+        "DIA",
+        "FIG",
+        "FIGR",
+        "GLD",
+        "GMED",
+        "IWM",
+        "MA",
+        "MSTR",
+        "NKE",
+        "ONTO",
+        "QQQ",
+        "SMH",
+        "UWMC",
+        "V",
+        "VOO",
+        "XLK",
+        "XLRE",
+        "XLV",
+        "ZBH"
+      ],
+      "updated_at": "2026-06-30T17:26:06Z",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60196958/ai-chip-rally-nasdaq-100-dow-jones-markets-tuesday-wall-street-news-today",
+      "_summary": "U.S. stocks pushed higher into the last session of the first half, with technology and semiconductor names extending Monday’s surge. • AeroVironment stock is charging ahead with explosive momentum. What’s fueling AVAV momentum? The tech-heavy Nasdaq 100 climbed 1.4%, well ahead of the S&P 500 , which advanced 0.7% to build on Monday’s close of 7,440.43. The CBOE Volatility Index slid 5.2%, signaling a calmer tone as the war premium continued to fade.",
+      "_zh_headline": "人工智能芯片推动华尔街走高，道琼斯指数创下历史新高：今日股市",
+      "_zh_summary": "美国股市在上半年最后一个交易日走高，其中科技股和半导体股延续了周一的涨势。 • AeroVironment 股票正以爆炸性势头向前发展。是什么推动了 AVAV 的发展？以科技股为主的纳斯达克 100 指数上涨 1.4%，远远领先于标准普尔 500 指数，后者上涨 0.7%，周一收盘于 7,440.43 点。 CBOE 波动率指数下跌 5.2%，表明随着战争溢价继续消退，基调趋于平静。",
+      "_added_at": "2026-06-30T19:20:28.884551+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-30T18:15:23Z",
+      "headline": "Look Closer At SPY, QQQ: Investors Are Rigging A Safety Net Under The Stock Market",
+      "id": 60198973,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/vix-ai.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/vix-ai.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/vix-ai.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The stock market looks stable, but the plumbing tells a different story. Here&#39;s how investors are quietly using ETF options to build a hidden safety net.",
+      "symbols": [
+        "HELO",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-06-30T18:15:23Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/60198973/spy-qqq-investors-safety-net-under-stock-market",
+      "_summary": "To the casual observer checking a retail brokerage app, the stock market looks completely normal. Following a brief semiconductor-led shakeup, major indices have crawled right back to their highs. Headline volatility feels deceptively calm, with the spot CBOE Volatility Index (VIX) sitting at a quiet 17.65. But look closer at the derivatives architecture of the biggest ETFs , and you’ll see a strange disconnect.",
+      "_zh_headline": "细看SPY、QQQ：投资者正在股市下筑起安全网",
+      "_zh_summary": "对于检查零售经纪应用程序的漫不经心的观察者来说，股市看起来完全正常。在半导体主导的短暂震荡之后，主要股指已回升至高点。总体波动性看似平静，现货 CBOE 波动性指数 (VIX) 处于安静的 17.65。但仔细观察最大的 ETF 的衍生品架构，你会发现一种奇怪的脱节。",
+      "_added_at": "2026-06-30T19:20:28.884551+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-06-30T17:35:35Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60197276,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "CRWD",
+        "ENPH",
+        "IREN",
+        "MSFT",
+        "MSTR",
+        "MU",
+        "NN",
+        "OKTA"
+      ],
+      "updated_at": "2026-06-30T17:35:35Z",
+      "url": "https://www.benzinga.com/markets/options/26/06/60197276/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-06-30T19:20:28.884551+00:00"
+    },
+    {
+      "author": "Evette Mitkov",
+      "content": "",
+      "created_at": "2026-06-30T18:29:38Z",
+      "headline": "Sandisk Stock Rallies Tuesday: What's Happening?",
+      "id": 60199432,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Sandisk shares are trading higher Tuesday after Bernstein boosted its outlook on the stock and issued a major price‑target increase.",
+      "symbols": [
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-06-30T18:29:38Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60199432/sandisk-stock-rallies-tuesday-whats-happening",
+      "_summary": "Bernstein analyst Mark Newman raised the price target on Sandisk to $3,000 from $1,700 and kept an Outperform rating on shares. The new target implies more than 46% upside from current levels. Newman said the firm’s recent long‑term agreements provide meaningful downside protection that investors have not fully recognized. Bernstein estimates that this structure gives Sandisk a floor price of 29 cents per gigabyte, which is significantly higher than Micron’s.",
+      "_zh_headline": "周二闪迪股票上涨：发生了什么？",
+      "_zh_summary": "Bernstein 分析师 Mark Newman 将 Sandisk 的目标股价从 1,700 美元上调至 3,000 美元，并维持优于大盘的评级。新目标意味着较当前水平有超过 46% 的上涨空间。纽曼表示，该公司最近的长期协议提供了有意义的下行保护，但投资者尚未充分认识到这一点。 Bernstein 估计，这种结构使 Sandisk 的底价为每 GB 29 美分，明显高于美光的价格。",
+      "_added_at": "2026-06-30T19:20:28.884551+00:00"
+    },
+    {
+      "author": "Henry Khederian",
+      "content": "",
+      "created_at": "2026-06-30T18:04:41Z",
+      "headline": "Marvell Technology Stock Is Climbing Tuesday: What's Driving The Move?",
+      "id": 60198600,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Marvell-Technology.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Marvell-Technology.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Marvell-Technology.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell Technology shares are climbing Tuesday afternoon as chip stocks catch a risk-on bid. The sector may be experiencing a lift in response to Susquehanna raising its forecast for wafer fab equipment spending.",
+      "symbols": [
+        "MRVL"
+      ],
+      "updated_at": "2026-06-30T18:04:41Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60198600/marvell-technology-stock-is-climbing-tuesday-whats-driving-the-move",
+      "_summary": "Here is a closer look at the key catalysts shaping Tuesday’s broader market action . The latest push higher looks driven more by improving sentiment for higher-growth semiconductors than by a single company headline, even as the stock trades near its June highs. Separately, CFO Daniel Durn recently sold 2,250 shares on June 23 at a weighted average price of $281.01 (about $632,272 total), a type of transaction that can weigh on sentiment when a stock has already run hard.",
+      "_zh_headline": "Marvell 科技股周二上涨：是什么推动了这一走势？",
+      "_zh_summary": "以下是对塑造周二更广泛市场走势的关键催化剂的仔细研究。尽管该股交易价格接近六月高点，但最新的上涨看起来更多是由于对高增长半导体的信心改善，而不是单一公司的头条新闻。另外，首席财务官 Daniel Durn 最近于 6 月 23 日以 281.01 美元的加权平均价格（总计约 632,272 美元）出售了 2,250 股股票，当股票已经大幅上涨时，这种交易可能会影响市场情绪。",
+      "_added_at": "2026-06-30T19:20:28.884551+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-06-30T17:04:36Z",
@@ -491,122 +689,6 @@
       "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
       "_zh_summary": "由于地缘政治紧张局势缓解和半导体股票反弹提振了风险偏好，标准普尔 500 指数周一上涨，Polymarket 交易员谨慎押注这一势头将持续到周二开盘。标准普尔 500 指数上涨 1.18%，收于 7,440.43 点。 Polymarket 的 6 月 30 日合约目前意味着基准指数周二开盘走高的可能性为 61%，尽管整个交易日押注仍然波动。",
       "_added_at": "2026-06-30T11:58:47.631205+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-06-30T09:58:51Z",
-      "headline": "Comparing Micron Technology With Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "id": 60179345,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_5.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_5.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_5.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "In the dynamic and fiercely competitive business environment, conducting a thorough analysis of companies is crucial for investors and industry enthusiasts. In this article, we will perform an extensive industry",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-06-30T09:58:51Z",
-      "url": "https://www.benzinga.com/news/26/06/60179345/comparing-micron-technology-industry-competitors-semiconductors-amp-semiconductor-equipment-industry",
-      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
-      "_zh_headline": "美光科技与半导体及半导体设备行业竞争对手的比较",
-      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
-      "_added_at": "2026-06-30T11:58:47.631205+00:00"
-    },
-    {
-      "headline": "Supreme Court Expands Trump’s Power to Fire Officials but Prevents Lisa Cook Removal",
-      "summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.",
-      "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-29T22:04:36+00:00",
-      "_summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.",
-      "_zh_headline": "最高法院扩大特朗普解雇官员的权力，但阻止丽莎·库克被免职",
-      "_zh_summary": "在两项裁决中，最高法院确认了美联储的独立性，并表示不能随意解雇美联储领导人，但表示特朗普总统可以以任何理由解雇其他独立监管机构。",
-      "_added_at": "2026-06-30T08:42:17.328075+00:00"
-    },
-    {
-      "author": "Badar Shaikh",
-      "content": "",
-      "created_at": "2026-06-30T07:32:42Z",
-      "headline": "Gavin Newsom Defends California Gas Tax, Blames 'GOP-Enabled Iran War' For $63 Billion In Higher Fuel Costs",
-      "id": 60178194,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gavin Newsom criticizes Trump administration for profiting off high gas prices, defends California&#39;s gas tax.",
-      "symbols": [],
-      "updated_at": "2026-06-30T07:32:42Z",
-      "url": "https://www.benzinga.com/news/politics/26/06/60178194/gavin-newsom-defends-california-gas-tax-blames-gop-enabled-iran-war-for-63-billion-in-higher-fuel-costs",
-      "_summary": "Gov. Gavin Newsom (D-CA) on Monday slammed the Donald Trump administration as the situation in the Middle East with Iran remains uncertain and gas prices continue to fluctuate. In a post on X , Newsom’s Press Office handle shared a screenshot of Trump directing oil companies to reduce prices at the pump. “REMINDER of what Trump said on March 12: ‘When oil prices go up, we make a lot of money’,” Newsom’s Press Office said. In a separate post, Newsom fended off criticism of California’s gas tax, quoting a post by Rep. Vince Fong (R-CA), who accused Newsom of causing California residents to pay $2 more than the national average price for a gallon of gas. “55% of the cost of our gas already comes from state imposed taxes and mandates. And now, Newsom wants to raise taxes even more,” Fong said. The Press Office, in turn, slammed the GOP lawmaker.",
-      "_zh_headline": "加文·纽瑟姆 (Gavin Newsom) 捍卫加州汽油税，将 630 亿美元的燃油成本上涨归咎于“共和党促成的伊朗战争”",
-      "_zh_summary": "加州州长加文·纽瑟姆 (Gavin Newsom) 周一猛烈抨击唐纳德·特朗普政府，因为中东与伊朗的局势仍然不确定，天然气价格持续波动。在 X 上的一篇帖子中，纽瑟姆的新闻办公室负责人分享了特朗普指示石油公司降低加油站价格的屏幕截图。纽瑟姆新闻办公室表示：“谨记特朗普 3 月 12 日所说的话：‘当油价上涨时，我们会赚很多钱’。”在另一篇帖子中，纽森驳斥了对加州汽油税的批评，引用了众议员文斯·方 (R-CA) 的帖子，后者指责纽森导致加州居民为每加仑汽油支付的费用比全国平均价格高出 2 美元。 “我们天然气成本的 55% 已经来自州征收的税收和指令。现在，纽瑟姆希望进一步提高税收，”Fong 说。新闻办公室反过来猛烈抨击了这位共和党议员。",
-      "_added_at": "2026-06-30T08:42:17.328075+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-06-30T02:54:07Z",
-      "headline": "Trump Can't Fire Lisa Cook For Now, Rules Supreme Court: Fed Governor Says, 'Refused To Bow To Political Pressure'",
-      "id": 60177023,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Washington-D-c---Usa---February-4--2025-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Washington-D-c---Usa---February-4--2025-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Washington-D-c---Usa---February-4--2025-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The U.S. Supreme Court on Monday rejected President Donald Trump&#39;s bid to remove Fed Governor Lisa Cook for now.",
-      "symbols": [],
-      "updated_at": "2026-06-30T02:54:07Z",
-      "url": "https://www.benzinga.com/news/legal/26/06/60177023/supreme-court-says-trump-cant-fire-fed-governor-lisa-cook-for-now",
-      "_summary": "The U.S. Supreme Court on Monday rejected President Donald Trump ‘s bid to fire Federal Reserve Governor Lisa Cook from the Fed’s Board of Governors. In a 5-4 ruling, the court said Trump had not followed the procedures required under federal law to remove Cook from the Fed’s board, according to a Reuters News report. Chief Justice John Roberts , who authored the ruling, said Trump had “failed to afford Cook the procedural protections to which she was entitled by statute.” The dispute stems from Trump’s August 2025 attempt to remove Cook over alleged mortgage fraud, which she denies. The ruling returns the case to lower courts, where Cook can challenge the allegations.",
-      "_zh_headline": "最高法院裁定特朗普暂时不能解雇丽莎·库克：美联储理事称“拒绝屈服于政治压力”",
-      "_zh_summary": "美国最高法院周一驳回了唐纳德·特朗普总统将美联储理事丽莎·库克从美联储理事会解雇的提议。据路透社报道，法院以 5 比 4 的裁决称，特朗普没有遵循联邦法律规定的程序将库克从美联储董事会中除名。起草该裁决的首席大法官约翰·罗伯茨表示，特朗普“未能向库克提供法律赋予她的程序保护”。这场纠纷源于特朗普于 2025 年 8 月试图因涉嫌抵押贷款欺诈而罢免库克，但她否认了这一点。该裁决将案件发回下级法院，库克可以对这些指控提出质疑。",
-      "_added_at": "2026-06-30T08:42:17.328075+00:00"
-    },
-    {
-      "headline": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
-      "summary": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.",
-      "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-29T22:18:20+00:00",
-      "_summary": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.",
-      "_zh_headline": "最高法院裁决后，特朗普再次威胁解雇美联储理事丽莎·库克",
-      "_zh_summary": "特朗普总统承诺对他试图解雇的美联储理事丽莎·库克“立即采取适当行动”，尽管法院确认美联储官员只能因故被解雇。",
-      "_added_at": "2026-06-30T04:46:41.361515+00:00"
     }
   ]
 }
