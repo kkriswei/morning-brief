@@ -2,6 +2,163 @@
   "date": "2026-06-30",
   "articles": [
     {
+      "headline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
+      "summary": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
+      "url": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-30T14:36:36+00:00",
+      "_summary": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
+      "_zh_headline": "最高法院取消对政党和候选人的支出限制",
+      "_zh_summary": "共和党人要求法院取消对政党与候选人协调支出的限制。",
+      "_added_at": "2026-06-30T15:13:11.271418+00:00"
+    },
+    {
+      "headline": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+      "summary": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+      "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-06-30T15:04:20+00:00",
+      "_summary": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+      "_zh_headline": "美伊战争后，据称阿曼提出霍尔木兹海峡收费计划",
+      "_zh_summary": "据知情官员和外交官透露，根据该提议，伊朗和阿曼将为通过霍尔木兹海峡的船只收取费用。",
+      "_added_at": "2026-06-30T15:13:11.271418+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-06-30T12:58:20Z",
+      "headline": "Trump Tariff Fears Spark Early Holiday Shipping Rush From China As Retailers Scramble For Inventory: Report",
+      "id": 60183964,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Wooden-Blocks-Spelling-Tariffs-Are-Place.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Wooden-Blocks-Spelling-Tariffs-Are-Place.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Wooden-Blocks-Spelling-Tariffs-Are-Place.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. retailers are rushing holiday orders from China as fears of higher Trump tariffs drive early imports.",
+      "symbols": [],
+      "updated_at": "2026-06-30T12:58:20Z",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/06/60183964/trump-tariff-fears-spark-early-holiday-shipping-rush-from-china-as-retailers-scramble-for-inventory-report",
+      "_summary": "In a bid to secure inventories for the upcoming holiday season, U.S. retailers are expediting their orders from China. This move comes in light of the potential tariff hikes expected later this year, as per shipping executives. Retailers are advancing their orders by four to six weeks to gear up for Black Friday and Christmas sales amid the uncertainty that ensued following U.S. President Donald Trump ‘s recent visit to China, Reuters reported on Tuesday. “There is an expectation that tariffs could be raised again, or restored to previous levels, so everyone is rushing to get goods in before that happens,” Tony Men g, a senior sales manager based in China at shipping firm XPD Global told the publication. Shipping companies said order volumes, which typically peak in July through September, exceeded expectations in May and June, driving a surge in freight rates. The frontloading could sustain the 35% jump in U.S.",
+      "_zh_headline": "报告称，对特朗普关税的担忧引发了来自中国的提前假期运输潮，零售商争先恐后地抢库存",
+      "_zh_summary": "为了确保即将到来的假日季节的库存，美国零售商正在加快从中国发出的订单。航运高管表示，此举是考虑到今年晚些时候关税可能上调。据路透社周二报道，由于美国总统唐纳德·特朗普最近访问中国带来的不确定性，零售商将订单提前四到六周，为黑色星期五和圣诞节销售做好准备。航运公司 XPD Global 驻中国的高级销售经理托尼·门 (Tony Men g) 告诉该刊物：“人们预计关税可能会再次提高，或恢复到之前的水平，因此每个人都在争先恐后地进货。”航运公司表示，订单量通常在 7 月至 9 月达到峰值，5 月和 6 月超出预期，推动运费飙升。提前装载可以维持美国 35% 的增长。",
+      "_added_at": "2026-06-30T15:13:11.271418+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-06-30T14:50:39Z",
+      "headline": "Forget Nvidia: Kerrisdale Says This Under-The-Radar AI Stock Could Rally 100% Or More",
+      "id": 60190231,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/AI--artificial-intelligence.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/AI--artificial-intelligence.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/AI--artificial-intelligence.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Kerrisdale Capital says Regal Rexnord is an overlooked AI infrastructure stock with growing exposure to data centers and robotics, and sees more than 100% upside.",
+      "symbols": [
+        "AVGO",
+        "MU",
+        "NVDA",
+        "RRX"
+      ],
+      "updated_at": "2026-06-30T14:50:39Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60190231/forget-nvidia-kerrisdale-says-this-under-the-radar-ai-stock-could-rally-100-or-more",
+      "_summary": "Kerrisdale Capital believes investors may be overlooking another AI beneficiary: Regal Rexnord Corp. (NYSE: RRX ) . In a new investment note, the activist investment firm argues the industrial manufacturer has quietly evolved into an AI infrastructure play through its growing exposure to data centers, robotics, industrial automation and aerospace, yet continues to trade at a significant discount to peers. That disconnect, Kerrisdale says, could send the stock more than 100% higher.",
+      "_zh_headline": "忘记 Nvidia：Kerrisdale 表示这只不为人所知的 AI 股票可能会上涨 100% 或更多",
+      "_zh_summary": "Kerrisdale Capital 认为投资者可能忽视了另一个人工智能受益者：Regal Rexnord Corp.（纽约证券交易所股票代码：RRX）。在一份新的投资报告中，这家激进投资公司认为，通过不断增加对数据中心、机器人、工业自动化和航空航天的投资，这家工业制造商已悄然演变成人工智能基础设施公司，但其交易价格仍较同行大幅折扣。 Kerrisdale 表示，这种脱节可能会让该股上涨 100% 以上。",
+      "_added_at": "2026-06-30T15:13:11.271418+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-06-30T14:45:01Z",
+      "headline": "Micron’s Record Stock Rally Looks Tame Next To This 520% AI Chip Winner",
+      "id": 60189927,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Micron-Technology-Office-Campus-In-Silic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Micron-Technology-Office-Campus-In-Silic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Micron-Technology-Office-Campus-In-Silic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron has surged 301% this year, but MaxLinear is up more than 520% as AI demand expands from memory into optical networking and connectivity chips.",
+      "symbols": [
+        "MU",
+        "MXL",
+        "NVDA"
+      ],
+      "updated_at": "2026-06-30T14:45:01Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60189927/micron-mu-record-stock-rally-looks-tame-next-to-maxlinear",
+      "_summary": "But one lesser-known semiconductor stock has quietly done even better. The reason isn’t another memory boom. It’s the next layer of AI infrastructure. While Micron has benefited from soaring demand for HBM used in AI accelerators, MaxLinear has emerged as one of the biggest beneficiaries of another fast-growing market: high-speed optical connectivity. The company’s first-quarter results marked a turning point.",
+      "_zh_headline": "美光创纪录的股价上涨与这位 520% AI 芯片赢家相比显得平淡",
+      "_zh_summary": "但一只鲜为人知的半导体股票却悄然表现得更好。原因并不是另一次内存繁荣。这是人工智能基础设施的下一层。虽然美光受益于人工智能加速器中使用的 HBM 需求飙升，但 MaxLinear 已成为另一个快速增长市场的最大受益者之一：高速光连接。该公司第一季度业绩标志着一个转折点。",
+      "_added_at": "2026-06-30T15:13:11.271418+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-06-30T14:04:37Z",
+      "headline": "Micron, Samsung and SK Hynix Face Antitrust Lawsuit: What Investors Should Know",
+      "id": 60187711,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Judge-Gavel--Scales-Of-Justice-And-Law-B.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Judge-Gavel--Scales-Of-Justice-And-Law-B.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Judge-Gavel--Scales-Of-Justice-And-Law-B.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron, Samsung and SK Hynix face a new antitrust lawsuit alleging they coordinated DRAM supply cuts during the AI boom. Here&#39;s what investors should know.",
+      "symbols": [
+        "AAPL",
+        "MU",
+        "SSNLF"
+      ],
+      "updated_at": "2026-06-30T14:04:37Z",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60187711/micron-samsung-sk-hynix-sue-dram-price-fixing-memory-antitrust",
+      "_summary": "The three companies that produce nearly all of the world’s DRAM chips are once again facing antitrust allegations . Together, the three companies account for roughly 90% of global DRAM production. The complaint, “Garciaguirre v. Samsung Electronics,” alleges violations of Section 1 of the Sherman Act. According to the lawsuit, commodity DRAM prices have surged roughly 700% over the past four years. Plaintiffs seek class-action status, an injunction against the alleged conduct and treble damages.",
+      "_zh_headline": "美光、三星和 SK 海力士面临反垄断诉讼：投资者应该了解什么",
+      "_zh_summary": "生产全球几乎所有 DRAM 芯片的三家公司再次面临反垄断指控。这三大公司合计约占全球 DRAM 产量的 90%。 “加西亚吉雷诉三星电子”诉状指控三星电子违反了《谢尔曼法案》第 1 条。根据诉讼，商品 DRAM 价格在过去四年中飙升了约 700%。原告寻求集体诉讼地位、针对所指控行为的禁令和三倍赔偿。",
+      "_added_at": "2026-06-30T15:13:11.271418+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-06-30T10:49:19Z",
@@ -439,41 +596,6 @@
       "_summary": "Marvell Technology (NASDAQ: MRVL ) has outperformed the market over the past 15 years by 9.29% on an annualized basis producing an average annual return of 21.38%. Currently, Marvell Technology has a market capitalization of $241.14 billion. Buying $100 In MRVL: If an investor had bought $100 of MRVL stock 15 years ago, it would be worth $1,828.51 today based on a price of $275.65 for MRVL at the time of writing.",
       "_zh_headline": "15 年前投资 Marvell 技术的 100 美元在今天价值如此之高",
       "_zh_summary": "Marvell Technology（纳斯达克股票代码：MRVL）在过去 15 年中的年化表现优于市场 9.29%，平均年回报率为 21.38%。目前，Marvell科技的市值为2411.4亿美元。购买 100 美元的 MRVL：如果投资者 15 年前购买了 100 美元的 MRVL 股票，那么根据撰写本文时 MRVL 的价格为 275.65 美元，该股票今天的价值为 1,828.51 美元。",
-      "_added_at": "2026-06-30T04:46:41.361515+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-29T20:47:23Z",
-      "headline": "4 Gold ETFs That Could Regain Momentum As Goldman Sachs Sees $900 Upside For 2026",
-      "id": 60174517,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/29/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Goldman Sachs says gold&#39;s rally isn&#39;t over despite recent weakness. Here&#39;s why gold ETFs could regain momentum as the gold price forecast remains bullish.",
-      "symbols": [
-        "GLD",
-        "GLDM",
-        "IAU",
-        "SGOL"
-      ],
-      "updated_at": "2026-06-29T20:47:23Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60174517/4-gold-etfs-that-could-regain-momentum-as-goldman-sachs-sees-900-upside-for-2026",
-      "_summary": "Gold prices have stumbled over the past four months, but Goldman Sachs believes the pullback is unlikely to mark the end of the precious metal’s rally, a view that could reignite interest in gold-backed ETFs if the investment bank’s forecast plays out. The firm argues that both structural and cyclical drivers remain intact, even as the potential for higher interest rates has temporarily weighed on investor demand for gold and gold-backed ETFs.",
-      "_zh_headline": "高盛预计 2026 年 4 只黄金 ETF 有望重获 900 美元的上涨空间",
-      "_zh_summary": "过去四个月金价大幅下跌，但高盛认为，此次回调不太可能标志着贵金属涨势的结束，如果该投行的预测成真，这一观点可能会重新激发人们对黄金支持的 ETF 的兴趣。该公司认为，尽管利率上升的可能性暂时影响了投资者对黄金和黄金支持的 ETF 的需求，但结构性和周期性驱动因素仍然完好无损。",
       "_added_at": "2026-06-30T04:46:41.361515+00:00"
     }
   ]
