@@ -2,6 +2,44 @@
   "date": "2026-06-30",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-06-30T19:48:44Z",
+      "headline": "Prediction Market ETFs Prompt SEC Review Of Fund Rules As Innovation Accelerates",
+      "id": 60201989,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sec-Securities-And-Exchange-Commission-I.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sec-Securities-And-Exchange-Commission-I.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/Sec-Securities-And-Exchange-Commission-I.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The SEC is reviewing ETF rules as prediction market ETFs, crypto funds, and other innovative products reshape the industry&#39;s regulatory landscape.",
+      "symbols": [
+        "GLD",
+        "IBIT",
+        "JEPI",
+        "JEPQ",
+        "MSTR",
+        "NVDA",
+        "TSLA"
+      ],
+      "updated_at": "2026-06-30T19:48:44Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/60201989/prediction-market-etfs-prompt-sec-review-of-fund-rules-as-innovation-accelerates",
+      "_summary": "The U.S. Securities and Exchange Commission (SEC) is signaling what could become one of the most significant reviews of the ETF regulatory framework in years, as the rapid evolution of the $16 trillion ETF industry forces regulators to reconsider whether existing oversight tools remain adequate, according to Bloomberg .",
+      "_zh_headline": "随着创新的加速，预测市场 ETF 促使 SEC 审查基金规则",
+      "_zh_summary": "据彭博社报道，随着 16 万亿美元 ETF 行业的快速发展，迫使监管机构重新考虑现有监管工具是否足够，美国证券交易委员会 (SEC) 发出信号，称这可能成为多年来对 ETF 监管框架最重要的审查之一。",
+      "_added_at": "2026-06-30T21:15:49.653294+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-06-30T17:26:06Z",
@@ -653,41 +691,6 @@
       "_summary": "Micron Technology Inc. (NASDAQ: MU ) stock traded flat in Tuesday’s premarket session as investors paused following the stock’s extended rally. The stock remains in a strong long-term uptrend. Nasdaq futures were up less than 0.5%, while S&P 500 futures gained 0.09%. Micron remained in focus as investors assessed the long-term outlook for AI memory demand, Chinese competition and valuation. Chinese memory suppliers do not appear to pose an immediate threat to Micron, even as Apple Inc.",
       "_zh_headline": "周二美光科技股票怎么样？",
       "_zh_summary": "美光科技公司（纳斯达克股票代码：MU）股票在周二盘前交易中持平，因投资者在该股延续上涨后暂停交易。该股仍处于强劲的长期上升趋势。纳斯达克期货上涨不到0.5%，而标准普尔500指数期货上涨0.09%。随着投资者评估人工智能内存需求、中国竞争和估值的长期前景，美光仍然是焦点。中国内存供应商似乎并未对美光构成直接威胁，尽管苹果公司(Apple Inc.)",
-      "_added_at": "2026-06-30T11:58:47.631205+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-06-30T09:13:05Z",
-      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
-      "id": 60179071,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/People-Silhouettes-On-American-Stock-Mar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/People-Silhouettes-On-American-Stock-Mar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/People-Silhouettes-On-American-Stock-Mar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "June 30, 2026: Polymarket traders favor a higher S&amp;P 500 open as easing Iran tensions boost risk appetite despite AI concerns.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "SMH",
-        "SSNLF"
-      ],
-      "updated_at": "2026-06-30T09:13:05Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60179071/sp500-june-30-open-up-or-down-polymarket-iran-ceasefire-dow-record-ai-stocks",
-      "_summary": "The S&P 500 rallied on Monday as easing geopolitical tensions and a rebound in semiconductor stocks boosted risk appetite, with Polymarket traders cautiously betting the momentum will continue into Tuesday’s opening bell. The S&P 500 gained 1.18% to close at 7,440.43. Polymarket’s June 30 contract now implies a 61% probability that the benchmark index will open higher on Tuesday, although betting has remained volatile throughout the session.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于地缘政治紧张局势缓解和半导体股票反弹提振了风险偏好，标准普尔 500 指数周一上涨，Polymarket 交易员谨慎押注这一势头将持续到周二开盘。标准普尔 500 指数上涨 1.18%，收于 7,440.43 点。 Polymarket 的 6 月 30 日合约目前意味着基准指数周二开盘走高的可能性为 61%，尽管整个交易日押注仍然波动。",
       "_added_at": "2026-06-30T11:58:47.631205+00:00"
     }
   ]
