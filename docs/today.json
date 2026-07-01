@@ -2,6 +2,168 @@
   "date": "2026-07-01",
   "articles": [
     {
+      "headline": "Trump’s Moneymaking Run: Unrivaled in Presidential History",
+      "summary": "The president’s move to open new business ventures, rather than eliminate potential conflicts, defies a long-held tradition.",
+      "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-moneymaking-presidential-history.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-01T15:14:54+00:00",
+      "_summary": "The president’s move to open new business ventures, rather than eliminate potential conflicts, defies a long-held tradition.",
+      "_zh_headline": "特朗普的赚钱之路：总统历史上无与伦比",
+      "_zh_summary": "总统开设新企业而不是消除潜在冲突的举动违背了长期以来的传统。",
+      "_added_at": "2026-07-01T16:56:02.598374+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-01T15:29:07Z",
+      "headline": "Fed's Warsh Calls Inflation 'Too High' — But July Rate-Hike Odds Cool",
+      "id": 60222049,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Fed Chair Kevin Warsh reaffirms the 2% inflation fight at the ECB&#39;s Sintra forum but declines to signal a July move.",
+      "symbols": [
+        "DIA",
+        "GLD",
+        "IWM",
+        "QQQ",
+        "SPY",
+        "TLT"
+      ],
+      "updated_at": "2026-07-01T15:29:07Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60222049/kevin-warsh-sintra-ecb-forum-inflation-rate-hike",
+      "_summary": "Federal Reserve Chair Kevin Warsh used his first international appearance to reaffirm the central bank’s fight against inflation, telling a packed policy panel at the European Central Bank’s Sintra forum on Wednesday that “prices are too high,” while pointedly refusing to hand markets a signal on the July meeting. • SPDR Gold Shares stock is moving in positive territory.",
+      "_zh_headline": "美联储沃什称通胀“过高”——但 7 月加息可能性不大",
+      "_zh_summary": "美联储主席凯文·沃什(Kevin Warsh)首次在国际场合露面，重申了央行对抗通胀的努力，他周三在欧洲央行辛特拉论坛上向众多政策小组表示，“物价太高了”，同时明确拒绝向市场发出有关7月会议的信号。 • SPDR Gold Shares 股票正在上涨。",
+      "_added_at": "2026-07-01T16:56:02.598374+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-01T16:11:24Z",
+      "headline": "SMH vs. SMHC: ETF Battle that Mirrors the Global AI Chip Race",
+      "id": 60224054,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Chipset-On-Circuit-Board-For-China-Semic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Chipset-On-Circuit-Board-For-China-Semic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Chipset-On-Circuit-Board-For-China-Semic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SMH or SMHC? See how AI infrastructure and China&#39;s semiconductor push are driving two very different ETF investment themes.",
+      "symbols": [
+        "AMD",
+        "AVGO",
+        "NVDA",
+        "QCOM",
+        "SMH",
+        "SMHC",
+        "TSM"
+      ],
+      "updated_at": "2026-07-01T16:11:24Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60224054/smh-vs-smhc-etf-battle-that-mirrors-the-global-ai-chip-race",
+      "_summary": "The timing is notable. SMH has been one of the biggest beneficiaries of the artificial intelligence boom over the past three years, riding unprecedented spending by hyperscalers on AI chips, high-bandwidth memory, advanced packaging and semiconductor equipment. While both funds invest in semiconductor companies, their underlying investment theses have little in common.",
+      "_zh_headline": "SMH 与 SMHC：ETF 之战反映了全球 AI 芯片竞赛",
+      "_zh_summary": "时机值得注意。 SMH 是过去三年人工智能热潮的最大受益者之一，得益于超大规模企业在人工智能芯片、高带宽内存、先进封装和半导体设备上前所未有的支出。虽然这两只基金都投资于半导体公司，但它们的基本投资理念几乎没有共同点。",
+      "_added_at": "2026-07-01T16:56:02.598374+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-01T14:29:59Z",
+      "headline": "AMD Dips 4% as Investors Lock in Profits After a Blockbuster AI Rotation Surge",
+      "id": 60218992,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/AMD.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/AMD.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/AMD.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AMD (AMD) stock dips 3.29% premarket to $561.80 on broader tech cooling, following a historic second-quarter surge where the chipmaker added $615B in market value.",
+      "symbols": [
+        "AMD",
+        "ARKW",
+        "INTC",
+        "IVES",
+        "MU",
+        "NVDA",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-01T14:29:59Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60218992/amd-dips-4-as-investors-lock-in-profits-after-a-blockbuster-ai-rotation-surge",
+      "_summary": "Advanced Micro Devices Inc (NASDAQ: AMD ) stock traded lower by over 4% during Wednesday’s session as risk appetite cools for high-multiple tech names. The early dip looks tied more to the overnight tone in index futures than to a single AMD-specific headline, with traders leaning defensive into the open. With the stock up 326.79% over the past 12 months, even a modest shift in risk sentiment can translate into a sharper pullback.",
+      "_zh_headline": "AMD 股价下跌 4%，投资者在 AI 轮换热潮后锁定利润",
+      "_zh_summary": "由于高倍数科技公司的风险偏好降温，Advanced Micro Devices Inc（纳斯达克股票代码：AMD）股价周三下跌超过 4%。早盘的下跌看起来更多地与股指期货的隔夜基调有关，而不是与 AMD 的单一头条新闻有关，交易者在开盘时倾向于防御性态度。由于该股在过去 12 个月中上涨了 326.79%，即使风险情绪的小幅转变也可能转化为更大幅度的回调。",
+      "_added_at": "2026-07-01T16:56:02.598374+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-01T15:11:16Z",
+      "headline": "The Biggest ETF Losers of 2026 H1 Were Last Year's Winners",
+      "id": 60221255,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gold and spot Bitcoin ETFs lost momentum in H1 2026 as AI infrastructure ETFs emerged as the market&#39;s hottest investment theme.",
+      "symbols": [
+        "BTCI",
+        "GLD",
+        "GLDM",
+        "HVAC",
+        "IAU",
+        "IBIT"
+      ],
+      "updated_at": "2026-07-01T15:11:16Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60221255/biggest-etf-losers-of-2026-h1-were-last-years-winners",
+      "_summary": "The biggest ETF winners of last year have fallen out of favor. After dominating ETF inflows through much of 2025, gold and spot bitcoin ETFs saw investors pull billions of dollars during the first half of 2026 as capital rotated toward AI infrastructure , semiconductor hardware and other growth-oriented themes. According to first-half ETF flow data compiled by VettaFi, gold ETFs recorded $3 billion in net outflows , while spot bitcoin ETFs lost $4 billion , marking their weakest stretch of the year.",
+      "_zh_headline": "2026 年上半年最大的 ETF 输家是去年的赢家",
+      "_zh_summary": "去年最大的 ETF 赢家已经失宠。在 2025 年大部分时间主导 ETF 流入之后，随着资本转向人工智能基础设施、半导体硬件和其他增长导向型主题，黄金和现货比特币 ETF 吸引投资者在 2026 年上半年吸资数十亿美元。根据 VettaFi 编制的上半年 ETF 流量数据，黄金 ETF 录得 30 亿美元净流出，而现货比特币 ETF 则损失 40 亿美元，创下今年最疲软的时期。",
+      "_added_at": "2026-07-01T16:56:02.598374+00:00"
+    },
+    {
       "author": "Bamboo Works",
       "content": "",
       "created_at": "2026-07-01T11:56:56Z",
@@ -487,79 +649,6 @@
       "_summary": "Corgi , an AI-focused fintech startup, has launched and listed 31 single-stock 2x Daily ETFs across two rollout phases on June 24 and June 26, significantly expanding its leveraged ETF lineup. • Bloom Energy Stock Rallies After The Bell — Here’s Why The funds are designed to deliver two times (2x) the daily performance of a single underlying stock, targeting active traders seeking amplified short-term exposure.",
       "_zh_headline": "更多叫声，更多 Beta 值：Corgi 首次推出 31 只单一股票 ETF，涵盖 Nvidia、Tesla 等",
       "_zh_summary": "Corgi 是一家专注于人工智能的金融科技初创公司，于 6 月 24 日和 6 月 26 日分两个推出阶段推出并上市了 31 只单股 2x Daily ETF，显着扩大了其杠杆 ETF 阵容。 • Bloom Energy 股票盘后上涨 — 原因如下 这些基金旨在提供单一基础股票每日表现两倍 (2x) 的表现，针对寻求放大短期风险的活跃交易者。",
-      "_added_at": "2026-07-01T06:52:14.886434+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-01T06:33:59Z",
-      "headline": "Why Are Central Banks Buying So Much Gold? 90% Institutions Cite This Reason",
-      "id": 60207823,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/A-Lot-Of-Gold-Bars.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/A-Lot-Of-Gold-Bars.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/A-Lot-Of-Gold-Bars.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Central banks are turning to gold for protection against crises, inflation and geopolitical risks, according to the World Gold Council survey. ",
-      "symbols": [
-        "B",
-        "GLD",
-        "IAU",
-        "NEM"
-      ],
-      "updated_at": "2026-07-01T06:33:59Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60207823/why-are-central-banks-buying-so-much-gold-90-institutions-cite-this-reason",
-      "_summary": "Central banks are increasingly turning to gold as protection against financial crises, inflation and geopolitical risks, according to a World Gold Council survey highlighted Tuesday by market commentator, The Kobeissi Letter . According to the survey of 69 central banks, 90% of respondents cited gold’s performance during periods of crisis as a primary reason for holding on to the precious metal.",
-      "_zh_headline": "为什么央行购买如此多的黄金？ 90% 的机构都引用这个理由",
-      "_zh_summary": "市场评论员《Kobeissi Letter》周二强调的世界黄金协会调查显示，各国央行越来越多地转向黄金作为抵御金融危机、通胀和地缘政治风险的手段。根据对 69 家央行的调查，90% 的受访者将黄金在危机时期的表现视为持有贵金属的主要原因。",
-      "_added_at": "2026-07-01T06:52:14.886434+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-01T04:51:03Z",
-      "headline": "Micron Joins Dell, SoFi and JPMorgan in Backing Trump Accounts Ahead of the Program's July 4 Nationwide Rollout",
-      "id": 60207364,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/The-Micron-Logo-Appears---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/The-Micron-Logo-Appears---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/The-Micron-Logo-Appears---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron committed $250 million to Trump Accounts, expanding corporate backing ahead of the program&#39;s July 4 rollout.",
-      "symbols": [
-        "BNY",
-        "DELL",
-        "HOOD",
-        "JPM",
-        "MU",
-        "SOFI",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-01T04:51:03Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60207364/micron-joins-dell-sofi-and-jpmorgan-in-backing-trump-accounts-ahead-of-july-4-rollout",
-      "_summary": "Micron Technology Inc (NASDAQ: MU ) on Tuesday committed $250 million to the Trump Accounts program, expanding corporate support for the children’s investment initiative ahead of the nationwide rollout on July 4. Micron said it will match employee contributions of up to $1,000 for each eligible child under 18.",
-      "_zh_headline": "美光科技与戴尔、SoFi 和摩根大通一起在该计划 7 月 4 日全国推广之前支持特朗普账户",
-      "_zh_summary": "美光科技公司（纳斯达克股票代码：MU）周二承诺向特朗普账户计划提供 2.5 亿美元，在 7 月 4 日全国推广之前扩大企业对儿童投资计划的支持。美光表示，将为每个符合条件的 18 岁以下儿童提供最多 1,000 美元的员工捐款。",
       "_added_at": "2026-07-01T06:52:14.886434+00:00"
     }
   ]
