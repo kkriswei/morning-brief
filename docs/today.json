@@ -2,6 +2,52 @@
   "date": "2026-07-01",
   "articles": [
     {
+      "headline": "Ukraine War Crosses a Grim Milestone",
+      "summary": "Also, scientists create a cell with the hallmarks of life. Here’s the latest at the end of Wednesday.",
+      "url": "https://www.nytimes.com/2026/07/01/briefing/ukraine-war-casualties-air-force-one.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-01T22:05:35+00:00",
+      "_summary": "Also, scientists create a cell with the hallmarks of life. Here’s the latest at the end of Wednesday.",
+      "_zh_headline": "乌克兰战争跨越了一个严峻的里程碑",
+      "_zh_summary": "此外，科学家还创造了一种具有生命特征的细胞。这是周三月底的最新消息。",
+      "_added_at": "2026-07-01T22:48:33.169695+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-01T19:56:47Z",
+      "headline": "AI Boom Needs More Memory: KMEM ETF Aims to Cash in on the Bottleneck",
+      "id": 60231730,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Los-Angeles--California---24-January-202.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Los-Angeles--California---24-January-202.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Los-Angeles--California---24-January-202.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Kurv launches the KMEM ETF, a fund targeting AI memory chip leaders, including SK hynix, Samsung, and Micron, as supply shortages persist.",
+      "symbols": [
+        "DISK",
+        "KMEM",
+        "MU"
+      ],
+      "updated_at": "2026-07-01T19:56:47Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60231730/ai-boom-memory-kmem-etf-bottleneck",
+      "_summary": "Kurv Investment Management has launched a new actively managed fund designed to provide concentrated exposure to companies at the center of the global memory chip market. As artificial intelligence-driven demand continues to reshape the semiconductor industry, Jurv’s new ETF targets manufacturers and suppliers of memory technologies that power AI workloads, including Dynamic Random Access Memory (DRAM), Static Random Access Memory (SRAM), Flash Memory, RAM, and other emerging memory technologies.",
+      "_zh_headline": "AI 繁荣需要更多内存：KMEM ETF 旨在突破瓶颈",
+      "_zh_summary": "Kurv Investment Management 推出了一支新的主动管理基金，旨在为全球存储芯片市场中心的公司提供集中投资。随着人工智能驱动的需求不断重塑半导体行业，Jurv 的新 ETF 瞄准了为 AI 工作负载提供动力的内存技术的制造商和供应商，包括动态随机存取存储器 (DRAM)、静态随机存取存储器 (SRAM)、闪存、RAM 和其他新兴内存技术。",
+      "_added_at": "2026-07-01T22:48:33.169695+00:00"
+    },
+    {
       "author": "Benzinga Insights",
       "content": "",
       "created_at": "2026-07-01T17:35:19Z",
@@ -666,75 +712,6 @@
       "_summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Tuesday’s higher close. Meanwhile, the 10-year Treasury bond yielded 4.47%, and the two-year bond was at 4.17%. The CME Group’s FedWatch tool’s projections show markets pricing a 66.3% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
       "_zh_headline": "今日股市：道琼斯指数、标准普尔 500 指数期货下跌，因伊朗排除与美国直接谈判的可能性——耐克、星座品牌、布鲁姆能源成为焦点",
       "_zh_summary": "美国股指期货周三下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二收盘走高后下跌。与此同时，10年期国债收益率为4.47%，两年期国债收益率为4.17%。 CME 集团的 FedWatch 工具的预测显示，市场预计美联储在 7 月会议期间维持当前利率不变的可能性为 66.3%。",
-      "_added_at": "2026-07-01T10:53:59.731350+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-01T07:44:21Z",
-      "headline": "Apple CEO Tim Cook Flags 'Extreme Shortage' While DRAM ETF Smashes $25 Billion, Surging Over 170% Since Listing",
-      "id": 60208442,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tim-Cook--Chief-Executive-Officer-Of-App.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tim-Cook--Chief-Executive-Officer-Of-App.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tim-Cook--Chief-Executive-Officer-Of-App.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Apple CEO Tim Cook flags an &#34;extreme shortage&#34; in memory chips while the $DRAM ETF shatters records, hitting $25B in just 84 days.",
-      "symbols": [
-        "AAPL",
-        "DRAM",
-        "MU",
-        "SNDK",
-        "STX",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-01T07:44:21Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60208442/apple-ceo-tim-cook-flags-extreme-shortage-while-dram-etf-smashes-25-billion-surging-over-170-since-listing",
-      "_summary": "The AI revolution is driving unexpected inflation in the hardware sector, with demand vastly outstripping supply. Apple CEO Tim Cook characterized the current market dynamics as a “100-year flood,” noting he has “never seen anything like it in any area in over 40 years.” While hyperscalers bear the brunt of these costs, semiconductor and memory companies are capturing historic “windfall profits.” This immense wealth transfer is perfectly illustrated by the unprecedented rise of the DRAM ETF.",
-      "_zh_headline": "苹果首席执行官蒂姆·库克表示“极度短缺”，而 DRAM ETF 暴跌 250 亿美元，自上市以来飙升超过 170%",
-      "_zh_summary": "人工智能革命正在推动硬件行业出现意想不到的通货膨胀，需求远远超过供应。苹果公司首席执行官蒂姆·库克将当前的市场动态描述为“100年一遇的洪水”，并指出他“40多年来从未在任何领域见过类似的情况”。虽然超大规模企业首当其冲地承受着这些成本，但半导体和内存公司正在获得历史性的“意外利润”。 DRAM ETF的空前崛起完美地说明了这种巨大的财富转移。",
-      "_added_at": "2026-07-01T10:53:59.731350+00:00"
-    },
-    {
-      "author": "Tanya Rawat",
-      "content": "",
-      "created_at": "2026-07-01T09:09:19Z",
-      "headline": "Fed's Beth Hammack Warns AI Spending Could Keep Inflation Hot and Force Interest Rates Higher: 'Not Seeing A Lot Of Restraint...'",
-      "id": 60209276,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "AI infrastructure demand may fuel inflation and force higher rates, Cleveland Fed President Beth Hammack warns.",
-      "symbols": [
-        "MRVL"
-      ],
-      "updated_at": "2026-07-01T09:09:19Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60209276/feds-beth-hammack-warns-ai-spending-could-keep-inflation-hot-and-force-interest-rates-higher-not-seeing-a-lot-of-restraint",
-      "_summary": "Cleveland Federal Reserve President Beth Hammack said Tuesday that surging demand for artificial intelligence infrastructure could add to inflationary pressures and may force the Federal Reserve to raise interest rates again if price growth remains elevated. Speaking to CNBC from the European Central Bank conference in Sintra, Portugal, Hammack said inflation remains above the Fed’s 2% target and warned that persistent price pressures tied to AI spending could complicate monetary policy.",
-      "_zh_headline": "美联储贝丝·哈马克（Beth Hammack）警告人工智能支出可能会导致通胀持续升温并迫使利率走高：“没有看到太多限制……”",
-      "_zh_summary": "克利夫兰联储主席贝丝·哈马克周二表示，对人工智能基础设施的需求激增可能会增加通胀压力，如果物价增长持续走高，可能迫使美联储再次加息。哈马克在葡萄牙辛特拉举行的欧洲央行会议上接受 CNBC 采访时表示，通胀率仍高于美联储 2% 的目标，并警告称，与人工智能支出相关的持续价格压力可能会使货币政策复杂化。",
       "_added_at": "2026-07-01T10:53:59.731350+00:00"
     }
   ]
