@@ -2,6 +2,225 @@
   "date": "2026-07-01",
   "articles": [
     {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-01T10:31:09Z",
+      "headline": "What's Going on With Intel Stock Wednesday?",
+      "id": 60210498,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Intel-Corporation.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Intel-Corporation.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Intel-Corporation.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "INTC falls 2% premarket on profit-taking. Despite the dip, technicals stay bullish ahead of July 23 earnings.",
+      "symbols": [
+        "AMD",
+        "ARM",
+        "INTC",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "SNDK",
+        "SOXX",
+        "TRFK",
+        "VLUE"
+      ],
+      "updated_at": "2026-07-01T10:45:29Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60210498/whats-going-on-with-intel-stock-wednesday-7",
+      "_summary": "Nasdaq futures were down 0.54%, while S&P 500 futures slipped 0.31%, weighing on technology stocks ahead of the opening bell. Intel appeared to be facing profit-taking after a strong rally that pushed the stock close to its 52-week high. The stock has significantly outperformed the broader market over the past year. That leaves it vulnerable to short-term selling when investor sentiment weakens.",
+      "_zh_headline": "英特尔股票周三怎么样？",
+      "_zh_summary": "纳斯达克期货下跌 0.54%，标准普尔 500 指数期货下跌 0.31%，在开盘前打压科技股。英特尔股价强劲上涨并接近 52 周高点后，似乎面临获利了结。过去一年，该股的表现明显优于大盘。这使得当投资者情绪走弱时，它很容易受到短期抛售的影响。",
+      "_added_at": "2026-07-01T10:53:59.731350+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-01T09:14:14Z",
+      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Fall as Iran Rules Out Direct Talks With US—Nike, Constellation Brands, Bloom Energy in Focus",
+      "id": 60209324,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Tuesday&#39;s higher close.",
+      "symbols": [
+        "AA",
+        "BE",
+        "BTCUSD",
+        "FMC",
+        "NKE",
+        "QQQ",
+        "SPY",
+        "STZ"
+      ],
+      "updated_at": "2026-07-01T09:14:14Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60209324/stock-market-today-dow-jones-sp-500-futures-fall-as-iran-rules-out-direct-talks-with-us-nike-constellation-brands-bloom-energy-in-focus",
+      "_summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Tuesday’s higher close. Meanwhile, the 10-year Treasury bond yielded 4.47%, and the two-year bond was at 4.17%. The CME Group’s FedWatch tool’s projections show markets pricing a 66.3% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
+      "_zh_headline": "今日股市：道琼斯指数、标准普尔 500 指数期货下跌，因伊朗排除与美国直接谈判的可能性——耐克、星座品牌、布鲁姆能源成为焦点",
+      "_zh_summary": "美国股指期货周三下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二收盘走高后下跌。与此同时，10年期国债收益率为4.47%，两年期国债收益率为4.17%。 CME 集团的 FedWatch 工具的预测显示，市场预计美联储在 7 月会议期间维持当前利率不变的可能性为 66.3%。",
+      "_added_at": "2026-07-01T10:53:59.731350+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-01T07:44:21Z",
+      "headline": "Apple CEO Tim Cook Flags 'Extreme Shortage' While DRAM ETF Smashes $25 Billion, Surging Over 170% Since Listing",
+      "id": 60208442,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tim-Cook--Chief-Executive-Officer-Of-App.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tim-Cook--Chief-Executive-Officer-Of-App.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tim-Cook--Chief-Executive-Officer-Of-App.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple CEO Tim Cook flags an &#34;extreme shortage&#34; in memory chips while the $DRAM ETF shatters records, hitting $25B in just 84 days.",
+      "symbols": [
+        "AAPL",
+        "DRAM",
+        "MU",
+        "SNDK",
+        "STX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-01T07:44:21Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60208442/apple-ceo-tim-cook-flags-extreme-shortage-while-dram-etf-smashes-25-billion-surging-over-170-since-listing",
+      "_summary": "The AI revolution is driving unexpected inflation in the hardware sector, with demand vastly outstripping supply. Apple CEO Tim Cook characterized the current market dynamics as a “100-year flood,” noting he has “never seen anything like it in any area in over 40 years.” While hyperscalers bear the brunt of these costs, semiconductor and memory companies are capturing historic “windfall profits.” This immense wealth transfer is perfectly illustrated by the unprecedented rise of the DRAM ETF.",
+      "_zh_headline": "苹果首席执行官蒂姆·库克表示“极度短缺”，而 DRAM ETF 暴跌 250 亿美元，自上市以来飙升超过 170%",
+      "_zh_summary": "人工智能革命正在推动硬件行业出现意想不到的通货膨胀，需求远远超过供应。苹果公司首席执行官蒂姆·库克将当前的市场动态描述为“100年一遇的洪水”，并指出他“40多年来从未在任何领域见过类似的情况”。虽然超大规模企业首当其冲地承受着这些成本，但半导体和内存公司正在获得历史性的“意外利润”。 DRAM ETF的空前崛起完美地说明了这种巨大的财富转移。",
+      "_added_at": "2026-07-01T10:53:59.731350+00:00"
+    },
+    {
+      "author": "Tanya Rawat",
+      "content": "",
+      "created_at": "2026-07-01T09:09:19Z",
+      "headline": "Fed's Beth Hammack Warns AI Spending Could Keep Inflation Hot and Force Interest Rates Higher: 'Not Seeing A Lot Of Restraint...'",
+      "id": 60209276,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Fed-Wording-With-Up-And-Down-Arrow-On-Us.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AI infrastructure demand may fuel inflation and force higher rates, Cleveland Fed President Beth Hammack warns.",
+      "symbols": [
+        "MRVL"
+      ],
+      "updated_at": "2026-07-01T09:09:19Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60209276/feds-beth-hammack-warns-ai-spending-could-keep-inflation-hot-and-force-interest-rates-higher-not-seeing-a-lot-of-restraint",
+      "_summary": "Cleveland Federal Reserve President Beth Hammack said Tuesday that surging demand for artificial intelligence infrastructure could add to inflationary pressures and may force the Federal Reserve to raise interest rates again if price growth remains elevated. Speaking to CNBC from the European Central Bank conference in Sintra, Portugal, Hammack said inflation remains above the Fed’s 2% target and warned that persistent price pressures tied to AI spending could complicate monetary policy.",
+      "_zh_headline": "美联储贝丝·哈马克（Beth Hammack）警告人工智能支出可能会导致通胀持续升温并迫使利率走高：“没有看到太多限制……”",
+      "_zh_summary": "克利夫兰联储主席贝丝·哈马克周二表示，对人工智能基础设施的需求激增可能会增加通胀压力，如果物价增长持续走高，可能迫使美联储再次加息。哈马克在葡萄牙辛特拉举行的欧洲央行会议上接受 CNBC 采访时表示，通胀率仍高于美联储 2% 的目标，并警告称，与人工智能支出相关的持续价格压力可能会使货币政策复杂化。",
+      "_added_at": "2026-07-01T10:53:59.731350+00:00"
+    },
+    {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-07-01T08:22:13Z",
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "id": 60208782,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Cyberpunk-Photo-Of-An-Upward-trending-Sa.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "July 1, 2026: Polymarket traders expect a weaker S&amp;P 500 open on the first trading day of the month after June capped strong quarterly and first-half gains.",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "NVDA",
+        "SMH"
+      ],
+      "updated_at": "2026-07-01T08:22:13Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60208782/sp500-july-1-open-up-or-down-polymarket-first-half-2026-quarter-ai-chip-stocks-fed",
+      "_summary": "The S&P 500 ended June on a strong note, capping off its best quarter since 2020, but Polymarket traders are betting the benchmark index could start the second half of the year on a weaker footing. The S&P 500 gained 0.79% to close at 7,499.36 on Tuesday. However, the July 1 Polymarket contract implies just a 27% probability that the index will open higher on Wednesday.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "标准普尔 500 指数 6 月份表现强劲，结束了 2020 年以来最好的季度，但 Polymarket 交易员押注该基准指数可能会在今年下半年开始表现疲软。标准普尔 500 指数周二上涨 0.79%，收于 7,499.36 点。然而，7 月 1 日的 Polymarket 合约意味着该指数周三开盘走高的可能性仅为 27%。",
+      "_added_at": "2026-07-01T10:53:59.731350+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-01T09:46:20Z",
+      "headline": "Jim Cramer Says Wall Street Is Rewarding AI Makers While 'Punishing' Their Biggest Customers",
+      "id": 60209505,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Jim Cramer said Wall Street is rewarding AI infrastructure suppliers while punishing Big Tech companies spending to build it.",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-01T09:46:20Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60209505/jim-cramer-says-wall-street-is-rewarding-ai-makers-while-punishing-their-biggest-customers",
+      "_summary": "Jim Cramer said Tuesday that Wall Street is increasingly rewarding companies supplying artificial intelligence infrastructure while punishing the technology giants spending heavily to build it. Speaking on CNBC’s Mad Money show , Cramer said investors are favoring chipmakers, memory companies and networking suppliers over hyperscalers committing hundreds of billions of dollars to AI infrastructure.",
+      "_zh_headline": "吉姆·克莱默表示，华尔街正在奖励人工智能制造商，同时“惩罚”他们最大的客户",
+      "_zh_summary": "吉姆·克莱默周二表示，华尔街越来越多地奖励提供人工智能基础设施的公司，同时惩罚斥巨资建设人工智能基础设施的科技巨头。克莱默在 CNBC 的 Mad Money 节目中表示，投资者更青睐芯片制造商、内存公司和网络供应商，而不是投入数千亿美元用于人工智能基础设施的超大规模企业。",
+      "_added_at": "2026-07-01T10:53:59.731350+00:00"
+    },
+    {
       "headline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
       "summary": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
       "url": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html",
