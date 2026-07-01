@@ -2,6 +2,221 @@
   "date": "2026-07-01",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-01T16:56:13Z",
+      "headline": "Dow Hits Record, Meta Soars On AI-Cloud Bet: Stock Market Today",
+      "id": 60225626,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Dow set a record and software surged, but a 4.5% semiconductor rout sank the Nasdaq 100 as Meta jumped on a plan to sell AI compute.",
+      "symbols": [
+        "APP",
+        "AVGO",
+        "COIN",
+        "CRWV",
+        "DIA",
+        "FDN",
+        "GDX",
+        "GLD",
+        "GLW",
+        "IGV",
+        "IWM",
+        "KLAC",
+        "META",
+        "MSTR",
+        "MU",
+        "NKE",
+        "NVDA",
+        "OIH",
+        "QQQ",
+        "RDDT",
+        "SMH",
+        "SMTC",
+        "SNDK",
+        "TER",
+        "VOO",
+        "XLC",
+        "XLE",
+        "XLF",
+        "XLK",
+        "XLU"
+      ],
+      "updated_at": "2026-07-01T16:56:13Z",
+      "url": "https://www.benzinga.com/news/26/07/60225626/dow-jones-hits-record-highs-meta-jumps-on-ai-cloud-bet-markets-wednesday-wall-street",
+      "_summary": "The Dow Jones climbed to a fresh record high on Wednesday and software stocks surged, but a punishing semiconductor selloff dragged the Nasdaq 100 lower, leaving Wall Street sharply split down the middle as the AI trade fractured. The S&P 500 gained 0.3% near 7,518, while the Dow Jones Industrial Average advanced about 332 points, or 0.6%, to a record above 52,700.",
+      "_zh_headline": "道指创历史新高，Meta 因人工智能云押注而飙升：今日股市",
+      "_zh_summary": "道琼斯指数周三攀升至历史新高，软件股飙升，但半导体抛售拖累纳斯达克 100 指数走低，随着人工智能交易的破裂，华尔街大幅分裂。标准普尔 500 指数上涨 0.3%，接近 7,518 点，而道琼斯工业平均指数上涨约 332 点，即 0.6%，至历史最高点 52,700 点上方。",
+      "_added_at": "2026-07-01T19:18:55.993695+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-01T19:07:54Z",
+      "headline": "Nvidia, Tesla, Caterpillar: ETFs Most Exposed to Michael Burry's New Shorts",
+      "id": 60229915,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Image-Of-Michael-Burry.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Image-Of-Michael-Burry.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Image-Of-Michael-Burry.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Michael Burry&#39;s latest shorts on Nvidia, Caterpillar, Tesla, and Applied Materials put AI, semiconductor, and industrial ETFs under the microscope.",
+      "symbols": [
+        "AMAT",
+        "CAT",
+        "DIA",
+        "DJIA",
+        "MAGS",
+        "NVDA",
+        "QQQ",
+        "SMH",
+        "SOXX",
+        "TSLA",
+        "VIS",
+        "XLI"
+      ],
+      "updated_at": "2026-07-01T19:07:54Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60229915/nvidia-tesla-caterpillar-etfs-most-exposed-to-michael-burrys-new-shorts",
+      "_summary": "Nvidia remains the cornerstone of nearly every AI-focused ETF, making it the biggest common denominator in Burry’s bearish basket. Perhaps the most surprising name in Burry’s portfolio is Caterpillar. Unlike Nvidia or Applied Materials, Caterpillar is not a technology company. Instead, investors have increasingly rewarded the heavy equipment maker as a key beneficiary of the AI infrastructure boom.",
+      "_zh_headline": "英伟达、特斯拉、卡特彼勒：ETF 最受迈克尔·伯里新空头影响",
+      "_zh_summary": "英伟达仍然是几乎所有专注于人工智能的 ETF 的基石，使其成为伯里看跌篮子中的最大共同点。也许巴里投资组合中最令人惊讶的名字是卡特彼勒。与英伟达或应用材料公司不同，卡特彼勒不是一家科技公司。相反，投资者越来越多地将这家重型设备制造商视为人工智能基础设施热潮的主要受益者。",
+      "_added_at": "2026-07-01T19:18:55.993695+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-01T17:42:11Z",
+      "headline": "EXCLUSIVE: Market Expert Jay Woods Picks Top 2 Magnificent Seven Stocks For Rest of 2026, 2027",
+      "id": 60227349,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Market expert Jay Woods shares his top two Magnificent Seven stocks for the second half of 2026 with Benzinga in an exclusive interview.",
+      "symbols": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "MU",
+        "NVDA",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-01T17:42:11Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60227349/exclusive-market-expert-jay-woods-picks-top-2-magnificent-seven-stocks-for-rest-of-2026-2027",
+      "_summary": "Halfway through the year, Woods is making a change to his top two picks. In an interview with Benzinga at the halfway point of 2026, Woods is ready to make a change to his favorite Magnificent Seven stocks for the second half of the year and into 2027. \"I still love the story in Alphabet,\" Woods tells Benzinga. \"I like what they’re doing.\" On the technical side for Alphabet, Woods said he’d like to see the stock stay above the $350 level.",
+      "_zh_headline": "独家报道：市场专家杰伊·伍兹 (Jay Woods) 为 2026 年和 2027 年剩余时间挑选了前 2 名七大股票",
+      "_zh_summary": "今年过半，伍兹正在改变他的前两名选秀权。在 2026 年中期接受 Benzinga 采访时，伍兹准备在今年下半年和 2027 年对他最喜欢的七大股票进行调整。“我仍然喜欢 Alphabet 的故事，”伍兹告诉 Benzinga。 “我喜欢他们所做的事情。”在 Alphabet 的技术方面，伍兹表示他希望看到该股保持在 350 美元以上的水平。",
+      "_added_at": "2026-07-01T19:18:55.993695+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-01T17:42:18Z",
+      "headline": "Meta Compute Could Trigger a 'Butterfly Effect' in AI Infrastructure — and Fuel a Mag 7 Bounce, Trader Says",
+      "id": 60227351,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Meta Platforms Inc.’s reported AI cloud plans spark a &#34;butterfly effect&#34; sell-off in neocloud stocks like Nebius and CoreWeave while backing the MAGS bounce case.",
+      "symbols": [
+        "AMAT",
+        "CRWV",
+        "GLW",
+        "MAGS",
+        "META",
+        "MU",
+        "NBIS",
+        "TER",
+        "TT"
+      ],
+      "updated_at": "2026-07-01T17:42:18Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60227351/meta-compute-could-trigger-a-butterfly-effect-in-ai-infrastructure-and-fuel-a-mag-7-bounce-trader-says",
+      "_summary": "Samantha LaDuc , founder of LaDuc Trading , highlighted a broader, systemic risk to the overall market structure. According to LaDuc’s Wednesday post on X, Meta’s strategic pivot could create a \"butterfly effect\" that challenges the core thesis behind the broader AI hardware expansion trade. The analytical perspective from LaDuc Trading points to a sudden risk premium being placed on companies that had hit consecutive 52-week highs in late June.",
+      "_zh_headline": "交易员表示，元计算可能会引发人工智能基础设施中的“蝴蝶效应”，并推动 Mag 7 的反弹",
+      "_zh_summary": "LaDuc Trading 创始人 Samantha LaDuc 强调了整个市场结构面临的更广泛的系统性风险。根据 LaDuc 周三在 X 上发布的帖子，Meta 的战略支点可能会产生“蝴蝶效应”，挑战更广泛的人工智能硬件扩展贸易背后的核心论点。 LaDuc Trading 的分析观点表明，6 月底连续触及 52 周高点的公司突然面临风险溢价。",
+      "_added_at": "2026-07-01T19:18:55.993695+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-01T19:10:41Z",
+      "headline": "SanDisk’s Stock Supercycle Just Got Another Boost: BofA Raises Price Tag to $2,500",
+      "id": 60230022,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/SanDisk.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/SanDisk.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/SanDisk.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "BofA&#39;s Wamsi Mohan sees SanDisk&#39;s NAND squeeze lasting through 2027, lifting his price target on stronger pricing and demand.",
+      "symbols": [
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-01T19:10:41Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60230022/sandisk-sndk-bofa-price-target-2500-nand-pricing",
+      "_summary": "Bank of America is telling clients the memory shortage is nowhere near over — and that Sandisk Corp. ( NASDAQ: SNDK ) is the cleanest way to own it. On Wednesday, bank analyst Wamsi Mohan reiterated a Buy rating on Sandisk and lifted his price objective from $2,100 to $2,500 a target that sits about 25% above where the stock changed hands at the time of this writing. The upgrade to the target is not a call on the next print alone. It is a call on how long the imbalance lasts.",
+      "_zh_headline": "SanDisk 的股票超级周期再次提振：美国银行将价格标签提高至 2,500 美元",
+      "_zh_summary": "美国银行告诉客户，内存短缺问题还远未结束，Sandisk Corp.（纳斯达克股票代码：SNDK）是拥有内存的最干净的方式。周三，银行分析师瓦姆西·莫汉 (Wamsi Mohan) 重申了对 Sandisk 的买入评级，并将其价格目标从 2,100 美元上调至 2,500 美元，该目标比撰写本文时该股易手价高出约 25%。升级到目标并不是单独调用下一次打印。这是对不平衡持续多久的呼吁。",
+      "_added_at": "2026-07-01T19:18:55.993695+00:00"
+    },
+    {
       "headline": "Trump’s Moneymaking Run: Unrivaled in Presidential History",
       "summary": "The president’s move to open new business ventures, rather than eliminate potential conflicts, defies a long-held tradition.",
       "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-moneymaking-presidential-history.html",
@@ -515,141 +730,6 @@
       "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
       "_zh_summary": "标准普尔 500 指数 6 月份表现强劲，结束了 2020 年以来最好的季度，但 Polymarket 交易员押注该基准指数可能会在今年下半年开始表现疲软。标准普尔 500 指数周二上涨 0.79%，收于 7,499.36 点。然而，7 月 1 日的 Polymarket 合约意味着该指数周三开盘走高的可能性仅为 27%。",
       "_added_at": "2026-07-01T10:53:59.731350+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-01T09:46:20Z",
-      "headline": "Jim Cramer Says Wall Street Is Rewarding AI Makers While 'Punishing' Their Biggest Customers",
-      "id": 60209505,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Jim Cramer said Wall Street is rewarding AI infrastructure suppliers while punishing Big Tech companies spending to build it.",
-      "symbols": [
-        "AMD",
-        "INTC",
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-01T09:46:20Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60209505/jim-cramer-says-wall-street-is-rewarding-ai-makers-while-punishing-their-biggest-customers",
-      "_summary": "Jim Cramer said Tuesday that Wall Street is increasingly rewarding companies supplying artificial intelligence infrastructure while punishing the technology giants spending heavily to build it. Speaking on CNBC’s Mad Money show , Cramer said investors are favoring chipmakers, memory companies and networking suppliers over hyperscalers committing hundreds of billions of dollars to AI infrastructure.",
-      "_zh_headline": "吉姆·克莱默表示，华尔街正在奖励人工智能制造商，同时“惩罚”他们最大的客户",
-      "_zh_summary": "吉姆·克莱默周二表示，华尔街越来越多地奖励提供人工智能基础设施的公司，同时惩罚斥巨资建设人工智能基础设施的科技巨头。克莱默在 CNBC 的 Mad Money 节目中表示，投资者更青睐芯片制造商、内存公司和网络供应商，而不是投入数千亿美元用于人工智能基础设施的超大规模企业。",
-      "_added_at": "2026-07-01T10:53:59.731350+00:00"
-    },
-    {
-      "headline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
-      "summary": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
-      "url": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-06-30T22:48:28+00:00",
-      "_summary": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
-      "_zh_headline": "最高法院取消对政党和候选人的支出限制",
-      "_zh_summary": "共和党人要求法院取消对政党与候选人协调支出的限制。",
-      "_added_at": "2026-07-01T06:52:14.886434+00:00"
-    },
-    {
-      "headline": "Trump made more than $1bn from crypto in first year back in office",
-      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-01T03:31:08+00:00",
-      "_summary": "US President Donald Trump has been involved in business dealings. US President Donald Trump made more than $1bn (Â£750m) last year from business dealings in cryptocurrency, according to his mandatory financial report for 2025. In a 927-page disclosure, he reported $635m in royalties from a Trump meme coin that has plunged in value since he launched it days before taking office. He also reported over $500m in income from World Liberty Financial, a cryptocurrency firm founded by his own sons and the children of his special envoy, Steve Witkoff. He earned millions more from real estate and Trump-themed items. But the White House denied he was profiting from the presidency. The earnings from his latest financial disclosure far outpace the previous ones for 2024, when Trump disclosed over $600m of income. But the White House, which has repeatedly emphasised that Trump has placed his businesses in a trust managed by his sons, again denied any conflict of interest.",
-      "_zh_headline": "特朗普上任第一年就从加密货币中赚取了超过 10 亿美元",
-      "_zh_summary": "美国总统唐纳德·特朗普一直参与商业交易。根据美国总统唐纳德·特朗普 2025 年的强制性财务报告，他去年从加密货币商业交易中赚取了超过 10 亿美元（7.5 亿英镑）。在一份长达 927 页的披露中，他报告了特朗普模因币的特许权使用费为 6.35 亿美元，自从他上任前几天推出该币以来，该币的价值已经暴跌。他还报告了世界自由金融公司 (World Liberty Financial) 的收入超过 5 亿美元，这是一家由他自己的儿子和他的特使史蒂夫·威特科夫 (Steve Witkoff) 的孩子创立的加密货币公司。他从房地产和特朗普主题物品中赚取了数百万美元。但白宫否认他从总统职位中获利。特朗普最新披露的 2024 年财务报告显示的收入远远超过之前披露的超过 6 亿美元的收入。但白宫一再强调特朗普已将其企业交给其儿子管理的信托公司，再次否认存在任何利益冲突。",
-      "_added_at": "2026-07-01T06:52:14.886434+00:00"
-    },
-    {
-      "headline": "Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows",
-      "summary": "The release of a mandatory financial disclosure for 2025 shows that the Trump family’s holdings, particularly the president’s crypto businesses, were stunningly lucrative.",
-      "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-01T01:15:53+00:00",
-      "_summary": "The release of a mandatory financial disclosure for 2025 shows that the Trump family’s holdings, particularly the president’s crypto businesses, were stunningly lucrative.",
-      "_zh_headline": "财务披露显示，特朗普在 2025 年至少投入 22 亿美元",
-      "_zh_summary": "2025 年强制性财务披露的发布表明，特朗普家族的持股，尤其是总统的加密货币业务，利润丰厚。",
-      "_added_at": "2026-07-01T06:52:14.886434+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-06-30T22:17:14Z",
-      "headline": "More Bark, More Beta: Corgi Debuts 31 Single-Stock ETFs Covering Nvidia, Tesla And More",
-      "id": 60205989,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/AI-ETFs.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/AI-ETFs.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/06/30/AI-ETFs.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Corgi launches 31 new single-stock leveraged ETFs tracking Nvidia, Tesla, AMD, Microsoft, and other AI and semiconductor leaders.",
-      "symbols": [
-        "ACLS",
-        "ACMR",
-        "AMD",
-        "AMZN",
-        "APP",
-        "ASTS",
-        "CAMT",
-        "CART",
-        "COIN",
-        "CRUS",
-        "GOOGL",
-        "KEYS",
-        "KEYX",
-        "LASR",
-        "LRN",
-        "META",
-        "MNST",
-        "MSFT",
-        "MSI",
-        "MSTR",
-        "MU",
-        "NVDA",
-        "ONTO",
-        "PLTR",
-        "RMBS",
-        "SIMO",
-        "SNDK",
-        "TPL",
-        "TSLA",
-        "TSM",
-        "UCTT",
-        "UCTX",
-        "UMC"
-      ],
-      "updated_at": "2026-06-30T22:17:14Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60205989/more-bark-more-beta-corgi-debuts-31-single-stock-etfs-covering-nvidia-tesla-and-more",
-      "_summary": "Corgi , an AI-focused fintech startup, has launched and listed 31 single-stock 2x Daily ETFs across two rollout phases on June 24 and June 26, significantly expanding its leveraged ETF lineup. • Bloom Energy Stock Rallies After The Bell — Here’s Why The funds are designed to deliver two times (2x) the daily performance of a single underlying stock, targeting active traders seeking amplified short-term exposure.",
-      "_zh_headline": "更多叫声，更多 Beta 值：Corgi 首次推出 31 只单一股票 ETF，涵盖 Nvidia、Tesla 等",
-      "_zh_summary": "Corgi 是一家专注于人工智能的金融科技初创公司，于 6 月 24 日和 6 月 26 日分两个推出阶段推出并上市了 31 只单股 2x Daily ETF，显着扩大了其杠杆 ETF 阵容。 • Bloom Energy 股票盘后上涨 — 原因如下 这些基金旨在提供单一基础股票每日表现两倍 (2x) 的表现，针对寻求放大短期风险的活跃交易者。",
-      "_added_at": "2026-07-01T06:52:14.886434+00:00"
     }
   ]
 }
