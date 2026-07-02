@@ -2,6 +2,80 @@
   "date": "2026-07-02",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-02T20:01:02Z",
+      "headline": "Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips: This Week on Wall Street",
+      "id": 60258948,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/wall-street-ai3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/wall-street-ai3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/wall-street-ai3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Dow hits record highs as weak jobs data cools rate-hike fears, Warsh debuts in Sintra, Magnificent Seven rebound, and Nike beats earnings.",
+      "symbols": [
+        "AAPL",
+        "DIA",
+        "META",
+        "MSFT",
+        "NKE",
+        "QQQ",
+        "SOXX",
+        "SPY"
+      ],
+      "updated_at": "2026-07-02T20:01:02Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60258948/week-in-review-dow-jones-record-highs",
+      "_summary": "As America approaches its 250th birthday, the Dow Jones Industrial Average — the oldest U.S. stock market index — capped a holiday-shortened week at fresh record highs, surpassing 52,500 points on Thursday . The rally reflected a great rotation from AI capex names into the blue-chip industrials, benefiting from that same spending wave. Job growth cooled sharply in June, with payrolls rising just 57,000 — well below the 115,000 consensus and down from a revised 129,000 in May.",
+      "_zh_headline": "随着资金从人工智能芯片转向蓝筹股，道琼斯指数创下历史新高：本周华尔街",
+      "_zh_summary": "随着美国诞辰 250 周年的临近，道琼斯工业平均指数（美国历史最悠久的股市指数）在假期缩短的一周中创下新的历史新高，周四突破 52,500 点。此次上涨反映了从人工智能资本支出名称转向蓝筹工业的巨大轮换，受益于同样的支出浪潮。 6 月份就业增长急剧降温，就业人数仅增加 57,000 人，远低于市场预期的 115,000 人，也低于 5 月份修正后的 129,000 人。",
+      "_added_at": "2026-07-02T20:42:04.663793+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-02T18:58:53Z",
+      "headline": "SOXX ETF's Worst 2-Day Drop in Over a Year: These 3 Chip Stocks Now Screen with 50% Upside",
+      "id": 60257048,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Semiconductors.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Semiconductors.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Semiconductors.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Semiconductors just posted their sharpest two-day slide since March 2025. The overbought signal that defined the rally has reset.",
+      "symbols": [
+        "AVGO",
+        "MU",
+        "NVDA",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-02T18:58:53Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60257048/soxx-etf-selloff-semiconductors-nvidia-micron-broadcom-price-target-upside-potential",
+      "_summary": "Semiconductors, the year’s defining momentum bet, have reversed hard in two sessions with the sector benchmark — the iShares Semiconductor ETF (NASDAQ: SOXX ) — plunging 12.9%. The reading marks the sharpest two-day decline since March 2025. SOXX is still up 82% year-to-date, one of the strongest runs anywhere in the market. It began the year near $308 and changed hands above $562 on Thursday. At its June peak, the fund was higher by almost 115% on the year.",
+      "_zh_headline": "SOXX ETF 一年多来最严重的 2 天跌幅：这 3 只筹码股现在上涨 50%",
+      "_zh_summary": "半导体是今年的决定性动能押注，但在两个交易日内出现大幅逆转，行业基准——iShares 半导体 ETF（纳斯达克股票代码：SOXX）——暴跌 12.9%。该读数标志着自 2025 年 3 月以来最大幅度的两天跌幅。SOXX 今年迄今仍上涨 82%，是市场上最强劲的涨幅之一。年初价格接近 308 美元，周四易手超过 562 美元。在 6 月份的峰值时，该基金同比上涨近 115%。",
+      "_added_at": "2026-07-02T20:42:04.663793+00:00"
+    },
+    {
       "headline": "All New York Suffers in a Heat Wave. It’s Worse in Jamaica, Queens.",
       "summary": "“Heat-vulnerable” parts of the city have few trees, little shade and limited access to air-conditioning. And the risk of death is also higher.",
       "url": "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html",
@@ -430,83 +504,6 @@
       "_summary": "The U.S. stock market has closed out its most profitable quarter in six years, a milestone celebrated by President Donald Trump as indirect negotiations between the United States and Iran wrapped up in Qatar, easing global energy supply fears. The broader market also saw significant gains, with the Dow Jones Industrial Average rising 8.9% in its best first half of the year since 2021. Investors have been heavily influenced by the geopolitical landscape, betting on an official end to the recent U.S.-Iran conflict.",
       "_zh_headline": "随着美伊间接谈判结束，特朗普称赞标普 500 指数创下 2020 年以来最好的季度表现",
       "_zh_summary": "美国股市结束了六年来最盈利的季度，唐纳德·特朗普总统庆祝了这一里程碑，因为美国和伊朗之间在卡塔尔结束了间接谈判，缓解了全球能源供应担忧。大盘也大幅上涨，道琼斯工业平均指数上涨 8.9%，创下 2021 年以来最好的上半年表现。投资者深受地缘政治格局的影响，押注最近的美伊冲突将正式结束。",
-      "_added_at": "2026-07-02T09:44:11.226494+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-02T09:38:22Z",
-      "headline": "Stock Market Today: Dow Jones Futures Rise, Nasdaq Falls as Trump Says Iran's 'Denuclearization' Is Going Well—CoreWeave, Nebius, Micron, Franklin Covey in Focus",
-      "id": 60238430,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were mixed on Thursday, as the Dow Jones and S&amp;P 500 indices rose, while the Nasdaq 100 fell.",
-      "symbols": [
-        "BTCUSD",
-        "CRWV",
-        "CULP",
-        "FC",
-        "META",
-        "MU",
-        "NBIS",
-        "QQQ",
-        "SPY",
-        "SURG",
-        "T"
-      ],
-      "updated_at": "2026-07-02T09:38:22Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60238430/stock-market-today-dow-jones-futures-rise-nasdaq-falls-as-trump-says-irans-denuclearization-is-going-well-coreweave-nebius-micron-franklin-covey-in-focus",
-      "_summary": "U.S. stock futures were mixed on Thursday, as the Dow Jones and S&P 500 indices rose, while the Nasdaq 100 fell, following Wednesday’s lower close. Investor attention is also turning toward the upcoming June nonfarm payrolls report, projected by FactSet to rise by 100,000, which will be released ahead of the opening bell. Trading volume is expected to be light ahead of the data drop, as the market will be closed tomorrow, Friday, July 3, in observance of Independence Day.",
-      "_zh_headline": "今日股市：特朗普称伊朗“无核化”进展顺利，道琼斯期货上涨，纳斯达克下跌 - CoreWeave、Nebius、美光、富兰克林柯维成为焦点",
-      "_zh_summary": "周四美国股指期货涨跌互现，道琼斯指数和标准普尔 500 指数上涨，而纳斯达克 100 指数在周三收盘走低后下跌。投资者的注意力也转向即将发布的 6 月份非农就业报告，FactSet 预计该报告将增长 100,000，该报告将于开盘前发布。由于市场将于明天（即 7 月 3 日星期五）庆祝独立日而休市，因此预计数据下降前交易量将会清淡。",
-      "_added_at": "2026-07-02T09:44:11.226494+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-02T07:41:43Z",
-      "headline": "Nasdaq Falls Over 150 Points: Investor Sentiment Improves, Greed Index Remains In ‘Fear’ Zone",
-      "id": 60237500,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Market-sentiment---Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Market-sentiment---Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Market-sentiment---Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The CNN Fear &amp; Greed index improved, while remaining in Fear zone on Wed. U.S. stocks closed mostly lower, with Nasdaq down 150 points.",
-      "symbols": [
-        "LNN",
-        "META",
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-02T07:41:43Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60237500/nasdaq-falls-over-150-points-investor-sentiment-improves-greed-index-remains-in-fear-zone",
-      "_summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the “Fear” zone on Wednesday. U.S. stocks settled mostly lower on Wednesday, with the Nasdaq Composite falling more than 150 points during the session. The Dow jumped 8.9% during the first half of the year, recording its best first-half performance since 2021. The S&P 500 gained 9.6%, while the Nasdaq climbed more than 12%.",
-      "_zh_headline": "纳斯达克跌超150点：投资者情绪改善，贪婪指数仍处于“恐惧”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪有所改善，但周三该指数仍处于“恐惧”区域。周三美国股市大多走低，纳斯达克综合指数盘中跌幅超过 150 点。道指上半年上涨 8.9%，创下 2021 年以来最佳上半年表现。标普 500 指数上涨 9.6%，纳斯达克指数上涨超过 12%。",
       "_added_at": "2026-07-02T09:44:11.226494+00:00"
     }
   ]
