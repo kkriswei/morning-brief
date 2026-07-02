@@ -2,6 +2,189 @@
   "date": "2026-07-02",
   "articles": [
     {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-07-02T08:44:44Z",
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "id": 60237968,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/NYSE.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/NYSE.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/NYSE.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "July 2, 2026: Polymarket traders are somewhat split on the S&amp;P 500 ahead of the closely watched June jobs report and Fed outlook on Thursday.",
+      "symbols": [],
+      "updated_at": "2026-07-02T08:44:44Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60237968/stock-market-will-sp-500-open-up-or-down-today-6",
+      "_summary": "The S&P 500 slipped on the first trading day of the second half of 2026 as investors continued rotating out of semiconductor stocks, while Polymarket traders remain evenly divided over Thursday’s opening direction. The S&P 500 fell 0.22% to close at 7,483.23 on Wednesday. The July 2 Polymarket contract now implies a 47% probability that the benchmark index will open higher on Thursday, after volatile trading that saw the odds swing sharply before recovering toward even odds. Markets enter Thursday awaiting the June nonfarm payrolls report, one of the most closely watched economic releases for clues on the Federal Reserve’s interest-rate path. Economists polled by Dow Jones expect the U.S. economy to have added 115,000 jobs last month. Wednesday also marked the first full trading day of the second half of 2026, following a first half in which the S&P 500 gained 9.6% and advanced 14.9% during the second quarter, its strongest quarterly performance since the second quarter of 2020.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "由于投资者继续撤出半导体股票，标普 500 指数在 2026 年下半年的第一个交易日下跌，而 Polymarket 交易员对周四的开盘方向仍然持平。标准普尔 500 指数周三下跌 0.22%，收于 7,483.23 点。 7 月 2 日的 Polymarket 合约现在意味着基准指数周四开盘走高的可能性为 47%，此前经历了波动性交易，赔率大幅波动，然后又恢复到平赔率。市场进入周四等待 6 月非农就业报告，这是最受关注的经济数据之一，旨在为美联储利率路径提供线索。道琼斯调查的经济学家预计，上个月美国经济将增加 115,000 个就业岗位。周三也是 2026 年下半年的第一个完整交易日，上半年标准普尔 500 指数上涨 9.6%，第二季度上涨 14.9%，这是自 2020 年第二季度以来最强劲的季度表现。",
+      "_added_at": "2026-07-02T09:44:11.226494+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-02T06:19:19Z",
+      "headline": "Trump Hails S&P 500's Best Quarter Since 2020 as US-Iran Indirect Talks Wrap Up",
+      "id": 60236867,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/President-Donald-Trump-speaks-at-a-White.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/President-Donald-Trump-speaks-at-a-White.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/President-Donald-Trump-speaks-at-a-White.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump hails the S&amp;P 500&#39;s 15% surge and best quarter since 2020 as US and Iran wrap up indirect talks in Doha, sending oil to 4-month lows.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "DIA",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-02T06:19:19Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60236867/trump-hails-sp-500s-best-quarter-since-2020-as-us-iran-indirect-talks-wrap-up",
+      "_summary": "The U.S. stock market has closed out its most profitable quarter in six years, a milestone celebrated by President Donald Trump as indirect negotiations between the United States and Iran wrapped up in Qatar, easing global energy supply fears. The broader market also saw significant gains, with the Dow Jones Industrial Average rising 8.9% in its best first half of the year since 2021. Investors have been heavily influenced by the geopolitical landscape, betting on an official end to the recent U.S.-Iran conflict.",
+      "_zh_headline": "随着美伊间接谈判结束，特朗普称赞标普 500 指数创下 2020 年以来最好的季度表现",
+      "_zh_summary": "美国股市结束了六年来最盈利的季度，唐纳德·特朗普总统庆祝了这一里程碑，因为美国和伊朗之间在卡塔尔结束了间接谈判，缓解了全球能源供应担忧。大盘也大幅上涨，道琼斯工业平均指数上涨 8.9%，创下 2021 年以来最好的上半年表现。投资者深受地缘政治格局的影响，押注最近的美伊冲突将正式结束。",
+      "_added_at": "2026-07-02T09:44:11.226494+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-02T09:38:22Z",
+      "headline": "Stock Market Today: Dow Jones Futures Rise, Nasdaq Falls as Trump Says Iran's 'Denuclearization' Is Going Well—CoreWeave, Nebius, Micron, Franklin Covey in Focus",
+      "id": 60238430,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures were mixed on Thursday, as the Dow Jones and S&amp;P 500 indices rose, while the Nasdaq 100 fell.",
+      "symbols": [
+        "BTCUSD",
+        "CRWV",
+        "CULP",
+        "FC",
+        "META",
+        "MU",
+        "NBIS",
+        "QQQ",
+        "SPY",
+        "SURG",
+        "T"
+      ],
+      "updated_at": "2026-07-02T09:38:22Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60238430/stock-market-today-dow-jones-futures-rise-nasdaq-falls-as-trump-says-irans-denuclearization-is-going-well-coreweave-nebius-micron-franklin-covey-in-focus",
+      "_summary": "U.S. stock futures were mixed on Thursday, as the Dow Jones and S&P 500 indices rose, while the Nasdaq 100 fell, following Wednesday’s lower close. Investor attention is also turning toward the upcoming June nonfarm payrolls report, projected by FactSet to rise by 100,000, which will be released ahead of the opening bell. Trading volume is expected to be light ahead of the data drop, as the market will be closed tomorrow, Friday, July 3, in observance of Independence Day.",
+      "_zh_headline": "今日股市：特朗普称伊朗“无核化”进展顺利，道琼斯期货上涨，纳斯达克下跌 - CoreWeave、Nebius、美光、富兰克林柯维成为焦点",
+      "_zh_summary": "周四美国股指期货涨跌互现，道琼斯指数和标准普尔 500 指数上涨，而纳斯达克 100 指数在周三收盘走低后下跌。投资者的注意力也转向即将发布的 6 月份非农就业报告，FactSet 预计该报告将增长 100,000，该报告将于开盘前发布。由于市场将于明天（即 7 月 3 日星期五）庆祝独立日而休市，因此预计数据下降前交易量将会清淡。",
+      "_added_at": "2026-07-02T09:44:11.226494+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-02T07:41:43Z",
+      "headline": "Nasdaq Falls Over 150 Points: Investor Sentiment Improves, Greed Index Remains In ‘Fear’ Zone",
+      "id": 60237500,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Market-sentiment---Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Market-sentiment---Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Market-sentiment---Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The CNN Fear &amp; Greed index improved, while remaining in Fear zone on Wed. U.S. stocks closed mostly lower, with Nasdaq down 150 points.",
+      "symbols": [
+        "LNN",
+        "META",
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-02T07:41:43Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60237500/nasdaq-falls-over-150-points-investor-sentiment-improves-greed-index-remains-in-fear-zone",
+      "_summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the “Fear” zone on Wednesday. U.S. stocks settled mostly lower on Wednesday, with the Nasdaq Composite falling more than 150 points during the session. The Dow jumped 8.9% during the first half of the year, recording its best first-half performance since 2021. The S&P 500 gained 9.6%, while the Nasdaq climbed more than 12%.",
+      "_zh_headline": "纳斯达克跌超150点：投资者情绪改善，贪婪指数仍处于“恐惧”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪有所改善，但周三该指数仍处于“恐惧”区域。周三美国股市大多走低，纳斯达克综合指数盘中跌幅超过 150 点。道指上半年上涨 8.9%，创下 2021 年以来最佳上半年表现。标普 500 指数上涨 9.6%，纳斯达克指数上涨超过 12%。",
+      "_added_at": "2026-07-02T09:44:11.226494+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-02T09:13:30Z",
+      "headline": "Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investment",
+      "id": 60238255,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/President-Donald-J--Trump-Delivers-Remar.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/President-Donald-J--Trump-Delivers-Remar.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/President-Donald-J--Trump-Delivers-Remar.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump praised Micron&#39;s $250M Trump Accounts commitment as CEO Sanjay Mehrotra said it complements its $200 billion U.S. investment.",
+      "symbols": [
+        "DELL",
+        "JPM",
+        "MU",
+        "SOFI",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-02T09:13:30Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60238255/trump-praises-microns-250-million-trump-accounts-commitment-as-ceo-highlights-200-billion-us-investment",
+      "_summary": "Trump described Micron’s commitment to the Trump Accounts program as a “historic” investment that would help “millions of American children and families,” adding that it was the largest corporate commitment of its kind. Micron CEO thanked Trump in a post on X, saying the company was “proud to be part of this historic initiative.” Mehrotra added that the broader U.S. investment is expected to create more than 90,000 jobs.",
+      "_zh_headline": "特朗普赞扬美光科技 2.5 亿美元特朗普账户承诺，首席执行官强调 2000 亿美元美国投资",
+      "_zh_summary": "特朗普将美光对特朗普账户计划的承诺描述为一项“历史性”投资，将帮助“数百万美国儿童和家庭”，并补充说这是同类企业中最大的承诺。美光科技首席执行官在 X 上发帖感谢特朗普，称该公司“很自豪能够参与这一历史性举措”。 Mehrotra 补充说，更广泛的美国投资预计将创造超过 90,000 个就业岗位。",
+      "_added_at": "2026-07-02T09:44:11.226494+00:00"
+    },
+    {
       "headline": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
       "summary": "At least 10 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.",
       "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html",
