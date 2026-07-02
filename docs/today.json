@@ -2,6 +2,66 @@
   "date": "2026-07-01",
   "articles": [
     {
+      "headline": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
+      "summary": "President Volodymyr Zelensky of Ukraine had warned hours earlier that Russia was preparing another “massive strike” on Kyiv.",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-02T00:26:16+00:00",
+      "_summary": "President Volodymyr Zelensky of Ukraine had warned hours earlier that Russia was preparing another “massive strike” on Kyiv.",
+      "_zh_headline": "俄罗斯袭击乌克兰首都基辅发生爆炸",
+      "_zh_summary": "乌克兰总统泽伦斯基几小时前警告称，俄罗斯正准备对基辅发动另一次“大规模袭击”。",
+      "_added_at": "2026-07-02T01:33:19.577724+00:00"
+    },
+    {
+      "headline": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-07-01T22:13:03+00:00",
+      "_summary": "Twenty-one-year-old Shahsawar's legs and hands were ultimately amputated Warning: This article contains images and descriptions of violence that some readers may find distressing. A dozen young Afghans who tried to reach Europe in January have told the BBC they were among a group of 50 migrants beaten and stripped by Turkish border guards before being stranded in the snow. They say they were forced from the eastern Turkish city of Van towards the Iranian border, where temperatures were sub-zero. The group added that at least 20 people froze to death. Eleven of the 12 men and boys who spoke to the BBC - including a 13-year-old - eventually lost limbs to frostbite. The group, all aged 25 or under, was eventually returned to Afghanistan. One of the migrants, Shahsawar, says he regained consciousness in a Kabul hospital to discover both his hands and legs had been amputated.",
+      "_zh_headline": "阿富汗人说，在我们因冻伤失去四肢之前，土耳其警察用铁棍殴打我们",
+      "_zh_summary": "二十一岁的沙赫萨瓦尔的双腿和双手最终被截肢。警告：本文包含一些读者可能会感到痛苦的暴力图像和描述。一月份试图到达欧洲的十几名阿富汗年轻人告诉 BBC，他们是 50 名移民中的一员，他们在被困在雪地里之前遭到土耳其边防人员的殴打和剥光。他们说，他们被迫从土耳其东部城市凡前往伊朗边境，那里的气温低于零。该组织补充说，至少有20人被冻死。接受 BBC 采访的 12 名男子和男孩中有 11 名——其中包括一名 13 岁的孩子——最终因冻伤而失去了四肢。这群人的年龄均在 25 岁或以下，最终被送回阿富汗。其中一名移民沙萨瓦 (Shahsawar) 说，他在喀布尔一家医院恢复知觉时，发现自己的手和腿都被截肢了。",
+      "_added_at": "2026-07-02T01:33:19.577724+00:00"
+    },
+    {
+      "author": "Shivdeep Dhaliwal",
+      "content": "",
+      "created_at": "2026-07-02T01:24:12Z",
+      "headline": "Micron, Nebius, Reddit, CoreWeave And Meta Platforms: Why These 5 Stocks Are On Investors' Radars Today",
+      "id": 60236015,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Trading-Investment-Charts--Investment-Fi.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Trading-Investment-Charts--Investment-Fi.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Trading-Investment-Charts--Investment-Fi.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Dow Jones Industrial Average edged down 0.03% to 52,305.24, the S&amp;P 500 lost 0.22% to 7,483.23, and the Nasdaq fell 0.66% to 26,040.03.",
+      "symbols": [
+        "CRWV",
+        "META",
+        "MU",
+        "NBIS",
+        "RDDT"
+      ],
+      "updated_at": "2026-07-02T01:24:12Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60236015/micron-nebius-reddit-coreweave-and-meta-platforms-why-these-5-stocks-are-on-investors-radars-today",
+      "_summary": "Major U.S. indices closed Wednesday in negative territory. The Dow Jones Industrial Average edged down 0.03% to 52,305.24, the S&P 500 lost 0.22% to 7,483.23, and the Nasdaq fell 0.66% to 26,040.03. These are the top stocks that gained the attention of retail traders and investors through the day: Micron Technology’s stock fell by 10.57%, closing at $1,032.28. The stock reached an intraday high of $1,097 and a low of $1,032.20, with a 52-week range between $1,255 and $103.38.",
+      "_zh_headline": "Micron、Nebius、Reddit、CoreWeave 和 Meta 平台：为何这 5 只股票如今受到投资者关注",
+      "_zh_summary": "美国主要股指周三收于负值区域。道琼斯工业平均指数微跌0.03%，至52,305.24点；标准普尔500指数下跌0.22%，至7,483.23点；纳斯达克指数下跌0.66%，至26,040.03点。以下是全天吸引散户和投资者关注的顶级股票：美光科技 (Micron Technology) 股价下跌 10.57%，收于 1,032.28 美元。该股盘中最高价为 1,097 美元，最低价为 1,032.20 美元，52 周波动区间为 1,255 美元至 103.38 美元。",
+      "_added_at": "2026-07-02T01:33:19.577724+00:00"
+    },
+    {
       "headline": "Ukraine War Crosses a Grim Milestone",
       "summary": "Also, scientists create a cell with the hallmarks of life. Here’s the latest at the end of Wednesday.",
       "url": "https://www.nytimes.com/2026/07/01/briefing/ukraine-war-casualties-air-force-one.html",
@@ -600,119 +660,6 @@
       "_zh_headline": "Marvell 科技股周三怎么样？",
       "_zh_summary": "纳斯达克期货下跌 0.44%，标准普尔 500 指数期货下跌 0.19%。此举似乎反映了更广泛的避险情绪，因为交易员在 Marvell 过去一年的强劲表现后锁定了收益。该股仍然是表现最好的半导体公司之一，因此在市场情绪疲软期间很容易受到获利了结的影响。据 CNBC 周二报道，受投资者对支持 AI 建设的公司需求的推动，Marvell 股价在本季度上涨了约 200%。",
       "_added_at": "2026-07-01T13:52:20.479839+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-01T13:14:14Z",
-      "headline": "Silver's Worst Month Since 2011: Why Wall Street's Favorite Trade Unraveled",
-      "id": 60215240,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Stacked-Silver-Bars--Silver-Reserves--St.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Stacked-Silver-Bars--Silver-Reserves--St.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Stacked-Silver-Bars--Silver-Reserves--St.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Silver fell more than 20% in June 2026, its worst month since September 2011. Here&#39;s what drove the SLV selloff — and why some traders see an overreaction.",
-      "symbols": [
-        "GLD",
-        "SLV"
-      ],
-      "updated_at": "2026-07-01T13:14:14Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60215240/silver-price-crash-june-2026-slv-worst-month-since-2011",
-      "_summary": "June is on track to be silver’s worst month in nearly 15 years. Momentum carried it to roughly $120 an ounce by late January. Five months later, that trade has crumbled. Here’s why. The first is silver’s tight relationship with gold. Bullion — tracked by the SPDR Gold Shares (NYSE: GLD ) — also fell hard in June, sliding more than 11% and giving back close to 30% from its own early-2026 peak. When the broader precious-metals complex turns, silver, the more volatile of the pair, tends to fall further and faster.",
-      "_zh_headline": "白银自 2011 年以来表现最差的一个月：为何华尔街最喜爱的交易会解体",
-      "_zh_summary": "6 月有望成为白银近 15 年来最糟糕的月份。到 1 月底，势头使其达到每盎司约 120 美元。五个月后，这种贸易就崩溃了。原因如下。首先是白银与黄金的紧密关系。 SPDR Gold Shares（纽约证券交易所股票代码：GLD）追踪的金条在 6 月份也大幅下跌，下跌超过 11%，较 2026 年初的峰值回落近 30%。当更广泛的贵金属复合体转向时，货币对中波动性更大的白银往往会进一步更快地下跌。",
-      "_added_at": "2026-07-01T13:52:20.479839+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-01T10:31:09Z",
-      "headline": "What's Going on With Intel Stock Wednesday?",
-      "id": 60210498,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Intel-Corporation.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Intel-Corporation.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Intel-Corporation.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "INTC falls 2% premarket on profit-taking. Despite the dip, technicals stay bullish ahead of July 23 earnings.",
-      "symbols": [
-        "AMD",
-        "ARM",
-        "INTC",
-        "MRVL",
-        "MU",
-        "NVDA",
-        "SNDK",
-        "SOXX",
-        "TRFK",
-        "VLUE"
-      ],
-      "updated_at": "2026-07-01T10:45:29Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60210498/whats-going-on-with-intel-stock-wednesday-7",
-      "_summary": "Nasdaq futures were down 0.54%, while S&P 500 futures slipped 0.31%, weighing on technology stocks ahead of the opening bell. Intel appeared to be facing profit-taking after a strong rally that pushed the stock close to its 52-week high. The stock has significantly outperformed the broader market over the past year. That leaves it vulnerable to short-term selling when investor sentiment weakens.",
-      "_zh_headline": "英特尔股票周三怎么样？",
-      "_zh_summary": "纳斯达克期货下跌 0.54%，标准普尔 500 指数期货下跌 0.31%，在开盘前打压科技股。英特尔股价强劲上涨并接近 52 周高点后，似乎面临获利了结。过去一年，该股的表现明显优于大盘。这使得当投资者情绪走弱时，它很容易受到短期抛售的影响。",
-      "_added_at": "2026-07-01T10:53:59.731350+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-01T09:14:14Z",
-      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Fall as Iran Rules Out Direct Talks With US—Nike, Constellation Brands, Bloom Energy in Focus",
-      "id": 60209324,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/01/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Tuesday&#39;s higher close.",
-      "symbols": [
-        "AA",
-        "BE",
-        "BTCUSD",
-        "FMC",
-        "NKE",
-        "QQQ",
-        "SPY",
-        "STZ"
-      ],
-      "updated_at": "2026-07-01T09:14:14Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60209324/stock-market-today-dow-jones-sp-500-futures-fall-as-iran-rules-out-direct-talks-with-us-nike-constellation-brands-bloom-energy-in-focus",
-      "_summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Tuesday’s higher close. Meanwhile, the 10-year Treasury bond yielded 4.47%, and the two-year bond was at 4.17%. The CME Group’s FedWatch tool’s projections show markets pricing a 66.3% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
-      "_zh_headline": "今日股市：道琼斯指数、标准普尔 500 指数期货下跌，因伊朗排除与美国直接谈判的可能性——耐克、星座品牌、布鲁姆能源成为焦点",
-      "_zh_summary": "美国股指期货周三下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二收盘走高后下跌。与此同时，10年期国债收益率为4.47%，两年期国债收益率为4.17%。 CME 集团的 FedWatch 工具的预测显示，市场预计美联储在 7 月会议期间维持当前利率不变的可能性为 66.3%。",
-      "_added_at": "2026-07-01T10:53:59.731350+00:00"
     }
   ]
 }
