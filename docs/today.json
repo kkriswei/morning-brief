@@ -2,6 +2,85 @@
   "date": "2026-07-02",
   "articles": [
     {
+      "headline": "U.S. job market slows in June",
+      "summary": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-07-02T04:49:28-04:00",
+      "_summary": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
+      "_zh_headline": "美国六月就业市场放缓",
+      "_zh_summary": "美国劳工部周五表示，由于就业增长较前两个月放缓，而失业率则降至 4.2%，6 月份雇主增加了 57,000 个就业岗位。",
+      "_added_at": "2026-07-02T14:55:29.922860+00:00"
+    },
+    {
+      "headline": "A.I. Is Reshaping the Economy. Good Luck Measuring How.",
+      "summary": "Some data suggest artificial intelligence is already causing job losses. Other sources show the opposite. Why is it so hard to figure out what’s going on?",
+      "url": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-02T14:44:42+00:00",
+      "_summary": "Some data suggest artificial intelligence is already causing job losses. Other sources show the opposite. Why is it so hard to figure out what’s going on?",
+      "_zh_headline": "人工智能。正在重塑经济。祝你好运如何衡量。",
+      "_zh_summary": "一些数据表明人工智能已经导致失业。其他消息来源显示相反的情况。为什么很难弄清楚发生了什么？",
+      "_added_at": "2026-07-02T14:55:29.922860+00:00"
+    },
+    {
+      "headline": "A Quiet Surge in ICE Arrests, and Trump’s First Flight on Plane Given by Qatar",
+      "summary": "Plus, the fight over “Y.M.C.A.”",
+      "url": "https://www.nytimes.com/2026/07/02/podcasts/the-headlines/ice-arrests-trump-plane.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-02T10:00:11+00:00",
+      "_summary": "Plus, the fight over “Y.M.C.A.”",
+      "_zh_headline": "ICE 逮捕人数悄然激增，特朗普首次乘坐卡塔尔提供的飞机",
+      "_zh_summary": "另外，关于“Y.M.C.A.”的争论",
+      "_added_at": "2026-07-02T14:55:29.922860+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-02T14:38:06Z",
+      "headline": "EXCLUSIVE: Top 12 Most-Searched Tickers in June on Benzinga Pro — SpaceX, Marvell Join List, Micron Stays On Top",
+      "id": 60247336,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Konskie--Poland---November-21--2024-Micr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Konskie--Poland---November-21--2024-Micr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Konskie--Poland---November-21--2024-Micr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A look at the most searched tickers on Benzinga Pro for the month of June 2026, with new IPO SpaceX making the list in its first month.",
+      "symbols": [
+        "AAPL",
+        "AVGO",
+        "CAST",
+        "INTC",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "ORCL",
+        "SNDK",
+        "SPCX",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-02T14:38:06Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60247336/exclusive-top-12-most-searched-tickers-in-june-on-benzinga-pro-spacex-marvell-join-list-micron-stays-on-top",
+      "_summary": "Below is a look at the most-searched tickers for June, along with how interest compares to recent months. Current prices and year-to-date performance are based on July 1 closing prices and do not include dividends. The month of June saw several changes to the top 12 with SpaceX joining the list for the first time after its highly anticipated IPO.",
+      "_zh_headline": "独家报道：Benzinga Pro 6 月份搜索次数最多的 12 个股票代码 — SpaceX、Marvell 加入其中，美光继续位居榜首",
+      "_zh_summary": "以下是 6 月份搜索次数最多的股票，以及与最近几个月的兴趣比较。当前价格和年初至今的业绩基于 7 月 1 日收盘价，不包括股息。 6 月份，前 12 名发生了一些变化，SpaceX 在备受期待的 IPO 后首次跻身榜单。",
+      "_added_at": "2026-07-02T14:55:29.922860+00:00"
+    },
+    {
       "headline": "Putin Retaliates With New Strikes After Ukraine Takes the War to Russia",
       "summary": "Ukraine is taking the war to Russia, but so far President Vladimir V. Putin’s response has been to keep attacking, including with deadly ballistic missile and drone strikes in Kyiv on Thursday.",
       "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html",
@@ -401,42 +480,6 @@
       "_summary": "\"I never, I never\": Watch Twana Jamal's reaction when BBC confronts him about people smuggling A convicted people smuggler, once described as \"the godfather\" of the French migrant camps, is living in Leicestershire and believed to be seeking asylum while working illegally, a BBC investigation can reveal. Twana Jamal was given a five-year jail sentence in France in 2016, where authorities described him as one of the most successful people smugglers ever caught. Prosecutors said the Iraqi Kurd, aged 36 at the time, had earned up to Â£100,000 a week for moving illegal immigrants across the Channel. Following a tip-off this year, we traced Jamal to the village of Blaby and witnessed him working, driving a car without a licence and apparently using a false name. Jamal's presence in the UK raises serious concerns about whether existing border controls are effective in checking asylum seekers who have committed serious crimes overseas.",
       "_zh_headline": "BBC发现在法国被定罪的人口走私者居住在英国并寻求庇护",
       "_zh_summary": "“我从来没有，我从来没有”：观察特瓦纳·贾马尔在 BBC 就人口走私问题与他对峙时的反应 英国广播公司 (BBC) 的一项调查显示，一名被定罪的人口走私犯曾被称为法国移民营的“教父”，目前居住在莱斯特郡，据信他在非法工作期间寻求庇护。 2016 年，特瓦纳·贾马尔 (Twana Jamal) 在法国被判处五年监禁，当局称他是迄今为止抓获的最成功的人口走私犯之一。检察官称，这名当时 36 岁的伊拉克库尔德人因运送非法移民穿越英吉利海峡而每周赚取高达 10 万英镑的收入。今年接到举报后，我们追踪贾马尔来到了布拉比村，亲眼目睹他工作、驾驶无证汽车、显然使用假名。贾马尔在英国的存在引发了人们对现有边境管制是否能有效检查在海外犯下严重罪行的寻求庇护者的严重担忧。",
-      "_added_at": "2026-07-02T06:23:19.462021+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-07-02T01:24:12Z",
-      "headline": "Micron, Nebius, Reddit, CoreWeave And Meta Platforms: Why These 5 Stocks Are On Investors' Radars Today",
-      "id": 60236015,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Trading-Investment-Charts--Investment-Fi.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Trading-Investment-Charts--Investment-Fi.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Trading-Investment-Charts--Investment-Fi.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The Dow Jones Industrial Average edged down 0.03% to 52,305.24, the S&amp;P 500 lost 0.22% to 7,483.23, and the Nasdaq fell 0.66% to 26,040.03.",
-      "symbols": [
-        "CRWV",
-        "META",
-        "MU",
-        "NBIS",
-        "RDDT"
-      ],
-      "updated_at": "2026-07-02T01:24:12Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60236015/micron-nebius-reddit-coreweave-and-meta-platforms-why-these-5-stocks-are-on-investors-radars-today",
-      "_summary": "Major U.S. indices closed Wednesday in negative territory. The Dow Jones Industrial Average edged down 0.03% to 52,305.24, the S&P 500 lost 0.22% to 7,483.23, and the Nasdaq fell 0.66% to 26,040.03. These are the top stocks that gained the attention of retail traders and investors through the day: Micron Technology’s stock fell by 10.57%, closing at $1,032.28. The stock reached an intraday high of $1,097 and a low of $1,032.20, with a 52-week range between $1,255 and $103.38.",
-      "_zh_headline": "Micron、Nebius、Reddit、CoreWeave 和 Meta 平台：为何这 5 只股票如今受到投资者关注",
-      "_zh_summary": "美国主要股指周三收于负值区域。道琼斯工业平均指数微跌0.03%，至52,305.24点；标准普尔500指数下跌0.22%，至7,483.23点；纳斯达克指数下跌0.66%，至26,040.03点。以下是全天吸引散户和投资者关注的顶级股票：美光科技 (Micron Technology) 股价下跌 10.57%，收于 1,032.28 美元。该股盘中最高价为 1,097 美元，最低价为 1,032.20 美元，52 周波动区间为 1,255 美元至 103.38 美元。",
       "_added_at": "2026-07-02T06:23:19.462021+00:00"
     }
   ]
