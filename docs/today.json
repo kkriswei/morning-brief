@@ -2,6 +2,89 @@
   "date": "2026-07-02",
   "articles": [
     {
+      "headline": "Tucker Carlson, Who Broke With Trump, Plans to ‘Help Build a Third Party’",
+      "summary": "The influential conservative commentator’s relationship with the president and the G.O.P. fractured over the war with Iran. Now, he says he is charting a new course.",
+      "url": "https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-02T15:39:07+00:00",
+      "_summary": "The influential conservative commentator’s relationship with the president and the G.O.P. fractured over the war with Iran. Now, he says he is charting a new course.",
+      "_zh_headline": "与特朗普决裂的塔克·卡尔森计划“帮助建立第三方”",
+      "_zh_summary": "这位有影响力的保守派评论员与总统和共和党的关系因与伊朗的战争而分裂。现在，他说他正在制定新的路线。",
+      "_added_at": "2026-07-02T17:11:54.220157+00:00"
+    },
+    {
+      "headline": "US Job Market Makes Slower but Steady Gains, June Employment Data Shows",
+      "summary": "Employers added fewer jobs in June than a month earlier but the unemployment rate ticked down, a decent showing for the U.S. economy.",
+      "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-02T16:03:08+00:00",
+      "_summary": "Employers added fewer jobs in June than a month earlier but the unemployment rate ticked down, a decent showing for the U.S. economy.",
+      "_zh_headline": "六月就业数据显示，美国就业市场增长缓慢但稳定",
+      "_zh_summary": "六月份雇主增加的就业岗位比一个月前减少，但失业率有所下降，这对美国经济来说是一个不错的表现。",
+      "_added_at": "2026-07-02T17:11:54.220157+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-02T16:56:22Z",
+      "headline": "Dow Jones Hits Record High as Chip Bloodbath Sinks Nasdaq 100: Stock Market Today",
+      "id": 60252913,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/NYSE-and-Wall-St.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/NYSE-and-Wall-St.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/NYSE-and-Wall-St.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Dow hit a record after a weak June jobs report eased Fed rate-hike fears, but a sharp semiconductor rout dragged the Nasdaq 100 lower Thursday.",
+      "symbols": [
+        "AAOI",
+        "AUGO",
+        "AVAV",
+        "BTCUSD",
+        "DIA",
+        "FIG",
+        "FORM",
+        "GDX",
+        "IWM",
+        "KLAC",
+        "LLY",
+        "LRCX",
+        "META",
+        "MU",
+        "ONTO",
+        "QQQ",
+        "RIVN",
+        "SITM",
+        "SMH",
+        "SPY",
+        "THC",
+        "TSLA",
+        "V",
+        "VICR",
+        "VOO",
+        "XLK",
+        "XLP",
+        "XLV"
+      ],
+      "updated_at": "2026-07-02T16:56:22Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60252913/dow-jones-record-highs-nasdaq-100-sinks-chipmakers-selloff",
+      "_summary": "The Dow Jones Industrial Average powered to a fresh record high above 52,700 by midday Thursday after a sharply weaker-than-expected June jobs report pushed investors to unwind bets that the Federal Reserve would be forced to raise interest rates in the near term. Yet the rally was far from broad: a brutal selloff in semiconductor stocks dragged tech-heavy indices down. The S&P 500 hovered 0.3% lower at 7,466.91, weighed by its heavy technology component.",
+      "_zh_headline": "芯片血洗纳斯达克 100 指数，道琼斯指数创历史新高：今日股市",
+      "_zh_summary": "周四中午，道琼斯工业平均指数升至 52,700 点上方的新纪录高位，此前 6 月份就业报告大幅弱于预期，促使投资者放弃对美联储将被迫在短期内加息的押注。然而，涨势远非广泛：半导体股票的惨烈抛售拖累了以科技股为主的股指下跌。受重型科技股拖累，标准普尔 500 指数下跌 0.3%，至 7,466.91 点。",
+      "_added_at": "2026-07-02T17:11:54.220157+00:00"
+    },
+    {
       "headline": "U.S. job market slows in June",
       "summary": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
       "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
@@ -444,42 +527,6 @@
       "_summary": "On Wednesday, President Donald Trump’s upbeat assessment of U.S.-Iran negotiations weighed on oil prices and shaped global market sentiment, even as Asian equities tumbled sharply. Dow futures fell 43.00 points, or 0.08%, to 52,625.00, while S&P 500 futures gained 4.75 points, or 0.06%, to 7,548.25 and Nasdaq 100 futures climbed 93.00 points, or 0.31%, to 30,187.25 as of around 9:18 p.m. EDT. In commodities, WTI crude oil fell 1.17% to $67.78 per barrel, while Brent crude declined 0.99% to $70.86 per barrel. Natural gas futures slipped 0.78% to $3.195 per MMBtu. Meanwhile, the U.S. dollar index, which tracks the greenback against a basket of currencies, stood at 101.402, little changed on the day. Asian markets were lower, with South Korea’s KOSPI falling 5.15% to 7,875.59, while Japan’s Nikkei 225 declined 1.64% to 69,318.16.",
       "_zh_headline": "特朗普称伊朗谈判“进展顺利”油价跌至近 67 美元，韩国 KOSPI 跌幅超过 5%",
       "_zh_summary": "周三，美国总统特朗普对美伊谈判的乐观评估打压了油价，并影响了全球市场情绪，尽管亚洲股市大幅下跌。截至9点18分左右，道琼斯指数期货下跌43.00点，即0.08%，至52,625.00点；标准普尔500指数期货上涨4.75点，即0.06%，至7,548.25点；纳斯达克100指数期货上涨93.00点，即0.31%，至30,187.25点。下午美东时间。大宗商品方面，WTI 原油下跌 1.17%，至每桶 67.78 美元，布伦特原油下跌 0.99%，至每桶 70.86 美元。天然气期货下跌 0.78%，至每 MMBtu 3.195 美元。与此同时，追踪美元兑一篮子货币的美元指数报101.402，当天变化不大。亚洲市场走低，韩国综合股价指数下跌 5.15%，至 7,875.59 点；日本日经 225 指数下跌 1.64%，至 69,318.16 点。",
-      "_added_at": "2026-07-02T06:23:19.462021+00:00"
-    },
-    {
-      "headline": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-01T22:13:03+00:00",
-      "_summary": "Twenty-one-year-old Shahsawar's legs and hands were ultimately amputated Warning: This article contains images and descriptions of violence that some readers may find distressing. A dozen young Afghans who tried to reach Europe in January have told the BBC they were among a group of 50 migrants beaten and stripped by Turkish border guards before being stranded in the snow. They say they were forced from the eastern Turkish city of Van towards the Iranian border, where temperatures were sub-zero. The group added that at least 20 people froze to death. Eleven of the 12 men and boys who spoke to the BBC - including a 13-year-old - eventually lost limbs to frostbite. The group, all aged 25 or under, was eventually returned to Afghanistan. One of the migrants, Shahsawar, says he regained consciousness in a Kabul hospital to discover both his hands and legs had been amputated.",
-      "_zh_headline": "阿富汗人说，在我们因冻伤失去四肢之前，土耳其警察用铁棍殴打我们",
-      "_zh_summary": "二十一岁的沙赫萨瓦尔的双腿和双手最终被截肢。警告：本文包含一些读者可能会感到痛苦的暴力图像和描述。一月份试图到达欧洲的十几名阿富汗年轻人告诉 BBC，他们是 50 名移民中的一员，他们在被困在雪地里之前遭到土耳其边防人员的殴打和剥光。他们说，他们被迫从土耳其东部城市凡前往伊朗边境，那里的气温低于零。该组织补充说，至少有20人被冻死。接受 BBC 采访的 12 名男子和男孩中有 11 名——其中包括一名 13 岁的孩子——最终因冻伤而失去了四肢。这群人的年龄均在 25 岁或以下，最终被送回阿富汗。其中一名移民沙萨瓦 (Shahsawar) 说，他在喀布尔一家医院恢复知觉时，发现自己的手和腿都被截肢了。",
-      "_added_at": "2026-07-02T06:23:19.462021+00:00"
-    },
-    {
-      "headline": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-02T06:07:11+00:00",
-      "_summary": "Explosions formed a crater next to bombed-out buildings in Kyiv Russian forces have launched a major drone and missile attack on the Ukrainian capital Kyiv overnight, killing 13 people, officials say. Several neighbourhoods were evacuated as strikes rocked buildings throughout the city, hours after Ukrainian President Volodymyr Zelensky warned Russia was preparing for a \"massive\" attack. Children were among the \"significant number\" of casualties, Tymur Tkachenko, the head of Kyiv's âmilitary administration, said. \"The enemy is once again deliberately targeting residential areas and killing civilians,\" he said early on Thursday. Russia's Ministry of Defence claimed it targeted energy facilities in response to recent Ukrainian strikes. Firefighters battle flames raging in central Kyiv overnight after a wave of air strikes On Thursday morning, daylight brought clearer images of a crater which appeared to be caused by the impact of explosions.",
-      "_zh_headline": "俄罗斯大规模导弹和无人机袭击基辅 至少13人死亡",
-      "_zh_summary": "官员称，基辅被炸毁的建筑物旁发生爆炸，俄罗斯军队连夜对乌克兰首都基辅发动了大规模无人机和导弹袭击，造成 13 人死亡。乌克兰总统泽连斯基警告俄罗斯正在准备发动“大规模”袭击，数小时后，全市建筑物遭到袭击，数个街区被疏散。基辅军事行政当局负责人泰穆尔·特卡琴科表示，儿童是“大量”伤亡者之一。 “敌人再次蓄意瞄准居民区并杀害平民，”他周四早些时候表示。俄罗斯国防部声称，针对最近乌克兰的袭击，其以能源设施为目标。一波空袭后，消防员在夜间与基辅市中心熊熊大火搏斗。周四早上，日光下清晰地显示出一个似乎是由爆炸影响造成的弹坑。",
-      "_added_at": "2026-07-02T06:23:19.462021+00:00"
-    },
-    {
-      "headline": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-02T05:00:03+00:00",
-      "_summary": "\"I never, I never\": Watch Twana Jamal's reaction when BBC confronts him about people smuggling A convicted people smuggler, once described as \"the godfather\" of the French migrant camps, is living in Leicestershire and believed to be seeking asylum while working illegally, a BBC investigation can reveal. Twana Jamal was given a five-year jail sentence in France in 2016, where authorities described him as one of the most successful people smugglers ever caught. Prosecutors said the Iraqi Kurd, aged 36 at the time, had earned up to Â£100,000 a week for moving illegal immigrants across the Channel. Following a tip-off this year, we traced Jamal to the village of Blaby and witnessed him working, driving a car without a licence and apparently using a false name. Jamal's presence in the UK raises serious concerns about whether existing border controls are effective in checking asylum seekers who have committed serious crimes overseas.",
-      "_zh_headline": "BBC发现在法国被定罪的人口走私者居住在英国并寻求庇护",
-      "_zh_summary": "“我从来没有，我从来没有”：观察特瓦纳·贾马尔在 BBC 就人口走私问题与他对峙时的反应 英国广播公司 (BBC) 的一项调查显示，一名被定罪的人口走私犯曾被称为法国移民营的“教父”，目前居住在莱斯特郡，据信他在非法工作期间寻求庇护。 2016 年，特瓦纳·贾马尔 (Twana Jamal) 在法国被判处五年监禁，当局称他是迄今为止抓获的最成功的人口走私犯之一。检察官称，这名当时 36 岁的伊拉克库尔德人因运送非法移民穿越英吉利海峡而每周赚取高达 10 万英镑的收入。今年接到举报后，我们追踪贾马尔来到了布拉比村，亲眼目睹他工作、驾驶无证汽车、显然使用假名。贾马尔在英国的存在引发了人们对现有边境管制是否能有效检查在海外犯下严重罪行的寻求庇护者的严重担忧。",
       "_added_at": "2026-07-02T06:23:19.462021+00:00"
     }
   ]
