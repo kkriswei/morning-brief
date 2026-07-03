@@ -2,6 +2,94 @@
   "date": "2026-07-03",
   "articles": [
     {
+      "headline": "With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War",
+      "summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-03T07:03:39+00:00",
+      "_summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
+      "_zh_headline": "乌克兰希望通过袭击克里米亚向普京施压以结束战争",
+      "_zh_summary": "俄罗斯吞并地区不断升级的无人机袭击、燃料短缺和断电等因素让俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)感到愤怒。",
+      "_added_at": "2026-07-03T11:51:32.226231+00:00"
+    },
+    {
+      "headline": "Former USAID head grieves its closure while hoping for its future",
+      "summary": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-07-03T07:00:00-04:00",
+      "_summary": "Ambassador Samantha Power (C), former head of the United States Agency for International Development (USAID), embraces fired employees and their supporters outside the agency's headquarters on February 27, 2025 in Washington, D.C. Chip Somodevilla/Getty Images hide caption When Samantha Power walked out of the United States Agency for International Development's headquarters in Washington, D.C., for the last time on January 20, 2025, she had no idea what was to become of the agency she had led for the Biden administration for the past four years. Within days, the new Trump administration had put a stop work order on all U.S. foreign assistance, halting thousands of programs around the world — including emergency lifesaving ones — and began dismantling USAID. \"I was as shocked as I was horrified,\" Power said in an interview with NPR.",
+      "_zh_headline": "美国国际开发署前负责人对其关闭表示悲痛，同时对它的未来充满希望",
+      "_zh_summary": "2025 年 2 月 27 日，美国国际开发署 (USAID) 前局长萨曼莎·鲍尔 (Samantha Power) 大使（中）在华盛顿特区的该机构总部外拥抱被解雇的员工及其支持者。 Chip Somodevilla/Getty Images 隐藏标题栏 2025 年 1 月 20 日，当萨曼莎·鲍尔最后一次走出美国国际开发署位于华盛顿特区的总部时，她不知道会发生什么。过去四年她为拜登政府领导的机构。几天之内，特朗普新政府就对美国所有对外援助下达了停工令，停止了世界各地的数千个项目——包括紧急救生项目——并开始解散美国国际开发署。鲍尔在接受美国国家公共广播电台采访时表示：“我既震惊又害怕。”",
+      "_added_at": "2026-07-03T11:51:32.226231+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-03T10:28:10Z",
+      "headline": "Michael Burry Is Shorting Micron as a 'Destroyer Of Capital' Despite Trump's Praises and a 241% Rally— Here's Why",
+      "id": 60265248,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/03/Image-Of-Michael-Burry.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/03/Image-Of-Michael-Burry.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/03/Image-Of-Michael-Burry.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Michael Burry is shorting Micron (MU). See why the &#39;Big Short&#39; investor calls the AI chipmaker a &#34;capital destroyer&#34; nearing bubble peaks.",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-07-03T10:28:10Z",
+      "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/07/60265248/michael-burry-is-shorting-micron-as-a-destroyer-of-capital-despite-trumps-praises-and-a-241-rally-heres-why",
+      "_summary": "Burry disclosed the thesis on his private Substack , expanding his broader bearish campaign against overextended AI infrastructure equities. Despite Micron’s massive gains over the past year, driven by aggressive artificial intelligence demand , Burry revealed he shorted the stock “even though it was down a good amount,” as of Thursday, firmly betting that the current semiconductor frenzy is unsustainably overheated.",
+      "_zh_headline": "尽管特朗普大加赞扬且股价上涨 241%，但迈克尔·伯里 (Michael Burry) 仍然做空美光科技，称其为“资本毁灭者”——原因如下",
+      "_zh_summary": "Burry 披露了他的私人 Substack 论文，扩大了他针对过度扩张的人工智能基础设施股票的更广泛的看跌运动。尽管在人工智能需求强劲的推动下，美光科技在过去一年中取得了巨大的收益，但伯里透露，截至周四，他“尽管股价大幅下跌”，但还是做空了该股，坚定地认为当前的半导体热潮已经过热，不可持续。",
+      "_added_at": "2026-07-03T11:51:32.226231+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-03T09:58:38Z",
+      "headline": "Performance Comparison: Micron Technology And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "id": 60265068,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "In today&#39;s rapidly changing and fiercely competitive business landscape, it is vital for investors and industry enthusiasts to carefully evaluate companies. In this article, we will perform a comprehensive industry",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-07-03T09:58:38Z",
+      "url": "https://www.benzinga.com/news/26/07/60265068/performance-comparison-micron-technology-and-competitors-semiconductors-amp-semiconductor-equipment-",
+      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
+      "_zh_headline": "性能比较：美光科技与半导体及半导体设备行业竞争对手",
+      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
+      "_added_at": "2026-07-03T11:51:32.226231+00:00"
+    },
+    {
       "author": "Namrata Sen",
       "content": "",
       "created_at": "2026-07-03T06:52:30Z",
