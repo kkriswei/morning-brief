@@ -2,6 +2,30 @@
   "date": "2026-07-02",
   "articles": [
     {
+      "headline": "Trump’s Huge Windfall Has Few Known Global Precedents",
+      "summary": "President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-03T00:00:42+00:00",
+      "_summary": "President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.",
+      "_zh_headline": "特朗普的巨额横财在全球鲜有先例",
+      "_zh_summary": "特朗普总统在任期间的收入水平对于任何自由民主国家的领导人来说都是难以想象的，尤其是现任美国总统。",
+      "_added_at": "2026-07-03T01:11:08.467938+00:00"
+    },
+    {
+      "headline": "JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025",
+      "summary": "But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.",
+      "url": "https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-02T20:53:01+00:00",
+      "_summary": "But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.",
+      "_zh_headline": "JD Vance 和梅拉尼娅·特朗普 2025 年收入也大幅增长",
+      "_zh_summary": "但副总统和第一夫人带来的收入与特朗普总统相比就相形见绌了。",
+      "_added_at": "2026-07-03T01:11:08.467938+00:00"
+    },
+    {
       "headline": "With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War",
       "summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
       "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
@@ -403,81 +427,6 @@
       "_summary": "A new study, backed up by analysts and political leaders, says frequent drone flights over NATO military assets mark a Russian campaign to probe defenses and gather information.",
       "_zh_headline": "欧洲上空的无人机引发对俄罗斯活动的担忧",
       "_zh_summary": "一项得到分析人士和政治领导人支持的新研究称，无人机频繁飞越北约军事资产标志着俄罗斯正在开展探测防御和收集信息的活动。",
-      "_added_at": "2026-07-02T12:29:36.474824+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-07-02T10:39:07Z",
-      "headline": "Gold Eyes Recovery After Worst Quarter in 13 Years—What’s Next?",
-      "id": 60239618,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "After a 7.5% drop in H1 2026, will gold rebound to $4,500 or consolidate? Discover the key support levels and World Gold Council outlook.",
-      "symbols": [
-        "GDX",
-        "GDXJ",
-        "GLD",
-        "GLDM",
-        "IAU",
-        "IAUM",
-        "OUNZ",
-        "RING",
-        "SGOL"
-      ],
-      "updated_at": "2026-07-02T10:39:07Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60239618/gold-eyes-recovery-after-worst-quarter-in-13-years-whats-next",
-      "_summary": "After booking 2025 as one of the best years in history, gold concluded the first half of 2026 around 7.5% in the red. The metal left investors weighing whether it’s preparing for another leg higher or settling into a prolonged consolidation phase. Early on, gold’s rapid ascent accelerated amid heightened geopolitical risk, but then the U.S.-Iran conflict sent realized volatility above 50%. Although volatility has since eased below 30%, it remains above its long-term average.",
-      "_zh_headline": "金眼在经历了 13 年来最糟糕的季度后复苏——接下来会怎样？",
-      "_zh_summary": "在将 2025 年定为历史上最好的年份之一之后，黄金在 2026 年上半年结束时下跌了 7.5% 左右。这种金属让投资者权衡是准备再次走高还是进入长期盘整阶段。早些时候，由于地缘政治风险加剧，金价快速上涨，但随后美伊冲突导致实际波动率超过50%。尽管波动性此后已降至 30% 以下，但仍高于长期平均水平。",
-      "_added_at": "2026-07-02T12:29:36.474824+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-02T10:23:14Z",
-      "headline": "What's Going on With Micron Technology Stock Thursday?",
-      "id": 60239152,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Micron-Technology-Office-Campus-In-Silic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Micron-Technology-Office-Campus-In-Silic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/02/Micron-Technology-Office-Campus-In-Silic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron Technology (NASDAQ: MU) drops 2% in premarket. Explore MU&#39;s technical setup, key ETF exposure, and analyst outlook.",
-      "symbols": [
-        "DAX",
-        "MU",
-        "SOXQ",
-        "SPMO"
-      ],
-      "updated_at": "2026-07-02T10:23:14Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60239152/whats-going-on-with-micron-technology-stock-thursday-2",
-      "_summary": "Micron Technology Inc. (NASDAQ: MU ) stock fell more than 2% in Thursday’s premarket session as risk appetite cooled across technology stocks. Nasdaq futures were down 0.42%, while S&P 500 futures slipped 0.04%. The decline comes as investors take some risk off the table after Micron’s sharp rally over the past year. The stock remains well above its longer-term trend lines, but the latest move shows traders are still reacting to short-term weakness in chip stocks.",
-      "_zh_headline": "周四美光科技股票怎么样？",
-      "_zh_summary": "由于科技股的风险偏好降温，美光科技公司（纳斯达克股票代码：MU）股价在周四盘前交易中下跌超过 2%。纳斯达克期货下跌 0.42%，标准普尔 500 指数期货下跌 0.04%。美光科技去年大幅上涨后，投资者开始规避一些风险，导致股价下跌。该股仍远高于其长期趋势线，但最新走势表明交易员仍在对芯片股的短期疲软做出反应。",
       "_added_at": "2026-07-02T12:29:36.474824+00:00"
     }
   ]
