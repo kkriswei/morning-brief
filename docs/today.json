@@ -2,6 +2,47 @@
   "date": "2026-07-03",
   "articles": [
     {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-03T17:35:24Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60266614,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "symbols": [
+        "AAPL",
+        "ANET",
+        "BB",
+        "IREN",
+        "MSTR",
+        "MU",
+        "NBIS",
+        "NOK",
+        "NOW",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-03T17:35:24Z",
+      "url": "https://www.benzinga.com/markets/options/26/07/60266614/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
+      "_added_at": "2026-07-03T18:47:24.970500+00:00"
+    },
+    {
       "headline": "But first, coffee: The drink that energized the American Revolution",
       "summary": "Colonial Americans were drinking coffee long before they dumped tea into Boston Harbor or fought a war for independence. The establishments that served it were already brewing revolutionary ideas.",
       "url": "https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party",
