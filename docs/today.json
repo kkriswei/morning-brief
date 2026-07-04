@@ -2,6 +2,52 @@
   "date": "2026-07-04",
   "articles": [
     {
+      "headline": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "summary": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.",
+      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-04T16:12:23+00:00",
+      "_summary": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.",
+      "_zh_headline": "伊朗最高领袖阿里·哈梅内伊的葬礼",
+      "_zh_summary": "伊朗新领导人正在纪念阿亚图拉阿里·哈梅内伊，他在美以战争的第一天被杀，葬礼与近代历史上的任何一次葬礼都不一样。",
+      "_added_at": "2026-07-04T18:33:22.999786+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-04T17:06:11Z",
+      "headline": "Bitcoin Price Attempts Recovery as ETF Outflows Suggest Rotation to Stocks",
+      "id": 60268771,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bitcoin-Cryptocurrency-Red-Light-Warning.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bitcoin-Cryptocurrency-Red-Light-Warning.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bitcoin-Cryptocurrency-Red-Light-Warning.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bitcoin price is attempting its recovery this week as ETF outflows suggest that investors are rotating to the stock market amid the AI boom",
+      "symbols": [
+        "BTCUSD",
+        "MSTR",
+        "VOO"
+      ],
+      "updated_at": "2026-07-04T17:06:11Z",
+      "url": "https://www.benzinga.com/crypto/26/07/60268771/bitcoin-price-attempts-recovery-as-etf-outflows-suggest-rotation-to-stocks",
+      "_summary": "Bitcoin ( CRYPTO: BTC) price is attempting a comeback, rising in the past four consecutive days, reaching its highest point since June 23, even as exchange-traded funds (ETF) outflows jumped. BTC jumped to $62,615, up by 8.7% from its lowest point this month. BTC price rose for four days as investors attempted to buy the dip after falling by over 50% from its all-time high. This rebound coincided with some ETF inflows on Thursday.",
+      "_zh_headline": "比特币价格试图回升，因为 ETF 资金流出表明资金转向股票",
+      "_zh_summary": "比特币（CRYPTO：BTC）价格正试图卷土重来，在过去连续四天上涨，达到 6 月 23 日以来的最高点，尽管交易所交易基金（ETF）资金流出大幅增加。 BTC 跃升至 62,615 美元，较本月最低点上涨 8.7%。 BTC 价格连续四天上涨，因投资者在较历史高点下跌超过 50% 后试图逢低买入。此次反弹与周四部分 ETF 资金流入同时发生。",
+      "_added_at": "2026-07-04T18:33:22.999786+00:00"
+    },
+    {
       "headline": "Trump Takes Stock of Other Presidencies, Shedding Light on His Own",
       "summary": "In his second term, the president has increasingly mused about his predecessors, comparing himself with some and distancing from the failures of others.",
       "url": "https://www.nytimes.com/2026/07/03/us/politics/trump-takes-stock-of-other-presidencies-shedding-light-on-his-own.html",
