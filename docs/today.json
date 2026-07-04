@@ -2,6 +2,40 @@
   "date": "2026-07-04",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-04T20:46:26Z",
+      "headline": "Top Three S&P 500 Index Stocks to Watch Next Week: PepsiCo, Delta, Micron",
+      "id": 60268946,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The top S&amp;P 500 Index stocks to watch next week include popular names like PepsiCo, Delta Air Lines, and Micron.",
+      "symbols": [
+        "DAL",
+        "MU",
+        "PEP"
+      ],
+      "updated_at": "2026-07-04T20:46:26Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60268946/top-three-sp-500-index-stocks-to-watch-next-week-pepsico-delta-micron",
+      "_summary": "The S&P 500 Index has wavered in the last month as energy and artificial intelligence stocks pulled back. It ended the week at $7,483, a few points below the all-time high of $7,620. PepsiCo, the beverage and snacking company, will be in focus as it publishes its financial results on July 9. These results come at a time when it remains in a correction after falling by over 15% from its highest point this year. The most recent earnings report showed that its revenue and earnings per share were better-than-expected.",
+      "_zh_headline": "下周值得关注的三大标普 500 指数股票：百事可乐、达美航空、美光科技",
+      "_zh_summary": "随着能源和人工智能股票回落，标准普尔 500 指数上个月出现波动。本周收盘价为 7,483 美元，比历史高点 7,620 美元低几个点。饮料和零食公司百事可乐公司将于 7 月 9 日发布财务业绩，该公司将成为人们关注的焦点。这些业绩公布之际，该公司股价较今年最高点下跌了 15% 以上，目前仍处于调整之中。最新财报显示，其营收和每股收益均好于预期。",
+      "_added_at": "2026-07-04T22:29:39.160236+00:00"
+    },
+    {
       "headline": "Iran Projects Unity to the World While Pursuing a Crackdown at Home",
       "summary": "The country’s security service has continued to target civil society and dissidents, including thousands of arrests since the launch of the U.S.-Israeli war in February.",
       "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-dissidents-crackdown.html",
