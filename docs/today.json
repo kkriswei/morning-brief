@@ -2,6 +2,48 @@
   "date": "2026-07-05",
   "articles": [
     {
+      "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-07-05T08:24:32+00:00",
+      "_summary": "Scorching heat and delays: How Washington DC marked US' 250th birthday The US has marked its 250th birthday with fireworks and flyovers - but celebrations across the country were complicated by extreme weather. \"The American dream is back,\" US President Donald Trump told a cheering crowd during a delayed rally in Washington's National Mall, before what he described as the world's largest firework display. The 4 July federal holiday commemorates the 13 US colonies signing the Declaration of Independence in 1776 to end British rule. Despite the celebrations, Trump has been criticised for making himself central to the milestone and politicising the celebrations. The president's speech, which wrapped up just before midnight, touched on political themes including the rejection of communism, his backing of the Save America Act and the right to bear arms.",
+      "_zh_headline": "美国以烟花、天桥和极端天气庆祝 250 岁生日",
+      "_zh_summary": "酷热和延误：华盛顿特区如何庆祝美国 250 岁生日 美国用烟花和立交桥庆祝其 250 岁生日 - 但全国各地的庆祝活动因极端天气而变得复杂。 “美国梦回来了，”美国总统唐纳德·特朗普在华盛顿国家广场举行的一次推迟的集会上对欢呼的人群说道，随后他称这是世界上最大的烟花表演。 7 月 4 日联邦假日是为了纪念 1776 年美国 13 个殖民地签署《独立宣言》以结束英国统治。尽管举行了庆祝活动，但特朗普仍因将自己置于这一里程碑的中心并将庆祝活动政治化而受到批评。总统的演讲在午夜前结束，涉及政治主题，包括拒绝共产主义、支持《拯救美国法案》以及携带武器的权利。",
+      "_added_at": "2026-07-05T08:26:58.235381+00:00"
+    },
+    {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-05T06:50:06Z",
+      "headline": "Trump Offers to Help Broker Ukraine Peace Deal in Nearly 90-Minute Call With Putin",
+      "id": 60269231,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Us-President-Donald-Trump-And-Russian-Pr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Us-President-Donald-Trump-And-Russian-Pr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Us-President-Donald-Trump-And-Russian-Pr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump offered to help broker a resolution to the Ukraine war during a nearly 90-minute call with Russian President Vladimir Putin on Saturday.",
+      "symbols": [],
+      "updated_at": "2026-07-05T06:50:06Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60269231/trump-offers-to-help-broker-ukraine-peace-deal-in-nearly-90-minute-call-with-putin",
+      "_summary": "President Donald Trump offered to help broker a resolution to the Ukraine war during a nearly 90-minute call with Russian President Vladimir Putin on Saturday. According to a statement released early Sunday by Kremlin aide Yuri Ushakov , the conversation was “business-like and quite constructive.” Russia said it is seeking a political and diplomatic settlement based on its “fundamental approach.” Ushakov accused Kyiv and its European allies of escalating the conflict through long-range strikes on Russian oil infrastructure. He said Putin described the battlefield situation, claiming Russian forces are “confidently advancing, liberating one locality after another.” Russia said on Saturday that it had taken control of Kostiantynivka, an important industrial city in Ukraine’s Donetsk region known for its glassmaking industry. Ukraine has denied this claim.",
+      "_zh_headline": "特朗普在与普京近 90 分钟的通话中表示愿意帮助斡旋者达成乌克兰和平协议",
+      "_zh_summary": "周六，唐纳德·特朗普总统与俄罗斯总统弗拉基米尔·普京进行了近 90 分钟的通话，表示愿意帮助调解乌克兰战争的解决方案。根据克里姆林宫助手尤里·乌沙科夫周日早些时候发表的一份声明，这次谈话“很务实，而且很有建设性”。俄罗斯表示，正在寻求基于其“基本方针”的政治和外交解决方案。乌沙科夫指责基辅及其欧洲盟友通过对俄罗斯石油基础设施的远程打击使冲突升级。他说，普京描述了战场局势，声称俄罗斯军队“正在自信地前进，解放一个又一个地方”。俄罗斯周六表示，它已经控制了科斯蒂安蒂尼夫卡，这是乌克兰顿涅茨克地区的一个重要工业城市，以玻璃制造工业而闻名。乌克兰否认了这一说法。",
+      "_added_at": "2026-07-05T08:26:58.235381+00:00"
+    },
+    {
       "headline": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
       "summary": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.",
       "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
