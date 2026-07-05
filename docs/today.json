@@ -2,6 +2,41 @@
   "date": "2026-07-05",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-05T18:51:19Z",
+      "headline": "DRAM Stock Drops 25% as Its Biggest Risks Start Unfolding",
+      "id": 60269900,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "DRAM stock price has slumped by 25% from its highest level on record, as some of its biggest risks start to unfold.",
+      "symbols": [
+        "DRAM",
+        "META",
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-05T18:51:19Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60269900/dram-stock-drops-25-as-its-biggest-risks-start-unfolding",
+      "_summary": "The Roundhill Memory ETF (CBOE: DRAM) has suffered a big pullback this month, falling by 25% from its all-time high, as key risks in the memory industry starts to unfold. DRAM, which was launched in April, is still up by 125% from its record low, with its assets under management (AUM) at $22.16 billion. It has become the fastest-growing ETF to cross the $20 billion milestone.",
+      "_zh_headline": "最大风险开始显现 DRAM 股价下跌 25%",
+      "_zh_summary": "随着内存行业的主要风险开始显现，Roundhill Memory ETF（CBOE：DRAM）本月遭遇大幅回调，较历史高点下跌 25%。 4月份推出的DRAM仍较历史低点上涨125%，其管理资产（AUM）为221.6亿美元。它已成为增长最快的 ETF，突破 200 亿美元大关。",
+      "_added_at": "2026-07-05T20:36:57.408837+00:00"
+    },
+    {
       "headline": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
       "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
       "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
