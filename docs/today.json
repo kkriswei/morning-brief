@@ -2,6 +2,48 @@
   "date": "2026-07-05",
   "articles": [
     {
+      "headline": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
+      "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
+      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-05T16:18:24+00:00",
+      "_summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
+      "_zh_headline": "因伊朗战争而精疲力竭的德黑兰为哈梅内伊葬礼进行了转变",
+      "_zh_summary": "在整个首都，政府利用阿亚图拉·阿里·哈梅内伊的葬礼在伊朗面临巨大不确定性的时刻展现力量。",
+      "_added_at": "2026-07-05T16:35:42.820105+00:00"
+    },
+    {
+      "author": "Benzinga Weekend Correspondent",
+      "content": "",
+      "created_at": "2026-07-05T15:09:12Z",
+      "headline": "OPEC+ Agrees To Raise Output Even as Hormuz Shipping Security Remains Uncertain",
+      "id": 60269677,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "OPEC+ members agreed to raise their collective oil‑production quotas from August even as crude shipments through the Strait of Hormuz remain uncertain.  ",
+      "symbols": [],
+      "updated_at": "2026-07-05T15:15:10Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/07/60269677/opec-agrees-to-raise-output-even-as-hormuz-shipping-security-remains-uncertain",
+      "_summary": "OPEC+ members agreed to raise their collective oil‑production quotas from August even as crude shipments through the Strait of Hormuz remain uncertain. Seven nations led by Saudi Arabia and Russia will add 188,000 barrels per day to their August output target, OPEC said Sunday. Ministers from Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman approved the adjustment during virtual talks on Sunday. \"The countries will continue to closely monitor and assess market conditions,\" OPEC said. \"They reaffirmed the importance of adopting a cautious approach and retaining full flexibility to increase.\" The decision follows months of conflict‑driven disruption to Hormuz that pushed regional output to historic lows, forcing producers to build large inventories. The strait handles roughly a fifth of global oil flows and has remained a flashpoint between Washington and Tehran.",
+      "_zh_headline": "尽管霍尔木兹航运安全仍存在不确定性，OPEC+仍同意增产",
+      "_zh_summary": "尽管通过霍尔木兹海峡的原油运输仍存在不确定性，但 OPEC+ 成员国同意从 8 月起提高集体石油生产配额。欧佩克周日表示，以沙特阿拉伯和俄罗斯为首的七个国家将在其 8 月份产量目标的基础上增加 188,000 桶/日。沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼的部长在周日的虚拟会谈中批准了这一调整。 “各国将继续密切监测和评估市场状况，”欧佩克表示。 “他们重申了采取谨慎态度并保留充分灵活性来增加的重要性。”这一决定是在霍尔木兹地区因冲突而中断数月之后做出的，该地区的产量降至历史低点，迫使生产商建立大量库存。该海峡处理着全球大约五分之一的石油流量，并且仍然是华盛顿和德黑兰之间的热点。",
+      "_added_at": "2026-07-05T16:35:42.820105+00:00"
+    },
+    {
       "headline": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
       "summary": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
       "url": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
