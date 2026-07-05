@@ -2,6 +2,67 @@
   "date": "2026-07-05",
   "articles": [
     {
+      "headline": "At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases",
+      "summary": "President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.",
+      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-05T09:00:08+00:00",
+      "_summary": "President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.",
+      "_zh_headline": "在特朗普的指示下，联邦机构正在放弃歧视案件",
+      "_zh_summary": "特朗普总统试图缩减几十年前的反歧视法规。联邦机构已响应他的号召。",
+      "_added_at": "2026-07-05T12:49:25.845775+00:00"
+    },
+    {
+      "headline": "Trump Administration Rolls Back Dozens of Gun Regulations",
+      "summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
+      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-05T09:01:31+00:00",
+      "_summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
+      "_zh_headline": "特朗普政府撤销了数十项枪支法规",
+      "_zh_summary": "批评者称政府正在削弱公共安全。支持者表示，法规将保持在约瑟夫·R·拜登总统上任之前的水平。",
+      "_added_at": "2026-07-05T12:49:25.845775+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-05T12:01:47Z",
+      "headline": "Meta Platforms, SpaceX, Micron Technology and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "id": 60269449,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Retail investors talked up five hot stocks in this week (June 29 to July 2) on X and Reddit&#39;s r/WallStreetBets: META, PLTR, MU, SPCX, AAPL.",
+      "symbols": [
+        "AAPL",
+        "META",
+        "MU",
+        "NVDA",
+        "PLTR",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-05T12:01:47Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60269449/meta-platforms-spacex-micron-technology-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+      "_summary": "Retail investors talked up five hot stocks in this truncated week (June 29 to July 2) on X and Reddit’s r/WallStreetBets, driven by retail hype, earnings, listings, AI infrastructure momentum, and corporate/geopolitical news flow. Retail focus blended AI infrastructure momentum, earnings, and corporate news-driven narratives with broader market action during the week. Meta Platforms Inc. (NASDAQ: META ) , Palantir Technologies Inc. (NASDAQ: PLTR ) , Micron Technology Inc.",
+      "_zh_headline": "Meta Platform、SpaceX、美光科技等：本周投资者热议的 5 只股票",
+      "_zh_summary": "在散户炒作、盈利、上市、人工智能基础设施势头和企业/地缘政治新闻流的推动下，散户投资者在这短短的一周（6 月 29 日至 7 月 2 日）中在 X 和 Reddit 的 r/WallStreetBets 上谈论了五只热门股票。零售业的焦点将人工智能基础设施的势头、盈利和企业新闻驱动的叙述与本周更广泛的市场行为结合起来。 Meta Platforms Inc.（纳斯达克股票代码：META）、Palantir Technologies Inc.（纳斯达克股票代码：PLTR）、美光科技公司（Micron Technology Inc.）",
+      "_added_at": "2026-07-05T12:49:25.845775+00:00"
+    },
+    {
       "author": "Mohd Haider",
       "content": "",
       "created_at": "2026-07-05T10:01:29Z",
