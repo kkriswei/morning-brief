@@ -2,6 +2,90 @@
   "date": "2026-07-05",
   "articles": [
     {
+      "headline": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
+      "summary": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
+      "url": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-05T12:50:45+00:00",
+      "_summary": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
+      "_zh_headline": "欧佩克+承诺即使油价下跌仍将增加产量",
+      "_zh_summary": "该卡特尔做出这一决定之际，美国与伊朗结束战争的谈判缓解了石油供应的压力，尽管更广泛的市场和政治波动仍然存在。",
+      "_added_at": "2026-07-05T14:58:42.506032+00:00"
+    },
+    {
+      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-07-05T12:29:18+00:00",
+      "_summary": "Leaders including Iranian President Masoud Pezeshkian were in attendance for the former supreme leader's funeral, but Mojtaba Khamenei was absent Iran's Supreme Leader Mojtaba Khamenei was conspicuously absent from his father's funeral, as senior regime figures joined thousands paying their respects to the late ayatollah on Sunday. Ali Khamenei's other three sons - Masoud, Mostafa and Meysam - all attended the service on Sunday, alongside officials including President Masoud Pezeshkian and Revolutionary Guards chief Ahmad Vahidi. Speculation about Mojtaba's condition - fuelled by rumours he was wounded in the same US-Israel air strikes that killed his father - has continued as he has not appeared in public since his appointment in early March. The elder Khamenei ruled the Islamic republic from 1989 until his death in February. Official funeral proceedings for late supreme leader began on Friday, with events planned across Iran and Iraq over the coming week.",
+      "_zh_headline": "伊朗最高领袖缺席高级官员出席阿亚图拉葬礼",
+      "_zh_summary": "包括伊朗总统马苏德·佩泽什基安在内的领导人出席了这位前最高领导人的葬礼，但穆杰塔巴·哈梅内伊缺席了伊朗最高领袖穆杰塔巴·哈梅内伊明显缺席了他父亲的葬礼，周日，政权高级官员与数千人一起向已故的阿亚图拉表示敬意。阿里·哈梅内伊的另外三个儿子——马苏德、穆斯塔法和梅萨姆——都参加了周日的仪式，其他官员包括总统马苏德·佩泽什基安和革命卫队首领艾哈迈德·瓦希迪。关于 Mojtaba 病情的猜测一直持续不断，因为有传言说他在美国和以色列的空袭中受伤，导致他的父亲丧生，因为自 3 月初上任以来，他一直没有在公开场合露面。老哈梅内伊从 1989 年开始统治这个伊斯兰共和国，直到今年 2 月去世。已故最高领导人的正式葬礼程序于周五开始，计划在未来一周在伊朗和伊拉克各地举行葬礼。",
+      "_added_at": "2026-07-05T14:58:42.506032+00:00"
+    },
+    {
+      "author": "Lekha Gupta",
+      "content": "",
+      "created_at": "2026-07-05T13:45:48Z",
+      "headline": "Consumer Tech (June 29-July 2): Microsoft Announces Layoffs, Meta & Google Sued In Several States & More",
+      "id": 60269593,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Modern-Data-Technology-Center-With-Serve.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Modern-Data-Technology-Center-With-Serve.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Modern-Data-Technology-Center-With-Serve.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Catch this week&#39;s biggest market-moving stories, including Nvidia&#39;s AI startup initiative, Tesla deliveries, Meta&#39;s legal challenges, Microsoft&#39;s layoffs, and Amazon&#39;s expanding AI investments.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "AVAV",
+        "BABA",
+        "BOX",
+        "BYDDF",
+        "BYDDY",
+        "COIN",
+        "F",
+        "FLY",
+        "GME",
+        "GOOG",
+        "GOOGL",
+        "HLN",
+        "LCID",
+        "LUNR",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "PLTR",
+        "RIVN",
+        "SFTBF",
+        "SFTBY",
+        "SONY",
+        "SPCX",
+        "SSNLF",
+        "TSLA",
+        "UBER"
+      ],
+      "updated_at": "2026-07-05T13:45:48Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60269593/consumer-tech-june-29-july-2-microsoft-announces-layoffs-meta-google-sued-in-several-states-more",
+      "_summary": "Catch this week's biggest market-moving stories, including Nvidia's AI startup initiative, Tesla deliveries, Meta's legal challenges, Microsoft's layoffs, and Amazon's expanding AI investments.",
+      "_zh_headline": "消费科技（6 月 29 日至 7 月 2 日）：微软宣布裁员，Meta 和谷歌在多个州等地被起诉",
+      "_zh_summary": "了解本周影响市场的重大新闻，包括 Nvidia 的 AI 初创计划、特斯拉的交付、Meta 的法律挑战、微软的裁员以及亚马逊不断扩大的 AI 投资。",
+      "_added_at": "2026-07-05T14:58:42.506032+00:00"
+    },
+    {
       "headline": "At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases",
       "summary": "President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.",
       "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html",
