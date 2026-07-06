@@ -2,6 +2,224 @@
   "date": "2026-07-06",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-06T09:23:25Z",
+      "headline": "Stock Market Today: S&P 500, Dow Jones Futures Gain Following Independence Day Weekend—Intel, SanDisk, Tesla, Ford In Focus",
+      "id": 60272022,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Wall-Street.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Wall-Street.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Wall-Street.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures advanced on Monday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices rose, following Thursday&#39;s mixed close.",
+      "symbols": [
+        "BTCUSD",
+        "CRWD",
+        "DAL",
+        "F",
+        "INTC",
+        "PEP",
+        "QQQ",
+        "SNDK",
+        "SPCX",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-06T09:23:25Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60272022/stock-market-today-sp-500-dow-jones-futures-gain-following-independence-day-weekend-intel-sandisk-tesla-ford-in-focus",
+      "_summary": "U.S. stock futures advanced on Monday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Thursday’s mixed close. The positive moves followed a long Independence Day weekend , which saw the Nasdaq Composite move down amid a decline in semiconductor stocks, even while the Dow Jones index surged to record highs during Thursday’s session. Job growth cooled sharply in June, with payrolls rising just 57,000 — well below the 115,000 consensus and down from a revised 129,000 in May.",
+      "_zh_headline": "今日股市：标准普尔 500 指数、道琼斯期货在独立日周末后上涨——英特尔、闪迪、特斯拉、福特成为焦点",
+      "_zh_summary": "美国股指期货周一上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周四收盘涨跌不一后上涨。这些积极走势是在独立日长周末之后出现的，纳斯达克综合指数因半导体股票下跌而下跌，尽管道琼斯指数在周四交易时段飙升至历史新高。 6 月份就业增长急剧降温，就业人数仅增加 57,000 人，远低于市场预期的 115,000 人，也低于 5 月份修正后的 129,000 人。",
+      "_added_at": "2026-07-06T11:13:11.427912+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-06T10:23:27Z",
+      "headline": "Tech Is Winning Wall Street's Cash: Tech Funds Draw $14.3 Billion in Second-Biggest Weekly Inflow on Record",
+      "id": 60272983,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Financial-Market-Bubble-Concept-And-Over.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Financial-Market-Bubble-Concept-And-Over.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Financial-Market-Bubble-Concept-And-Over.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. tech funds drew a record $14.3B in weekly inflows even as broader equity funds saw their biggest outflows since March.",
+      "symbols": [
+        "AVGO",
+        "FTEC",
+        "IYW",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "VGT",
+        "XLK"
+      ],
+      "updated_at": "2026-07-06T10:23:27Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60272983/tech-is-winning-wall-streets-cash-tech-funds-draw-14-3-billion-in-second-biggest-weekly-inflow-on-record",
+      "_summary": "U.S. technology funds attracted $14.3 billion in the week ended July 1, marking the second-largest weekly inflow on record, even as broader U.S. equity funds posted their biggest weekly withdrawals since March, according to Bank of America Global Research data shared by The Kobeissi Letter. The inflows lifted the four-week average for technology fund investments to a record $9 billion per week, putting the sector on pace to attract roughly $152 billion this year, an all-time high.",
+      "_zh_headline": "科技股正在赢得华尔街的现金：科技基金吸引了 143 亿美元，创有记录以来第二大单周流入量",
+      "_zh_summary": "《科比西信函》分享的美国银行全球研究数据显示，截至 7 月 1 日当周，美国科技基金吸引了 143 亿美元，创下有记录以来第二大单周流入量，尽管更广泛的美国股票基金录得自 3 月份以来最大的单周撤资规模。资金流入将科技基金投资的 4 周平均水平提升至创纪录的每周 90 亿美元，使该行业今年有望吸引约 1,520 亿美元的资金，创历史新高。",
+      "_added_at": "2026-07-06T11:13:11.427912+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-06T06:40:49Z",
+      "headline": "SK Hynix's Nasdaq Debut: Shay Boloor Says Memory Cycle Has Become 'Extreme' as US Investors Get New Play Alongside Micron",
+      "id": 60271184,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SK Hynix&#39;s Nasdaq debut gives U.S. investors a new AI memory play alongside Micron, says Futurum&#39;s Shay Boloor.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-06T06:40:49Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60271184/shay-boloor-says-memory-cycle-has-become-extreme-as-sk-hynixs-nasdaq-debut-gives-us-investors-a-new-play-alongside-micron",
+      "_summary": "The company plans to sell 17.79 million new ADRs, with 10 ADRs representing one common share. Pricing is expected to be finalized later this week before trading begins on Friday, Reuters reported on Sunday. The listing comes after a remarkable rally in SK Hynix shares, which have surged more than 250% this year as demand for AI-focused memory chips continues to accelerate.",
+      "_zh_headline": "SK 海力士纳斯达克首秀：Shay Boloor 表示，随着美国投资者与美光合作，内存周期已变得“极端”",
+      "_zh_summary": "该公司计划发行1779万股新ADR，其中10股ADR代表一股普通股。据路透社周日报道，定价预计将于本周晚些时候在周五交易开始前最终确定。此次上市之前，SK 海力士股价大幅上涨，随着对人工智能存储芯片的需求持续加速，该股今年已飙升超过 250%。",
+      "_added_at": "2026-07-06T11:13:11.427912+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-06T09:50:04Z",
+      "headline": "5 Stocks In The Spotlight:  Wall Street's Most Accurate Analysts Weigh In",
+      "id": 60272276,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Konskie--Poland---November-21--2024-Micr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Konskie--Poland---November-21--2024-Micr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Konskie--Poland---November-21--2024-Micr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks mixed, Dow at record high. S&amp;P 500 up 1.8%, Dow surges 2% for the week. Analyst ratings on Benzinga Pro can outperform market.",
+      "symbols": [
+        "AMD",
+        "MU",
+        "SNDK",
+        "TSLA",
+        "TXN"
+      ],
+      "updated_at": "2026-07-06T09:50:04Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/07/60272276/5-stocks-in-the-spotlight-wall-streets-most-accurate-analysts-weigh-in-9",
+      "_summary": "U.S. stocks settled mixed on Thursday, with the Dow Jones index surging to record highs during the session. The Nasdaq Composite, however, moved lower amid a decline in semiconductor stocks. Major indices closed the holiday-shortened week with gains, as the S&P 500 rose 1.8% and the 30-stock Dow surged around 2% during the week. Wall Street analysts make new stock picks on a daily basis. Unfortunately for investors, not all analysts have particularly impressive track records at predicting market movements.",
+      "_zh_headline": "5 只备受关注的股票：华尔街最准确的分析师的参与",
+      "_zh_summary": "周四美国股市涨跌互现，道琼斯指数盘中飙升至历史新高。然而，由于半导体股票下跌，纳斯达克综合指数走低。主要股指在因假期而缩短的一周中上涨，标普 500 指数上涨 1.8%，道指 30 种股票本周上涨约 2%。华尔街分析师每天都会选择新的股票。对于投资者来说不幸的是，并非所有分析师在预测市场走势方面都有特别令人印象深刻的记录。",
+      "_added_at": "2026-07-06T11:13:11.427912+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-06T07:55:24Z",
+      "headline": "Micron vs. SK Hynix: Nvidia's Top AI Memory Suppliers Are Set for a Wall Street Showdown",
+      "id": 60271578,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron has long been Wall Street&#39;s AI memory favorite, but SK hynix&#39;s Nasdaq debut pits Nvidia&#39;s top memory suppliers on one exchange.",
+      "symbols": [
+        "BABA",
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-06T07:55:24Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60271578/micron-vs-sk-hynix-nvidias-top-ai-memory-suppliers-are-set-for-a-wall-street-showdown",
+      "_summary": "The listing gives U.S. investors direct access to SK Hynix alongside Micron, which has until now been the primary U.S.-listed pure-play memory company benefiting from the AI boom. Both companies have emerged as beneficiaries of the AI infrastructure buildout, with investors increasingly favoring suppliers of critical components over technology companies that are spending billions to develop AI capabilities. The South Korean chipmaker has established itself as one of NVIDIA’s largest suppliers of AI memory chips.",
+      "_zh_headline": "美光 vs. SK 海力士：英伟达顶级 AI 内存供应商即将在华尔街展开对决",
+      "_zh_summary": "此次上市让美国投资者可以直接投资 SK 海力士和美光科技，后者迄今为止是第一家从人工智能热潮中受益的在美国上市的纯存储公司。两家公司都成为人工智能基础设施建设的受益者，投资者越来越青睐关键零部件的供应商，而不是花费数十亿美元开发人工智能能力的科技公司。这家韩国芯片制造商已成为 NVIDIA 最大的 AI 存储芯片供应商之一。",
+      "_added_at": "2026-07-06T11:13:11.427912+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-06T09:58:31Z",
+      "headline": "Performance Comparison: Micron Technology And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "id": 60272383,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "In today&#39;s fast-paced and highly competitive business world, it is crucial for investors and industry followers to conduct comprehensive company evaluations. In this article, we will delve into an extensive industry",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-07-06T09:58:31Z",
+      "url": "https://www.benzinga.com/news/26/07/60272383/performance-comparison-micron-technology-and-competitors-semiconductors-amp-semiconductor-equipment-",
+      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
+      "_zh_headline": "性能比较：美光科技与半导体及半导体设备行业竞争对手",
+      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
+      "_added_at": "2026-07-06T11:13:11.427912+00:00"
+    },
+    {
       "author": "Benzinga Weekend Correspondent",
       "content": "",
       "created_at": "2026-07-05T15:09:12Z",
