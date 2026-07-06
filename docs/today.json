@@ -2,6 +2,42 @@
   "date": "2026-07-06",
   "articles": [
     {
+      "author": "Victor Olanrewaju",
+      "content": "",
+      "created_at": "2026-07-06T18:15:00Z",
+      "headline": "Why Apple And Palantir Could Become Wall Street's New AI Favorites",
+      "id": 60289007,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Apple-Logo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Apple-Logo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Apple-Logo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple and Palantir are emerging as Wall Street&#39;s preferred AI stocks as investors pour $14 billion into tech funds this time",
+      "symbols": [
+        "AAPL",
+        "CAT",
+        "INTC",
+        "MU",
+        "PLTR"
+      ],
+      "updated_at": "2026-07-06T18:15:00Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60289007/why-apple-and-palantir-could-become-wall-streets-new-ai-favorites",
+      "_summary": "For much of the past two years, investors have poured billions into the semiconductor businesses that are powering the artificial intelligence boom. But after a spectacular rise that propelled many semiconductor stocks to stratospheric prices, institutional money is starting to migrate elsewhere. Technology-focused funds saw $9.3 billion in outflows two weeks ago, one of the biggest weekly outflows from the sector this year, according to Deutsche Bank.",
+      "_zh_headline": "为什么苹果和 Palantir 可能成为华尔街人工智能的新宠",
+      "_zh_summary": "在过去两年的大部分时间里，投资者向推动人工智能热潮的半导体业务投入了数十亿美元。但在大幅上涨并推动许多半导体股票价格飙升之后，机构资金开始迁移到其他地方。德意志银行的数据显示，两周前，以科技为重点的基金出现了 93 亿美元的资金流出，这是今年该行业最大的单周资金流出之一。",
+      "_added_at": "2026-07-06T21:57:21.006113+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-06T19:30:50Z",
@@ -715,38 +751,6 @@
       "_summary": "The listing gives U.S. investors direct access to SK Hynix alongside Micron, which has until now been the primary U.S.-listed pure-play memory company benefiting from the AI boom. Both companies have emerged as beneficiaries of the AI infrastructure buildout, with investors increasingly favoring suppliers of critical components over technology companies that are spending billions to develop AI capabilities. The South Korean chipmaker has established itself as one of NVIDIA’s largest suppliers of AI memory chips.",
       "_zh_headline": "美光 vs. SK 海力士：英伟达顶级 AI 内存供应商即将在华尔街展开对决",
       "_zh_summary": "此次上市让美国投资者可以直接投资 SK 海力士和美光科技，后者迄今为止是第一家从人工智能热潮中受益的在美国上市的纯存储公司。两家公司都成为人工智能基础设施建设的受益者，投资者越来越青睐关键零部件的供应商，而不是花费数十亿美元开发人工智能能力的科技公司。这家韩国芯片制造商已成为 NVIDIA 最大的 AI 存储芯片供应商之一。",
-      "_added_at": "2026-07-06T11:13:11.427912+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-06T09:58:31Z",
-      "headline": "Performance Comparison: Micron Technology And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "id": 60272383,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "In today&#39;s fast-paced and highly competitive business world, it is crucial for investors and industry followers to conduct comprehensive company evaluations. In this article, we will delve into an extensive industry",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-07-06T09:58:31Z",
-      "url": "https://www.benzinga.com/news/26/07/60272383/performance-comparison-micron-technology-and-competitors-semiconductors-amp-semiconductor-equipment-",
-      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
-      "_zh_headline": "性能比较：美光科技与半导体及半导体设备行业竞争对手",
-      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
       "_added_at": "2026-07-06T11:13:11.427912+00:00"
     }
   ]
