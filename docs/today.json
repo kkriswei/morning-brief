@@ -1,6 +1,48 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "articles": [
+    {
+      "author": "Benzinga Weekend Correspondent",
+      "content": "",
+      "created_at": "2026-07-05T15:09:12Z",
+      "headline": "OPEC+ Agrees To Raise Output Even as Hormuz Shipping Security Remains Uncertain",
+      "id": 60269677,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "OPEC+ members agreed to raise their collective oil‑production quotas from August even as crude shipments through the Strait of Hormuz remain uncertain.  ",
+      "symbols": [],
+      "updated_at": "2026-07-05T15:15:10Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/07/60269677/opec-agrees-to-raise-output-even-as-hormuz-shipping-security-remains-uncertain",
+      "_summary": "OPEC+ members agreed to raise their collective oil‑production quotas from August even as crude shipments through the Strait of Hormuz remain uncertain. Seven nations led by Saudi Arabia and Russia will add 188,000 barrels per day to their August output target, OPEC said Sunday. Ministers from Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman approved the adjustment during virtual talks on Sunday. \"The countries will continue to closely monitor and assess market conditions,\" OPEC said. \"They reaffirmed the importance of adopting a cautious approach and retaining full flexibility to increase.\" The decision follows months of conflict‑driven disruption to Hormuz that pushed regional output to historic lows, forcing producers to build large inventories. The strait handles roughly a fifth of global oil flows and has remained a flashpoint between Washington and Tehran.",
+      "_zh_headline": "尽管霍尔木兹航运安全仍存在不确定性，OPEC+仍同意增产",
+      "_zh_summary": "尽管通过霍尔木兹海峡的原油运输仍存在不确定性，但 OPEC+ 成员国同意从 8 月起提高集体石油生产配额。欧佩克周日表示，以沙特阿拉伯和俄罗斯为首的七个国家将在其 8 月份产量目标的基础上增加 188,000 桶/日。沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼的部长在周日的虚拟会谈中批准了这一调整。 “各国将继续密切监测和评估市场状况，”欧佩克表示。 “他们重申了采取谨慎态度并保留充分灵活性来增加的重要性。”这一决定是在霍尔木兹地区因冲突而中断数月之后做出的，该地区的产量降至历史低点，迫使生产商建立大量库存。该海峡处理着全球大约五分之一的石油流量，并且仍然是华盛顿和德黑兰之间的热点。",
+      "_added_at": "2026-07-06T06:02:48.136102+00:00"
+    },
+    {
+      "headline": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
+      "summary": "Ballistic missiles were fired into the capital of Ukraine, as Russia launched its second major attack in less than a week. At least seven people were killed, officials said.",
+      "url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-06T03:05:04+00:00",
+      "_summary": "Ballistic missiles were fired into the capital of Ukraine, as Russia launched its second major attack in less than a week. At least seven people were killed, officials said.",
+      "_zh_headline": "北约峰会前夕，俄罗斯致命袭击基辅岩石",
+      "_zh_summary": "俄罗斯在不到一周内发动了第二次重大袭击，弹道导弹袭击了乌克兰首都。官员称，至少有七人死亡。",
+      "_added_at": "2026-07-06T06:02:48.136102+00:00"
+    },
     {
       "author": "Crispus Nyaga",
       "content": "",
@@ -33,7 +75,80 @@
       "_summary": "The Schwab US Dividend Equity ETF (NYSE: SCHD ) is hovering near its all-time high and is beating the S&P 500 and Nasdaq 100 in terms of total returns this year, a sign that there is demand for value stocks. The fund has performed well despite having limited exposure to high-growth sectors such as artificial intelligence (AI). Consumer staples is its largest sector allocation, accounting for 20% of the portfolio. It is followed by healthcare, energy, and industrials, giving the fund a more defensive sector mix.",
       "_zh_headline": "尽管人工智能曝光有限，但 SCHD ETF 今年仍击败了 VOO 和 QQQ",
       "_zh_summary": "施瓦布美国股息股票 ETF（纽约证券交易所股票代码：SCHD）目前徘徊在历史高点附近，今年的总回报率超过了标准普尔 500 指数和纳斯达克 100 指数，这表明对价值股票的需求。尽管该基金对人工智能（AI）等高增长行业的投资有限，但仍表现良好。消费必需品是其最大的配置行业，占投资组合的 20%。其次是医疗保健、能源和工业，这使得该基金的行业组合更具防御性。",
-      "_added_at": "2026-07-05T22:31:53.255963+00:00"
+      "_added_at": "2026-07-06T06:02:48.136102+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-06T03:13:29Z",
+      "headline": "Samsung Eyes Another Record Quarter on Explosive AI Memory Demand, But Rising Employee Bonuses Could Cloud Earnings: Report",
+      "id": 60270603,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Modern-Office-Building-With-Large-Samsun.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Modern-Office-Building-With-Large-Samsun.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Modern-Office-Building-With-Large-Samsun.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Samsung is expected to post a record profit as booming AI memory demand offsets concerns over rising bonus costs.",
+      "symbols": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "MU",
+        "NVDA",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-06T03:13:29Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60270603/samsung-eyes-another-record-quarter-on-explosive-ai-memory-demand-but-rising-employee-bonuses-could-cloud-earnings-report",
+      "_summary": "Samsung is expected to report an operating profit of about 86 trillion won ($56.35 billion) for the April-to-June quarter, according to an LSEG SmartEstimate based on forecasts from 30 analysts, Reuters reported on Sunday. That would represent an almost 18-fold increase from 4.7 trillion won a year earlier and mark the company’s third consecutive quarter of record operating profit.",
+      "_zh_headline": "报告称，三星的人工智能内存需求将再创新高，但员工奖金的上涨可能会影响盈利",
+      "_zh_summary": "据路透社周日报道，根据 LSEG SmartEstimate，基于 30 名分析师的预测，三星预计 4 月至 6 月季度的营业利润约为 86 万亿韩元（563.5 亿美元）。这将比去年同期的 4.7 万亿韩元增长近 18 倍，也标志着该公司连续第三个季度创纪录的营业利润。",
+      "_added_at": "2026-07-06T06:02:48.136102+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-06T02:09:25Z",
+      "headline": "Michael Dell Reaffirms $250 Trump Accounts Pledge to 25M Children, Says It Gives Them 'A Real Stake' in America",
+      "id": 60270528,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Washington--Dc--January-28--2026-Canadia.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Washington--Dc--January-28--2026-Canadia.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/06/Washington--Dc--January-28--2026-Canadia.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Michael Dell reiterated his $6.25 billion pledge to provide $250 to 25 million children as Trump Accounts launched nationwide.",
+      "symbols": [
+        "DELL",
+        "JPM",
+        "MU",
+        "SOFI",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-06T02:09:25Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60270528/michael-dell-reaffirms-250-trump-accounts-pledge-for-25-million-children-says-it-gives-them-a-real-stake-in-america",
+      "_summary": "Michael Dell on Saturday renewed support for the Trump Accounts program as it officially launched nationwide, reiterating the $6.25 billion pledge he and his wife , Susan Dell , made last year to provide $250 to 25 million qualifying American children. The founder and CEO of Dell Technologies Inc (NYSE: DELL ) in a post on X described the pledge as a way to give the next generation a ‘real stake’ in the U.S. economy.",
+      "_zh_headline": "迈克尔·戴尔重申特朗普账户向 2500 万儿童提供 250 美元的承诺，称这让他们在美国获得了“真正的利益”",
+      "_zh_summary": "周六，迈克尔·戴尔 (Michael Dell) 再次支持特朗普账户计划，该计划在全国范围内正式启动，并重申了他和妻子苏珊·戴尔 (Susan Dell) 去年做出的 62.5 亿美元承诺，为符合条件的美国儿童提供 250 至 2500 万美元。戴尔科技公司（纽约证券交易所代码：DELL）的创始人兼首席执行官在 X 上的一篇帖子中将这一承诺描述为让下一代在美国经济中获得“真正利益”的一种方式。",
+      "_added_at": "2026-07-06T06:02:48.136102+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -68,440 +183,7 @@
       "_summary": "The Roundhill Memory ETF (CBOE: DRAM) has suffered a big pullback this month, falling by 25% from its all-time high, as key risks in the memory industry starts to unfold. DRAM, which was launched in April, is still up by 125% from its record low, with its assets under management (AUM) at $22.16 billion. It has become the fastest-growing ETF to cross the $20 billion milestone.",
       "_zh_headline": "最大风险开始显现 DRAM 股价下跌 25%",
       "_zh_summary": "随着内存行业的主要风险开始显现，Roundhill Memory ETF（CBOE：DRAM）本月遭遇大幅回调，较历史高点下跌 25%。 4月份推出的DRAM仍较历史低点上涨125%，其管理资产（AUM）为221.6亿美元。它已成为增长最快的 ETF，突破 200 亿美元大关。",
-      "_added_at": "2026-07-05T20:36:57.408837+00:00"
-    },
-    {
-      "headline": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
-      "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
-      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-05T16:18:24+00:00",
-      "_summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
-      "_zh_headline": "因伊朗战争而精疲力竭的德黑兰为哈梅内伊葬礼进行了转变",
-      "_zh_summary": "在整个首都，政府利用阿亚图拉·阿里·哈梅内伊的葬礼在伊朗面临巨大不确定性的时刻展现力量。",
-      "_added_at": "2026-07-05T16:35:42.820105+00:00"
-    },
-    {
-      "author": "Benzinga Weekend Correspondent",
-      "content": "",
-      "created_at": "2026-07-05T15:09:12Z",
-      "headline": "OPEC+ Agrees To Raise Output Even as Hormuz Shipping Security Remains Uncertain",
-      "id": 60269677,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Opec-Logo--Inscription-Opec-On-The-Backg.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "OPEC+ members agreed to raise their collective oil‑production quotas from August even as crude shipments through the Strait of Hormuz remain uncertain.  ",
-      "symbols": [],
-      "updated_at": "2026-07-05T15:15:10Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60269677/opec-agrees-to-raise-output-even-as-hormuz-shipping-security-remains-uncertain",
-      "_summary": "OPEC+ members agreed to raise their collective oil‑production quotas from August even as crude shipments through the Strait of Hormuz remain uncertain. Seven nations led by Saudi Arabia and Russia will add 188,000 barrels per day to their August output target, OPEC said Sunday. Ministers from Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman approved the adjustment during virtual talks on Sunday. \"The countries will continue to closely monitor and assess market conditions,\" OPEC said. \"They reaffirmed the importance of adopting a cautious approach and retaining full flexibility to increase.\" The decision follows months of conflict‑driven disruption to Hormuz that pushed regional output to historic lows, forcing producers to build large inventories. The strait handles roughly a fifth of global oil flows and has remained a flashpoint between Washington and Tehran.",
-      "_zh_headline": "尽管霍尔木兹航运安全仍存在不确定性，OPEC+仍同意增产",
-      "_zh_summary": "尽管通过霍尔木兹海峡的原油运输仍存在不确定性，但 OPEC+ 成员国同意从 8 月起提高集体石油生产配额。欧佩克周日表示，以沙特阿拉伯和俄罗斯为首的七个国家将在其 8 月份产量目标的基础上增加 188,000 桶/日。沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼的部长在周日的虚拟会谈中批准了这一调整。 “各国将继续密切监测和评估市场状况，”欧佩克表示。 “他们重申了采取谨慎态度并保留充分灵活性来增加的重要性。”这一决定是在霍尔木兹地区因冲突而中断数月之后做出的，该地区的产量降至历史低点，迫使生产商建立大量库存。该海峡处理着全球大约五分之一的石油流量，并且仍然是华盛顿和德黑兰之间的热点。",
-      "_added_at": "2026-07-05T16:35:42.820105+00:00"
-    },
-    {
-      "headline": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
-      "summary": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
-      "url": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-05T12:50:45+00:00",
-      "_summary": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
-      "_zh_headline": "欧佩克+承诺即使油价下跌仍将增加产量",
-      "_zh_summary": "该卡特尔做出这一决定之际，美国与伊朗结束战争的谈判缓解了石油供应的压力，尽管更广泛的市场和政治波动仍然存在。",
-      "_added_at": "2026-07-05T14:58:42.506032+00:00"
-    },
-    {
-      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-05T12:29:18+00:00",
-      "_summary": "Leaders including Iranian President Masoud Pezeshkian were in attendance for the former supreme leader's funeral, but Mojtaba Khamenei was absent Iran's Supreme Leader Mojtaba Khamenei was conspicuously absent from his father's funeral, as senior regime figures joined thousands paying their respects to the late ayatollah on Sunday. Ali Khamenei's other three sons - Masoud, Mostafa and Meysam - all attended the service on Sunday, alongside officials including President Masoud Pezeshkian and Revolutionary Guards chief Ahmad Vahidi. Speculation about Mojtaba's condition - fuelled by rumours he was wounded in the same US-Israel air strikes that killed his father - has continued as he has not appeared in public since his appointment in early March. The elder Khamenei ruled the Islamic republic from 1989 until his death in February. Official funeral proceedings for late supreme leader began on Friday, with events planned across Iran and Iraq over the coming week.",
-      "_zh_headline": "伊朗最高领袖缺席高级官员出席阿亚图拉葬礼",
-      "_zh_summary": "包括伊朗总统马苏德·佩泽什基安在内的领导人出席了这位前最高领导人的葬礼，但穆杰塔巴·哈梅内伊缺席了伊朗最高领袖穆杰塔巴·哈梅内伊明显缺席了他父亲的葬礼，周日，政权高级官员与数千人一起向已故的阿亚图拉表示敬意。阿里·哈梅内伊的另外三个儿子——马苏德、穆斯塔法和梅萨姆——都参加了周日的仪式，其他官员包括总统马苏德·佩泽什基安和革命卫队首领艾哈迈德·瓦希迪。关于 Mojtaba 病情的猜测一直持续不断，因为有传言说他在美国和以色列的空袭中受伤，导致他的父亲丧生，因为自 3 月初上任以来，他一直没有在公开场合露面。老哈梅内伊从 1989 年开始统治这个伊斯兰共和国，直到今年 2 月去世。已故最高领导人的正式葬礼程序于周五开始，计划在未来一周在伊朗和伊拉克各地举行葬礼。",
-      "_added_at": "2026-07-05T14:58:42.506032+00:00"
-    },
-    {
-      "author": "Lekha Gupta",
-      "content": "",
-      "created_at": "2026-07-05T13:45:48Z",
-      "headline": "Consumer Tech (June 29-July 2): Microsoft Announces Layoffs, Meta & Google Sued In Several States & More",
-      "id": 60269593,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Modern-Data-Technology-Center-With-Serve.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Modern-Data-Technology-Center-With-Serve.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Modern-Data-Technology-Center-With-Serve.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Catch this week&#39;s biggest market-moving stories, including Nvidia&#39;s AI startup initiative, Tesla deliveries, Meta&#39;s legal challenges, Microsoft&#39;s layoffs, and Amazon&#39;s expanding AI investments.",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "AVAV",
-        "BABA",
-        "BOX",
-        "BYDDF",
-        "BYDDY",
-        "COIN",
-        "F",
-        "FLY",
-        "GME",
-        "GOOG",
-        "GOOGL",
-        "HLN",
-        "LCID",
-        "LUNR",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "PLTR",
-        "RIVN",
-        "SFTBF",
-        "SFTBY",
-        "SONY",
-        "SPCX",
-        "SSNLF",
-        "TSLA",
-        "UBER"
-      ],
-      "updated_at": "2026-07-05T13:45:48Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60269593/consumer-tech-june-29-july-2-microsoft-announces-layoffs-meta-google-sued-in-several-states-more",
-      "_summary": "Catch this week's biggest market-moving stories, including Nvidia's AI startup initiative, Tesla deliveries, Meta's legal challenges, Microsoft's layoffs, and Amazon's expanding AI investments.",
-      "_zh_headline": "消费科技（6 月 29 日至 7 月 2 日）：微软宣布裁员，Meta 和谷歌在多个州等地被起诉",
-      "_zh_summary": "了解本周影响市场的重大新闻，包括 Nvidia 的 AI 初创计划、特斯拉的交付、Meta 的法律挑战、微软的裁员以及亚马逊不断扩大的 AI 投资。",
-      "_added_at": "2026-07-05T14:58:42.506032+00:00"
-    },
-    {
-      "headline": "At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases",
-      "summary": "President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.",
-      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-05T09:00:08+00:00",
-      "_summary": "President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.",
-      "_zh_headline": "在特朗普的指示下，联邦机构正在放弃歧视案件",
-      "_zh_summary": "特朗普总统试图缩减几十年前的反歧视法规。联邦机构已响应他的号召。",
-      "_added_at": "2026-07-05T12:49:25.845775+00:00"
-    },
-    {
-      "headline": "Trump Administration Rolls Back Dozens of Gun Regulations",
-      "summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
-      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-05T09:01:31+00:00",
-      "_summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
-      "_zh_headline": "特朗普政府撤销了数十项枪支法规",
-      "_zh_summary": "批评者称政府正在削弱公共安全。支持者表示，法规将保持在约瑟夫·R·拜登总统上任之前的水平。",
-      "_added_at": "2026-07-05T12:49:25.845775+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-05T12:01:47Z",
-      "headline": "Meta Platforms, SpaceX, Micron Technology and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "id": 60269449,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Retail investors talked up five hot stocks in this week (June 29 to July 2) on X and Reddit&#39;s r/WallStreetBets: META, PLTR, MU, SPCX, AAPL.",
-      "symbols": [
-        "AAPL",
-        "META",
-        "MU",
-        "NVDA",
-        "PLTR",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-05T12:01:47Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60269449/meta-platforms-spacex-micron-technology-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
-      "_summary": "Retail investors talked up five hot stocks in this truncated week (June 29 to July 2) on X and Reddit’s r/WallStreetBets, driven by retail hype, earnings, listings, AI infrastructure momentum, and corporate/geopolitical news flow. Retail focus blended AI infrastructure momentum, earnings, and corporate news-driven narratives with broader market action during the week. Meta Platforms Inc. (NASDAQ: META ) , Palantir Technologies Inc. (NASDAQ: PLTR ) , Micron Technology Inc.",
-      "_zh_headline": "Meta Platform、SpaceX、美光科技等：本周投资者热议的 5 只股票",
-      "_zh_summary": "在散户炒作、盈利、上市、人工智能基础设施势头和企业/地缘政治新闻流的推动下，散户投资者在这短短的一周（6 月 29 日至 7 月 2 日）中在 X 和 Reddit 的 r/WallStreetBets 上谈论了五只热门股票。零售业的焦点将人工智能基础设施的势头、盈利和企业新闻驱动的叙述与本周更广泛的市场行为结合起来。 Meta Platforms Inc.（纳斯达克股票代码：META）、Palantir Technologies Inc.（纳斯达克股票代码：PLTR）、美光科技公司（Micron Technology Inc.）",
-      "_added_at": "2026-07-05T12:49:25.845775+00:00"
-    },
-    {
-      "author": "Mohd Haider",
-      "content": "",
-      "created_at": "2026-07-05T10:01:29Z",
-      "headline": "Trump Admin Ramps Up Pressure on Oil Industry, Former Fed Hawk Warns of Higher Rates and More: This Week In Economy",
-      "id": 60269363,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/President-Of-The-United-States-Donald-Tr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/President-Of-The-United-States-Donald-Tr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/President-Of-The-United-States-Donald-Tr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Over the weekend, Trump targeted oil prices, AI infrastructure spending hit records and Cathie Wood questioned the latest jobs report.",
-      "symbols": [],
-      "updated_at": "2026-07-05T10:01:29Z",
-      "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60269363/trump-admin-ramps-up-pressure-on-oil-industry-former-fed-hawk-warns-of-higher-rates-and-more-this-week-in-economy",
-      "_summary": "It’s been a week full of surprises and warnings. Here’s a quick roundup of the top economic stories from the week that you might have missed. The Trump administration has turned up the heat on the oil industry. The Department of Justice and the Federal Trade Commission have urged state attorneys general to investigate whether oil companies are maintaining high gasoline prices despite falling crude oil costs. The federal authorities are closely monitoring petroleum markets for potential antitrust violations. Former Federal Reserve Bank of Kansas City President Esther George has issued a warning. She advised Americans to prepare for higher interest rates, given the ongoing inflation. George, known for her hawkish stance on interest rates, suggested that long-term financial planning should account for the possibility of increased rates. Ark Investment Management ‘s Cathie Wood has criticized the June jobs report.",
-      "_zh_headline": "特朗普政府加大对石油行业的压力，前美联储鹰派警告加息等：本周经济",
-      "_zh_summary": "这是充满惊喜和警告的一周。以下是您可能错过的本周热门经济新闻的快速综述。特朗普政府加大了对石油行业的压力。美国司法部和联邦贸易委员会已敦促各州总检察长调查石油公司是否在原油成本下降的情况下维持高汽油价格。联邦当局正在密切监视石油市场是否存在潜在的反垄断违规行为。堪萨斯城联邦储备银行前行长埃丝特·乔治发出警告。鉴于持续的通货膨胀，她建议美国人为更高的利率做好准备。乔治以对利率的鹰派立场而闻名，她建议长期财务规划应考虑到加息的可能性。方舟投资管理公司 (Ark Investment Management) 的凯西·伍德 (Cathie Wood) 批评了 6 月份的就业报告。",
-      "_added_at": "2026-07-05T10:40:17.816783+00:00"
-    },
-    {
-      "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-05T08:24:32+00:00",
-      "_summary": "Scorching heat and delays: How Washington DC marked US' 250th birthday The US has marked its 250th birthday with fireworks and flyovers - but celebrations across the country were complicated by extreme weather. \"The American dream is back,\" US President Donald Trump told a cheering crowd during a delayed rally in Washington's National Mall, before what he described as the world's largest firework display. The 4 July federal holiday commemorates the 13 US colonies signing the Declaration of Independence in 1776 to end British rule. Despite the celebrations, Trump has been criticised for making himself central to the milestone and politicising the celebrations. The president's speech, which wrapped up just before midnight, touched on political themes including the rejection of communism, his backing of the Save America Act and the right to bear arms.",
-      "_zh_headline": "美国以烟花、天桥和极端天气庆祝 250 岁生日",
-      "_zh_summary": "酷热和延误：华盛顿特区如何庆祝美国 250 岁生日 美国用烟花和立交桥庆祝其 250 岁生日 - 但全国各地的庆祝活动因极端天气而变得复杂。 “美国梦回来了，”美国总统唐纳德·特朗普在华盛顿国家广场举行的一次推迟的集会上对欢呼的人群说道，随后他称这是世界上最大的烟花表演。 7 月 4 日联邦假日是为了纪念 1776 年美国 13 个殖民地签署《独立宣言》以结束英国统治。尽管举行了庆祝活动，但特朗普仍因将自己置于这一里程碑的中心并将庆祝活动政治化而受到批评。总统的演讲在午夜前结束，涉及政治主题，包括拒绝共产主义、支持《拯救美国法案》以及携带武器的权利。",
-      "_added_at": "2026-07-05T08:26:58.235381+00:00"
-    },
-    {
-      "author": "Mohd Haider",
-      "content": "",
-      "created_at": "2026-07-05T06:50:06Z",
-      "headline": "Trump Offers to Help Broker Ukraine Peace Deal in Nearly 90-Minute Call With Putin",
-      "id": 60269231,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Us-President-Donald-Trump-And-Russian-Pr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Us-President-Donald-Trump-And-Russian-Pr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/05/Us-President-Donald-Trump-And-Russian-Pr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Trump offered to help broker a resolution to the Ukraine war during a nearly 90-minute call with Russian President Vladimir Putin on Saturday.",
-      "symbols": [],
-      "updated_at": "2026-07-05T06:50:06Z",
-      "url": "https://www.benzinga.com/news/politics/26/07/60269231/trump-offers-to-help-broker-ukraine-peace-deal-in-nearly-90-minute-call-with-putin",
-      "_summary": "President Donald Trump offered to help broker a resolution to the Ukraine war during a nearly 90-minute call with Russian President Vladimir Putin on Saturday. According to a statement released early Sunday by Kremlin aide Yuri Ushakov , the conversation was “business-like and quite constructive.” Russia said it is seeking a political and diplomatic settlement based on its “fundamental approach.” Ushakov accused Kyiv and its European allies of escalating the conflict through long-range strikes on Russian oil infrastructure. He said Putin described the battlefield situation, claiming Russian forces are “confidently advancing, liberating one locality after another.” Russia said on Saturday that it had taken control of Kostiantynivka, an important industrial city in Ukraine’s Donetsk region known for its glassmaking industry. Ukraine has denied this claim.",
-      "_zh_headline": "特朗普在与普京近 90 分钟的通话中表示愿意帮助斡旋者达成乌克兰和平协议",
-      "_zh_summary": "周六，唐纳德·特朗普总统与俄罗斯总统弗拉基米尔·普京进行了近 90 分钟的通话，表示愿意帮助调解乌克兰战争的解决方案。根据克里姆林宫助手尤里·乌沙科夫周日早些时候发表的一份声明，这次谈话“很务实，而且很有建设性”。俄罗斯表示，正在寻求基于其“基本方针”的政治和外交解决方案。乌沙科夫指责基辅及其欧洲盟友通过对俄罗斯石油基础设施的远程打击使冲突升级。他说，普京描述了战场局势，声称俄罗斯军队“正在自信地前进，解放一个又一个地方”。俄罗斯周六表示，它已经控制了科斯蒂安蒂尼夫卡，这是乌克兰顿涅茨克地区的一个重要工业城市，以玻璃制造工业而闻名。乌克兰否认了这一说法。",
-      "_added_at": "2026-07-05T08:26:58.235381+00:00"
-    },
-    {
-      "headline": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
-      "summary": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.",
-      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-04T20:22:03+00:00",
-      "_summary": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.",
-      "_zh_headline": "伊朗最高领袖阿里·哈梅内伊的葬礼",
-      "_zh_summary": "伊朗新领导人正在纪念阿亚图拉阿里·哈梅内伊，他在美以战争的第一天被杀，葬礼与近代历史上的任何一次葬礼都不一样。",
-      "_added_at": "2026-07-05T04:41:41.922454+00:00"
-    },
-    {
-      "headline": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "symbols": [],
-      "created_at": "2026-07-04T18:41:25+00:00",
-      "_summary": "Ukraine's military described St Petersburg's oil terminal as \"one of the largest\" in Russia A major oil terminal in Russia's second city of St Petersburg in the north-west was struck overnight by Ukraine, President Volodymyr Zelensky has said. He described it as key \"infrastructure that generates revenue for Russia's war\". Ukraine also said a major Russian naval base in the region was hit. St Petersburg Governor Aleksandr Beglov said the city was under a \"massive\" drone attack, admitting the oil terminal was hit. He reported no casualties. Ukraine has recently intensified its long-range drone attacks on Russia's critical energy infrastructure, causing widespread fuel shortages. Kyiv says nearly 43% of Russia's oil refining capacity has been \"disabled\" as a result. Ukraine says Russian oil and gas facilities are legitimate targets as Moscow relies heavily on fossil fuel exports to continue its war effort.",
-      "_zh_headline": "乌克兰袭击俄罗斯圣彼得堡主要石油码头",
-      "_zh_summary": "乌克兰军方称圣彼得堡石油码头是俄罗斯“最大的石油码头之一” 总统泽连斯基表示，俄罗斯西北部第二城市圣彼得堡的一个主要石油码头在一夜之间遭到乌克兰袭击。他将其描述为“为俄罗斯战争创造收入的关键基础设施”。乌克兰还表示，俄罗斯在该地区的一个主要海军基地遭到袭击。圣彼得堡州长亚历山大·贝格洛夫表示，该市正遭受“大规模”无人机袭击，并承认石油码头遭到袭击。他报告没有人员伤亡。乌克兰最近加强了对俄罗斯关键能源基础设施的远程无人机攻击，导致广泛的燃料短缺。基辅表示，俄罗斯近43%的炼油能力因此“瘫痪”。乌克兰表示，俄罗斯石油和天然气设施是合法目标，因为莫斯科严重依赖化石燃料出口来继续其战争努力。",
-      "_added_at": "2026-07-05T04:41:41.922454+00:00"
-    },
-    {
-      "author": "Benzinga Senior Editor",
-      "content": "",
-      "created_at": "2026-07-04T13:20:57Z",
-      "headline": "Benzinga Bulls and Bears: AeroVironment, Reddit, Oracle — And Stocks End Week on High Note",
-      "id": 60268467,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bulls-and-Bears-1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bulls-and-Bears-1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bulls-and-Bears-1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
-      "symbols": [
-        "AVAV",
-        "CAT",
-        "CMCSA",
-        "DIS",
-        "DJT",
-        "FLY",
-        "GOOGL",
-        "LUNR",
-        "META",
-        "MSFT",
-        "MU",
-        "NKE",
-        "NVDA",
-        "ORCL",
-        "RDDT",
-        "SMCI",
-        "TSLA",
-        "VOYG",
-        "YELP"
-      ],
-      "updated_at": "2026-07-04T13:21:07Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60268467/benzinga-bulls-and-bears-aerovironment-reddit-oracle-and-stocks-end-week-on-high-note",
-      "_summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories. The shift in market leadership came as weaker labor market data reduced expectations of a near-term Fed rate hike, supporting equities despite continued volatility in technology stocks. Treasury yields eased as investors priced in a more patient monetary policy outlook, helping offset concerns about elevated valuations in growth shares.",
-      "_zh_headline": "Benzinga 牛市和熊市：AeroVironment、Reddit、Oracle — 以及股市本周收盘高调",
-      "_zh_summary": "本辛加上周研究了许多投资者最喜欢的股票的前景——以下是我们的一些热门报道。市场主导地位的转变是由于劳动力市场数据疲软降低了美联储近期加息的预期，尽管科技股持续波动，但仍支撑了股市。由于投资者对更加耐心的货币政策前景进行定价，美国国债收益率有所回落，有助于抵消对成长股估值上升的担忧。",
-      "_added_at": "2026-07-05T04:41:41.922454+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-04T17:06:11Z",
-      "headline": "Bitcoin Price Attempts Recovery as ETF Outflows Suggest Rotation to Stocks",
-      "id": 60268771,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bitcoin-Cryptocurrency-Red-Light-Warning.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bitcoin-Cryptocurrency-Red-Light-Warning.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Bitcoin-Cryptocurrency-Red-Light-Warning.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bitcoin price is attempting its recovery this week as ETF outflows suggest that investors are rotating to the stock market amid the AI boom",
-      "symbols": [
-        "BTCUSD",
-        "MSTR",
-        "VOO"
-      ],
-      "updated_at": "2026-07-04T17:06:11Z",
-      "url": "https://www.benzinga.com/crypto/26/07/60268771/bitcoin-price-attempts-recovery-as-etf-outflows-suggest-rotation-to-stocks",
-      "_summary": "Bitcoin ( CRYPTO: BTC) price is attempting a comeback, rising in the past four consecutive days, reaching its highest point since June 23, even as exchange-traded funds (ETF) outflows jumped. BTC jumped to $62,615, up by 8.7% from its lowest point this month. BTC price rose for four days as investors attempted to buy the dip after falling by over 50% from its all-time high. This rebound coincided with some ETF inflows on Thursday.",
-      "_zh_headline": "比特币价格试图回升，ETF 资金外流表明资金转向股票",
-      "_zh_summary": "比特币（CRYPTO：BTC）价格正试图卷土重来，在过去连续四天上涨，达到 6 月 23 日以来的最高点，尽管交易所交易基金（ETF）资金流出大幅增加。 BTC 跃升至 62,615 美元，较本月最低点上涨 8.7%。 BTC 价格连续四天上涨，因投资者在较历史高点下跌超过 50% 后试图逢低买入。此次反弹与周四部分 ETF 资金流入同时发生。",
-      "_added_at": "2026-07-05T04:41:41.922454+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-04T20:46:26Z",
-      "headline": "Top Three S&P 500 Index Stocks to Watch Next Week: PepsiCo, Delta, Micron",
-      "id": 60268946,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The top S&amp;P 500 Index stocks to watch next week include popular names like PepsiCo, Delta Air Lines, and Micron.",
-      "symbols": [
-        "DAL",
-        "MU",
-        "PEP"
-      ],
-      "updated_at": "2026-07-04T20:46:26Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60268946/top-three-sp-500-index-stocks-to-watch-next-week-pepsico-delta-micron",
-      "_summary": "The S&P 500 Index has wavered in the last month as energy and artificial intelligence stocks pulled back. It ended the week at $7,483, a few points below the all-time high of $7,620. PepsiCo, the beverage and snacking company, will be in focus as it publishes its financial results on July 9. These results come at a time when it remains in a correction after falling by over 15% from its highest point this year. The most recent earnings report showed that its revenue and earnings per share were better-than-expected.",
-      "_zh_headline": "下周值得关注的三大标普 500 指数股票：百事可乐、达美航空、美光科技",
-      "_zh_summary": "随着能源和人工智能股票回落，标准普尔 500 指数上个月出现波动。本周收盘价为 7,483 美元，比历史高点 7,620 美元低几个点。饮料和零食公司百事可乐公司将于 7 月 9 日发布财务业绩，该公司将成为人们关注的焦点。这些业绩公布之际，该公司股价较今年最高点下跌了 15% 以上，目前仍处于调整之中。最新财报显示，其营收和每股收益均好于预期。",
-      "_added_at": "2026-07-05T04:41:41.922454+00:00"
-    },
-    {
-      "author": "Glen Carey",
-      "content": "",
-      "created_at": "2026-07-04T18:41:10Z",
-      "headline": "Micron Begins $9.3 Billion Japan Plant Expansion To Boost AI Chip Production",
-      "id": 60268873,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/The-Micron-Logo-Appears---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/The-Micron-Logo-Appears---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/04/The-Micron-Logo-Appears---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron has started its expansion work on a factory in Japan that will mass‑produce cutting‑edge semiconductors for generative AI and other applications. ",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-07-04T18:41:10Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60268873/micron-begins-9-3-billion-japan-plant-expansion-to-boost-ai-chip-production",
-      "_summary": "US semiconductor giant Micron Technology (NASDAQ: MU ) has started its expansion work on a factory in Japan that will mass‑produce cutting‑edge semiconductors for generative AI and other applications. The Boise, Idaho‑based company will invest about $9.3 billion in factory expansion, NHK World reported , citing Japan’s Ministry of Economy, Trade and Industry . The ministry will provide about $3.3 billion in subsidies, Japan’s international public broadcasting service reported.",
-      "_zh_headline": "美光开始斥资 93 亿美元扩建日本工厂以提高人工智能芯片产量",
-      "_zh_summary": "美国半导体巨头美光科技（纳斯达克股票代码：MU）已开始在日本的一家工厂进行扩建工作，该工厂将大规模生产用于生成人工智能和其他应用的尖端半导体。据 NHK World 援引日本经济产业省的消息报道，这家总部位于爱达荷州博伊西的公司将投资约 93 亿美元用于工厂扩建。据日本国际公共广播服务报道，该部门将提供约 33 亿美元的补贴。",
-      "_added_at": "2026-07-05T04:41:41.922454+00:00"
+      "_added_at": "2026-07-06T06:02:48.136102+00:00"
     }
   ]
 }
