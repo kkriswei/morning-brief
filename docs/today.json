@@ -2,6 +2,52 @@
   "date": "2026-07-07",
   "articles": [
     {
+      "headline": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
+      "summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-07T21:41:30+00:00",
+      "_summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
+      "_zh_headline": "伊朗对霍尔木兹海峡船只的袭击威胁石油流动",
+      "_zh_summary": "伊朗的袭击以及美国的袭击和重新实施制裁是在两国同意努力持久结束敌对行动几周后发生的。",
+      "_added_at": "2026-07-07T21:55:35.823289+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-07T20:42:52Z",
+      "headline": "EXCLUSIVE: SpaceX Stock Could ‘Eventually Double,’ Market Expert Jay Woods Says ‘Put it Away, Don’t Look At It’",
+      "id": 60320860,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne--United-States---Jul-22--2022-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne--United-States---Jul-22--2022-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne--United-States---Jul-22--2022-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A market expert tells Benzinga why there&#39;s caution for the short-term valuation of SpaceX, but a long-term buying opportunity.",
+      "symbols": [
+        "QQQ",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-07T20:42:52Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60320860/spacex-stock-could-double-market-expert-jay-woods-says-put-it-away-dont-look-at-it",
+      "_summary": "\"I think the valuation and the pre-market valuations, they scare me,\" Woods told Benzinga. \"I think there are going to be a lot of people looking to cash out and that’s why I didn’t want it to go into the (S&P 500) index.\" Woods said early inclusion in the S&P 500 may have forced buying and made the stock even more volatile at IPO, with people cashing out profits early. The market expert is far from a SpaceX bear, telling Benzinga he believes the company is \"here to stay.\"",
+      "_zh_headline": "独家报道：市场专家杰伊·伍兹表示，SpaceX 的股票“最终可能会翻倍”，“把它收起来，不要看它”",
+      "_zh_summary": "“我认为估值和上市前估值让我感到害怕，”伍兹告诉本辛加。 “我认为会有很多人希望套现，这就是为什么我不希望它进入（标准普尔 500 指数）指数。”伍兹表示，早期纳入标准普尔 500 指数可能会迫使人们买入，并使股票在 IPO 时更加波动，人们会提前兑现利润。这位市场专家远非 SpaceX 的看空者，他告诉 Benzinga，他相信该公司“会继续存在”。",
+      "_added_at": "2026-07-07T21:55:35.823289+00:00"
+    },
+    {
       "headline": "After Courting Black Voters, Trump Downplays Black Unemployment",
       "summary": "The president has glossed over persistently high unemployment among African Americans, a group he needed to secure a second term.",
       "url": "https://www.nytimes.com/2026/07/07/us/politics/trump-black-voters-unemployment.html",
@@ -619,68 +665,6 @@
       "_zh_headline": "为什么英特尔股价周二下跌？",
       "_zh_summary": "由于投资者撤出大型科技股，英特尔公司（纳斯达克股票代码：INTC）股价在周二盘前交易中下跌近 4%。纳斯达克期货下跌 0.99%，标准普尔 500 指数期货下跌 0.17%，为芯片制造商创造了避险背景。该股的交易价格也低于 20 日简单移动平均线，该水平通常在盘整期间充当近期阻力位。此次回调是在英特尔 6 月份上涨至 52 周高点之后进行的。",
       "_added_at": "2026-07-07T12:15:14.833507+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-07T09:58:17Z",
-      "headline": "Comparative Study: Micron Technology And Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "id": 60297904,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_11.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "In the ever-evolving and intensely competitive business landscape, conducting a thorough company analysis is of utmost importance for investors and industry followers. In this article, we will carry out an in-depth",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-07-07T09:58:17Z",
-      "url": "https://www.benzinga.com/news/26/07/60297904/comparative-study-micron-technology-and-industry-competitors-semiconductors-amp-semiconductor-equipm",
-      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
-      "_zh_headline": "对比研究：美光科技与半导体及半导体设备行业的行业竞争对手",
-      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
-      "_added_at": "2026-07-07T12:15:14.833507+00:00"
-    },
-    {
-      "author": "Badar Shaikh",
-      "content": "",
-      "created_at": "2026-07-07T08:47:18Z",
-      "headline": "Analyst Says This Is Why Global Oil Prices Are Rising Amid OPEC+ Agreement: It Has All to Do With Refineries",
-      "id": 60297195,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "GasBuddy analyst says that limited refinery capacity could lead to supply issues and rising global oil prices.",
-      "symbols": [],
-      "updated_at": "2026-07-07T08:47:18Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60297195/analyst-says-this-is-why-global-oil-prices-are-rising-amid-opec-agreement-it-has-all-to-do-with-refineries",
-      "_summary": "GasBuddy analyst Patrick De Haan said that global oil prices were rising as limited refinery capacity across the globe could lead to supply issues. In a series of posts on the social media platform X on Monday, De Haan illustrated how refinery capacity could decide oil prices. “Expect refineries- the middleman to the oil/refined product price relationship- to be extensively discussed with suddenly too little global refining capacity,” he said in a post. He had quoted a post by user Ellen R. Wald, who said the importance of refining capacity, without which oil was “just some sludge” underground. Her comments came as Saudi Arabia slashed prices of its flagship Arab Light crude for Asia by $11 per barrel. In a separate post, De Haan said that wholesale gas and diesel prices rose up to 12 cents/gallon on Monday, outlining that oil prices “may suggest plentiful supplies,” but the “finite amount of global refinery capacity” was “heavily weighing” on costs.",
-      "_zh_headline": "分析师称这就是OPEC+协议期间全球油价上涨的原因：与炼油厂有关",
-      "_zh_summary": "GasBuddy分析师帕特里克·德哈恩(Patrick De Haan)表示，全球油价正在上涨，因为全球炼油厂产能有限可能导致供应问题。周一，德哈恩在社交媒体平台 X 上发布了一系列帖子，阐述了炼油厂产能如何决定油价。他在一篇帖子中表示：“预计炼油厂——石油/成品油价格关系的中间人——将在全球炼油能力突然太少的情况下受到广泛讨论。”他引用了用户 Ellen R. Wald 的帖子，后者表示炼油能力的重要性，没有炼油能力，石油“只是地下的一些污泥”。她发表此番言论之际，沙特阿拉伯将其亚洲旗舰阿拉伯轻质原油价格每桶下调 11 美元。 De Haan 在另一篇文章中表示，周一天然气和柴油批发价格上涨至 12 美分/加仑，并指出油价“可能表明供应充足”，但“全球炼油产能有限”正在“严重影响”成本。",
-      "_added_at": "2026-07-07T08:50:22.274550+00:00"
     }
   ]
 }
