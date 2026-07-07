@@ -2,6 +2,18 @@
   "date": "2026-07-07",
   "articles": [
     {
+      "headline": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
+      "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-07T23:02:04+00:00",
+      "_summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
+      "_zh_headline": "美国打击伊朗并在油轮袭击后重新实施制裁",
+      "_zh_summary": "此次军事行动是在美国财政部撤销允许伊朗石油全球销售的豁免几小时后进行的。",
+      "_added_at": "2026-07-07T23:30:43.849485+00:00"
+    },
+    {
       "headline": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
       "summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
       "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
@@ -629,41 +641,6 @@
       "_summary": "U.S. stock futures were mixed this morning, with the Nasdaq 100 futures falling more than 200 points on Tuesday. Shares of Rivian Automotive Inc (NASDAQ: RIVN ) fell in pre-market trading after the company announced a public offering . Rivian announced an underwritten public offering of up to 75 million shares of common stock. The company also plans to grant the underwriters a 30-day window to buy up to an additional 11.25 million shares at the public offering price, which has not been disclosed.",
       "_zh_headline": "Rivian、Micron 和其他大型股票在周二盘前交易中走低",
       "_zh_summary": "今天上午美国股指期货涨跌互现，纳斯达克100指数期货周二下跌逾200点。 Rivian Automotive Inc（纳斯达克股票代码：RIVN）宣布公开发行股票后，其股价在盘前交易中下跌。 Rivian 宣布承销公开发行最多 7500 万股普通股。该公司还计划给予承销商30天的窗口期，以公开发行价额外购买最多1125万股，具体金额尚未披露。",
-      "_added_at": "2026-07-07T12:15:14.833507+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-07T10:46:23Z",
-      "headline": "Why Is Intel Stock Falling Tuesday?",
-      "id": 60299196,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel stock falls 4% pre-market amid a broader tech pullback. Get the key technical levels to watch for INTC.",
-      "symbols": [
-        "INTC",
-        "SMH",
-        "VLUE",
-        "XNTK"
-      ],
-      "updated_at": "2026-07-07T10:46:23Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60299196/why-is-intel-stock-falling-tuesday-2",
-      "_summary": "Intel Corp. (NASDAQ: INTC ) stock fell nearly 4% in Tuesday’s premarket session as investors pulled back from large-cap technology stocks. Nasdaq futures were down 0.99%, while S&P 500 futures slipped 0.17%, creating a risk-off backdrop for chipmakers. The stock is also trading below its 20-day simple moving average, a level that often acts as near-term resistance during periods of consolidation. The pullback follows Intel’s rally to a 52-week high in June.",
-      "_zh_headline": "为什么英特尔股价周二下跌？",
-      "_zh_summary": "由于投资者撤出大型科技股，英特尔公司（纳斯达克股票代码：INTC）股价在周二盘前交易中下跌近 4%。纳斯达克期货下跌 0.99%，标准普尔 500 指数期货下跌 0.17%，为芯片制造商创造了避险背景。该股的交易价格也低于 20 日简单移动平均线，该水平通常在盘整期间充当近期阻力位。此次回调是在英特尔 6 月份上涨至 52 周高点之后进行的。",
       "_added_at": "2026-07-07T12:15:14.833507+00:00"
     }
   ]
