@@ -2,6 +2,89 @@
   "date": "2026-07-08",
   "articles": [
     {
+      "headline": "Oil Prices Jump as U.S. and Iran Resume Strikes, and Big Tobacco Makes a Big New Bet",
+      "summary": "Plus, using drones to watch for sharks.",
+      "url": "https://www.nytimes.com/2026/07/08/podcasts/the-headlines/oil-prices-iran-strikes-tobacco.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-08T10:00:11+00:00",
+      "_summary": "Plus, using drones to watch for sharks.",
+      "_zh_headline": "随着美国和伊朗恢复罢工，石油价格飙升，大型烟草公司做出新的大赌注",
+      "_zh_summary": "另外，使用无人机监视鲨鱼。",
+      "_added_at": "2026-07-08T14:56:38.355247+00:00"
+    },
+    {
+      "headline": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
+      "summary": "President Trump said he believes the current ceasefire with Iran is over following an exchange of attacks between the U.S. and Iran in the latest escalation straining the agreement to end the war.",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-07-08T05:12:59-04:00",
+      "_summary": "Turkish President Recep Tayyip Erdogan welcomes President Trump upon his arrival at Etimesgut Air Base near Ankara, Turkey, on July 7 before attending the NATO summit. Abdullah Guclu/AFP via Getty Images hide caption President Trump said Wednesday he believes the current ceasefire with Iran is over after an exchange of attacks between the U.S. and Iran, the latest escalation straining the agreement to end the war. \"I think it's over. I don't want to deal with them anymore. They're scum,\" Trump told reporters in Ankara, where he is attending the NATO summit. He called the Iranian leaders \"vicious, violent people.\" \"If they had a nuclear weapon, they'd use it,\" he added. Trump, however, did not rule out talks continuing to permanently end the war with Iran. He said the top U.S. negotiators, Steve Witkoff and his son-in-law Jared Kushner, want to negotiate.",
+      "_zh_headline": "特朗普在土耳其举行的北约峰会上表示，他相信与伊朗的停火已经“结束”",
+      "_zh_summary": "土耳其总统雷杰普·塔伊普·埃尔多安于 7 月 7 日在出席北约峰会之前抵达土耳其安卡拉附近的埃泰姆斯古特空军基地，欢迎特朗普总统。阿卜杜拉·古克卢/法新社来自盖蒂图片社 隐藏标题 特朗普总统周三表示，在美国和伊朗之间相互攻击之后，他认为目前与伊朗的停火已经结束，最新的升级使结束战争的协议变得紧张。 “我认为一切都结束了。我不想再和他们打交道了。他们是人渣，”特朗普在安卡拉出席北约峰会时对记者说。他称伊朗领导人是“恶毒、暴力的人”。 “如果他们拥有核武器，他们就会使用它，”他补充道。然而，特朗普并不排除继续进行永久结束与伊朗战争的谈判。他说，美国最高谈判代表史蒂夫·威特科夫和他的女婿贾里德·库什纳希望进行谈判。",
+      "_added_at": "2026-07-08T14:56:38.355247+00:00"
+    },
+    {
+      "headline": "Global Economic Output Looks Slower for 2026, IMF Says",
+      "summary": "The I.M.F. projected world output growth would fall to 3 percent for the year, a number pushed down by high commodity prices.",
+      "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-08T14:27:25+00:00",
+      "_summary": "The I.M.F. projected world output growth would fall to 3 percent for the year, a number pushed down by high commodity prices.",
+      "_zh_headline": "国际货币基金组织表示，2026 年全球经济产出预计将放缓",
+      "_zh_summary": "国际货币基金组织预计今年世界产出增长率将降至 3%，这一数字因大宗商品价格高企而下降。",
+      "_added_at": "2026-07-08T14:56:38.355247+00:00"
+    },
+    {
+      "headline": "The Low-Key Lawyer at the Center of the Search for a Platner Replacement",
+      "summary": "Charles Dingman, chair of the Maine Democratic Party and a progressive, would play a key role in choosing the state’s Democratic Senate candidate if Graham Platner leaves the race.",
+      "url": "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-08T09:02:20+00:00",
+      "_summary": "Charles Dingman, chair of the Maine Democratic Party and a progressive, would play a key role in choosing the state’s Democratic Senate candidate if Graham Platner leaves the race.",
+      "_zh_headline": "低调的律师是寻找普拉特纳替代者的中心人物",
+      "_zh_summary": "如果格雷厄姆·普拉特纳退出竞选，缅因州民主党主席、进步人士查尔斯·丁曼将在选择该州民主党参议院候选人方面发挥关键作用。",
+      "_added_at": "2026-07-08T14:56:38.355247+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-08T13:19:09Z",
+      "headline": "Samsung Now Makes More Money Than Nvidia — And Goldman Says the Stock Is Still Dirt Cheap",
+      "id": 60330669,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/3d-Letter-Samsung-In-High-Technology.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/3d-Letter-Samsung-In-High-Technology.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/3d-Letter-Samsung-In-High-Technology.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Samsung guided to ~$59B in quarterly operating profit, topping Nvidia. Goldman reiterated Buy, citing intact memory fundamentals and a 5.3x forward P/E.",
+      "symbols": [
+        "AAPL",
+        "MU",
+        "NVDA",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-08T13:20:04Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60330669/samsung-out-earns-nvidia-goldman-buy-ssnlf-price-target",
+      "_summary": "Wall Street is starting to catch up, and Goldman Sachs thinks the stock is still cheap. Goldman Sachs analyst Giuni Lee reiterated a Buy rating, citing “solid fundamentals” in the memory business that remain intact. In its most recent audited quarter, the South-Korean company reported operating profit of 57.23 trillion won (about $38 billion). That’s enough to edge past the roughly $36 billion Apple posted in its latest quarter.",
+      "_zh_headline": "三星现在比英伟达赚更多的钱——高盛表示该股仍然非常便宜",
+      "_zh_summary": "华尔街开始迎头赶上，高盛认为该股仍然便宜。高盛分析师 Giuni Lee 重申了买入评级，理由是内存业务的“坚实基本面”仍然完好无损。在最近一个经审计的季度中，这家韩国公司报告营业利润为 57.23 万亿韩元（约合 380 亿美元）。这足以超过苹果公司最近一个季度公布的约 360 亿美元的收入。",
+      "_added_at": "2026-07-08T14:56:38.355247+00:00"
+    },
+    {
       "headline": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
       "summary": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
       "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html",
