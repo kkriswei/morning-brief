@@ -2,6 +2,118 @@
   "date": "2026-07-08",
   "articles": [
     {
+      "headline": "Oil Market Calm Shattered by Fresh Hostilities Between US and Iran",
+      "summary": "Oil prices are likely to remain volatile as long as the United States and Iran are unable to resolve the status of the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-08T16:19:02+00:00",
+      "_summary": "Oil prices are likely to remain volatile as long as the United States and Iran are unable to resolve the status of the Strait of Hormuz.",
+      "_zh_headline": "美国和伊朗之间新的敌对行动打破了石油市场的平静",
+      "_zh_summary": "只要美国和伊朗无法解决霍尔木兹海峡的地位问题，油价就可能继续波动。",
+      "_added_at": "2026-07-08T16:57:37.398850+00:00"
+    },
+    {
+      "headline": "In Israel, Rahm Emanuel Calls for End of Unconditional U.S. Support",
+      "summary": "The former Chicago mayor, a Democrat exploring a 2028 presidential run, delivered a speech in Tel Aviv that was sharply critical of Benjamin Netanyahu.",
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-08T15:49:00+00:00",
+      "_summary": "The former Chicago mayor, a Democrat exploring a 2028 presidential run, delivered a speech in Tel Aviv that was sharply critical of Benjamin Netanyahu.",
+      "_zh_headline": "在以色列，拉姆·伊曼纽尔呼吁美国停止无条件支持",
+      "_zh_summary": "这位正在探索 2028 年总统竞选的民主党人、前芝加哥市长在特拉维夫发表讲话，尖锐批评本杰明·内塔尼亚胡。",
+      "_added_at": "2026-07-08T16:57:37.398850+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-08T16:12:09Z",
+      "headline": "Oil Stocks Rally, S&P 500 Plunges As Iran Ceasefire Sinks: Stock Market Today",
+      "id": 60338463,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/The-Strait-Of-Hormuz-Pinned-On-A-Map--Ap.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/The-Strait-Of-Hormuz-Pinned-On-A-Map--Ap.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/The-Strait-Of-Hormuz-Pinned-On-A-Map--Ap.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Stocks slid and Brent reclaimed $80 after Trump declared the Iran ceasefire &#34;over,&#34; lifting rate-hike fears and hammering gold, chips and consumer names.",
+      "symbols": [
+        "BE",
+        "DIA",
+        "DINO",
+        "GDX",
+        "GLD",
+        "IWM",
+        "JETS",
+        "KEX",
+        "OIH",
+        "OLLI",
+        "OXY",
+        "PSX",
+        "QQQ",
+        "QXO",
+        "VLO",
+        "VOO",
+        "W",
+        "WING",
+        "WULF",
+        "XLB",
+        "XLE",
+        "XLY",
+        "XOP"
+      ],
+      "updated_at": "2026-07-08T16:12:09Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60338463/oil-surges-iran-ceasefire-collapses-rate-hike-fears-markets-wednesday",
+      "_summary": "U.S. stocks fell for a second straight session on Wednesday as surging energy prices rekindled inflation fears and pushed Treasury yields higher, with equities sliding after President Donald Trump declared the June ceasefire with Iran “over.” The move followed a fresh U.S. strike on Iran and reports that Tehran had targeted merchant ships in the Strait of Hormuz, after Washington revoked a waiver that had allowed Iranian crude sales.",
+      "_zh_headline": "随着伊朗停火协议的结束，石油股上涨，标准普尔 500 指数暴跌：今日股市",
+      "_zh_summary": "美国股市周三连续第二个交易日下跌，因能源价格飙升重新引发通胀担忧并推高美国国债收益率，在唐纳德·特朗普总统宣布六月与伊朗的停火“结束”后股市下滑。此前，美国对伊朗进行了新一轮打击，有报道称，在华盛顿撤销允许伊朗出售原油的豁免后，德黑兰将霍尔木兹海峡的商船作为目标。",
+      "_added_at": "2026-07-08T16:57:37.398850+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-08T15:33:09Z",
+      "headline": "Micron, Broadcom Just Got 25% Cheaper — And Chip Stocks Are 'Far From Bubble Territory', UBS Says",
+      "id": 60336891,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Ai-Chip-Growth-Trends-With-Increasing--H.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Ai-Chip-Growth-Trends-With-Increasing--H.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Ai-Chip-Growth-Trends-With-Increasing--H.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "UBS sees the recent AVGO and MU stock pullbacks as a buying opportunity in the fundamentally strong semiconductor sector.",
+      "symbols": [
+        "AVGO",
+        "MU",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-08T15:33:09Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60336891/micron-broadcom-just-got-25-cheaper-and-chip-stocks-are-far-from-bubble-territory-ubs-says",
+      "_summary": "The decline comes after a powerful rally driven by AI demand and data center spending. Despite the recent volatility, UBS argues the broader setup in semiconductors remains fundamentally strong rather than speculative. \"With earnings largely keeping pace with share prices, we remain constructive on the semis complex. Consensus estimates currently imply earnings growth of 92% for the index this year and a further 40% in 2027,\" UBS said.",
+      "_zh_headline": "瑞银表示，美光、博通的股价刚刚便宜了 25%，芯片股“远离泡沫地带”",
+      "_zh_summary": "这一下降是在人工智能需求和数据中心支出推动的强劲反弹之后发生的。尽管最近出现波动，瑞银认为半导体行业的整体格局从根本上来说仍然强劲，而不是投机性的。瑞银表示：“由于盈利基本与股价保持同步，我们对半成品综合体仍持建设性态度。目前普遍预计，该指数今年的盈利将增长 92%，2027 年将进一步增长 40%。”",
+      "_added_at": "2026-07-08T16:57:37.398850+00:00"
+    },
+    {
       "headline": "Oil Prices Jump as U.S. and Iran Resume Strikes, and Big Tobacco Makes a Big New Bet",
       "summary": "Plus, using drones to watch for sharks.",
       "url": "https://www.nytimes.com/2026/07/08/podcasts/the-headlines/oil-prices-iran-strikes-tobacco.html",
@@ -371,76 +483,6 @@
       "_summary": "Former Vice President Mike Pence urged President Donald Trump to reconsider plans to ease sanctions on Turkey and restore its access to F-35 fighter jets, warning the move could create major security risks for the U.S. and its allies. On Tuesday, Pence criticized Trump’s decision to consider removing sanctions on Turkey and reopening the possibility of Ankara receiving F-35 stealth fighter jets after years of restrictions. Trump said that his administration planned to lift sanctions on Turkey’s defense sector during a meeting with Turkish President Recep Tayyip Erdoğan at a NATO summit. \"I can tell you we’re going to be taking the sanctions off,\" Trump said. \"I don’t want him to waste his time answering that question. It’s time. We don’t sanction friends.\" Trump also indicated he was open to allowing Turkey to purchase F-35 jets despite concerns over Ankara’s ownership of the Russian-made S-400 air defense system.",
       "_zh_headline": "迈克·彭斯要求特朗普不要解除对土耳其的制裁，向安卡拉提供F-35喷气式飞机将是一个“战略错误”，会破坏美国、以色列和北约的安全",
       "_zh_summary": "前副总统迈克·彭斯敦促总统唐纳德·特朗普重新考虑放松对土耳其制裁并恢复其使用 F-35 战斗机的计划，警告此举可能会给美国及其盟国带来重大安全风险。周二，彭斯批评特朗普决定考虑取消对土耳其的制裁，并在多年的限制后重新开放安卡拉接收 F-35 隐形战斗机的可能性。特朗普表示，他的政府计划在北约峰会上与土耳其总统雷杰普·塔伊普·埃尔多安会面时取消对土耳其国防部门的制裁。特朗普说：“我可以告诉你，我们将取消制裁。” “我不想让他浪费时间回答这个问题。是时候了。我们不会制裁朋友。”特朗普还表示，尽管担心安卡拉拥有俄罗斯制造的S-400防空系统，但他对允许土耳其购买F-35战斗机持开放态度。",
-      "_added_at": "2026-07-08T07:04:55.535667+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-08T02:47:29Z",
-      "headline": "Ross Gerber Says Chip Sell Off 'a Gift' for Those That Want to Retire Even as SK Hynix US Debut Nears: 'Captured by Very Short-Term Thinking'",
-      "id": 60323028,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Ross Gerber calls chip selloff &#34;a gift&#34; for long-term investors ahead of SK Hynix&#39;s $29B U.S. listing this week.",
-      "symbols": [
-        "AVGO",
-        "MU",
-        "NVDA",
-        "SNDK",
-        "WDC"
-      ],
-      "updated_at": "2026-07-08T02:47:29Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60323028/ross-gerber-says-chip-sell-off-a-gift-for-those-that-want-to-retire-even-as-sk-hynix-us-debut-nears-captured-by-very-short-term-thinking",
-      "_summary": "Investor Ross Gerber said Tuesday that those selling semiconductor stocks were focusing on the short term, calling the recent pullback “a gift” for long-term investors ahead of South Korea’s chipmaker SK Hynix ‘s $29 billion U.S. listing later this week. “People selling chip stocks seem to be captured by very short term thinking,” Gerber said in a post on X.",
-      "_zh_headline": "罗斯·格伯 (Ross Gerber) 表示，即使 SK 海力士 (SK Hynix) 美国首秀临近，奇普 (Chip) 仍为那些想要退休的人出售“一份礼物”：“被非常短视的思维所俘获”",
-      "_zh_summary": "投资者罗斯·格伯 (Ross Gerber) 周二表示，那些抛售半导体股票的人都着眼于短期，并称在韩国芯片制造商 SK 海力士 (SK Hynix) 本周晚些时候在美国上市 290 亿美元之前，最近的回调对长期投资者来说是“一份礼物”。格伯在 X 上的一篇帖子中表示：“出售芯片股票的人似乎被非常短期的思维所俘获。”",
-      "_added_at": "2026-07-08T07:04:55.535667+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-07-07T20:42:52Z",
-      "headline": "EXCLUSIVE: SpaceX Stock Could ‘Eventually Double,’ Market Expert Jay Woods Says ‘Put it Away, Don’t Look At It’",
-      "id": 60320860,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne--United-States---Jul-22--2022-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne--United-States---Jul-22--2022-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne--United-States---Jul-22--2022-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "A market expert tells Benzinga why there&#39;s caution for the short-term valuation of SpaceX, but a long-term buying opportunity.",
-      "symbols": [
-        "QQQ",
-        "SPCX",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-07T20:42:52Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60320860/spacex-stock-could-double-market-expert-jay-woods-says-put-it-away-dont-look-at-it",
-      "_summary": "\"I think the valuation and the pre-market valuations, they scare me,\" Woods told Benzinga. \"I think there are going to be a lot of people looking to cash out and that’s why I didn’t want it to go into the (S&P 500) index.\" Woods said early inclusion in the S&P 500 may have forced buying and made the stock even more volatile at IPO, with people cashing out profits early. The market expert is far from a SpaceX bear, telling Benzinga he believes the company is \"here to stay.\"",
-      "_zh_headline": "独家报道：市场专家杰伊·伍兹表示，SpaceX 的股票“最终可能会翻倍”，“把它收起来，不要看它”",
-      "_zh_summary": "“我认为估值和上市前估值让我感到害怕，”伍兹告诉本辛加。 “我认为会有很多人希望套现，这就是为什么我不希望它进入（标准普尔 500 指数）指数。”伍兹表示，早期纳入标准普尔 500 指数可能会迫使人们买入，并使股票在 IPO 时更加波动，人们会提前兑现利润。这位市场专家远非 SpaceX 的看空者，他告诉 Benzinga，他相信该公司“会继续存在”。",
       "_added_at": "2026-07-08T07:04:55.535667+00:00"
     }
   ]
