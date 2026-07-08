@@ -1,17 +1,71 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "articles": [
     {
-      "headline": "As Israel Loses Support in the U.S., Rahm Emanuel Criticizes Netanyahu",
-      "summary": "The former Chicago mayor, a Democrat exploring a 2028 presidential run, is in Tel Aviv calling for an end to unconditional U.S. support of Israel.",
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html",
+      "headline": "Oil Prices Jump After Renewed Strikes in Gulf Put Shipping Recovery at Risk",
+      "summary": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
+      "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html",
       "source": "NYT",
       "symbols": [],
-      "created_at": "2026-07-07T23:23:59+00:00",
-      "_summary": "The former Chicago mayor, a Democrat exploring a 2028 presidential run, is in Tel Aviv calling for an end to unconditional U.S. support of Israel.",
-      "_zh_headline": "随着以色列失去美国的支持，拉姆·伊曼纽尔批评内塔尼亚胡",
-      "_zh_summary": "这位正在探索 2028 年总统竞选的民主党人、前芝加哥市长在特拉维夫呼吁美国停止对以色列的无条件支持。",
-      "_added_at": "2026-07-08T03:55:27.427312+00:00"
+      "created_at": "2026-07-08T07:03:47+00:00",
+      "_summary": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
+      "_zh_headline": "海湾地区再次发生罢工后油价飙升，航运业复苏面临风险",
+      "_zh_summary": "对霍尔木兹海峡船只的袭击引发了新一轮的报复，可能会扼杀该地区的能源流动。",
+      "_added_at": "2026-07-08T07:04:55.535667+00:00"
+    },
+    {
+      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "symbols": [],
+      "created_at": "2026-07-08T05:05:31+00:00",
+      "_summary": "A fuel crisis is currently gripping Russia with long, daily queues at petrol stations If you want to get a sense of the fuel crisis gripping Russia, all you need to do is spend a day driving around Moscow. At almost every petrol station we passed there was a queue of cars and lorries. Some lines were long, some short; some static, others moving steadily. If there was no queue, that meant the garage had run out of fuel entirely and was closed. Remember: this is Moscow, the wealthy, populated capital that draws in so much of Russia's vast resources. Even here the authorities cannot ensure there is enough petrol and diesel to keep Muscovites on the road. Yet, in the queues, the mood was more frustrated than angry. Yekaterina told us she was \"not happy\" and there was \"panic because everybody thinks there will be no oil\". But it would OK, she said, \"we just need to reorganise the oil distribution\".",
+      "_zh_headline": "俄罗斯燃料短缺造成影响——但普京会改变在乌克兰战争中的策略吗？",
+      "_zh_summary": "目前，俄罗斯正面临燃油危机，加油站每天都排着长队。如果您想了解俄罗斯面临的燃油危机，只需花一天时间在莫斯科周围开车即可。几乎我们经过的每个加油站都排着小汽车和卡车的队伍。有的线很长，有的很短；有些是静态的，有些是稳定移动的。如果没有人排队，就意味着车库的燃料已经耗尽并关闭了。请记住：这里是莫斯科，一座富裕、人口稠密的首都，吸引了俄罗斯大量的资源。即使在这里，当局也无法确保有足够的汽油和柴油来维持莫斯科人的出行。然而，队列中的情绪更多的是沮丧而不是愤怒。叶卡捷琳娜告诉我们，她“不高兴”，并且“感到恐慌，因为每个人都认为不会有石油”。但她说，没关系，“我们只需要重组石油分配”。",
+      "_added_at": "2026-07-08T07:04:55.535667+00:00"
+    },
+    {
+      "headline": "Tehran targets Bahrain and Kuwait after US strikes",
+      "summary": "The regional crossfire raised the risks that an interim agreement to halt fighting in the war could break down, putting the Middle East again at risk of a wider conflict.",
+      "url": "https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks",
+      "source": "NPR",
+      "symbols": [],
+      "created_at": "2026-07-08T01:36:30-04:00",
+      "_summary": "An Iraqi Shiite soldier chants on the eve of funeral ceremonies for the late Iranian Supreme Leader Ayatollah Ali Khamenei outside the Imam Ali Shrine in Najaf, Iraq, Tuesday, July 7, 2026. Hadi Mizban/AP hide caption DUBAI, United Arab Emirates — The U.S. military attacked Iran early Wednesday after it said Tehran struck three ships in the Strait of Hormuz, part of an American effort that also revoked the Islamic Republic's ability to openly sell crude oil in the world market. Iran retaliated with strikes targeting Bahrain and Kuwait. The regional crossfire raised the risks that an interim agreement to halt fighting in the war could break down, putting the Middle East again at risk of a wider conflict. The attacks on shipping and the resulting strikes came during the dayslong funeral for Iran's Supreme Leader Ayatollah Ali Khamenei, who was killed Feb. 28 in the war's first moments at age 86.",
+      "_zh_headline": "美国袭击后德黑兰瞄准巴林和科威特",
+      "_zh_summary": "2026 年 7 月 7 日，星期二，在伊拉克纳杰夫的伊玛目阿里神社外，一名伊拉克什叶派士兵在已故伊朗最高领袖阿亚图拉阿里哈梅内伊的葬礼前夕高喊口号。Hadi Mizban/美联社隐藏标题栏阿拉伯联合酋长国迪拜——美国军方周三早些时候袭击了伊朗，此前伊朗称德黑兰在霍尔木兹海峡击中了三艘船只，这是美国努力的一部分，也撤销了伊斯兰伊斯兰圣地共和国有能力在世界市场上公开销售原油。伊朗以巴林和科威特为目标进行报复。地区交火增加了停止战争的临时协议可能破裂的风险，使中东再次面临更广泛冲突的风险。对航运的袭击以及由此引发的罢工发生在伊朗最高领袖阿亚图拉·阿里·哈梅内伊为期一天的葬礼期间。哈梅内伊于 2 月 28 日在战争初期阵亡，享年 86 岁。",
+      "_added_at": "2026-07-08T07:04:55.535667+00:00"
+    },
+    {
+      "author": "Snigdha Gairola",
+      "content": "",
+      "created_at": "2026-07-08T06:26:08Z",
+      "headline": "Mike Pence Asks Trump Not to Lift Turkey Sanctions, Giving Ankara F-35 Jets Would Be a 'Strategic Mistake' That Undermines US, Israel and NATO Security",
+      "id": 60323682,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Chesterfield--Mo--Usa---September-06--20.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Chesterfield--Mo--Usa---September-06--20.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Chesterfield--Mo--Usa---September-06--20.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Pence warns Trump against lifting Turkey sanctions and restoring F-35 access, saying the move could threaten U.S., Israel and NATO securit",
+      "symbols": [],
+      "updated_at": "2026-07-08T06:26:09Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60323682/mike-pence-asks-trump-please-dont-lift-turkey-sanctions",
+      "_summary": "Former Vice President Mike Pence urged President Donald Trump to reconsider plans to ease sanctions on Turkey and restore its access to F-35 fighter jets, warning the move could create major security risks for the U.S. and its allies. On Tuesday, Pence criticized Trump’s decision to consider removing sanctions on Turkey and reopening the possibility of Ankara receiving F-35 stealth fighter jets after years of restrictions. Trump said that his administration planned to lift sanctions on Turkey’s defense sector during a meeting with Turkish President Recep Tayyip Erdoğan at a NATO summit. \"I can tell you we’re going to be taking the sanctions off,\" Trump said. \"I don’t want him to waste his time answering that question. It’s time. We don’t sanction friends.\" Trump also indicated he was open to allowing Turkey to purchase F-35 jets despite concerns over Ankara’s ownership of the Russian-made S-400 air defense system.",
+      "_zh_headline": "迈克·彭斯要求特朗普不要解除对土耳其的制裁，向安卡拉提供F-35喷气式飞机将是一个“战略错误”，会破坏美国、以色列和北约的安全",
+      "_zh_summary": "前副总统迈克·彭斯敦促总统唐纳德·特朗普重新考虑放松对土耳其制裁并恢复其使用 F-35 战斗机的计划，警告此举可能会给美国及其盟国带来重大安全风险。周二，彭斯批评特朗普决定考虑取消对土耳其的制裁，并在多年的限制后重新开放安卡拉接收 F-35 隐形战斗机的可能性。特朗普表示，他的政府计划在北约峰会上与土耳其总统雷杰普·塔伊普·埃尔多安会面时取消对土耳其国防部门的制裁。特朗普说：“我可以告诉你，我们将取消制裁。” “我不想让他浪费时间回答这个问题。是时候了。我们不会制裁朋友。”特朗普还表示，尽管担心安卡拉拥有俄罗斯制造的S-400防空系统，但他对允许土耳其购买F-35战斗机持开放态度。",
+      "_added_at": "2026-07-08T07:04:55.535667+00:00"
     },
     {
       "author": "Radhika Anilkumar Nadig",
@@ -47,31 +101,7 @@
       "_summary": "Investor Ross Gerber said Tuesday that those selling semiconductor stocks were focusing on the short term, calling the recent pullback “a gift” for long-term investors ahead of South Korea’s chipmaker SK Hynix ‘s $29 billion U.S. listing later this week. “People selling chip stocks seem to be captured by very short term thinking,” Gerber said in a post on X.",
       "_zh_headline": "罗斯·格伯 (Ross Gerber) 表示，即使 SK 海力士 (SK Hynix) 美国首秀临近，奇普 (Chip) 仍为那些想要退休的人出售“一份礼物”：“被非常短视的思维所俘获”",
       "_zh_summary": "投资者罗斯·格伯 (Ross Gerber) 周二表示，那些抛售半导体股票的人都着眼于短期，并称在韩国芯片制造商 SK 海力士 (SK Hynix) 本周晚些时候在美国上市 290 亿美元之前，最近的回调对长期投资者来说是“一份礼物”。格伯在 X 上的一篇帖子中表示：“出售芯片股票的人似乎被非常短期的思维所俘获。”",
-      "_added_at": "2026-07-08T03:55:27.427312+00:00"
-    },
-    {
-      "headline": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
-      "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-07T23:02:04+00:00",
-      "_summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
-      "_zh_headline": "美国打击伊朗并在油轮袭击后重新实施制裁",
-      "_zh_summary": "此次军事行动是在美国财政部撤销允许伊朗石油全球销售的豁免几小时后进行的。",
-      "_added_at": "2026-07-07T23:30:43.849485+00:00"
-    },
-    {
-      "headline": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
-      "summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
-      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-07T21:41:30+00:00",
-      "_summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
-      "_zh_headline": "伊朗对霍尔木兹海峡船只的袭击威胁石油流动",
-      "_zh_summary": "伊朗的袭击以及美国的袭击和重新实施制裁是在两国同意努力持久结束敌对行动几周后发生的。",
-      "_added_at": "2026-07-07T21:55:35.823289+00:00"
+      "_added_at": "2026-07-08T07:04:55.535667+00:00"
     },
     {
       "author": "Chris Katje",
@@ -105,513 +135,7 @@
       "_summary": "\"I think the valuation and the pre-market valuations, they scare me,\" Woods told Benzinga. \"I think there are going to be a lot of people looking to cash out and that’s why I didn’t want it to go into the (S&P 500) index.\" Woods said early inclusion in the S&P 500 may have forced buying and made the stock even more volatile at IPO, with people cashing out profits early. The market expert is far from a SpaceX bear, telling Benzinga he believes the company is \"here to stay.\"",
       "_zh_headline": "独家报道：市场专家杰伊·伍兹表示，SpaceX 的股票“最终可能会翻倍”，“把它收起来，不要看它”",
       "_zh_summary": "“我认为估值和上市前估值让我感到害怕，”伍兹告诉本辛加。 “我认为会有很多人希望套现，这就是为什么我不希望它进入（标准普尔 500 指数）指数。”伍兹表示，早期纳入标准普尔 500 指数可能会迫使人们买入，并使股票在 IPO 时更加波动，人们会提前兑现利润。这位市场专家远非 SpaceX 的看空者，他告诉 Benzinga，他相信该公司“会继续存在”。",
-      "_added_at": "2026-07-07T21:55:35.823289+00:00"
-    },
-    {
-      "headline": "After Courting Black Voters, Trump Downplays Black Unemployment",
-      "summary": "The president has glossed over persistently high unemployment among African Americans, a group he needed to secure a second term.",
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/trump-black-voters-unemployment.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-07T09:01:42+00:00",
-      "_summary": "The president has glossed over persistently high unemployment among African Americans, a group he needed to secure a second term.",
-      "_zh_headline": "在争取黑人选民后，特朗普淡化了黑人失业率",
-      "_zh_summary": "总统掩盖了非洲裔美国人失业率持续高企的问题，而他需要这个群体来确保连任。",
-      "_added_at": "2026-07-07T20:26:19.409308+00:00"
-    },
-    {
-      "author": "Bamboo Works",
-      "content": "",
-      "created_at": "2026-07-07T18:25:21Z",
-      "headline": "CXMT IPO Tests China’s Chip Self-Sufficiency drive",
-      "id": 60316858,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/7-7-2026-10567-thebambooworks-com.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/7-7-2026-10567-thebambooworks-com.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/7-7-2026-10567-thebambooworks-com.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The Hefei-based DRAM maker is heading to Shanghai’s STAR Market as AI demand and geopolitical tensions bring new urgency to China’s semiconductor self-sufficiency drive\n\n\n\n\n\n\n\nimage credit: Bamboo Works\n\n\n\nKey",
-      "symbols": [],
-      "updated_at": "2026-07-07T18:25:21Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60316858/cxmt-ipo-tests-chinas-chip-self-sufficiency-drive",
-      "_summary": "The Hefei-based DRAM maker is heading to Shanghai’s STAR Market as AI demand and geopolitical tensions bring new urgency to China’s semiconductor self-sufficiency drive One of China’s most important semiconductor IPOs this year is not coming from traditional tech hubs in Beijing, Shanghai or Shenzhen. Instead, it’s coming from Hefei, an inland provincial capital better known a generation ago for universities and government offices than its technology. But that’s been changing over the past two decades, as Hefei becomes one of China’s boldest local-government technology investors, using state capital to build or attract companies in displays, electric vehicles (EVs), batteries, AI, quantum technology and semiconductors. Its best-known bets include names like display maker BOE, EV maker Nio, battery maker Gotion and AI company iFlytek, to name a few.",
-      "_zh_headline": "长鑫存储IPO考验中国芯片自给率",
-      "_zh_summary": "随着人工智能需求和地缘政治紧张局势给中国半导体自给自足带来新的紧迫性，这家总部位于合肥的 DRAM 制造商正前往上海科创板。今年中国最重要的半导体 IPO 之一并非来自北京、上海或深圳的传统科技中心。相反，它来自合肥，这座内陆省会城市在上一代人中以大学和政府机构而非其技术而闻名。但这种情况在过去二十年里发生了变化，合肥成为中国最大胆的地方政府技术投资者之一，利用国有资本建立或吸引显示器、电动汽车 (EV)、电池、人工智能、量子技术和半导体领域的公司。其最著名的赌注包括显示器制造商京东方、电动汽车制造商蔚来、电池制造商国轩科技和人工智能公司科大讯飞等。",
-      "_added_at": "2026-07-07T20:26:19.409308+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-07T18:18:01Z",
-      "headline": "Samsung Selloff Sends Warning To US Investors; Amazon Enters AI Debt Binge",
-      "id": 60316637,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nSamsung Warning\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "DRAM",
-        "GOOG",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SNDK",
-        "SOXL",
-        "SPCX",
-        "SPY",
-        "SSNLF",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-07T18:19:47Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60316637/samsung-selloff-sends-warning-to-us-investors-amazon-enters-ai-debt-binge-iran-hits-a-ship",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are negative in Nvidia (NVDA) and Tesla Inc (NASDAQ: TSLA ) .",
-      "_zh_headline": "三星抛售向美国投资者发出警告；亚马逊进入人工智能债务狂潮",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早盘交易中，英伟达（NVDA）和特斯拉公司（纳斯达克股票代码：TSLA）的资金流向为负。",
-      "_added_at": "2026-07-07T20:26:19.409308+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-07T17:35:09Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "id": 60315511,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "symbols": [
-        "AVGO",
-        "BTDR",
-        "DELL",
-        "INTC",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "PLTR",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-07T17:35:09Z",
-      "url": "https://www.benzinga.com/markets/options/26/07/60315511/10-information-technology-stocks-whale-activity-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-07-07T20:26:19.409308+00:00"
-    },
-    {
-      "headline": "Trump Promised a Foreign Investment Boom. It’s Getting Harder to Deliver.",
-      "summary": "The threat of tariffs may have helped push more capital into the United States, but other factors are pushing it away.",
-      "url": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-07T13:23:42+00:00",
-      "_summary": "The threat of tariffs may have helped push more capital into the United States, but other factors are pushing it away.",
-      "_zh_headline": "特朗普承诺外国投资将蓬勃发展。交付变得越来越困难。",
-      "_zh_summary": "关税威胁可能有助于推动更多资本流入美国，但其他因素正在将其推走。",
-      "_added_at": "2026-07-07T17:34:02.397017+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-07T17:20:32Z",
-      "headline": "Chip Rout Drags Nasdaq 100 Lower, Oil Climbs: Stock Market Today",
-      "id": 60315082,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "A deepening chipmaker slide pulls all major U.S. indexes lower Tuesday while oil climbs on a Strait of Hormuz strike and defensive sectors led the tape.",
-      "symbols": [
-        "AMAT",
-        "BE",
-        "DIA",
-        "DOCN",
-        "FIG",
-        "GDX",
-        "GEV",
-        "GNRC",
-        "IBB",
-        "INTC",
-        "IWM",
-        "KIE",
-        "LNG",
-        "LRCX",
-        "MBGL",
-        "MIDD",
-        "MRVL",
-        "MU",
-        "NET",
-        "NIQ",
-        "PBW",
-        "QQQ",
-        "RIVN",
-        "RNG",
-        "SMH",
-        "SNDK",
-        "SSNLF",
-        "TAN",
-        "TER",
-        "VICR",
-        "VKTX",
-        "VNQ",
-        "VOO",
-        "WDC",
-        "XLE",
-        "XLI",
-        "XLK",
-        "XLRE",
-        "XLU",
-        "XLV",
-        "XME",
-        "XOP"
-      ],
-      "updated_at": "2026-07-07T17:20:32Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60315082/chip-rout-samsung-earnings-nasdaq-100-oil-climbs-hormuz-stock-market-tuesday",
-      "_summary": "A deepening sell-off in chip and memory stocks dragged all four major U.S. equity indexes lower by midday Tuesday. Money rotated defensively, with health care, real estate and utilities the only sectors firmly higher, while industrials and technology lagged. The S&P 500 eased about 0.3% to 7,513, and the Dow Jones Industrial Average slipped 0.3% to 52,890, surrendering an earlier record-territory push. The Nasdaq 100 fell about 1.6% to 29,237 as a memory-chip rout swept the sector.",
-      "_zh_headline": "芯片溃败拖累纳斯达克 100 指数走低，油价上涨：今日股市",
-      "_zh_summary": "截至周二中午，芯片和内存股的抛售加剧，拖累美国四大股指均走低。资金呈防御性轮动，医疗保健、房地产和公用事业是唯一坚挺走高的板块，而工业和科技板块则表现落后。标准普尔 500 指数下跌约 0.3%，至 7,513 点，道琼斯工业平均指数下跌 0.3%，至 52,890 点，放弃了早些时候创下的纪录。由于存储芯片的溃败席卷整个行业，纳斯达克 100 指数下跌约 1.6%，至 29,237 点。",
-      "_added_at": "2026-07-07T17:34:02.397017+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-07T15:25:30Z",
-      "headline": "SpaceX Nasdaq 100 Debut, Minimal Lift: Analysts Call the QQQ Hype Overdone",
-      "id": 60310466,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/The-Spacex-Logo-Is-Displayed-On-A-Mobile.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/The-Spacex-Logo-Is-Displayed-On-A-Mobile.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/The-Spacex-Logo-Is-Displayed-On-A-Mobile.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SpaceX joins the Nasdaq 100 index and some analysts are skeptical of the forced-buy hype.",
-      "symbols": [
-        "AAPL",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SPCX",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-07T15:25:30Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60310466/spacex-nasdaq-100-debut-minimal-lift-analysts-call-the-qqq-hype-overdone",
-      "_summary": "• Invesco QQQ Trust, Series 1 shares are under pressure. Why are QQQ shares declining? JPMorgan estimates SpaceX will enter the Nasdaq 100 at roughly a 1.3% index weight, placing it behind Tesla Inc (NASDAQ: TSLA ) , which sits near 3.2% of the benchmark. That means SpaceX will be a high-profile new member, but not a top-tier driver of QQQ’s performance at inception.",
-      "_zh_headline": "SpaceX 纳斯达克 100 指数首次亮相，涨幅甚微：分析师称 QQQ 炒作过度",
-      "_zh_summary": "• Invesco QQQ Trust，系列 1 股票面临压力。 QQQ股价为何下跌？摩根大通估计 SpaceX 将以大约 1.3% 的指数权重进入纳斯达克 100 指数，落后于特斯拉公司（纳斯达克股票代码：TSLA），后者接近基准指数的 3.2%。这意味着 SpaceX 将成为备受瞩目的新成员，但并不是 QQQ 成立之初业绩的顶级推动者。",
-      "_added_at": "2026-07-07T17:34:02.397017+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-07T12:33:32Z",
-      "headline": "Stock Market Today: Dow Jones Futures Gain, S&P 500, Nasdaq 100 Slips As SpaceX Debuts On The Exchange—Rivian, Micron In Focus (UPDATED)",
-      "id": 60297478,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were mixed on Tuesday, as the Dow Jones index rose while the Nasdaq 100 and S&amp;P 500 indices fell.",
-      "symbols": [
-        "BTCUSD",
-        "F",
-        "MU",
-        "PENG",
-        "QQQ",
-        "RIVN",
-        "RXST",
-        "SPCX",
-        "SPY",
-        "WMT"
-      ],
-      "updated_at": "2026-07-07T12:34:21Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60297478/stock-market-today-dow-jones-futures-gain-nasdaq-100-slips-as-spacex-debuts-on-the-exchange-rivian-micron-in-focus",
-      "_summary": "U.S. stock futures were mixed on Tuesday, as the Dow Jones index rose while the Nasdaq 100 and S&P 500 indices fell, following Monday’s higher close. On Monday, President Donald Trump said the federal government has deposited the first $1,000 into more than 500,000 newly created \"Trump Accounts,\" launching a program aimed at giving eligible American newborns an early start in investing. Meanwhile, the 10-year Treasury bond yielded 4.50%, and the two-year bond was at 4.13%.",
-      "_zh_headline": "今日股市：随着 SpaceX 在交易所首次亮相，道琼斯期货上涨，标准普尔 500 指数、纳斯达克 100 指数下跌 - Rivian、美光成为焦点（已更新）",
-      "_zh_summary": "周二美国股指期货涨跌互现，道琼斯指数上涨，而纳斯达克 100 指数和标准普尔 500 指数在周一收盘走高后下跌。周一，唐纳德·特朗普总统表示，联邦政府已将首批 1,000 美元存入超过 500,000 个新创建的“特朗普账户”，启动了一项旨在让符合条件的美国新生儿尽早开始投资的计划。与此同时，10年期国债收益率为4.50%，两年期国债收益率为4.13%。",
-      "_added_at": "2026-07-07T15:26:40.557904+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-07T15:07:03Z",
-      "headline": "Your 401(k) May Have Just Bought SpaceX for You",
-      "id": 60309849,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Tapping-401k-For-Home-Delivers-Painful-T.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Tapping-401k-For-Home-Delivers-Painful-T.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Tapping-401k-For-Home-Delivers-Painful-T.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Millions of retirement investors may now own SpaceX through Nasdaq-100 index funds after the company&#39;s record-fast index inclusion.",
-      "symbols": [
-        "QQQ",
-        "QQQM",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-07T15:07:03Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60309849/your-401k-may-have-just-bought-spacex-for-you",
-      "_summary": "That’s because SpaceX officially joined the Nasdaq-100 just 15 trading days after its blockbuster IPO—the fastest major index inclusion following an IPO after Nasdaq introduced a new fast-track rule earlier this year. The move forced index funds tracking the benchmark to purchase billions of dollars worth of SpaceX shares, regardless of whether portfolio managers believed the stock was attractively valued. Unlike actively managed funds, index funds don’t decide whether a stock is expensive or cheap.",
-      "_zh_headline": "您的 401(k) 可能刚刚为您购买了 SpaceX",
-      "_zh_summary": "这是因为 SpaceX 在其轰动一时的 IPO 后仅 15 个交易日就正式加入纳斯达克 100 指数，这是自今年早些时候纳斯达克推出新的快速通道规则以来，继 IPO 之后最快被纳入主要指数的速度。此举迫使追踪该基准的指数基金购买价值数十亿美元的 SpaceX 股票，无论投资组合经理是否认为该股票估值具有吸引力。与主动管理型基金不同，指数基金并不决定股票是贵还是便宜。",
-      "_added_at": "2026-07-07T15:26:40.557904+00:00"
-    },
-    {
-      "author": "Victor Olanrewaju",
-      "content": "",
-      "created_at": "2026-07-07T14:25:01Z",
-      "headline": "Should You Buy SPCX Stock As SpaceX Joins The Nasdaq-100?",
-      "id": 60307687,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Should you buy the SPCX stock as SpaceX officially joins the Nasdaq-100 today, forcing billions in passive fund buying.",
-      "symbols": [
-        "QQQ",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-07T14:25:01Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60307687/should-you-buy-spcx-stock-as-spacex-joins-the-nasdaq-100",
-      "_summary": "Space Exploration Technologies Corp. (NASDAQ: SPCX ) formally joins the Nasdaq-100 today, less than one month after the largest U.S. market IPO in history. The index addition will force ETFs and index funds to acquire shares of SPCX, producing billions of dollars of mandatory buying that could cause one of the stock’s most tumultuous trading sessions since its public debut. The move bolsters SpaceX’s position as one of the largest tech companies in the market.",
-      "_zh_headline": "随着 SpaceX 加入纳斯达克 100 指数，你应该购买 SPCX 股票吗？",
-      "_zh_summary": "太空探索技术公司（纳斯达克股票代码：SPCX）今天正式加入纳斯达克 100 指数，距离美国市场历史上最大的 IPO 不到一个月。该指数的加入将迫使 ETF 和指数基金收购 SPCX 股票，从而产生数十亿美元的强制买盘，这可能会导致该股出现自公开亮相以来最动荡的交易时段之一。此举巩固了 SpaceX 作为市场上最大科技公司之一的地位。",
-      "_added_at": "2026-07-07T15:26:40.557904+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-07T14:19:26Z",
-      "headline": "Wall Street Welcomes SK Hynix: Will Micron And SanDisk Foot The Bill?",
-      "id": 60307427,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/The-Sk-Hynix-Logo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/The-Sk-Hynix-Logo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/The-Sk-Hynix-Logo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SK Hynix plans its U.S. listing, joining other memory stocks in the AI boom. Existing winners may be sold to fund the newcomer.",
-      "symbols": [
-        "DRAM",
-        "MU",
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-07-07T14:19:26Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60307427/wall-street-welcomes-sk-hynix-will-micron-and-sandisk-foot-the-bill",
-      "_summary": "SK Hynix is bringing one of the biggest memory deals in years to Nasdaq, with plans to raise close to $29 billion through American Depositary Receipts tied to its DRAM and high‑bandwidth memory franchise. The question now is: Does fresh capital chase SK Hynix on top of what is already in the trade, or does the group recycle existing gains to pay for the newcomer? A funding squeeze is the clean, near‑term risk.",
-      "_zh_headline": "华尔街欢迎 SK 海力士：美光和闪迪会买单吗？",
-      "_zh_summary": "SK 海力士正在纳斯达克带来多年来最大的内存交易之一，计划通过与其 DRAM 和高带宽内存专营权相关的美国存托凭证筹集近 290 亿美元。现在的问题是：新资本是否会在现有业务的基础上追逐 SK 海力士，还是该集团会回收现有收益来支付新来者的费用？资金紧缩是明显的近期风险。",
-      "_added_at": "2026-07-07T15:26:40.557904+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-07T13:50:50Z",
-      "headline": "Why Is Marvell Technology Stock Falling Tuesday?",
-      "id": 60305890,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Marvell-Technology.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Marvell-Technology.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Marvell-Technology.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Marvell Technology (MRVL) stock fell 5% in premarket trading amid a broader chip sector sell-off. Discover what&#39;s driving the drop.",
-      "symbols": [
-        "ARTY",
-        "MRVL",
-        "SOXQ",
-        "SOXX",
-        "SSNLF"
-      ],
-      "updated_at": "2026-07-07T13:52:30Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60305890/why-is-marvell-technology-stock-falling-tuesday",
-      "_summary": "With no company-specific catalyst for Marvell, the decline appears driven by weaker sentiment toward AI and growth stocks. The stock has still gained about 248% over the past 12 months, making it vulnerable to profit-taking during market pullbacks. Marvell’s long-term trend remains bullish despite the recent weakness. The stock trades 44.9% above its 100-day simple moving average of $161.95 and 90% above its 200-day SMA of $123.53.",
-      "_zh_headline": "Marvell 科技股为何周二下跌？",
-      "_zh_summary": "由于 Marvell 没有特定公司的催化剂，因此股价下跌似乎是由于对人工智能和成长型股票的情绪疲软所致。该股在过去 12 个月中仍上涨了约 248%，使其在市场回调期间很容易受到获利了结的影响。尽管近期表现疲软，Marvell 的长期趋势仍然看涨。该股的交易价格比 161.95 美元的 100 日简单移动平均线高出 44.9%，比 123.53 美元的 200 日简单移动平均线高出 90%。",
-      "_added_at": "2026-07-07T15:26:40.557904+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-07T12:44:55Z",
-      "headline": "Ross Gerber Calls Michael Burry's Micron Short 'A Joke,' Says AI Demand Has MU in 'Epic Position To Profit'",
-      "id": 60302909,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Paris--France---February-20-2026-The-Mic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Paris--France---February-20-2026-The-Mic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Paris--France---February-20-2026-The-Mic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Ross Gerber blasts Michael Burry&#39;s Micron (MU) short, calling it a &#34;joke.&#34; See why Gerber says the AI chipmaker is in an &#34;epic position.&#34;",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-07-07T12:44:55Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60302909/ross-gerber-calls-michael-burrys-micron-short-a-joke-says-ai-demand-has-mu-in-epic-position-to-profit",
-      "_summary": "In a scathing social media post, Gerber firmly dismissed Burry’s bearish outlook on the semiconductor manufacturer. “Burry. What a joke going short my top position,” Gerber wrote on X, referencing his firm’s heavy investment in the tech stock. Gerber did not hold back on personal criticisms regarding the famous investor’s track record, claiming Burry “manages almost nothing” and merely “made a great call 20 years ago.”",
-      "_zh_headline": "罗斯·格伯 (Ross Gerber) 称迈克尔·伯里 (Michael Burry) 的美光空头是“一个笑话”，称人工智能需求使 MU 处于“盈利的史诗地位”",
-      "_zh_summary": "在一篇措辞严厉的社交媒体帖子中，格伯坚决驳斥了伯里对这家半导体制造商的悲观前景。 “巴里。做空我的头寸真是个笑话，”格伯在 X 上写道，指的是他的公司对科技股的大量投资。格伯毫不掩饰地对这位著名投资者的业绩记录进行了个人批评，声称伯里“几乎什么也没管理”，只是“20年前做出了一个伟大的决定”。",
-      "_added_at": "2026-07-07T15:26:40.557904+00:00"
-    },
-    {
-      "headline": "Meet 'Project 2029' — and its war on the annoyance economy",
-      "summary": "Remember Project 2025? Democrats are building their own governing blueprint, and one proposal takes aim at the \"annoyance economy\": robocalls, endless hold times, hidden fees and other everyday frustrations.",
-      "url": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy",
-      "source": "NPR",
-      "symbols": [],
-      "created_at": "2026-07-07T06:30:00-04:00",
-      "_summary": "Imagine no more annoying robocalls. No more spam texts. No more hidden fees. No more jumping through hoops to cancel subscriptions or file an insurance claim. A group of Democratic policy veterans believes that daily annoyances like these have become a real economic problem. They even have a name for it: \"the annoyance economy.\" Taking it on is one plank in a broader governing agenda they're assembling for a future Democratic president. They're calling it \" Project 2029. \" If you followed politics at all in 2024, you probably heard about Project 2025. Released by The Heritage Foundation, it laid out a conservative policy blueprint for a second Trump administration. Democrats attacked the project nonstop as extreme, and Trump distanced himself from it on the campaign trail. But what had looked like an election liability became a governing asset: The Trump administration came into office with a ready-to-go policy agenda and quickly began pursuing many of Project 2025's proposals.",
-      "_zh_headline": "了解“2029 计划”——及其对烦恼经济的战争",
-      "_zh_summary": "想象一下不再有烦人的机器人电话。不再有垃圾短信。不再有隐藏费用。无需再费力取消订阅或提出保险索赔。一群民主党政策资深人士认为，像这样的日常烦恼已经成为一个真正的经济问题。他们甚至给它起了一个名字：“烦恼经济”。接受它是他们为未来的民主党总统制定的更广泛的执政议程中的一个组成部分。他们称之为“2029 计划”。如果您在 2024 年关注过政治，您可能听说过 2025 计划。该计划由传统基金会发布，为特朗普第二届政府制定了保守派政策蓝图。民主党人不断攻击该项目极端，而特朗普则在竞选过程中与该项目保持距离。但看似选举责任的东西却变成了治理资产：特朗普政府上任时就制定了现成的政策议程，并迅速开始推行“2025 计划”的许多提案。",
-      "_added_at": "2026-07-07T12:15:14.833507+00:00"
-    },
-    {
-      "author": "Tanya Rawat",
-      "content": "",
-      "created_at": "2026-07-07T12:06:28Z",
-      "headline": "Former ICE Chief Blames Biden-Era Immigration Policies for Higher Housing Costs, Cites Dallas Fed Study: 'The American People Overall...'",
-      "id": 60301526,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Barter-When-Selling-A-House--Legality-An.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Barter-When-Selling-A-House--Legality-An.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/07/Barter-When-Selling-A-House--Legality-An.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Former ICE official cites a Fed study linking illegal immigration to higher home prices and rents.",
-      "symbols": [],
-      "updated_at": "2026-07-07T12:06:28Z",
-      "url": "https://www.benzinga.com/news/politics/26/07/60301526/former-ice-chief-blames-biden-era-immigration-policies-for-higher-housing-costs-cites-dallas-fed-study-the-american-people-overall",
-      "_summary": "Former acting U.S. Immigration and Customs Enforcement Director Jonathan Fahey on Monday said former President Joe Biden’s immigration policies left Americans facing higher housing costs, pointing to a Federal Reserve Bank of Dallas working paper that linked the recent surge in unauthorized immigration to rising home prices and rents. Fahey made the remarks during an interview on Fox Business following the July 4 holiday weekend. The working paper examined how the unprecedented rise in unauthorized immigration between 2021 and 2024 affected local labor and housing markets by combining immigration court records with government administrative data. The authors cautioned that the paper is a preliminary draft released for professional review and does not necessarily reflect the views of the Federal Reserve Bank of Dallas or the Federal Reserve System.",
-      "_zh_headline": "前 ICE 局长引用达拉斯联邦储备银行的研究，将住房成本上涨归咎于拜登时代的移民政策：“美国人民总体上......”",
-      "_zh_summary": "美国前代理移民和海关执法局局长乔纳森·费伊周一表示，前总统乔·拜登的移民政策使美国人面临更高的住房成本，并指出达拉斯联邦储备银行的一份工作文件将最近未经授权的移民激增与房价和租金上涨联系起来。费伊在 7 月 4 日假期周末后接受福克斯商业频道采访时发表了上述言论。该工作文件将移民法庭记录与政府行政数据相结合，研究了 2021 年至 2024 年间非法移民数量空前增加如何影响当地劳动力和住房市场。作者警告说，该论文是供专业审查发布的初稿，并不一定反映达拉斯联邦储备银行或美联储系统的观点。",
-      "_added_at": "2026-07-07T12:15:14.833507+00:00"
+      "_added_at": "2026-07-08T07:04:55.535667+00:00"
     }
   ]
 }
