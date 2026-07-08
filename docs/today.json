@@ -2,6 +2,123 @@
   "date": "2026-07-08",
   "articles": [
     {
+      "headline": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+      "summary": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
+      "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-08T10:55:48+00:00",
+      "_summary": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
+      "_zh_headline": "特朗普表示与伊朗的协议“结束”后油价上涨",
+      "_zh_summary": "对霍尔木兹海峡船只的袭击引发了新一轮的报复，可能会扼杀该地区的能源流动。",
+      "_added_at": "2026-07-08T12:05:03.098995+00:00"
+    },
+    {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-07-08T10:40:04Z",
+      "headline": "Peter Schiff Says Fed Distraction Masks Precious-Metals Buying Window, Seasonality Agrees",
+      "id": 60326216,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Gold-Bar-On-Us-Dollar-Banknotes--Finance.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Gold-Bar-On-Us-Dollar-Banknotes--Finance.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Gold-Bar-On-Us-Dollar-Banknotes--Finance.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Peter Schiff warns the $40T US debt will force massive inflation. Why he says gold, not the dollar, is the ultimate reserve.",
+      "symbols": [
+        "AGQ",
+        "GLD",
+        "GLDM",
+        "IAU",
+        "IAUM",
+        "OUNZ",
+        "SGOL",
+        "SIVR",
+        "SLV"
+      ],
+      "updated_at": "2026-07-08T10:40:04Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/07/60326216/peter-schiff-says-fed-distraction-masks-precious-metals-buying-window-seasonality-agrees",
+      "_summary": "While investors are watching job reports, new Federal Reserve rhetoric and shifting interest rate expectations, Peter Schiff says they’re looking in the wrong place. In a recent interview , Schiff, perhaps the most famous precious metal bull, argued that short-term market moves obscure the larger force driving precious metals – the U.S. fiscal position, which is incompatible with a strong dollar and restrictive monetary policy.",
+      "_zh_headline": "彼得希夫表示美联储的注意力分散掩盖了贵金属购买窗口，季节性一致",
+      "_zh_summary": "虽然投资者正在关注就业报告、美联储的新言论和不断变化的利率预期，但彼得·希夫表示，他们看错了地方。在最近的一次采访中，或许是最著名的贵金属多头希夫认为，短期市场走势掩盖了驱动贵金属的更大力量——美国财政状况，而这与强势美元和限制性货币政策不相容。",
+      "_added_at": "2026-07-08T12:05:03.098995+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-08T10:22:52Z",
+      "headline": "Why Is Micron Technology Stock Falling Wednesday?",
+      "id": 60325891,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/The-Micron-Logo-Appears---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/The-Micron-Logo-Appears---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/The-Micron-Logo-Appears---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron ($MU) shares dip 5% premarket. Learn why the long-term AI chip rally remains intact despite recent profit-taking.",
+      "symbols": [
+        "MU",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-08T10:22:52Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60325891/why-is-micron-technology-stock-falling-wednesday",
+      "_summary": "The stock closed down 4.71% in Tuesday’s regular session and extended those losses before the opening bell. Nasdaq futures were down 1.48%, while S&P 500 futures fell 1.05%, adding pressure across semiconductor stocks. Despite the latest pullback, Micron remains one of the market’s strongest long-term performers. The stock has surged more than 654% over the past 12 months. As a result, some traders may view the decline as profit-taking or consolidation rather than a change in the broader trend.",
+      "_zh_headline": "为什么美光科技股票周三下跌？",
+      "_zh_summary": "该股周二常规交易中收盘下跌 4.71%，并在开盘前扩大跌幅。纳斯达克期货下跌 1.48%，标准普尔 500 指数期货下跌 1.05%，半导体股承压。尽管最近出现回调，美光科技仍然是市场上长期表现最强劲的公司之一。该股在过去 12 个月内飙升了 654% 以上。因此，一些交易者可能将下跌视为获利了结或盘整，而不是整体趋势的变化。",
+      "_added_at": "2026-07-08T12:05:03.098995+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-08T09:58:15Z",
+      "headline": "Assessing Micron Technology's Performance Against Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "id": 60325128,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "In today&#39;s rapidly changing and fiercely competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies. In this article, we will conduct a comprehensive",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-07-08T09:58:15Z",
+      "url": "https://www.benzinga.com/news/26/07/60325128/assessing-micron-technology-s-performance-against-competitors-semiconductors-amp-semiconductor-equip",
+      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
+      "_zh_headline": "评估美光科技与半导体和半导体设备行业竞争对手的表现",
+      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
+      "_added_at": "2026-07-08T12:05:03.098995+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-08T09:23:49Z",
