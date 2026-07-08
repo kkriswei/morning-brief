@@ -2,6 +2,121 @@
   "date": "2026-07-08",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-08T19:07:09Z",
+      "headline": "ETF Inflows Hit Record $1 Trillion In H1 — But 800 Funds Missed The Party",
+      "id": 60344184,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Wall-Street-Bull.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Wall-Street-Bull.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Wall-Street-Bull.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Record ETF inflows topped $1 trillion in the first half of 2026, but most of the money is flowing to a small group of passive and active ETF winners.",
+      "symbols": [
+        "CGDV",
+        "CGGR",
+        "EEM",
+        "IVV",
+        "JEPI",
+        "JEPQ",
+        "QQQ",
+        "SMH",
+        "SPY",
+        "VEA",
+        "VGT",
+        "VOO",
+        "VWO",
+        "XLK"
+      ],
+      "updated_at": "2026-07-08T19:07:09Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60344184/etf-inflows-hit-record-1-trillion-in-h1-but-800-funds-missed-the-party",
+      "_summary": "The U.S. ETF industry is on track for another record year, but beneath the blockbuster inflow numbers, investors are increasingly funneling money into a relatively small group of funds while leaving hundreds of others behind. U.S.-listed ETFs attracted more than $1 trillion of inflows during the first half of 2026, marking the earliest the industry has ever crossed that milestone.",
+      "_zh_headline": "上半年 ETF 流入量创下 1 万亿美元新高——但 800 只基金错过了盛会",
+      "_zh_summary": "美国 ETF 行业有望再创历史新高，但在巨额资金流入背后，投资者越来越多地将资金投入到相对较小的基金群体中，而将数百只其他基金抛在后面。 2026 年上半年，在美国上市的 ETF 吸引了超过 1 万亿美元的资金流入，这是该行业有史以来最早跨越这一里程碑的。",
+      "_added_at": "2026-07-08T20:44:29.697174+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-08T20:17:07Z",
+      "headline": "Qualcomm's Edge AI Push Could Fuel the Next Leg Higher for Semiconductor ETFs",
+      "id": 60346322,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Qualcomm-Logo-On-The-Iphone--Qualcomm-Is.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Qualcomm-Logo-On-The-Iphone--Qualcomm-Is.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/Qualcomm-Logo-On-The-Iphone--Qualcomm-Is.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Qualcomm&#39;s growing edge AI ambitions and bullish analyst outlook could boost semiconductor ETFs as AI investing expands beyond Nvidia and data centers.",
+      "symbols": [
+        "FTXL",
+        "META",
+        "NVDA",
+        "SMH",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-08T20:17:07Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60346322/qualcomms-edge-ai-push-could-fuel-next-leg-higher-semiconductor-etfs",
+      "_summary": "The renewed ETF interest comes as Qualcomm emerges as one of the biggest beneficiaries of the shift toward “edge AI,” where AI models run directly on smartphones, PCs, vehicles and other connected devices instead of relying solely on cloud infrastructure. SMH, with roughly $69.28 billion in assets, is the industry’s largest semiconductor ETF and is known for its concentrated exposure to mega-cap chipmakers.",
+      "_zh_headline": "高通的边缘人工智能推动可能推动半导体 ETF 的下一步走高",
+      "_zh_summary": "ETF 的新兴趣正值高通成为向“边缘人工智能”转变的最大受益者之一之际，其中人工智能模型直接在智能手机、个人电脑、车辆和其他连接设备上运行，而不是仅仅依赖云基础设施。 SMH 资产约为 692.8 亿美元，是业界最大的半导体 ETF，以其集中投资于大型芯片制造商而闻名。",
+      "_added_at": "2026-07-08T20:44:29.697174+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-08T19:30:57Z",
+      "headline": "Millions of ETF Investors Now Own SpaceX — Even If They Never Bought the Stock",
+      "id": 60344816,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/SpaceX---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/SpaceX---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/SpaceX---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SpaceX&#39;s Nasdaq-100 debut adds the stock to multiple ETFs managing $800B, giving millions of passive investors exposure even though volatility risks remain.",
+      "symbols": [
+        "ARKX",
+        "QQQ",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-08T19:30:57Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60344816/millions-of-etf-investors-now-own-spacex-even-if-they-never-bought-the-stock",
+      "_summary": "The move automatically added the stock to hundreds of ETFs and mutual funds that track the technology-heavy benchmark, making SpaceX a new holding for passive investors across retirement accounts, brokerage portfolios and workplace savings plans. • SpaceX stock is testing lower boundaries. Why did SPCX hit a new low? Despite carrying a market capitalization of more than $2 trillion, SpaceX entered the Nasdaq-100 with an estimated weight of just 1.3%.",
+      "_zh_headline": "数百万 ETF 投资者现在拥有 SpaceX——即使他们从未购买过该股票",
+      "_zh_summary": "此举自动将该股票添加到数百只追踪科技股基准的 ETF 和共同基金中，使 SpaceX 成为退休账户、经纪投资组合和工作场所储蓄计划等被动投资者的新持股。 • SpaceX 股票正在测试下限。 SPCX为何创新低？尽管市值超过 2 万亿美元，但 SpaceX 进入纳斯达克 100 指数的权重估计仅为 1.3%。",
+      "_added_at": "2026-07-08T20:44:29.697174+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-08T17:50:02Z",
@@ -465,112 +580,6 @@
       "_zh_headline": "评估美光科技与半导体和半导体设备行业竞争对手的表现",
       "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
       "_added_at": "2026-07-08T12:05:03.098995+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-08T09:23:49Z",
-      "headline": "Trump Declares Iran Ceasefire 'Over,' Says Talks Are 'a Waste of Time:' Report",
-      "id": 60324761,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/President-Of-The-United-States-Donald-Tr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/President-Of-The-United-States-Donald-Tr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/President-Of-The-United-States-Donald-Tr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "President Trump declares the interim US-Iran peace accord &#39;over&#39; at the NATO summit amid fresh military strikes and a surge in oil prices.",
-      "symbols": [
-        "BNO",
-        "QQQ",
-        "SPY",
-        "USO"
-      ],
-      "updated_at": "2026-07-08T09:23:49Z",
-      "url": "https://www.benzinga.com/news/politics/26/07/60324761/trump-declares-iran-ceasefire-over-says-talks-are-a-waste-of-time-report",
-      "_summary": "U.S. President Donald Trump on Wednesday declared that a tentative ceasefire and memorandum of understanding with Iran is “over,” abruptly shattering a fragile peace agreement just ahead of the annual NATO summit in Turkey, Reuters reported. Speaking alongside NATO Secretary General Mark Rutte , Trump dismantled the diplomatic framework that had briefly halted military hostilities, stating flatly, \"For me, I think it’s over.\"",
-      "_zh_headline": "特朗普宣布伊朗停火“结束”，称会谈“浪费时间”：报告",
-      "_zh_summary": "据路透社报道，美国总统唐纳德·特朗普周三宣布，与伊朗的临时停火和谅解备忘录已经“结束”，在土耳其举行的年度北约峰会之前突然打破了一项脆弱的和平协议。特朗普与北约秘书长马克·吕特一起发表讲话，废除了曾短暂停止军事敌对行动的外交框架，并坦率地说，“对我来说，我认为一切都结束了。”",
-      "_added_at": "2026-07-08T09:56:04.521884+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-08T09:09:46Z",
-      "headline": "Stock Market Today: S&P 500, Dow Jones Futures Fall as Trump Says Iran Ceasefire Is 'Over'—Saratoga, Exxon Mobil, Levi Strauss in Focus",
-      "id": 60324576,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/President-Donald-Trump-stops-to-speak-wi.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/President-Donald-Trump-stops-to-speak-wi.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/President-Donald-Trump-stops-to-speak-wi.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Tuesday&#39;s lower close.",
-      "symbols": [
-        "BTCUSD",
-        "EDBL",
-        "FCEL",
-        "LEVI",
-        "QQQ",
-        "SAR",
-        "SPY",
-        "XOM"
-      ],
-      "updated_at": "2026-07-08T09:09:46Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60324576/stock-market-today-sp-500-dow-jones-futures-fall-as-trump-says-iran-ceasefire-is-over-saratoga-exxon-mobil-levi-strauss-in-focus",
-      "_summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Tuesday’s lower close. President ​Donald Trump , while speaking in Ankara ahead ​of ​a ⁠NATO summit in ​the Turkish ​capital, said that the memorandum ​of understanding signed ⁠with Iran to end ​the conflict was “over,” according to Reuters. Investors are also awaiting the minutes of the Federal Open Market Committee meeting with Kevin Warsh as the new Chairman, which will be released later today.",
-      "_zh_headline": "今日股市：特朗普称伊朗停火已“结束”，标准普尔 500 指数、道琼斯期货下跌 - 萨拉托加、埃克森美孚、李维斯成为焦点",
-      "_zh_summary": "美国股指期货周三下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二收盘走低后下跌。据路透社报道，唐纳德·特朗普总统在土耳其首都举行北约峰会之前在安卡拉发表讲话时表示，与伊朗签署的结束冲突的谅解备忘录已经“结束”。投资者还在等待凯文·沃什担任新任主席的联邦公开市场委员会会议纪要，该纪要将于今天晚些时候发布。",
-      "_added_at": "2026-07-08T09:56:04.521884+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-07-08T09:26:33Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60324809,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/People-Silhouettes-On-American-Stock-Mar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/People-Silhouettes-On-American-Stock-Mar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/08/People-Silhouettes-On-American-Stock-Mar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "July 8, 2026: Polymarket traders expect another weak S&amp;P 500 open as Iran strikes, oil prices and Fed minutes dominate sentiment.",
-      "symbols": [
-        "SMH"
-      ],
-      "updated_at": "2026-07-08T09:26:33Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60324809/sp500-july-8-open-up-or-down-polymarket-fed-minutes-iran-oil-ai-selloff",
-      "_summary": "The S&P 500 slipped on Tuesday as investors rotated out of artificial intelligence-linked stocks and geopolitical tensions flared again in the Middle East. Polymarket traders are now overwhelmingly betting the benchmark index will open lower on Wednesday. The S&P 500 fell 0.45% to close at 7,503.85. The July 8 Polymarket contract implied just a 12% probability that the index would open higher on Wednesday, reflecting a sharp deterioration in sentiment as traders increasingly positioned for another weak start.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于投资者撤出人工智能相关股票以及中东地缘政治紧张局势再次爆发，标准普尔 500 指数周二下跌。 Polymarket 交易员现在绝大多数押注基准指数将在周三低开。标准普尔 500 指数下跌 0.45%，收于 7,503.85 点。 7 月 8 日的 Polymarket 合约暗示该指数周三开盘走高的可能性仅为 12%，反映出随着交易员越来越多地为再次疲弱开局做好准备，情绪急剧恶化。",
-      "_added_at": "2026-07-08T09:56:04.521884+00:00"
     }
   ]
 }
