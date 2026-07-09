@@ -2,6 +2,40 @@
   "date": "2026-07-09",
   "articles": [
     {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-09T18:21:45Z",
+      "headline": "Why Is Lumentum Stock Surging on Thursday?",
+      "id": 60369805,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Konskie--Poland---March-11--2025-Lumentu.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Konskie--Poland---March-11--2025-Lumentu.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Konskie--Poland---March-11--2025-Lumentu.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Lumentum Holdings (NASDAQ: LITE) stock trades higher on Thursday. Sector catalysts include Meta&#39;s 14GW compute plans and MARA&#39;s Texas land acquisition.",
+      "symbols": [
+        "LITE",
+        "MARA",
+        "META"
+      ],
+      "updated_at": "2026-07-09T18:21:45Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60369805/why-is-lumentum-stock-surging-on-thursday",
+      "_summary": "Lumentum Holdings Inc. (NASDAQ: LITE ) stock is trading higher on Thursday. The California-based technology firm is experiencing upward momentum alongside other companies in the fiber optic connectivity sector. The Nasdaq is up 1.55% while the S&P 500 has gained 0.72%. • Lumentum Holdings stock is surging to new heights today. Why are LITE shares rallying? Meta declined to comment on the development following a Benzinga inquiry.",
+      "_zh_headline": "为什么 Lumentum 股票周四飙升？",
+      "_zh_summary": "Lumentum Holdings Inc.（纳斯达克股票代码：LITE）股票周四走高。这家总部位于加利福尼亚州的科技公司与光纤连接领域的其他公司一样正在经历上升势头。纳斯达克指数上涨 1.55%，标准普尔 500 指数上涨 0.72%。 • Lumentum Holdings 股价今天飙升至新高。为什么 LITE 股价上涨？在接受 Benzinga 调查后，Meta 拒绝对事态发展发表评论。",
+      "_added_at": "2026-07-09T21:05:02.480934+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-09T18:24:40Z",
@@ -713,38 +747,6 @@
       "_summary": "The stock is also attempting to stabilize after its June pullback. Traders are now watching whether it can hold above near-term support and extend its recovery toward the mid-$200 area. Analysts say the lower valuation reflects shifting investor sentiment rather than weaker fundamentals. Despite the multiple compressions, Bloomberg said Wall Street continues to raise earnings estimates. NVIDIA is projected to deliver 82% revenue growth and 90% profit growth in fiscal 2027.",
       "_zh_headline": "周四 NVIDIA 股票怎么样？",
       "_zh_summary": "该股在六月回调后也试图企稳。交易员现在正在关注其是否能够守住近期支撑位并将其复苏延伸至 200 美元中部区域。分析师表示，较低的估值反映了投资者情绪的变化，而不是基本面的疲软。尽管受到多重压缩，彭博社表示华尔街仍在继续上调盈利预期。 NVIDIA 预计 2027 财年收入增长 82%，利润增长 90%。",
-      "_added_at": "2026-07-09T10:04:45.471503+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-07-09T08:27:27Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60350218,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/American-Financial-Market-Index-S-And-P-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/American-Financial-Market-Index-S-And-P-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/American-Financial-Market-Index-S-And-P-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "July 9, 2026: Polymarket traders expect the S&amp;P 500 to rebound despite rising oil prices, renewed U.S.-Iran tensions and hawkish Fed minutes.",
-      "symbols": [
-        "PEP"
-      ],
-      "updated_at": "2026-07-09T08:27:27Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60350218/sp500-july-9-open-up-or-down-polymarket-iran-oil-fed-minutes",
-      "_summary": "The S&P 500 slipped on Wednesday as renewed hostilities between the U.S. and Iran pushed oil prices sharply higher, but Polymarket traders are betting the benchmark index will rebound at Thursday’s open. The S&P 500 closed down 0.28% at 7,482.71. However, the July 9 Polymarket contract implied an 85% probability that the index would open higher on Thursday.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于美国和伊朗之间的新一轮敌对行动推高油价，标准普尔 500 指数周三下跌，但 Polymarket 交易员押注基准指数将在周四开盘反弹。标准普尔 500 指数收盘下跌 0.28%，报 7,482.71 点。然而，7 月 9 日的 Polymarket 合约暗示该指数周四高开的可能性为 85%。",
       "_added_at": "2026-07-09T10:04:45.471503+00:00"
     }
   ]
