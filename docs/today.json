@@ -2,6 +2,182 @@
   "date": "2026-07-09",
   "articles": [
     {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-09T13:01:19Z",
+      "headline": "SpaceX Could Become a 'Landmark Historical' Collapse, Warns Top Investor: 'In The End, The Reality Will Come Out'",
+      "id": 60355676,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Paris--France---February-3--2026-A-Horiz.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Paris--France---February-3--2026-A-Horiz.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Paris--France---February-3--2026-A-Horiz.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Jeremy Grantham warned that SpaceX could become a &#34;future joke&#34; even as JPMorgan forecast 91% annual revenue growth.",
+      "symbols": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-09T13:01:19Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60355676/spacex-could-become-a-landmark-historical-collapse-warns-top-investor-in-the-end-the-reality-will-come-out",
+      "_summary": "Jeremy Grantham , co-founder of the investment behemoth GMO , has cast doubt over the future success of Space Exploration Technologies Corp (NASDAQ: SPCX ) . \"In 50 years, they’ll be telling and writing stories about SpaceX, and they’ll be quoting you paragraphs from the prospectus, and you will be laughing at it.\" The investor also discussed the impact of fast-tracking large IPOs, stating that it has directly affected SpaceX’s performance.",
+      "_zh_headline": "顶级投资者警告称，SpaceX可能会成为“具有里程碑意义的历史性”崩溃：“最终，真相将会浮出水面”",
+      "_zh_summary": "投资巨头 GMO 的联合创始人 Jeremy Grantham 对太空探索技术公司（纳斯达克股票代码：SPCX）未来的成功表示怀疑。 “50 年后，他们将讲述和撰写有关 SpaceX 的故事，他们将引用招股说明书中的段落，而你会嘲笑它。”这位投资者还讨论了快速进行大型IPO的影响，表示这直接影响了SpaceX的业绩。",
+      "_added_at": "2026-07-09T13:32:51.125242+00:00"
+    },
+    {
+      "author": "Shomik Sen Bhattacharjee",
+      "content": "",
+      "created_at": "2026-07-09T13:26:02Z",
+      "headline": "Nvidia-Backed Starcloud's CEO Says SpaceX IPO Could Be ‘Most Undervalued IPO of All Time’ and Tear Through $10 Trillion",
+      "id": 60356648,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Starcloud CEO predicts SpaceX&#39;s IPO could be the most undervalued of all time with potential to exceed $10 trillion in market value.",
+      "symbols": [
+        "AMZN",
+        "CBRS",
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-09T13:26:02Z",
+      "url": "https://www.benzinga.com/news/space/26/07/60356648/nvidia-backed-starclouds-ceo-says-spacex-ipo-could-be-most-undervalued-ipo-of-all-time-and-tear-through-10-trillion",
+      "_summary": "Johnston made the comments on Wednesday in an interview with Molly O’Shea , a former venture capitalist turned full-time media creator. \"The SpaceX IPO is gonna be viewed historically as the most undervalued IPO of all time,\" Johnston said.",
+      "_zh_headline": "Nvidia 支持的 Starcloud 首席执行官表示 SpaceX 的 IPO 可能是“有史以来最被低估的 IPO”，市值将突破 10 万亿美元",
+      "_zh_summary": "约翰斯顿周三在接受前风险投资家、全职媒体创作者莫莉·奥谢 (Molly O’Shea) 采访时发表了上述言论。约翰斯顿表示：“从历史上看，SpaceX 的 IPO 将被视为有史以来最被低估的 IPO。”",
+      "_added_at": "2026-07-09T13:32:51.125242+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-09T13:07:47Z",
+      "headline": "Oil Surges Again as US-Iran War Escalates: Top Economist Justin Wolfers Explains the ‘Hidden Pattern’ Driving Gas Prices",
+      "id": 60355937,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Oil-Price-Fall-Indication--Barrel-Focuse.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Oil-Price-Fall-Indication--Barrel-Focuse.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Oil-Price-Fall-Indication--Barrel-Focuse.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Oil surges amid US-Iran escalation. Justin Wolfers explains the &#34;hidden pattern&#34; of why gas prices jump instantly but fall in slow motion.",
+      "symbols": [
+        "BNO",
+        "QQQ",
+        "SPY",
+        "USO"
+      ],
+      "updated_at": "2026-07-09T13:07:47Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60355937/oil-surges-again-as-us-iran-war-escalates-top-economist-justin-wolfers-explains-the-hidden-pattern-driving-gas-prices",
+      "_summary": "According to Wolfers’ extensive economic data analysis, when crude oil prices rise , retail gasoline “catches up really quickly,” with most movement landing within a week. Conversely, when oil falls, the financial relief arrives in “slow motion,” dribbling in over several weeks. However, President Donald Trump declared an interim accord with Iran effectively “over” after the U.S. military launched new strikes in retaliation for attacks on commercial ships in the Strait of Hormuz.",
+      "_zh_headline": "随着美伊战争升级，油价再次飙升：顶级经济学家贾斯汀·沃尔弗斯解释了推动天然气价格的“隐藏模式”",
+      "_zh_summary": "根据沃尔弗斯广泛的经济数据分析，当原油价格上涨时，零售汽油“会迅速赶上”，大部分走势会在一周内下降。相反，当油价下跌时，财政救济会“慢动作”地到来，在几周内逐渐到位。然而，在美国军方发动新的打击以报复霍尔木兹海峡商船遭受袭击后，唐纳德·特朗普总统宣布与伊朗的临时协议实际上“结束”。",
+      "_added_at": "2026-07-09T13:32:51.125242+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-09T12:35:46Z",
+      "headline": "Micron Is Up 700%. It's Still Cheaper Than Nvidia, AMD And Even Intel",
+      "id": 60354862,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Paris--France---February-20-2026-The-Mic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Paris--France---February-20-2026-The-Mic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Paris--France---February-20-2026-The-Mic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Despite a 700% rally, Micron stock is still trading at a steep discount to Nvidia and AMD. Here is what the charts and fundamentals say.",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-09T12:35:46Z",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60354862/micron-700-percent-cheaper-than-nvidia-amd-intel",
+      "_summary": "Yet despite the breathtaking run, Wall Street is still valuing the memory-chip maker more conservatively than some of its biggest semiconductor peers. That raises an intriguing question for investors: Has Micron’s stock outrun its fundamentals—or have its fundamentals outrun the stock? On a forward earnings basis, Micron trades at just 6.1 times expected earnings, according to Benzinga Pro data. The gap is particularly striking given that Micron sits at the heart of the AI infrastructure buildout.",
+      "_zh_headline": "美光上涨 700%。它仍然比 Nvidia、AMD 甚至英特尔便宜",
+      "_zh_summary": "然而，尽管股价表现令人惊叹，但与一些最大的半导体同行相比，华尔街对这家存储芯片制造商的估值仍然更为保守。这给投资者提出了一个有趣的问题：美光科技的股价是否跑赢了其基本面，或者其基本面跑赢了股票？根据 Benzinga Pro 的数据，在预期收益的基础上，美光科技的市盈率仅为预期收益的 6.1 倍。鉴于美光科技处于人工智能基础设施建设的核心地位，这一差距尤其引人注目。",
+      "_added_at": "2026-07-09T13:32:51.125242+00:00"
+    },
+    {
+      "author": "Vandana Singh",
+      "content": "",
+      "created_at": "2026-07-09T13:06:53Z",
+      "headline": "Why Is Tvardi Therapeutics Stock Falling Thursday?",
+      "id": 60355891,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Woman--Scientist--MedicalResearch.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Woman--Scientist--MedicalResearch.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Woman--Scientist--MedicalResearch.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tvardi Therapeutics stock dips premarket as investors take profits after positive Phase 1 data for Tvardi&#39;s STAT3 prodrug TTI-109.",
+      "symbols": [
+        "TVRD"
+      ],
+      "updated_at": "2026-07-09T13:06:53Z",
+      "url": "https://www.benzinga.com/news/health-care/26/07/60355891/why-is-tvardi-therapeutics-stock-falling-thursday",
+      "_summary": "The company said the Phase 1 study confirmed the rapid conversion of TTI-109 to TTI-101 and showed meaningful reductions in disease-relevant STAT3-driven immune cell populations . Tvardi plans to advance TTI-109 into STAT3-driven dermatologic and gastrointestinal diseases, subject to additional funding. According to the company, TTI-109 is a phosphate prodrug of TTI-101 designed to improve drug delivery and tolerability while preserving the same mechanism of action.",
+      "_zh_headline": "为什么 Tvardi Therapeutics 股票周四下跌？",
+      "_zh_summary": "该公司表示，第一阶段研究证实了 TTI-109 快速转化为 TTI-101，并显示疾病相关 STAT3 驱动的免疫细胞群显着减少。 Tvardi 计划将 TTI-109 推进到 STAT3 驱动的皮肤病和胃肠道疾病领域，但需要额外资金。据该公司称，TTI-109是TTI-101的磷酸盐前药，旨在改善药物输送和耐受性，同时保留相同的作用机制。",
+      "_added_at": "2026-07-09T13:32:51.125242+00:00"
+    },
+    {
       "author": "Radhika Anilkumar Nadig",
       "content": "",
       "created_at": "2026-07-09T08:58:38Z",
