@@ -52,8 +52,29 @@ GENERAL_LEAD_MAX = 1000
 NTFY_SUMMARY_MAX = 450        # per-article cap when packing ntfy push (HTML uses full text)
 CHUNK_SIZE = 3                # articles per ntfy push (fits the 4096-byte free-tier limit)
 
-# Only show market news that touches one of these tickers.
+# User's personal watchlist (things they trade).
 WATCH_SYMBOLS = {"SMH", "QQQ", "GLD", "MU", "VOO", "MRVL"}
+
+# Broad-market tickers that answer "why is the market up/down today" — indexes
+# and mega-caps that drive the tape. Kept separate from WATCH_SYMBOLS so the
+# user's watchlist stays curated but market-moving news still surfaces.
+MARKET_CONTEXT_SYMBOLS = {
+    "SPY", "DIA", "QQQ", "IWM", "VIX",       # indexes/vol
+    "AAPL", "NVDA", "MSFT", "GOOGL", "GOOG",  # mega-caps
+    "META", "TSLA", "AMZN", "AVGO",
+}
+
+# Title patterns that flag a "market wrap" / "why the market moved today" article.
+# These get a very large score bonus so they rise to the top of the brief.
+MARKET_WRAP_PATTERNS = [
+    r"stock market today", r"market today\b", r"market wrap", r"market close",
+    r"stocks? (rall|plung|fall|surg|slid|jump|dive|tumbl|soar|slump)",
+    r"\bs&?p ?500\b", r"\bnasdaq\b.*(clos|plung|rall|drop|surg|down|up|jump)",
+    r"why (the )?(stock|market)", r"sell[- ]?off", r"bloodbath",
+    r"fed (minutes|decision|cut|hike|meeting)", r"cpi (report|print|data)",
+    r"jobs report", r"payrolls?", r"this week on wall street",
+]
+MARKET_WRAP_RE = re.compile("|".join(MARKET_WRAP_PATTERNS), re.IGNORECASE)
 
 BOILERPLATE_PATTERNS = [
     r"subscribe", r"newsletter", r"read (also|more|next)",
@@ -183,7 +204,11 @@ def score_article(article: dict, now: datetime) -> float:
     elif source:
         score += 1
 
+    # Big boost for "market wrap" articles — these directly answer why market moved.
+    if MARKET_WRAP_RE.search(headline):
+        score += 15
     score += 8 * len(symbols & WATCH_SYMBOLS)
+    score += 6 * len(symbols & MARKET_CONTEXT_SYMBOLS)
     score += 5 * len(symbols & INDEX_TICKERS)
     score += 3 * len(symbols & MEGA_CAPS)
 
@@ -425,8 +450,19 @@ def render_html(articles: list[dict], output_dir: Path) -> Path:
     """
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    world = [a for a in articles if not (a.get("symbols") or [])]
-    markets = [a for a in articles if a.get("symbols")]
+    # Rank each section by relevance (score), not by time-added, so the most
+    # important article (e.g. today's market-wrap) leads instead of getting buried.
+    now_utc = datetime.now(timezone.utc)
+    world = sorted(
+        (a for a in articles if not (a.get("symbols") or [])),
+        key=lambda a: score_article(a, now_utc),
+        reverse=True,
+    )
+    markets = sorted(
+        (a for a in articles if a.get("symbols")),
+        key=lambda a: score_article(a, now_utc),
+        reverse=True,
+    )
 
     sections_html = []
     idx = 1
@@ -579,14 +615,17 @@ def main() -> int:
         print(f"Fetched {len(items)} from {source} ({len(in_window)} in window)")
         articles.extend(in_window)
 
-    # Filter: keep general news (no symbols) AND market news that touches the watchlist.
+    # Filter: keep general news, watchlist articles, broad-market articles, and any
+    # article whose headline flags it as a "why-the-market-moved" wrap.
     before = len(articles)
     articles = [
         a for a in articles
         if not (a.get("symbols") or [])
-        or (set(a.get("symbols") or []) & WATCH_SYMBOLS)
+        or (set(a.get("symbols") or []) & (WATCH_SYMBOLS | MARKET_CONTEXT_SYMBOLS))
+        or MARKET_WRAP_RE.search(a.get("headline") or "")
     ]
-    print(f"Filtered {before} -> {len(articles)} articles (kept general + watchlist: {sorted(WATCH_SYMBOLS)})")
+    print(f"Filtered {before} -> {len(articles)} articles "
+          f"(watchlist + market context + wrap-titles)")
 
     scored = sorted(
         ((score_article(a, now), a) for a in articles),
