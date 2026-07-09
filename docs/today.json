@@ -2,6 +2,196 @@
   "date": "2026-07-09",
   "articles": [
     {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-09T08:58:38Z",
+      "headline": "Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500",
+      "id": 60350353,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Growing-Stock-Market-Chart-With-Candlest.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Growing-Stock-Market-Chart-With-Candlest.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Growing-Stock-Market-Chart-With-Candlest.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Technology stocks are seeing their biggest volatility in over two decades, with options pricing bigger Nasdaq 100 swings than the S&amp;P 500.",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AVGO",
+        "IYW",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "SMH",
+        "SOXL",
+        "SOXX",
+        "TSM",
+        "VGT",
+        "XLK"
+      ],
+      "updated_at": "2026-07-09T08:58:38Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350353/tech-stock-volatility-hits-23-year-high-as-nasdaq-swings-outpace-sp-500",
+      "_summary": "Technology stocks are experiencing one of their most volatile periods in more than two decades, with options markets pricing significantly larger swings in the Nasdaq 100 than in the broader S&P 500. According to Bloomberg data highlighted by market commentator The Kobeissi Letter, the ratio of the Nasdaq 100 Volatility Index (VXN) to the CBOE Volatility Index (VIX) climbed to 1.7 points, its highest level in 23 years and the first time it has exceeded 1.5 since 2018.",
+      "_zh_headline": "纳斯达克指数波动幅度超过标准普尔 500 指数，科技股波动率创 23 年新高",
+      "_zh_summary": "科技股正经历二十多年来最波动的时期之一，纳斯达克 100 指数的期权市场定价波动明显大于更广泛的标准普尔 500 指数。根据市场评论员《Kobeissi Letter》强调的彭博社数据，纳斯达克 100 波动率指数 (VXN) 与 CBOE 波动率指数 (VIX) 的比率攀升至 1.7 点，为 23 年来的最高水平，也是首次自2018年以来已超过1.5。",
+      "_added_at": "2026-07-09T10:04:45.471503+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-09T09:21:19Z",
+      "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Rise as US-Iran Exchange Strikes—Levi Strauss, AZZ, Ionis Pharma In Focus",
+      "id": 60350555,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures advanced on Thursday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices rose, following Wednesday&#39;s mixed close.",
+      "symbols": [
+        "AZZ",
+        "BTCUSD",
+        "HON",
+        "IONS",
+        "LEVI",
+        "QQQ",
+        "SPY",
+        "WDFC"
+      ],
+      "updated_at": "2026-07-09T09:21:19Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60350555/stock-market-today-sp-500-nasdaq-100-futures-rise-as-us-iran-exchange-strikes-levi-strauss-azz-ionis-pharma-in-focus",
+      "_summary": "U.S. stock futures advanced on Thursday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Wednesday’s mixed close. Iran’s Parliament Speaker Mohammad Bagher Ghalibaf doubled down on claims about Tehran controlling the Strait of Hormuz and said the U.S. still has not learned that \"bullying\" and going back on commitments are no longer without consequences. Meanwhile, the 10-year Treasury bond yielded 4.56%, and the two-year bond was at 4.19%.",
+      "_zh_headline": "今日股市：随着美伊交易所罢工，标准普尔 500 指数、纳斯达克 100 指数期货上涨 - 关注 Levi Strauss、AZZ、Ionis Pharma",
+      "_zh_summary": "美国股指期货周四上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三收盘涨跌不一后上涨。伊朗议会议长穆罕默德·巴格尔·加利巴夫对有关德黑兰控制霍尔木兹海峡的说法加倍强调，并表示美国仍然没有意识到“欺凌”和背弃承诺不再没有后果。与此同时，10年期国债收益率为4.56%，两年期国债收益率为4.19%。",
+      "_added_at": "2026-07-09T10:04:45.471503+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-09T09:13:24Z",
+      "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
+      "id": 60350514,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Tainan--Taiwan--November-15--2023-Close-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Tainan--Taiwan--November-15--2023-Close-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Tainan--Taiwan--November-15--2023-Close-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Futurum analyst said TSMC is the backbone of the AI boom, with Nvidia, AMD, Apple and Broadcom all relying on its chipmaking capabilities.",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AVGO",
+        "NVDA",
+        "QCOM",
+        "TSM"
+      ],
+      "updated_at": "2026-07-09T09:13:24Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350514/futurums-shay-boloor-explains-why-nvidia-amd-apple-and-broadcom-all-depend-on-tsmc-every-token-ultimately-pays-an-invisible-royalty",
+      "_summary": "In a post on X on Wednesday, Boloor argued that TSMC offers one of the clearest ways for investors to gain exposure to the AI boom because many of the world’s leading chip designers rely on the same advanced manufacturing partner. “The real bottleneck is who has access to scarce wafer starts,” Boloor wrote, adding that TSMC remains the “physical chokepoint” behind nearly every major AI chip.",
+      "_zh_headline": "Futurum 的 Shay Boloor 解释了为什么 Nvidia、AMD、Apple 和 Broadcom 都依赖台积电：“每个代币最终都会支付无形的版税”",
+      "_zh_summary": "周三，Boloor 在 X 上发表的一篇文章中指出，台积电为投资者提供了参与人工智能热潮的最清晰方式之一，因为许多世界领先的芯片设计商都依赖于同一个先进的制造合作伙伴。博洛尔写道：“真正的瓶颈是谁能够获得稀缺的晶圆片。”他补充说，台积电仍然是几乎所有主要人工智能芯片背后的“物理瓶颈”。",
+      "_added_at": "2026-07-09T10:04:45.471503+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-09T09:39:19Z",
+      "headline": "What's Going on With NVIDIA Stock Thursday?",
+      "id": 60350622,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Nvidia-Logo-On-Smartphone-Screen-With-Ch.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Nvidia-Logo-On-Smartphone-Screen-With-Ch.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Nvidia-Logo-On-Smartphone-Screen-With-Ch.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "NVIDIA ticks higher in premarket trading. Discover how shifting investor sentiment and the broader AI rotation are moving the stock.",
+      "symbols": [
+        "AIPI",
+        "BABA",
+        "MU",
+        "NVDA",
+        "QYLD",
+        "SQS"
+      ],
+      "updated_at": "2026-07-09T09:42:38Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350622/whats-going-on-with-nvidia-stock-thursday-6",
+      "_summary": "The stock is also attempting to stabilize after its June pullback. Traders are now watching whether it can hold above near-term support and extend its recovery toward the mid-$200 area. Analysts say the lower valuation reflects shifting investor sentiment rather than weaker fundamentals. Despite the multiple compressions, Bloomberg said Wall Street continues to raise earnings estimates. NVIDIA is projected to deliver 82% revenue growth and 90% profit growth in fiscal 2027.",
+      "_zh_headline": "周四 NVIDIA 股票怎么样？",
+      "_zh_summary": "该股在六月回调后也试图企稳。交易员现在正在关注其是否能够守住近期支撑位并将其复苏延伸至 200 美元中部区域。分析师表示，较低的估值反映了投资者情绪的变化，而不是基本面的疲软。尽管受到多重压缩，彭博社表示华尔街仍在继续上调盈利预期。 NVIDIA 预计 2027 财年收入增长 82%，利润增长 90%。",
+      "_added_at": "2026-07-09T10:04:45.471503+00:00"
+    },
+    {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-07-09T08:27:27Z",
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "id": 60350218,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/American-Financial-Market-Index-S-And-P-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/American-Financial-Market-Index-S-And-P-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/American-Financial-Market-Index-S-And-P-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "July 9, 2026: Polymarket traders expect the S&amp;P 500 to rebound despite rising oil prices, renewed U.S.-Iran tensions and hawkish Fed minutes.",
+      "symbols": [
+        "PEP"
+      ],
+      "updated_at": "2026-07-09T08:27:27Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60350218/sp500-july-9-open-up-or-down-polymarket-iran-oil-fed-minutes",
+      "_summary": "The S&P 500 slipped on Wednesday as renewed hostilities between the U.S. and Iran pushed oil prices sharply higher, but Polymarket traders are betting the benchmark index will rebound at Thursday’s open. The S&P 500 closed down 0.28% at 7,482.71. However, the July 9 Polymarket contract implied an 85% probability that the index would open higher on Thursday.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "由于美国和伊朗之间的新一轮敌对行动推高油价，标准普尔 500 指数周三下跌，但 Polymarket 交易员押注基准指数将在周四开盘反弹。标准普尔 500 指数收盘下跌 0.28%，报 7,482.71 点。然而，7 月 9 日的 Polymarket 合约暗示该指数周四高开的可能性为 85%。",
+      "_added_at": "2026-07-09T10:04:45.471503+00:00"
+    },
+    {
       "author": "Chandrima Sanyal",
       "content": "",
       "created_at": "2026-07-08T19:07:09Z",
