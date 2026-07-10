@@ -2,6 +2,40 @@
   "date": "2026-07-10",
   "articles": [
     {
+      "author": "Khyathi Dalal",
+      "content": "",
+      "created_at": "2026-07-10T21:10:07Z",
+      "headline": "Standard Chartered Keeps $100,000 Bitcoin Target, Calls Strategy Selloff a 'Communication Challenge'",
+      "id": 60401882,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Standard Chartered has reaffirmed its $100,000 year-end 2026 target for Bitcoin, arguing that recent weakness tied to Strategy reflects a communication challenge, not a deterioration in its financial position. Investors are adjusting to Strategy&#39;s transition from a &#34;never sell Bitcoin&#34; model to using BTC as collateral for its preferred stock business.",
+      "symbols": [
+        "BTCUSD",
+        "MSTR",
+        "STRC"
+      ],
+      "updated_at": "2026-07-10T21:10:07Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60401882/standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-communication-challenge",
+      "_summary": "In a research note on Friday, Geoffrey Kendrick , Standard Chartered’s global head of digital assets research said, “I see what is happening at MSTR right now as a communication challenge, nothing more,” He argued that investors are still adjusting to Strategy’s shift away from its long-standing “never sell Bitcoin” philosophy toward using Bitcoin as collateral to support its growing preferred stock business.",
+      "_zh_headline": "渣打银行维持 10 万美元比特币目标，称战略抛售是“沟通挑战”",
+      "_zh_summary": "渣打银行全球数字资产研究主管杰弗里·肯德里克 (Geoffrey Kendrick) 在周五的一份研究报告中表示，“我认为 MSTR 目前发生的情况是一个沟通挑战，仅此而已。”他认为，投资者仍在适应 Strategy 从其长期的“绝不出售比特币”理念转向使用比特币作为抵押品以支持其不断增长的优先股业务的转变。",
+      "_added_at": "2026-07-10T21:35:45.553804+00:00"
+    },
+    {
       "author": "Henry Khederian",
       "content": "",
       "created_at": "2026-07-10T18:59:37Z",
@@ -697,41 +731,6 @@
       "_summary": "According to a fresh analysis released by Cathie Wood ‘s ARK Invest, internal research reveals that AMD chips “can already be more performant than Nvidia chips” per dollar on select workloads, highlighting a massive shift in data center cost efficiency. Additionally, the emergence of agentic AI is acting as a major tailwind for AMD’s core chip business.",
       "_zh_headline": "Cathie Wood 的 ARK 表示 AMD 芯片“性价比已经比 Nvidia 更高”",
       "_zh_summary": "根据 Cathie Wood 旗下 ARK Invest 发布的最新分析，内部研究表明，在特定工作负载上，AMD 芯片的性价比“已经比 Nvidia 芯片更高”，这凸显了数据中心成本效率的巨大转变。此外，代理人工智能的出现正在成为 AMD 核心芯片业务的主要推动力。",
-      "_added_at": "2026-07-10T10:00:58.057375+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-07-10T08:20:30Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60376965,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/People-Silhouettes-On-American-Stock-Mar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/People-Silhouettes-On-American-Stock-Mar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/People-Silhouettes-On-American-Stock-Mar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "July 10, 2026: Polymarket traders expect a weaker S&amp;P 500 open on Friday despite cooling oil prices and another strong semiconductor-led rally.",
-      "symbols": [
-        "DAL",
-        "MU",
-        "SMH",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-10T08:20:30Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60376965/sp500-july-10-open-up-or-down-polymarket-sk-hynix-oil-prices-chip-stocks",
-      "_summary": "The S&P 500 rallied on Thursday as semiconductor stocks rebounded and oil prices eased, but Polymarket traders are betting the benchmark index will open lower on Friday. The S&P 500 gained 0.81% to close at 7,543.64. However, the July 10 Polymarket contract implied just a 20% probability that the index would open higher on Friday, reflecting expectations of a weaker start after the latest rally.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "随着半导体股票反弹和油价下跌，标准普尔 500 指数周四上涨，但 Polymarket 交易员押注基准指数周五将低开。标准普尔 500 指数上涨 0.81%，收于 7,543.64 点。然而，7 月 10 日 Polymarket 合约暗示该指数周五高开的可能性仅为 20%，反映出在最近一次反弹后开局较弱的预期。",
       "_added_at": "2026-07-10T10:00:58.057375+00:00"
     }
   ]
