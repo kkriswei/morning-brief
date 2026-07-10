@@ -2,6 +2,40 @@
   "date": "2026-07-09",
   "articles": [
     {
+      "author": "Evette Mitkov",
+      "content": "",
+      "created_at": "2026-07-09T19:14:42Z",
+      "headline": "Western Digital Stock Lifts Following Micron's $250 Billion Investment",
+      "id": 60371599,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Irvine--California--Usa---July-9--2022-W.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Irvine--California--Usa---July-9--2022-W.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Irvine--California--Usa---July-9--2022-W.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Western Digital shares are rising Thursday as developments lift memory chip enthusiasm, boosting storage and semiconductor names broadly.",
+      "symbols": [
+        "META",
+        "MU",
+        "WDC"
+      ],
+      "updated_at": "2026-07-09T19:14:42Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60371599/western-digital-stock-lifts-following-microns-250-billion-investment",
+      "_summary": "Western Digital Corp (NASDAQ: WDC ) shares are moving higher Thursday as a pair of major developments stoke fresh enthusiasm across the memory chip space pulling storage and semiconductor names broadly higher . The announcement reinforced the broader narrative that memory is becoming a critical bottleneck in the AI infrastructure buildout lifting names across the space including Western Digital.",
+      "_zh_headline": "美光科技 2500 亿美元投资后西部数据股价上涨",
+      "_zh_summary": "西部数据公司（纳斯达克股票代码：WDC）股价周四走高，两项重大进展激发了整个存储芯片领域的新热情，推动存储和半导体公司普遍走高。该公告强化了更广泛的说法，即内存正在成为人工智能基础设施建设的关键瓶颈，提升了包括西部数据在内的整个领域的知名度。",
+      "_added_at": "2026-07-10T01:11:22.772094+00:00"
+    },
+    {
       "author": "Benzinga Insights",
       "content": "",
       "created_at": "2026-07-09T17:35:08Z",
@@ -714,43 +748,6 @@
       "_summary": "U.S. stock futures advanced on Thursday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Wednesday’s mixed close. Iran’s Parliament Speaker Mohammad Bagher Ghalibaf doubled down on claims about Tehran controlling the Strait of Hormuz and said the U.S. still has not learned that \"bullying\" and going back on commitments are no longer without consequences. Meanwhile, the 10-year Treasury bond yielded 4.56%, and the two-year bond was at 4.19%.",
       "_zh_headline": "今日股市：随着美伊交易所罢工，标准普尔 500 指数、纳斯达克 100 指数期货上涨 - 关注 Levi Strauss、AZZ、Ionis Pharma",
       "_zh_summary": "美国股指期货周四上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三收盘涨跌不一后上涨。伊朗议会议长穆罕默德·巴格尔·加利巴夫对有关德黑兰控制霍尔木兹海峡的说法加倍强调，并表示美国仍然没有意识到“欺凌”和背弃承诺不再没有后果。与此同时，10年期国债收益率为4.56%，两年期国债收益率为4.19%。",
-      "_added_at": "2026-07-09T10:04:45.471503+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-07-09T09:13:24Z",
-      "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
-      "id": 60350514,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Tainan--Taiwan--November-15--2023-Close-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Tainan--Taiwan--November-15--2023-Close-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/09/Tainan--Taiwan--November-15--2023-Close-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Futurum analyst said TSMC is the backbone of the AI boom, with Nvidia, AMD, Apple and Broadcom all relying on its chipmaking capabilities.",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "AVGO",
-        "NVDA",
-        "QCOM",
-        "TSM"
-      ],
-      "updated_at": "2026-07-09T09:13:24Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60350514/futurums-shay-boloor-explains-why-nvidia-amd-apple-and-broadcom-all-depend-on-tsmc-every-token-ultimately-pays-an-invisible-royalty",
-      "_summary": "In a post on X on Wednesday, Boloor argued that TSMC offers one of the clearest ways for investors to gain exposure to the AI boom because many of the world’s leading chip designers rely on the same advanced manufacturing partner. “The real bottleneck is who has access to scarce wafer starts,” Boloor wrote, adding that TSMC remains the “physical chokepoint” behind nearly every major AI chip.",
-      "_zh_headline": "Futurum 的 Shay Boloor 解释了为什么 Nvidia、AMD、Apple 和 Broadcom 都依赖台积电：“每个代币最终都会支付无形的版税”",
-      "_zh_summary": "周三，Boloor 在 X 上发表的一篇文章中指出，台积电为投资者提供了参与人工智能热潮的最清晰方式之一，因为许多世界领先的芯片设计商都依赖于同一个先进的制造合作伙伴。博洛尔写道：“真正的瓶颈是谁能够获得稀缺的晶圆片。”他补充说，台积电仍然是几乎所有主要人工智能芯片背后的“物理瓶颈”。",
       "_added_at": "2026-07-09T10:04:45.471503+00:00"
     }
   ]
