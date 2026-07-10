@@ -2,6 +2,183 @@
   "date": "2026-07-10",
   "articles": [
     {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-10T12:31:38Z",
+      "headline": "Meta Could Face Billions in Fines as EU Cracks Down on 'Addictive' Facebook and Instagram Features",
+      "id": 60380435,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Facebook-And-Instagram-Apps-Seen-On-The-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Facebook-And-Instagram-Apps-Seen-On-The-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Facebook-And-Instagram-Apps-Seen-On-The-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "EU says Meta&#39;s Instagram and Facebook may breach digital rules over addictive features, risking fines of up to 6% of annual revenue.",
+      "symbols": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "updated_at": "2026-07-10T12:31:38Z",
+      "url": "https://www.benzinga.com/news/legal/26/07/60380435/meta-could-face-billions-in-fines-as-eu-cracks-down-on-addictive-facebook-and-instagram-features",
+      "_summary": "The European Union (EU) has accused Meta Platforms Inc. (NASDAQ: META ) of violating its digital laws due to the ‘addictive’ designs of its Instagram and Facebook platforms. On Friday, a preliminary report by the EU found that Meta had breached the Digital Services Act. The EU’s executive branch, the European Commission, stated that Meta did not adequately evaluate the risks that certain design features could pose to users’ physical health, particularly minors and vulnerable adults.",
+      "_zh_headline": "欧盟打击“令人上瘾”的 Facebook 和 Instagram 功能，Meta 可能面临数十亿美元罚款",
+      "_zh_summary": "欧盟 (EU) 指控 Meta Platforms Inc.（纳斯达克股票代码：META）因其 Instagram 和 Facebook 平台的“令人上瘾”的设计而违反了其数字法。周五，欧盟的一份初步报告发现 Meta 违反了《数字服务法》。欧盟行政部门欧盟委员会表示，Meta 没有充分评估某些设计功能可能对用户的身体健康造成的风险，特别是未成年人和弱势成年人。",
+      "_added_at": "2026-07-10T12:41:02.338409+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-10T11:17:51Z",
+      "headline": "Trump Skips Aircraft Tariffs for Now After Security Review, but Puts Trade Partners on Six-Month Clock",
+      "id": 60378921,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Commercial-Airplane-Soaring-Against-A-Di.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Commercial-Airplane-Soaring-Against-A-Di.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Commercial-Airplane-Soaring-Against-A-Di.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump delays aircraft tariffs despite security concerns, giving trade partners six months to reach an agreement.",
+      "symbols": [
+        "AMD",
+        "AVGO",
+        "BA",
+        "DAL",
+        "META",
+        "NVDA",
+        "TSM"
+      ],
+      "updated_at": "2026-07-10T11:17:51Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60378921/trump-skips-aircraft-tariffs-for-now-after-security-review-but-puts-trade-partners-on-six-month-clock",
+      "_summary": "On Thursday, the U.S. Commerce Department wrapped up its investigation into imported commercial aircraft and parts, identifying national security concerns but refraining from imposing new tariffs. Despite these concerns, U.S. Commerce Secretary Howard Lutnick recommended against the immediate imposition of tariffs. Meanwhile, President Donald Trump directed negotiations with trade partners to address the impact of imports on the U.S. commercial aerospace industry.",
+      "_zh_headline": "特朗普在安全审查后暂时取消飞机关税，但将贸易伙伴置于六个月的期限内",
+      "_zh_summary": "周四，美国商务部结束了对进口商用飞机和零部件的调查，确定了国家安全问题，但没有征收新的关税。尽管存在这些担忧，美国商务部长霍华德·卢特尼克还是建议不要立即征收关税。与此同时，唐纳德·特朗普总统指示与贸易伙伴进行谈判，以解决进口对美国商业航空航天业的影响。",
+      "_added_at": "2026-07-10T12:41:02.338409+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-10T11:30:43Z",
+      "headline": "Berkshire Hathaway's Record $397 Billion Cash Pile Could Buy Nearly Any S&P 500 Company",
+      "id": 60379249,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Germany---January-5--2026-In-This-Photo-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Germany---January-5--2026-In-This-Photo-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Germany---January-5--2026-In-This-Photo-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Berkshire Hathaway&#39;s cash hits a record $397B. This war chest is enough to buy any 1 of 474 S&amp;P 500 companies.",
+      "symbols": [
+        "BRK",
+        "DAL",
+        "GOOG",
+        "M",
+        "TMHC"
+      ],
+      "updated_at": "2026-07-10T11:30:43Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60379249/berkshire-hathaways-record-397-billion-cash-pile-could-buy-nearly-any-sp-500-company",
+      "_summary": "This staggering financial war chest effectively gives the multi-national conglomerate enough liquidity to outrightly purchase almost any individual corporate entity among 474 different companies currently listed within the S&P 500 index. The massive cash milestone underscores Berkshire’s unique position, even as its stock has recently faced periods of relative underperformance against an AI-driven broader market.",
+      "_zh_headline": "伯克希尔哈撒韦创纪录的 3970 亿美元现金储备几乎可以收购所有标准普尔 500 指数公司",
+      "_zh_summary": "这笔巨额的金融资金实际上为这家跨国集团提供了足够的流动性，可以直接购买目前标普 500 指数中列出的 474 家不同公司中的几乎所有单个公司实体。巨额现金里程碑凸显了伯克希尔的独特地位，尽管该股最近在人工智能驱动的大盘中表现相对不佳。",
+      "_added_at": "2026-07-10T12:41:02.338409+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-10T12:21:12Z",
+      "headline": "What's Going on With Intel Stock on Friday?",
+      "id": 60380182,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel Corp (NASDAQ: INTC) stock drops on Friday amid a broader semiconductor sector selloff. Traders eye upcoming Q2 earnings scheduled for July 23, 2026.",
+      "symbols": [
+        "INTC",
+        "META",
+        "MU"
+      ],
+      "updated_at": "2026-07-10T12:21:12Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60380182/whats-going-on-with-intel-stock-on-friday-3",
+      "_summary": "Intel Corp (NASDAQ: INTC ) stock is falling on Friday as investors reduce exposure to large-cap technology shares. This market movement stems from a broader, risk-off retreat visible across the entire semiconductor sector. Nasdaq futures are down 0.36% while S&P 500 futures have shed 0.07%. With the stock still up 372.46% over the past 12 months, the early dip reads like profit-taking and de-risking as the broader tape softens ahead of the bell.",
+      "_zh_headline": "周五英特尔股票怎么样？",
+      "_zh_summary": "由于投资者减少对大盘科技股的投资，英特尔公司（纳斯达克股票代码：INTC）股价周五下跌。这一市场走势源于整个半导体行业更广泛的避险撤退。纳斯达克期货下跌 0.36%，标准普尔 500 指数期货下跌 0.07%。由于该股在过去 12 个月中仍上涨 372.46%，随着大盘在盘前走软，早期的下跌看起来像是获利了结和去风险。",
+      "_added_at": "2026-07-10T12:41:02.338409+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-10T12:35:03Z",
+      "headline": "Palantir's Stock Has Bounced 23% Off Its Low— One Research Firm Says That's the Trap: 'We Still Won't Buy It'",
+      "id": 60380582,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Paris--France---March-4--2026-The-Logo-O.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Paris--France---March-4--2026-The-Logo-O.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Paris--France---March-4--2026-The-Logo-O.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Rebound Capital warns against buying the PLTR dip. Find out why Big Tech rivals and &#39;nosebleed valuations&#39; mean they &#39;still won&#39;t buy it.&#39;",
+      "symbols": [
+        "AMZN",
+        "MSFT",
+        "PLTR"
+      ],
+      "updated_at": "2026-07-10T12:35:03Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60380582/palantirs-stock-has-bounced-23-off-its-low-one-research-firm-says-thats-the-trap-we-still-wont-buy-it",
+      "_summary": "The firm explicitly stated, “we still won’t buy it”, cautioning that the recent market dip masks a structural trap driven by unsustainable “nosebleed valuations” and new competition from Big Tech. Palantir’s heavy correction from its November 2025 peak of ~$207 down to a late-June low of $106 has caught the attention of growth investors looking for a discount.",
+      "_zh_headline": "Palantir 的股价已从低点反弹 23%——一家研究公司称这是陷阱：“我们仍然不会购买它”",
+      "_zh_summary": "该公司明确表示，“我们仍然不会购买它”，并警告说，最近的市场下跌掩盖了由不可持续的“鼻血估值”和来自大型科​​技公司的新竞争驱动的结构性陷阱。 Palantir 从 2025 年 11 月的峰值约 207 美元大幅回调至 6 月底的低点 106 美元，引起了寻求折扣的成长型投资者的注意。",
+      "_added_at": "2026-07-10T12:41:02.338409+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-10T09:40:39Z",
