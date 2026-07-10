@@ -2,6 +2,217 @@
   "date": "2026-07-10",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-10T13:28:57Z",
+      "headline": "ETF Investors Are Finally Getting Paid To Diversify Away From The Magnificent Seven",
+      "id": 60381758,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Magnificent Seven&#39;s slowdown is boosting diversified ETFs. IJR has gained 20%, IJH 13% and RSP 11%, all ahead of the S&amp;P 500.",
+      "symbols": [
+        "AMZN",
+        "IJH",
+        "IJR",
+        "IVV",
+        "META",
+        "MSFT",
+        "NVDA",
+        "RSP",
+        "SPY",
+        "TSLA",
+        "VOO"
+      ],
+      "updated_at": "2026-07-10T13:28:57Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60381758/etf-investors-are-finally-getting-paid-to-diversify-away-from-the-magnificent-seven",
+      "_summary": "Diversification came at a cost for much of the AI-driven bull market. Investors who ventured beyond the S&P 500’s mega-cap leaders routinely lagged as the Magnificent Seven grew to account for roughly one-third of the benchmark. This year, however, that trade has reversed, and diversified equity ETFs are finally reaping the benefits. The Invesco S&P 500 Equal Weight ETF (ARCA: RSP) has returned 11% year-to-date. It outperformed the broader index by 1 percentage points.",
+      "_zh_headline": "ETF 投资者终于获得报酬，实现多元化，远离“七巨头”",
+      "_zh_summary": "对于人工智能驱动的牛市来说，多元化是付出了代价的。随着“七大巨头”成长到占基准指数的大约三分之一，那些冒险超越标准普尔 500 巨头龙头企业的投资者通常会落后。然而，今年这种交易发生了逆转，多元化股票 ETF 终于受益。 Invesco S&P 500 等权重 ETF（ARCA：RSP）今年迄今的回报率为 11%。它的表现比大盘指数高出1个百分点。",
+      "_added_at": "2026-07-10T15:56:40.493354+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-10T14:52:55Z",
+      "headline": "Why Is Arm Stock Falling on Friday?",
+      "id": 60388348,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Arm Holdings Plc (NASDAQ: ARM) stock declines on Friday due to a market rotation away from AI hardware leaders and profit-taking after massive year-to-date gains.",
+      "symbols": [
+        "ARM",
+        "META",
+        "MU"
+      ],
+      "updated_at": "2026-07-10T14:52:55Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60388348/why-is-arm-stock-falling-on-friday",
+      "_summary": "Arm Holdings (NASDAQ: ARM ) stock is facing downward pressure today due to a broader market rotation away from artificial intelligence (AI) hardware leaders. The decline follows a positive trading session on Thursday, during which shares of foundry, fabricator and integrated device manufacturing semiconductor companies moved higher. • ARM Holdings stock is trending lower.",
+      "_zh_headline": "为什么 Arm 股票周五下跌？",
+      "_zh_summary": "由于市场转向远离人工智能 (AI) 硬件领导者，Arm Holdings（纳斯达克股票代码：ARM）股票今天面临下行压力。此次下跌是在周四的积极交易时段之后发生的，在此期间，代工厂、制造商和集成设备制造半导体公司的股价走高。 • ARM Holdings 股票呈走低趋势。",
+      "_added_at": "2026-07-10T15:56:40.493354+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-10T13:33:23Z",
+      "headline": "OpenAI, Google AI Models Being Sold to Pentagon-Blacklisted Chinese Tech Giants: Report",
+      "id": 60381874,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Portland--Or--Usa---June-11--2025-Websit.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Portland--Or--Usa---June-11--2025-Websit.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Portland--Or--Usa---June-11--2025-Websit.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "OpenAI and Google AI models reportedly reached Pentagon-blacklisted Chinese firms via overseas subsidiaries, raising security concerns.",
+      "symbols": [
+        "BABA",
+        "BIDU",
+        "GOOG",
+        "GOOGL",
+        "TCEHY"
+      ],
+      "updated_at": "2026-07-10T13:33:23Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60381874/openai-google-ai-models-being-sold-to-pentagon-blacklisted-chinese-tech-giants-report",
+      "_summary": "OpenAI told the publication that it suspended API access for Alibaba-affiliated users last month over suspected misuse.",
+      "_zh_headline": "OpenAI、谷歌人工智能模型被出售给被五角大楼列入黑名单的中国科技巨头：报告",
+      "_zh_summary": "OpenAI 告诉该刊物，由于涉嫌滥用，上个月它暂停了阿里巴巴附属用户的 API 访问。",
+      "_added_at": "2026-07-10T15:56:40.493354+00:00"
+    },
+    {
+      "author": "Henry Khederian",
+      "content": "",
+      "created_at": "2026-07-10T14:13:48Z",
+      "headline": "Plug Power Stock Slides as Susquehanna Cuts Price Target: What Investors Need to Know",
+      "id": 60385667,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stuttgart--Germany---03-17-2024-Mobile-P.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stuttgart--Germany---03-17-2024-Mobile-P.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stuttgart--Germany---03-17-2024-Mobile-P.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Plug Power shares are trading lower Friday after Susquehanna cuts price target to $2.50 as investors weigh hydrogen milestone with Orica.",
+      "symbols": [
+        "PLUG"
+      ],
+      "updated_at": "2026-07-10T14:13:48Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60385667/plug-power-stock-slides-as-susquehanna-cuts-price-target-what-investors-need-to-know",
+      "_summary": "Plug said the Hunter Valley Hydrogen Hub project in Newcastle, New South Wales—developed by Orica—has reached final investment decision, clearing the way for execution and including a 50MW electrolyzer order. Once fully operational, the project is expected to produce about 4,700 tonnes of renewable hydrogen annually, cutting Orica’s natural gas use at Kooragang Island by roughly 7.5% and emissions equivalent to removing around 26,500 vehicles from Australian roads each year.",
+      "_zh_headline": "Susquehanna 下调价格目标，Plug Power 股价下跌：投资者需要了解什么",
+      "_zh_summary": "Plug表示，由Orica开发的位于新南威尔士州纽卡斯尔的猎人谷氢中心项目已达成最终投资决定，为执行扫清了道路，其中包括一份50MW电解槽订单。一旦全面投入运营，该项目预计每年可生产约 4,700 吨可再生氢气，从而将 Orica 在 Kooragang 岛的天然气使用量减少约 7.5%，排放量相当于每年从澳大利亚道路上减少约 26,500 辆车辆。",
+      "_added_at": "2026-07-10T15:56:40.493354+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-10T13:57:17Z",
+      "headline": "Why Is Nokia Stock Falling Friday?",
+      "id": 60384102,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Nokia-Logo-Display-On-A-Smartphone-With-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Nokia-Logo-Display-On-A-Smartphone-With-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Nokia-Logo-Display-On-A-Smartphone-With-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Nokia (NOK) stock dips 3% as investors lock in gains after Thursday&#39;s 8.7% NestAI defense rally. Discover the key technical levels.",
+      "symbols": [
+        "NOK"
+      ],
+      "updated_at": "2026-07-10T13:57:17Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60384102/why-is-nokia-stock-falling-friday-2",
+      "_summary": "The decline follows Thursday’s 8.7% jump after Nokia announced a military-grade 5G and defense partnership with NestAI . Friday’s pullback appears to reflect profit-taking rather than a broader market shift. Nokia remains in a long-term uptrend despite recent weakness. The stock trades about 11% above its 100-day simple moving average of $11.32 and roughly 43% above its 200-day simple moving average of $8.79. However, the near-term trend has weakened.",
+      "_zh_headline": "为什么诺基亚股票周五下跌？",
+      "_zh_summary": "继周四诺基亚宣布与 NestAI 建立军用级 5G 和国防合作伙伴关系后，股价大涨 8.7%。周五的回调似乎反映了获利回吐，而不是更广泛的市场转变。尽管近期表现疲软，但诺基亚仍处于长期上升趋势。该股的交易价格比 11.32 美元的 100 天简单移动平均线高出约 11%，比 8.79 美元的 200 天简单移动平均线高出约 43%。然而，近期趋势已经减弱。",
+      "_added_at": "2026-07-10T15:56:40.493354+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-10T15:48:36Z",
+      "headline": "SK Hynix IPO Triggers Wall Street's Next Leveraged ETF Gold Rush",
+      "id": 60391214,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Sk-Hynix-Logo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Sk-Hynix-Logo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Sk-Hynix-Logo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Ahead of the SK Hynix Nasdaq debut, ETF issuers are rolling out leveraged funds to capitalize on demand for AI memory and single-stock ETFs.",
+      "symbols": [
+        "BABA",
+        "DRAM",
+        "MU",
+        "SKHX"
+      ],
+      "updated_at": "2026-07-10T15:48:36Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60391214/sk-hynix-ipo-wall-street-next-leveraged-etf-gold-rush",
+      "_summary": "For ETF issuers, the listing is more than a blockbuster IPO. It opens the door to one of the AI supply chain’s most important companies, and marks the latest battleground in the fast-growing single-stock ETF market. With SK Hynix now trading, ETF providers have moved quickly to capitalize on anticipated demand for amplified exposure, even quicker than the IPO itself.",
+      "_zh_headline": "SK 海力士 IPO 引发华尔街下一轮杠杆 ETF 淘金热",
+      "_zh_summary": "对于ETF发行人来说，此次上市不仅仅是一次轰动一时的IPO。它为人工智能供应链最重要的公司之一打开了大门，并标志着快速增长的单一股票 ETF 市场的最新战场。随着 SK 海力士现已上市，ETF 提供商已迅速采取行动，利用预期扩大风险敞口的需求，甚至比 IPO 本身还要快。",
+      "_added_at": "2026-07-10T15:56:40.493354+00:00"
+    },
+    {
       "author": "Namrata Sen",
       "content": "",
       "created_at": "2026-07-10T12:31:38Z",
@@ -531,41 +742,6 @@
       "_summary": "Lumentum Holdings Inc. (NASDAQ: LITE ) stock is trading higher on Thursday. The California-based technology firm is experiencing upward momentum alongside other companies in the fiber optic connectivity sector. The Nasdaq is up 1.55% while the S&P 500 has gained 0.72%. • Lumentum Holdings stock is surging to new heights today. Why are LITE shares rallying? Meta declined to comment on the development following a Benzinga inquiry.",
       "_zh_headline": "为什么 Lumentum 股票周四飙升？",
       "_zh_summary": "Lumentum Holdings Inc.（纳斯达克股票代码：LITE）股票周四走高。这家总部位于加利福尼亚州的科技公司与光纤连接领域的其他公司一样正在经历上升势头。纳斯达克指数上涨 1.55%，标准普尔 500 指数上涨 0.72%。 • Lumentum Holdings 股价今天飙升至新高。为什么 LITE 股价上涨？在接受 Benzinga 调查后，Meta 拒绝对事态发展发表评论。",
-      "_added_at": "2026-07-10T05:40:30.214507+00:00"
-    },
-    {
-      "author": "Mohd Haider",
-      "content": "",
-      "created_at": "2026-07-10T04:03:22Z",
-      "headline": "PMGC Holdings Stock Surges Over 37% Overnight: Why Is It Moving?",
-      "id": 60375749,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Investor-Planning-And-Strategy--Stock-Ma.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Investor-Planning-And-Strategy--Stock-Ma.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Investor-Planning-And-Strategy--Stock-Ma.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "PMGC Holdings shares jumped 21.70% after hours after the company disclosed a merger between two wholly owned subsidiaries in an SEC filing.",
-      "symbols": [
-        "BA",
-        "ELAB",
-        "HON",
-        "MOG"
-      ],
-      "updated_at": "2026-07-10T04:03:22Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60375749/pmgc-holdings-stock-surges-over-37-overnight-why-is-it-moving",
-      "_summary": "According to a Thursday Securities and Exchange Commission filing, AGA Precision Systems LLC will merge into A&B Aerospace Inc. , with A&B surviving the Merger as the continuing entity. The agreement was dated Jul. 2. All membership interests in AGA will be canceled without consideration, while A&B’s issued and outstanding shares will remain unaffected. CEO Graydon Bensler signed the filing on PMGC’s behalf. The transaction consolidates two of PMGC’s wholly owned subsidiaries into a single entity.",
-      "_zh_headline": "PMGC Holdings 股价一夜飙升超过 37%：为何如此波动？",
-      "_zh_summary": "根据周四向美国证券交易委员会提交的文件，AGA Precision Systems LLC 将并入 A&B Aerospace Inc.，A&B 在合并后作为持续实体继续存在。该协议日期为 7 月 2 日。AGA 的所有会员权益将被取消，无需对价，而 A&B 的已发行和流通股将不受影响。首席执行官 Graydon Bensler 代表 PMGC 签署了该文件。该交易将 PMGC 的两家全资子公司合并为一个实体。",
       "_added_at": "2026-07-10T05:40:30.214507+00:00"
     }
   ]
