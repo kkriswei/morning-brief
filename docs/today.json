@@ -1,116 +1,44 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "articles": [
     {
-      "author": "Khyathi Dalal",
+      "author": "Mohd Haider",
       "content": "",
-      "created_at": "2026-07-10T21:10:07Z",
-      "headline": "Standard Chartered Keeps $100,000 Bitcoin Target, Calls Strategy Selloff a 'Communication Challenge'",
-      "id": 60401882,
+      "created_at": "2026-07-11T04:57:39Z",
+      "headline": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+      "id": 60402915,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Flags-Of-Usa-And-Uae-Together-Against-Th.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Flags-Of-Usa-And-Uae-Together-Against-Th.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Flags-Of-Usa-And-Uae-Together-Against-Th.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Standard Chartered has reaffirmed its $100,000 year-end 2026 target for Bitcoin, arguing that recent weakness tied to Strategy reflects a communication challenge, not a deterioration in its financial position. Investors are adjusting to Strategy&#39;s transition from a &#34;never sell Bitcoin&#34; model to using BTC as collateral for its preferred stock business.",
-      "symbols": [
-        "BTCUSD",
-        "MSTR",
-        "STRC"
-      ],
-      "updated_at": "2026-07-10T21:10:07Z",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60401882/standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-communication-challenge",
-      "_summary": "In a research note on Friday, Geoffrey Kendrick , Standard Chartered’s global head of digital assets research said, “I see what is happening at MSTR right now as a communication challenge, nothing more,” He argued that investors are still adjusting to Strategy’s shift away from its long-standing “never sell Bitcoin” philosophy toward using Bitcoin as collateral to support its growing preferred stock business.",
-      "_zh_headline": "渣打银行维持 10 万美元比特币目标，称战略抛售是“沟通挑战”",
-      "_zh_summary": "渣打银行全球数字资产研究主管杰弗里·肯德里克 (Geoffrey Kendrick) 在周五的一份研究报告中表示，“我认为 MSTR 目前发生的情况是一个沟通挑战，仅此而已。”他认为，投资者仍在适应 Strategy 从其长期的“绝不出售比特币”理念转向使用比特币作为抵押品以支持其不断增长的优先股业务的转变。",
-      "_added_at": "2026-07-10T21:35:45.553804+00:00"
-    },
-    {
-      "author": "Henry Khederian",
-      "content": "",
-      "created_at": "2026-07-10T18:59:37Z",
-      "headline": "ServiceNow Stock Falls Friday: What's Going On?",
-      "id": 60398250,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Servicenow-Office-Building-At-Their-Head.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Servicenow-Office-Building-At-Their-Head.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Servicenow-Office-Building-At-Their-Head.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ServiceNow Inc. (NYSE: NOW) shares are trading lower by almost 2% on Friday as investors continue to digest fresh AI partnership headlines.",
-      "symbols": [
-        "NOW"
-      ],
-      "updated_at": "2026-07-10T18:59:37Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60398250/servicenow-stock-falls-friday-whats-going-on",
-      "_summary": "The latest narrative centers on Accenture’s rollout of two AI-focused offerings built on ServiceNow’s AI Platform: managed security services and an AI-powered automation solution aimed at lowering the cost and complexity of modernizing enterprise risk and security operations. The stock has also been riding a friendlier tone after a July 1 upgrade to Buy that argued software valuations were pricing in \"extinction,\" framing the pullback as a better entry.",
-      "_zh_headline": "ServiceNow 股票周五下跌：发生了什么？",
-      "_zh_summary": "最新的叙述围绕埃森哲推出的两项基于 ServiceNow 人工智能平台的人工智能产品展开：托管安全服务和人工智能驱动的自动化解决方案，旨在降低企业风险和安全运营现代化的成本和复杂性。在 7 月 1 日将软件估值升级为“买入”后，该股的基调也变得更加友好，认为软件估值正在定价“灭绝”，并将回调视为更好的入场机会。",
-      "_added_at": "2026-07-10T20:00:21.646980+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-10T16:36:44Z",
-      "headline": "Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
-      "id": 60393150,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Sk-Hynix.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Sk-Hynix.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Sk-Hynix.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nWatch SK Hynix\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
+      "summary": "Commerce Department eased UAE chip export controls, offering favorable reviews for MGX and streamlined access for major tech firms.",
       "symbols": [
         "AAPL",
         "AMZN",
-        "BTCUSD",
-        "CRCL",
+        "BNBUSD",
         "GOOG",
+        "GOOGL",
         "META",
         "MSFT",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPY",
-        "TSLA",
-        "USO"
+        "ORCL"
       ],
-      "updated_at": "2026-07-10T16:39:35Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60393150/semis-volatile-as-traders-wait-for-sk-hynixs-discount-to-micron-to-close-us-approves-cryptobank",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor. It does not represent Benzinga’s reporting and has not been edited for content or accuracy.",
-      "_zh_headline": "由于交易员等待 SK 海力士对美光的折扣结束，半成品波动较大；美国批准加密货币银行",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。它不代表 Benzinga 的报告，并且未经内容或准确性编辑。",
-      "_added_at": "2026-07-10T18:08:15.556677+00:00"
+      "updated_at": "2026-07-11T04:57:40Z",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+      "_summary": "The unpublished 17-page rule, which can be seen in the Federal Register, favors MGX, which used USD1 (CRYPTO: USD1) to fund its Binance stake. In a statement released Friday, Sen. Elizabeth Warren (D-Mass.) called the deal \"corrupt,\" citing Trump’s reported $263 million gain tied to the arrangement, which was part of the $1.4 billion he earned from crypto ventures last year. She called on Commerce Secretary Howard Lutnick and Under Secretary Jeffrey Kessler to testify before the Senate Banking Committee.",
+      "_zh_headline": "伊丽莎白·沃伦 (Elizabeth Warren) 称阿联酋芯片出口规则“腐败”，因为商务部放松了对与特朗普相关的稳定币交易的控制",
+      "_zh_summary": "未发布的 17 页规则（可以在《联邦公报》中看到）有利于 MGX，该规则使用 1 美元（加密货币：USD1）为其币安股份提供资金。在周五发布的一份声明中，马萨诸塞州民主党参议员伊丽莎白·沃伦 (Elizabeth Warren) 称该交易“腐败”，并援引特朗普据报道与该安排相关的 2.63 亿美元收益，这是他去年从加密货币企业赚取的 14 亿美元的一部分。她呼吁商务部长霍华德·卢特尼克和副部长杰弗里·凯斯勒在参议院银行委员会作证。",
+      "_added_at": "2026-07-11T06:36:38.363840+00:00"
     },
     {
       "author": "Chandrima Sanyal",
@@ -148,7 +76,7 @@
       "_summary": "For decades, investors used index funds to diversify away company-specific risks. But the rise of mega-cap founders is creating a new challenge for passive investors: increasingly large exposure to a handful of influential individuals. The filing comes at a time when Musk’s footprint across passive portfolios is expanding rapidly. Tesla has been a member of the S&P 500 since 2020 and the Nasdaq-100 since 2013.",
       "_zh_headline": "新的“Ex-Elon”ETF 将从主要指数中剔除马斯克旗下的特斯拉和 SpaceX",
       "_zh_summary": "几十年来，投资者利用指数基金来分散公司特定的风险。但巨型股创始人的崛起给被动投资者带来了新的挑战：越来越多地接触少数有影响力的个人。该文件提交之际，马斯克在被动投资组合中的足迹正在迅速扩大。特斯拉自 2020 年起成为标准普尔 500 指数成员，自 2013 年起成为纳斯达克 100 指数成员。",
-      "_added_at": "2026-07-10T18:08:15.556677+00:00"
+      "_added_at": "2026-07-11T06:36:38.363840+00:00"
     },
     {
       "author": "Chris Katje",
@@ -185,7 +113,7 @@
       "_summary": "Here’s a look at how much Ackman’s position is up in 2026. Ackman announced the new stake in Meta in an investment presentation in February 2026, before a 13F filing officially unveiled the full size. In the fourth quarter filing, it was unveiled that Pershing Square Capital Management bought 2,673,569 META shares. That position was later slightly reduced to 2,660,861 shares in the first quarter.",
       "_zh_headline": "比尔·阿克曼 (Bill Ackman) 对 Meta 股票的大赌注终于得到回报：这是迄今为止 2026 年的收益",
       "_zh_summary": "以下是阿克曼的持股在 2026 年上涨了多少。阿克曼在 2026 年 2 月的投资演示中宣布了 Meta 的新股份，随后 13F 文件正式公布了全部规模。在第四季度的文件中，显示 Pershing Square Capital Management 购买了 2,673,569 股 META 股票。该仓位随后在第一季度略有减少至 2,660,861 股。",
-      "_added_at": "2026-07-10T18:08:15.556677+00:00"
+      "_added_at": "2026-07-11T06:36:38.363840+00:00"
     },
     {
       "author": "Benzinga Insights",
@@ -226,7 +154,7 @@
       "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
       "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
       "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-07-10T18:08:15.556677+00:00"
+      "_added_at": "2026-07-11T06:36:38.363840+00:00"
     },
     {
       "author": "Chris Katje",
@@ -264,474 +192,41 @@
       "_summary": "Woods said the relationship with Alphabet is surprising. \"Here’s a company that’s been around for 25 years. Took them forever to really get involved in Apple and it became a major holding and they made a lot of money off of it. They see the potential here in Alphabet,\" Woods tells Benzinga. Woods said that the recent 13F shows that Abel isn’t just \"looking at the old traditional Warren Buffett investments.\" \"They’re broadening their scope and they are getting involved.\"",
       "_zh_headline": "独家报道：专家称，伯克希尔哈撒韦公司 Alphabet、联合健康集团收购显示首席执行官格雷格·阿贝尔正在扩大策略",
       "_zh_summary": "伍兹表示与 Alphabet 的关系令人惊讶。 “这家公司已经存在了 25 年。他们花了很长时间才真正涉足苹果公司，苹果公司成为了他们的主要控股公司，他们从中赚了很多钱。他们看到了 Alphabet 的潜力，”伍兹告诉本津加。伍兹表示，最近的 13F 表明阿贝尔不仅仅“着眼于沃伦·巴菲特的传统投资”。 “他们正在扩大范围并参与其中。”",
-      "_added_at": "2026-07-10T18:08:15.556677+00:00"
+      "_added_at": "2026-07-11T06:36:38.363840+00:00"
     },
     {
-      "author": "Chandrima Sanyal",
+      "author": "Khyathi Dalal",
       "content": "",
-      "created_at": "2026-07-10T13:28:57Z",
-      "headline": "ETF Investors Are Finally Getting Paid To Diversify Away From The Magnificent Seven",
-      "id": 60381758,
+      "created_at": "2026-07-10T21:10:07Z",
+      "headline": "Standard Chartered Keeps $100,000 Bitcoin Target, Calls Strategy Selloff a 'Communication Challenge'",
+      "id": 60401882,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Magnificent-Seven--7-Of-The-Largest-.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Warsaw--Poland---July-27--2021-View-Of-S.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "The Magnificent Seven&#39;s slowdown is boosting diversified ETFs. IJR has gained 20%, IJH 13% and RSP 11%, all ahead of the S&amp;P 500.",
-      "symbols": [
-        "AMZN",
-        "IJH",
-        "IJR",
-        "IVV",
-        "META",
-        "MSFT",
-        "NVDA",
-        "RSP",
-        "SPY",
-        "TSLA",
-        "VOO"
-      ],
-      "updated_at": "2026-07-10T13:28:57Z",
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60381758/etf-investors-are-finally-getting-paid-to-diversify-away-from-the-magnificent-seven",
-      "_summary": "Diversification came at a cost for much of the AI-driven bull market. Investors who ventured beyond the S&P 500’s mega-cap leaders routinely lagged as the Magnificent Seven grew to account for roughly one-third of the benchmark. This year, however, that trade has reversed, and diversified equity ETFs are finally reaping the benefits. The Invesco S&P 500 Equal Weight ETF (ARCA: RSP) has returned 11% year-to-date. It outperformed the broader index by 1 percentage points.",
-      "_zh_headline": "ETF 投资者终于获得报酬，实现多元化，远离“七巨头”",
-      "_zh_summary": "对于人工智能驱动的牛市来说，多元化是付出了代价的。随着“七大巨头”成长到占基准指数的大约三分之一，那些冒险超越标准普尔 500 巨头龙头企业的投资者通常会落后。然而，今年这种交易发生了逆转，多元化股票 ETF 终于受益。 Invesco S&P 500 等权重 ETF（ARCA：RSP）今年迄今的回报率为 11%。它的表现比大盘指数高出1个百分点。",
-      "_added_at": "2026-07-10T15:56:40.493354+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-10T14:52:55Z",
-      "headline": "Why Is Arm Stock Falling on Friday?",
-      "id": 60388348,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Arm Holdings Plc (NASDAQ: ARM) stock declines on Friday due to a market rotation away from AI hardware leaders and profit-taking after massive year-to-date gains.",
-      "symbols": [
-        "ARM",
-        "META",
-        "MU"
-      ],
-      "updated_at": "2026-07-10T14:52:55Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60388348/why-is-arm-stock-falling-on-friday",
-      "_summary": "Arm Holdings (NASDAQ: ARM ) stock is facing downward pressure today due to a broader market rotation away from artificial intelligence (AI) hardware leaders. The decline follows a positive trading session on Thursday, during which shares of foundry, fabricator and integrated device manufacturing semiconductor companies moved higher. • ARM Holdings stock is trending lower.",
-      "_zh_headline": "为什么 Arm 股票周五下跌？",
-      "_zh_summary": "由于市场转向远离人工智能 (AI) 硬件领导者，Arm Holdings（纳斯达克股票代码：ARM）股票今天面临下行压力。此次下跌是在周四的积极交易时段之后发生的，在此期间，代工厂、制造商和集成设备制造半导体公司的股价走高。 • ARM Holdings 股票呈走低趋势。",
-      "_added_at": "2026-07-10T15:56:40.493354+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-10T13:33:23Z",
-      "headline": "OpenAI, Google AI Models Being Sold to Pentagon-Blacklisted Chinese Tech Giants: Report",
-      "id": 60381874,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Portland--Or--Usa---June-11--2025-Websit.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Portland--Or--Usa---June-11--2025-Websit.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Portland--Or--Usa---June-11--2025-Websit.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "OpenAI and Google AI models reportedly reached Pentagon-blacklisted Chinese firms via overseas subsidiaries, raising security concerns.",
-      "symbols": [
-        "BABA",
-        "BIDU",
-        "GOOG",
-        "GOOGL",
-        "TCEHY"
-      ],
-      "updated_at": "2026-07-10T13:33:23Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60381874/openai-google-ai-models-being-sold-to-pentagon-blacklisted-chinese-tech-giants-report",
-      "_summary": "OpenAI told the publication that it suspended API access for Alibaba-affiliated users last month over suspected misuse.",
-      "_zh_headline": "OpenAI、谷歌人工智能模型被出售给被五角大楼列入黑名单的中国科技巨头：报告",
-      "_zh_summary": "OpenAI 告诉该刊物，由于涉嫌滥用，上个月它暂停了阿里巴巴附属用户的 API 访问。",
-      "_added_at": "2026-07-10T15:56:40.493354+00:00"
-    },
-    {
-      "author": "Henry Khederian",
-      "content": "",
-      "created_at": "2026-07-10T14:13:48Z",
-      "headline": "Plug Power Stock Slides as Susquehanna Cuts Price Target: What Investors Need to Know",
-      "id": 60385667,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stuttgart--Germany---03-17-2024-Mobile-P.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stuttgart--Germany---03-17-2024-Mobile-P.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stuttgart--Germany---03-17-2024-Mobile-P.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Plug Power shares are trading lower Friday after Susquehanna cuts price target to $2.50 as investors weigh hydrogen milestone with Orica.",
-      "symbols": [
-        "PLUG"
-      ],
-      "updated_at": "2026-07-10T14:13:48Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60385667/plug-power-stock-slides-as-susquehanna-cuts-price-target-what-investors-need-to-know",
-      "_summary": "Plug said the Hunter Valley Hydrogen Hub project in Newcastle, New South Wales—developed by Orica—has reached final investment decision, clearing the way for execution and including a 50MW electrolyzer order. Once fully operational, the project is expected to produce about 4,700 tonnes of renewable hydrogen annually, cutting Orica’s natural gas use at Kooragang Island by roughly 7.5% and emissions equivalent to removing around 26,500 vehicles from Australian roads each year.",
-      "_zh_headline": "Susquehanna 下调价格目标，Plug Power 股价下跌：投资者需要了解什么",
-      "_zh_summary": "Plug表示，由Orica开发的位于新南威尔士州纽卡斯尔的猎人谷氢中心项目已达成最终投资决定，为执行扫清了道路，其中包括一份50MW电解槽订单。一旦全面投入运营，该项目预计每年可生产约 4,700 吨可再生氢气，从而将 Orica 在 Kooragang 岛的天然气使用量减少约 7.5%，排放量相当于每年从澳大利亚道路上减少约 26,500 辆车辆。",
-      "_added_at": "2026-07-10T15:56:40.493354+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-10T13:57:17Z",
-      "headline": "Why Is Nokia Stock Falling Friday?",
-      "id": 60384102,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Nokia-Logo-Display-On-A-Smartphone-With-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Nokia-Logo-Display-On-A-Smartphone-With-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Nokia-Logo-Display-On-A-Smartphone-With-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nokia (NOK) stock dips 3% as investors lock in gains after Thursday&#39;s 8.7% NestAI defense rally. Discover the key technical levels.",
-      "symbols": [
-        "NOK"
-      ],
-      "updated_at": "2026-07-10T13:57:17Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60384102/why-is-nokia-stock-falling-friday-2",
-      "_summary": "The decline follows Thursday’s 8.7% jump after Nokia announced a military-grade 5G and defense partnership with NestAI . Friday’s pullback appears to reflect profit-taking rather than a broader market shift. Nokia remains in a long-term uptrend despite recent weakness. The stock trades about 11% above its 100-day simple moving average of $11.32 and roughly 43% above its 200-day simple moving average of $8.79. However, the near-term trend has weakened.",
-      "_zh_headline": "为什么诺基亚股票周五下跌？",
-      "_zh_summary": "继周四诺基亚宣布与 NestAI 建立军用级 5G 和国防合作伙伴关系后，股价大涨 8.7%。周五的回调似乎反映了获利回吐，而不是更广泛的市场转变。尽管近期表现疲软，但诺基亚仍处于长期上升趋势。该股的交易价格比 11.32 美元的 100 天简单移动平均线高出约 11%，比 8.79 美元的 200 天简单移动平均线高出约 43%。然而，近期趋势已经减弱。",
-      "_added_at": "2026-07-10T15:56:40.493354+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-10T15:48:36Z",
-      "headline": "SK Hynix IPO Triggers Wall Street's Next Leveraged ETF Gold Rush",
-      "id": 60391214,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Sk-Hynix-Logo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Sk-Hynix-Logo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/The-Sk-Hynix-Logo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Ahead of the SK Hynix Nasdaq debut, ETF issuers are rolling out leveraged funds to capitalize on demand for AI memory and single-stock ETFs.",
-      "symbols": [
-        "BABA",
-        "DRAM",
-        "MU",
-        "SKHX"
-      ],
-      "updated_at": "2026-07-10T15:48:36Z",
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60391214/sk-hynix-ipo-wall-street-next-leveraged-etf-gold-rush",
-      "_summary": "For ETF issuers, the listing is more than a blockbuster IPO. It opens the door to one of the AI supply chain’s most important companies, and marks the latest battleground in the fast-growing single-stock ETF market. With SK Hynix now trading, ETF providers have moved quickly to capitalize on anticipated demand for amplified exposure, even quicker than the IPO itself.",
-      "_zh_headline": "SK 海力士 IPO 引发华尔街下一轮杠杆 ETF 淘金热",
-      "_zh_summary": "对于ETF发行人来说，此次上市不仅仅是一次轰动一时的IPO。它为人工智能供应链最重要的公司之一打开了大门，并标志着快速增长的单一股票 ETF 市场的最新战场。随着 SK 海力士现已上市，ETF 提供商已迅速采取行动，利用预期扩大风险敞口的需求，甚至比 IPO 本身还要快。",
-      "_added_at": "2026-07-10T15:56:40.493354+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-10T12:31:38Z",
-      "headline": "Meta Could Face Billions in Fines as EU Cracks Down on 'Addictive' Facebook and Instagram Features",
-      "id": 60380435,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Facebook-And-Instagram-Apps-Seen-On-The-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Facebook-And-Instagram-Apps-Seen-On-The-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Facebook-And-Instagram-Apps-Seen-On-The-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "EU says Meta&#39;s Instagram and Facebook may breach digital rules over addictive features, risking fines of up to 6% of annual revenue.",
-      "symbols": [
-        "AAPL",
-        "GOOG",
-        "GOOGL",
-        "META"
-      ],
-      "updated_at": "2026-07-10T12:31:38Z",
-      "url": "https://www.benzinga.com/news/legal/26/07/60380435/meta-could-face-billions-in-fines-as-eu-cracks-down-on-addictive-facebook-and-instagram-features",
-      "_summary": "The European Union (EU) has accused Meta Platforms Inc. (NASDAQ: META ) of violating its digital laws due to the ‘addictive’ designs of its Instagram and Facebook platforms. On Friday, a preliminary report by the EU found that Meta had breached the Digital Services Act. The EU’s executive branch, the European Commission, stated that Meta did not adequately evaluate the risks that certain design features could pose to users’ physical health, particularly minors and vulnerable adults.",
-      "_zh_headline": "欧盟打击“令人上瘾”的 Facebook 和 Instagram 功能，Meta 可能面临数十亿美元罚款",
-      "_zh_summary": "欧盟 (EU) 指控 Meta Platforms Inc.（纳斯达克股票代码：META）因其 Instagram 和 Facebook 平台的“令人上瘾”的设计而违反了其数字法。周五，欧盟的一份初步报告发现 Meta 违反了《数字服务法》。欧盟行政部门欧盟委员会表示，Meta 没有充分评估某些设计功能可能对用户的身体健康造成的风险，特别是未成年人和弱势成年人。",
-      "_added_at": "2026-07-10T12:41:02.338409+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-10T11:17:51Z",
-      "headline": "Trump Skips Aircraft Tariffs for Now After Security Review, but Puts Trade Partners on Six-Month Clock",
-      "id": 60378921,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Commercial-Airplane-Soaring-Against-A-Di.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Commercial-Airplane-Soaring-Against-A-Di.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Commercial-Airplane-Soaring-Against-A-Di.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Trump delays aircraft tariffs despite security concerns, giving trade partners six months to reach an agreement.",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "BA",
-        "DAL",
-        "META",
-        "NVDA",
-        "TSM"
-      ],
-      "updated_at": "2026-07-10T11:17:51Z",
-      "url": "https://www.benzinga.com/news/politics/26/07/60378921/trump-skips-aircraft-tariffs-for-now-after-security-review-but-puts-trade-partners-on-six-month-clock",
-      "_summary": "On Thursday, the U.S. Commerce Department wrapped up its investigation into imported commercial aircraft and parts, identifying national security concerns but refraining from imposing new tariffs. Despite these concerns, U.S. Commerce Secretary Howard Lutnick recommended against the immediate imposition of tariffs. Meanwhile, President Donald Trump directed negotiations with trade partners to address the impact of imports on the U.S. commercial aerospace industry.",
-      "_zh_headline": "特朗普在安全审查后暂时取消飞机关税，但将贸易伙伴置于六个月的期限内",
-      "_zh_summary": "周四，美国商务部结束了对进口商用飞机和零部件的调查，确定了国家安全问题，但没有征收新的关税。尽管存在这些担忧，美国商务部长霍华德·卢特尼克还是建议不要立即征收关税。与此同时，唐纳德·特朗普总统指示与贸易伙伴进行谈判，以解决进口对美国商业航空航天业的影响。",
-      "_added_at": "2026-07-10T12:41:02.338409+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-10T11:30:43Z",
-      "headline": "Berkshire Hathaway's Record $397 Billion Cash Pile Could Buy Nearly Any S&P 500 Company",
-      "id": 60379249,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Germany---January-5--2026-In-This-Photo-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Germany---January-5--2026-In-This-Photo-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Germany---January-5--2026-In-This-Photo-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Berkshire Hathaway&#39;s cash hits a record $397B. This war chest is enough to buy any 1 of 474 S&amp;P 500 companies.",
-      "symbols": [
-        "BRK",
-        "DAL",
-        "GOOG",
-        "M",
-        "TMHC"
-      ],
-      "updated_at": "2026-07-10T11:30:43Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60379249/berkshire-hathaways-record-397-billion-cash-pile-could-buy-nearly-any-sp-500-company",
-      "_summary": "This staggering financial war chest effectively gives the multi-national conglomerate enough liquidity to outrightly purchase almost any individual corporate entity among 474 different companies currently listed within the S&P 500 index. The massive cash milestone underscores Berkshire’s unique position, even as its stock has recently faced periods of relative underperformance against an AI-driven broader market.",
-      "_zh_headline": "伯克希尔哈撒韦创纪录的 3970 亿美元现金储备几乎可以收购所有标准普尔 500 指数公司",
-      "_zh_summary": "这笔巨额的金融资金实际上为这家跨国集团提供了足够的流动性，可以直接购买目前标普 500 指数中列出的 474 家不同公司中的几乎所有单个公司实体。巨额现金里程碑凸显了伯克希尔的独特地位，尽管该股最近在人工智能驱动的大盘中表现相对不佳。",
-      "_added_at": "2026-07-10T12:41:02.338409+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-10T12:21:12Z",
-      "headline": "What's Going on With Intel Stock on Friday?",
-      "id": 60380182,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel Corp (NASDAQ: INTC) stock drops on Friday amid a broader semiconductor sector selloff. Traders eye upcoming Q2 earnings scheduled for July 23, 2026.",
-      "symbols": [
-        "INTC",
-        "META",
-        "MU"
-      ],
-      "updated_at": "2026-07-10T12:21:12Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60380182/whats-going-on-with-intel-stock-on-friday-3",
-      "_summary": "Intel Corp (NASDAQ: INTC ) stock is falling on Friday as investors reduce exposure to large-cap technology shares. This market movement stems from a broader, risk-off retreat visible across the entire semiconductor sector. Nasdaq futures are down 0.36% while S&P 500 futures have shed 0.07%. With the stock still up 372.46% over the past 12 months, the early dip reads like profit-taking and de-risking as the broader tape softens ahead of the bell.",
-      "_zh_headline": "周五英特尔股票怎么样？",
-      "_zh_summary": "由于投资者减少对大盘科技股的投资，英特尔公司（纳斯达克股票代码：INTC）股价周五下跌。这一市场走势源于整个半导体行业更广泛的避险撤退。纳斯达克期货下跌 0.36%，标准普尔 500 指数期货下跌 0.07%。由于该股在过去 12 个月中仍上涨 372.46%，随着大盘在盘前走软，早期的下跌看起来像是获利了结和去风险。",
-      "_added_at": "2026-07-10T12:41:02.338409+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-10T12:35:03Z",
-      "headline": "Palantir's Stock Has Bounced 23% Off Its Low— One Research Firm Says That's the Trap: 'We Still Won't Buy It'",
-      "id": 60380582,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Paris--France---March-4--2026-The-Logo-O.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Paris--France---March-4--2026-The-Logo-O.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Paris--France---March-4--2026-The-Logo-O.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Rebound Capital warns against buying the PLTR dip. Find out why Big Tech rivals and &#39;nosebleed valuations&#39; mean they &#39;still won&#39;t buy it.&#39;",
-      "symbols": [
-        "AMZN",
-        "MSFT",
-        "PLTR"
-      ],
-      "updated_at": "2026-07-10T12:35:03Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60380582/palantirs-stock-has-bounced-23-off-its-low-one-research-firm-says-thats-the-trap-we-still-wont-buy-it",
-      "_summary": "The firm explicitly stated, “we still won’t buy it”, cautioning that the recent market dip masks a structural trap driven by unsustainable “nosebleed valuations” and new competition from Big Tech. Palantir’s heavy correction from its November 2025 peak of ~$207 down to a late-June low of $106 has caught the attention of growth investors looking for a discount.",
-      "_zh_headline": "Palantir 的股价已从低点反弹 23%——一家研究公司称这是陷阱：“我们仍然不会购买它”",
-      "_zh_summary": "该公司明确表示，“我们仍然不会购买它”，并警告说，最近的市场下跌掩盖了由不可持续的“鼻血估值”和来自大型科​​技公司的新竞争驱动的结构性陷阱。 Palantir 从 2025 年 11 月的峰值约 207 美元大幅回调至 6 月底的低点 106 美元，引起了寻求折扣的成长型投资者的注意。",
-      "_added_at": "2026-07-10T12:41:02.338409+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-10T09:40:39Z",
-      "headline": "Stock Market Today: Dow Jones Futures Gain, Nasdaq 100 Falls as Investors Await SK Hynix Debut and US Reportedly Mulls ‘Technical Talks’ With Iran— PMGC Holdings, WD-40, Netflix In Focus",
-      "id": 60377462,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stock-Market-Graph-Trading-Analysis-Inve.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stock-Market-Graph-Trading-Analysis-Inve.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/Stock-Market-Graph-Trading-Analysis-Inve.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were mixed on Friday, as the Dow Jones index advanced, while the Nasdaq 100 and S&amp;P 500 indices fell.",
+      "summary": "Standard Chartered has reaffirmed its $100,000 year-end 2026 target for Bitcoin, arguing that recent weakness tied to Strategy reflects a communication challenge, not a deterioration in its financial position. Investors are adjusting to Strategy&#39;s transition from a &#34;never sell Bitcoin&#34; model to using BTC as collateral for its preferred stock business.",
       "symbols": [
         "BTCUSD",
-        "ELAB",
-        "EQPT",
-        "NFLX",
-        "QQQ",
-        "SKHY",
-        "SLP",
-        "SPY",
-        "WDFC"
+        "MSTR",
+        "STRC"
       ],
-      "updated_at": "2026-07-10T09:40:39Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60377462/stock-market-today-dow-jones-futures-gain-nasdaq-100-falls-as-investors-await-sk-hynix-debut-and-us-reportedly-mulls-technical-talks-with-iran-pmgc-holdings-wd-40-netfli",
-      "_summary": "U.S. stock futures were mixed on Friday, as the Dow Jones index advanced, while the Nasdaq 100 and S&P 500 indices fell, following Thursday’s higher close. Meanwhile, the 10-year Treasury bond yielded 4.54%, and the two-year bond was at 4.17%. The CME Group’s FedWatch tool ‘s projections show markets pricing a 79.1% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
-      "_zh_headline": "今日股市：道琼斯期货上涨，纳斯达克 100 指数下跌，投资者等待 SK 海力士上市，据报道美国正在考虑与伊朗进行“技术会谈”——PMGC Holdings、WD-40、Netflix 成为焦点",
-      "_zh_summary": "周五美国股指期货涨跌互现，道琼斯指数上涨，而纳斯达克 100 指数和标准普尔 500 指数在周四收高后下跌。与此同时，10年期国债收益率为4.54%，两年期国债收益率为4.17%。 CME 集团的 FedWatch 工具的预测显示，市场定价美联储在 7 月会议期间维持当前利率不变的可能性为 79.1%。",
-      "_added_at": "2026-07-10T10:00:58.057375+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-10T08:03:24Z",
-      "headline": "Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia",
-      "id": 60376902,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/AMD-Signboard-At-Headquarters.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/AMD-Signboard-At-Headquarters.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/10/AMD-Signboard-At-Headquarters.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ARK Invest reveals AMD chips can already be &#39;more performant than Nvidia chips&#39; per dollar. Learn how AMD challenges Nvidia&#39;s AI reign.",
-      "symbols": [
-        "AMD",
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "META",
-        "NVDA",
-        "ORCL"
-      ],
-      "updated_at": "2026-07-10T08:03:24Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60376902/cathie-woods-ark-says-amd-chips-can-already-be-more-performant-per-dollar-than-nvidia",
-      "_summary": "According to a fresh analysis released by Cathie Wood ‘s ARK Invest, internal research reveals that AMD chips “can already be more performant than Nvidia chips” per dollar on select workloads, highlighting a massive shift in data center cost efficiency. Additionally, the emergence of agentic AI is acting as a major tailwind for AMD’s core chip business.",
-      "_zh_headline": "Cathie Wood 的 ARK 表示 AMD 芯片“性价比已经比 Nvidia 更高”",
-      "_zh_summary": "根据 Cathie Wood 旗下 ARK Invest 发布的最新分析，内部研究表明，在特定工作负载上，AMD 芯片的性价比“已经比 Nvidia 芯片更高”，这凸显了数据中心成本效率的巨大转变。此外，代理人工智能的出现正在成为 AMD 核心芯片业务的主要推动力。",
-      "_added_at": "2026-07-10T10:00:58.057375+00:00"
+      "updated_at": "2026-07-10T21:10:07Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60401882/standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-communication-challenge",
+      "_summary": "In a research note on Friday, Geoffrey Kendrick , Standard Chartered’s global head of digital assets research said, “I see what is happening at MSTR right now as a communication challenge, nothing more,” He argued that investors are still adjusting to Strategy’s shift away from its long-standing “never sell Bitcoin” philosophy toward using Bitcoin as collateral to support its growing preferred stock business.",
+      "_zh_headline": "渣打银行维持 10 万美元比特币目标，称战略抛售是“沟通挑战”",
+      "_zh_summary": "渣打银行全球数字资产研究主管杰弗里·肯德里克 (Geoffrey Kendrick) 在周五的一份研究报告中表示，“我认为 MSTR 目前发生的情况是一个沟通挑战，仅此而已。”他认为，投资者仍在适应 Strategy 从其长期的“绝不出售比特币”理念转向使用比特币作为抵押品以支持其不断增长的优先股业务的转变。",
+      "_added_at": "2026-07-11T06:36:38.363840+00:00"
     }
   ]
 }
