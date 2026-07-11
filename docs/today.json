@@ -2,6 +2,41 @@
   "date": "2026-07-11",
   "articles": [
     {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-11T08:03:13Z",
+      "headline": "'OpenAI Is Burning It Down With One Mag 7 After Another'— Apple's Trade Secret Lawsuit Has Tech Analysts Talking and Elon Musk Saying That 'Sounds Pretty Bad'",
+      "id": 60403807,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "OpenAI drew criticism from Daniel Newman and Elon Musk after Apple sued the AI company over alleged trade secret theft.",
+      "symbols": [
+        "AAPL",
+        "MSFT",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-11T08:03:13Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60403807/openai-is-burning-it-down-with-one-mag-7-after-another-apples-trade-secret-lawsuit-has-tech-analysts-talking-and-elon-musk-saying-that-sounds-pretty-bad",
+      "_summary": "Reacting to Apple’s lawsuit filed Friday in the U.S. District Court for the Northern District of California, Newman suggested OpenAI’s relationships with some of the world’s biggest technology companies are rapidly deteriorating. “OpenAI burning it down with one Mag 7 after another. First $MSFT and now $AAPL,” Newman wrote on X. His remarks came as Apple accused OpenAI of misappropriating trade secrets to accelerate the development of consumer AI devices.",
+      "_zh_headline": "“OpenAI 正在用 Mag 7 来摧毁它”——苹果的商业秘密诉讼让技术分析师议论纷纷，埃隆·马斯克表示“听起来很糟糕”",
+      "_zh_summary": "针对苹果周五向美国加州北区地方法院提起的诉讼，纽曼表示 OpenAI 与一些全球最大科技公司的关系正在迅速恶化。纽曼在 X 上写道：“OpenAI 用一台又一台 Mag 7 烧毁了它。先是 $MSFT，现在是 $AAPL。”他发表此番言论之际，苹果公司指责 OpenAI 盗用商业机密以加速消费人工智能设备的开发。",
+      "_added_at": "2026-07-11T09:08:02.472787+00:00"
+    },
+    {
       "author": "Mohd Haider",
       "content": "",
       "created_at": "2026-07-11T04:57:39Z",
