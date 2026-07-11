@@ -2,6 +2,56 @@
   "date": "2026-07-11",
   "articles": [
     {
+      "headline": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-11T13:26:24+00:00",
+      "_summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+      "_zh_headline": "以色列袭击了伊朗的钢铁设施。它是有效的军事目标吗？",
+      "_zh_summary": "战争期间，以色列袭击了伊朗的钢铁厂，称它们为军队提供了收入和制造武器的手段，但也损害了民用经济。",
+      "_added_at": "2026-07-11T14:35:56.056148+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-11T13:01:17Z",
+      "headline": "Before BlackRock Became Untouchable, Carl Icahn Told Larry Fink His $4.8 Trillion Empire Was Protecting Bad CEOs— And He Had a $9 Billion Example to Prove It",
+      "id": 60404081,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/June-2--2022-Blackrock-Ceo-Larry-Fink-On.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/June-2--2022-Blackrock-Ceo-Larry-Fink-On.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/June-2--2022-Blackrock-Ceo-Larry-Fink-On.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Carl Icahn blasted Larry Fink and BlackRock in 2015, accusing the asset manager of protecting Motorola&#39;s management over shareholders.",
+      "symbols": [
+        "AAPL",
+        "BLK",
+        "GOOG",
+        "GOOGL",
+        "MSI",
+        "NOK",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-11T13:01:17Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60404081/before-blackrock-became-untouchable-carl-icahn-told-larry-fink-his-4-8-trillion-empire-was-protecting-bad-ceos-and-he-had-a-9-billion-example-to-prove-it",
+      "_summary": "Icahn also argued that BlackRock’s immense influence, managing about $4.8 trillion at the time, allowed it to protect entrenched management teams instead of supporting shareholder-driven reforms. “….you use it to protect these guys as long as they do what you want,” said Icahn. While emphasizing that he respected Fink personally, Icahn said BlackRock’s voting practices were “very dangerous” for U.S. capital markets because they discouraged accountability and meaningful corporate change.",
+      "_zh_headline": "在贝莱德变得铁面无私之前，卡尔·伊坎告诉拉里·芬克，他的 4.8 万亿美元帝国正在保护糟糕的首席执行官——他有一个 90 亿美元的例子来证明这一点",
+      "_zh_summary": "伊坎还认为，贝莱德的巨大影响力（当时管理着约 4.8 万亿美元）使其能够保护根深蒂固的管理团队，而不是支持股东驱动的改革。 “......你用它来保护这些人，只要他们做你想做的事，”伊坎说。伊坎强调他个人尊重芬克，但他表示贝莱德的投票做法对美国资本市场“非常危险”，因为它们不利于问责制和有意义的企业变革。",
+      "_added_at": "2026-07-11T14:35:56.056148+00:00"
+    },
+    {
       "author": "Benzinga Senior Editor",
       "content": "",
       "created_at": "2026-07-11T12:01:31Z",
