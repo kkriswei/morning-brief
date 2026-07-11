@@ -2,6 +2,39 @@
   "date": "2026-07-11",
   "articles": [
     {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-11T15:02:20Z",
+      "headline": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
+      "id": 60404213,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Paris--France---June-16--2023-Elon-Musk-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Paris--France---June-16--2023-Elon-Musk-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Paris--France---June-16--2023-Elon-Musk-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A look at the wealth of Elon Musk compared to the salary of the president of the United States.",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-11T15:02:20Z",
+      "url": "https://www.benzinga.com/news/topics/26/07/60404213/elon-musk-is-so-rich-the-president-would-need-to-hold-office-for-2-37-million-years-to-catch-up",
+      "_summary": "Here’s a look at how Musk’s wealth compares to the annual salary of one of the top jobs in America, the president of the United States. Musk’s net worth is so large that sometimes crazy comparisons like him being able to buy every MLB, NBA, NFL and NHL team combined have to be used to put the large amounts into perspective. Bloomberg currently ranks Musk first with a wealth of $947 billion, with a gain of $328 billion in 2026, thanks in large part to SpaceX.",
+      "_zh_headline": "埃隆·马斯克太富有了，总统需要任职 237 万年才能赶上",
+      "_zh_summary": "以下是马斯克的财富与美国最高职位之一——美国总统的年薪的比较。马斯克的净资产如此之大，以至于有时必须进行一些疯狂的比较，比如他能够买下所有 MLB、NBA、NFL 和 NHL 球队的总和，才能正确看待这笔巨额资金。彭博社目前将马斯克以 9470 亿美元的财富排名第一，到 2026 年将增加 3280 亿美元，这在很大程度上要归功于 SpaceX。",
+      "_added_at": "2026-07-11T16:26:34.654132+00:00"
+    },
+    {
       "headline": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
       "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
       "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
