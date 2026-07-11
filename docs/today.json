@@ -2,6 +2,86 @@
   "date": "2026-07-11",
   "articles": [
     {
+      "author": "Benzinga Senior Editor",
+      "content": "",
+      "created_at": "2026-07-11T12:01:31Z",
+      "headline": "Benzinga Bulls and Bears: Penguin Solutions, Draftkings, Palantir — And Stocks End Week With Solid Gains",
+      "id": 60403984,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Bulls-and-Bears-1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Bulls-and-Bears-1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/Bulls-and-Bears-1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+      "symbols": [
+        "AVGO",
+        "CMCSA",
+        "CRNX",
+        "DKNG",
+        "FLUT",
+        "FOX",
+        "FOXA",
+        "INTC",
+        "MDA",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "PENG",
+        "PLTR",
+        "RIVN",
+        "RXT",
+        "ZIM"
+      ],
+      "updated_at": "2026-07-11T12:01:31Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60403984/benzinga-bulls-and-bears-penguin-solutions-draftkings-palantir-and-stocks-end-week-with-solid-gains",
+      "_summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories. Despite the positive momentum, investors remain focused on upcoming earnings reports and economic data that could shape the market’s next move. Treasury yields stayed elevated as traders weighed the possibility of higher-for-longer interest rates, while analysts cautioned that lofty valuations in AI-linked stocks leave little room for disappointment.",
+      "_zh_headline": "Benzinga 牛市和熊市：Penguin Solutions、Draftkings、Palantir — 以及股票周末均录得强劲上涨",
+      "_zh_summary": "本辛加上周研究了许多投资者最喜欢的股票的前景——以下是我们的一些热门报道。尽管势头积极，投资者仍关注即将发布的收益报告和可能影响市场下一步走势的经济数据。由于交易员权衡利率长期走高的可能性，美国国债收益率保持高位，而分析师警告称，人工智能相关股票的高估值不会让人失望。",
+      "_added_at": "2026-07-11T12:30:41.382246+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-11T03:36:26Z",
+      "headline": "Meta Pulls AI Image Feature After Privacy Backlash, Admits It 'Missed the Mark' Amid SAG-AFTRA Criticism",
+      "id": 60402849,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/New-York--Usa---14-December-2024-Meta-Pl.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/New-York--Usa---14-December-2024-Meta-Pl.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/11/New-York--Usa---14-December-2024-Meta-Pl.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Meta discontinued its AI image-generation feature just days after launch, admitting it &#34;missed the mark&#34; following privacy backlash.",
+      "symbols": [
+        "META"
+      ],
+      "updated_at": "2026-07-11T03:36:26Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60402849/meta-pulls-ai-image-feature-after-privacy-backlash-admits-it-missed-the-mark-amid-sag-aftra-criticism",
+      "_summary": "The tool, integrated into the Meta AI chatbot, allowed users to generate and edit AI-created images using public Instagram photos as input. Critics, however, argued the feature was enabled by default rather than requiring users to opt in. “Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,” Meta said in a statement.",
+      "_zh_headline": "Meta 在隐私强烈反对后撤回了 AI 图像功能，在 SAG-AFTRA 批评中承认它“没有达到目标”",
+      "_zh_summary": "该工具集成到 Meta AI 聊天机器人中，允许用户使用 Instagram 公开照片作为输入来生成和编辑人工智能创建的图像。然而，批评者认为该功能是默认启用的，而不是要求用户选择加入。“我们的目的是提供一个有用的创意工具，并让人们控制是否可以通过这种方式引用他们的公共内容，”Meta 在一份声明中表示。",
+      "_added_at": "2026-07-11T12:30:41.382246+00:00"
+    },
+    {
       "author": "Henry Khederian",
       "content": "",
       "created_at": "2026-07-10T18:59:37Z",
