@@ -2,6 +2,44 @@
   "date": "2026-07-12",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-12T16:51:11Z",
+      "headline": "SpaceX Stock Hits All-Time Low as Analysts Predict a 65% Surge",
+      "id": 60405405,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/The-Spacex-Logo-Is-Displayed-On-A-Mobile.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/The-Spacex-Logo-Is-Displayed-On-A-Mobile.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/The-Spacex-Logo-Is-Displayed-On-A-Mobile.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SpaceX stock has tumbled to a record low as top Wall Street analysts predict a 65% surge in the near term, pointing to its strong growth.",
+      "symbols": [
+        "C",
+        "GS",
+        "MORN",
+        "MS",
+        "SPCX",
+        "TSLA",
+        "WFC"
+      ],
+      "updated_at": "2026-07-12T16:51:11Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60405405/spacex-stock-hits-all-time-low-as-analysts-predict-a-65-surge",
+      "_summary": "Most Wall Street analysts tracking SpaceX have a favorable rating on its shares. Benzinga data shows that the consensus target for the stock is $237, up by 65% from the current level. The general view among analysts is that SpaceX is a major player in some of the biggest industries today. It is the largest name in broadband internet through its StarLink solution. It has also become a top player in the satellite launch industry.",
+      "_zh_headline": "分析师预测 SpaceX 股价将飙升 65%，股价创历史新低",
+      "_zh_summary": "大多数追踪 SpaceX 的华尔街分析师都对其股票给予好评。 Benzinga 数据显示，该股的共识目标为 237 美元，较当前水平上涨 65%。分析师普遍认为 SpaceX 是当今一些最大行业的主要参与者。它通过其 StarLink 解决方案成为宽带互联网领域最大的品牌。也成为卫星发射行业的顶尖玩家。",
+      "_added_at": "2026-07-12T17:34:06.865710+00:00"
+    },
+    {
       "author": "Badar Shaikh",
       "content": "",
       "created_at": "2026-07-12T15:01:49Z",
