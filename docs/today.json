@@ -2,6 +2,104 @@
   "date": "2026-07-12",
   "articles": [
     {
+      "author": "Lekha Gupta",
+      "content": "",
+      "created_at": "2026-07-12T11:31:11Z",
+      "headline": "Consumer Tech News (July 6-10): Micron Plans $250B US Expansion, Apple Signs $30B Broadcom Deal & More",
+      "id": 60405076,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/AI-technology-bubble-concept.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/AI-technology-bubble-concept.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/AI-technology-bubble-concept.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple partners with Broadcom on a multiyear agreement exceeding $30 billion to develop custom silicon and advanced connectivity technologies in America.",
+      "symbols": [
+        "AAPL",
+        "AVGO",
+        "BABA",
+        "BMWKY",
+        "BOX",
+        "BZFD",
+        "CERT",
+        "CRM",
+        "DELL",
+        "F",
+        "FCEL",
+        "HOOD",
+        "IPCEF",
+        "META",
+        "MSFT",
+        "MU",
+        "NET",
+        "NFLX",
+        "NOK",
+        "NVDA",
+        "ORCL",
+        "PENG",
+        "PLTR",
+        "RIVN",
+        "SILO",
+        "SPCX",
+        "SSNLF",
+        "TM",
+        "TSLA",
+        "TSM"
+      ],
+      "updated_at": "2026-07-12T11:31:11Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405076/consumer-tech-news-july-6-10-micron-plans-250b-us-expansion-apple-signs-30b-broadcom-deal-more",
+      "_summary": "Apple partners with Broadcom on a multiyear agreement exceeding $30 billion to develop custom silicon and advanced connectivity technologies in America.",
+      "_zh_headline": "消费者科技新闻（7 月 6 日至 10 日）：美光计划在美国扩张 250 亿美元，苹果与博通签署 300 亿美元交易等",
+      "_zh_summary": "Apple 与 Broadcom 达成了一项价值超过 300 亿美元的多年期协议，在美国开发定制芯片和先进的连接技术。",
+      "_added_at": "2026-07-12T11:38:34.591791+00:00"
+    },
+    {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-12T11:01:10Z",
+      "headline": "Apple Sues OpenAI, Dependence on TSMC, Rise in Prices and More: This Week in Appleverse",
+      "id": 60405045,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Apple-logo-is-seen-at-the-Apple-Wangfuji.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Apple-logo-is-seen-at-the-Apple-Wangfuji.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Apple-logo-is-seen-at-the-Apple-Wangfuji.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple sued OpenAI over alleged trade-secret misuse, while Nvidia, AI demand and agentic AI trends dominated the weekend’s top tech stories.",
+      "symbols": [
+        " MU",
+        "AAPL",
+        "MU",
+        "NKE",
+        "NVDA",
+        "WMT"
+      ],
+      "updated_at": "2026-07-12T11:01:10Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405045/apple-sues-openai-dependence-on-tsmc-rise-in-prices-and-more-this-week-in-appleverse",
+      "_summary": "It was a busy weekend in the tech world. Here’s a quick roundup of the top stories that you might have missed. Apple may see its biggest artificial intelligence opportunity come from the Mac rather than the iPhone, as AI-powered features and improved computing capabilities could drive demand for its personal computers. With Apple continuing to invest in AI integration across its ecosystem, Macs could become a key platform for delivering next-generation AI experiences to consumers and professionals.",
+      "_zh_headline": "苹果起诉 OpenAI、对台积电的依赖、价格上涨等：本周 Appleverse",
+      "_zh_summary": "这是科技界一个忙碌的周末。以下是您可能错过的热门新闻的快速综述。苹果可能会看到其最大的人工智能机会来自 Mac 而不是 iPhone，因为人工智能驱动的功能和改进的计算能力可能会推动对其个人电脑的需求。随着苹果继续投资于整个生态系统的人工智能集成，Mac 可能成为向消费者和专业人士提供下一代人工智能体验的关键平台。",
+      "_added_at": "2026-07-12T11:38:34.591791+00:00"
+    },
+    {
       "headline": "Hard-Liners in Iran Want to Keep Fighting America",
       "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.",
       "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
