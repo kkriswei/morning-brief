@@ -2,6 +2,107 @@
   "date": "2026-07-12",
   "articles": [
     {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-12T13:01:59Z",
+      "headline": "Elon Musk's Feud With Sam Altman, Howard Lutnick's Message and More: This Week in Tech",
+      "id": 60405177,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Elon-Musk.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Elon-Musk.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Elon-Musk.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Elon Musk’s Anthropic comments, feud with Sam Altman, Starlink milestone and AI market concerns shaped the weekend’s top tech stories.",
+      "symbols": [
+        " MU",
+        "AAPL",
+        "MU",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-12T13:01:59Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405177/elon-musks-feud-with-sam-altman-howard-lutnicks-message-and-more-this-week-in-tech",
+      "_summary": "Elon Musk publicly acknowledged his earlier misjudgment of Anthropic , a leading AI company. Musk also pledged not to misuse SpaceXAI’s computing power to harm Anthropic, despite being a competitor. On Thursday, Musk admitted, “I was clearly wrong about Anthropic.” He also acknowledged Anthropic’s current AI leadership and its forthcoming Mythos 2 model. Musk further assured that he would not use SpaceXAI’s compute leverage to harm Anthropic, despite being a competitor. “That’s not my style,” he wrote.",
+      "_zh_headline": "埃隆·马斯克与萨姆·奥尔特曼的不和、霍华德·卢特尼克的信息等：本周科技",
+      "_zh_summary": "埃隆·马斯克公开承认了他之前对人工智能领先公司 Anthropic 的错误判断。马斯克还承诺，尽管是竞争对手，但不会滥用 SpaceXAI 的计算能力来伤害 Anthropic。 周四，马斯克承认，“我对人择的看法显然是错误的。”他还承认 Anthropic 目前在人工智能领域的领导地位及其即将推出的 Mythos 2 模型。马斯克进一步保证，尽管是竞争对手，但他不会利用 SpaceXAI 的计算优势来伤害 Anthropic。 “那不是我的风格，”他写道。",
+      "_added_at": "2026-07-12T14:05:51.669020+00:00"
+    },
+    {
+      "author": "Badar Shaikh",
+      "content": "",
+      "created_at": "2026-07-12T13:31:04Z",
+      "headline": "This Week in Tesla: Model Y Tops Sales, NHTSA Demands Autonomous Vehicles Fix and More",
+      "id": 60405206,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A look back at all the top stories about Tesla and CEO Elon Musk this week, including new Model Y sales milestone and more.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-12T13:31:04Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405206/this-week-in-tesla-model-y-tops-sales-nhtsa-demands-autonomous-vehicles-fix-and-more",
+      "_summary": "From the Model Y emerging as a Chinese best-seller to Robotaxis facing criticism from NHTSA, Tesla Inc. (NASDAQ: TSLA ) has had an eventful week. Here’s a look at some of the headlines from this week. Tesla’s Model Y SUV reclaimed the title of China’s best-selling vehicle in June. This comes as the automaker’s Q2 2026 delivery figures also exceeded Wall Street expectations, with over 480,000 units delivered.",
+      "_zh_headline": "本周特斯拉：Model Y 销量高居榜首、NHTSA 要求自动驾驶汽车修复等",
+      "_zh_summary": "从 Model Y 成为中国畅销车型，到 Robotaxis 面临 NHTSA 的批评，特斯拉公司（纳斯达克股票代码：TSLA）度过了多事的一周。以下是本周的一些头条新闻。特斯拉 Model Y SUV 6 月重新夺得中国最畅销汽车称号。与此同时，该汽车制造商 2026 年第二季度的交付量也超出了华尔街的预期，交付量超过 48 万辆。",
+      "_added_at": "2026-07-12T14:05:51.669020+00:00"
+    },
+    {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-12T12:43:38Z",
+      "headline": "Elon Musk's Tesla Faces Potential Roadblock, Rivian's Demand Soars And More: This Week In Mobility",
+      "id": 60405150,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Elon-Musk--founder--CEO--and-chief-engin.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Elon-Musk--founder--CEO--and-chief-engin.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Elon-Musk--founder--CEO--and-chief-engin.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla’s robotaxi expansion, Rivian’s delivery outlook, airline pricing and Cybercab accessibility features shaped the weekend’s headlines.",
+      "symbols": [
+        "RIVN",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-12T12:43:43Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405150/elon-musks-tesla-faces-potential-roadblock-rivians-demand-soars-and-more-this-week-in-mobility",
+      "_summary": "It’s time for a weekend recap! Here’s a quick overview of some of the most important stories that happened over the weekend. Economist Robert Reich has publicly criticized the Trump administration’s decision to ease the rules governing the marketing of airline ticket prices. Reich stated that the original rule was initiated in response to complaints from flyers who felt deceived when purchasing tickets. Elon Musk highlighted the accessibility features of Tesla’s Cybercab robotaxi for blind users.",
+      "_zh_headline": "埃隆·马斯克 (Elon Musk) 的特斯拉面临潜在的障碍，Rivian 的需求飙升等等：本周的移动出行",
+      "_zh_summary": "是时候回顾一下周末了！以下是周末发生的一些最重要故事的快速概述。经济学家罗伯特·赖克公开批评特朗普政府放宽机票价格营销规则的决定。赖克表示，最初的规定是为了回应那些在购票时感到受骗的乘客的投诉而制定的。埃隆·马斯克强调了特斯拉 Cyber​​cab 机器人出租车为盲人用户提供的无障碍功能。",
+      "_added_at": "2026-07-12T14:05:51.669020+00:00"
+    },
+    {
       "author": "Lekha Gupta",
       "content": "",
       "created_at": "2026-07-12T11:31:11Z",
