@@ -2,6 +2,46 @@
   "date": "2026-07-12",
   "articles": [
     {
+      "author": "Badar Shaikh",
+      "content": "",
+      "created_at": "2026-07-12T15:01:49Z",
+      "headline": "Tesla, Rivian Beat Expectations as Ford, GM Face Tough Quarter",
+      "id": 60405306,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Focused-Shot-Capturing-Elon-Musk-Alongsi.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Focused-Shot-Capturing-Elon-Musk-Alongsi.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Focused-Shot-Capturing-Elon-Musk-Alongsi.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Here&#39;s a list of delivery figures in the second quarter of 2026 from the like of Tesla, BYD, Ford, GM and more.",
+      "symbols": [
+        "BYDDF",
+        "BYDDY",
+        "F",
+        "GM",
+        "LCID",
+        "RIVN",
+        "STLA",
+        "TM",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-12T15:01:49Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405306/tesla-rivian-beat-expectations-as-ford-gm-face-tough-quarter",
+      "_summary": "With delivery figures for major automakers in the U.S. and overseas now in, we can take a look at all the winners and losers during the second quarter of 2026. Widening the gap against Tesla by over 160,000 units. BYD’s figures illustrate its strong overseas exports push into Europe, Southeast Asia, and Latin America. The automaker’s June sales also expanded by 5.5% in June .",
+      "_zh_headline": "特斯拉、Rivian 超出预期，福特、通用汽车面临艰难的季度",
+      "_zh_summary": "随着美国和海外主要汽车制造商的交付数据公布，我们可以看看 2026 年第二季度的所有赢家和输家。与特斯拉的差距扩大了超过 16 万辆。比亚迪的数据表明其海外出口强劲，进入欧洲、东南亚和拉丁美洲。该汽车制造商6月销量也增长了5.5%。",
+      "_added_at": "2026-07-12T15:34:52.851137+00:00"
+    },
+    {
       "author": "Mohd Haider",
       "content": "",
       "created_at": "2026-07-12T13:01:59Z",
