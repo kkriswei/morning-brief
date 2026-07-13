@@ -2,6 +2,124 @@
   "date": "2026-07-13",
   "articles": [
     {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-13T06:09:27Z",
+      "headline": "Nvidia, Micron, Broadcom, Applied Materials Set to Generate $430 Billion in Free Cash Flow as Tech Giants Bleed Cash",
+      "id": 60406621,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AI chipmakers are set to generate record cash flow while hyperscalers burn through record capital on AI infrastructure.",
+      "symbols": [
+        "AMAT",
+        "AMZN",
+        "AVGO",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "ORCL",
+        "QQQ",
+        "SMH",
+        "SOXL",
+        "SOXX",
+        "VGT",
+        "XLK"
+      ],
+      "updated_at": "2026-07-13T06:09:27Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60406621/nvidia-micron-broadcom-and-applied-materials-set-to-generate-430-billion-in-free-cash-flow",
+      "_summary": "Semiconductor companies are poised to become the biggest cash generators of the artificial intelligence boom, while the technology giants spending on AI infrastructure are expected to burn through record amounts of capital. SMH and SOXX have gained 63.68% and 85.32%, respectively, year to date, and returned 114.16% and 138.42% over the past year. SOXL has gained 306.99% year-to-date and 625.51% over the past year.",
+      "_zh_headline": "随着科技巨头的现金流失，英伟达、美光、博通、应用材料公司将产生 4300 亿美元的自由现金流",
+      "_zh_summary": "半导体公司有望成为人工智能热潮中最大的现金产生者，而在人工智能基础设施上投入的科技巨头预计将消耗创纪录的资本。 SMH 和 SOXX 今年迄今分别上涨了 63.68% 和 85.32%，去年回报率分别为 114.16% 和 138.42%。 SOXL 今年迄今上涨了 306.99%，去年上涨了 625.51%。",
+      "_added_at": "2026-07-13T08:33:19.641459+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-13T08:09:15Z",
+      "headline": "Looking Beyond the S&P 500? This Vanguard Tech ETF Has Averaged 25% Annual Returns",
+      "id": 60407289,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Discover why the Vanguard Tech ETF (VGT) is crushing the S&amp;P 500. Driven by the AI boom, this high-growth fund averages 25% annual returns.",
+      "symbols": [
+        "AAPL",
+        "NVDA",
+        "VGT",
+        "VOO"
+      ],
+      "updated_at": "2026-07-13T08:09:15Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60407289/looking-beyond-the-sp-500-this-vanguard-tech-etf-has-averaged-25-annual-returns",
+      "_summary": "This massive growth is primarily fueled by an artificial intelligence (AI) boom that has turned technology stocks into one of the broader economy’s most powerful earnings engines. Recent performance metrics underscore this relentless market momentum; VGT is currently up 5.11% over the last month, 25.32% year-to-date, 40.03% over the past year, and a massive 132.04% over the last five years. However, these returns come with significant trade-offs that retail investors must carefully weigh.",
+      "_zh_headline": "超越标准普尔 500 指数？该 Vanguard Tech ETF 的平均年回报率为 25%",
+      "_zh_summary": "这种巨大的增长主要是由人工智能（AI）热潮推动的，人工智能（AI）热潮已将科技股变成了更广泛的经济最强大的盈利引擎之一。最近的业绩指标凸显了这种持续不断的市场势头； VGT 目前较上个月上涨 5.11%，今年迄今上涨 25.32%，较去年上涨 40.03%，较过去五年大幅上涨 132.04%。然而，这些回报伴随着散户投资者必须仔细权衡的重大权衡。",
+      "_added_at": "2026-07-13T08:33:19.641459+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-13T08:22:28Z",
+      "headline": "Mark Cuban Pushes Back on AI Doctors, Says Healthcare Conglomerates Will 'Delay and Deny' Progress",
+      "id": 60407313,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Los-Angeles---Jan-8-Mark-Cuban-At-The-Sp.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Los-Angeles---Jan-8-Mark-Cuban-At-The-Sp.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Los-Angeles---Jan-8-Mark-Cuban-At-The-Sp.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Mark Cuban warned healthcare conglomerates will resist AI doctors to protect profits, pushing back on Marc Andreessen.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "RHHBY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-13T08:22:28Z",
+      "url": "https://www.benzinga.com/news/health-care/26/07/60407313/mark-cuban-pushes-back-on-ai-doctors-says-healthcare-conglomerates-will-delay-and-deny-progress",
+      "_summary": "Billionaire entrepreneur Mark Cuban expressed skepticism about the effectiveness of artificial intelligence (AI) in healthcare, highlighting the challenges posed by healthcare conglomerates. On Sunday, Cuban took to X to argue that the increasing use of AI in the sector is not necessarily beneficial due to the interference of healthcare conglomerates.",
+      "_zh_headline": "马克·库班回击人工智能医生，称医疗保健集团将“推迟和否认”进展",
+      "_zh_summary": "亿万富翁企业家马克·库班对人工智能 (AI) 在医疗保健领域的有效性表示怀疑，强调了医疗保健集团带来的挑战。周日，Cuban 在 X 网站上辩称，由于医疗保健集团的干扰，人工智能在该领域的日益使用并不一定有益。",
+      "_added_at": "2026-07-13T08:33:19.641459+00:00"
+    },
+    {
       "author": "Crispus Nyaga",
       "content": "",
       "created_at": "2026-07-12T19:31:09Z",
