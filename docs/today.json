@@ -2,6 +2,228 @@
   "date": "2026-07-13",
   "articles": [
     {
+      "author": "Snigdha Gairola",
+      "content": "",
+      "created_at": "2026-07-13T09:08:25Z",
+      "headline": "Mark Zandi Says June Jobs Report Was Weaker Than It Looked as Labor Force Participation Fell",
+      "id": 60407651,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Plus-Size-Hispanic-Man-With-Beard-Workin.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Plus-Size-Hispanic-Man-With-Beard-Workin.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Plus-Size-Hispanic-Man-With-Beard-Workin.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Zandi says the June jobs report masked labor market weakness, warning that unemployment would top 5% without the decline in labor force participation.",
+      "symbols": [],
+      "updated_at": "2026-07-13T09:08:25Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60407651/mark-zandi-says-june-jobs-report-was-weaker-than-it-looked-as-labor-force-participation-fell",
+      "_summary": "Economist Mark Zandi argued that the June employment report painted an overly optimistic picture of the U.S. labor market, saying several underlying indicators point to a much weaker economy than the headline figures suggest. On Sunday, in a series of posts on X , Zandi said commentary surrounding the June jobs report was \"much too dismissive of how weak the numbers looked, all the noise in the data notwithstanding.\" Zandi noted that payroll employment posted only a modest gain in June, while prior months’ job gains were revised downward. He also said most of the hiring came from the healthcare sector rather than being broadly distributed across the economy. \"Not only did employment as measured by the payroll survey post a small gain in the month, but previous month’s gains were revised much lower, and the bulk of the job gains were in healthcare,\" Zandi wrote.",
+      "_zh_headline": "马克·赞迪 (Mark Zandi) 表示，六月就业报告比看上去要弱，因为劳动力参与率下降",
+      "_zh_summary": "经济学家马克·赞迪(Mark Zandi)认为，6月就业报告描绘了美国劳动力市场过于乐观的景象，他表示，一些基本指标表明经济比总体数据要弱得多。周日，赞迪在 X 上的一系列帖子中表示，围绕 6 月份就业报告的评论“尽管数据中存在诸多噪音，但对数据看起来的疲软程度过于轻视”。赞迪指出，六月份就业人数仅小幅增长，​​而前几个月的就业增长则被向下修正。他还表示，大部分招聘来自医疗保健行业，而不是广泛分布在整个经济领域。赞迪写道：“根据薪资调查衡量的就业人数不仅在本月出现小幅增长，​​而且上个月的增长幅度也被修正得更低，而且大部分就业增长来自医疗保健领域。”",
+      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-13T10:00:32Z",
+      "headline": "Stock Market Today: Dow Futures Gain, S&P 500 Slips as US and Iran Exchange Strikes—Saratoga, Exxon Mobil, Levi Strauss in Focus",
+      "id": 60408205,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures were mixed on Monday, as the Dow Jones index advanced, while the Nasdaq 100 and S&amp;P 500 indices fell.",
+      "symbols": [
+        "BTCUSD",
+        "FBK",
+        "OXY",
+        "QQQ",
+        "QTTB",
+        "SKHYV",
+        "SPY",
+        "TSM"
+      ],
+      "updated_at": "2026-07-13T10:00:32Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60408205/stock-market-today-dow-futures-gain-sp-500-slips-as-us-and-iran-exchange-strikes-saratoga-exxon-mobil-levi-strauss-in-focus",
+      "_summary": "U.S. stock futures were mixed on Monday, as the Dow Jones index advanced, while the Nasdaq 100 and S&P 500 indices fell, following Friday’s higher close. Investors eye major economic updates this week, including June CPI and PPI data, along with retail sales and the Federal Reserve officials’ commentary. Meanwhile, the 10-year Treasury bond yielded 4.57%, and the two-year bond was at 4.22%.",
+      "_zh_headline": "今日股市：美国和伊朗交易所罢工，道琼斯指数期货上涨，标准普尔 500 指数下跌 - 萨拉托加、埃克森美孚、李维斯成为焦点",
+      "_zh_summary": "周一美国股指期货涨跌互现，道琼斯指数上涨，而纳斯达克 100 指数和标准普尔 500 指数在周五收盘走高后下跌。投资者关注本周的主要经济动态，包括 6 月 CPI 和 PPI 数据，以及零售销售和美联储官员的评论。与此同时，10年期国债收益率为4.57%，两年期国债收益率为4.22%。",
+      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-13T11:37:00Z",
+      "headline": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
+      "id": 60410281,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Meta expands its Hyperion AI data, pushing investment past $50 billion with Louisiana tax incentives and infrastructure spending.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT"
+      ],
+      "updated_at": "2026-07-13T11:37:00Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project",
+      "_summary": "Meta Platforms Inc. (NASDAQ: META ) has significantly ramped up its investment in the Hyperion data center project in Louisiana. The project’s cost now surpasses a whopping $50 billion. The company’s Monday blog post revealed that the Richland Parish-based data center, set to be its largest, will be a 5 GW facility. This is a considerable jump from the initial investment and 2GW plan announced in October when Meta and Blue Owl Capital partnered for the project’s construction and management.",
+      "_zh_headline": "马克·扎克伯格 (Mark Zuckerberg) 的 Meta 刚刚加大了迄今为止最大的人工智能赌注，将其 Hyperion 数据中心扩建为价值超过 500 亿美元的项目",
+      "_zh_summary": "Meta Platforms Inc.（纳斯达克股票代码：META）大幅增加了对路易斯安那州 Hyperion 数据中心项目的投资。该项目的成本目前已超过 500 亿美元。该公司周一的博客文章透露，位于 Richland Parish 的数据中心将成为该公司最大的数据中心，容量将达到 5 吉瓦。这与 10 月份 Meta 和 Blue Owl Capital 合作进行该项目建设和管理时宣布的初始投资和 2GW 计划相比有相当大的飞跃。",
+      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-13T08:51:06Z",
+      "headline": "Economist Justin Wolfers Says 'the Puzzle' Behind Record Highs 'Goes Away' Once You Take Out AI",
+      "id": 60407505,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Economist Justin Wolfers said record U.S. stock highs are being driven largely by AI-linked companies, masking weaker broader markets.",
+      "symbols": [
+        "AMAT",
+        "AVGO",
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-13T08:51:06Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60407505/economist-justin-wolfers-says-the-puzzle-behind-record-highs-goes-away-once-you-take-out-ai",
+      "_summary": "Economist Justin Wolfers on Sunday said the U.S. stock market’s record-setting rally is being driven largely by a handful of artificial intelligence-linked companies, masking what he described as a much less impressive performance across the broader market. In a video posted on X, Wolfers refers to a Goldman Sachs index that excludes major AI companies as well as businesses that supply or benefit from the sector. “The puzzle for why stocks keep hitting new highs goes away the moment you take out AI,” Wolfers added.",
+      "_zh_headline": "经济学家贾斯汀·沃尔弗斯表示，一旦剔除人工智能，创纪录高点背后的“谜团”就会“消失”",
+      "_zh_summary": "经济学家贾斯汀·沃尔弗斯周日表示，美国股市创纪录的上涨主要是由少数与人工智能相关的公司推动的，掩盖了他所描述的整个市场的不那么令人印象深刻的表现。在 X 上发布的一段视频中，沃尔弗斯提到了高盛指数，该指数排除了主要人工智能公司以及为该行业提供服务或从中受益的企业。沃尔弗斯补充道：“一旦人工智能问世，为什么股市不断创出新高的谜题就消失了。”",
+      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-13T09:54:34Z",
+      "headline": "Taiwan Semiconductor’s AI Boom Rolls On: June Revenue Jumps 68%",
+      "id": 60408014,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Taiwan Semiconductor reports a 67.9% YoY surge in June revenue as tech giants scramble for AI infrastructure chips.",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "NVDA",
+        "TSM"
+      ],
+      "updated_at": "2026-07-13T09:59:03Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60408014/taiwan-semiconductors-ai-boom-rolls-on-june-revenue-jumps-68",
+      "_summary": "The world’s largest contract chipmaker said June consolidated revenue rose 6.2% from May to 442.68 billion New Taiwan dollars (about $15.1 billion). Revenue climbed 67.9% from the same month last year. For the first six months of 2026, Taiwan Semiconductor generated consolidated revenue of 2.40 trillion New Taiwan dollars, up 35.6% from the corresponding period in 2025.",
+      "_zh_headline": "台积电AI热潮袭来：6月营收大增68%",
+      "_zh_summary": "这家全球最大的代工芯片制造商表示，6 月份综合营收较 5 月份增长 6.2%，达到 4,426.8 亿新台币（约合 151 亿美元）。收入较去年同月增长 67.9%。 2026年前六个月，台积电合并营收为2.4万亿新台币，较2025年同期增长35.6%。",
+      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-13T12:03:06Z",
+      "headline": "Porch Group, Micron And Other Big Stocks Moving Lower In Monday’s Pre-Market Session",
+      "id": 60411047,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Display-Of-Stock-Market-Quotes.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Display-Of-Stock-Market-Quotes.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures lower, Porch Group Inc (NASDAQ: PRCH) downgraded, pre-market trading sees several other stocks declining.",
+      "symbols": [
+        "AVR",
+        "COHU",
+        "DCX",
+        "FIZZ",
+        "GMM",
+        "JLHL",
+        "KEP",
+        "MU",
+        "PLBL",
+        "PRCH",
+        "SNDK",
+        "TOP",
+        "TRIP",
+        "VCRE",
+        "WDC",
+        "YSG"
+      ],
+      "updated_at": "2026-07-13T12:03:06Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60411047/porch-group-micron-and-other-big-stocks-moving-lower-in-mondays-pre-market-session",
+      "_summary": "U.S. stock futures were lower this morning, with the Nasdaq 100 futures falling around 1% on Monday. Shares of Porch Group Inc (NASDAQ: PRCH ) fell sharply in pre-market trading . Keefe, Bruyette & Woods analyst Ryan Tomasello downgraded Porch Group from Outperform to Market Perform and raised the price target from $13 to $16.25. Porch Group shares dipped 8.4% to $13.60 in pre-market trading. Here are some other stocks moving lower in pre-market trading.",
+      "_zh_headline": "Porch Group、Micron 和其他大型股票在周一盘前交易中走低",
+      "_zh_summary": "今天上午美国股指期货走低，纳斯达克 100 指数期货周一下跌约 1%。 Porch Group Inc（纳斯达克股票代码：PRCH）的股价在盘前交易中大幅下跌。 Keefe, Bruyette & Woods 分析师 Ryan Tomasello 将 Porch Group 的评级从跑赢大盘下调至大盘表现，并将目标价从 13 美元上调至 16.25 美元。 Porch Group 股价在盘前交易中下跌 8.4% 至 13.60 美元。以下是其他一些在盘前交易中走低的股票。",
+      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+    },
+    {
       "author": "Radhika Anilkumar Nadig",
       "content": "",
       "created_at": "2026-07-13T06:09:27Z",
