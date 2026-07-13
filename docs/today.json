@@ -2,6 +2,114 @@
   "date": "2026-07-13",
   "articles": [
     {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-13T16:53:52Z",
+      "headline": "SK Hynix vs. Micron: Wall Street's AI Memory Battle Just Got Real",
+      "id": 60422438,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Concept-Of-Technology-Ai-artificial-Inte.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Concept-Of-Technology-Ai-artificial-Inte.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Concept-Of-Technology-Ai-artificial-Inte.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SK Hynix&#39;s Nasdaq debut has given U.S. investors direct access to another AI memory giant. Here&#39;s how it stacks up against Micron on valuation and fundamentals.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SKHY"
+      ],
+      "updated_at": "2026-07-13T16:53:52Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60422438/sk-hynix-vs-micron-wall-streets-ai-memory-battle-just-got-real",
+      "_summary": "Both companies are key suppliers of high-bandwidth memory (HBM), the specialized chips powering Nvidia Corp. ‘s (NASDAQ: NVDA ) latest AI accelerators. Both are benefiting from soaring demand for AI servers. Both have become trillion-dollar companies. And both are investing aggressively to expand production as hyperscalers race to build more AI infrastructure. The question for investors is no longer whether AI memory is a compelling theme. It’s which stock offers the better way to play it.",
+      "_zh_headline": "SK 海力士 vs. 美光：华尔街的人工智能内存之战即将打响",
+      "_zh_summary": "两家公司都是高带宽内存 (HBM) 的主要供应商，HBM 是为 Nvidia 公司（纳斯达克股票代码：NVDA）最新人工智能加速器提供动力的专用芯片。两者都受益于人工智能服务器需求的飙升。两者都已成为万亿美元公司。随着超大规模企业竞相建设更多人工智能基础设施，两家公司都在积极投资扩大生产。投资者面临的问题不再是人工智能内存是否是一个引人注目的主题。这是哪种股票提供了更好的投资方式。",
+      "_added_at": "2026-07-13T17:30:42.659132+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-13T15:47:05Z",
+      "headline": "Big Bank Earnings Preview: Bank of America, JPMorgan Stocks Starting to Rally — Will This Laggard Be Next?",
+      "id": 60419822,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-Banks-Weigh-Argentina-Loan-R.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-Banks-Weigh-Argentina-Loan-R.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-Banks-Weigh-Argentina-Loan-R.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "6 big U.S. banks report quarterly financial results this week. A look at recent earnings history and key items to watch.",
+      "symbols": [
+        "BAC",
+        "C",
+        "DIA",
+        "GS",
+        "JPM",
+        "MS",
+        "WFC",
+        "XLF"
+      ],
+      "updated_at": "2026-07-13T15:47:05Z",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60419822/big-bank-earnings-preview-bank-of-america-jpmorgan-stocks-starting-to-rally-will-this-laggard-be-next",
+      "_summary": "Earnings season ramps up in full gear this week kicked off by quarterly financial results from some of the biggest publicly traded U.S. banks Tuesday and Wednesday . Here’s a look at the big banks set to repot this week, their 2026 performance and recent history. • Wells Fargo stock is holding steady today.",
+      "_zh_headline": "大型银行盈利预测：美国银行、摩根大通股票开始上涨——下一个会是这个落后者吗？",
+      "_zh_summary": "本周，美国一些最大的上市银行周二和周三公布的季度财务业绩拉开了财报季的全面帷幕。以下是本周将重整的大型银行的 2026 年业绩和近期历史。 • 富国银行股票今天保持稳定。",
+      "_added_at": "2026-07-13T17:30:42.659132+00:00"
+    },
+    {
+      "author": "Akanksha Bakshi",
+      "content": "",
+      "created_at": "2026-07-13T15:50:47Z",
+      "headline": "Why Is AeroVironment Stock Falling Monday?",
+      "id": 60419961,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Aerovironment-Company-Logo-Displayed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Aerovironment-Company-Logo-Displayed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Aerovironment-Company-Logo-Displayed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AeroVironment ($AVAV) stock falls as investors pull back from growth and defense tech. Explore the key support levels and technical analysis.",
+      "symbols": [
+        "ARKX",
+        "AVAV",
+        "BOTZ",
+        "XAR"
+      ],
+      "updated_at": "2026-07-13T15:50:47Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60419961/why-is-aerovironment-stock-falling-monday",
+      "_summary": "AVAV is trading near its 52-week low, making it more vulnerable to broader market swings. Small pullbacks across equities can trigger larger moves in stocks that are already under pressure. Energy led the market with a 2.32% gain, while Technology and Industrials were among the weakest sectors. That backdrop weighed on industrial technology names such as AeroVironment. The stock remains in a long-term downtrend. Shares have fallen 45.6% over the past 12 months.",
+      "_zh_headline": "为什么 AeroVironment 股票周一下跌？",
+      "_zh_summary": "AVAV 的交易价格接近 52 周低点，使其更容易受到更广泛市场波动的影响。股市的小幅回调可能会引发已经面临压力的股票大幅波动。能源板块以 2.32% 的涨幅领涨市场，而科技和工业板块则是表现最弱的板块之一。这种背景给 AeroVironment 等工业技术公司带来了压力。该股仍处于长期下跌趋势中。过去 12 个月，该公司股价下跌 45.6%。",
+      "_added_at": "2026-07-13T17:30:42.659132+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-13T15:10:12Z",
@@ -640,110 +748,6 @@
       "_summary": "UnitedHealth Group has seen a strong surge this year, mirroring the performance of other health insurance companies like Elevance Health, Humana and CVS. The rally happened after the Trump administration increased the average Medicare Advantage payments by 2.48% , which is equivalent to $13 billion. That increase was much higher than the proposed payment rate hike of 0.09%.",
       "_zh_headline": "联合健康观察：看跌图表模式提高了第二季度收益的风险",
       "_zh_summary": "联合健康集团 (UnitedHealth Group) 今年的业绩强劲增长，与 Elevance Health、Humana 和 CVS 等其他健康保险公司的业绩遥相呼应。此次上涨发生在特朗普政府将平均医疗保险优惠付款增加 2.48%（相当于 130 亿美元）之后。这一增幅远高于拟议的 0.09% 的加息幅度。",
-      "_added_at": "2026-07-13T05:02:04.120559+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-12T21:06:12Z",
-      "headline": "Mark Zuckerberg’s Net Worth Jumps as Meta Stock Gains Momentum",
-      "id": 60405639,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The ongoing Meta stock price rebound has boosted Mark Zuckerberg&#39;s net worth to $237 billion, making him the fifth-richest person.",
-      "symbols": [
-        "AVGO",
-        "META"
-      ],
-      "updated_at": "2026-07-12T21:06:12Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60405639/mark-zuckerbergs-net-worth-jumps-as-meta-stock-gains-momentum",
-      "_summary": "Zuckerberg is now the world’s fifth-richest person, trailing only Elon Musk , Larry Ellison , Sergey Brin and Jeff Bezos . Meta Platforms, the owner of social media platforms like Facebook, Instagram, and WhatsApp, has jumped in the past few days, moving from $540 earlier this month to $669 today. The stock jumped after Bloomberg reported that it was considering selling its extra computing power in its data centers. If successful, the company will be able to make billions of dollars from its existing data centers.",
-      "_zh_headline": "马克·扎克伯格的净资产随着 Meta 股票的增长势头而猛增",
-      "_zh_summary": "扎克伯格现在是世界第五富有的人，仅次于埃隆·马斯克、拉里·埃里森、谢尔盖·布林和杰夫·贝佐斯。拥有 Facebook、Instagram 和 WhatsApp 等社交媒体平台的 Meta Platforms 股价在过去几天里股价上涨，从本月初的 540 美元涨至今天的 669 美元。彭博社报道称，该公司正在考虑出售其数据中心的额外计算能力后，该公司股价上涨。如果成功，该公司将能够从其现有数据中心赚取数十亿美元。",
-      "_added_at": "2026-07-13T05:02:04.120559+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-12T20:56:02Z",
-      "headline": "Top S&P 500 Stocks to Watch This Week: Goldman Sachs, Netflix, GE Aerospace",
-      "id": 60405615,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/12/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Here are the top S&amp;P 500 Index stocks to watch this week, including popular names like Goldman Sachs, Netflix and GE Aerospace.",
-      "symbols": [
-        "GE",
-        "GS",
-        "NFLX",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-12T20:56:02Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60405615/top-sp-500-stocks-to-watch-this-week-goldman-sachs-netflix-ge-aerospace",
-      "_summary": "The S&P 500 Index is slowly nearing its all-time high, and this week will be crucial as the earnings season starts, US-Iran tensions escalate, and the US publishes its consumer and producer inflation reports. Goldman Sachs stock has jumped by 20% this year and is slowly nearing its all-time high. This rally will be put to the test this week as it releases its earnings on Tuesday. The company will also play a role in future IPOs of companies like OpenAI and Anthropic.",
-      "_zh_headline": "本周最值得关注的标准普尔 500 指数股票：高盛、Netflix、GE 航空航天",
-      "_zh_summary": "标准普尔 500 指数正缓慢接近历史高点，随着财报季节的开始、美伊紧张局势升级以及美国发布消费者和生产者通胀报告，本周至关重要。高盛股价今年上涨了 20%，正在慢慢接近历史高点。随着该公司周二发布财报，这一涨势将在本周受到考验。该公司还将在 OpenAI 和 Anthropic 等公司未来的 IPO 中发挥作用。",
-      "_added_at": "2026-07-13T05:02:04.120559+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-13T02:54:14Z",
-      "headline": "Peter Schiff Says Conditions Ripe for a 'Huge Rally' in Gold As Iran War Escalates, Here Are Some ETFs to Watch",
-      "id": 60406191,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Veteran investor Peter Schiff on Sunday said traders were drawing the wrong lesson from gold&#39;s selloff amid the U.S.-Iran conflict.",
-      "symbols": [
-        "GLD",
-        "GLDM",
-        "IAU",
-        "IAUM",
-        "SGOL"
-      ],
-      "updated_at": "2026-07-13T02:54:14Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60406191/peter-schiff-says-conditions-ripe-for-a-huge-rally-in-gold-as-iran-war-escalates-here-are-some-etfs-to-watch",
-      "_summary": "Veteran investor Peter Schiff on Sunday said traders were drawing the wrong lesson from the gold selloff during the escalating conflict between the U.S. and Iran. Schiff, in a post on X, said traders were being “conditioned to believe that war is now bearish for gold” after the precious metal declined even as tensions between the U.S. and Iran escalated.",
-      "_zh_headline": "Peter Schiff表示，随着伊朗战争升级，黄金“大幅上涨”的条件已经成熟，以下是一些值得关注的ETF",
-      "_zh_summary": "资深投资者彼得·希夫周日表示，在美国和伊朗之间不断升级的冲突期间，交易员从黄金抛售中吸取了错误的教训。希夫在 X 上发帖称，尽管美国和伊朗之间的紧张局势升级，但贵金属价格下跌，交易员“习惯性地认为战争现在对黄金不利”。",
       "_added_at": "2026-07-13T05:02:04.120559+00:00"
     }
   ]
