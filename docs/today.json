@@ -2,6 +2,117 @@
   "date": "2026-07-14",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-14T09:28:06Z",
+      "headline": "Stock Market Today: Dow Jones Futures Fall, Nasdaq 100 Gains as Trump Calls US the 'Guardian' of Hormuz Strait—Tower Semiconductor, Twin Vee, JPMorgan In Focus",
+      "id": 60434246,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures were mixed on Tuesday, as the Nasdaq 100 index advanced, while the Dow Jones and S&amp;P 500 indices fell.",
+      "symbols": [
+        "AGEN",
+        "BTCUSD",
+        "JPM",
+        "QQQ",
+        "SPY",
+        "TSEM",
+        "VEEE",
+        "VMAR"
+      ],
+      "updated_at": "2026-07-14T09:28:06Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60434246/stock-market-today-dow-jones-futures-fall-nasdaq-100-gains-as-trump-calls-us-the-guardian-of-hormuz-strait-tower-semiconductor-twin-vee-jpmorgan-in-focus",
+      "_summary": "U.S. stock futures were mixed on Tuesday, as the Nasdaq 100 index advanced, while the Dow Jones and S&P 500 indices fell, following Monday’s lower close. As the U.S. and Iran attacks continued for the third straight night, U.S. Central Command said that operations were aimed at imposing \"a heavy cost\" on Iranian forces and reducing their ability to attack commercial shipping and civilians in the Strait of Hormuz. Responding to President Donald Trump ‘s Truth Social post, calling the U.S.",
+      "_zh_headline": "今日股市：道琼斯期货下跌，纳斯达克 100 指数上涨，特朗普称美国为霍尔木兹海峡的“守护者”——Tower Semiconductor、Twin Vee、摩根大通成为焦点",
+      "_zh_summary": "周二美国股指期货涨跌互现，纳斯达克 100 指数上涨，而道琼斯指数和标准普尔 500 指数在周一收盘走低后下跌。随着美国和伊朗的袭击连续第三晚持续，美国中央司令部表示，这些行动的目的是给伊朗军队造成“沉重代价”，并削弱他们攻击霍尔木兹海峡商业航运和平民的能力。回应唐纳德·特朗普总统的真相社会帖子，呼吁美国",
+      "_added_at": "2026-07-14T11:09:36.638078+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-14T10:05:58Z",
+      "headline": "Hedge Funds Snap Up US Semiconductor Stocks at Fastest Pace in 3.5 Years, bet Selloff Has 'Run Its Course'",
+      "id": 60434879,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Hsinchu-City--Taiwan--August-19--2022-Ta.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Hsinchu-City--Taiwan--August-19--2022-Ta.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Hsinchu-City--Taiwan--August-19--2022-Ta.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Hedge funds bought U.S. semiconductor stocks at the fastest pace in at least 3.5 years last week, reversing two weeks of heavy selling.",
+      "symbols": [
+        "AMD",
+        "AVGO",
+        "NVDA",
+        "SMH",
+        "SOXL",
+        "SOXX",
+        "TSM"
+      ],
+      "updated_at": "2026-07-14T10:05:58Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60434879/hedge-funds-snap-up-us-semiconductor-stocks-at-fastest-pace-in-3-5-years-bet-selloff-has-run-its-course",
+      "_summary": "Hedge funds snapped up U.S. semiconductor stocks at the fastest pace in at least three-and-a-half years last week, reversing course after two consecutive weeks of heavy selling as investors bet the sector’s recent pullback has run its course. Hedge funds’ allocation to U.S. semiconductor stocks has climbed back to about 10% of total hedge fund exposure, according to Goldman Sachs data shared by The Kobeissi Letter on Monday.",
+      "_zh_headline": "对冲基金以 3.5 年来最快的速度抢购美国半导体股票，押注抛售已“走到尽头”",
+      "_zh_summary": "对冲基金上周以至少三年半以来最快的速度抢购美国半导体股票，在连续两周大量抛售后逆转，因为投资者押注该行业最近的回调已经结束。根据《Kobeissi Letter》周一分享的高盛数据，对冲基金对美国半导体股票的配置已回升至对冲基金总敞口的 10% 左右。",
+      "_added_at": "2026-07-14T11:09:36.638078+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-14T10:45:18Z",
+      "headline": "Meta Stock Just Surged 21% in 3 Weeks: Shay Boloor Calls It the 'Market's Latest Darling'",
+      "id": 60435862,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Mark-Zuckerberg.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Mark-Zuckerberg.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Mark-Zuckerberg.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Meta stock jumps 21% as Shay Boloor explains why the tech giant is the &#34;market&#39;s latest darling&#34; with an unbeatable new AI infra moat.",
+      "symbols": [
+        "AMZN",
+        "META",
+        "MSFT"
+      ],
+      "updated_at": "2026-07-14T10:45:18Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60435862/meta-stock-surged-in-3-weeks-shay-boloor-calls-its-markets-latest-darling",
+      "_summary": "Between late June and mid-July 2026, Meta experienced a blistering market rally, with its adjusted closing stock price jumping from $542.87 on June 25 to $656.73 by July 13, 2026. According to market strategist at Futurum Equities Shay Boloor , this sudden surge occurred because investors are no longer in “panic mode” over Meta’s aggressive 14-gigawatt capacity targets.",
+      "_zh_headline": "Meta 股价三周内飙升 21%：Shay Boloor 称其为“市场最新宠儿”",
+      "_zh_summary": "2026 年 6 月下旬至 7 月中旬，Meta 经历了强劲的市场上涨，调整后的收盘股价从 6 月 25 日的 542.87 美元跃升至 2026 年 7 月 13 日的 656.73 美元。Futurum Equities Shay Boloor 的市场策略师表示，这种突然的飙升是因为投资者不再对 Meta 激进的 14 吉瓦产能目标感到“恐慌”。",
+      "_added_at": "2026-07-14T11:09:36.638078+00:00"
+    },
+    {
       "author": "Radhika Anilkumar Nadig",
       "content": "",
       "created_at": "2026-07-14T06:46:41Z",
