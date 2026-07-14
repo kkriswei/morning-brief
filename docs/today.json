@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "articles": [
     {
       "author": "Chandrima Sanyal",
@@ -45,42 +45,7 @@
       "_summary": "The recent sell-off reflects a shift in investor sentiment rather than a collapse in industry fundamentals. After months of steady gains fueled by AI optimism, markets are becoming less willing to pay premium multiples without stronger evidence that AI spending is translating into sustainable returns. The reassessment has also been fueled by concerns over debt-funded AI infrastructure investments.",
       "_zh_headline": "从有史以来最好的 ETF 首次亮相到熊市：美光和 AI 内存股暴跌，DRAM 狂飙",
       "_zh_summary": "最近的抛售反映了投资者情绪的转变，而不是行业基本面的崩溃。在人工智能乐观情绪推动了数月的稳定上涨之后，如果没有更有力的证据表明人工智能支出正在转化为可持续回报，市场将变得越来越不愿意支付溢价倍数。对债务资助的人工智能基础设施投资的担忧也加剧了重新评估。",
-      "_added_at": "2026-07-13T21:30:05.836637+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-13T20:24:06Z",
-      "headline": "New DRVR ETF Bets on S&P 500 Dividend Growth as Income Investors Seek Quality",
-      "id": 60429692,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Amplify ETFs&#39; DRVR ETF tracks S&amp;P 500 companies with at least 10 years of dividend growth. Here&#39;s how it differs from other dividend-growth ETFs.",
-      "symbols": [
-        "BBY",
-        "DRVR",
-        "TROW",
-        "UPS"
-      ],
-      "updated_at": "2026-07-13T20:24:06Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60429692/new-drvr-etf-bets-on-sp-500-dividend-growth-as-income-investors-seek-quality",
-      "_summary": "According to Amplify, companies with sustained dividend growth often exhibit durable business models, disciplined capital allocation and strong earnings power, making the strategy suitable as a core equity income allocation across different market environments. The portfolio is currently tilted toward the industrial and financial sectors. 3. Eligibility: S&P 500 companies with 10 consecutive years of dividend increases and expected dividend growth next year",
-      "_zh_headline": "新 DRVR ETF 押注标普 500 指数股息增长，因为收入投资者追求质量",
-      "_zh_summary": "Amplify表示，股息持续增长的公司往往表现出持久的商业模式、严格的资本配置和强大的盈利能力，使得该策略适合作为不同市场环境下的核心股权收益配置。目前投资组合偏向工业和金融领域。 3. 资格：连续10年股息增加且预计明年股息增长的标普500公司",
-      "_added_at": "2026-07-13T21:30:05.836637+00:00"
+      "_added_at": "2026-07-14T04:29:46.097638+00:00"
     },
     {
       "author": "Surbhi Jain",
@@ -118,48 +83,7 @@
       "_summary": "In a recent note, Belton pointed to Meta’s Muse Spark 1.1 and xAI’s Grok 4.5 as evidence that frontier AI developers continue to rely on Nvidia’s infrastructure to train their most advanced models. “Both models were trained on NVDA infrastructure, suggesting there is still a clear value proposition for using NVDA’s stack,” Belton wrote.",
       "_zh_headline": "产品组合经理表示，Meta 和 xAI 刚刚加强了 Nvidia 的 AI 护城河",
       "_zh_summary": "在最近的一份报告中，Belton 指出 Meta 的 Muse Spark 1.1 和 xAI 的 Grok 4.5 证明前沿人工智能开发人员继续依赖 Nvidia 的基础设施来训练他们最先进的模型。 “这两种模型都在 NVDA 基础设施上进行了训练，这表明使用 NVDA 堆栈仍然具有明确的价值主张，”贝尔顿写道。",
-      "_added_at": "2026-07-13T19:59:53.669734+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-13T17:35:09Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "id": 60424149,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "BB",
-        "CRWV",
-        "MSFT",
-        "MU",
-        "ORCL",
-        "SHOP",
-        "SNDK",
-        "WULF"
-      ],
-      "updated_at": "2026-07-13T17:35:09Z",
-      "url": "https://www.benzinga.com/markets/options/26/07/60424149/10-information-technology-stocks-whale-alerts-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-07-13T19:59:53.669734+00:00"
+      "_added_at": "2026-07-14T04:29:46.097638+00:00"
     },
     {
       "author": "Evette Mitkov",
@@ -194,568 +118,106 @@
       "_summary": "Oil and gas names are pushing higher Monday as simultaneous flashpoints in the Middle East and Eastern Europe threaten to squeeze global energy supplies from multiple directions at once . Layered on top of the Middle East turmoil is a Ukrainian air campaign that has been methodically dismantling Russian refining capacity over recent months. Kyiv has directed strikes at some of the largest fuel processing facilities inside Russia, according to Reuters.",
       "_zh_headline": "美伊紧张局势升级，石油库存飙升",
       "_zh_summary": "由于中东和东欧同时发生的热点事件有可能同时从多个方向挤压全球能源供应，石油和天然气股周一走高。除了中东动荡之外，最近几个月乌克兰的空袭一直在有条不紊地摧毁俄罗斯的炼油能力。据路透社报道，基辅已针对俄罗斯境内一些最大的燃料加工设施发动了袭击。",
-      "_added_at": "2026-07-13T19:59:53.669734+00:00"
+      "_added_at": "2026-07-14T04:29:46.097638+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-13T20:24:06Z",
+      "headline": "New DRVR ETF Bets on S&P 500 Dividend Growth as Income Investors Seek Quality",
+      "id": 60429692,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Amplify ETFs&#39; DRVR ETF tracks S&amp;P 500 companies with at least 10 years of dividend growth. Here&#39;s how it differs from other dividend-growth ETFs.",
+      "symbols": [
+        "BBY",
+        "DRVR",
+        "TROW",
+        "UPS"
+      ],
+      "updated_at": "2026-07-13T20:24:06Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60429692/new-drvr-etf-bets-on-sp-500-dividend-growth-as-income-investors-seek-quality",
+      "_summary": "According to Amplify, companies with sustained dividend growth often exhibit durable business models, disciplined capital allocation and strong earnings power, making the strategy suitable as a core equity income allocation across different market environments. The portfolio is currently tilted toward the industrial and financial sectors. 3. Eligibility: S&P 500 companies with 10 consecutive years of dividend increases and expected dividend growth next year",
+      "_zh_headline": "新 DRVR ETF 押注标普 500 指数股息增长，因为收入投资者追求质量",
+      "_zh_summary": "Amplify表示，股息持续增长的公司往往表现出持久的商业模式、严格的资本配置和强大的盈利能力，使得该策略适合作为不同市场环境下的核心股权收益配置。目前投资组合偏向工业和金融领域。 3. 资格：连续10年股息增加且预计明年股息增长的标普500公司",
+      "_added_at": "2026-07-14T04:29:46.097638+00:00"
+    },
+    {
+      "author": "Adam Eckert",
+      "content": "",
+      "created_at": "2026-07-13T21:37:30Z",
+      "headline": "Penguin Solutions Stock Tumbles On Proposed Private Offering",
+      "id": 60431195,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Financial-Market-Crash-Concept-With-Red-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Financial-Market-Crash-Concept-With-Red-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Financial-Market-Crash-Concept-With-Red-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Penguin Solutions stock is moving lower in extended trading Monday after the company announced a proposed convertible notes offering.",
+      "symbols": [
+        "PENG"
+      ],
+      "updated_at": "2026-07-13T21:37:30Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60431195/penguin-solutions-stock-tumbles-on-proposed-private-offering",
+      "_summary": "After the market close on Monday, Penguin Solutions announced that it intends to offer $650 million of convertible senior notes due 2031 to qualified institutional buyers in a private offering. The company plans to offer the initial purchasers a 13-day option to buy up to an additional $100 million of the notes. Concurrently, Penguin plans to enter into privately negotiated exchanges of a portion of existing convertible senior notes due 2029 and 2030.",
+      "_zh_headline": "Penguin Solutions 股价因私募发行提议而暴跌",
+      "_zh_summary": "周一收盘后，Penguin Solutions 宣布打算通过私募方式向合格机构买家发行 2031 年到期的 6.5 亿美元可转换优先票据。该公司计划向初始购买者提供 13 天的选择权，以额外购买最多 1 亿美元的票据。与此同时，Penguin 计划对 2029 年和 2030 年到期的部分现有可转换优先票据进行私下谈判交换。",
+      "_added_at": "2026-07-14T04:29:46.097638+00:00"
     },
     {
       "author": "Kaustubh Bagalkote",
       "content": "",
-      "created_at": "2026-07-13T17:31:09Z",
-      "headline": "Why Is Arm Holdings Stock Falling Monday?",
-      "id": 60424029,
+      "created_at": "2026-07-13T17:52:02Z",
+      "headline": "Why Is Fubotv Stock Falling on Monday?",
+      "id": 60424729,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/FuboTV.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/FuboTV.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Arm-Company-Logo-Seen-On-Stm32-Microchip.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/FuboTV.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "ARM drops 7% ahead of July 29 earnings. With a 380x P/E ratio, can growth justify the premium valuation? Read our analysis.",
+      "summary": "FuboTV Inc. shares climbed on Monday as Disney+ veteran Alisa Bowen officially took over as CEO, bringing nearly 30 years of media experience to the sports-first streaming platform amid notable short interest levels.",
       "symbols": [
-        "AIPI",
-        "ARM",
-        "FPXI",
-        "SMHX"
+        "FUBO"
       ],
-      "updated_at": "2026-07-13T17:31:09Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60424029/why-is-arm-holdings-stock-falling-monday",
-      "_summary": "Arm Holdings plc (NASDAQ: ARM ) stock fell more than 7% on Monday as investors continued to sell high-valuation semiconductor and artificial intelligence-related stocks during a broader risk-off session. The Nasdaq dropped 1.73%, while the S&P 500 lost 0.68%. Technology was the day’s weakest-performing sector, down 2.3%, adding to the pressure on Arm shares. Investors rotated into more defensive sectors, with Energy gaining 2.76% and Utilities rising 0.56%.",
-      "_zh_headline": "为什么 Arm Holdings 的股价周一下跌？",
-      "_zh_summary": "Arm Holdings plc（纳斯达克股票代码：ARM）股价周一下跌逾 7%，因投资者在更广泛的避险交易时段继续抛售高估值半导体和人工智能相关股票。纳斯达克指数下跌 1.73%，标准普尔 500 指数下跌 0.68%。科技股是当日表现最弱的板块，下跌 2.3%，加大了 Arm 股价的压力。投资者转向更具防御性的板块，能源股上涨 2.76%，公用事业股上涨 0.56%。",
-      "_added_at": "2026-07-13T19:59:53.669734+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-13T16:53:52Z",
-      "headline": "SK Hynix vs. Micron: Wall Street's AI Memory Battle Just Got Real",
-      "id": 60422438,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Concept-Of-Technology-Ai-artificial-Inte.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Concept-Of-Technology-Ai-artificial-Inte.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Concept-Of-Technology-Ai-artificial-Inte.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SK Hynix&#39;s Nasdaq debut has given U.S. investors direct access to another AI memory giant. Here&#39;s how it stacks up against Micron on valuation and fundamentals.",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SKHY"
-      ],
-      "updated_at": "2026-07-13T16:53:52Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60422438/sk-hynix-vs-micron-wall-streets-ai-memory-battle-just-got-real",
-      "_summary": "Both companies are key suppliers of high-bandwidth memory (HBM), the specialized chips powering Nvidia Corp. ‘s (NASDAQ: NVDA ) latest AI accelerators. Both are benefiting from soaring demand for AI servers. Both have become trillion-dollar companies. And both are investing aggressively to expand production as hyperscalers race to build more AI infrastructure. The question for investors is no longer whether AI memory is a compelling theme. It’s which stock offers the better way to play it.",
-      "_zh_headline": "SK 海力士 vs. 美光：华尔街的人工智能内存之战即将打响",
-      "_zh_summary": "两家公司都是高带宽内存 (HBM) 的主要供应商，HBM 是为 Nvidia 公司（纳斯达克股票代码：NVDA）最新人工智能加速器提供动力的专用芯片。两者都受益于人工智能服务器需求的飙升。两者都已成为万亿美元公司。随着超大规模企业竞相建设更多人工智能基础设施，两家公司都在积极投资扩大生产。投资者面临的问题不再是人工智能内存是否是一个引人注目的主题。这是哪种股票提供了更好的投资方式。",
-      "_added_at": "2026-07-13T17:30:42.659132+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-07-13T15:47:05Z",
-      "headline": "Big Bank Earnings Preview: Bank of America, JPMorgan Stocks Starting to Rally — Will This Laggard Be Next?",
-      "id": 60419822,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-Banks-Weigh-Argentina-Loan-R.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-Banks-Weigh-Argentina-Loan-R.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-Banks-Weigh-Argentina-Loan-R.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "6 big U.S. banks report quarterly financial results this week. A look at recent earnings history and key items to watch.",
-      "symbols": [
-        "BAC",
-        "C",
-        "DIA",
-        "GS",
-        "JPM",
-        "MS",
-        "WFC",
-        "XLF"
-      ],
-      "updated_at": "2026-07-13T15:47:05Z",
-      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60419822/big-bank-earnings-preview-bank-of-america-jpmorgan-stocks-starting-to-rally-will-this-laggard-be-next",
-      "_summary": "Earnings season ramps up in full gear this week kicked off by quarterly financial results from some of the biggest publicly traded U.S. banks Tuesday and Wednesday . Here’s a look at the big banks set to repot this week, their 2026 performance and recent history. • Wells Fargo stock is holding steady today.",
-      "_zh_headline": "大型银行盈利预测：美国银行、摩根大通股票开始上涨——下一个会是这个落后者吗？",
-      "_zh_summary": "本周，美国一些最大的上市银行周二和周三公布的季度财务业绩拉开了财报季的全面帷幕。以下是本周将重整的大型银行的 2026 年业绩和近期历史。 • 富国银行股票今天保持稳定。",
-      "_added_at": "2026-07-13T17:30:42.659132+00:00"
-    },
-    {
-      "author": "Akanksha Bakshi",
-      "content": "",
-      "created_at": "2026-07-13T15:50:47Z",
-      "headline": "Why Is AeroVironment Stock Falling Monday?",
-      "id": 60419961,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Aerovironment-Company-Logo-Displayed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Aerovironment-Company-Logo-Displayed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Aerovironment-Company-Logo-Displayed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "AeroVironment ($AVAV) stock falls as investors pull back from growth and defense tech. Explore the key support levels and technical analysis.",
-      "symbols": [
-        "ARKX",
-        "AVAV",
-        "BOTZ",
-        "XAR"
-      ],
-      "updated_at": "2026-07-13T15:50:47Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60419961/why-is-aerovironment-stock-falling-monday",
-      "_summary": "AVAV is trading near its 52-week low, making it more vulnerable to broader market swings. Small pullbacks across equities can trigger larger moves in stocks that are already under pressure. Energy led the market with a 2.32% gain, while Technology and Industrials were among the weakest sectors. That backdrop weighed on industrial technology names such as AeroVironment. The stock remains in a long-term downtrend. Shares have fallen 45.6% over the past 12 months.",
-      "_zh_headline": "为什么 AeroVironment 股票周一下跌？",
-      "_zh_summary": "AVAV 的交易价格接近 52 周低点，使其更容易受到更广泛市场波动的影响。股市的小幅回调可能会引发已经面临压力的股票大幅波动。能源板块以 2.32% 的涨幅领涨市场，而科技和工业板块则是表现最弱的板块之一。这种背景给 AeroVironment 等工业技术公司带来了压力。该股仍处于长期下跌趋势中。过去 12 个月，该公司股价下跌 45.6%。",
-      "_added_at": "2026-07-13T17:30:42.659132+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-13T15:10:12Z",
-      "headline": "Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks",
-      "id": 60418536,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Sk-Hynix.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Sk-Hynix.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Sk-Hynix.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nImportant Data Ahead\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "AMZN",
-        "BAC",
-        "BTCUSD",
-        "C",
-        "DRAM",
-        "GOOG",
-        "GS",
-        "JPM",
-        "META",
-        "MSFT",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SKHY",
-        "SNDK",
-        "SOXL",
-        "SPY",
-        "SSNLF",
-        "STX",
-        "TSLA",
-        "TSM",
-        "USO",
-        "WDC",
-        "WFC"
-      ],
-      "updated_at": "2026-07-13T15:14:25Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60418536/critical-4-hours-ahead-korea-and-iran-drive-selling-in-us-markets",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are positive in Apple (AAPL) and Microsoft Corp (NASDAQ: MSFT ) . Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor.",
-      "_zh_headline": "关键时刻还有 4 小时，韩国和伊朗推动美股抛售",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早盘交易中，苹果公司（AAPL）和微软公司（纳斯达克股票代码：MSFT）的资金流向积极。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。",
-      "_added_at": "2026-07-13T15:23:00.008499+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-13T13:38:05Z",
-      "headline": "Why Is Intel Stock Falling Monday?",
-      "id": 60414058,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Intel-Corp.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Intel-Corp.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Intel-Corp.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "INTC drops 3% in a market pull-back. With earnings in 10 days, will Intel hold critical support at $102.50? Read the full analysis.",
-      "symbols": [
-        "AAPL",
-        "IGPT",
-        "INTC",
-        "SMH",
-        "XNTK"
-      ],
-      "updated_at": "2026-07-13T13:38:05Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60414058/why-is-intel-stock-falling-monday",
-      "_summary": "Intel has rallied 371.42% over the past 12 months. That strong run has left the stock vulnerable to profit-taking during periods of market uncertainty. Traders are now watching whether the current pullback is a short-term pause or the start of a deeper correction. Intel was trading well below its short-term trend levels. The stock sat 15.1% below its 20-day simple moving average of $124.58 and 9.7% below its 50-day simple moving average of $117.00.",
-      "_zh_headline": "为什么英特尔股票周一下跌？",
-      "_zh_summary": "过去 12 个月，英特尔股价上涨 371.42%。这种强劲的上涨使得该股在市场不确定时期很容易受到获利了结的影响。交易员现在正在关注当前的回调是短期暂停还是更深层次调整的开始。英特尔的交易价格远低于其短期趋势水平。该股较20日简单移动平均线124.58美元下跌15.1%，较50日简单移动平均线117.00美元下跌9.7%。",
-      "_added_at": "2026-07-13T15:23:00.008499+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-13T14:35:31Z",
-      "headline": "Meta Just Undercut OpenAI and Anthropic by 75%: JPMorgan Says It's More Than a Price Cut",
-      "id": 60417028,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Los-Angeles--California---July-3-2025-Me.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Los-Angeles--California---July-3-2025-Me.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Los-Angeles--California---July-3-2025-Me.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Meta&#39;s AI API is priced at roughly a quarter of competing frontier models. JPMorgan says the move could accelerate enterprise adoption, unlock a new AI revenue.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "META"
-      ],
-      "updated_at": "2026-07-13T14:35:31Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60417028/meta-just-undercut-openai-and-anthropic-by-75-jpmorgan-says-its-more-than-a-price-cut",
-      "_summary": "In a note, JPMorgan said Meta’s newly launched Model API marks the company’s first meaningful step toward external AI monetization. The public preview allows developers to build applications using Meta’s latest Muse Spark 1.1 model, opening the door to revenue streams beyond the company’s core digital advertising business.",
-      "_zh_headline": "Meta 刚刚将 OpenAI 和 Anthropic 的价格降低了 75%：摩根大通表示这不仅仅是降价",
-      "_zh_summary": "摩根大通在一份报告中表示，Meta 新推出的 Model API 标志着该公司在外部人工智能货币化方面迈出了有意义的第一步。公开预览版允许开发人员使用 Meta 最新的 Muse Spark 1.1 模型构建应用程序，从而为公司核心数字广告业务之外的收入流打开了大门。",
-      "_added_at": "2026-07-13T15:23:00.008499+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-13T12:38:13Z",
-      "headline": "Why Is NVIDIA Stock Falling Monday?",
-      "id": 60412155,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Nvidia-Chip-On-Illuminated-Circuit-Board.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Nvidia-Chip-On-Illuminated-Circuit-Board.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Nvidia-Chip-On-Illuminated-Circuit-Board.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "NVIDIA dips below its 50-day moving average. Read our analysis of the stock’s momentum, valuation, and upcoming Q2 earnings outlook.",
-      "symbols": [
-        "AIPI",
-        "NVDA",
-        "QYLD",
-        "SQS"
-      ],
-      "updated_at": "2026-07-13T12:38:13Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60412155/why-is-nvidia-stock-falling-monday",
-      "_summary": "Investors turned more cautious ahead of the opening bell as equity futures weakened. NVIDIA is also trading near an important technical area. That has left short-term traders divided between buying recent weakness and taking profits after the stock’s strong rally. Meanwhile, tech strategist Dan Ives told CNBC on Monday that investors have rotated toward memory stocks as the “shiny new toy,” leaving NVIDIA and some hyperscalers under pressure despite their central role in AI.",
-      "_zh_headline": "为什么 NVIDIA 股票周一下跌？",
-      "_zh_summary": "由于股票期货走弱，投资者在开盘前变得更加谨慎。 NVIDIA 的交易也靠近一个重要的技术领域。这使得短期交易者在买入近期疲软的股票和在该股强劲反弹后获利了结之间存在分歧。与此同时，科技策略师 Dan Ives 周一向 CNBC 表示，投资者已将内存股视为“闪亮的新玩具”，这让 NVIDIA 和一些超大规模企业面临压力，尽管它们在人工智能领域发挥着核心作用。",
-      "_added_at": "2026-07-13T15:23:00.008499+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-13T14:54:59Z",
-      "headline": "Why Is Nebius Stock Falling on Monday?",
-      "id": 60417810,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Nebius-Group.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Nebius-Group.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Nebius-Group.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nebius Group N.V. (NASDAQ: NBIS) stock fell Monday amid Meta Platforms Inc. (NASDAQ: META) competition concerns and rising AI market valuation anxiety.",
-      "symbols": [
-        "META",
-        "NBIS",
-        "SSNLF"
-      ],
-      "updated_at": "2026-07-13T14:54:59Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60417810/why-is-nebius-stock-falling-on-monday",
-      "_summary": "Nebius Group N.V. (NASDAQ: NBIS ) stock fell on Monday due to intense competitive threats from Meta Platforms Inc. and high-volume insider selling. The decline follows a broader risk-off trend impacting high-growth AI stocks. The Nasdaq is down 1.29% while the S&P 500 has shed 0.24%, and Technology is the weakest sector on the day. The stock faced continuous downward pressure following reports that Meta is exploring an expansion into artificial intelligence computing services .",
-      "_zh_headline": "为什么 Nebius 股票周一下跌？",
-      "_zh_summary": "由于 Meta Platforms Inc. 的激烈竞争威胁和大量内幕抛售，Nebius Group N.V.（纳斯达克股票代码：NBIS）股价周一下跌。此次下跌是在影响高增长人工智能股票的更广泛的避险趋势之后出现的。纳斯达克指数下跌 1.29%，标准普尔 500 指数下跌 0.24%，科技股是当日表现最弱的板块。有报道称 Meta 正在探索向人工智能计算服务领域扩张，该股面临持续下行压力。",
-      "_added_at": "2026-07-13T15:23:00.008499+00:00"
-    },
-    {
-      "author": "Snigdha Gairola",
-      "content": "",
-      "created_at": "2026-07-13T09:08:25Z",
-      "headline": "Mark Zandi Says June Jobs Report Was Weaker Than It Looked as Labor Force Participation Fell",
-      "id": 60407651,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Plus-Size-Hispanic-Man-With-Beard-Workin.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Plus-Size-Hispanic-Man-With-Beard-Workin.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Plus-Size-Hispanic-Man-With-Beard-Workin.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Zandi says the June jobs report masked labor market weakness, warning that unemployment would top 5% without the decline in labor force participation.",
-      "symbols": [],
-      "updated_at": "2026-07-13T09:08:25Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60407651/mark-zandi-says-june-jobs-report-was-weaker-than-it-looked-as-labor-force-participation-fell",
-      "_summary": "Economist Mark Zandi argued that the June employment report painted an overly optimistic picture of the U.S. labor market, saying several underlying indicators point to a much weaker economy than the headline figures suggest. On Sunday, in a series of posts on X , Zandi said commentary surrounding the June jobs report was \"much too dismissive of how weak the numbers looked, all the noise in the data notwithstanding.\" Zandi noted that payroll employment posted only a modest gain in June, while prior months’ job gains were revised downward. He also said most of the hiring came from the healthcare sector rather than being broadly distributed across the economy. \"Not only did employment as measured by the payroll survey post a small gain in the month, but previous month’s gains were revised much lower, and the bulk of the job gains were in healthcare,\" Zandi wrote.",
-      "_zh_headline": "马克·赞迪 (Mark Zandi) 表示，六月就业报告比看上去要弱，因为劳动力参与率下降",
-      "_zh_summary": "经济学家马克·赞迪(Mark Zandi)认为，6月就业报告描绘了美国劳动力市场过于乐观的景象，他表示，一些基本指标表明经济比总体数据要弱得多。周日，赞迪在 X 上的一系列帖子中表示，围绕 6 月份就业报告的评论“尽管数据中存在诸多噪音，但对数据看起来的疲软程度过于轻视”。赞迪指出，六月份就业人数仅小幅增长，​​而前几个月的就业增长则被向下修正。他还表示，大部分招聘来自医疗保健行业，而不是广泛分布在整个经济领域。赞迪写道：“根据薪资调查衡量的就业人数不仅在本月出现小幅增长，​​而且上个月的增长幅度也被修正得更低，而且大部分就业增长来自医疗保健领域。”",
-      "_added_at": "2026-07-13T12:20:33.831534+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-13T10:00:32Z",
-      "headline": "Stock Market Today: Dow Futures Gain, S&P 500 Slips as US and Iran Exchange Strikes—Saratoga, Exxon Mobil, Levi Strauss in Focus",
-      "id": 60408205,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were mixed on Monday, as the Dow Jones index advanced, while the Nasdaq 100 and S&amp;P 500 indices fell.",
-      "symbols": [
-        "BTCUSD",
-        "FBK",
-        "OXY",
-        "QQQ",
-        "QTTB",
-        "SKHYV",
-        "SPY",
-        "TSM"
-      ],
-      "updated_at": "2026-07-13T10:00:32Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60408205/stock-market-today-dow-futures-gain-sp-500-slips-as-us-and-iran-exchange-strikes-saratoga-exxon-mobil-levi-strauss-in-focus",
-      "_summary": "U.S. stock futures were mixed on Monday, as the Dow Jones index advanced, while the Nasdaq 100 and S&P 500 indices fell, following Friday’s higher close. Investors eye major economic updates this week, including June CPI and PPI data, along with retail sales and the Federal Reserve officials’ commentary. Meanwhile, the 10-year Treasury bond yielded 4.57%, and the two-year bond was at 4.22%.",
-      "_zh_headline": "今日股市：美国和伊朗交易所罢工，道琼斯指数期货上涨，标准普尔 500 指数下跌 - 萨拉托加、埃克森美孚、李维斯成为焦点",
-      "_zh_summary": "周一美国股指期货涨跌互现，道琼斯指数上涨，而纳斯达克 100 指数和标准普尔 500 指数在周五收盘走高后下跌。投资者关注本周的主要经济动态，包括 6 月 CPI 和 PPI 数据，以及零售销售和美联储官员的评论。与此同时，10年期国债收益率为4.57%，两年期国债收益率为4.22%。",
-      "_added_at": "2026-07-13T12:20:33.831534+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-13T11:37:00Z",
-      "headline": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
-      "id": 60410281,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Mark-Zuckerberg-Speaks-At-Georgetown-Uni.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Meta expands its Hyperion AI data, pushing investment past $50 billion with Louisiana tax incentives and infrastructure spending.",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT"
-      ],
-      "updated_at": "2026-07-13T11:37:00Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project",
-      "_summary": "Meta Platforms Inc. (NASDAQ: META ) has significantly ramped up its investment in the Hyperion data center project in Louisiana. The project’s cost now surpasses a whopping $50 billion. The company’s Monday blog post revealed that the Richland Parish-based data center, set to be its largest, will be a 5 GW facility. This is a considerable jump from the initial investment and 2GW plan announced in October when Meta and Blue Owl Capital partnered for the project’s construction and management.",
-      "_zh_headline": "马克·扎克伯格 (Mark Zuckerberg) 的 Meta 刚刚加大了迄今为止最大的人工智能赌注，将其 Hyperion 数据中心扩建为价值超过 500 亿美元的项目",
-      "_zh_summary": "Meta Platforms Inc.（纳斯达克股票代码：META）大幅增加了对路易斯安那州 Hyperion 数据中心项目的投资。该项目的成本目前已超过 500 亿美元。该公司周一的博客文章透露，位于 Richland Parish 的数据中心将成为该公司最大的数据中心，容量将达到 5 吉瓦。这与 10 月份 Meta 和 Blue Owl Capital 合作进行该项目建设和管理时宣布的初始投资和 2GW 计划相比有相当大的飞跃。",
-      "_added_at": "2026-07-13T12:20:33.831534+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-13T08:51:06Z",
-      "headline": "Economist Justin Wolfers Says 'the Puzzle' Behind Record Highs 'Goes Away' Once You Take Out AI",
-      "id": 60407505,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Ai-Technology-Bubble-Concept-Chip-Stock-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Economist Justin Wolfers said record U.S. stock highs are being driven largely by AI-linked companies, masking weaker broader markets.",
-      "symbols": [
-        "AMAT",
-        "AVGO",
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-13T08:51:06Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60407505/economist-justin-wolfers-says-the-puzzle-behind-record-highs-goes-away-once-you-take-out-ai",
-      "_summary": "Economist Justin Wolfers on Sunday said the U.S. stock market’s record-setting rally is being driven largely by a handful of artificial intelligence-linked companies, masking what he described as a much less impressive performance across the broader market. In a video posted on X, Wolfers refers to a Goldman Sachs index that excludes major AI companies as well as businesses that supply or benefit from the sector. “The puzzle for why stocks keep hitting new highs goes away the moment you take out AI,” Wolfers added.",
-      "_zh_headline": "经济学家贾斯汀·沃尔弗斯表示，一旦剔除人工智能，创纪录高点背后的“谜团”就会“消失”",
-      "_zh_summary": "经济学家贾斯汀·沃尔弗斯周日表示，美国股市创纪录的上涨主要是由少数与人工智能相关的公司推动的，掩盖了他所描述的整个市场的不那么令人印象深刻的表现。在 X 上发布的一段视频中，沃尔弗斯提到了高盛指数，该指数排除了主要人工智能公司以及为该行业提供服务或从中受益的企业。沃尔弗斯补充道：“一旦人工智能问世，为什么股市不断创出新高的谜题就消失了。”",
-      "_added_at": "2026-07-13T12:20:33.831534+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-13T09:54:34Z",
-      "headline": "Taiwan Semiconductor’s AI Boom Rolls On: June Revenue Jumps 68%",
-      "id": 60408014,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Taiwan Semiconductor reports a 67.9% YoY surge in June revenue as tech giants scramble for AI infrastructure chips.",
-      "symbols": [
-        "AAPL",
-        "AMD",
-        "NVDA",
-        "TSM"
-      ],
-      "updated_at": "2026-07-13T09:59:03Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60408014/taiwan-semiconductors-ai-boom-rolls-on-june-revenue-jumps-68",
-      "_summary": "The world’s largest contract chipmaker said June consolidated revenue rose 6.2% from May to 442.68 billion New Taiwan dollars (about $15.1 billion). Revenue climbed 67.9% from the same month last year. For the first six months of 2026, Taiwan Semiconductor generated consolidated revenue of 2.40 trillion New Taiwan dollars, up 35.6% from the corresponding period in 2025.",
-      "_zh_headline": "台积电AI热潮袭来：6月营收大增68%",
-      "_zh_summary": "这家全球最大的代工芯片制造商表示，6 月份综合营收较 5 月份增长 6.2%，达到 4,426.8 亿新台币（约合 151 亿美元）。收入较去年同月增长 67.9%。 2026年前六个月，台积电合并营收为2.4万亿新台币，较2025年同期增长35.6%。",
-      "_added_at": "2026-07-13T12:20:33.831534+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-13T12:03:06Z",
-      "headline": "Porch Group, Micron And Other Big Stocks Moving Lower In Monday’s Pre-Market Session",
-      "id": 60411047,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Display-Of-Stock-Market-Quotes.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Display-Of-Stock-Market-Quotes.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures lower, Porch Group Inc (NASDAQ: PRCH) downgraded, pre-market trading sees several other stocks declining.",
-      "symbols": [
-        "AVR",
-        "COHU",
-        "DCX",
-        "FIZZ",
-        "GMM",
-        "JLHL",
-        "KEP",
-        "MU",
-        "PLBL",
-        "PRCH",
-        "SNDK",
-        "TOP",
-        "TRIP",
-        "VCRE",
-        "WDC",
-        "YSG"
-      ],
-      "updated_at": "2026-07-13T12:03:06Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60411047/porch-group-micron-and-other-big-stocks-moving-lower-in-mondays-pre-market-session",
-      "_summary": "U.S. stock futures were lower this morning, with the Nasdaq 100 futures falling around 1% on Monday. Shares of Porch Group Inc (NASDAQ: PRCH ) fell sharply in pre-market trading . Keefe, Bruyette & Woods analyst Ryan Tomasello downgraded Porch Group from Outperform to Market Perform and raised the price target from $13 to $16.25. Porch Group shares dipped 8.4% to $13.60 in pre-market trading. Here are some other stocks moving lower in pre-market trading.",
-      "_zh_headline": "Porch Group、Micron 和其他大型股票在周一盘前交易中走低",
-      "_zh_summary": "今天上午美国股指期货走低，纳斯达克 100 指数期货周一下跌约 1%。 Porch Group Inc（纳斯达克股票代码：PRCH）的股价在盘前交易中大幅下跌。 Keefe, Bruyette & Woods 分析师 Ryan Tomasello 将 Porch Group 的评级从跑赢大盘下调至大盘表现，并将目标价从 13 美元上调至 16.25 美元。 Porch Group 股价在盘前交易中下跌 8.4% 至 13.60 美元。以下是其他一些在盘前交易中走低的股票。",
-      "_added_at": "2026-07-13T12:20:33.831534+00:00"
+      "updated_at": "2026-07-13T17:52:02Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60424729/why-is-fubotv-stock-falling-on-monday",
+      "_summary": "FuboTV Inc. (NYSE: FUBO ) shares are trading in positive territory on Monday following the official executive leadership transition that took effect on Friday. The move follows the company’s Thursday announcement that it named Walt Disney Company veteran Alisa Bowen as CEO, succeeding co-founder David Gandler . The Nasdaq is down 1.77% while the S&P 500 has shed 0.70%, and FUBO’s upside stands out against the sector’s 0.51% gain.",
+      "_zh_headline": "为什么Fubotv股票周一下跌？",
+      "_zh_summary": "FuboTV Inc.（纽约证券交易所股票代码：FUBO）继周五正式执行领导层换届后，周一股价上涨。此前，该公司周四宣布任命华特迪士尼公司资深人士艾丽莎·鲍文 (Alisa Bowen) 为首席执行官，接替联合创始人大卫·甘德勒 (David Gandler)。纳斯达克指数下跌 1.77%，标准普尔 500 指数下跌 0.70%，FUBO 的上涨空间在该行业 0.51% 的涨幅中脱颖而出。",
+      "_added_at": "2026-07-14T04:29:46.097638+00:00"
     }
   ]
 }
