@@ -2,6 +2,91 @@
   "date": "2026-07-14",
   "articles": [
     {
+      "author": "Isaac Olaosegba",
+      "content": "",
+      "created_at": "2026-07-14T18:10:48Z",
+      "headline": "June’s CPI Report Just Changed The Rate Debate: Here's What Investors Should Watch",
+      "id": 60453186,
+      "images": [],
+      "source": "benzinga",
+      "summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. \n\n\n\nThe data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving",
+      "symbols": [],
+      "updated_at": "2026-07-14T18:10:48Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60453186/junes-cpi-report-just-changed-the-rate-debate-heres-what-investors-should-watch",
+      "_summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. The data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving investors fresh insight into how the Fed’s policy outlook could evolve from here. Strip out food and energy, and there was zero inflation last month. That’s the number that matters most for what happens next. One day before this report, Fed Governor Waller warned that a hot core print could force the FOMC to consider hiking. Well, the report came in flat instead, meaning that the hawkish case is now effectively off the table. The flat core print is the first genuinely clean signal in months that underlying price pressures are breaking, rather than just easing on the back of temporary swings in energy costs.",
+      "_zh_headline": "6 月 CPI 报告刚刚改变了利率争论：投资者应该关注以下内容",
+      "_zh_summary": "6月通胀报告令人惊喜，CPI年率回落至3.5%。该数据是在美联储新任主席凯文·沃什首次在国会作证前几个小时发布的，让投资者对美联储的政策前景如何演变有了新的了解。除去食品和能源，上个月通胀为零。这是对接下来发生的事情最重要的数字。在这份报告发布前一天，美联储理事沃勒警告称，一份热门的核心报告可能会迫使联邦公开市场委员会考虑加息。然而，该报告的结果却持平，这意味着鹰派的观点现在实际上已经不被讨论了。扁平核心打印是几个月来第一个真正明确的信号，表明潜在的价格压力正在突破，而不仅仅是因能源成本暂时波动而缓解。",
+      "_added_at": "2026-07-14T18:40:52.848910+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-14T17:58:54Z",
+      "headline": "Why Is AMC Entertainment Stock Surging on Tuesday?",
+      "id": 60452810,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Kiev--Ukraine---February-9--2021-In-This.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Kiev--Ukraine---February-9--2021-In-This.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Kiev--Ukraine---February-9--2021-In-This.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AMC stock rises Tuesday as retail traders cite CNBC host Jim Cramer&#39;s bearish comments on the company&#39;s balance sheet as a reason to buy shares.",
+      "symbols": [
+        "AMC",
+        "AMZN",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-14T17:58:54Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60452810/why-is-amc-entertainment-stock-surging-on-tuesday-2",
+      "_summary": "AMC Entertainment Holdings Inc. (NYSE: AMC ) stock rose Tuesday as retail investors responded to comments made by CNBC’s Jim Cramer , treating his critical assessment of the company as a signal to buy. In a segment published on Monday, Cramer said AMC’s turnaround narrative was undermined by its debt levels. “When the meme stock guys pushed AMC, the movie theater chain, as a turnaround play, I knew the stock would have a limited shelf life because the balance sheet was heinous,” Cramer said.",
+      "_zh_headline": "为什么 AMC 娱乐公司的股价周二飙升？",
+      "_zh_summary": "AMC Entertainment Holdings Inc.（纽约证券交易所股票代码：AMC）股价周二上涨，散户投资者对 CNBC 记者吉姆·克莱默 (Jim Cramer) 的评论做出回应，将他对该公司的批评性评估视为买入信号。克莱默在周一发布的一个片段中表示，AMC 的扭亏为盈的叙述因其债务水平而受到损害。克莱默说：“当迷因股票的人推动连锁电影院 AMC 作为扭亏为盈的游戏时，我知道该股票的保质期有限，因为资产负债表令人发指。”",
+      "_added_at": "2026-07-14T18:40:52.848910+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-14T17:20:40Z",
+      "headline": "Why Is Marvell Technology Stock Gaining Tuesday?",
+      "id": 60451482,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Marvell-Technology-Group-Company---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Marvell-Technology-Group-Company---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Marvell-Technology-Group-Company---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell stock jumps 3% as KeyBanc boosts its price target to $400, citing huge custom AI silicon design wins with Amazon and Google.",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "MRVL"
+      ],
+      "updated_at": "2026-07-14T17:20:40Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60451482/why-is-marvell-technology-stock-gaining-tuesday",
+      "_summary": "Marvell Technology Inc. (NASDAQ: MRVL ) stock climbed nearly 3% on Tuesday, riding a wave of broader market gains during a risk-on session. Compounding the gains, KeyBanc maintained an Overweight rating on the stock and boosted its price target from $385 to $400. Analyst John Vinh cited growing momentum in Marvell’s custom AI silicon business. Marvell remains in a long-term uptrend. The stock is trading about 30.5% above its 100-day simple moving average and roughly 74% above its 200-day simple moving average.",
+      "_zh_headline": "为什么 Marvell 科技股周二上涨？",
+      "_zh_summary": "Marvell Technology Inc.（纳斯达克股票代码：MRVL）股价周二上涨近 3%，在风险偏好时段带动大盘上涨。雪上加霜的是，KeyBanc 维持了该股的“增持”评级，并将目标价从 385 美元上调至 400 美元。分析师 John Vinh 指出 Marvell 定制 AI 芯片业务的增长势头。 Marvell 仍处于长期上升趋势。该股目前较 100 天简单移动平均线高出约 30.5%，比 200 天简单移动平均线高出约 74%。",
+      "_added_at": "2026-07-14T18:40:52.848910+00:00"
+    },
+    {
       "author": "Erica Kollmann",
       "content": "",
       "created_at": "2026-07-14T15:22:29Z",
@@ -608,111 +693,6 @@
       "_zh_headline": "彼得希夫警告说，随着美国债务接近 40 万亿美元，利率上升是一个“更大”的威胁",
       "_zh_summary": "当前的债务危机标志着与以往经济周期的历史性背离。科贝西信指出，仅自 2020 年以来，国家债务就增加了 16.3 万亿美元，平均每月增加 2090 亿美元，令人震惊。 “然而，当时美国国债仅为 9 万亿美元。现在已接近 40 万亿美元，是原来的四倍多。利率上升现在是一个更大的问题。”",
       "_added_at": "2026-07-14T09:26:38.389697+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-14T06:57:30Z",
-      "headline": "Nasdaq Dips Over 400 Points Amid Renewed US-Iran Tensions: Greed Index Remains In ‘Fear' Zone",
-      "id": 60433144,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The CNN Money Fear and Greed index improved slightly while remaining in the Fear zone. U.S. stocks fell, with tech stocks taking a hit.",
-      "symbols": [
-        "BAC",
-        "GS",
-        "JPM",
-        "META",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-14T06:57:30Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60433144/nasdaq-dips-over-400-points-amid-renewed-us-iran-tensions-greed-index-remains-in-fear-zone",
-      "_summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the “Fear” zone on Monday. U.S. stocks settled lower on Monday, with the Nasdaq Composite falling more than 400 points during the session amid a surge in oil prices. President Donald Trump floated full U.S. control over the Strait of Hormuz and a reimbursement fee on all cargo passing through. The S&P 500 gained over 1% last week, while the Nasdaq also rose more than 1%.",
-      "_zh_headline": "美伊紧张局势重燃，纳斯达克下跌逾 400 点：贪婪指数仍处于“恐惧”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪有所改善，但该指数周一仍处于“恐惧”区域。周一美国股市收低，因油价飙升，纳斯达克综合指数盘中下跌逾 400 点。唐纳德·特朗普总统提出美国完全控制霍尔木兹海峡，并对所有通过的货物收取费用。标准普尔500指数上周上涨超过1%，纳斯达克指数也上涨超过1%。",
-      "_added_at": "2026-07-14T09:26:38.389697+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-14T09:17:26Z",
-      "headline": "Disney Could Unlock 40% Upside by Returning to Its Pre-Streaming Model, Wells Fargo Says",
-      "id": 60434176,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Ostrava--Czechia---July-27--2024-Disney-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Ostrava--Czechia---July-27--2024-Disney-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Ostrava--Czechia---July-27--2024-Disney-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Disney could boost stock by 40% if it exits streaming and focuses on content creation and licensing, says Wells Fargo.",
-      "symbols": [
-        "DIS",
-        "GOOG",
-        "GOOGL",
-        "NFLX",
-        "SONY",
-        "WFC"
-      ],
-      "updated_at": "2026-07-14T09:19:18Z",
-      "url": "https://www.benzinga.com/news/entertainment/26/07/60434176/disney-could-unlock-40-upside-by-returning-to-its-pre-streaming-model-wells-fargo-says",
-      "_summary": "While the firm lowered its price target on Disney to $125 from $146, it maintained its Overweight rating, according to a report by Investing.com Wells Fargo analyst Steven Cahall said proposed that Disney return to its historical model of producing content rather than distributing it directly through Disney+. “We lay out the case for DIS to return to its old biz model of producing vs.",
-      "_zh_headline": "富国银行表示，迪士尼可以通过恢复流媒体前模式来释放 40% 的上涨空间",
-      "_zh_summary": "Investing.com 富国银行分析师史蒂文·卡霍尔 (Steven Cahall) 在一份报告中表示，虽然该公司将迪士尼的目标股价从 146 美元下调至 125 美元，但仍维持增持评级，建议迪士尼回归其制作内容的历史模式，而不是直接通过 Disney+ 分发内容。 “我们为 DIS 提出了回归其生产与销售的旧商业模式的理由。",
-      "_added_at": "2026-07-14T09:26:38.389697+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-14T05:58:28Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60432670,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Polymarket traders give the July 14 S&amp;P 500 open a 56% chance of rebounding as tech strength offsets Trump’s declaration of a resumed war.",
-      "symbols": [
-        "POLUSD"
-      ],
-      "updated_at": "2026-07-14T05:58:28Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60432670/stock-market-will-sp-500-open-up-or-down-today-9",
-      "_summary": "The S&P 500 is navigating turbulent waters as geopolitical friction enters a new phase. U.S. Central Command said it began a third straight night of strikes against Iran at about 4:45 p.m. ET on Monday. As the strategic shipping channel gridlocks, technical indicators remain volatile: While the Middle East dominates headlining risk, domestic investors are turning their focus to a cluster of major fundamental data points arriving this week.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "随着地缘政治摩擦进入新阶段，标准普尔 500 指数正在动荡的水域中航行。美国中央司令部表示，下午 4 点 45 分左右开始连续第三晚对伊朗发动袭击。美国东部时间周一。由于战略航运通道陷入僵局，技术指标仍然不稳定：尽管中东风险主导，但国内投资者将注意力转向本周公布的一系列主要基本面数据。",
-      "_added_at": "2026-07-14T06:36:57.121128+00:00"
     }
   ]
 }
