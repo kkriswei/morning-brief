@@ -2,6 +2,160 @@
   "date": "2026-07-14",
   "articles": [
     {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-14T14:25:53Z",
+      "headline": "Evercore’s Beat‑and‑Raise 4: Why Nvidia, Alphabet, Netflix and Booking May Finally Catch a Bid",
+      "id": 60444361,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Quarterly-Results-Sales-Profits-Earnings.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Quarterly-Results-Sales-Profits-Earnings.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Quarterly-Results-Sales-Profits-Earnings.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Evercore says earnings strength can extend the bull market with NVDA, GOOGL and NFLX in a sweet spot for potential gains.",
+      "symbols": [
+        "BKNG",
+        "GOOG",
+        "GOOGL",
+        "NFLX",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-14T14:25:53Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60444361/evercores-beat%e2%80%91and%e2%80%91raise-4-why-nvidia-alphabet-netflix-and-booking-may-finally-catch-a-bid",
+      "_summary": "Evercore ISI’s latest \"beaten‑down beat and raisers\" call fits squarely into a broader thesis they’ve been building: earnings strength is still powerful enough to flatten the \"wall of worry” and extend the bull market, even if leadership rotates. Nvidia has lagged the hottest memory and AI infrastructure trades despite double‑digit year‑to‑date gains, while Alphabet has been penalized alongside other hyperscalers as investors balk at heavy AI capex and rising debt issuance.",
+      "_zh_headline": "Evercore 的 Beat-and-Raise 4：为什么 Nvidia、Alphabet、Netflix 和 Booking 可能最终会竞标",
+      "_zh_summary": "Evercore ISI 最新的“击败对手和加注者”呼吁完全符合他们一直在构建的更广泛的论点：即使领导层轮换，盈利实力仍然足以压平“担忧之墙”并延长牛市。尽管年初至今实现了两位数的涨幅，英伟达却落后于最热门的内存和人工智能基础设施交易，而由于投资者对庞大的人工智能资本支出和不断增加的债务发行犹豫不决，Alphabet 与其他超大规模企业一样受到了惩罚。",
+      "_added_at": "2026-07-14T15:09:18.923140+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-14T13:57:41Z",
+      "headline": "IBM Crashes 24%, Drags Tech and IT Services Stocks Into Selloff",
+      "id": 60442792,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "IBM stock hits a rough patch: Q2 revenue misses estimates amid shifting enterprise spending. Here’s the impact on the tech market.",
+      "symbols": [
+        "ACN",
+        "CRM",
+        "CTSH",
+        "IBM",
+        "INFY",
+        "MSFT",
+        "NOW",
+        "ORCL",
+        "SAP",
+        "WIT"
+      ],
+      "updated_at": "2026-07-14T14:01:02Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60442792/ibm-crashes-24-drags-big-tech-and-it-services-stocks-into-selloff",
+      "_summary": "IBM expects second-quarter revenue of $17.2 billion, below the Wall Street consensus estimate of $17.86 billion. The company projects operating non-GAAP earnings per share of $2.93, missing the analyst consensus estimate of $3.02. IBM Chairman and CEO Arvind Krishna stated that enterprise customers redirected capital spending late in the quarter toward servers, storage, and memory products to secure supply ahead of anticipated price increases.",
+      "_zh_headline": "IBM 暴跌 24%，科技和 IT 服务类股票陷入抛售",
+      "_zh_summary": "IBM预计第二季度营收为172亿美元，低于华尔街普遍预期的178.6亿美元。该公司预计非 GAAP 每股运营收益为 2.93 美元，低于分析师一致预期的 3.02 美元。 IBM 董事长兼首席执行官 Arvind Krishna 表示，企业客户在本季度末将资本支出转向服务器、存储和内存产品，以确保在预期价格上涨之前确保供应。",
+      "_added_at": "2026-07-14T15:09:18.923140+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-14T14:05:06Z",
+      "headline": "Nasdaq Surges Over 100 Points; Bank of America Earnings Top Views",
+      "id": 60443307,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Luminar-Technologies-Inc-NASDAQLAZR.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Luminar-Technologies-Inc-NASDAQLAZR.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Luminar-Technologies-Inc-NASDAQLAZR.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "US stocks rise, Nasdaq gains 100 points. Dow up 0.18%, Nasdaq up 0.49%, S&amp;P 500 up 0.26%. Materials sector up 1.5%, healthcare down 1.4%. Bank of America beats earnings expectations.",
+      "symbols": [
+        "BAC",
+        "FTRK",
+        "JTAI",
+        "LGHL",
+        "MTNB",
+        "NXTC",
+        "UBXG"
+      ],
+      "updated_at": "2026-07-14T14:05:06Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60443307/nasdaq-surges-over-100-points-bank-of-america-earnings-top-views",
+      "_summary": "U.S. stocks traded higher this morning, with the Nasdaq Composite gaining more than 100 points on Tuesday. Following the market opening Tuesday, the Dow traded up 0.18% to 52,590.84 while the NASDAQ rose 0.49% to 25,998.70 The S&P 500 also rose, gaining, 0.26% to 7,534.77. In trading on Tuesday, health care stocks fell by 1.4%. Bank of America (NYSE: BAC ) reported better-than-expected earnings for the second quarter on Tuesday.",
+      "_zh_headline": "纳斯达克指数飙升逾100点；美国银行收益热门观点",
+      "_zh_summary": "今天上午美国股市走高，周二纳斯达克综合指数上涨超过 100 点。周二开盘后，道指上涨 0.18% 至 52,590.84 点，纳斯达克指数上涨 0.49% 至 25,998.70 点；标准普尔 500 指数也上涨 0.26% 至 7,534.77 点。周二交易中，医疗保健股下跌 1.4%。美国银行（纽约证券交易所股票代码：BAC）周二公布的第二季度盈利好于预期。",
+      "_added_at": "2026-07-14T15:09:18.923140+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-14T13:37:03Z",
+      "headline": "Jim Cramer Says Tech Is 'Hostage' To SK Hynix. Here's Why Nvidia Investors Should Care",
+      "id": 60441665,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Jim-Cramer.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Jim-Cramer.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Jim-Cramer.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Jim Cramer said tech has become &#34;hostage&#34; to SK Hynix. Here&#39;s why Nvidia investors are paying close attention to the AI memory leader.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SKHU",
+        "SKHX",
+        "SKHY",
+        "SKUU",
+        "SNDK",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-14T13:37:03Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60441665/jim-cramer-says-tech-is-hostage-to-sk-hynix-heres-why-nvidia-investors-should-care",
+      "_summary": "While the comments were vintage Cramer—part observation, part hyperbole—they reflect a broader shift in how Wall Street views the AI supply chain. Unlike traditional memory chips, HBM is designed to move massive amounts of data between memory and AI processors at extremely high speeds. It has become an essential component in Nvidia’s latest AI accelerators, including its Blackwell platform.",
+      "_zh_headline": "Jim Cramer 称科技是 SK 海力士的“人质”。这就是为什么英伟达投资者应该关心的原因",
+      "_zh_summary": "虽然这些评论是老式的克莱默（部分观察，部分夸张），但它们反映了华尔街对人工智能供应链的看法发生了更广泛的转变。与传统存储芯片不同，HBM 旨在以极高的速度在内存和人工智能处理器之间移动大量数据。它已成为 Nvidia 最新人工智能加速器（包括其 Blackwell 平台）的重要组成部分。",
+      "_added_at": "2026-07-14T15:09:18.923140+00:00"
+    },
+    {
       "author": "Namrata Sen",
       "content": "",
       "created_at": "2026-07-14T12:36:43Z",
@@ -567,146 +721,6 @@
       "_summary": "The recent sell-off reflects a shift in investor sentiment rather than a collapse in industry fundamentals. After months of steady gains fueled by AI optimism, markets are becoming less willing to pay premium multiples without stronger evidence that AI spending is translating into sustainable returns. The reassessment has also been fueled by concerns over debt-funded AI infrastructure investments.",
       "_zh_headline": "从有史以来最好的 ETF 首次亮相到熊市：美光和 AI 内存股暴跌，DRAM 狂飙",
       "_zh_summary": "最近的抛售反映了投资者情绪的转变，而不是行业基本面的崩溃。在人工智能乐观情绪推动了数月的稳定上涨之后，如果没有更有力的证据表明人工智能支出正在转化为可持续回报，市场将变得越来越不愿意支付溢价倍数。对债务资助的人工智能基础设施投资的担忧也加剧了重新评估。",
-      "_added_at": "2026-07-14T04:29:46.097638+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-13T18:25:10Z",
-      "headline": "Meta and xAI Just Strengthened Nvidia's AI Moat, Portfolio Manager Says",
-      "id": 60426151,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Shanghai-china-march-15th-2026-Nvidia-Br.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Shanghai-china-march-15th-2026-Nvidia-Br.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Shanghai-china-march-15th-2026-Nvidia-Br.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Meta&#39;s Muse Spark 1.1 and xAI&#39;s Grok 4.5 reinforce Nvidia&#39;s AI moat, says Gabelli Funds portfolio manager John Belton.",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "NVDA",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-13T18:25:10Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60426151/meta-xai-just-strengthened-nvidia-ai-moat",
-      "_summary": "In a recent note, Belton pointed to Meta’s Muse Spark 1.1 and xAI’s Grok 4.5 as evidence that frontier AI developers continue to rely on Nvidia’s infrastructure to train their most advanced models. “Both models were trained on NVDA infrastructure, suggesting there is still a clear value proposition for using NVDA’s stack,” Belton wrote.",
-      "_zh_headline": "产品组合经理表示，Meta 和 xAI 刚刚加强了 Nvidia 的 AI 护城河",
-      "_zh_summary": "在最近的一份报告中，Belton 指出 Meta 的 Muse Spark 1.1 和 xAI 的 Grok 4.5 证明前沿人工智能开发人员继续依赖 Nvidia 的基础设施来训练他们最先进的模型。 “这两种模型都在 NVDA 基础设施上进行了训练，这表明使用 NVDA 堆栈仍然具有明确的价值主张，”贝尔顿写道。",
-      "_added_at": "2026-07-14T04:29:46.097638+00:00"
-    },
-    {
-      "author": "Evette Mitkov",
-      "content": "",
-      "created_at": "2026-07-13T18:11:12Z",
-      "headline": "Oil Stocks Surge Amid Escalating US-Iran Tensions",
-      "id": 60425551,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Oil-Pump-Jacks-And-Refinery-Silhouettes-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Oil-Pump-Jacks-And-Refinery-Silhouettes-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Oil-Pump-Jacks-And-Refinery-Silhouettes-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Oil and gas names are pushing higher Monday as simultaneous flashpoints in the Middle East and Eastern Europe threaten to squeeze global energy supplies from multiple directions at once.",
-      "symbols": [
-        "CVX",
-        "OXY",
-        "USO",
-        "XOM"
-      ],
-      "updated_at": "2026-07-13T18:11:12Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60425551/oil-stocks-surge-amid-escalating-us-iran-tensions",
-      "_summary": "Oil and gas names are pushing higher Monday as simultaneous flashpoints in the Middle East and Eastern Europe threaten to squeeze global energy supplies from multiple directions at once . Layered on top of the Middle East turmoil is a Ukrainian air campaign that has been methodically dismantling Russian refining capacity over recent months. Kyiv has directed strikes at some of the largest fuel processing facilities inside Russia, according to Reuters.",
-      "_zh_headline": "美伊紧张局势升级，石油库存飙升",
-      "_zh_summary": "由于中东和东欧同时发生的热点事件有可能同时从多个方向挤压全球能源供应，石油和天然气股周一走高。除了中东动荡之外，最近几个月乌克兰的空袭一直在有条不紊地摧毁俄罗斯的炼油能力。据路透社报道，基辅已针对俄罗斯境内一些最大的燃料加工设施发动了袭击。",
-      "_added_at": "2026-07-14T04:29:46.097638+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-13T20:24:06Z",
-      "headline": "New DRVR ETF Bets on S&P 500 Dividend Growth as Income Investors Seek Quality",
-      "id": 60429692,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Etf-Investment--Exchange-traded-Funds--R.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Amplify ETFs&#39; DRVR ETF tracks S&amp;P 500 companies with at least 10 years of dividend growth. Here&#39;s how it differs from other dividend-growth ETFs.",
-      "symbols": [
-        "BBY",
-        "DRVR",
-        "TROW",
-        "UPS"
-      ],
-      "updated_at": "2026-07-13T20:24:06Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60429692/new-drvr-etf-bets-on-sp-500-dividend-growth-as-income-investors-seek-quality",
-      "_summary": "According to Amplify, companies with sustained dividend growth often exhibit durable business models, disciplined capital allocation and strong earnings power, making the strategy suitable as a core equity income allocation across different market environments. The portfolio is currently tilted toward the industrial and financial sectors. 3. Eligibility: S&P 500 companies with 10 consecutive years of dividend increases and expected dividend growth next year",
-      "_zh_headline": "新 DRVR ETF 押注标普 500 指数股息增长，因为收入投资者追求质量",
-      "_zh_summary": "Amplify表示，股息持续增长的公司往往表现出持久的商业模式、严格的资本配置和强大的盈利能力，使得该策略适合作为不同市场环境下的核心股权收益配置。目前投资组合偏向工业和金融领域。 3. 资格：连续10年股息增加且预计明年股息增长的标普500公司",
-      "_added_at": "2026-07-14T04:29:46.097638+00:00"
-    },
-    {
-      "author": "Adam Eckert",
-      "content": "",
-      "created_at": "2026-07-13T21:37:30Z",
-      "headline": "Penguin Solutions Stock Tumbles On Proposed Private Offering",
-      "id": 60431195,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Financial-Market-Crash-Concept-With-Red-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Financial-Market-Crash-Concept-With-Red-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/13/Financial-Market-Crash-Concept-With-Red-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Penguin Solutions stock is moving lower in extended trading Monday after the company announced a proposed convertible notes offering.",
-      "symbols": [
-        "PENG"
-      ],
-      "updated_at": "2026-07-13T21:37:30Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60431195/penguin-solutions-stock-tumbles-on-proposed-private-offering",
-      "_summary": "After the market close on Monday, Penguin Solutions announced that it intends to offer $650 million of convertible senior notes due 2031 to qualified institutional buyers in a private offering. The company plans to offer the initial purchasers a 13-day option to buy up to an additional $100 million of the notes. Concurrently, Penguin plans to enter into privately negotiated exchanges of a portion of existing convertible senior notes due 2029 and 2030.",
-      "_zh_headline": "Penguin Solutions 股价因私募发行提议而暴跌",
-      "_zh_summary": "周一收盘后，Penguin Solutions 宣布打算通过私募方式向合格机构买家发行 2031 年到期的 6.5 亿美元可转换优先票据。该公司计划向初始购买者提供 13 天的选择权，以额外购买最多 1 亿美元的票据。与此同时，Penguin 计划对 2029 年和 2030 年到期的部分现有可转换优先票据进行私下谈判交换。",
       "_added_at": "2026-07-14T04:29:46.097638+00:00"
     }
   ]
