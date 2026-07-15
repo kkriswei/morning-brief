@@ -1,46 +1,22 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "articles": [
     {
-      "author": "Benzinga Insights",
+      "author": "Isaac Olaosegba",
       "content": "",
-      "created_at": "2026-07-14T17:35:09Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "id": 60452105,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
-        }
-      ],
+      "created_at": "2026-07-14T18:10:48Z",
+      "headline": "June’s CPI Report Just Changed The Rate Debate: Here's What Investors Should Watch",
+      "id": 60453186,
+      "images": [],
       "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "symbols": [
-        "FIG",
-        "INTC",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "ORCL",
-        "PLTR",
-        "SMCI",
-        "SNDK",
-        "WULF"
-      ],
-      "updated_at": "2026-07-14T17:35:09Z",
-      "url": "https://www.benzinga.com/markets/options/26/07/60452105/10-information-technology-stocks-whale-alerts-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-07-15T00:52:03.711775+00:00"
+      "summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. \n\n\n\nThe data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving",
+      "symbols": [],
+      "updated_at": "2026-07-14T18:10:48Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60453186/junes-cpi-report-just-changed-the-rate-debate-heres-what-investors-should-watch",
+      "_summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. The data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving investors fresh insight into how the Fed’s policy outlook could evolve from here. Strip out food and energy, and there was zero inflation last month. That’s the number that matters most for what happens next. One day before this report, Fed Governor Waller warned that a hot core print could force the FOMC to consider hiking. Well, the report came in flat instead, meaning that the hawkish case is now effectively off the table. The flat core print is the first genuinely clean signal in months that underlying price pressures are breaking, rather than just easing on the back of temporary swings in energy costs.",
+      "_zh_headline": "6 月 CPI 报告刚刚改变了利率争论：投资者应该关注以下内容",
+      "_zh_summary": "6月通胀报告令人惊喜，CPI年率回落至3.5%。该数据是在美联储新任主席凯文·沃什首次在国会作证前几个小时发布的，让投资者对美联储的政策前景如何演变有了新的了解。除去食品和能源，上个月通胀为零。这是对接下来发生的事情最重要的数字。在这份报告发布前一天，美联储理事沃勒警告称，一份热门的核心报告可能会迫使联邦公开市场委员会考虑加息。然而，该报告的结果却持平，这意味着鹰派的观点现在实际上已经不被讨论了。扁平核心打印是几个月来第一个真正明确的信号，表明潜在的价格压力正在突破，而不仅仅是因能源成本暂时波动而缓解。",
+      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     },
     {
       "author": "The Arora Report",
@@ -91,7 +67,7 @@
       "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Amazon.com, Inc. (NASDAQ: AMZN ) .",
       "_zh_headline": "银行盈利表明经济强劲； IBM 放弃拖动软件；沃什表示不能容忍通货膨胀",
       "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，亚马逊公司（纳斯达克股票代码：AMZN）的资金流向是中性的。",
-      "_added_at": "2026-07-14T20:39:24.397796+00:00"
+      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     },
     {
       "author": "Kaustubh Bagalkote",
@@ -126,7 +102,7 @@
       "_summary": "Sen highlighted that the QNX software is utilized by over 45 automakers, including all top 10 global original equipment manufacturers (OEMs) and 24 of the top 25 electric vehicle manufacturers. Valuation discrepancies continue to drive active discussions among stock market traders. The BluBird Capital report noted that while the stock trades at $10, Wall Street’s average price forecast is still below $8. Sen noted in its post that, “The phone company died a decade ago.",
       "_zh_headline": "为什么黑莓股价周二飙升？",
       "_zh_summary": "Sen 强调，超过 45 家汽车制造商使用 QNX 软件，其中包括全球排名前 10 的原始设备制造商 (OEM) 以及排名前 25 的电动汽车制造商中的 24 家。估值差异继续推动股市交易者之间的积极讨论。 BluBird Capital 报告指出，虽然该股的交易价格为 10 美元，但华尔街的平均价格预测仍低于 8 美元。森在其帖子中指出，“这家电话公司十年前就死了。",
-      "_added_at": "2026-07-14T20:39:24.397796+00:00"
+      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     },
     {
       "author": "Chandrima Sanyal",
@@ -176,556 +152,80 @@
       "_summary": "The catalyst came from IBM’s latest earnings commentary. CEO Arvind Krishna said enterprise customers shifted capital spending toward servers, storage and memory to secure supply-constrained AI infrastructure ahead of expected price increases. At the same time, he said “rapidly evolving, industry-wide cybersecurity concerns” remained a key area of customer focus. The remarks reassured investors that cybersecurity is proving resilient even as companies devote billions of dollars to building AI infrastructure.",
       "_zh_headline": "IBM 表示人工智能支出并没有取代网络安全。这些 ETF 势头强劲",
       "_zh_summary": "催化剂来自 IBM 最新的财报评论。首席执行官 Arvind Krishna 表示，企业客户将资本支出转向服务器、存储和内存，以在预期价格上涨之前确保供应有限的人工智能基础设施。与此同时，他表示“快速发展的全行业网络安全问题”仍然是客户关注的关键领域。这些言论让投资者放心，即使公司投入数十亿美元建设人工智能基础设施，网络安全也被证明具有弹性。",
-      "_added_at": "2026-07-14T20:39:24.397796+00:00"
+      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     },
     {
-      "author": "Isaac Olaosegba",
+      "author": "Chandrima Sanyal",
       "content": "",
-      "created_at": "2026-07-14T18:10:48Z",
-      "headline": "June’s CPI Report Just Changed The Rate Debate: Here's What Investors Should Watch",
-      "id": 60453186,
-      "images": [],
-      "source": "benzinga",
-      "summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. \n\n\n\nThe data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving",
-      "symbols": [],
-      "updated_at": "2026-07-14T18:10:48Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60453186/junes-cpi-report-just-changed-the-rate-debate-heres-what-investors-should-watch",
-      "_summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. The data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving investors fresh insight into how the Fed’s policy outlook could evolve from here. Strip out food and energy, and there was zero inflation last month. That’s the number that matters most for what happens next. One day before this report, Fed Governor Waller warned that a hot core print could force the FOMC to consider hiking. Well, the report came in flat instead, meaning that the hawkish case is now effectively off the table. The flat core print is the first genuinely clean signal in months that underlying price pressures are breaking, rather than just easing on the back of temporary swings in energy costs.",
-      "_zh_headline": "6 月 CPI 报告刚刚改变了利率争论：投资者应该关注以下内容",
-      "_zh_summary": "6月通胀报告令人惊喜，CPI年率回落至3.5%。该数据是在美联储新任主席凯文·沃什首次在国会作证前几个小时发布的，让投资者对美联储的政策前景如何演变有了新的了解。除去食品和能源，上个月通胀为零。这是对接下来发生的事情最重要的数字。在这份报告发布前一天，美联储理事沃勒警告称，一份热门的核心报告可能会迫使联邦公开市场委员会考虑加息。然而，该报告的结果却持平，这意味着鹰派的观点现在实际上已经不被讨论了。扁平核心打印是几个月来第一个真正明确的信号，表明潜在的价格压力正在突破，而不仅仅是因能源成本暂时波动而缓解。",
-      "_added_at": "2026-07-14T18:40:52.848910+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-14T17:58:54Z",
-      "headline": "Why Is AMC Entertainment Stock Surging on Tuesday?",
-      "id": 60452810,
+      "created_at": "2026-07-14T18:01:58Z",
+      "headline": "The Secret Behind 2026's Biggest ETF Launches Isn't What You Think",
+      "id": 60452951,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Kiev--Ukraine---February-9--2021-In-This.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/ETFs.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Kiev--Ukraine---February-9--2021-In-This.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/ETFs.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Kiev--Ukraine---February-9--2021-In-This.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/ETFs.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "AMC stock rises Tuesday as retail traders cite CNBC host Jim Cramer&#39;s bearish comments on the company&#39;s balance sheet as a reason to buy shares.",
+      "summary": "A record 728 ETFs launched in H1 2026, but only a handful captured billions. Here&#39;s what these standout funds reveal about where ETF innovation is headed.",
       "symbols": [
-        "AMC",
-        "AMZN",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-14T17:58:54Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60452810/why-is-amc-entertainment-stock-surging-on-tuesday-2",
-      "_summary": "AMC Entertainment Holdings Inc. (NYSE: AMC ) stock rose Tuesday as retail investors responded to comments made by CNBC’s Jim Cramer , treating his critical assessment of the company as a signal to buy. In a segment published on Monday, Cramer said AMC’s turnaround narrative was undermined by its debt levels. “When the meme stock guys pushed AMC, the movie theater chain, as a turnaround play, I knew the stock would have a limited shelf life because the balance sheet was heinous,” Cramer said.",
-      "_zh_headline": "为什么 AMC 娱乐公司的股价周二飙升？",
-      "_zh_summary": "AMC Entertainment Holdings Inc.（纽约证券交易所股票代码：AMC）股价周二上涨，散户投资者对 CNBC 记者吉姆·克莱默 (Jim Cramer) 的评论做出回应，将他对该公司的批评性评估视为买入信号。克莱默在周一发布的一个片段中表示，AMC 的扭亏为盈的叙述因其债务水平而受到损害。克莱默说：“当迷因股票的人推动连锁电影院 AMC 作为扭亏为盈的游戏时，我知道该股票的保质期有限，因为资产负债表令人发指。”",
-      "_added_at": "2026-07-14T18:40:52.848910+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-14T17:20:40Z",
-      "headline": "Why Is Marvell Technology Stock Gaining Tuesday?",
-      "id": 60451482,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Marvell-Technology-Group-Company---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Marvell-Technology-Group-Company---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Marvell-Technology-Group-Company---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Marvell stock jumps 3% as KeyBanc boosts its price target to $400, citing huge custom AI silicon design wins with Amazon and Google.",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "MRVL"
-      ],
-      "updated_at": "2026-07-14T17:20:40Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60451482/why-is-marvell-technology-stock-gaining-tuesday",
-      "_summary": "Marvell Technology Inc. (NASDAQ: MRVL ) stock climbed nearly 3% on Tuesday, riding a wave of broader market gains during a risk-on session. Compounding the gains, KeyBanc maintained an Overweight rating on the stock and boosted its price target from $385 to $400. Analyst John Vinh cited growing momentum in Marvell’s custom AI silicon business. Marvell remains in a long-term uptrend. The stock is trading about 30.5% above its 100-day simple moving average and roughly 74% above its 200-day simple moving average.",
-      "_zh_headline": "为什么 Marvell 科技股周二上涨？",
-      "_zh_summary": "Marvell Technology Inc.（纳斯达克股票代码：MRVL）股价周二上涨近 3%，在风险偏好时段带动大盘上涨。雪上加霜的是，KeyBanc 维持了该股的“增持”评级，并将目标价从 385 美元上调至 400 美元。分析师 John Vinh 指出 Marvell 定制 AI 芯片业务的增长势头。 Marvell 仍处于长期上升趋势。该股目前较 100 天简单移动平均线高出约 30.5%，比 200 天简单移动平均线高出约 74%。",
-      "_added_at": "2026-07-14T18:40:52.848910+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-14T15:22:29Z",
-      "headline": "Cooler CPI, Hotter Risk Appetite: Data Slams Door on July Fed Rate Hike",
-      "id": 60446797,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Inflation-Increases--Commodities-With-Fi.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Inflation-Increases--Commodities-With-Fi.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Inflation-Increases--Commodities-With-Fi.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "June&#39;s CPI surprises to the downside, giving the Fed room to keep rates steady and boosting stocks.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-14T15:22:29Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60446797/cooler-cpi-hotter-risk-appetite-data-slams-door-on-july-fed-rate-hike",
-      "_summary": "June’s cooler‑than‑expected Consumer Price Index print gave the Federal Reserve breathing room to hold rates steady this month, sending U.S. stocks modestly higher as traders slashed the odds of a near‑term hike. The S&P 500 edged up, the Nasdaq 100 climbed about 0.7%, and the Dow pared earlier losses to turn green while growth and rate‑sensitive names caught a bid on the benign inflation surprise. Headline CPI fell 0.4% month‑over‑month in June, pulling the annual inflation rate down to 3.5%.",
-      "_zh_headline": "CPI降温，风险偏好升温：数据敲响了美联储7月加息的大门",
-      "_zh_summary": "6月份低于预期的消费者价格指数为美联储本月维持利率稳定提供了喘息空间，随着交易员大幅削减近期加息的可能性，美国股市小幅走高。标准普尔 500 指数小幅上涨，纳斯达克 100 指数上涨约 0.7%，道指回吐早前跌幅，转为绿色，而对增长和利率敏感的股票则因温和的通胀意外而受到追捧。 6 月份总体 CPI 环比下降 0.4%，年通胀率降至 3.5%。",
-      "_added_at": "2026-07-14T16:46:26.475739+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-14T16:36:30Z",
-      "headline": "Arm Stock Tumbles After HSBC Sounds Valuation Alarm",
-      "id": 60449878,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Arm-Inc-headquarters-in-Silicon-Valley.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Arm-Inc-headquarters-in-Silicon-Valley.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Arm-Inc-headquarters-in-Silicon-Valley.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ARM stock falls over 6% after HSBC downgrade flags valuation risks, despite KeyBanc raising its price target to $430. Get details.",
-      "symbols": [
-        "AMZN",
-        "ARM",
-        "GOOGL",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-14T16:36:30Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/07/60449878/arm-stock-tumbles-after-hsbc-sounds-valuation-alarm",
-      "_summary": "The decline came despite mixed analyst commentary, with HSBC turning more cautious even as KeyBanc became more bullish on Arm’s long-term growth prospects. HSBC analyst Frank Lee downgraded Arm to Hold from Buy while raising his price forecast to $315 from $255. The analyst said enthusiasm surrounding Arm’s expanding role in CPUs has pushed the stock well ahead of fundamentals.",
-      "_zh_headline": "汇丰银行拉响估值警报后，手臂股票暴跌",
-      "_zh_summary": "尽管分析师评论不一，但汇丰银行却变得更加谨慎，尽管 KeyBanc 对 Arm 的长期增长前景更加看好，但股价还是出现了下跌。汇丰银行分析师 Frank Lee 将 Arm 评级从买入下调至持有，同时将其价格预测从 255 美元上调至 315 美元。这位分析师表示，人们对 Arm 在 CPU 领域不断扩大的作用的热情推动该股远远领先于基本面。",
-      "_added_at": "2026-07-14T16:46:26.475739+00:00"
-    },
-    {
-      "author": "Lekha Gupta",
-      "content": "",
-      "created_at": "2026-07-14T15:54:57Z",
-      "headline": "Nebius Stock Jumps on $1 Billion AI Infrastructure Deal",
-      "id": 60448157,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Konskie--Poland---May-03--2025-Nebius-Gr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Konskie--Poland---May-03--2025-Nebius-Gr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Konskie--Poland---May-03--2025-Nebius-Gr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nebius shares gained after securing a multi-year AI infrastructure agreement worth over $1 billion with startup Reflection AI through 2029.",
-      "symbols": [
-        "MSFT",
-        "NBIS"
-      ],
-      "updated_at": "2026-07-14T15:54:57Z",
-      "url": "https://www.benzinga.com/markets/large-cap/26/07/60448157/nebius-stock-jumps-on-1-billion-ai-infrastructure-deal",
-      "_summary": "Nebius Group (NASDAQ: NBIS ) shares are trading higher by about 4% during Tuesday’s premarket session as risk appetite improves for high-beta tech names. Nasdaq futures are up 1.10% while S&P 500 futures have gained 0.23%. As per Bloomberg, the company secured a deal worth over $1 billion to provide computing capacity to Reflection AI, an artificial intelligence startup founded by former Google DeepMind researchers.",
-      "_zh_headline": "Nebius 股价因 10 亿美元人工智能基础设施交易而上涨",
-      "_zh_summary": "Nebius Group（纳斯达克股票代码：NBIS）股价在周二盘前交易中上涨约 4%，因为高贝塔科技公司的风险偏好有所改善。纳斯达克指数期货上涨 1.10%，标准普尔 500 指数期货上涨 0.23%。据彭博社报道，该公司达成了一项价值超过 10 亿美元的交易，为 Reflection AI 提供计算能力，Reflection AI 是一家由前 Google DeepMind 研究人员创立的人工智能初创公司。",
-      "_added_at": "2026-07-14T16:46:26.475739+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-14T15:54:56Z",
-      "headline": "TSMC's 68% Sales Surge Just Validated This Billionaire's $9.5 Billion Bet",
-      "id": 60448155,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/TSMC--Photo-by-Sundry-Photography-on-Shu.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "TSMC reported 67.9% June sales growth ahead of earnings, reinforcing billionaire Lewis Sanders&#39; $9.5 billion investment in the AI chip giant.",
-      "symbols": [
-        "AMD",
-        "AVGO",
-        "NVDA",
-        "TSM"
-      ],
-      "updated_at": "2026-07-14T15:54:56Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60448155/tsmc-68-percent-sales-surge-validate-lewis-sanders-9-billion-bet",
-      "_summary": "The latest sales figures also reinforce one of Wall Street’s biggest hedge fund bets. Billionaire investor Lewis Sanders , founder of Sanders Capital , owns approximately 28.1 million TSMC shares valued at about $9.5 billion, making the chipmaker the firm’s largest holding and accounting for roughly 11.3% of its equity portfolio. The position reflects a high-conviction bet on the company at the heart of the AI semiconductor supply chain.",
-      "_zh_headline": "台积电销售额激增 68% 验证了这位亿万富翁的 95 亿美元赌注",
-      "_zh_summary": "最新的销售数据也强化了华尔街对冲基金最大的押注之一。桑德斯资本 (Sanders Capital) 创始人、亿万富翁投资者刘易斯·桑德斯 (Lewis Sanders) 拥有约 2810 万股台积电股票，价值约 95 亿美元，使这家芯片制造商成为该公司最大的持股公司，约占其股票投资组合的 11.3%。这一职位反映出人们对这家位于人工智能半导体供应链核心的公司的坚定押注。",
-      "_added_at": "2026-07-14T16:46:26.475739+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-14T14:25:53Z",
-      "headline": "Evercore’s Beat‑and‑Raise 4: Why Nvidia, Alphabet, Netflix and Booking May Finally Catch a Bid",
-      "id": 60444361,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Quarterly-Results-Sales-Profits-Earnings.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Quarterly-Results-Sales-Profits-Earnings.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Quarterly-Results-Sales-Profits-Earnings.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Evercore says earnings strength can extend the bull market with NVDA, GOOGL and NFLX in a sweet spot for potential gains.",
-      "symbols": [
-        "BKNG",
-        "GOOG",
-        "GOOGL",
-        "NFLX",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-14T14:25:53Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60444361/evercores-beat%e2%80%91and%e2%80%91raise-4-why-nvidia-alphabet-netflix-and-booking-may-finally-catch-a-bid",
-      "_summary": "Evercore ISI’s latest \"beaten‑down beat and raisers\" call fits squarely into a broader thesis they’ve been building: earnings strength is still powerful enough to flatten the \"wall of worry” and extend the bull market, even if leadership rotates. Nvidia has lagged the hottest memory and AI infrastructure trades despite double‑digit year‑to‑date gains, while Alphabet has been penalized alongside other hyperscalers as investors balk at heavy AI capex and rising debt issuance.",
-      "_zh_headline": "Evercore 的 Beat-and-Raise 4：为什么 Nvidia、Alphabet、Netflix 和 Booking 可能最终会竞标",
-      "_zh_summary": "Evercore ISI 最新的“击败对手和加注者”呼吁完全符合他们一直在构建的更广泛的论点：即使领导层轮换，盈利实力仍然足以压平“担忧之墙”并延长牛市。尽管年初至今实现了两位数的涨幅，英伟达却落后于最热门的内存和人工智能基础设施交易，而由于投资者对庞大的人工智能资本支出和不断增加的债务发行犹豫不决，Alphabet 与其他超大规模企业一样受到了惩罚。",
-      "_added_at": "2026-07-14T15:09:18.923140+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-14T13:57:41Z",
-      "headline": "IBM Crashes 24%, Drags Tech and IT Services Stocks Into Selloff",
-      "id": 60442792,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "IBM stock hits a rough patch: Q2 revenue misses estimates amid shifting enterprise spending. Here’s the impact on the tech market.",
-      "symbols": [
-        "ACN",
-        "CRM",
-        "CTSH",
-        "IBM",
-        "INFY",
-        "MSFT",
-        "NOW",
-        "ORCL",
-        "SAP",
-        "WIT"
-      ],
-      "updated_at": "2026-07-14T14:01:02Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60442792/ibm-crashes-24-drags-big-tech-and-it-services-stocks-into-selloff",
-      "_summary": "IBM expects second-quarter revenue of $17.2 billion, below the Wall Street consensus estimate of $17.86 billion. The company projects operating non-GAAP earnings per share of $2.93, missing the analyst consensus estimate of $3.02. IBM Chairman and CEO Arvind Krishna stated that enterprise customers redirected capital spending late in the quarter toward servers, storage, and memory products to secure supply ahead of anticipated price increases.",
-      "_zh_headline": "IBM 暴跌 24%，科技和 IT 服务类股票陷入抛售",
-      "_zh_summary": "IBM预计第二季度营收为172亿美元，低于华尔街普遍预期的178.6亿美元。该公司预计非 GAAP 每股运营收益为 2.93 美元，低于分析师一致预期的 3.02 美元。 IBM 董事长兼首席执行官 Arvind Krishna 表示，企业客户在本季度末将资本支出转向服务器、存储和内存产品，以确保在预期价格上涨之前确保供应。",
-      "_added_at": "2026-07-14T15:09:18.923140+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-14T14:05:06Z",
-      "headline": "Nasdaq Surges Over 100 Points; Bank of America Earnings Top Views",
-      "id": 60443307,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Luminar-Technologies-Inc-NASDAQLAZR.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Luminar-Technologies-Inc-NASDAQLAZR.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Luminar-Technologies-Inc-NASDAQLAZR.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "US stocks rise, Nasdaq gains 100 points. Dow up 0.18%, Nasdaq up 0.49%, S&amp;P 500 up 0.26%. Materials sector up 1.5%, healthcare down 1.4%. Bank of America beats earnings expectations.",
-      "symbols": [
-        "BAC",
-        "FTRK",
-        "JTAI",
-        "LGHL",
-        "MTNB",
-        "NXTC",
-        "UBXG"
-      ],
-      "updated_at": "2026-07-14T14:05:06Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60443307/nasdaq-surges-over-100-points-bank-of-america-earnings-top-views",
-      "_summary": "U.S. stocks traded higher this morning, with the Nasdaq Composite gaining more than 100 points on Tuesday. Following the market opening Tuesday, the Dow traded up 0.18% to 52,590.84 while the NASDAQ rose 0.49% to 25,998.70 The S&P 500 also rose, gaining, 0.26% to 7,534.77. In trading on Tuesday, health care stocks fell by 1.4%. Bank of America (NYSE: BAC ) reported better-than-expected earnings for the second quarter on Tuesday.",
-      "_zh_headline": "纳斯达克指数飙升逾100点；美国银行收益热门观点",
-      "_zh_summary": "今天上午美国股市走高，周二纳斯达克综合指数上涨超过 100 点。周二开盘后，道指上涨 0.18% 至 52,590.84 点，纳斯达克指数上涨 0.49% 至 25,998.70 点；标准普尔 500 指数也上涨 0.26% 至 7,534.77 点。周二交易中，医疗保健股下跌 1.4%。美国银行（纽约证券交易所股票代码：BAC）周二公布的第二季度盈利好于预期。",
-      "_added_at": "2026-07-14T15:09:18.923140+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-14T13:37:03Z",
-      "headline": "Jim Cramer Says Tech Is 'Hostage' To SK Hynix. Here's Why Nvidia Investors Should Care",
-      "id": 60441665,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Jim-Cramer.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Jim-Cramer.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Jim-Cramer.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Jim Cramer said tech has become &#34;hostage&#34; to SK Hynix. Here&#39;s why Nvidia investors are paying close attention to the AI memory leader.",
-      "symbols": [
+        "DRAM",
+        "HALX",
+        "IQMM",
+        "LOHA",
         "MU",
-        "NVDA",
-        "SKHU",
-        "SKHX",
+        "NASA",
+        "SECU",
         "SKHY",
-        "SKUU",
-        "SNDK",
-        "SSNLF"
+        "SMH",
+        "SOXX"
       ],
-      "updated_at": "2026-07-14T13:37:03Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60441665/jim-cramer-says-tech-is-hostage-to-sk-hynix-heres-why-nvidia-investors-should-care",
-      "_summary": "While the comments were vintage Cramer—part observation, part hyperbole—they reflect a broader shift in how Wall Street views the AI supply chain. Unlike traditional memory chips, HBM is designed to move massive amounts of data between memory and AI processors at extremely high speeds. It has become an essential component in Nvidia’s latest AI accelerators, including its Blackwell platform.",
-      "_zh_headline": "Jim Cramer 称科技是 SK 海力士的“人质”。这就是为什么英伟达投资者应该关心的原因",
-      "_zh_summary": "虽然这些评论是老式的克莱默（部分观察，部分夸张），但它们反映了华尔街对人工智能供应链的看法发生了更广泛的转变。与传统存储芯片不同，HBM 旨在以极高的速度在内存和人工智能处理器之间移动大量数据。它已成为 Nvidia 最新人工智能加速器（包括其 Blackwell 平台）的重要组成部分。",
-      "_added_at": "2026-07-14T15:09:18.923140+00:00"
+      "updated_at": "2026-07-14T18:01:58Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60452951/2026-biggest-etf-launches",
+      "_summary": "According to CFRA Research , the standout launches of 2026 show ETF issuers are increasingly building products around structural shifts—from AI infrastructure and commercial space to stablecoin regulation and niche credit markets—instead of broad market benchmarks. No launch illustrates that better than the Roundhill Memory ETF (BATS: DRAM ) . The Tema Space Innovators ETF (NASDAQ: NASA ) gathered $1.37 billion by giving investors pre-IPO exposure to SpaceX through a special purpose vehicle.",
+      "_zh_headline": "2026 年最大规模 ETF 推出背后的秘密并非如您所想",
+      "_zh_summary": "CFRA Research 表示，2026 年推出的出色产品表明 ETF 发行人越来越多地围绕结构性转变（从人工智能基础设施和商业空间到稳定币监管和利基信贷市场）打造产品，而不是广泛的市场基准。没有任何发布比 Roundhill Memory ETF (BATS: DRAM) 更能说明这一点。 Tema Space Innovators ETF（纳斯达克股票代码：NASA）通过特殊目的工具向投资者提供 SpaceX 首次公开募股前投资，募集了 13.7 亿美元资金。",
+      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     },
     {
-      "author": "Namrata Sen",
+      "author": "Adam Eckert",
       "content": "",
-      "created_at": "2026-07-14T12:36:43Z",
-      "headline": "New York Just Hit Brakes on AI: Kathy Hochul To Reportedly Freeze New 50 MW Data Centers Amid Grid Strain",
-      "id": 60439336,
+      "created_at": "2026-07-14T21:13:51Z",
+      "headline": "Schmid Stock Surges After The Close: Here's Why",
+      "id": 60458559,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Hochul-Rejects-Tax-Hike.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Bullish-stock-chart-with-green-arrow.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Hochul-Rejects-Tax-Hike.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Bullish-stock-chart-with-green-arrow.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Hochul-Rejects-Tax-Hike.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Bullish-stock-chart-with-green-arrow.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "New York pauses new AI data centers for up to a year as Gov. Kathy Hochul cites grid strain, energy costs, and the environment.",
+      "summary": "Schmid stock is moving higher in Tuesday&#39;s after-hours session after the company provided an order guidance update for 2026.",
       "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "MSFT"
+        "SHMD"
       ],
-      "updated_at": "2026-07-14T12:36:43Z",
-      "url": "https://www.benzinga.com/news/politics/26/07/60439336/new-york-just-hit-brakes-on-ai-kathy-hochul-to-reportedly-freeze-new-50-mw-data-centers-amid-grid-strain",
-      "_summary": "New York Gov. Kathy Hochul, on Tuesday, reportedly ordered the nation’s first statewide pause on new hyperscale data centers, temporarily halting environmental permits for up to a year. She said the state would use the pause to develop what she called the nation’s “strongest standards” for future data center development. Hochul is expected to sign an executive order for the same on Tuesday, while her administration continues reviewing related legislation.",
-      "_zh_headline": "纽约对人工智能踩刹车：据报道 Kathy Hochul 将因电网紧张而冻结新的 50 MW 数据中心",
-      "_zh_summary": "据报道，纽约州州长凯西·霍赫尔 (Kathy Hochul) 周二下令在全州范围内首次暂停新建超大规模数据中心，暂时停止环境许可长达一年。她表示，该州将利用暂停时间制定她所说的国家未来数据中心发展的“最强标准”。预计 Hochul 将于周二签署一项行政命令，同时她的政府将继续审查相关立法。",
-      "_added_at": "2026-07-14T12:48:27.583784+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-14T10:47:57Z",
-      "headline": "Justin Wolfers, Ex-Google CEO Among Nearly 200 Experts Issuing Stark Warning Over AI 'Tsunami': 'We Must Act Now'",
-      "id": 60435931,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/A-hand-holding-a-glowing-futuristic-AI-t.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/A-hand-holding-a-glowing-futuristic-AI-t.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/A-hand-holding-a-glowing-futuristic-AI-t.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nobel laureates and AI leaders warn the technology could surpass the Industrial Revolution, bringing risks, jobs disruption, and gains.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "PLTR"
-      ],
-      "updated_at": "2026-07-14T10:47:57Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60435931/justin-wolfers-ex-google-ceo-among-nearly-200-experts-issuing-stark-warning-over-ai-tsunami-we-must-act-now",
-      "_summary": "Top economists and tech chiefs warned that AI could become dramatically more powerful over the next decade, bringing significant risks, widespread job displacement, and opportunities, such as higher living standards. The statement warned that the transformation driven by this development could surpass the Industrial Revolution in scale while unfolding at a much faster pace. It could create significant economic gains and higher living standards, but also pose risks such as widespread job displacement.",
-      "_zh_headline": "谷歌前首席执行官贾斯汀·沃尔弗斯 (Justin Wolfers) 等近 200 名专家对人工智能“海啸”发出严厉警告：“我们必须立即采取行动”",
-      "_zh_summary": "顶级经济学家和技术负责人警告说，人工智能在未来十年可能会变得更加强大，带来重大风险、广泛的工作岗位流失以及更高生活水平等机遇。声明警告说，这一发展所驱动的转型可能在规模上超越工业革命，同时以更快的速度展开。它可以创造显着的经济收益和更高的生活水平，但也带来广泛的失业等风险。",
-      "_added_at": "2026-07-14T12:48:27.583784+00:00"
-    },
-    {
-      "author": "Dylan Berman",
-      "content": "",
-      "created_at": "2026-07-14T12:12:36Z",
-      "headline": "ServiceNow Stock Falls in Sympathy With IBM After Disappointing Preliminary Q2 Results",
-      "id": 60438730,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Smartphone-On-Keyboard-Showing-ServiceNo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Smartphone-On-Keyboard-Showing-ServiceNo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Smartphone-On-Keyboard-Showing-ServiceNo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ServiceNow Inc. (NYSE: NOW) shares are trading lower Tuesday in sympathy with IBM, which posted preliminary second-quarter earnings.",
-      "symbols": [
-        "NOW"
-      ],
-      "updated_at": "2026-07-14T12:12:36Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60438730/servicenow-stock-falls-in-sympathy-with-ibm-after-disappointing-preliminary-q2-results",
-      "_summary": "ServiceNow Inc. (NYSE: NOW ) shares are trading lower Tuesday in sympathy with IBM, which posted preliminary second-quarter earnings . ServiceNow and IBM have a long history of close collaboration, having announced an expanded partnership just last week to modernize enterprise systems and unlock data for AI at scale. That deepening relationship makes ServiceNow’s stock more sensitive to shifts in sentiment around IBM’s business performance.",
-      "_zh_headline": "第二季度初步业绩令人失望后，ServiceNow 股价下跌，受到 IBM 的同情",
-      "_zh_summary": "ServiceNow Inc.（纽约证券交易所股票代码：NOW）股价周二走低，原因是 IBM 公布了第二季度初步财报。 ServiceNow 和 IBM 有着悠久的密切合作历史，上周刚刚宣布扩大合作伙伴关系，以实现企业系统现代化并大规模解锁人工智能数据。这种加深的关系使得 ServiceNow 的股票对 IBM 业务业绩的情绪变化更加敏感。",
-      "_added_at": "2026-07-14T12:48:27.583784+00:00"
-    },
-    {
-      "author": "Dylan Berman",
-      "content": "",
-      "created_at": "2026-07-14T11:39:39Z",
-      "headline": "CleanSpark Stock Jumps After Inking $6.6 Billion, 20-Year Data Center Lease in Georgia",
-      "id": 60437445,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Cary--North-Carolina---August-12-2025-Cl.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Cary--North-Carolina---August-12-2025-Cl.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Cary--North-Carolina---August-12-2025-Cl.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "CleanSpark shares are surging Tuesday after a 20-year infrastructure lease with a global tech company at its Sandersville, Georgia campus.",
-      "symbols": [
-        "CLSK"
-      ],
-      "updated_at": "2026-07-14T11:39:39Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60437445/cleanspark-stock-jumps-after-inking-6-6-billion-20-year-data-center-lease-in-georgia",
-      "_summary": "In connection with the transaction, the tenant has also executed a letter of intent and exclusivity arrangement covering CleanSpark’s entire Texas portfolio — 718 acres with up to 885 MW of secured and planned power capacity. That includes 271 acres with nearly 300 MW at the company’s Sealy campus and 447 acres at its Brazoria campus, where transmission-level infrastructure supports an initial 300 MW demand load with potential to expand to 600 MW.",
-      "_zh_headline": "CleanSpark 签署价值 66 亿美元、为期 20 年的佐治亚州数据中心租约后股价上涨",
-      "_zh_summary": "与此次交易相关，租户还签署了一份意向书和排他性安排，涵盖 CleanSpark 的整个德克萨斯州投资组合——占地 718 英亩，拥有高达 885 兆瓦的固定和规划电力容量。其中包括公司 Sealy 园区 271 英亩（近 300 MW）和 Brazoria 园区 447 英亩（其中传输级基础设施支持初始 300 MW 需求负载，并有可能扩展到 600 MW）。",
-      "_added_at": "2026-07-14T12:48:27.583784+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-14T09:28:06Z",
-      "headline": "Stock Market Today: Dow Jones Futures Fall, Nasdaq 100 Gains as Trump Calls US the 'Guardian' of Hormuz Strait—Tower Semiconductor, Twin Vee, JPMorgan In Focus",
-      "id": 60434246,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were mixed on Tuesday, as the Nasdaq 100 index advanced, while the Dow Jones and S&amp;P 500 indices fell.",
-      "symbols": [
-        "AGEN",
-        "BTCUSD",
-        "JPM",
-        "QQQ",
-        "SPY",
-        "TSEM",
-        "VEEE",
-        "VMAR"
-      ],
-      "updated_at": "2026-07-14T09:28:06Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60434246/stock-market-today-dow-jones-futures-fall-nasdaq-100-gains-as-trump-calls-us-the-guardian-of-hormuz-strait-tower-semiconductor-twin-vee-jpmorgan-in-focus",
-      "_summary": "U.S. stock futures were mixed on Tuesday, as the Nasdaq 100 index advanced, while the Dow Jones and S&P 500 indices fell, following Monday’s lower close. As the U.S. and Iran attacks continued for the third straight night, U.S. Central Command said that operations were aimed at imposing \"a heavy cost\" on Iranian forces and reducing their ability to attack commercial shipping and civilians in the Strait of Hormuz. Responding to President Donald Trump ‘s Truth Social post, calling the U.S.",
-      "_zh_headline": "今日股市：道琼斯期货下跌，纳斯达克 100 指数上涨，特朗普称美国为霍尔木兹海峡的“守护者”——Tower Semiconductor、Twin Vee、摩根大通成为焦点",
-      "_zh_summary": "周二美国股指期货涨跌互现，纳斯达克 100 指数上涨，而道琼斯指数和标准普尔 500 指数在周一收盘走低后下跌。随着美国和伊朗的袭击连续第三晚持续，美国中央司令部表示，这些行动的目的是给伊朗军队造成“沉重代价”，并削弱他们攻击霍尔木兹海峡商业航运和平民的能力。回应唐纳德·特朗普总统的真相社会帖子，呼吁美国",
-      "_added_at": "2026-07-14T11:09:36.638078+00:00"
+      "updated_at": "2026-07-14T21:13:51Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60458559/schmid-stock-surges-after-the-close-heres-why",
+      "_summary": "Due to sustained improvement in order momentum, Schmid raised its full-year 2026 order intake guidance from approximately 114 million euros ($130.2 million) to a new range of 125 million euros to 130 million euros. The company said it booked 30.7 million euros in new orders and reported revenue of 27.7 million euros for the second quarter of 2026. With the repeat order of more than 37 million euros announced on July 7, year-to-date order intake reached 81.6 million euros.",
+      "_zh_headline": "施密德股价收盘后飙升：原因如下",
+      "_zh_summary": "",
+      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     }
   ]
 }
