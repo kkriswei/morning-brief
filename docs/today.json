@@ -2,6 +2,113 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Dmytro Spilka",
+      "content": "",
+      "created_at": "2026-07-15T10:19:47Z",
+      "headline": "Is The Rise Of AI Fatigue Beginning To Drive S&P 500 Lower?",
+      "id": 60462632,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/SP-500.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/SP-500.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/SP-500.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Artificial intelligence has been one of the most powerful drivers of growth throughout Wall Street since late 2022, but have investors grown impatient with skyrocketing valuations and circular funding? \n\n\n\nThe sheer",
+      "symbols": [
+        "AAPL",
+        "GOOGL",
+        "IVV",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-07-15T10:19:47Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60462632/is-rise-of-ai-fatigue-beginning-to-drive-sp500-lower",
+      "_summary": "Artificial intelligence has been one of the most powerful drivers of growth throughout Wall Street since late 2022, but have investors grown impatient with skyrocketing valuations and circular funding? The sheer scale of the AI boom is unprecedented. At present, the Magnificent Seven, a collection of adopters that have seen their market caps swell in the age of artificial intelligence, make up around 33% of the entire S&P 500’s value.",
+      "_zh_headline": "人工智能疲劳的加剧是否开始导致标准普尔 500 指数下跌？",
+      "_zh_summary": "自 2022 年底以来，人工智能一直是整个华尔街最强大的增长驱动力之一，但投资者是否对飙升的估值和循环融资变得不耐烦了？人工智能热潮的规模是前所未有的。目前，“七巨头”是一群在人工智能时代市值不断膨胀的采用者，约占整个标准普尔 500 指数价值的 33%。",
+      "_added_at": "2026-07-15T11:13:01.886381+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-15T09:39:29Z",
+      "headline": "Oracle Leads AWS, Microsoft, Google in Race to Build Japan's Secret Cloud Project to Counter Chinese Hacking Threats: Report",
+      "id": 60461892,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Dubai--Uae---December-1--2017-Sign-Of-Or.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Dubai--Uae---December-1--2017-Sign-Of-Or.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Dubai--Uae---December-1--2017-Sign-Of-Or.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Oracle leads talks on expanding Japan data centers as US ambassador George Glass coordinates with Tokyo and tech rivals.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "ORCL"
+      ],
+      "updated_at": "2026-07-15T09:39:29Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60461892/oracle-leads-aws-microsoft-google-in-race-to-build-japans-secret-cloud-project-to-counter-chinese-hacking-threats-report",
+      "_summary": "Oracle Corporation (NYSE: ORCL ) is reportedly leading the race to provide high-security cloud services to Japan. This move is crucial for secure intelligence sharing between Tokyo and its allies. The US has long pushed Japan to strengthen its cybersecurity defenses against Chinese hacking, with the need becoming more urgent as Washington seeks deeper US-Japan weapons co-production and stronger deterrence against China.",
+      "_zh_headline": "甲骨文领先 AWS、微软、谷歌竞相构建日本秘密云项目以应对中国黑客威胁：报告",
+      "_zh_summary": "据报道，甲骨文公司（纽约证券交易所股票代码：ORCL）在向日本提供高安全性云服务的竞争中处于领先地位。此举对于东京及其盟友之间的安全情报共享至关重要。美国长期以来一直敦促日本加强针对中国黑客攻击的网络安全防御，随着华盛顿寻求更深入的美日武器合作和对中国的更强威慑，这一需求变得更加紧迫。",
+      "_added_at": "2026-07-15T11:13:01.886381+00:00"
+    },
+    {
+      "author": "Akanksha Bakshi",
+      "content": "",
+      "created_at": "2026-07-15T11:00:17Z",
+      "headline": "Pentair Stock Plunges as Pool Destocking Forces Deep 2026 Guidance Cut",
+      "id": 60463471,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cambridge--On--Canada---September-27--20.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cambridge--On--Canada---September-27--20.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cambridge--On--Canada---September-27--20.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Pentair Stock Plunge follows Pool destocking, weaker Q2 estimates and deep 2026 guidance cuts alongside a CFO transition",
+      "symbols": [
+        "EBLU",
+        "PIO",
+        "PNR",
+        "STNC"
+      ],
+      "updated_at": "2026-07-15T11:00:17Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60463471/pentair-stock-plunges-as-pool-destocking-forces-deep-2026-guidance-cut",
+      "_summary": "Pentair expects preliminary second-quarter sales of about $930 million, down 17% year over year. That falls below its previous $1.134 billion guidance and the $1.137 billion analyst estimate. Adjusted EPS is expected at approximately $1.12, down from the prior outlook of $1.47 to $1.50 and below the $1.48 estimate. GAAP EPS from continuing operations is expected at about 80 cents, versus the previous guidance of $1.39 to $1.42 and the $1.37 estimate.",
+      "_zh_headline": "由于库存去化导致 2026 年指导大幅下调，Pentair 股价暴跌",
+      "_zh_summary": "Pentair预计第二季度初步销售额约为9.3亿美元，同比下降17%。这低于之前的 11.34 亿美元指导值和 11.37 亿美元分析师预期。调整后每股收益预计约为 1.12 美元，低于之前预期的 1.47 美元至 1.50 美元，也低于预期的 1.48 美元。持续经营业务的 GAAP 每股收益预计约为 80 美分，而之前的指引为 1.39 美元至 1.42 美元，预估为 1.37 美元。",
+      "_added_at": "2026-07-15T11:13:01.886381+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-15T09:20:25Z",
