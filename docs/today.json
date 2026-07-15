@@ -2,6 +2,179 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-15T16:32:34Z",
+      "headline": "Anthropic Claude Traffic Skyrockets 500% to Outpace Smaller AI Rivals",
+      "id": 60477358,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/The-Claude-App-Icon-Is-Visible-On-An-Iph.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/The-Claude-App-Icon-Is-Visible-On-An-Iph.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/The-Claude-App-Icon-Is-Visible-On-An-Iph.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Anthropic&#39;s Claude has grown its website traffic share nearly sixfold in a year, overtaking several AI rivals as ChatGPT&#39;s dominance gradually eases.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "updated_at": "2026-07-15T16:32:34Z",
+      "url": "https://www.benzinga.com/markets/private-markets/26/07/60477358/anthropic-claude-traffic-skyrockets-500-to-outpace-smaller-ai-rivals",
+      "_summary": "The AI traffic leaderboard still belongs to ChatGPT, which held a commanding 52.7% share in June despite slipping from 76.4% a year earlier. Google’s Gemini has emerged as the clear No. 2, climbing from 9.1% to 27.8% over the same period. Claude’s traffic share has nearly doubled in just the past three months, rising from 8.0% in March to 9.2% in June. That rapid growth has widened its lead over competitors including DeepSeek (3.6%), Grok (2.5%), Microsoft Copilot (2.0%) and Perplexity (1.1%).",
+      "_zh_headline": "Anthropic Claude 流量飙升 500%，超过较小的 AI 竞争对手",
+      "_zh_summary": "AI 流量排行榜仍然属于 ChatGPT，尽管较去年同期的 76.4% 有所下滑，但 6 月份该公司仍占据 52.7% 的份额。谷歌的 Gemini 已成为当之无愧的第二名，同期从 9.1% 攀升至 27.8%。在过去的三个月里，Claude 的流量份额几乎翻了一番，从 3 月份的 8.0% 上升到 6 月份的 9.2%。这种快速增长扩大了其对 DeepSeek (3.6%)、Grok (2.5%)、Microsoft Copilot (2.0%) 和 Perplexity (1.1%) 等竞争对手的领先优势。",
+      "_added_at": "2026-07-15T16:51:48.741558+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-15T15:40:04Z",
+      "headline": "EXCLUSIVE: SK Hynix Is Where AI Infrastructure, Chips, Memory Converge, Says Direxion as It Launches Leveraged ETF",
+      "id": 60475216,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paris--France---February-20-2026-The-Sk-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paris--France---February-20-2026-The-Sk-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paris--France---February-20-2026-The-Sk-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Direxion&#39;s new 2X SK Hynix ETF taps rising interest in AI infrastructure, with head executive highlighting SKHY&#39;s key role in the memory-chip market.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SKHL",
+        "SKHX",
+        "SKHY",
+        "SOXL",
+        "SOXS"
+      ],
+      "updated_at": "2026-07-15T15:40:04Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60475216/exclusive-sk-hynix-is-where-ai-infrastructure-chips-memory-converge-says-direxion-as-it-launches-leveraged-etf",
+      "_summary": "• SK Hynix stock is showing notable weakness. Why is SKHY stock falling? Direxion on Wednesday launched the Direxion Daily SK Hynix Bull 2X ETF (NASDAQ: SKHL ) , offering investors 2x the daily performance of SK Hynix’s U.S.-listed shares.",
+      "_zh_headline": "独家报道：Direxion 在推出杠杆 ETF 时表示，SK 海力士是人工智能基础设施、芯片、内存融合的地方",
+      "_zh_summary": "• SK 海力士股票显着疲软。 SKHY股票为何下跌？ Direxion 周三推出了 Direxion Daily SK Hynix Bull 2X ETF（纳斯达克股票代码：SKHL），为投资者提供 SK Hynix 在美国上市股票每日表现的 2 倍回报。",
+      "_added_at": "2026-07-15T16:51:48.741558+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-15T15:13:11Z",
+      "headline": "Why Is Lionsgate Studios Stock Surging on Wednesday?",
+      "id": 60474001,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Planning-And-Strategy--Stock-Market--Bus.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Planning-And-Strategy--Stock-Market--Bus.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Planning-And-Strategy--Stock-Market--Bus.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Lionsgate Studios Corp. (NYSE: LION) shares surge as acquisition interest from Bollore Group and Banijay surfaces amid accelerating media industry consolidation.",
+      "symbols": [
+        "FOX",
+        "LION",
+        "NFLX",
+        "ROKU",
+        "WBD"
+      ],
+      "updated_at": "2026-07-15T15:47:33Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60474001/why-is-lionsgate-studios-stock-surging-on-wednesday",
+      "_summary": "The company, which carries a market value of approximately $3.8 billion, is working alongside an investment bank to evaluate incoming approaches. Reuters sources stated that discussions remain confidential, a deal is not certain, and Lionsgate could still remain independent. Lionsgate Studios did not immediately respond to Benzinga’s request for comment. Wall Street remains bullish on the stock, with a consensus Buy rating and an average price target of $13.05. Recent analyst actions include B.",
+      "_zh_headline": "为什么狮门影业的股价周三飙升？",
+      "_zh_summary": "该公司市值约为 38 亿美元，正在与一家投资银行合作评估即将推出的方法。路透社消息人士称，讨论仍处于保密状态，交易是否达成尚不确定，狮门影业仍可能保持独立。狮门影业没有立即回应本辛加的置评请求。华尔街仍然看好该股，一致给予买入评级，平均目标价为 13.05 美元。最近的分析师行动包括 B.",
+      "_added_at": "2026-07-15T16:51:48.741558+00:00"
+    },
+    {
+      "author": "Akanksha Bakshi",
+      "content": "",
+      "created_at": "2026-07-15T16:36:35Z",
+      "headline": "Why Is Q32 Bio Stock Falling Wednesday?",
+      "id": 60477544,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Genetic-Research-And-Biotech-Science-Con.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Genetic-Research-And-Biotech-Science-Con.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Genetic-Research-And-Biotech-Science-Con.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Q32 Bio (QTTB) stock slips after pricing a $200M public offering at $18.25. Get the details on the deal and share reaction.",
+      "symbols": [
+        "QTTB"
+      ],
+      "updated_at": "2026-07-15T16:36:35Z",
+      "url": "https://www.benzinga.com/markets/offerings/26/07/60477544/why-is-q32-bio-stock-falling-wednesday",
+      "_summary": "The company will sell 6,027,399 common shares at $18.25 each and pre-funded warrants to purchase 4,931,506 shares at $18.2499 per warrant. Each pre-funded warrant has an exercise price of $0.0001 per share. Q32 Bio also granted underwriters a 30-day option to purchase up to 1,643,835 additional shares at the offering price, less underwriting discounts and commissions. The estimated proceeds exclude any exercise of the underwriters’ option and pre-funded warrants.",
+      "_zh_headline": "为什么Q32生物股票周三下跌？",
+      "_zh_summary": "该公司将以每股 18.25 美元的价格出售 6,027,399 股普通股，并以每份认股权证 18.2499 美元的价格出售预先融资的认股权证，以购买 4,931,506 股。每份预融资认股权证的行权价为每股 0.0001 美元。 Q32 Bio 还授予承销商 30 天的选择权，可以按发行价（减去承销折扣和佣金）额外购买最多 1,643,835 股股票。预计收益不包括承销商选择权和预资助认股权证的任何行使。",
+      "_added_at": "2026-07-15T16:51:48.741558+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-15T15:14:52Z",
+      "headline": "Why Is Nextpower Stock Surging on Wednesday?",
+      "id": 60474084,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Investor-Planning-And-Strategy--Stock-Ma.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Investor-Planning-And-Strategy--Stock-Ma.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Investor-Planning-And-Strategy--Stock-Ma.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Nextpower Inc. stock climbed Wednesday after Truist Securities initiated coverage with a Buy rating, adding to recent positive analyst momentum and strategic European acquisition plans.",
+      "symbols": [
+        "NXT"
+      ],
+      "updated_at": "2026-07-15T15:14:52Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60474084/why-is-nextpower-stock-surging-on-wednesday",
+      "_summary": "Nextpower Inc. (NASDAQ: NXT ) stock is trading higher Wednesday after Truist Securities initiated coverage on the company with a Buy rating and a $140 price forecast on Tuesday. Nextpower has a consensus price forecast of $136.74 based on the ratings of 26 analysts. This follows recent analyst actions, including Barclays raising its price forecast to $147 with an Overweight rating on July 7 and Susquehanna maintaining a Positive rating while lowering its price target to $168 on July 10.",
+      "_zh_headline": "为什么 Nextpower 股票周三飙升？",
+      "_zh_summary": "Nextpower Inc.（纳斯达克股票代码：NXT）周二Truist Securities 首次对该公司给予买入评级和 140 美元的价格预测，该公司股价周三走高。根据 26 名分析师的评级，Nextpower 的一致价格预测为 136.74 美元。 在此之前，分析师最近采取了行动，包括巴克莱银行 (Barclays) 于 7 月 7 日将其价格预测上调至 147 美元，并给予“增持”评级；萨斯奎哈纳 (Susquehanna) 则维持积极评级，同时于 7 月 10 日将其价格目标下调至 168 美元。",
+      "_added_at": "2026-07-15T16:51:48.741558+00:00"
+    },
+    {
       "author": "Daragh Thomas",
       "content": "",
       "created_at": "2026-07-15T14:47:14Z",
@@ -539,151 +712,6 @@
       "_zh_headline": "Chamath Palihapitiya 表示 Meta 和 Elon Musk 可能会结束“50 美元一桶智能”时代，挑战竞争对手 OpenAI 和 Anthropic",
       "_zh_summary": "“你可以花 26 美元从 OpenAI 购买它。Anthropic 的最新模型售价 56 美元，”Palihapitiya 解释道。但随着财力雄厚的竞争对手发布了他估计“80% 到 95% 的质量”的型号，市场越来越难以证明这些溢价是合理的。 “埃隆正在以 1 美元的价格卖给你一桶情报。扎克正准备以 50 美元的价格卖给你。戴米斯和桑达尔正试图以 1 美元的价格卖给你。中国人会以 0.5 美元的价格卖给你，”他指出。",
       "_added_at": "2026-07-15T09:29:49.965210+00:00"
-    },
-    {
-      "author": "Mohd Haider",
-      "content": "",
-      "created_at": "2026-07-15T07:48:16Z",
-      "headline": "YSX Tech Stock Soars 14% After Hours: Here's Why",
-      "id": 60461142,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Stock-Market-Data-On-Digital-Led-Display.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Stock-Market-Data-On-Digital-Led-Display.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Stock-Market-Data-On-Digital-Led-Display.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "YSX Tech Co Ltd shares jumped 14.10% after hours following its fiscal 2026 earnings report showing revenue growth.",
-      "symbols": [
-        "YSXT"
-      ],
-      "updated_at": "2026-07-15T07:48:16Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60461142/ysx-tech-stock-soars-14-after-hours-heres-why",
-      "_summary": "YSX Tech Co Ltd (NASDAQ: YSXT ) shares jumped 14.10% to $0.80 in after-hours trading on Tuesday. The surge in the late session reverses an intraday decline of 0.53%, which closed the stock of the Chinese business solutions provider at $0.70, according to the Benzinga Pro data. The stock movement came after the company released its fiscal 2026 earnings report for the year ended Mar. 31. Total revenue increased 16.8% year over year to $83.5 million, supported by a 28.8% increase in service volumes.",
-      "_zh_headline": "YSX 科技股盘后飙升 14%：原因如下",
-      "_zh_summary": "YSX Tech Co Ltd（纳斯达克股票代码：YSXT）股价周二盘后交易中上涨 14.10%，至 0.80 美元。根据 Benzinga Pro 的数据，尾盘的飙升扭转了盘中 0.53% 的跌幅，这家中国商业解决方案提供商的股价收于 0.70 美元。该股票走势是在该公司发布截至 3 月 31 日的 2026 财年收益报告后发生的。在服务量增长 28.8% 的支撑下，总收入同比增长 16.8% 至 8350 万美元。",
-      "_added_at": "2026-07-15T09:29:49.965210+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-15T08:33:10Z",
-      "headline": "PayPal Stock Surges Nearly 15% in Premarket as Stripe and Advent International Reportedly Propose $53 Billion Joint Acquisition",
-      "id": 60461440,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paypal-Signage--San-Jose--Ca--May-6--201.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paypal-Signage--San-Jose--Ca--May-6--201.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paypal-Signage--San-Jose--Ca--May-6--201.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Stripe and Advent bid $53 billion for PayPal at $60.50/share, offering a 28% premium in a blockbuster takeover proposal.",
-      "symbols": [
-        "PYPL"
-      ],
-      "updated_at": "2026-07-15T08:33:10Z",
-      "url": "https://www.benzinga.com/m-a/26/07/60461440/paypal-stock-surges-nearly-15-in-premarket-as-stripe-and-advent-international-reportedly-propose-53-billion-joint-acquisition",
-      "_summary": "The proposal for $60.50 per share, backed by close to $50 billion in committed financing from banks, was submitted earlier this month, Reuters reported. That implies a 28% premium to PayPal’s closing share price on Tuesday, The proposed deal would see Stripe and Advent jointly owning PayPal, each holding an equal stake, as per the report. Stripe, Advent International and PayPal did not immediately respond to Benzinga ‘s requests for comment.",
-      "_zh_headline": "据报道，Stripe 和 Advent International 提议 530 亿美元联合收购，PayPal 股价盘前飙升近 15%",
-      "_zh_summary": "据路透社报道，本月早些时候提交了每股 60.50 美元的提案，并得到了银行近 500 亿美元的承诺融资支持。这意味着 PayPal 周二收盘价溢价 28%。据报道，拟议的交易将使 Stripe 和 Advent 共同拥有 PayPal，双方持有同等股份。 Stripe、Advent International 和 PayPal 没有立即回复 Benzinga 的置评请求。",
-      "_added_at": "2026-07-15T09:29:49.965210+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-14T20:24:06Z",
-      "headline": "Aehr Test Systems Stock Soars After Q4 Results — Here's Why",
-      "id": 60457464,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/AehrRichmond--Virginia--Usa---8-May-2019.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/AehrRichmond--Virginia--Usa---8-May-2019.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/AehrRichmond--Virginia--Usa---8-May-2019.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Here&#39;s a look inside the Q4 earnings report that sent Aehr Test Systems stock soaring.",
-      "symbols": [
-        "AEHR"
-      ],
-      "updated_at": "2026-07-14T20:24:06Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60457464/aehr-test-systems-stock-soars-after-q4-results-heres-why",
-      "_summary": "Aehr Test Systems reported quarterly earnings of 11 cents per share, which beat the analyst consensus estimate for a loss of one cent, according to Benzinga Pro data. Quarterly revenue clocked in at $18.84 million, which beat the Street estimate of $18.69 million and was up from $14.09 million in the same period last year.",
-      "_zh_headline": "第四季度业绩公布后，Aehr Test Systems 股价飙升 - 这就是原因",
-      "_zh_summary": "根据 Benzinga Pro 的数据，Aehr Test Systems 公布的季度收益为每股 11 美分，超出了分析师普遍预期的亏损 1 美分。季度收入为 1,884 万美元，超出了华尔街预期的 1,869 万美元，高于去年同期的 1,409 万美元。",
-      "_added_at": "2026-07-15T06:37:56.858394+00:00"
-    },
-    {
-      "author": "Tanya Rawat",
-      "content": "",
-      "created_at": "2026-07-15T06:29:12Z",
-      "headline": "Vivakor (VIVK) Stock Falls 31% After-Hours: Here's What's Going On",
-      "id": 60460495,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Red-Arrow-And-Falling-Financial-Charts-O.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Red-Arrow-And-Falling-Financial-Charts-O.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Red-Arrow-And-Falling-Financial-Charts-O.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Vivakor stock fell 31% after hours after the company announced a 1-for-20 reverse stock split.",
-      "symbols": [
-        "VIVK"
-      ],
-      "updated_at": "2026-07-15T06:29:12Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60460495/vivakor-vivk-stock-falls-31-after-hours-heres-whats-going-on",
-      "_summary": "Vivakor, Inc. (NASDAQ: VIVK ) shares fell sharply in after-hours trading on Tuesday after the company announced a 1-for-20 reverse stock split that is set to take effect later this week. Vivakor closed Tuesday’s regular session at $0.30, down 1.76%. In after-hours trading, the stock dropped another 31.30% to $0.21. Vivakor is an integrated energy services company that provides oil transportation, storage, reuse and remediation services across the U.S.",
-      "_zh_headline": "Vivakor (VIVK) 股价盘后下跌 31%：这就是发生的事情",
-      "_zh_summary": "Vivakor, Inc.（纳斯达克股票代码：VIVK）宣布将于本周晚些时候生效的 20 股反向股票分割计划，该公司股价在周二盘后交易中大幅下跌。 Vivakor 周二常规交易收盘价为 0.30 美元，下跌 1.76%。在盘后交易中，该股再次下跌 31.30%，至 0.21 美元。 Vivakor 是一家综合能源服务公司，在美国各地提供石油运输、储存、再利用和修复服务。",
-      "_added_at": "2026-07-15T06:37:56.858394+00:00"
-    },
-    {
-      "author": "Isaac Olaosegba",
-      "content": "",
-      "created_at": "2026-07-14T18:10:48Z",
-      "headline": "June’s CPI Report Just Changed The Rate Debate: Here's What Investors Should Watch",
-      "id": 60453186,
-      "images": [],
-      "source": "benzinga",
-      "summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. \n\n\n\nThe data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving",
-      "symbols": [],
-      "updated_at": "2026-07-14T18:10:48Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60453186/junes-cpi-report-just-changed-the-rate-debate-heres-what-investors-should-watch",
-      "_summary": "June’s inflation report delivered a pleasant surprise, with the annual CPI rate falling to 3.5%. The data was released just hours before new Federal Reserve Chair Kevin Warsh’s first congressional testimony, giving investors fresh insight into how the Fed’s policy outlook could evolve from here. Strip out food and energy, and there was zero inflation last month. That’s the number that matters most for what happens next. One day before this report, Fed Governor Waller warned that a hot core print could force the FOMC to consider hiking. Well, the report came in flat instead, meaning that the hawkish case is now effectively off the table. The flat core print is the first genuinely clean signal in months that underlying price pressures are breaking, rather than just easing on the back of temporary swings in energy costs.",
-      "_zh_headline": "6 月 CPI 报告刚刚改变了利率争论：投资者应该关注以下内容",
-      "_zh_summary": "6月通胀报告令人惊喜，CPI年率回落至3.5%。该数据是在美联储新任主席凯文·沃什首次在国会作证前几个小时发布的，让投资者对美联储的政策前景如何演变有了新的了解。除去食品和能源，上个月通胀为零。这是对接下来发生的事情最重要的数字。在这份报告发布前一天，美联储理事沃勒警告称，一份热门的核心报告可能会迫使联邦公开市场委员会考虑加息。然而，该报告的结果却持平，这意味着鹰派的观点现在实际上已经不被讨论了。扁平核心打印是几个月来第一个真正明确的信号，表明潜在的价格压力正在突破，而不仅仅是因能源成本暂时波动而缓解。",
-      "_added_at": "2026-07-15T04:29:33.288166+00:00"
     }
   ]
 }
