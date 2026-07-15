@@ -64,15 +64,31 @@ MARKET_CONTEXT_SYMBOLS = {
     "META", "TSLA", "AMZN", "AVGO",
 }
 
-# Title patterns that flag a "market wrap" / "why the market moved today" article.
-# These get a very large score bonus so they rise to the top of the brief.
+# Title patterns that flag a broad-market wrap ("why did the market move today")
+# — deliberately NOT matching single-stock stories like "Why Is X Stock Surging".
+# These get a large score bonus so they rise to the top of the brief.
 MARKET_WRAP_PATTERNS = [
-    r"stock market today", r"market today\b", r"market wrap", r"market close",
-    r"stocks? (rall|plung|fall|surg|slid|jump|dive|tumbl|soar|slump)",
-    r"\bs&?p ?500\b", r"\bnasdaq\b.*(clos|plung|rall|drop|surg|down|up|jump)",
-    r"why (the )?(stock|market)", r"sell[- ]?off", r"bloodbath",
-    r"fed (minutes|decision|cut|hike|meeting)", r"cpi (report|print|data)",
-    r"jobs report", r"payrolls?", r"this week on wall street",
+    r"stock market today", r"this week on wall street", r"market wrap",
+    r"\bs&?p ?500\b",
+    r"\bnasdaq( 100| composite)?\b.*(clos|plung|rall|drop|surg|down|up|jump|fall|worst|best)",
+    r"\bdow (jones|clos|plung|rall|drop|surg|down|up|jump|fall)",
+    r"wall street.*(clos|plung|rall|drop|surg|worst|best)",
+    # Plural "stocks" / "markets" — plural signals broad move, not a single ticker.
+    r"\bstocks (rall|plung|fall|surg|slid|jump|dive|tumbl|soar|slump|clos|end|are|hit)",
+    r"\bmarkets? (rall|plung|fall|surg|slid|jump|dive|tumbl|soar|slump|clos)",
+    r"\bfutures (fall|rise|jump|plung|drop|slid|rall)",
+    # Macro drivers
+    r"fed (minutes|decision|cut|hike|meeting|chair|chairman|hold)",
+    r"\bcpi (report|print|data|inflation)",
+    r"\bppi (report|print|data)",
+    r"jobs report", r"nonfarm payrolls?",
+    r"\binflation (data|report|print|target|drops?|falls?|rises?)",
+    # Broad sentiment / events
+    r"sell[- ]?off", r"bloodbath", r"circuit breaker", r"limit down",
+    r"\bbull market\b", r"\bbear market\b", r"correction territory",
+    # "Why" phrased about markets, not individual stocks
+    r"why (are |is |did |the )?(the )?(stock )?market",
+    r"why (are|is|did) stocks\b",
 ]
 MARKET_WRAP_RE = re.compile("|".join(MARKET_WRAP_PATTERNS), re.IGNORECASE)
 
@@ -105,6 +121,7 @@ GENERAL_FEEDS: list[tuple[str, str]] = [
     ("NYT", "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"),
     ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("NPR", "https://feeds.npr.org/1001/rss.xml"),
+    ("CNBC", "https://www.cnbc.com/id/10000664/device/rss/rss.html"),  # Markets
 ]
 RSS_ITEMS_PER_FEED = 8
 
@@ -205,12 +222,19 @@ def score_article(article: dict, now: datetime) -> float:
         score += 1
 
     # Big boost for "market wrap" articles — these directly answer why market moved.
+    # Bigger than any symbol bonus so wraps always lead.
     if MARKET_WRAP_RE.search(headline):
-        score += 15
-    score += 8 * len(symbols & WATCH_SYMBOLS)
-    score += 6 * len(symbols & MARKET_CONTEXT_SYMBOLS)
-    score += 5 * len(symbols & INDEX_TICKERS)
-    score += 3 * len(symbols & MEGA_CAPS)
+        score += 25
+    # Presence-based, not per-count: Benzinga tags dozens of tickers per article
+    # so linear scaling would swamp wrap detection with noise.
+    if symbols & WATCH_SYMBOLS:
+        score += 10
+    if symbols & MARKET_CONTEXT_SYMBOLS:
+        score += 5
+    if symbols & INDEX_TICKERS:
+        score += 7
+    if symbols & MEGA_CAPS:
+        score += 3
 
     extra_syms = symbols - INDEX_TICKERS - MEGA_CAPS
     if len(extra_syms) >= 5:
@@ -445,27 +469,38 @@ def _article_html(article: dict, index: int) -> str:
 def render_html(articles: list[dict], output_dir: Path) -> Path:
     """Write index.html, manifest, and icon to output_dir. Returns index.html path.
 
-    Articles must already carry _summary / _zh_headline / _zh_summary fields
-    (populated during format_message). Splits articles into World vs Markets.
+    Articles must already carry _summary / _zh_headline / _zh_summary fields.
+    Layout: Market Pulse (why the market moved) → World → Markets.
     """
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Rank each section by relevance (score), not by time-added, so the most
-    # important article (e.g. today's market-wrap) leads instead of getting buried.
+    # Rank by relevance so the most important article leads instead of getting buried.
     now_utc = datetime.now(timezone.utc)
-    world = sorted(
-        (a for a in articles if not (a.get("symbols") or [])),
-        key=lambda a: score_article(a, now_utc),
-        reverse=True,
-    )
-    markets = sorted(
-        (a for a in articles if a.get("symbols")),
-        key=lambda a: score_article(a, now_utc),
-        reverse=True,
-    )
+    scored = [(score_article(a, now_utc), a) for a in articles]
+    scored.sort(key=lambda x: x[0], reverse=True)
 
-    sections_html = []
+    # Market Pulse: top articles whose headline matches a market-wrap pattern.
+    # These directly answer "why did the market move today" and lead the page.
+    pulse: list[dict] = []
+    pulse_ids: set[int] = set()
+    for _, a in scored:
+        if MARKET_WRAP_RE.search(a.get("headline") or ""):
+            pulse.append(a)
+            pulse_ids.add(id(a))
+            if len(pulse) >= 3:
+                break
+
+    world = [a for _, a in scored
+             if id(a) not in pulse_ids and not (a.get("symbols") or [])]
+    markets = [a for _, a in scored
+               if id(a) not in pulse_ids and (a.get("symbols") or [])]
+
+    sections_html: list[str] = []
     idx = 1
+    if pulse:
+        items = "\n".join(_article_html(a, idx + i) for i, a in enumerate(pulse))
+        sections_html.append(f"<section><h2>Market Pulse — why stocks moved</h2>\n{items}\n</section>")
+        idx += len(pulse)
     if world:
         items = "\n".join(_article_html(a, idx + i) for i, a in enumerate(world))
         sections_html.append(f"<section><h2>World</h2>\n{items}\n</section>")
