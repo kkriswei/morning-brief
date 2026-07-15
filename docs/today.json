@@ -2,6 +2,227 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-15T17:01:58Z",
+      "headline": "Memory-Chip Selloff Drags Nasdaq 100 Lower, SanDisk Sinks 13%: Stock Market Today",
+      "id": 60478486,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Nasdaq-100-way-down.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Nasdaq-100-way-down.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Nasdaq-100-way-down.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A brutal semiconductor and memory selloff dragged the Nasdaq and tech sector lower, even as soft June PPI and strong bank earnings steadied the broader tape.",
+      "symbols": [
+        "AAOI",
+        "ALM",
+        "BILL",
+        "BLK",
+        "DELL",
+        "DIA",
+        "GOOGL",
+        "IWM",
+        "JPM",
+        "KMX",
+        "LITE",
+        "MS",
+        "MU",
+        "PYPL",
+        "QQQ",
+        "SMH",
+        "SNDK",
+        "SOXX",
+        "SPY",
+        "VOO",
+        "WDC",
+        "XLB",
+        "XLC",
+        "XLE",
+        "XLF",
+        "XLI",
+        "XLK",
+        "XLY",
+        "ZG"
+      ],
+      "updated_at": "2026-07-15T17:01:59Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60478486/memory-chip-selloff-wednesday-nasdaq-100-sandisk-plunges-wednesday-market-news",
+      "_summary": "A second straight cool inflation reading and a wave of upbeat bank earnings pushed the Dow and small caps higher by midday Wednesday, even as a selloff across memory-chip and hardware stocks dragged the Nasdaq 100 into the red. Headline producer prices dropped 0.3% in June versus expectations for no change, with the annual rate cooling to 5.5% from 6.2%, while core PPI rose a smaller-than-expected 0.2%.",
+      "_zh_headline": "存储芯片抛售拖累纳斯达克 100 指数走低，SanDisk 下跌 13%：今日股市",
+      "_zh_summary": "尽管存储芯片和硬件股的抛售导致纳斯达克 100 指数出现亏损，但通胀数据连续第二次降温以及一波乐观的银行盈利推动道琼斯指数和小盘股在周三午盘走高。 6 月份总体生产者价格下降 0.3%，而预期没有变化，年率从 6.2% 降至 5.5%，而核心 PPI 涨幅低于预期 0.2%。",
+      "_added_at": "2026-07-15T18:39:00.897895+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-07-15T17:38:47Z",
+      "headline": "57 Economists Wrong On Inflation; ASML Earnings Bring Optimism To AI Trade",
+      "id": 60479835,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Chip.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Chip.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Chip.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nCooler PPI\n\n\n\nPlease click here for an enlarged chart of ASML Holding NV (NASDAQ:ASML).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of ASML is being used to",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "ASML",
+        "BTCUSD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPY",
+        "TSLA",
+        "USO"
+      ],
+      "updated_at": "2026-07-15T17:39:45Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60479835/57-economists-wrong-on-inflation-asml-earnings-bring-optimism-to-ai-trade",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. API crude inventories came at a draw of 0.056M barrels vs. a consensus of a draw of 2.7M barrels. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor.",
+      "_zh_headline": "57 经济学家对通货膨胀的看法是错误的； ASML财报给AI贸易带来乐观",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。 API 原油库存减少 0.56 万桶，而市场普遍预期减少 270 万桶。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。",
+      "_added_at": "2026-07-15T18:39:00.897895+00:00"
+    },
+    {
+      "author": "Parshwa Turakhiya",
+      "content": "",
+      "created_at": "2026-07-15T17:17:14Z",
+      "headline": "JPMorgan, Goldman Sachs, BlackRock, Vanguard Tokenize Real Stocks for the First Time",
+      "id": 60479088,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/JPMorgan-headquarters-glass-building-con.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/JPMorgan-headquarters-glass-building-con.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/JPMorgan-headquarters-glass-building-con.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "DTCC completes its first live blockchain trades in tokenized stocks and Treasurys with JPMorgan, BlackRock and nearly 40 institutions.",
+      "symbols": [
+        "BLK",
+        "CRCL",
+        "GS",
+        "HOOD",
+        "JPM",
+        "MS",
+        "MSFT",
+        "NDAQ",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-15T17:17:14Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60479088/jpmorgan-goldman-sachs-blackrock-vanguard-tokenize-real-stocks-for-the-first-time",
+      "_summary": "Wall Street’s post-trade backbone ran its first live blockchain transactions Wednesday, with the DTCC completing production trades of tokenized stocks and Treasurys alongside nearly 40 major financial institutions. DTCC processed $4.7 quadrillion in securities transactions in 2025 and provides custody for $114 trillion in securities. When an organization at that scale runs live blockchain trades, it shifts tokenization from a concept institutions debate to infrastructure they are actively building on.",
+      "_zh_headline": "摩根大通、高盛、贝莱德、先锋集团首次对真实股票进行代币化",
+      "_zh_summary": "华尔街的交易后骨干周三进行了首次实时区块链交易，DTCC 与近 40 家主要金融机构一起完成了代币化股票和国债的生产交易。 DTCC 到 2025 年将处理 4.7 万亿美元的证券交易，并为 114 万亿美元的证券提供托管服务。当这种规模的组织进行实时区块链交易时，它会将代币化从机构辩论的概念转变为他们正在积极构建的基础设施。",
+      "_added_at": "2026-07-15T18:39:00.897895+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-15T18:22:46Z",
+      "headline": "SEI Enters Active Multifactor ETF Race With New US Equity Fund, Expands Quant Factor Investing",
+      "id": 60481416,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SEI&#39;s SEUS ETF, an actively managed multifactor fund, offers dynamic U.S. equity exposure through its quantitative investment strategy.",
+      "symbols": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "SEUS"
+      ],
+      "updated_at": "2026-07-15T18:22:46Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60481416/sei-enters-active-multifactor-etf-race-with-new-us-equity-fund-expands-quant-factor-investing",
+      "_summary": "SEUS employs the same investment process that QiM has used across other vehicles, blending dynamic factor allocation with active stock selection and disciplined risk management in a diversified portfolio. The strategy seeks to adjust to changing market conditions while maintaining exposure to factors that have historically generated long-term returns. – Fund type: Actively managed core U.S.",
+      "_zh_headline": "SEI 与新美国股票基金一起加入主动多因子 ETF 竞赛，扩大量化因子投资",
+      "_zh_summary": "SEUS 采用与 QiM 在其他投资工具中使用的相同投资流程，将动态因子配置与主动选股以及多元化投资组合中严格的风险管理相结合。该策略旨在适应不断变化的市场条件，同时保持对历史上产生长期回报的因素的敞口。 – 基金类型：主动管理的美国核心基金",
+      "_added_at": "2026-07-15T18:39:00.897895+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-15T17:35:20Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60479697,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "ASML",
+        "CRWV",
+        "IREN",
+        "KLAC",
+        "MU",
+        "NVDA",
+        "ONDS",
+        "SKHY"
+      ],
+      "updated_at": "2026-07-15T17:35:20Z",
+      "url": "https://www.benzinga.com/markets/options/26/07/60479697/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-07-15T18:39:00.897895+00:00"
+    },
+    {
       "author": "Surbhi Jain",
       "content": "",
       "created_at": "2026-07-15T16:32:34Z",
@@ -531,187 +752,6 @@
       "_zh_headline": "人工智能疲劳的加剧是否开始导致标准普尔 500 指数下跌？",
       "_zh_summary": "自 2022 年底以来，人工智能一直是整个华尔街最强大的增长驱动力之一，但投资者是否对飙升的估值和循环融资变得不耐烦了？人工智能热潮的规模是前所未有的。目前，“七巨头”是一群在人工智能时代市值不断膨胀的采用者，约占整个标准普尔 500 指数价值的 33%。",
       "_added_at": "2026-07-15T11:13:01.886381+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-15T09:39:29Z",
-      "headline": "Oracle Leads AWS, Microsoft, Google in Race to Build Japan's Secret Cloud Project to Counter Chinese Hacking Threats: Report",
-      "id": 60461892,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Dubai--Uae---December-1--2017-Sign-Of-Or.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Dubai--Uae---December-1--2017-Sign-Of-Or.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Dubai--Uae---December-1--2017-Sign-Of-Or.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Oracle leads talks on expanding Japan data centers as US ambassador George Glass coordinates with Tokyo and tech rivals.",
-      "symbols": [
-        "AMZN",
-        "GOOG",
-        "GOOGL",
-        "MSFT",
-        "ORCL"
-      ],
-      "updated_at": "2026-07-15T09:39:29Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60461892/oracle-leads-aws-microsoft-google-in-race-to-build-japans-secret-cloud-project-to-counter-chinese-hacking-threats-report",
-      "_summary": "Oracle Corporation (NYSE: ORCL ) is reportedly leading the race to provide high-security cloud services to Japan. This move is crucial for secure intelligence sharing between Tokyo and its allies. The US has long pushed Japan to strengthen its cybersecurity defenses against Chinese hacking, with the need becoming more urgent as Washington seeks deeper US-Japan weapons co-production and stronger deterrence against China.",
-      "_zh_headline": "甲骨文领先 AWS、微软、谷歌竞相构建日本秘密云项目以应对中国黑客威胁：报告",
-      "_zh_summary": "据报道，甲骨文公司（纽约证券交易所股票代码：ORCL）在向日本提供高安全性云服务的竞争中处于领先地位。此举对于东京及其盟友之间的安全情报共享至关重要。美国长期以来一直敦促日本加强针对中国黑客攻击的网络安全防御，随着华盛顿寻求更深入的美日武器合作和对中国的更强威慑，这一需求变得更加紧迫。",
-      "_added_at": "2026-07-15T11:13:01.886381+00:00"
-    },
-    {
-      "author": "Akanksha Bakshi",
-      "content": "",
-      "created_at": "2026-07-15T11:00:17Z",
-      "headline": "Pentair Stock Plunges as Pool Destocking Forces Deep 2026 Guidance Cut",
-      "id": 60463471,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cambridge--On--Canada---September-27--20.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cambridge--On--Canada---September-27--20.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cambridge--On--Canada---September-27--20.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Pentair Stock Plunge follows Pool destocking, weaker Q2 estimates and deep 2026 guidance cuts alongside a CFO transition",
-      "symbols": [
-        "EBLU",
-        "PIO",
-        "PNR",
-        "STNC"
-      ],
-      "updated_at": "2026-07-15T11:00:17Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60463471/pentair-stock-plunges-as-pool-destocking-forces-deep-2026-guidance-cut",
-      "_summary": "Pentair expects preliminary second-quarter sales of about $930 million, down 17% year over year. That falls below its previous $1.134 billion guidance and the $1.137 billion analyst estimate. Adjusted EPS is expected at approximately $1.12, down from the prior outlook of $1.47 to $1.50 and below the $1.48 estimate. GAAP EPS from continuing operations is expected at about 80 cents, versus the previous guidance of $1.39 to $1.42 and the $1.37 estimate.",
-      "_zh_headline": "由于库存去化导致 2026 年指导大幅下调，Pentair 股价暴跌",
-      "_zh_summary": "Pentair预计第二季度初步销售额约为9.3亿美元，同比下降17%。这低于之前的 11.34 亿美元指导值和 11.37 亿美元分析师预期。调整后每股收益预计约为 1.12 美元，低于之前预期的 1.47 美元至 1.50 美元，也低于预期的 1.48 美元。持续经营业务的 GAAP 每股收益预计约为 80 美分，而之前的指引为 1.39 美元至 1.42 美元，预估为 1.37 美元。",
-      "_added_at": "2026-07-15T11:13:01.886381+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-15T09:20:25Z",
-      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Gain as Trump Vows 'Very Hard' Strikes on Iran—Pentair, ASML Holding, Intel in Focus",
-      "id": 60461692,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were higher on Wednesday, as the Dow Jones, Nasdaq 100 and S&amp;P 500 indices rose, following Tuesday&#39;s higher close.",
-      "symbols": [
-        "AEHR",
-        "ASML",
-        "BTCUSD",
-        "IBM",
-        "INTC",
-        "PNR",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-15T09:20:25Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60461692/stock-market-today-dow-jones-sp-500-futures-gain-as-trump-vows-very-hard-strikes-on-iran-pentair-asml-holding-intel-in-focus",
-      "_summary": "U.S. stock futures were higher on Wednesday, as the Dow Jones, Nasdaq 100 and S&P 500 indices rose, following Tuesday’s higher close. Investors await the June producer price index data scheduled to be released before the market opens. Meanwhile, the 10-year Treasury bond yielded 4.60%, and the two-year bond was at 4.20%. The CME Group’s FedWatch tool’s projections show markets pricing an 85.6% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
-      "_zh_headline": "今日股市：道琼斯指数、标准普尔 500 指数期货上涨，因特朗普誓言对伊朗实施“非常严厉”打击——Pentair、ASML Holding、英特尔成为焦点",
-      "_zh_summary": "美国股指期货周三走高，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二收盘走高后上涨。投资者等待开盘前公布的 6 月份生产者价格指数数据。与此同时，10年期国债收益率为4.60%，两年期国债收益率为4.20%。 CME 集团的 FedWatch 工具的预测显示，市场预计美联储在 7 月会议期间维持当前利率不变的可能性为 85.6%。",
-      "_added_at": "2026-07-15T09:29:49.965210+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-07-15T08:25:20Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60461322,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/People-Silhouettes-On-American-Stock-Mar.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/People-Silhouettes-On-American-Stock-Mar.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/People-Silhouettes-On-American-Stock-Mar.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "July 15, 2026: Polymarket traders expect the S&amp;P 500 to open higher on Wednesday after cooler inflation sharply reduced July Fed hike expectations.",
-      "symbols": [
-        "BLK",
-        "JNJ",
-        "LAM",
-        "MS",
-        "MU",
-        "SMH",
-        "UAL"
-      ],
-      "updated_at": "2026-07-15T08:25:20Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60461322/sp500-july-15-open-up-or-down-polymarket-cpi-fed-rate-hike-inflation",
-      "_summary": "The S&P 500 ended higher on Tuesday after a softer-than-expected inflation report boosted hopes that the Federal Reserve may not need to tighten monetary policy as aggressively this year. Polymarket traders now expect the benchmark index to extend those gains at Wednesday’s open. The S&P 500 rose 0.38% to close at 7,543.59. The July 15 Polymarket contract implied a 73% probability that the index will open higher on Wednesday.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "周二，标准普尔 500 指数收高，此前疲软的通胀报告提振了人们对美联储今年可能不需要如此激进收紧货币政策的希望。 Polymarket 交易员现在预计基准指数将在周三开盘时延续涨幅。标准普尔 500 指数上涨 0.38%，收于 7,543.59 点。 7 月 15 日 Polymarket 合约暗示该指数周三高开的可能性为 73%。",
-      "_added_at": "2026-07-15T09:29:49.965210+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-15T07:38:10Z",
-      "headline": "Chamath Palihapitiya Says Meta and Elon Musk Could End the '$50 Barrel of Intelligence' Era, Challenging Rivals OpenAI and Anthropic",
-      "id": 60461111,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/National-Harbor--Md--Usa--February-20-20.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/National-Harbor--Md--Usa--February-20-20.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/National-Harbor--Md--Usa--February-20-20.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Chamath Palihapitiya warns Meta and xAI will crush expensive AI models as a &#39;$50 barrel of intelligence&#39; price war looms.",
-      "symbols": [
-        "GOOGL",
-        "META"
-      ],
-      "updated_at": "2026-07-15T07:47:11Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60461111/chamath-palihapitiya-says-meta-and-elon-musk-could-end-the-50-barrel-of-intelligence-era",
-      "_summary": "“You can buy it from OpenAI for 26 bucks. Anthropic’s latest model costs you 56 bucks,” Palihapitiya explained . But as deep-pocketed competitors release models that he estimates are “80 to 95% as good,” those premium prices are becoming increasingly difficult for the market to justify. “Elon is selling you a barrel of intelligence for a buck. Zuck is about to sell it to you for a buck 50. Demis and Sundar are trying to sell it to you for a dollar. The Chinese will sell it to you for $0.50,” he noted.",
-      "_zh_headline": "Chamath Palihapitiya 表示 Meta 和 Elon Musk 可能会结束“50 美元一桶智能”时代，挑战竞争对手 OpenAI 和 Anthropic",
-      "_zh_summary": "“你可以花 26 美元从 OpenAI 购买它。Anthropic 的最新模型售价 56 美元，”Palihapitiya 解释道。但随着财力雄厚的竞争对手发布了他估计“80% 到 95% 的质量”的型号，市场越来越难以证明这些溢价是合理的。 “埃隆正在以 1 美元的价格卖给你一桶情报。扎克正准备以 50 美元的价格卖给你。戴米斯和桑达尔正试图以 1 美元的价格卖给你。中国人会以 0.5 美元的价格卖给你，”他指出。",
-      "_added_at": "2026-07-15T09:29:49.965210+00:00"
     }
   ]
 }
