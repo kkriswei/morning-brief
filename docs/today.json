@@ -2,6 +2,180 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-15T09:20:25Z",
+      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Gain as Trump Vows 'Very Hard' Strikes on Iran—Pentair, ASML Holding, Intel in Focus",
+      "id": 60461692,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Wall-Street.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Wall-Street.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Wall-Street.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures were higher on Wednesday, as the Dow Jones, Nasdaq 100 and S&amp;P 500 indices rose, following Tuesday&#39;s higher close.",
+      "symbols": [
+        "AEHR",
+        "ASML",
+        "BTCUSD",
+        "IBM",
+        "INTC",
+        "PNR",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-15T09:20:25Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60461692/stock-market-today-dow-jones-sp-500-futures-gain-as-trump-vows-very-hard-strikes-on-iran-pentair-asml-holding-intel-in-focus",
+      "_summary": "U.S. stock futures were higher on Wednesday, as the Dow Jones, Nasdaq 100 and S&P 500 indices rose, following Tuesday’s higher close. Investors await the June producer price index data scheduled to be released before the market opens. Meanwhile, the 10-year Treasury bond yielded 4.60%, and the two-year bond was at 4.20%. The CME Group’s FedWatch tool’s projections show markets pricing an 85.6% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
+      "_zh_headline": "今日股市：道琼斯指数、标准普尔 500 指数期货上涨，因特朗普誓言对伊朗实施“非常严厉”打击——Pentair、ASML Holding、英特尔成为焦点",
+      "_zh_summary": "美国股指期货周三走高，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周二收盘走高后上涨。投资者等待开盘前公布的 6 月份生产者价格指数数据。与此同时，10年期国债收益率为4.60%，两年期国债收益率为4.20%。 CME 集团的 FedWatch 工具的预测显示，市场预计美联储在 7 月会议期间维持当前利率不变的可能性为 85.6%。",
+      "_added_at": "2026-07-15T09:29:49.965210+00:00"
+    },
+    {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-07-15T08:25:20Z",
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "id": 60461322,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/People-Silhouettes-On-American-Stock-Mar.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/People-Silhouettes-On-American-Stock-Mar.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/People-Silhouettes-On-American-Stock-Mar.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "July 15, 2026: Polymarket traders expect the S&amp;P 500 to open higher on Wednesday after cooler inflation sharply reduced July Fed hike expectations.",
+      "symbols": [
+        "BLK",
+        "JNJ",
+        "LAM",
+        "MS",
+        "MU",
+        "SMH",
+        "UAL"
+      ],
+      "updated_at": "2026-07-15T08:25:20Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60461322/sp500-july-15-open-up-or-down-polymarket-cpi-fed-rate-hike-inflation",
+      "_summary": "The S&P 500 ended higher on Tuesday after a softer-than-expected inflation report boosted hopes that the Federal Reserve may not need to tighten monetary policy as aggressively this year. Polymarket traders now expect the benchmark index to extend those gains at Wednesday’s open. The S&P 500 rose 0.38% to close at 7,543.59. The July 15 Polymarket contract implied a 73% probability that the index will open higher on Wednesday.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "周二，标准普尔 500 指数收高，此前疲软的通胀报告提振了人们对美联储今年可能不需要如此激进收紧货币政策的希望。 Polymarket 交易员现在预计基准指数将在周三开盘时延续涨幅。标准普尔 500 指数上涨 0.38%，收于 7,543.59 点。 7 月 15 日 Polymarket 合约暗示该指数周三高开的可能性为 73%。",
+      "_added_at": "2026-07-15T09:29:49.965210+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-15T07:38:10Z",
+      "headline": "Chamath Palihapitiya Says Meta and Elon Musk Could End the '$50 Barrel of Intelligence' Era, Challenging Rivals OpenAI and Anthropic",
+      "id": 60461111,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/National-Harbor--Md--Usa--February-20-20.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/National-Harbor--Md--Usa--February-20-20.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/National-Harbor--Md--Usa--February-20-20.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Chamath Palihapitiya warns Meta and xAI will crush expensive AI models as a &#39;$50 barrel of intelligence&#39; price war looms.",
+      "symbols": [
+        "GOOGL",
+        "META"
+      ],
+      "updated_at": "2026-07-15T07:47:11Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60461111/chamath-palihapitiya-says-meta-and-elon-musk-could-end-the-50-barrel-of-intelligence-era",
+      "_summary": "“You can buy it from OpenAI for 26 bucks. Anthropic’s latest model costs you 56 bucks,” Palihapitiya explained . But as deep-pocketed competitors release models that he estimates are “80 to 95% as good,” those premium prices are becoming increasingly difficult for the market to justify. “Elon is selling you a barrel of intelligence for a buck. Zuck is about to sell it to you for a buck 50. Demis and Sundar are trying to sell it to you for a dollar. The Chinese will sell it to you for $0.50,” he noted.",
+      "_zh_headline": "Chamath Palihapitiya 表示 Meta 和 Elon Musk 可能会结束“50 美元一桶智能”时代，挑战竞争对手 OpenAI 和 Anthropic",
+      "_zh_summary": "“你可以花 26 美元从 OpenAI 购买它。Anthropic 的最新模型售价 56 美元，”Palihapitiya 解释道。但随着财力雄厚的竞争对手发布了他估计“80% 到 95% 的质量”的型号，市场越来越难以证明这些溢价是合理的。 “埃隆正在以 1 美元的价格卖给你一桶情报。扎克正准备以 50 美元的价格卖给你。戴米斯和桑达尔正试图以 1 美元的价格卖给你。中国人会以 0.5 美元的价格卖给你，”他指出。",
+      "_added_at": "2026-07-15T09:29:49.965210+00:00"
+    },
+    {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-15T07:48:16Z",
+      "headline": "YSX Tech Stock Soars 14% After Hours: Here's Why",
+      "id": 60461142,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Stock-Market-Data-On-Digital-Led-Display.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Stock-Market-Data-On-Digital-Led-Display.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Stock-Market-Data-On-Digital-Led-Display.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "YSX Tech Co Ltd shares jumped 14.10% after hours following its fiscal 2026 earnings report showing revenue growth.",
+      "symbols": [
+        "YSXT"
+      ],
+      "updated_at": "2026-07-15T07:48:16Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60461142/ysx-tech-stock-soars-14-after-hours-heres-why",
+      "_summary": "YSX Tech Co Ltd (NASDAQ: YSXT ) shares jumped 14.10% to $0.80 in after-hours trading on Tuesday. The surge in the late session reverses an intraday decline of 0.53%, which closed the stock of the Chinese business solutions provider at $0.70, according to the Benzinga Pro data. The stock movement came after the company released its fiscal 2026 earnings report for the year ended Mar. 31. Total revenue increased 16.8% year over year to $83.5 million, supported by a 28.8% increase in service volumes.",
+      "_zh_headline": "YSX 科技股盘后飙升 14%：原因如下",
+      "_zh_summary": "YSX Tech Co Ltd（纳斯达克股票代码：YSXT）股价周二盘后交易中上涨 14.10%，至 0.80 美元。根据 Benzinga Pro 的数据，尾盘的飙升扭转了盘中 0.53% 的跌幅，这家中国商业解决方案提供商的股价收于 0.70 美元。该股票走势是在该公司发布截至 3 月 31 日的 2026 财年收益报告后发生的。在服务量增长 28.8% 的支撑下，总收入同比增长 16.8% 至 8350 万美元。",
+      "_added_at": "2026-07-15T09:29:49.965210+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-15T08:33:10Z",
+      "headline": "PayPal Stock Surges Nearly 15% in Premarket as Stripe and Advent International Reportedly Propose $53 Billion Joint Acquisition",
+      "id": 60461440,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paypal-Signage--San-Jose--Ca--May-6--201.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paypal-Signage--San-Jose--Ca--May-6--201.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Paypal-Signage--San-Jose--Ca--May-6--201.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Stripe and Advent bid $53 billion for PayPal at $60.50/share, offering a 28% premium in a blockbuster takeover proposal.",
+      "symbols": [
+        "PYPL"
+      ],
+      "updated_at": "2026-07-15T08:33:10Z",
+      "url": "https://www.benzinga.com/m-a/26/07/60461440/paypal-stock-surges-nearly-15-in-premarket-as-stripe-and-advent-international-reportedly-propose-53-billion-joint-acquisition",
+      "_summary": "The proposal for $60.50 per share, backed by close to $50 billion in committed financing from banks, was submitted earlier this month, Reuters reported. That implies a 28% premium to PayPal’s closing share price on Tuesday, The proposed deal would see Stripe and Advent jointly owning PayPal, each holding an equal stake, as per the report. Stripe, Advent International and PayPal did not immediately respond to Benzinga ‘s requests for comment.",
+      "_zh_headline": "据报道，Stripe 和 Advent International 提议 530 亿美元联合收购，PayPal 股价盘前飙升近 15%",
+      "_zh_summary": "据路透社报道，本月早些时候提交了每股 60.50 美元的提案，并得到了银行近 500 亿美元的承诺融资支持。这意味着 PayPal 周二收盘价溢价 28%。据报道，拟议的交易将使 Stripe 和 Advent 共同拥有 PayPal，双方持有同等股份。 Stripe、Advent International 和 PayPal 没有立即回复 Benzinga 的置评请求。",
+      "_added_at": "2026-07-15T09:29:49.965210+00:00"
+    },
+    {
       "author": "Erica Kollmann",
       "content": "",
       "created_at": "2026-07-14T20:24:06Z",
