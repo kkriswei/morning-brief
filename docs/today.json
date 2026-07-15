@@ -2,6 +2,70 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-14T20:24:06Z",
+      "headline": "Aehr Test Systems Stock Soars After Q4 Results — Here's Why",
+      "id": 60457464,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/AehrRichmond--Virginia--Usa---8-May-2019.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/AehrRichmond--Virginia--Usa---8-May-2019.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/14/AehrRichmond--Virginia--Usa---8-May-2019.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Here&#39;s a look inside the Q4 earnings report that sent Aehr Test Systems stock soaring.",
+      "symbols": [
+        "AEHR"
+      ],
+      "updated_at": "2026-07-14T20:24:06Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60457464/aehr-test-systems-stock-soars-after-q4-results-heres-why",
+      "_summary": "Aehr Test Systems reported quarterly earnings of 11 cents per share, which beat the analyst consensus estimate for a loss of one cent, according to Benzinga Pro data. Quarterly revenue clocked in at $18.84 million, which beat the Street estimate of $18.69 million and was up from $14.09 million in the same period last year.",
+      "_zh_headline": "第四季度业绩公布后，Aehr Test Systems 股价飙升 - 这就是原因",
+      "_zh_summary": "根据 Benzinga Pro 的数据，Aehr Test Systems 公布的季度收益为每股 11 美分，超出了分析师普遍预期的亏损 1 美分。季度收入为 1,884 万美元，超出了华尔街预期的 1,869 万美元，高于去年同期的 1,409 万美元。",
+      "_added_at": "2026-07-15T06:37:56.858394+00:00"
+    },
+    {
+      "author": "Tanya Rawat",
+      "content": "",
+      "created_at": "2026-07-15T06:29:12Z",
+      "headline": "Vivakor (VIVK) Stock Falls 31% After-Hours: Here's What's Going On",
+      "id": 60460495,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Red-Arrow-And-Falling-Financial-Charts-O.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Red-Arrow-And-Falling-Financial-Charts-O.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Red-Arrow-And-Falling-Financial-Charts-O.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Vivakor stock fell 31% after hours after the company announced a 1-for-20 reverse stock split.",
+      "symbols": [
+        "VIVK"
+      ],
+      "updated_at": "2026-07-15T06:29:12Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60460495/vivakor-vivk-stock-falls-31-after-hours-heres-whats-going-on",
+      "_summary": "Vivakor, Inc. (NASDAQ: VIVK ) shares fell sharply in after-hours trading on Tuesday after the company announced a 1-for-20 reverse stock split that is set to take effect later this week. Vivakor closed Tuesday’s regular session at $0.30, down 1.76%. In after-hours trading, the stock dropped another 31.30% to $0.21. Vivakor is an integrated energy services company that provides oil transportation, storage, reuse and remediation services across the U.S.",
+      "_zh_headline": "Vivakor (VIVK) 股价盘后下跌 31%：这就是发生的事情",
+      "_zh_summary": "Vivakor, Inc.（纳斯达克股票代码：VIVK）宣布将于本周晚些时候生效的 20 股反向股票分割计划，该公司股价在周二盘后交易中大幅下跌。 Vivakor 周二常规交易收盘价为 0.30 美元，下跌 1.76%。在盘后交易中，该股再次下跌 31.30%，至 0.21 美元。 Vivakor 是一家综合能源服务公司，在美国各地提供石油运输、储存、再利用和修复服务。",
+      "_added_at": "2026-07-15T06:37:56.858394+00:00"
+    },
+    {
       "author": "Isaac Olaosegba",
       "content": "",
       "created_at": "2026-07-14T18:10:48Z",
