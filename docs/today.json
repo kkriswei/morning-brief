@@ -2,6 +2,106 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-15T20:56:41Z",
+      "headline": "Wall Street Gave Up on PayPal, But the Stock Just Had Its Best Day Ever",
+      "id": 60486080,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/London--Uk---August-2021-Paypal-Finance-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/London--Uk---August-2021-Paypal-Finance-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/London--Uk---August-2021-Paypal-Finance-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "PayPal shares jumped 17.2% on a reported $60.50-a-share bid from Stripe and Advent. Down 85% from 2021 highs, the discount is what drew buyers in.",
+      "symbols": [
+        "PYPL"
+      ],
+      "updated_at": "2026-07-15T20:56:41Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60486080/paypal-stock-surge-stripe-advent-takeover-bid",
+      "_summary": "A payments company that has lost more than 80% of its value in five years just posted the largest single-day gain of its eleven-year public life . PayPal Holdings Inc. (NASDAQ: PYPL ) rose 17.19% on Wednesday, the biggest daily rally since the company’s 2015 spin-off. What Happened: Reuters reported that Stripe Inc. and Advent International Corp. submitted a joint proposal earlier this month at $60.50 a share, valuing PayPal at more than $53 billion.",
+      "_zh_headline": "华尔街放弃了 PayPal，但该股刚刚经历了有史以来最好的一天",
+      "_zh_summary": "一家在五年内市值损失超过 80% 的支付公司刚刚公布了其 11 年上市以来最大的单日涨幅。 PayPal Holdings Inc.（纳斯达克股票代码：PYPL）周三上涨 17.19%，这是该公司 2015 年分拆以来的最大单日涨幅。发生了什么：据路透社报道，Stripe Inc. 和 Advent International Corp. 本月早些时候提交了一份联合提案，每股价格为 60.50 美元，对 PayPal 的估值超过 530 亿美元。",
+      "_added_at": "2026-07-15T22:31:05.762895+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-15T18:37:43Z",
+      "headline": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
+      "id": 60482072,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Warren-Buffett-Is-A-Billionaire-Investor.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Warren-Buffett-Is-A-Billionaire-Investor.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Warren-Buffett-Is-A-Billionaire-Investor.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Warren Buffett is still looking for value when it comes to stocks. The legendary investor says it&#39;s getting harder to find value stocks these days.",
+      "symbols": [
+        "BRK",
+        "HOOD",
+        "SPY"
+      ],
+      "updated_at": "2026-07-15T18:37:43Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60482072/warren-buffett-looks-for-value-in-todays-market-but-comes-up-empty-everybody-is-preferring-gambling",
+      "_summary": "That $397 billion continues to sit on the sidelines as stocks hit record highs across many sectors. Buffett said he fails to see value in many investments and thinks the stock market is getting closer to a casino. \"It’s tough to find values when everybody is preferring gambling,\" Buffett told CNBC Wednesday. The legendary investor said the market today is driven more by speculative trading and not long-term investing.",
+      "_zh_headline": "沃伦·巴菲特在当今市场中寻找价值，但却一无所获：“每个人都更喜欢赌博”",
+      "_zh_summary": "随着许多行业的股市创下历史新高，这 3,970 亿美元仍然处于观望状态。巴菲特表示，他看不到许多投资的价值，并认为股市越来越接近赌场。巴菲特周三对 CNBC 表示：“当每个人都喜欢赌博时，很难找到价值。”这位传奇投资者表示，当今的市场更多地是由投机交易而非长期投资驱动的。",
+      "_added_at": "2026-07-15T22:31:05.762895+00:00"
+    },
+    {
+      "author": "Daragh Thomas",
+      "content": "",
+      "created_at": "2026-07-15T17:15:30Z",
+      "headline": "Treasury Secretary Bessent Unveils $1 Trump Coin: What Do Prediction Markets Say About It? (UPDATED)",
+      "id": 60479043,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Bribery-And-Corruption-Haunt-Trump-2-0.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Bribery-And-Corruption-Haunt-Trump-2-0.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Bribery-And-Corruption-Haunt-Trump-2-0.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Treasury Secretary Scott Bessent unveiled a new $1 Trump coin, but an 1866 law and lawsuits could block it. See how Kalshi prediction markets are pricing the odds.",
+      "symbols": [
+        "DJT",
+        "GLD",
+        "TRUMPUSD"
+      ],
+      "updated_at": "2026-07-15T18:38:27Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60479043/treasury-secretary-bessent-unveils-1-trump-coin-what-do-prediction-markets-say-about-it",
+      "_summary": "Editor’s note: the story has been updated with fresh information about the coin’s design and circulation. President Donald Trump ‘s face may soon appear on a dollar coin, after Treasury Secretary Scott Bessent unveiled the design Wednesday to mark America’s 250th birthday. The coin shows Trump’s profile alongside “In God We Trust” and “Liberty 1776-2026.” Bessent said the U.S. Mint will begin striking the new “$1 gold coin,” calling it “a lasting symbol of patriotism” in a post on X .",
+      "_zh_headline": "财政部长贝森特推出 1 美元特朗普硬币：预测市场对此有何评价？ （已更新）",
+      "_zh_summary": "编者注：该故事已更新，添加了有关硬币设计和流通的最新信息。周三，财政部长斯科特·贝森特公布了纪念美国 250 岁生日的设计，唐纳德·特朗普总统的头像可能很快就会出现在一美元硬币上。硬币上印有特朗普的个人资料以及“我们相信上帝”和“自由 1776-2026”。贝森特表示，美国造币厂将开始铸造新的“1 美元金币”，并在 X 上的一篇帖子中称其为“爱国主义的持久象征”。",
+      "_added_at": "2026-07-15T22:31:05.762895+00:00"
+    },
+    {
       "headline": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
       "summary": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
       "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
@@ -603,109 +703,6 @@
       "_zh_headline": "苹果情报终于为中国清除了：以下是新闻中出现的股票",
       "_zh_summary": "苹果公司（纳斯达克股票代码：AAPL）周三获得了中国监管机构对 Apple Intelligence 的批准，结束了自 2024 年推出该功能以来的等待。阿里巴巴集团控股公司（纽约证券交易所股票代码：BABA）的 Qwen 模型将为该服务提供动力，该公司在盘前交易中股价上涨超过 4%。苹果股价上涨近 1%。据监管机构网站上的一篇帖子称，中国国家互联网信息办公室已将苹果的生成式人工智能服务添加到其批准的提供商名单中。",
       "_added_at": "2026-07-15T15:08:25.051714+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-15T11:43:53Z",
-      "headline": "The Fed Has Missed Its 2% Inflation Target for 64 Straight Months— And One Market Strategist Says It Has 'Lost All Credibility'",
-      "id": 60464807,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Inflation-Word-On-Wooden-Cube-With-With-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Charlie Bilello cites shocking 7-year price hikes as the Fed misses its 2% target for the 64th month, despite a cooling June CPI.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-15T11:43:53Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60464807/the-fed-has-missed-its-2-inflation-target-for-64-straight-months-and-one-market-strategist-says-it-has-lost-all-credibility",
-      "_summary": "In response to the latest Consumer Price Index (CPI) figures, Bilello pointed out that June 2026 marks 64 consecutive months with inflation running above the Federal Reserve’s 2% goal. Reacting to this sustained inflationary period, Bilello declared, “The Fed has lost all credibility when it comes to fighting inflation.” To illustrate the long-term impact on consumers, Bilello shared data tracking severe cumulative “price Increases over last 7 years.”",
-      "_zh_headline": "美联储连续 64 个月未能实现 2% 的通胀目标——一位市场策略师称其“失去了所有可信度”",
-      "_zh_summary": "在回应最新的消费者价格指数（CPI）数据时，比莱洛指出，2026年6月标志着通胀率连续64个月高于美联储2%的目标。针对这一持续的通胀时期，比莱洛宣称，“美联储在对抗通胀方面已经失去了所有可信度。”为了说明对消费者的长期影响，Bilello 分享了跟踪“过去 7 年价格上涨”严重累积的数据。",
-      "_added_at": "2026-07-15T12:52:47.837549+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-15T12:40:01Z",
-      "headline": "Why Is Alibaba Stock Surging Wednesday?",
-      "id": 60466788,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/In-This-Photo-Illustration--The-Qwen-ali.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/In-This-Photo-Illustration--The-Qwen-ali.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/In-This-Photo-Illustration--The-Qwen-ali.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Alibaba (NYSE: BABA) stock gains 4% premarket on news that the company&#39;s Qwen AI model will power Apple Intelligence on China iPhones.",
-      "symbols": [
-        "AAPL",
-        "BABA",
-        "BIDU"
-      ],
-      "updated_at": "2026-07-15T12:40:01Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60466788/why-is-alibaba-stock-surging-wednesday",
-      "_summary": "The broader market also offered modest support, with Nasdaq futures up 0.31% and S&P 500 futures gaining 0.09%. China requires all generative AI services and large language models to be registered before they can be released publicly. Regulators have not announced a launch date, Reuters said. The approval follows Apple’s reported 24.4% year-over-year increase in China iPhone shipments during the second quarter. The latest development adds to improving sentiment around Alibaba.",
-      "_zh_headline": "为何阿里巴巴股价周三飙升？",
-      "_zh_summary": "大盘也提供了温和的支撑，纳斯达克期货上涨 0.31%，标准普尔 500 指数期货上涨 0.09%。中国要求所有生成式人工智能服务和大型语言模型必须注册才能公开发布。路透社称，监管机构尚未宣布推出日期。此前，苹果公布第二季度中国 iPhone 出货量同比增长 24.4%。最新进展进一步改善了阿里巴巴的情绪。",
-      "_added_at": "2026-07-15T12:52:47.837549+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-15T12:12:22Z",
-      "headline": "Nvidia CEO Jensen Huang Dismisses Vera Rubin Hardware Delay Report, Affirms 'Giant' Production Volumes",
-      "id": 60465814,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Jensen-Huang--Ceo-Of-Nvidia--Holding-A-W.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Jensen-Huang--Ceo-Of-Nvidia--Holding-A-W.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Jensen-Huang--Ceo-Of-Nvidia--Holding-A-W.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Nvidia Corp. CEO Jensen Huang dismissed reports of delays in the rollout of the company&#39;s Vera Rubin AI hardware.",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SKHY",
-        "SSNLF"
-      ],
-      "updated_at": "2026-07-15T12:12:22Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60465814/nvidia-ceo-jensen-huang-dismisses-vera-rubin-hardware-delay-report-affirms-giant-production-volumes",
-      "_summary": "Nvidia Corp. (NASDAQ: NVDA ) CEO Jensen Huang dismissed reports of delays in the rollout of the company’s Vera Rubin AI hardware and affirmed that production remains on track. On Wednesday, during a talk on how the company could help Japan’s AI ambitions in Tokyo, Huang stated that the company’s high-end AI  accelerator systems were on track for delivery to customers on “giant” production volumes, reported Bloomberg.",
-      "_zh_headline": "Nvidia 首席执行官黄仁勋驳斥了 Vera Rubin 硬件延迟报告，并肯定了“巨大”的产量",
-      "_zh_summary": "英伟达公司（纳斯达克股票代码：NVDA）首席执行官黄仁勋驳斥了有关该公司 Vera Rubin AI 硬件推出延迟的报道，并确认生产仍在正常进行。据彭博社报道，周三，在东京举行的关于该公司如何帮助日本实现人工智能雄心的演讲中，黄仁勋表示，该公司的高端人工智能加速器系统有望以“巨大”的产量交付给客户。",
-      "_added_at": "2026-07-15T12:52:47.837549+00:00"
     }
   ]
 }
