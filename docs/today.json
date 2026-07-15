@@ -2,6 +2,64 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "headline": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "summary": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
+      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+      "source": "CNBC",
+      "symbols": [],
+      "created_at": "2026-07-15T19:05:12+00:00",
+      "_summary": "Federal Reserve Chairman Kevin Warsh testified Wednesday before the Senate Banking Committee, facing questions over the the economy and how various factors might impact interest rates. Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee. During his remarks, he reaffirmed the Fed's commitment to fighting inflation though he gave few clues about the direction of monetary policy. Legislators tried baiting Warsh into commenting on fiscal and political matters, but he largely avoided the topics, stressing the importance of the Fed staying focused on its assigned responsibilities.",
+      "_zh_headline": "美联储主席凯文·沃什向参议院银行委员会作证对经济和利率造成打击",
+      "_zh_summary": "美联储主席凯文·沃什周三在参议院银行委员会作证，面临有关经济以及各种因素如何影响利率的问题。作为国会授权央行行长出席国会山的一部分，沃什周二向众议院金融服务委员会发表了讲话。在讲话中，他重申了美联储对抗通胀的承诺，尽管他没有透露有关货币政策方向的任何线索。立法者试图引诱沃什就财政和政治问题发表评论，但他基本上回避了这些话题，强调美联储专注于其指定职责的重要性。",
+      "_added_at": "2026-07-15T20:35:02.881914+00:00"
+    },
+    {
+      "headline": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
+      "summary": "Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.",
+      "url": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+      "source": "CNBC",
+      "symbols": [],
+      "created_at": "2026-07-15T12:21:33+00:00",
+      "_summary": "New Federal Reserve Chairman Kevin Warsh was a \"good choice\" for the job, Warren Buffett told CNBC. Warsh made his mark during his first meeting as chair in June, holding rates steady while outlining changes to the central bank's approach . In Congressional testimony on Tuesday, Warsh pledged a \" regime change \" in Fed policy and promised to tackle inflation. \"I think he will do the best he can at achieving the job he was assigned to do, which is 2% inflation and maintaining maximum employment,\" Buffett said in an interview with Becky Quick on \" Squawk Box .\" \"He can't be perfect at it, and just like I know I couldn't be perfect at taking people's money and earning super returns on it,\" he added. Warsh took the helm in May after being nominated by President Donald Trump and confirmed by Congress. On Wednesday, he'll return to the Capitol to testify in front of the Senate Banking Committee.",
+      "_zh_headline": "巴菲特表示特朗普选择凯文·沃什担任美联储主席是“不错的选择”",
+      "_zh_summary": "沃伦·巴菲特对 CNBC 表示，新任美联储主席凯文·沃什是这一职位的“不错选择”。沃什在 6 月份作为主席的第一次会议上留下了自己的印记，他保持利率稳定，同时概述了央行政策的变化。在周二的国会证词中，沃什承诺对美联储政策进行“政权更迭”，并承诺解决通胀问题。巴菲特在“Squawk Box”节目中接受贝基·奎克采访时表示：“我认为他将尽最大努力完成分配给他的工作，即 2% 的通胀率和保持最大就业。”他补充道：“他在这方面不可能做到完美，就像我知道我在拿走人们的钱并从中赚取超额回报方面也无法做到完美一样。”沃什在由唐纳德·特朗普总统提名并得到国会确认后于五月上任。周三，他将返回国会大厦，在参议院银行委员会面前作证。",
+      "_added_at": "2026-07-15T20:35:02.881914+00:00"
+    },
+    {
+      "author": "Parshwa Turakhiya",
+      "content": "",
+      "created_at": "2026-07-15T20:25:12Z",
+      "headline": "Are Crypto Prices Lying? Bitwise's Q2 Data Suggest the Bull Market Never Stopped",
+      "id": 60485451,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Q2 saw a 36% drop in crypto assets but a 23% gain in crypto equities. Top crypto apps earned $5.9B in revenue, while tokenized RWAs hit $33B.",
+      "symbols": [
+        "AAVEUSD",
+        "BTCUSD",
+        "CAKEUSD"
+      ],
+      "updated_at": "2026-07-15T20:25:12Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60485451/are-crypto-prices-lying-bitwises-q2-data-suggest-the-bull-market-never-stopped",
+      "_summary": "Bitwise’s Head of Research Ryan Rasmussen says crypto asset prices tell only half the story from Q2, with equities, revenue, and real-world adoption all moving in the opposite direction from token prices. The gap between crypto assets and crypto equities was the defining story of the first half. Crypto assets dropped 36%, making them the worst-performing major asset class alongside gold, which fell 7%. Everything else finished green.",
+      "_zh_headline": "加密货币价格在撒谎吗？ Bitwise 第二季度数据表明牛市从未停止",
+      "_zh_summary": "Bitwise 的研究主管 Ryan Rasmussen 表示，加密资产价格只说明了第二季度情况的一半，股票、收入和现实世界的采用率都与代币价格相反。加密资产和加密股票之间的差距是上半年的决定性故事。加密资产下跌 36%，与黄金一起成为表现最差的主要资产类别，黄金下跌 7%。其他一切都变成绿色。",
+      "_added_at": "2026-07-15T20:35:02.881914+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-15T17:01:58Z",
@@ -648,110 +706,6 @@
       "_zh_headline": "Nvidia 首席执行官黄仁勋驳斥了 Vera Rubin 硬件延迟报告，并肯定了“巨大”的产量",
       "_zh_summary": "英伟达公司（纳斯达克股票代码：NVDA）首席执行官黄仁勋驳斥了有关该公司 Vera Rubin AI 硬件推出延迟的报道，并确认生产仍在正常进行。据彭博社报道，周三，在东京举行的关于该公司如何帮助日本实现人工智能雄心的演讲中，黄仁勋表示，该公司的高端人工智能加速器系统有望以“巨大”的产量交付给客户。",
       "_added_at": "2026-07-15T12:52:47.837549+00:00"
-    },
-    {
-      "author": "Lekha Gupta",
-      "content": "",
-      "created_at": "2026-07-15T11:27:39Z",
-      "headline": "Why Is jet.ai Stock Soaring on Wednesday?",
-      "id": 60464235,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Economists-Issue-Urgent-AI-Warning.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Economists-Issue-Urgent-AI-Warning.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Economists-Issue-Urgent-AI-Warning.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Jet.AI Inc. (JTAI)&#39;s stock up in premarket as they announce a non-binding LOI for a proposed merger and spin-off plans for their data center business.",
-      "symbols": [
-        "FLYX",
-        "JTAI"
-      ],
-      "updated_at": "2026-07-15T11:27:39Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60464235/why-is-jet-ai-stock-soaring-on-wednesday",
-      "_summary": "The proposed transaction is expected to be priced at approximately $320 million. This news comes amid a generally positive tone in the market, with S&P 500 futures gaining 0.2%. Under the proposed structure, Jet.AI shareholders would receive about $20 million in value, representing roughly 5%–6% ownership of the combined company. The transaction would allow Jet.AI investors to own shares in two public companies. The merged entity would continue trading under the JTAI ticker.",
-      "_zh_headline": "为什么jet.ai的股票周三飙升？",
-      "_zh_summary": "拟议交易预计售价约为 3.2 亿美元。这一消息发布之际，市场普遍乐观，标准普尔 500 指数期货上涨 0.2%。根据拟议的结构，Jet.AI 股东将获得约 2000 万美元的价值，约占合并后公司 5%-6% 的所有权。该交易将允许 Jet.AI 投资者持有两家上市公司的股份。合并后的实体将继续以 JTAI 股票代码进行交易。",
-      "_added_at": "2026-07-15T12:52:47.837549+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-15T10:31:26Z",
-      "headline": "CoreWeave Weighs Derivatives to Protect Against Falling Chip Prices: Report",
-      "id": 60462869,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/CoreWeaveApex--North-Carolina---April-2-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/CoreWeaveApex--North-Carolina---April-2-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/CoreWeaveApex--North-Carolina---April-2-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "CoreWeave is reportedly weighing financial derivatives to hedge against future declines in memory and storage chip prices.",
-      "symbols": [
-        "CRWV",
-        "MU",
-        "NVDA",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-15T10:31:26Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60462869/coreweave-weighs-derivatives-to-protect-against-falling-chip-prices-report",
-      "_summary": "CoreWeave Inc. (NASDAQ: CRWV ) is reportedly exploring the use of financial derivatives to hedge against future declines in memory and storage chip prices, Reuters News reported on Tuesday. The company is said to have held early-stage discussions about using financial derivatives, including put options, to protect itself from a future decline in memory and storage chip prices, the report said, citing people familiar with the matter.",
-      "_zh_headline": "CoreWeave 权衡衍生品以防止芯片价格下跌：报告",
-      "_zh_summary": "据路透社周二报道，CoreWeave Inc.（纳斯达克股票代码：CRWV）正在探索利用金融衍生品来对冲内存和存储芯片价格未来下跌的风险。报道援引知情人士的话称，据称该公司已就使用包括看跌期权在内的金融衍生品进行了早期讨论，以保护自己免受未来内存和存储芯片价格下跌的影响。",
-      "_added_at": "2026-07-15T12:52:47.837549+00:00"
-    },
-    {
-      "author": "Dmytro Spilka",
-      "content": "",
-      "created_at": "2026-07-15T10:19:47Z",
-      "headline": "Is The Rise Of AI Fatigue Beginning To Drive S&P 500 Lower?",
-      "id": 60462632,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/SP-500.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/SP-500.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/SP-500.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Artificial intelligence has been one of the most powerful drivers of growth throughout Wall Street since late 2022, but have investors grown impatient with skyrocketing valuations and circular funding? \n\n\n\nThe sheer",
-      "symbols": [
-        "AAPL",
-        "GOOGL",
-        "IVV",
-        "SPY",
-        "VOO"
-      ],
-      "updated_at": "2026-07-15T10:19:47Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60462632/is-rise-of-ai-fatigue-beginning-to-drive-sp500-lower",
-      "_summary": "Artificial intelligence has been one of the most powerful drivers of growth throughout Wall Street since late 2022, but have investors grown impatient with skyrocketing valuations and circular funding? The sheer scale of the AI boom is unprecedented. At present, the Magnificent Seven, a collection of adopters that have seen their market caps swell in the age of artificial intelligence, make up around 33% of the entire S&P 500’s value.",
-      "_zh_headline": "人工智能疲劳的加剧是否开始导致标准普尔 500 指数下跌？",
-      "_zh_summary": "自 2022 年底以来，人工智能一直是整个华尔街最强大的增长驱动力之一，但投资者是否对飙升的估值和循环融资变得不耐烦了？人工智能热潮的规模是前所未有的。目前，“七巨头”是一群在人工智能时代市值不断膨胀的采用者，约占整个标准普尔 500 指数价值的 33%。",
-      "_added_at": "2026-07-15T11:13:01.886381+00:00"
     }
   ]
 }
