@@ -2,6 +2,154 @@
   "date": "2026-07-16",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-16T07:17:10Z",
+      "headline": "Dow Jumps 150 Points Following Producer Inflation Data: Investor Sentiment Improves, Fear & Greed Index In ‘Neutral’ Zone",
+      "id": 60488754,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks gain, led by Amazon and Alphabet. Apple hits record high. Aehr Test Systems and Morgan Stanley report strong earnings. PPI data cools inflation fears.",
+      "symbols": [
+        "AAPL",
+        "ABT",
+        "AEHR",
+        "AMZN",
+        "GE",
+        "GOOG",
+        "GOOGL",
+        "MS",
+        "UNH"
+      ],
+      "updated_at": "2026-07-16T07:17:10Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60488754/dow-jumps-150-points-following-producer-inflation-data-investor-sentiment-improves-fear-greed-index-in-neutral-zone",
+      "_summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the “Neutral” zone on Wednesday. U.S. stocks settled higher on Wednesday, with the Dow Jones index gaining around 150 points during the session following the release of PPI data. On the economic data front, headline producer prices dropped 0.3% in June versus expectations for no change, with the annual rate cooling to 5.5% from 6.2%, while core PPI rose a smaller-than-expected 0.2%.",
+      "_zh_headline": "生产者通胀数据公布后，道琼斯指数上涨 150 点：投资者情绪改善，恐惧和贪婪指数处于“中性”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪有所改善，但周三该指数仍处于“中性”区域。美国股市周三收高，在 PPI 数据公布后，道琼斯指数盘中上涨约 150 点。经济数据方面，6 月份总体生产者价格下降 0.3%，而预期没有变化，年率从 6.2% 降至 5.5%，而核心 PPI 涨幅低于预期 0.2%。",
+      "_added_at": "2026-07-16T07:36:23.608884+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-16T07:22:34Z",
+      "headline": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
+      "id": 60488809,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Brazil-Flag-Waving-Against-Clean-Blue-Sk.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Brazil-Flag-Waving-Against-Clean-Blue-Sk.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Brazil-Flag-Waving-Against-Clean-Blue-Sk.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump imposes 25% tariffs on most Brazilian imports under Section 301, with duties potentially rising to 37.5% next week.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "ME",
+        "META"
+      ],
+      "updated_at": "2026-07-16T07:22:34Z",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60488809/marco-rubio-says-president-lula-put-his-ego-ahead-of-making-a-deal-as-trump-slaps-brazil-with-25-tariffs",
+      "_summary": "The Trump Administration announced a 25% tariff on most Brazilian imports late Wednesday, effective July 22. Other points of contention comprise preferential tariffs for Mexico and India, weak intellectual property enforcement, and barriers in the ethanol market. United States Trade Representative (USTR) Jamieson Greer said year-long negotiations with Brazil failed to resolve the identified trade issues, but the U.S. remains willing to continue talks to achieve meaningful reforms.",
+      "_zh_headline": "马可·鲁比奥表示，特朗普对巴西征收 25% 关税，卢拉总统“以自我为先”",
+      "_zh_summary": "特朗普政府周三晚间宣布对大多数巴西进口产品征收 25% 的关税，自 7 月 22 日起生效。其他争论点包括对墨西哥和印度的优惠关税、知识产权执法薄弱以及乙醇市场的壁垒。美国贸易代表（USTR）贾米森·格里尔表示，与巴西长达一年的谈判未能解决已确定的贸易问题，但美国仍然愿意继续谈判以实现有意义的改革。",
+      "_added_at": "2026-07-16T07:36:23.608884+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-16T06:15:43Z",
+      "headline": "Mira Murati Unveils Open-Weight AI Model as Alex Karp, Satya Nadella Warn Companies Are Giving Away Their IP",
+      "id": 60488374,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Mira Murati&#39;s new Inkling AI solves the enterprise IP crisis warned by Microsoft&#39;s Satya Nadella and Palantir&#39;s Alex Karp.",
+      "symbols": [
+        "AIQ",
+        "ARTY",
+        "BAI",
+        "BOTZ",
+        "CHAT",
+        "IYW",
+        "MSFT",
+        "PLTR"
+      ],
+      "updated_at": "2026-07-16T06:15:43Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60488374/mira-murati-unveils-open-weight-ai-model-as-alex-karp-satya-nadella-warn-companies-are-giving-away-their-ip",
+      "_summary": "Her startup, Thinking Machines Lab , recently released “Inkling,” an open-weight AI model designed to let businesses customize AI without exposing their proprietary data. The launch of Inkling arrives exactly as major tech executives warn that relying on frontier AI labs is jeopardizing enterprise data and competitive advantages. Murati’s new release directly addresses these enterprise fears.",
+      "_zh_headline": "米拉·穆拉蒂 (Mira Murati) 推出开放权重人工智能模型，亚历克斯·卡普 (Alex Karp) 和萨蒂亚·纳德拉 (Satya Nadella) 警告公司正在放弃其知识产权",
+      "_zh_summary": "她的初创公司 Thinking Machines Lab 最近发布了“Inkling”，这是一种开放式人工智能模型，旨在让企业在不暴露其专有数据的情况下定制人工智能。 Inkling 的推出恰逢主要科技高管警告称，依赖前沿人工智能实验室正在危及企业数据和竞争优势。 Murati 的新版本直接解决了这些企业的担忧。",
+      "_added_at": "2026-07-16T07:36:23.608884+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-16T05:16:26Z",
+      "headline": "Apple Intelligence's China Win Sparks Rally in Alibaba, Baidu Shares in Hong Kong",
+      "id": 60487990,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinese-Firms-Seek-Workarounds.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinese-Firms-Seek-Workarounds.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinese-Firms-Seek-Workarounds.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Shares of Alibaba and Baidu rose in Hong Kong after China approved Apple&#39;s generative AI service, clearing the way for Apple Intelligence.",
+      "symbols": [
+        "AAPL",
+        "BABA",
+        "BIDU"
+      ],
+      "updated_at": "2026-07-16T05:16:26Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60487990/apple-intelligences-china-win-sparks-rally-in-alibaba-baidu-shares-in-hong-kong",
+      "_summary": "Hong Kong-listed Alibaba shares were up about 4.76% at 118.80 HKD ($15.16), while Baidu gained nearly 3.91% at 111.70 HKD ($14.25) at the time of writing. Alibaba’s Qwen large language model will power Apple Intelligence across Apple’s operating systems in China, while Baidu will support AI features on iPhones in the country, CNBC reported .",
+      "_zh_headline": "Apple Intelligence 的中国胜利引发阿里巴巴和百度股价在香港的上涨",
+      "_zh_summary": "截至撰写本文时，香港上市的阿里巴巴股价上涨约 4.76%，至 118.80 港元（15.16 美元），而百度则上涨近 3.91%，至 111.70 港元（14.25 美元）。据 CNBC 报道，阿里巴巴的 Qwen 大语言模型将为 Apple Intelligence 在中国的苹果操作系统提供支持，而百度将支持中国 iPhone 上的人工智能功能。",
+      "_added_at": "2026-07-16T07:36:23.608884+00:00"
+    },
+    {
       "headline": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
       "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
       "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
