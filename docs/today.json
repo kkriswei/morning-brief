@@ -2,6 +2,218 @@
   "date": "2026-07-16",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-16T17:06:05Z",
+      "headline": "Chip Selloff Drags Nasdaq 100, Gold Sinks Below $4,000: Stock Market Today",
+      "id": 60505919,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A semiconductor selloff sank the Nasdaq 100 more than 1% while UnitedHealth&#39;s blowout quarter lifted the Dow.",
+      "symbols": [
+        "ABT",
+        "ASTS",
+        "BE",
+        "CTAS",
+        "DIA",
+        "GLD",
+        "IWM",
+        "JBHT",
+        "PL",
+        "QQQ",
+        "RHI",
+        "RKLB",
+        "SMG",
+        "SNDK",
+        "SPY",
+        "TSM",
+        "UNH",
+        "VOO",
+        "XLK",
+        "XLP",
+        "XLV"
+      ],
+      "updated_at": "2026-07-16T17:06:06Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
+      "_summary": "Another sharp selloff in semiconductors dragged the Nasdaq 100 down more than 1% by midday Thursday, extending a negative week for tech. Across U.S. equity markets, during midday trading, the moves were sharply split beneath the surface. Strength in defensive and value names offset weakness concentrated in chips and speculative tech, sending money down the market-cap ladder. The S&P 500 slipped 0.2% to around 7,554, while the Dow Jones Industrial Average added roughly 90 points, or 0.2%, to about 52,749.",
+      "_zh_headline": "芯片抛售拖累纳斯达克 100 指数，金价跌破 4,000 美元：今日股市",
+      "_zh_summary": "截至周四中午，半导体行业的另一次大幅抛售拖累纳斯达克 100 指数下跌超过 1%，延续了科技股的负面一周。整个美国股市在午盘交易中，走势在表面下急剧分化。防御性和价值型股票的强势抵消了芯片和投机性科技股的疲软，导致资金走下市值阶梯。标准普尔 500 指数下跌 0.2%，至 7,554 点左右；道琼斯工业平均指数上涨约 90 点，即 0.2%，至 52,749 点左右。",
+      "_added_at": "2026-07-16T18:41:49.014646+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-07-16T18:18:31Z",
+      "headline": "Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings; Apple Boosts China AI Models",
+      "id": 60508815,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Taiwan-Semi.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Taiwan-Semi.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Taiwan-Semi.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nKorea Leading Semiconductors \n\n\n\nPlease click here for an enlarged chart of Taiwan Semiconductor Manufacturing Co Ltd (NYSE:TSM).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "ASML",
+        "BABA",
+        "BIDU",
+        "BTCUSD",
+        "GOOG",
+        "KWEB",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPCX",
+        "SPY",
+        "TSLA",
+        "TSM"
+      ],
+      "updated_at": "2026-07-16T18:19:52Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60508815/korea-drives-semi-stocks-lower-despite-solid-taiwan-semi-earnings-apple-boosts-china-ai-models",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Amazon.com, Inc. (NASDAQ: AMZN ) .",
+      "_zh_headline": "尽管台湾半导体盈利稳健，但韩国推动半导体股票走低；苹果推动中国人工智能模型",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，亚马逊公司（纳斯达克股票代码：AMZN）的资金流向是中性的。",
+      "_added_at": "2026-07-16T18:41:49.014646+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-16T18:36:27Z",
+      "headline": "Supermicro Stock Drops as AI Hardware Correction Triggers Massive Server Selloff",
+      "id": 60509479,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Super-Micro-Computer--Inc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Super-Micro-Computer--Inc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Super-Micro-Computer--Inc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Super Micro Computer (NASDAQ: SMCI) stock plummeted over 6% on Thursday as a broader computing hardware selloff sparked concerns over AI infrastructure inventory and growth.",
+      "symbols": [
+        "DELL",
+        "FTA",
+        "FXL",
+        "PFF",
+        "SMCI"
+      ],
+      "updated_at": "2026-07-16T18:36:27Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60509479/supermicro-stock-drops-as-ai-hardware-correction-triggers-massive-server-selloff",
+      "_summary": "Super Micro Computer, Inc (NASDAQ: SMCI ) stock slid by more than 7% on Thursday as investors pulled back from AI hardware and server stocks following a broader sector selloff. The Nasdaq is down 1.42% while the S&P 500 has shed 0.41%, and Technology is also lagging with a 2.5% loss. The bigger technical issue is the trend: SMCI is trading 13.6% below its 20-day SMA ($28.98) and 26.7% below its 200-day SMA ($34.18), keeping the intermediate and long-term bias pointed down.",
+      "_zh_headline": "由于人工智能硬件修正引发服务器大规模抛售，超微股价下跌",
+      "_zh_summary": "Super Micro Computer, Inc（纳斯达克股票代码：SMCI）股价周四下跌逾 7%，因投资者在更广泛的行业抛售后撤出人工智能硬件和服务器股票。纳斯达克指数下跌 1.42%，标准普尔 500 指数下跌 0.41%，科技股也下跌 2.5%。更大的技术问题是趋势：SMCI 的交易价格比 20 日移动平均线（28.98 美元）低 13.6%，比 200 日移动平均线（34.18 美元）低 26.7%，使中期和长期偏见保持向下。",
+      "_added_at": "2026-07-16T18:41:49.014646+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-16T17:35:22Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60507049,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+      "symbols": [
+        "AAOI",
+        "AAPL",
+        "IBM",
+        "INTC",
+        "MSFT",
+        "MU",
+        "NBIS",
+        "QUBT",
+        "SKHY",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-16T17:35:22Z",
+      "url": "https://www.benzinga.com/markets/options/26/07/60507049/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-07-16T18:41:49.014646+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-16T17:41:57Z",
+      "headline": "Google Stock News: Analyst Predicts Massive 70% Cloud Growth Ahead of Earnings",
+      "id": 60507287,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Inc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Inc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Inc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) stock climbs on Thursday as Bank of America reaffirmed a highly bullish price target, predicting massive cloud growth and strong underlying AI margins.",
+      "symbols": [
+        "FCOM",
+        "GOOG",
+        "GOOGL",
+        "IWLG",
+        "PNQI"
+      ],
+      "updated_at": "2026-07-16T17:41:57Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60507287/google-stock-news-analyst-predicts-massive-70-cloud-growth-ahead-of-earnings",
+      "_summary": "The Nasdaq is down 0.92% while the S&P 500 has shed 0.12%. • Alphabet stock is trading at elevated levels. What should traders watch with GOOG? BofA Securities analyst Justin Post expects Alphabet to deliver a strong second quarter, driven by cloud momentum, steady search growth and AI-related upside. Post maintained a Buy rating on Alphabet with a $430 price forecast. He expects second-quarter revenue of $102.1 billion and GAAP EPS of $8.38, above Street estimates of $101 billion and $2.90.",
+      "_zh_headline": "谷歌股票新闻：分析师预测云计算将在盈利前大幅增长 70%",
+      "_zh_summary": "纳斯达克指数下跌 0.92%，标准普尔 500 指数下跌 0.12%。 • Alphabet 股票交易价格处于较高水平。交易者应该通过 GOOG 看什么？美国银行证券分析师贾斯汀·波斯特预计，在云发展势头、稳定的搜索增长和人工智能相关优势的推动下，Alphabet 第二季度将表现强劲。 Post 维持 Alphabet 的买入评级，预测价格为 430 美元。他预计第二季度营收为 1,021 亿美元，GAAP 每股收益为 8.38 美元，高于华尔街预期的 1,010 亿美元和 2.90 美元。",
+      "_added_at": "2026-07-16T18:41:49.014646+00:00"
+    },
+    {
       "author": "Chandrima Sanyal",
       "content": "",
       "created_at": "2026-07-16T15:55:08Z",
@@ -537,190 +749,6 @@
       "_zh_headline": "伊丽莎白·沃伦 (Elizabeth Warren) 就斯坦利·德鲁肯米勒 (Stanley Druckenmiller) 关系问题质问美联储主席凯文·沃什 (Kevin Warsh)：“谁给了你 1 亿美元？”",
       "_zh_summary": "美联储主席凯文·沃什（Kevin Warsh）受到参议员伊丽莎白·沃伦（马萨诸塞州民主党人）关于可能违反道德规范的强烈质疑。周三，也就是沃什在国会山作货币政策证词的第二天，沃什被沃伦质问，他在成为美联储主席后需要撤资 1 亿美元，但沃什拒绝透露这一数字，并询问是否有人在他宣誓就职之前给了他这笔钱。",
       "_added_at": "2026-07-16T10:28:36.534955+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-07-16T09:18:32Z",
-      "headline": "Jim Cramer Says ASML Rally Reflects AI Market 'Mood' as Shay Boloor Calls ASML the 'Toll Road' of the AI Revolution",
-      "id": 60489392,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinas-Exports-Surge-Despite-US-Shortfal.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinas-Exports-Surge-Despite-US-Shortfal.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinas-Exports-Surge-Despite-US-Shortfal.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ASML&#39;s strong earnings drew bullish comments from Boloor, while Jim Cramer said the stock&#39;s rally reflects improving AI market sentiment.",
-      "symbols": [
-        "ASML",
-        "INTC",
-        "MU",
-        "SKHY",
-        "TSM"
-      ],
-      "updated_at": "2026-07-16T09:18:32Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60489392/jim-cramer-says-asml-rally-reflects-ai-market-mood-as-shay-boloor-calls-asml-the-toll-road-of-the-ai-revolution",
-      "_summary": "ASML gained 2.23% to close at $1,815.27 on Wednesday after reporting better-than-expected second-quarter results and raising its 2026 outlook for the second time this year. The stock, however, slipped 2.26% to $1,774.23 in Thursday premarket trading, according to Benzinga Pro. Following the earnings report, Futurum Equities chief market strategist Shay Boloor argued that ASML sits at the center of the AI chip ecosystem.",
-      "_zh_headline": "Jim Cramer 表示 ASML 集会反映了人工智能市场的“情绪”，Shay Boloor 称 ASML 是人工智能革命的“收费公路”",
-      "_zh_summary": "ASML周三上涨2.23%，收于1,815.27美元，此前该公司公布了好于预期的第二季度业绩，并今年第二次上调了2026年的展望。然而，根据 Benzinga Pro 的数据，该股在周四盘前交易中下跌 2.26% 至 1,774.23 美元。财报发布后，Futurum Equities 首席市场策略师 Shay Boloor 认为 ASML 处于 AI 芯片生态系统的中心。",
-      "_added_at": "2026-07-16T10:28:36.534955+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-16T07:17:10Z",
-      "headline": "Dow Jumps 150 Points Following Producer Inflation Data: Investor Sentiment Improves, Fear & Greed Index In ‘Neutral’ Zone",
-      "id": 60488754,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stocks gain, led by Amazon and Alphabet. Apple hits record high. Aehr Test Systems and Morgan Stanley report strong earnings. PPI data cools inflation fears.",
-      "symbols": [
-        "AAPL",
-        "ABT",
-        "AEHR",
-        "AMZN",
-        "GE",
-        "GOOG",
-        "GOOGL",
-        "MS",
-        "UNH"
-      ],
-      "updated_at": "2026-07-16T07:17:10Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60488754/dow-jumps-150-points-following-producer-inflation-data-investor-sentiment-improves-fear-greed-index-in-neutral-zone",
-      "_summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the “Neutral” zone on Wednesday. U.S. stocks settled higher on Wednesday, with the Dow Jones index gaining around 150 points during the session following the release of PPI data. On the economic data front, headline producer prices dropped 0.3% in June versus expectations for no change, with the annual rate cooling to 5.5% from 6.2%, while core PPI rose a smaller-than-expected 0.2%.",
-      "_zh_headline": "生产者通胀数据公布后，道琼斯指数上涨 150 点：投资者情绪改善，恐惧和贪婪指数处于“中性”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪有所改善，但周三该指数仍处于“中性”区域。美国股市周三收高，在 PPI 数据公布后，道琼斯指数盘中上涨约 150 点。经济数据方面，6 月份总体生产者价格下降 0.3%，而预期没有变化，年率从 6.2% 降至 5.5%，而核心 PPI 涨幅低于预期 0.2%。",
-      "_added_at": "2026-07-16T07:36:23.608884+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-16T07:22:34Z",
-      "headline": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
-      "id": 60488809,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Brazil-Flag-Waving-Against-Clean-Blue-Sk.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Brazil-Flag-Waving-Against-Clean-Blue-Sk.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Brazil-Flag-Waving-Against-Clean-Blue-Sk.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Trump imposes 25% tariffs on most Brazilian imports under Section 301, with duties potentially rising to 37.5% next week.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "ME",
-        "META"
-      ],
-      "updated_at": "2026-07-16T07:22:34Z",
-      "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60488809/marco-rubio-says-president-lula-put-his-ego-ahead-of-making-a-deal-as-trump-slaps-brazil-with-25-tariffs",
-      "_summary": "The Trump Administration announced a 25% tariff on most Brazilian imports late Wednesday, effective July 22. Other points of contention comprise preferential tariffs for Mexico and India, weak intellectual property enforcement, and barriers in the ethanol market. United States Trade Representative (USTR) Jamieson Greer said year-long negotiations with Brazil failed to resolve the identified trade issues, but the U.S. remains willing to continue talks to achieve meaningful reforms.",
-      "_zh_headline": "马可·鲁比奥表示，特朗普对巴西征收 25% 关税，卢拉总统“以自我为先”",
-      "_zh_summary": "特朗普政府周三晚间宣布对大多数巴西进口产品征收 25% 的关税，自 7 月 22 日起生效。其他争论点包括对墨西哥和印度的优惠关税、知识产权执法薄弱以及乙醇市场的壁垒。美国贸易代表（USTR）贾米森·格里尔表示，与巴西长达一年的谈判未能解决已确定的贸易问题，但美国仍然愿意继续谈判以实现有意义的改革。",
-      "_added_at": "2026-07-16T07:36:23.608884+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-16T06:15:43Z",
-      "headline": "Mira Murati Unveils Open-Weight AI Model as Alex Karp, Satya Nadella Warn Companies Are Giving Away Their IP",
-      "id": 60488374,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Mira Murati&#39;s new Inkling AI solves the enterprise IP crisis warned by Microsoft&#39;s Satya Nadella and Palantir&#39;s Alex Karp.",
-      "symbols": [
-        "AIQ",
-        "ARTY",
-        "BAI",
-        "BOTZ",
-        "CHAT",
-        "IYW",
-        "MSFT",
-        "PLTR"
-      ],
-      "updated_at": "2026-07-16T06:15:43Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60488374/mira-murati-unveils-open-weight-ai-model-as-alex-karp-satya-nadella-warn-companies-are-giving-away-their-ip",
-      "_summary": "Her startup, Thinking Machines Lab , recently released “Inkling,” an open-weight AI model designed to let businesses customize AI without exposing their proprietary data. The launch of Inkling arrives exactly as major tech executives warn that relying on frontier AI labs is jeopardizing enterprise data and competitive advantages. Murati’s new release directly addresses these enterprise fears.",
-      "_zh_headline": "米拉·穆拉蒂 (Mira Murati) 推出开放权重人工智能模型，亚历克斯·卡普 (Alex Karp) 和萨蒂亚·纳德拉 (Satya Nadella) 警告公司正在放弃其知识产权",
-      "_zh_summary": "她的初创公司 Thinking Machines Lab 最近发布了“Inkling”，这是一种开放式人工智能模型，旨在让企业在不暴露其专有数据的情况下定制人工智能。 Inkling 的推出恰逢主要科技高管警告称，依赖前沿人工智能实验室正在危及企业数据和竞争优势。 Murati 的新版本直接解决了这些企业的担忧。",
-      "_added_at": "2026-07-16T07:36:23.608884+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-16T05:16:26Z",
-      "headline": "Apple Intelligence's China Win Sparks Rally in Alibaba, Baidu Shares in Hong Kong",
-      "id": 60487990,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinese-Firms-Seek-Workarounds.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinese-Firms-Seek-Workarounds.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Chinese-Firms-Seek-Workarounds.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Shares of Alibaba and Baidu rose in Hong Kong after China approved Apple&#39;s generative AI service, clearing the way for Apple Intelligence.",
-      "symbols": [
-        "AAPL",
-        "BABA",
-        "BIDU"
-      ],
-      "updated_at": "2026-07-16T05:16:26Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60487990/apple-intelligences-china-win-sparks-rally-in-alibaba-baidu-shares-in-hong-kong",
-      "_summary": "Hong Kong-listed Alibaba shares were up about 4.76% at 118.80 HKD ($15.16), while Baidu gained nearly 3.91% at 111.70 HKD ($14.25) at the time of writing. Alibaba’s Qwen large language model will power Apple Intelligence across Apple’s operating systems in China, while Baidu will support AI features on iPhones in the country, CNBC reported .",
-      "_zh_headline": "Apple Intelligence 的中国胜利引发阿里巴巴和百度股价在香港的上涨",
-      "_zh_summary": "截至撰写本文时，香港上市的阿里巴巴股价上涨约 4.76%，至 118.80 港元（15.16 美元），而百度则上涨近 3.91%，至 111.70 港元（14.25 美元）。据 CNBC 报道，阿里巴巴的 Qwen 大语言模型将为 Apple Intelligence 在中国的苹果操作系统提供支持，而百度将支持中国 iPhone 上的人工智能功能。",
-      "_added_at": "2026-07-16T07:36:23.608884+00:00"
     }
   ]
 }
