@@ -2,6 +2,219 @@
   "date": "2026-07-16",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-16T15:55:08Z",
+      "headline": "Lucid's 50% Selloff Ends First US 2x Single-Stock ETF, Exposing the Limits of Leverage",
+      "id": 60502881,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Denver--Co---May-15-2024-A-Lucid-Motors-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Denver--Co---May-15-2024-A-Lucid-Motors-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Denver--Co---May-15-2024-A-Lucid-Motors-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Lucid&#39;s 50% plunge forced the GraniteShares 2x Long LCID ETF to shut after its NAV turned negative, making it the first US leveraged ETF to get delisted.",
+      "symbols": [
+        "LCDL",
+        "LCID",
+        "SKHY",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-16T15:55:08Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60502881/lucids-50-selloff-ends-first-us-2x-single-stock-etf-exposing-the-limits-of-leverage",
+      "_summary": "The fund, which sought to deliver 200% of the daily performance of Lucid stock through swap agreements, was forced to unwind its exposure after its swap counterparty exercised its contractual right to terminate the position. The liquidation resulted in losses large enough to drive the ETF’s NAV below zero, making the fund unsustainable.",
+      "_zh_headline": "Lucid 50% 抛售结束首只美国 2x 单股 ETF，暴露杠杆极限",
+      "_zh_summary": "该基金试图通过掉期协议实现 Lucid 股票每日表现的 200%，但在掉期交易对手行使其合同权利终止头寸后，被迫平仓。此次清算造成的损失足以使 ETF 的资产净值降至零以下，从而使该基金难以为继。",
+      "_added_at": "2026-07-16T16:49:39.137054+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-16T16:43:59Z",
+      "headline": "AMD's $600 Target Isn't Really About AMD",
+      "id": 60505004,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Shanghai-china-nov-22nd-2025-Amd-Company.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Shanghai-china-nov-22nd-2025-Amd-Company.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Shanghai-china-nov-22nd-2025-Amd-Company.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "BNP Paribas raised AMD&#39;s price target to $600 despite expecting a muted earnings season, signaling confidence in the long-term AI cycle.",
+      "symbols": [
+        "ALAB",
+        "AMD",
+        "AMZN",
+        "ANET",
+        "CRDO",
+        "FN",
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "STX"
+      ],
+      "updated_at": "2026-07-16T16:43:59Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60505004/amd-stock-600-price-target-is-not-about-amd",
+      "_summary": "In fact, the firm believes the biggest AI demand catalyst is still at least a quarter away. Yet it raised AMD’s price target to $600 from $460, arguing the market is becoming willing to pay more for companies positioned to benefit from the next phase of the AI infrastructure buildout. BNP Paribas opened its second-quarter semiconductor earnings preview with an unusual observation: a recent sell-off across AI names has actually reduced the risk of a broader “sell-the-news” reaction this earnings season.",
+      "_zh_headline": "AMD 600 美元的目标并不是真正针对 AMD",
+      "_zh_summary": "事实上，该公司认为最大的人工智能需求催化剂距离出现至少还有四分之一的时间。然而，它将 AMD 的目标价格从 460 美元上调至 600 美元，理由是市场越来越愿意为那些能够从下一阶段人工智能基础设施建设中受益的公司支付更高的价格。法国巴黎银行在第二季度半导体盈利预览中提出了一个不同寻常的观察：最近人工智能公司的抛售实际上降低了本财报季出现更广泛的“抛售新闻”反应的风险。",
+      "_added_at": "2026-07-16T16:49:39.137054+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-16T16:46:31Z",
+      "headline": "Microsoft Earnings Preview: Copilot, AI Spending and Margins Are in Focus",
+      "id": 60505101,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Wall Street updates Microsoft ($MSFT) price forecasts ahead of July 29 earnings. See what top analysts expect for Azure &amp; AI growth.",
+      "symbols": [
+        "MSFT"
+      ],
+      "updated_at": "2026-07-16T16:46:31Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60505101/microsoft-earnings-preview-copilot-ai-spending-and-margins-are-in-focus",
+      "_summary": "Recently, several Wall Street analysts updated their outlooks on Microsoft while maintaining bullish ratings ahead of the company’s quarterly earnings later this month. Microsoft is scheduled to report quarterly results on July 29. Wall Street expects earnings of $4.23 per share, up from $3.65 a year earlier. Revenue is projected to rise to $87.61 billion from $76.44 billion.",
+      "_zh_headline": "微软财报预览：Copilot、人工智能支出和利润率成为焦点",
+      "_zh_summary": "最近，几位华尔街分析师更新了对微软的展望，同时在本月晚些时候该公司公布季度财报之前维持看涨评级。微软定于 7 月 29 日公布季度业绩。华尔街预计每股收益为 4.23 美元，高于去年同期的 3.65 美元。收入预计将从 764.4 亿美元增至 876.1 亿美元。",
+      "_added_at": "2026-07-16T16:49:39.137054+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-16T15:56:17Z",
+      "headline": "Buy ASTS, Watch SpaceX and Rocket Lab From the Launch Pad: Piper Sandler's Space Playbook",
+      "id": 60502946,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Two-Rockets-Launch--In-The-Background-A-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Two-Rockets-Launch--In-The-Background-A-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Two-Rockets-Launch--In-The-Background-A-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Piper Sandler initiates coverage on ASTS with an Overweight, SPCX and RKLB with a Neutral as one-year gains are already priced in.",
+      "symbols": [
+        "ASTS",
+        "RKLB",
+        "SPCX",
+        "T",
+        "TSLA",
+        "VZ"
+      ],
+      "updated_at": "2026-07-16T15:56:17Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60502946/buy-asts-watch-spacex-and-rocket-lab-from-the-launch-pad-piper-sandlers-space-playbook",
+      "_summary": "In its inaugural \"Final Frontier\" industry note, the firm argues that vertically integrated launch players like SpaceX and Rocket Lab are \"probably best‑positioned over a multi‑year period,” but says the cleaner one‑year risk‑reward sits with ASTS and its satellite‑to‑smartphone story. AST SpaceMobile is pitched as the pure‑play on turning everyday smartphones into satellite phones via direct‑to‑device broadband, not just SOS text messaging.",
+      "_zh_headline": "购买 ASTS，从发射台观看 SpaceX 和火箭实验室：Piper Sandler 的太空剧本",
+      "_zh_summary": "该公司在其首份“最终前沿”行业报告中认为，像 SpaceX 和 Rocket Lab 这样的垂直整合发射公司“可能在多年期间处于最佳位置”，但表示更干净的一年风险回报取决于 ASTS 及其卫星到智能手机的故事。 AST SpaceMobile 被定位为通过直接到设备的宽带将日常智能手机变成卫星电话的纯粹游戏，而不仅仅是 SOS 短信。",
+      "_added_at": "2026-07-16T16:49:39.137054+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-16T16:25:34Z",
+      "headline": "Etsy's 47% YTD Surge Leaves Upside More Limited, Analyst Says",
+      "id": 60504223,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Kazan--Russia---Oct-6--2021-Etsy-Is-Amer.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Kazan--Russia---Oct-6--2021-Etsy-Is-Amer.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Kazan--Russia---Oct-6--2021-Etsy-Is-Amer.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Details on why BTIG analyst Marvin Fong is downgrading Etsy (NASDAQ: ETSY).",
+      "symbols": [
+        "AMZN",
+        "CARG",
+        "ETSY"
+      ],
+      "updated_at": "2026-07-16T16:25:34Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/07/60504223/etsys-47-ytd-surge-leaves-upside-more-limited-analyst-says",
+      "_summary": "Etsy, Inc. (NASDAQ: ETSY ) , a leading global marketplace company, experienced a rating downgrade on Thursday, as BTIG shifted its investment stance to Neutral from Buy. Analyst Marvin Fong stated that the adjustment occurred because the stock had exceeded its prior $78 price target by 10%, bringing the risk-reward into balance. BTIG does not issue price targets on Neutral-rated stocks. • Etsy stock is showing weakness. Why are ETSY shares declining?",
+      "_zh_headline": "分析师表示，Etsy 年初至今飙升 47%，上涨空间更加有限",
+      "_zh_summary": "由于 BTIG 将投资立场从“买入”调整为“中性”，全球领先的市场公司 Etsy, Inc.（纳斯达克股票代码：ETSY）周四评级被下调。分析师 Marvin Fong 表示，此次调整是因为该股已超出之前 78 美元的目标价 10%，使风险回报达到平衡。 BTIG 不发布中性评级股票的价格目标。 • Etsy 股票表现疲软。为什么 ETSY 股价下跌？",
+      "_added_at": "2026-07-16T16:49:39.137054+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-16T15:02:13Z",
+      "headline": "TSMC's 68% Margins Show Why Intel's Foundry Turnaround Won't Be Easy",
+      "id": 60500889,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hsinchu--Taiwan---Apr-12--2021-Tsmc-Muse.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hsinchu--Taiwan---Apr-12--2021-Tsmc-Muse.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hsinchu--Taiwan---Apr-12--2021-Tsmc-Muse.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "TSMC&#39;s 67.7% gross margin and accelerating 2nm ramp underscore the economic challenge Intel faces as it works to build a competitive foundry business.",
+      "symbols": [
+        "AAPL",
+        "INTC",
+        "TSM"
+      ],
+      "updated_at": "2026-07-16T15:02:13Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60500889/tsmc-margins-show-intel-foundry-turnaround-not-easy",
+      "_summary": "While TSMC is racing ahead with next-generation technology, it’s also generating the kind of manufacturing profits that remain the envy of the semiconductor industry. And that’s the hurdle Intel ultimately has to clear if it wants its foundry business to compete with the world’s largest contract chipmaker. TSMC reported a 67.7% gross margin and a 60.3% operating margin for the second quarter, alongside a 36% year-over-year increase in revenue and a 77.4% jump in net income.",
+      "_zh_headline": "台积电 68% 的利润率表明英特尔的代工转型之路并不容易",
+      "_zh_summary": "台积电在下一代技术方面不断领先，同时也创造了令半导体行业羡慕的制造利润。如果英特尔希望其代工业务能够与全球最大的代工芯片制造商竞争，这就是英特尔最终必须清除的障碍。台积电第二季度毛利率为 67.7%，营业利润率为 60.3%，收入同比增长 36%，净利润增长 77.4%。",
+      "_added_at": "2026-07-16T16:49:39.137054+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-16T14:01:27Z",
@@ -508,184 +721,6 @@
       "_zh_headline": "Apple Intelligence 的中国胜利引发阿里巴巴和百度股价在香港的上涨",
       "_zh_summary": "截至撰写本文时，香港上市的阿里巴巴股价上涨约 4.76%，至 118.80 港元（15.16 美元），而百度则上涨近 3.91%，至 111.70 港元（14.25 美元）。据 CNBC 报道，阿里巴巴的 Qwen 大语言模型将为 Apple Intelligence 在中国的苹果操作系统提供支持，而百度将支持中国 iPhone 上的人工智能功能。",
       "_added_at": "2026-07-16T07:36:23.608884+00:00"
-    },
-    {
-      "headline": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-      "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
-      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-      "source": "CNBC",
-      "symbols": [],
-      "created_at": "2026-07-15T22:05:14+00:00",
-      "_summary": "Federal Reserve Chairman Kevin Warsh testified Wednesday before the Senate banking committee, facing questions over the economy and how various factors might impact interest rates. As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee. During his remarks, he reaffirmed the Fed's commitment to fighting inflation though he gave few clues about the direction of monetary policy. Legislators tried baiting Warsh into commenting on fiscal and political matters, but he largely avoided the topics, stressing the importance of the Fed staying focused on its assigned responsibilities.",
-      "_zh_headline": "美联储主席凯文·沃什向参议院银行委员会作证对经济和利率造成打击",
-      "_zh_summary": "美联储主席凯文·沃什周三在参议院银行委员会作证，面临有关经济以及各种因素如何影响利率的问题。作为国会授权央行行长出席国会山的一部分，沃什周二向众议院金融服务委员会发表讲话。在讲话中，他重申了美联储对抗通胀的承诺，尽管他没有透露有关货币政策方向的任何线索。立法者试图引诱沃什就财政和政治问题发表评论，但他基本上回避了这些话题，强调美联储专注于其指定职责的重要性。",
-      "_added_at": "2026-07-16T04:41:00.513060+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-07-16T01:44:32Z",
-      "headline": "AST SpaceMobile, PayPal Holdings, Apple, Micron Technology and SanDisk: Why These 5 Stocks Are on Investors' Radars Today",
-      "id": 60487566,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/A-Detailed-Stock-Market-Chart-Featuring-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/A-Detailed-Stock-Market-Chart-Featuring-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/A-Detailed-Stock-Market-Chart-Featuring-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Major U.S. indices closed higher on Wednesday, with the Dow Jones Industrial Average rising 0.29% to 52,658.64.",
-      "symbols": [
-        "AAPL",
-        "ASTS",
-        "MU",
-        "PYPL",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-16T01:44:32Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60487566/ast-spacemobile-paypal-holdings-apple-micron-technology-and-sandisk-why-these-5-stocks-are-on-investors-radars",
-      "_summary": "Major U.S. indices closed higher on Wednesday, with the Dow Jones Industrial Average rising 0.29% to 52,658.64, the S&P 500 advancing 0.38% to 7,572.40, and the Nasdaq gaining 0.62% to finish at 26,269.22. These are the top stocks that gained the attention of retail traders and investors through the day: AST SpaceMobile’s stock fell by 3.65%, closing at $66.31. During the day, it reached a high of $70.38 and a low of $64.59, with a 52-week range between $133.86 and $36.08.",
-      "_zh_headline": "AST SpaceMobile、PayPal Holdings、苹果、美光科技和 SanDisk：为何这 5 只股票如今受到投资者关注",
-      "_zh_summary": "美国主要股指周三收高，道琼斯工业平均指数上涨0.29%，至52,658.64点；标准普尔500指数上涨0.38%，至7,572.40点；纳斯达克指数上涨0.62%，至26,269.22点。这些是全天吸引散户交易者和投资者关注的顶级股票：AST SpaceMobile 的股价下跌 3.65%，收于 66.31 美元。日内最高价为70.38美元，最低价为64.59美元，52周波动区间为133.86美元至36.08美元。",
-      "_added_at": "2026-07-16T04:41:00.513060+00:00"
-    },
-    {
-      "author": "Parshwa Turakhiya",
-      "content": "",
-      "created_at": "2026-07-15T20:25:12Z",
-      "headline": "Are Crypto Prices Lying? Bitwise's Q2 Data Suggest the Bull Market Never Stopped",
-      "id": 60485451,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Q2 saw a 36% drop in crypto assets but a 23% gain in crypto equities. Top crypto apps earned $5.9B in revenue, while tokenized RWAs hit $33B.",
-      "symbols": [
-        "AAVEUSD",
-        "BTCUSD",
-        "CAKEUSD"
-      ],
-      "updated_at": "2026-07-15T20:25:12Z",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60485451/are-crypto-prices-lying-bitwises-q2-data-suggest-the-bull-market-never-stopped",
-      "_summary": "Bitwise’s Head of Research Ryan Rasmussen says crypto asset prices tell only half the story from Q2, with equities, revenue, and real-world adoption all moving in the opposite direction from token prices. The gap between crypto assets and crypto equities was the defining story of the first half. Crypto assets dropped 36%, making them the worst-performing major asset class alongside gold, which fell 7%. Everything else finished green.",
-      "_zh_headline": "加密货币价格在撒谎吗？ Bitwise 第二季度数据表明牛市从未停止",
-      "_zh_summary": "Bitwise 的研究主管 Ryan Rasmussen 表示，加密资产价格只说明了第二季度情况的一半，股票、收入和现实世界的采用率都与代币价格相反。加密资产和加密股票之间的差距是上半年的决定性故事。加密资产下跌 36%，与黄金一起成为表现最差的主要资产类别，黄金下跌 7%。其他一切都变成绿色。",
-      "_added_at": "2026-07-16T04:41:00.513060+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-15T20:56:41Z",
-      "headline": "Wall Street Gave Up on PayPal, But the Stock Just Had Its Best Day Ever",
-      "id": 60486080,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/London--Uk---August-2021-Paypal-Finance-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/London--Uk---August-2021-Paypal-Finance-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/London--Uk---August-2021-Paypal-Finance-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "PayPal shares jumped 17.2% on a reported $60.50-a-share bid from Stripe and Advent. Down 85% from 2021 highs, the discount is what drew buyers in.",
-      "symbols": [
-        "PYPL"
-      ],
-      "updated_at": "2026-07-15T20:56:41Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60486080/paypal-stock-surge-stripe-advent-takeover-bid",
-      "_summary": "A payments company that has lost more than 80% of its value in five years just posted the largest single-day gain of its eleven-year public life . PayPal Holdings Inc. (NASDAQ: PYPL ) rose 17.19% on Wednesday, the biggest daily rally since the company’s 2015 spin-off. What Happened: Reuters reported that Stripe Inc. and Advent International Corp. submitted a joint proposal earlier this month at $60.50 a share, valuing PayPal at more than $53 billion.",
-      "_zh_headline": "华尔街放弃了 PayPal，但该股刚刚经历了有史以来最好的一天",
-      "_zh_summary": "一家在五年内市值损失超过 80% 的支付公司刚刚公布了其上市十一年以来最大的单日涨幅。 PayPal Holdings Inc.（纳斯达克股票代码：PYPL）周三上涨 17.19%，这是该公司 2015 年分拆以来的最大单日涨幅。发生了什么：据路透社报道，Stripe Inc. 和 Advent International Corp. 本月早些时候提交了一份联合提案，每股价格为 60.50 美元，对 PayPal 的估值超过 530 亿美元。",
-      "_added_at": "2026-07-16T04:41:00.513060+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-15T23:00:46Z",
-      "headline": "If You Invested $1000 In VanEck Semiconductor ETF Stock 15 Years Ago, You Would Have This Much Today",
-      "id": 60487154,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "VanEck Semiconductor ETF (NASDAQ:SMH) has outperformed the market over the past 15 years by 14.69% on an annualized basis producing an average annual return of 26.88%. Currently, VanEck Semiconductor ETF has a market",
-      "symbols": [
-        "SMH"
-      ],
-      "updated_at": "2026-07-15T23:00:46Z",
-      "url": "https://www.benzinga.com/news/26/07/60487154/if-you-invested-1000-vaneck-semiconductor-etf-stock-15-years-ago-you-would-have-much-today",
-      "_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 15 years by 14.69% on an annualized basis producing an average annual return of 26.88%. Currently, VanEck Semiconductor ETF has a market capitalization of $67.51 billion. Buying $1000 In SMH: If an investor had bought $1000 of SMH stock 15 years ago, it would be worth $35,825.96 today based on a price of $589.11 for SMH at the time of writing.",
-      "_zh_headline": "如果您 15 年前投资 1000 美元购买 VanEck Semiconductor ETF 股票，今天您将拥有这么多",
-      "_zh_summary": "VanEck Semiconductor ETF（纳斯达克股票代码：SMH）在过去 15 年中的年化表现优于市场 14.69%，平均年回报率为 26.88%。目前，VanEck Semiconductor ETF 市值为 675.1 亿美元。购买 1000 美元的 SMH：如果投资者 15 年前购买了 1000 美元的 SMH 股票，那么根据撰写本文时 SMH 的价格为 589.11 美元，该股票今天的价值为 35,825.96 美元。",
-      "_added_at": "2026-07-16T04:41:00.513060+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-15T22:00:31Z",
-      "headline": "$100 Invested In Micron Technology 5 Years Ago Would Be Worth This Much Today",
-      "id": 60486867,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron Technology (NASDAQ:MU) has outperformed the market over the past 5 years by 52.5% on an annualized basis producing an average annual return of 64.36%. Currently, Micron Technology has a market capitalization of",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-07-15T22:00:31Z",
-      "url": "https://www.benzinga.com/news/26/07/60486867/100-invested-micron-technology-5-years-ago-would-be-worth-much-today",
-      "_summary": "Micron Technology (NASDAQ: MU ) has outperformed the market over the past 5 years by 52.5% on an annualized basis producing an average annual return of 64.36%. Currently, Micron Technology has a market capitalization of $1.02 trillion. Buying $100 In MU: If an investor had bought $100 of MU stock 5 years ago, it would be worth $1,212.50 today based on a price of $903.76 for MU at the time of writing.",
-      "_zh_headline": "5 年前投资美光技术的 100 美元在今天价值如此之多",
-      "_zh_summary": "美光科技（纳斯达克股票代码：MU）过去 5 年的年化表现优于市场 52.5%，平均年回报率为 64.36%。目前，美光科技市值为1.02万亿美元。购买 100 美元的 MU：如果投资者 5 年前购买了 100 美元的 MU 股票，那么根据撰写本文时 MU 的价格为 903.76 美元，该股票今天的价值为 1,212.50 美元。",
-      "_added_at": "2026-07-16T04:41:00.513060+00:00"
     }
   ]
 }
