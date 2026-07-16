@@ -2,6 +2,80 @@
   "date": "2026-07-16",
   "articles": [
     {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-16T20:20:44Z",
+      "headline": "X-Energy Stock: Nuclear Company Becomes Cathie Wood’s New Favorite Position",
+      "id": 60513398,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Other-Key-Trades.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Other-Key-Trades.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Other-Key-Trades.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Cathie Wood has been scooping up shares of this nuclear company in recent days.",
+      "symbols": [
+        "AMZN",
+        "ARKK",
+        "ARKQ",
+        "ARKX",
+        "ARX",
+        "BWXT",
+        "OKLO",
+        "XE"
+      ],
+      "updated_at": "2026-07-16T20:20:45Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60513398/x-energy-stock-nuclear-company-becomes-cathie-woods-new-favorite-position",
+      "_summary": "Ark Invest, led by Cathie Wood , has been building big positions in a new IPO across three ETFs. While Ark Invest is buying shares of the recent IPO SpaceX , this is another name with purchasing dating back to April 2026. The stock opened for trading at $30.11 and closed at $29.20. Not counting the recent weekend (July 11, July 12), Ark Invest has added XE stock to three ETFs in four straight trading sessions.",
+      "_zh_headline": "X-Energy 股票：核能公司成为 Cathie Wood 的新宠",
+      "_zh_summary": "由 Cathie Wood 领导的 Ark Invest 一直在三只 ETF 的新 IPO 中建立大量头寸。虽然 Ark Invest 正在购买最近 IPO 的 SpaceX 的股票，但这是另一个名字，购买时间可以追溯到 2026 年 4 月。该股开盘价为 30.11 美元，收盘价为 29.20 美元。不算最近的周末（7月11日、7月12日），Ark Invest已连续四个交易日将XE股票添加到三只ETF中。",
+      "_added_at": "2026-07-16T21:36:28.982716+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-16T20:33:10Z",
+      "headline": "Manulife Adds High-Conviction Large-Cap ETF to Capitalize on Momentum",
+      "id": 60513801,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/A-Man-Forming-The-Acronym-Etf-For-Exchan.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/A-Man-Forming-The-Acronym-Etf-For-Exchan.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/A-Man-Forming-The-Acronym-Etf-For-Exchan.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Manulife launched the John Hancock Large Cap Opportunities ETF (JLCO), expanding its $15B ETF platform with a high-conviction active U.S. equity strategy.",
+      "symbols": [
+        "AMZN",
+        "GOOGL",
+        "JLCO",
+        "MSFT"
+      ],
+      "updated_at": "2026-07-16T20:33:10Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60513801/manulife-adds-high-conviction-large-cap-etf-to-capitalize-on-momentum",
+      "_summary": "The new fund is managed by Manulife Investment Management and seeks long-term capital appreciation by investing primarily in a concentrated portfolio of large-cap U.S. companies. Key features of John Hancock Large Cap Opportunities ETF (JLCO): 1. Investment objective: Long-term capital appreciation. 4. Portfolio focus: High-conviction portfolio invested primarily in large-cap U.S. companies. 5. Management team: Michael J. Scanlon Jr. , CFA, and Leigh Pressman , CFA of Manulife Investment Management.",
+      "_zh_headline": "宏利推出高信念大盘ETF以利用势头",
+      "_zh_summary": "新基金由宏利投资管理公司管理，通过主要投资于美国大型公司的集中投资组合来寻求长期资本增值。 John Hancock Large Cap Opportunities ETF (JLCO) 的主要特点： 1. 投资目标：长期资本增值。 4. 投资组合重点：高信念投资组合主要投资于美国大盘公司。 5. 管理团队：宏利投资管理公司Michael J. Scanlon Jr.，CFA，Leigh Pressman，CFA。",
+      "_added_at": "2026-07-16T21:36:28.982716+00:00"
+    },
+    {
       "author": "Anil Varma",
       "content": "",
       "created_at": "2026-07-16T19:18:49Z",
@@ -669,83 +743,6 @@
       "_zh_headline": "Meta、Vistra、T. Rowe Price 和 CNBC 的“最终交易”中的医疗保健股",
       "_zh_summary": "花旗集团分析师 Geoff Meacham 周三维持礼来公司买入评级，并将目标价从 1,500 美元上调至 1,600 美元，支持了他的观点。 NewEdge Wealth 首席执行官 Rob Sechan 选择了 Vistra Corp.（纽约证券交易所股票代码：VST）。丰业银行(Scotiabank)分析师安德鲁·韦塞尔(Andrew Weisel)周三维持瑞致达的行业跑赢大盘评级，并将目标价从293美元上调至298美元，为他的选择提供了支持。不要忘记在这里查看我们的售前报道",
       "_added_at": "2026-07-16T14:33:57.616250+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-16T09:37:06Z",
-      "headline": "One AI Stock To Buy Right Now? This Fund Manager Picks Micron",
-      "id": 60489596,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Is the Micron rally over? Investors weigh a 2% premarket dip against bullish cash flow forecasts and high analyst price targets.",
-      "symbols": [
-        "MU",
-        "SKHY",
-        "SOXQ",
-        "SOXX",
-        "SPMO",
-        "SSNLF"
-      ],
-      "updated_at": "2026-07-16T09:45:12Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60489596/one-ai-stock-to-buy-right-now-this-fund-manager-picks-micron",
-      "_summary": "Nasdaq futures fell 0.21%, while S&P 500 futures slipped 0.04%. The decline appeared to reflect broader weakness in technology stocks and profit-taking after Micron’s strong rally over the past year. The softer futures market weighed on higher-beta chip stocks before the opening bell. Micron remains well above its longer-term trend levels, but investors have become more cautious following signs that the stock’s recent momentum has slowed.",
-      "_zh_headline": "现在应该购买一只人工智能股票吗？这位基金经理选择了美光科技",
-      "_zh_summary": "纳斯达克期货下跌 0.21%，标准普尔 500 指数期货下跌 0.04%。此次下跌似乎反映出科技股普遍疲软，以及美光科技去年强劲反弹后的获利回吐。开盘前，期货市场走软对贝塔值较高的芯片股造成压力。美光科技仍远高于其长期趋势水平，但在有迹象表明该股近期势头放缓后，投资者变得更加谨慎。",
-      "_added_at": "2026-07-16T12:04:55.161836+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-16T09:27:07Z",
-      "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Trump Says Iran Wants To Negotiate—AtaiBeckley, J B Hunt, AST SpaceMobile in Focus",
-      "id": 60489418,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Thursday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Wednesday&#39;s higher close.",
-      "symbols": [
-        "ASTS",
-        "ATAI",
-        "ATPC",
-        "BTCUSD",
-        "JBHT",
-        "LLY",
-        "QQQ",
-        "SPY",
-        "TGHL"
-      ],
-      "updated_at": "2026-07-16T09:28:05Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60489418/stock-market-today-sp-500-nasdaq-100-futures-fall-as-trump-says-iran-wants-to-negotiate-ataibeckley-j-b-hunt-ast-spacemobile-in-focus",
-      "_summary": "U.S. stock futures declined on Thursday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Wednesday’s higher close. President Donald Trump said Iran wants to negotiate even as U.S. forces launched a second wave of strikes against Iranian military targets. Meanwhile, the U.S. Treasury announced new sanctions targeting an international network accused of procuring weapons for Iran’s Islamic Revolutionary Guard Corps following attacks on commercial vessels in the Strait of Hormuz.",
-      "_zh_headline": "今日股市：特朗普表示伊朗希望进行谈判，标准普尔 500 指数、纳斯达克 100 指数期货下跌——AtaiBeckley、J B Hunt、AST SpaceMobile 成为焦点",
-      "_zh_summary": "美国股指期货周四下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三收盘走高后下跌。唐纳德·特朗普总统表示，即使美军对伊朗军事目标发动第二波袭击，伊朗仍希望进行谈判。与此同时，美国财政部宣布对一个国际网络实施新的制裁，该网络被指控在霍尔木兹海峡袭击商船后为伊朗伊斯兰革命卫队采购武器。",
-      "_added_at": "2026-07-16T10:28:36.534955+00:00"
     }
   ]
 }
