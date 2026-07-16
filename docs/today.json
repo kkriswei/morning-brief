@@ -2,6 +2,38 @@
   "date": "2026-07-15",
   "articles": [
     {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-15T23:00:46Z",
+      "headline": "If You Invested $1000 In VanEck Semiconductor ETF Stock 15 Years Ago, You Would Have This Much Today",
+      "id": 60487154,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "VanEck Semiconductor ETF (NASDAQ:SMH) has outperformed the market over the past 15 years by 14.69% on an annualized basis producing an average annual return of 26.88%. Currently, VanEck Semiconductor ETF has a market",
+      "symbols": [
+        "SMH"
+      ],
+      "updated_at": "2026-07-15T23:00:46Z",
+      "url": "https://www.benzinga.com/news/26/07/60487154/if-you-invested-1000-vaneck-semiconductor-etf-stock-15-years-ago-you-would-have-much-today",
+      "_summary": "VanEck Semiconductor ETF (NASDAQ: SMH ) has outperformed the market over the past 15 years by 14.69% on an annualized basis producing an average annual return of 26.88%. Currently, VanEck Semiconductor ETF has a market capitalization of $67.51 billion. Buying $1000 In SMH: If an investor had bought $1000 of SMH stock 15 years ago, it would be worth $35,825.96 today based on a price of $589.11 for SMH at the time of writing.",
+      "_zh_headline": "如果您 15 年前投资 1000 美元购买 VanEck Semiconductor ETF 股票，今天您将拥有这么多",
+      "_zh_summary": "VanEck Semiconductor ETF（纳斯达克股票代码：SMH）在过去 15 年中的年化表现优于市场 14.69%，平均年回报率为 26.88%。目前，VanEck Semiconductor ETF 市值为 675.1 亿美元。购买 1000 美元的 SMH：如果投资者 15 年前购买了 1000 美元的 SMH 股票，那么根据撰写本文时 SMH 的价格为 589.11 美元，该股票今天的价值为 35,825.96 美元。",
+      "_added_at": "2026-07-16T00:56:52.515429+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-15T20:56:41Z",
@@ -668,40 +700,6 @@
       "_summary": "Three gold miners, two asset-management giants and a high-flying semiconductor were among the large-cap movers on the pre-market board following a cooler-than-expected producer inflation report on Wednesday. Producer prices fell 0.3% in June, the softest monthly print since April 2025, a day after consumer inflation posted its steepest monthly decline since April 2020.",
       "_zh_headline": "随着生产者通胀暴跌，这 10 只股票上涨：原因如下",
       "_zh_summary": "在周三发布低于预期的生产者通胀报告后，三大黄金矿商、两家资产管理巨头和一家雄心勃勃的半导体公司成为盘前板块中大盘股的推动者。 6 月份生产者价格下跌 0.3%，为 2025 年 4 月以来最疲软的月度数据，而前一天消费者通胀则创下 2020 年 4 月以来最大幅度的月度跌幅。",
-      "_added_at": "2026-07-15T15:08:25.051714+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-07-15T14:08:31Z",
-      "headline": "Apple Intelligence Finally Cleared for China: Here's Which Stocks Are Popping on the News",
-      "id": 60470681,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/AAPL-Price-Action-Apple-shares-were-down.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/AAPL-Price-Action-Apple-shares-were-down.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/15/AAPL-Price-Action-Apple-shares-were-down.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "China approved Apple Intelligence Wednesday, sending Alibaba stock higher as its Qwen AI model powers the long-delayed rollout on iPhones.",
-      "symbols": [
-        "AAPL",
-        "BABA",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-15T14:08:31Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60470681/apple-intelligence-finally-cleared-for-china-heres-which-stocks-are-popping-on-the-news",
-      "_summary": "Apple Inc. (NASDAQ: AAPL ) received Chinese regulatory approval for Apple Intelligence on Wednesday, ending a wait that began with the feature’s launch in 2024. Alibaba Group Holding (NYSE: BABA ) , whose Qwen model will power the service, rose more than 4% in premarket trading. Apple gained close to 1%. The Cyberspace Administration of China added Apple’s generative AI services to its list of approved providers, according to a post on the regulator’s website.",
-      "_zh_headline": "苹果情报终于为中国清除了：以下是新闻中出现的股票",
-      "_zh_summary": "苹果公司（纳斯达克股票代码：AAPL）周三获得了中国监管机构对 Apple Intelligence 的批准，结束了自 2024 年推出该功能以来的等待。阿里巴巴集团控股公司（纽约证券交易所股票代码：BABA）的 Qwen 模型将为该服务提供动力，该公司在盘前交易中股价上涨超过 4%。苹果股价上涨近 1%。据监管机构网站上的一篇帖子称，中国国家互联网信息办公室已将苹果的生成式人工智能服务添加到其批准的提供商名单中。",
       "_added_at": "2026-07-15T15:08:25.051714+00:00"
     }
   ]
