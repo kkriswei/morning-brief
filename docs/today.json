@@ -2,6 +2,184 @@
   "date": "2026-07-16",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-16T14:01:27Z",
+      "headline": "Semiconductor Stocks’ Worst Slump in Over a Year — Are Chips Now Cheap Enough?",
+      "id": 60497783,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Semiconductors.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Semiconductors.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Semiconductors.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The iShares Semiconductor ETF fell 13% in four weeks, erasing its premium over the Nasdaq 100. Micron now trades at 6.8x forward earnings.",
+      "symbols": [
+        "ALAB",
+        "ASX",
+        "INTC",
+        "MU",
+        "QQQ",
+        "SOXX",
+        "TER"
+      ],
+      "updated_at": "2026-07-16T14:01:27Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60497783/semiconductor-selloff-soxx-valuation-micron-cheap-enough",
+      "_summary": "For the first time since late April, semiconductors no longer carry a valuation premium over the broader Nasdaq. The sector that doubled off its February low is now priced like the average large-cap tech stock . The Philadelphia Semiconductor Index – as tracked by the iShares Semiconductor ETF (NASDAQ: SOXX ) – has fallen 13.2% over the past four weeks. That is the sharpest four-week move for the fund since April 2025.",
+      "_zh_headline": "半导体股遭遇一年多来最严重的暴跌——芯片现在足够便宜吗？",
+      "_zh_summary": "自 4 月底以来，半导体行业首次不再比纳斯达克大盘具有估值溢价。该行业较 2 月份低点翻了一番，目前的定价与大型科技股的平均价格相同。 iShares Semiconductor ETF（纳斯达克股票代码：SOXX）追踪的费城半导体指数在过去四个星期内下跌了 13.2%。这是该基金自 2025 年 4 月以来最剧烈的四周走势。",
+      "_added_at": "2026-07-16T14:33:57.616250+00:00"
+    },
+    {
+      "author": "Oluwafemi Adedeji",
+      "content": "",
+      "created_at": "2026-07-16T13:32:36Z",
+      "headline": "Medicare Part B Jumped Nearly 10% In 2026: What That $18 Really Costs You Over 20 Years",
+      "id": 60495805,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Medicare-Part-B.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Medicare-Part-B.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Medicare-Part-B.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The standard Medicare Part B premium climbed to $202.90 a month in 2026, up $17.90 from $185, an increase most retirees waved off as pocket change. That shrug is the expensive part, because in retirement a small monthly",
+      "symbols": [
+        "SPY",
+        "UNH"
+      ],
+      "updated_at": "2026-07-16T13:32:36Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60495805/medicare-part-b-jumped-nearly-10-in-2026-what-that-18-really-costs-you-over-20-years",
+      "_summary": "The 2026 premium works out to a 9.7% jump , roughly double the size of the increase retirees absorbed the year before, and the annual deductible rose to $283. For context, inflation ran about 2.7% in 2025, so the Part B premium climbed more than three times faster than the broad cost of living. A single 9.7% jump is not the real problem. The trend behind it is.",
+      "_zh_headline": "Medicare B 部分在 2026 年上涨了近 10%：这 18 美元在 20 年内真正让你付出了什么代价",
+      "_zh_summary": "2026 年的保费将上涨 9.7%，大约是退休人员前一年吸收的增量的两倍，年度免赔额升至 283 美元。就背景而言，2025 年通货膨胀率约为 2.7%，因此 B 部分保费的上涨速度是总体生活成本的三倍多。 9.7% 的单一跳跃并不是真正的问题。其背后的趋势是。",
+      "_added_at": "2026-07-16T14:33:57.616250+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-16T12:56:46Z",
+      "headline": "What's Going on With Intel Stock Thursday?",
+      "id": 60494614,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "INTC stock fell 3% premarket on TSMC capex worries. Is the rally slowing? Check out Intel&#39;s key technical levels and Q2 earnings outlook.",
+      "symbols": [
+        "IGPT",
+        "INTC",
+        "SMH",
+        "TSM",
+        "XNTK"
+      ],
+      "updated_at": "2026-07-16T12:57:04Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60494614/whats-going-on-with-intel-stock-thursday-6",
+      "_summary": "Investors reacted to Taiwan Semiconductor Manufacturing Company Ltd.’s (NYSE: TSM ) stronger-than-expected capital spending plans, which triggered broad profit-taking across semiconductor stocks. Intel stock has rallied sharply over the past year, making it vulnerable to profit-taking during a risk-off session. The shares have also fallen below their short-term trend levels, which may encourage traders to remain cautious until buying interest returns.",
+      "_zh_headline": "周四英特尔股票怎么样？",
+      "_zh_summary": "投资者对台积电（NYSE：TSM）强于预期的资本支出计划做出反应，引发半导体股票普遍获利了结。英特尔股价在过去一年中大幅上涨，使其在避险交易时段很容易受到获利了结的影响。该股还跌破了短期趋势水平，这可能会鼓励交易者保持谨慎，直到买盘兴趣回归。",
+      "_added_at": "2026-07-16T14:33:57.616250+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-16T14:16:56Z",
+      "headline": "What's Going on With Marvell Technology Stock Thursday?",
+      "id": 60498632,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Marvell-Technology.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Marvell-Technology.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Marvell-Technology.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell Technology (MRVL) stock fell 5% amid broader AI profit-taking and technical weakness. Get the latest market analysis.",
+      "symbols": [
+        "CHPY",
+        "FTXL",
+        "MRVL",
+        "SOXQ",
+        "TSM"
+      ],
+      "updated_at": "2026-07-16T14:18:39Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60498632/whats-going-on-with-marvell-technology-stock-thursday-3",
+      "_summary": "Marvell Technology Inc. (NASDAQ: MRVL ) stock fell more than 5% on Thursday as investors took profits in semiconductor and artificial intelligence stocks amid a broader risk-off market. The Nasdaq Composite fell 1.25%, while the S&P 500 slipped 0.41%. Investors rotated out of high-valuation AI and chip stocks after a strong rally over the past year. The stock also remained under pressure following a recent analyst downgrade from Erste Group , which lowered its rating to Hold from Buy.",
+      "_zh_headline": "Marvell 科技股周四走势如何？",
+      "_zh_summary": "Marvell Technology Inc.（纳斯达克股票代码：MRVL）股价周四下跌超过 5%，原因是投资者在更广泛的避险市场中获利了结半导体和人工智能股票。纳斯达克综合指数下跌 1.25%，标准普尔 500 指数下跌 0.41%。在过去一年的强劲反弹后，投资者纷纷撤离高估值的人工智能和芯片股。最近分析师将 Erste Group 的评级从“买入”下调至“持有”后，该股仍面临压力。",
+      "_added_at": "2026-07-16T14:33:57.616250+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-16T12:53:12Z",
+      "headline": "Meta, Vistra, T. Rowe Price and a Health Care Stock on CNBC’s ‘Final Trades’",
+      "id": 60494530,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Experts-Warn-On-Costly-Attacks.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Experts-Warn-On-Costly-Attacks.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Experts-Warn-On-Costly-Attacks.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bill Baruch chose Eli Lilly as his final trade, supported by Citigroup&#39;s analyst. Other experts recommended Vistra, Meta Platforms, and T. Rowe Price.",
+      "symbols": [
+        "LLY",
+        "META",
+        "TROW",
+        "VST"
+      ],
+      "updated_at": "2026-07-16T12:53:12Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60494530/meta-vistra-t-rowe-price-and-a-health-care-stock-on-cnbcs-final-trades",
+      "_summary": "Supporting his view, Citigroup analyst Geoff Meacham, on Wednesday, maintained Eli Lilly with a Buy and increased the price target from $1,500 to $1,600. Rob Sechan , CEO of NewEdge Wealth, picked Vistra Corp. (NYSE: VST ) . Lending support to his choice, Scotiabank analyst Andrew Weisel, on Wednesday, maintained Vistra with a Sector Outperform and raised the price target from $293 to $298. Don’t forget to check out our premarket coverage here",
+      "_zh_headline": "Meta、Vistra、T. Rowe Price 和 CNBC 的“最终交易”中的医疗保健股",
+      "_zh_summary": "花旗集团分析师 Geoff Meacham 周三维持礼来公司买入评级，并将目标价从 1,500 美元上调至 1,600 美元，支持了他的观点。 NewEdge Wealth 首席执行官 Rob Sechan 选择了 Vistra Corp.（纽约证券交易所股票代码：VST）。丰业银行(Scotiabank)分析师安德鲁·韦塞尔(Andrew Weisel)周三维持瑞致达的行业跑赢大盘评级，并将目标价从293美元上调至298美元，为他的选择提供了支持。不要忘记在这里查看我们的售前报道",
+      "_added_at": "2026-07-16T14:33:57.616250+00:00"
+    },
+    {
       "author": "Anusuya Lahiri",
       "content": "",
       "created_at": "2026-07-16T09:37:06Z",
