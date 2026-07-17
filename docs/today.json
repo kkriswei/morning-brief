@@ -2,6 +2,76 @@
   "date": "2026-07-17",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-17T11:04:03Z",
+      "headline": "US Debt Surpasses 100% of GDP for the First Time Since World War II— Is the Fiscal Squeeze Actually Deflationary?",
+      "id": 60518983,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Red-Downward-Arrow-Inside-A-Magnifying-G.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Red-Downward-Arrow-Inside-A-Magnifying-G.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Red-Downward-Arrow-Inside-A-Magnifying-G.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. debt surpasses 100% of GDP for the first time since WWII. Discover why experts argue this $39.4T fiscal squeeze might be deflationary.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-17T11:04:03Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60518983/us-debt-surpasses-100-of-gdp-for-the-first-time-since-world-war-ii-is-the-fiscal-squeeze-actually-deflationary",
+      "_summary": "Publicly held federal debt has officially eclipsed the size of the entire American economy , crossing the 100% gross domestic product (GDP) threshold for the first time since 1946. While traditional economic theory warns that this fiscal squeeze could trigger runaway inflation, a growing chorus of contrarian analysts argues that the massive debt load might actually be deflationary. Instead, experts point to decades of chronic legislative inaction.",
+      "_zh_headline": "美国债务二战以来首次超过GDP的100%——财政紧缩真的是通货紧缩吗？",
+      "_zh_summary": "公开持有的联邦债务已正式超过整个美国经济的规模，自 1946 年以来首次突破 100% 的国内生产总值 (GDP) 门槛。虽然传统经济理论警告说，这种财政紧缩可能会引发失控的通货膨胀，但越来越多的逆向分析师认为，巨额债务负担实际上可能会导致通货紧缩。相反，专家们指出了几十年来长期立法不作为的原因。",
+      "_added_at": "2026-07-17T11:53:22.745088+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-17T10:37:48Z",
+      "headline": "What's Going on With Micron Technology Stock Friday?",
+      "id": 60518652,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron stock drops ahead of the open as tech weakens. Here&#39;s why analysts remain bullish despite the pullback.",
+      "symbols": [
+        "MU",
+        "QCOM",
+        "SOXQ",
+        "SOXX",
+        "SPMO"
+      ],
+      "updated_at": "2026-07-17T10:37:48Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60518652/whats-going-on-with-micron-technology-stock-friday-3",
+      "_summary": "The deals are intended to ensure stable supply and pricing as demand for AI-enabled features such as advanced driver-assistance systems (ADAS) and digital cockpits grows. Micron Chief Executive Officer Sanjay Mehrotra previously said the company had signed 16 strategic customer agreements and expects AI-driven growth to expand beyond data centers into smartphones, personal computers, automotive applications and robotics.",
+      "_zh_headline": "周五美光科技股票怎么样？",
+      "_zh_summary": "这些交易旨在随着对先进驾驶辅助系统（ADAS）和数字驾驶舱等人工智能功能的需求增长，确保稳定的供应和定价。美光首席执行官 Sanjay Mehrotra 此前表示，该公司已签署 16 项战略客户协议，并预计人工智能驱动的增长将扩展到数据中心之外的智能手机、个人电脑、汽车应用和机器人领域。",
+      "_added_at": "2026-07-17T11:53:22.745088+00:00"
+    },
+    {
       "author": "Radhika Anilkumar Nadig",
       "content": "",
       "created_at": "2026-07-17T09:51:22Z",
