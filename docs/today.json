@@ -2,6 +2,113 @@
   "date": "2026-07-17",
   "articles": [
     {
+      "author": "Daragh Thomas",
+      "content": "",
+      "created_at": "2026-07-17T19:46:50Z",
+      "headline": "David Sacks, Bill Ackman Sound the Alarm on China's Kimi K3 as Nvidia, Micron Slide",
+      "id": 60537191,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/bill-ackman-midjourney-dall-e.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/bill-ackman-midjourney-dall-e.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/bill-ackman-midjourney-dall-e.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "China&#39;s Kimi K3 has Sacks and Ackman sounding the alarm and chip stocks slipping. But Polymarket traders still give US labs the edge over Moonshot.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-17T19:46:50Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60537191/david-sacks-bill-ackman-sound-the-alarm-on-chinas-kimi-k3-as-nvidia-micron-slide",
+      "_summary": "David Sacks and Bill Ackman are warning that China just narrowed America’s lead in artificial intelligence, and the timing has investors eyeing the chip trade. The alarm followed Friday’s release of Kimi K3 from Chinese startup Moonshot, a model that reportedly topped the Frontend Code Arena leaderboard, edging past Anthropic’s Claude Fable 5.",
+      "_zh_headline": "大卫·萨克斯 (David Sacks) 和比尔·阿克曼 (Bill Ackman) 对中国的 Kimi K3 发出警报，称 Nvidia、美光幻灯片",
+      "_zh_summary": "大卫·萨克斯和比尔·阿克曼警告说，中国刚刚缩小了美国在人工智能领域的领先优势，而这个时机让投资者开始关注芯片贸易。周五，中国初创公司 Moonshot 发布了 Kimi K3，据报道该模型在 Frontend Code Arena 排行榜上名列前茅，超越了 Anthropic 的 Claude Fable 5。",
+      "_added_at": "2026-07-17T21:22:37.373044+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-17T20:00:14Z",
+      "headline": "Inflation Broke Lower, The AI Trade Broke with It: The Week on Wall Street",
+      "id": 60537669,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/New-York-Ny-Usa-march-21--2024-The-New-Y.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/New-York-Ny-Usa-march-21--2024-The-New-Y.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/New-York-Ny-Usa-march-21--2024-The-New-Y.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Technology stocks fell 5.9% this week and IBM posted its worst day on record, even as June inflation cooled to 3.5%. Here is what drove the AI selloff.",
+      "symbols": [
+        "IBM",
+        "SKHY",
+        "SMH",
+        "SNDK",
+        "WDC"
+      ],
+      "updated_at": "2026-07-17T20:00:14Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60537669/ai-selloff-wall-street-inflation-cooled-week",
+      "_summary": "The best inflation report of 2026 landed on Wall Street this week, and the market sold anyway, abandoning the semiconductor trade that has carried the entire rally for three years. By Friday afternoon, the technology sector had slumped 5.2% for the week, marking one of the worst weeks of the year. The iShares Semiconductor ETF (NASDAQ: SMH ) — the fund investors use as shorthand for the AI trade itself — was down nearly 18.5% month to date, tracking toward its worst month since November 2008.",
+      "_zh_headline": "通胀走低，人工智能行业随之崩溃：华尔街一周",
+      "_zh_summary": "2026年最佳通胀报告本周登陆华尔街，市场无论如何都抛售，放弃了支撑了三年涨势的半导体交易。截至周五下午，科技股本周下跌 5.2%，是今年表现最差的一周之一。 iShares Semiconductor ETF（纳斯达克股票代码：SMH）——基金投资者用作人工智能交易本身的简称——本月迄今下跌了近 18.5%，接近 2008 年 11 月以来最糟糕的月份。",
+      "_added_at": "2026-07-17T21:22:37.373044+00:00"
+    },
+    {
+      "author": "Parshwa Turakhiya",
+      "content": "",
+      "created_at": "2026-07-17T20:41:11Z",
+      "headline": "Bitcoin Breaks Tech Stocks Correlation: Will BTC Now Follow in Gold's Footsteps?",
+      "id": 60538851,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Golden-Bitcoin-Coin-Is-In-Red-And-Blue-S.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Golden-Bitcoin-Coin-Is-In-Red-And-Blue-S.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Golden-Bitcoin-Coin-Is-In-Red-And-Blue-S.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bitcoin ETFs may be following gold’s boom-bust cycle, with IBIT’s pullback signaling a long recovery before the next record high.",
+      "symbols": [
+        "BLK",
+        "BTCUSD",
+        "ETHUSD",
+        "GLD",
+        "IBIT",
+        "IGV"
+      ],
+      "updated_at": "2026-07-17T20:41:11Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60538851/bitcoin-breaks-tech-stocks-correlation-will-btc-now-follow-in-golds-footsteps",
+      "_summary": "Bloomberg Senior ETF Analyst Eric Balchunas on Friday said Bitcoin (CRYPTO: BTC) ETFs are likely following gold ETFs’ 22-year playbook of explosive gains, painful drawdowns, and recoveries that test investor patience. Balchunas built his comparison around one shared structural trait. Both Bitcoin and gold ETFs are wrappers around non-yielding assets that generate no cash flow, meaning investor sentiment drives performance rather than earnings, coupons, or government backing.",
+      "_zh_headline": "比特币打破了科技股的相关性：比特币现在会追随黄金的脚步吗？",
+      "_zh_summary": "彭博社高级 ETF 分析师埃里克·巴尔丘纳斯 (Eric Balchunas) 周五表示，比特币 (CRYPTO: BTC) ETF 很可能会效仿黄金 ETF 22 年的做法：爆炸性上涨、痛苦回撤和复苏，考验投资者的耐心。巴尔丘纳斯围绕一个共同的结构特征进行了比较。比特币和黄金 ETF 都是不产生现金流的非收益资产的包装，这意味着投资者情绪驱动业绩，而不是收益、优惠券或政府支持。",
+      "_added_at": "2026-07-17T21:22:37.373044+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-17T17:46:30Z",
@@ -636,106 +743,6 @@
       "_zh_headline": "分析师：NVIDIA 可能是日本人工智能难题中缺失的一块",
       "_zh_summary": "在 NVIDIA 首席执行官黄仁勋访问东京后，Counterpoint 分析师 Marc Einstein 表示，尽管政府对半导体给予大力支持，但日本在人工智能发展方面仍落后于地区同行。然而，他相信该国的战略正开始扩展到芯片以外的领域。",
       "_added_at": "2026-07-17T14:12:46.495227+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-17T11:04:03Z",
-      "headline": "US Debt Surpasses 100% of GDP for the First Time Since World War II— Is the Fiscal Squeeze Actually Deflationary?",
-      "id": 60518983,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Red-Downward-Arrow-Inside-A-Magnifying-G.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Red-Downward-Arrow-Inside-A-Magnifying-G.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Red-Downward-Arrow-Inside-A-Magnifying-G.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. debt surpasses 100% of GDP for the first time since WWII. Discover why experts argue this $39.4T fiscal squeeze might be deflationary.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-17T11:04:03Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60518983/us-debt-surpasses-100-of-gdp-for-the-first-time-since-world-war-ii-is-the-fiscal-squeeze-actually-deflationary",
-      "_summary": "Publicly held federal debt has officially eclipsed the size of the entire American economy , crossing the 100% gross domestic product (GDP) threshold for the first time since 1946. While traditional economic theory warns that this fiscal squeeze could trigger runaway inflation, a growing chorus of contrarian analysts argues that the massive debt load might actually be deflationary. Instead, experts point to decades of chronic legislative inaction.",
-      "_zh_headline": "美国债务二战以来首次超过GDP的100%——财政紧缩真的是通货紧缩吗？",
-      "_zh_summary": "公开持有的联邦债务已正式超过整个美国经济的规模，自 1946 年以来首次突破 100% 的国内生产总值 (GDP) 门槛。虽然传统经济理论警告说，这种财政紧缩可能会引发失控的通货膨胀，但越来越多的逆向分析师认为，巨额债务负担实际上可能会导致通货紧缩。相反，专家们指出了几十年来长期立法不作为的原因。",
-      "_added_at": "2026-07-17T11:53:22.745088+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-17T10:37:48Z",
-      "headline": "What's Going on With Micron Technology Stock Friday?",
-      "id": 60518652,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron stock drops ahead of the open as tech weakens. Here&#39;s why analysts remain bullish despite the pullback.",
-      "symbols": [
-        "MU",
-        "QCOM",
-        "SOXQ",
-        "SOXX",
-        "SPMO"
-      ],
-      "updated_at": "2026-07-17T10:37:48Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60518652/whats-going-on-with-micron-technology-stock-friday-3",
-      "_summary": "The deals are intended to ensure stable supply and pricing as demand for AI-enabled features such as advanced driver-assistance systems (ADAS) and digital cockpits grows. Micron Chief Executive Officer Sanjay Mehrotra previously said the company had signed 16 strategic customer agreements and expects AI-driven growth to expand beyond data centers into smartphones, personal computers, automotive applications and robotics.",
-      "_zh_headline": "周五美光科技股票怎么样？",
-      "_zh_summary": "这些交易旨在随着对先进驾驶辅助系统（ADAS）和数字驾驶舱等人工智能功能的需求增长，确保稳定的供应和定价。美光首席执行官 Sanjay Mehrotra 此前表示，该公司已签署 16 项战略客户协议，并预计人工智能驱动的增长将扩展到数据中心之外的智能手机、个人电脑、汽车应用和机器人领域。",
-      "_added_at": "2026-07-17T11:53:22.745088+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-17T09:51:22Z",
-      "headline": "Former Fed Economist Claudia Sahm Says Kevin Warsh Is 'Unanchored From Inflation Data'",
-      "id": 60517716,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Federal-Reserve-Chair-Kevin-Warsh-Delive.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Former Fed economist Claudia Sahm criticized Chair Kevin Warsh, saying the Fed&#39;s definition of price stability has become unclear.",
-      "symbols": [],
-      "updated_at": "2026-07-17T09:51:22Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60517716/former-fed-economist-claudia-sahm-says-kevin-warsh-is-unanchored-from-inflation-data",
-      "_summary": "Former Federal Reserve economist Claudia Sahm on Friday criticized Fed Chair Kevin Warsh ‘s recent comments on inflation, saying the central bank’s definition of price stability has become unclear under his leadership. In a blog titled “2% of What?”, Sahm said the Fed’s commitment to price stability loses meaning if policymakers do not use a common measure to define it. She added that Warsh has repeatedly referred to restoring price stability while stopping short of explicitly identifying the benchmark used to measure it. Since taking office, Warsh has reaffirmed the Fed’s 2% inflation target but has not publicly referenced the Personal Consumption Expenditures price index during his confirmation hearing, first press conference, congressional testimony, or other public appearances, according to Sahm. “The Fed worries about unanchored inflation expectations; I am starting to worry about a Fed Chair who is unanchored from inflation data,” Sahm said in a post on X.",
-      "_zh_headline": "前美联储经济学家克劳迪娅·萨姆表示凯文·沃什“不受通胀数据的影响”",
-      "_zh_summary": "前美联储经济学家克劳迪娅·萨姆周五批评美联储主席凯文·沃什最近关于通胀的言论，称美联储对价格稳定的定义在他的领导下变得不明确。萨姆在题为“什么的 2%？”的博客中表示，如果政策制定者不使用共同的衡量标准来定义美联储对价格稳定的承诺，那么它就失去了意义。她补充说，沃什一再提到恢复价格稳定，但没有明确确定用于衡量价格稳定的基准。萨姆表示，自上任以来，沃什重申了美联储 2% 的通胀目标，但在确认听证会、第一次新闻发布会、国会作证或其他公开露面中并未公开提及个人消费支出价格指数。萨姆在 X 上发表的一篇文章中表示：“美联储担心通胀预期不受控制；我开始担心不受通胀数据影响的美联储主席。”",
-      "_added_at": "2026-07-17T10:19:11.705701+00:00"
     }
   ]
 }
