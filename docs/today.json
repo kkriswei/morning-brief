@@ -2,6 +2,115 @@
   "date": "2026-07-17",
   "articles": [
     {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-07-17T17:46:30Z",
+      "headline": "China's AI Breakthrough Triggers A Semiconductor Selloff—What It Means For Investors",
+      "id": 60533334,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/China.png?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/China.png?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/China.png?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nAI Breakthrouh\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "BTCUSD",
+        "GOOG",
+        "META",
+        "MSFT",
+        "NFLX",
+        "NVDA",
+        "QQQ",
+        "SOXL",
+        "SPCX",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-17T17:47:58Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60533334/china-ai-breakthrough-triggers-semiconductor-selloff-what-it-means-for-investors",
+      "_summary": "Chinese AI stocks are relatively inexpensive compared to U.S. AI stocks. The data shows the housing market is staying strong but may weaken in the future.  Here are the details: Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Apple Inc (NASDAQ: AAPL ) .",
+      "_zh_headline": "中国的人工智能突破引发半导体抛售——这对投资者意味着什么",
+      "_zh_summary": "与美国人工智能股票相比，中国人工智能股票相对便宜。数据显示，房地产市场保持强劲，但未来可能走弱。  详细信息如下： 大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，苹果公司（纳斯达克股票代码：AAPL）的资金流向呈中性。",
+      "_added_at": "2026-07-17T19:40:47.233294+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-17T18:21:12Z",
+      "headline": "QUICK SPARK: Micron, SanDisk Now Among Cheapest Nasdaq 100 Stocks",
+      "id": 60534664,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Benzinga-Quick-Spark.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Benzinga-Quick-Spark.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron trades at 6.2x forward earnings and SanDisk at 8.1x after brutal July selloffs. Is the memory trade cheap or pricing a peak?",
+      "symbols": [
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-17T18:21:12Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60534664/micron-sandisk-cheapest-nasdaq-100-stocks-forward-pe",
+      "_summary": "Two of Wall Street’s favorite artificial intelligence trades have quietly landed in the Nasdaq 100’s bargain bin, even after triple-digit gains this year. • Micron Technology stock is showing exceptional strength. What’s behind MU gains? The stock is down 23.3% month-to-date in July, on pace for its worst month since June 2022. It is still up 208% in 2026, after a run of nearly 2,000% from its 2025 lows to June highs.",
+      "_zh_headline": "QUICK SPARK：美光科技、闪迪现已跻身纳斯达克 100 家最便宜股票之列",
+      "_zh_summary": "华尔街最受欢迎的两种人工智能交易已悄然登陆纳斯达克 100 指数，尽管今年涨幅达到了三位数。 • 美光科技股票显示出非凡的实力。 MU收益背后的原因是什么？该股 7 月份迄今已下跌 23.3%，创 2022 年 6 月以来最糟糕的一个月。在从 2025 年低点到 6 月高点上涨近 2,000% 后，该股在 2026 年仍上涨 208%。",
+      "_added_at": "2026-07-17T19:40:47.233294+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-17T19:31:46Z",
+      "headline": "Tesla’s Robotaxi Land Grab: Miami Added, Texas Fleet Grows",
+      "id": 60536701,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Tesla-robotaxi-Cybercab-and-Robovan-on-p.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Tesla-robotaxi-Cybercab-and-Robovan-on-p.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Tesla-robotaxi-Cybercab-and-Robovan-on-p.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla&#39;s push for autonomy is paying off as it adds new markets and vehicles quickly. Bank of America maintains a buy rating and $460 price target.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-17T19:31:46Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60536701/teslas-robotaxi-land-grab-miami-added-texas-fleet-grows",
+      "_summary": "The firm notes that Tesla has added Miami as its fifth robotaxi market and is scaling its Texas fleet at the fastest pace among operators it tracks. The combination matters because it shifts Tesla’s story from promise to visible expansion, even if the network is still early and uneven. Tesla’s Texas fleet now stands at 175 vehicles, up by more than 100 in the past month, according to the note. That kind of growth gives Tesla a stronger case that its robotaxi effort is more than a demo.",
+      "_zh_headline": "特斯拉的机器人出租车抢占土地：迈阿密新增，德克萨斯州车队增长",
+      "_zh_summary": "该公司指出，特斯拉已将迈阿密作为其第五个机器人出租车市场，并且正在以其追踪的运营商中最快的速度扩大其德克萨斯州车队规模。这种结合很重要，因为它将特斯拉的故事从承诺转变为可见的扩张，即使网络仍处于早期阶段且不平衡。报告称，特斯拉德克萨斯州车队目前拥有 175 辆汽车，比过去一个月增加了 100 多辆。这种增长为特斯拉提供了更有力的证据，证明其机器人出租车的努力不仅仅是一个演示。",
+      "_added_at": "2026-07-17T19:40:47.233294+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-17T16:34:51Z",
@@ -626,124 +735,6 @@
       "_summary": "Former Federal Reserve economist Claudia Sahm on Friday criticized Fed Chair Kevin Warsh ‘s recent comments on inflation, saying the central bank’s definition of price stability has become unclear under his leadership. In a blog titled “2% of What?”, Sahm said the Fed’s commitment to price stability loses meaning if policymakers do not use a common measure to define it. She added that Warsh has repeatedly referred to restoring price stability while stopping short of explicitly identifying the benchmark used to measure it. Since taking office, Warsh has reaffirmed the Fed’s 2% inflation target but has not publicly referenced the Personal Consumption Expenditures price index during his confirmation hearing, first press conference, congressional testimony, or other public appearances, according to Sahm. “The Fed worries about unanchored inflation expectations; I am starting to worry about a Fed Chair who is unanchored from inflation data,” Sahm said in a post on X.",
       "_zh_headline": "前美联储经济学家克劳迪娅·萨姆表示凯文·沃什“不受通胀数据的影响”",
       "_zh_summary": "前美联储经济学家克劳迪娅·萨姆周五批评美联储主席凯文·沃什最近关于通胀的言论，称美联储对价格稳定的定义在他的领导下变得不明确。萨姆在题为“什么的 2%？”的博客中表示，如果政策制定者不使用共同的衡量标准来定义美联储对价格稳定的承诺，那么它就失去了意义。她补充说，沃什一再提到恢复价格稳定，但没有明确确定用于衡量价格稳定的基准。萨姆表示，自上任以来，沃什重申了美联储 2% 的通胀目标，但在确认听证会、第一次新闻发布会、国会作证或其他公开露面中并未公开提及个人消费支出价格指数。萨姆在 X 上发表的一篇文章中表示：“美联储担心通胀预期不受控制；我开始担心不受通胀数据影响的美联储主席。”",
-      "_added_at": "2026-07-17T10:19:11.705701+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-17T09:00:52Z",
-      "headline": "Stock Market Today: Dow Futures, S&P 500 Futures Slump Even as Trump Says US Is Doing 'Great'—Netflix, Coca-Cola, Nebius in Focus",
-      "id": 60517314,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Friday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Thursday&#39;s lower close.",
-      "symbols": [
-        "AMD",
-        "BTCUSD",
-        "CRWV",
-        "ISRG",
-        "KO",
-        "MU",
-        "NBIS",
-        "NFLX",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-17T09:55:02Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60517314/stock-market-today-dow-futures-sp-500-futures-slump-even-as-trump-says-us-is-doing-great-netflix-coca-cola-nebius-in-focus",
-      "_summary": "U.S. stock futures declined on Friday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Thursday’s lower close. Meanwhile, the 10-year Treasury bond yielded 4.53%, and the two-year bond was at 4.12%. The CME Group’s FedWatch tool’s projections show markets pricing an 89.8% likelihood of the Federal Reserve leaving the current interest rates unchanged during July’s meeting.",
-      "_zh_headline": "今日股市：尽管特朗普称美国表现“出色”，但道指期货、标准普尔 500 指数期货仍暴跌——Netflix、可口可乐、Nebius 成为焦点",
-      "_zh_summary": "美国股指期货周五下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周四收盘走低后下跌。与此同时，10年期国债收益率为4.53%，两年期国债收益率为4.12%。 CME 集团的 FedWatch 工具的预测显示，市场预计美联储在 7 月会议期间维持当前利率不变的可能性为 89.8%。",
-      "_added_at": "2026-07-17T10:19:11.705701+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-17T07:38:16Z",
-      "headline": "SoftBank Tumbles 11% as Global AI Sell-Off Triggers 'Another Wipeout' for Tech Momentum Winners",
-      "id": 60517083,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Softbank-Sign-At-Softbank-Vision-Fund-He.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Softbank-Sign-At-Softbank-Vision-Fund-He.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Softbank-Sign-At-Softbank-Vision-Fund-He.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SoftBank stock plunges 11% in Tokyo as a global AI rout triggers a wipe out for tech momentum winners over infrastructure spending concerns.",
-      "symbols": [
-        "SFTBY",
-        "SMH",
-        "TSM"
-      ],
-      "updated_at": "2026-07-17T07:38:16Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60517083/softbank-tumbles-11-as-global-ai-sell-off-triggers-another-wipeout-for-tech-momentum-winners",
-      "_summary": "The sharp decline tracked steep overnight losses on Wall Street, fueled by growing investor anxiety over whether hyper-scale technology infrastructure spending remains justified. The downward market spiral intensified following a weak U.S. trading session, during which the Nasdaq Composite fell 1.47%, and the VanEck Semiconductor ETF (NASDAQ: SMH ) dropped 3.70%. Even Taiwan Semiconductor Manufacturing Co. (NYSE: TSM ) saw its shares slip 2.34% on Thursday in the U.S. despite posting a sharp jump in profit.",
-      "_zh_headline": "全球人工智能抛售引发科技股赢家“又一次惨败”，软银股价暴跌 11%",
-      "_zh_summary": "由于投资者对超大规模技术基础设施支出是否合理的担忧日益加剧，华尔街隔夜大幅下跌，导致股市大幅下跌。美国交易时段疲软后，市场螺旋式下跌加剧，纳斯达克综合指数下跌 1.47%，VanEck 半导体 ETF（纳斯达克股票代码：SMH）下跌 3.70%。就连台积电（NYSE：TSM）周四在美国的股价也下跌了 2.34%，尽管其利润大幅增长。",
-      "_added_at": "2026-07-17T10:19:11.705701+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-07-17T09:38:15Z",
-      "headline": "Gold Just Shed 3 Quarters of Gains, Expert Lists 3 Stocks You Should Watch",
-      "id": 60517686,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Image-Of-Gold-Bullion-And-Gold-Coins.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gold prices plunge to $3,976. Veteran investor Rick Rule explains why this mirror of the 1970s points to a massive bull run.",
-      "symbols": [
-        "AEM",
-        "FNV",
-        "GDX",
-        "GDXJ",
-        "GLD",
-        "GLDM",
-        "IAU",
-        "RING",
-        "RUPRF",
-        "SGDJ",
-        "SGDM",
-        "WPM"
-      ],
-      "updated_at": "2026-07-17T09:38:15Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60517686/gold-just-shed-3-quarters-of-gains-expert-lists-3-stocks-you-should-watch",
-      "_summary": "Gold closed at $3,976 per ounce on Thursday. It was the lowest close of the year, erasing nearly all of the gains of the last three quarters. The yellow metal has entered a drawdown of about 26% below its January peak near $5,600—only its fifth drawdown of more than 25% since 1960, according to Morgan Stanley analysts. The catalyst is geopolitical. Renewed U.S.–Iran hostilities in the Middle East have driven Brent crude above $85 a barrel, rekindling fears of sticky inflation.",
-      "_zh_headline": "黄金刚刚回吐了三个季度的涨幅，专家列出了您应该关注的 3 只股票",
-      "_zh_summary": "周四金价收于每盎司 3,976 美元。这是今年的最低收盘价，抹去了过去三个季度几乎所有的涨幅。摩根士丹利 (Morgan Stanley) 分析师称，与 1 月份接近 5,600 美元的峰值相比，黄金已下跌约 26%，这是自 1960 年以来第五次下跌超过 25%。催化剂是地缘政治。美国与伊朗在中东重新爆发敌对行动，导致布伦特原油价格突破每桶 85 美元，重新引发人们对粘性通胀的担忧。",
       "_added_at": "2026-07-17T10:19:11.705701+00:00"
     }
   ]
