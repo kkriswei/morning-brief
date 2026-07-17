@@ -1,103 +1,108 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "articles": [
     {
-      "author": "Benzinga Insights",
+      "author": "Shivdeep Dhaliwal",
       "content": "",
-      "created_at": "2026-07-16T23:30:36Z",
-      "headline": "Here's How Much $1000 Invested In Tesla 10 Years Ago Would Be Worth Today",
-      "id": 60515533,
+      "created_at": "2026-07-17T01:22:33Z",
+      "headline": "Netflix, SpaceX, Alphabet, Alcoa and Intuitive Surgical: Why These 5 Stocks Are on Investors' Radars Today",
+      "id": 60515846,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Stock-Market-Sell-off-During-Market-Cras.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Stock-Market-Sell-off-During-Market-Cras.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Stock-Market-Sell-off-During-Market-Cras.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Tesla (NASDAQ:TSLA) has outperformed the market over the past 10 years by 25.14% on an annualized basis producing an average annual return of 38.35%. Currently, Tesla has a market capitalization of $1.46 trillion.",
+      "summary": "NFLX, SPCX, GOOG, AA, ISRG were among the trending stocks on Thursday, July 16, 2026.",
       "symbols": [
-        "TSLA"
-      ],
-      "updated_at": "2026-07-16T23:30:36Z",
-      "url": "https://www.benzinga.com/news/26/07/60515533/here-s-how-much-1000-invested-tesla-10-years-ago-would-be-worth-today",
-      "_summary": "Tesla (NASDAQ: TSLA ) has outperformed the market over the past 10 years by 25.14% on an annualized basis producing an average annual return of 38.35%. Currently, Tesla has a market capitalization of $1.46 trillion. Buying $1000 In TSLA: If an investor had bought $1000 of TSLA stock 10 years ago, it would be worth $26,040.58 today based on a price of $389.17 for TSLA at the time of writing.",
-      "_zh_headline": "10 年前投资特斯拉的 1000 美元在今天值多少钱",
-      "_zh_summary": "特斯拉（纳斯达克股票代码：TSLA）过去 10 年的年化表现优于市场 25.14%，平均年回报率为 38.35%。目前，特斯拉市值为1.46万亿美元。购买 1000 美元的 TSLA：如果投资者 10 年前购买了 1000 美元的 TSLA 股票，那么根据撰写本文时 TSLA 的价格为 389.17 美元，该股票今天的价值为 26,040.58 美元。",
-      "_added_at": "2026-07-17T01:05:09.930699+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-16T19:50:15Z",
-      "headline": "Alphabet Stock Sinks on Reports of Google Gemini Delays",
-      "id": 60512118,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Company-Logo-On-Screen.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Company-Logo-On-Screen.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Company-Logo-On-Screen.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Alphabet shares fall on reported delay in Gemini 3.5 Pro&#39;s launch and concerns about Google&#39;s AI capabilities. ",
-      "symbols": [
+        "AA",
         "GOOG",
-        "GOOGL"
+        "ISRG",
+        "NFLX",
+        "SPCX"
       ],
-      "updated_at": "2026-07-16T19:50:15Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60512118/alphabet-stock-sinks-on-reports-of-google-gemini-delays",
-      "_summary": "Bloomberg reported that the release of Gemini 3.5 Pro has slipped by several months as engineers work to improve the model’s capabilities, particularly in coding—an area where rivals like OpenAI and Anthropic have taken a clear lead. The delay has frustrated employees and raised concerns that Google risks ceding further ground in one of the most commercially critical segments of AI, according to sources familiar with the matter.",
-      "_zh_headline": "谷歌 Gemini 延迟的报道导致 Alphabet 股价下跌",
-      "_zh_summary": "彭博社报道称，随着工程师们努力提高模型的功能，特别是在编码方面，Gemini 3.5 Pro 的发布时间已经推迟了几个月，而 OpenAI 和 Anthropic 等竞争对手在这一领域已经取得了明显的领先优势。据知情人士透露，这一延迟让员工感到沮丧，并引发了人们的担忧，即谷歌可能会进一步放弃在人工智能最具商业价值的领域之一的地位。",
-      "_added_at": "2026-07-16T23:26:58.549100+00:00"
+      "updated_at": "2026-07-17T01:22:33Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60515846/netflix-spacex-alphabet-alcoa-intuitive-surgical-stocks-to-watch",
+      "_summary": "Major U.S. indices ended Thursday in the red, with the Dow Jones Industrial Average slipping 0.2% to 52,552.97. The S&P 500 declined 0.51% to 7,533.77, while the Nasdaq dropped 1.47% to 25,881.95. Across U.S. equity markets, trading was mixed beneath the surface at midday, with gains in defensive and value stocks offsetting weakness in chipmakers and speculative technology shares, prompting a rotation into smaller-cap stocks.",
+      "_zh_headline": "Netflix、SpaceX、Alphabet、Alcoa 和 Intuitive Surgical：为什么这 5 只股票今天受到投资者关注",
+      "_zh_summary": "美国主要股指周四收跌，道琼斯工业平均指数下跌 0.2%，至 52,552.97 点。标准普尔 500 指数下跌 0.51%，至 7,533.77 点；纳斯达克指数下跌 1.47%，至 25,881.95 点。整个美国股市午盘交易涨跌互现，防御性股票和价值型股票的上涨抵消了芯片制造商和投机性科技股的疲软，促使资金转向小盘股。",
+      "_added_at": "2026-07-17T04:43:40.378483+00:00"
     },
     {
-      "author": "Kaustubh Bagalkote",
+      "author": "Aniket Verma",
       "content": "",
-      "created_at": "2026-07-16T19:05:56Z",
-      "headline": "Why Is IREN Stock Falling on Thursday?",
-      "id": 60510587,
+      "created_at": "2026-07-17T03:44:54Z",
+      "headline": "SpaceX Stock to Close Higher by July End? Probability on Crypto Prediction Market Falls From 61% to 32%",
+      "id": 60516091,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/IREN.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hawthorne-la-County--California--Novembe.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/IREN.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hawthorne-la-County--California--Novembe.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/IREN.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hawthorne-la-County--California--Novembe.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "IREN Ltd (NASDAQ: IREN) stock is trading lower Thursday due to a macro tech sell-off, an $800 million executive payout backlash, and competition from Meta Compute.",
+      "summary": "Cryptocurrency bettors are increasingly expecting Space Exploration Technologies Corp. to close lower by the end of July, as the stock continues to trade below its IPO price amid renewed selling pressure.",
       "symbols": [
-        "IREN",
-        "META"
+        "BTCUSD",
+        "SPCX",
+        "ZECUSD"
       ],
-      "updated_at": "2026-07-16T19:05:56Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60510587/why-is-iren-stock-falling-on-thursday-2",
-      "_summary": "IREN Ltd (NASDAQ: IREN ) stock is trading lower by approximately 9% Thursday afternoon as investors digest executive compensation concerns alongside overall market weakness. A sharp downturn across the technology sector has triggered widespread profit-taking in high-valuation artificial intelligence infrastructure names. The downward movement comes as the company maintains a price-to-earnings ratio of 78.30.",
-      "_zh_headline": "为什么 IREN 股票周四下跌？",
-      "_zh_summary": "IREN Ltd（纳斯达克股票代码：IREN）股价周四下午下跌约 9%，原因是投资者消化了高管薪酬担忧以及整体市场疲软的情况。科技行业的急剧下滑引发了高估值人工智能基础设施名称的广泛获利了结。此次下跌是因为该公司的市盈率维持在 78.30。",
-      "_added_at": "2026-07-16T23:26:58.549100+00:00"
+      "updated_at": "2026-07-17T03:44:54Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60516091/spacex-stock-july-prediction-market-odds-fall",
+      "_summary": "Cryptocurrency bettors are increasingly expecting Space Exploration Technologies Corp. (NASDAQ: SPCX ) to close lower by the end of July, as the stock continues to trade below its IPO price amid renewed selling pressure. The probability of SPCX closing higher has dropped sharply from 61% last week to 32% at the time of writing. Note that SPCX finished at $170.86 on June 30. For an “Up” resolution, the stock must equal or beat $170.86 by the market close on July 31.",
+      "_zh_headline": "SpaceX 股价将在 7 月底收高？加密货币预测市场的概率从 61% 下降至 32%",
+      "_zh_summary": "加密货币押注者越来越多地预计 Space Exploration Technologies Corp.（纳斯达克股票代码：SPCX）将在 7 月底收盘走低，因为该股在新的抛售压力下继续低于其 IPO 价格。 SPCX 收高的概率已从上周的 61% 大幅下降至撰写本文时的 32%。请注意，SPCX 6 月 30 日收盘价为 170.86 美元。对于“上涨”决议，该股票必须在 7 月 31 日收盘时等于或高于 170.86 美元。",
+      "_added_at": "2026-07-17T04:43:40.378483+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-16T19:57:55Z",
+      "headline": "SanDisk's 40% Drop From Peak: Value Trap or Once-in-a-Generation Buy?",
+      "id": 60512339,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SanDisk trades at 7.9x forward earnings after a 40% drop. History says memory stocks look cheapest right before earnings break.",
+      "symbols": [
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-16T19:57:55Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60512339/sandisk-sndk-40-percent-drop-value-trap-or-opportunity",
+      "_summary": "Two investors can look at the same number — 7.9 times earnings — and reach opposite conclusions. One sees the cheapest SanDisk Corp. (NASDAQ: SNDK ) has ever been. The other sees the oldest trap in semiconductors. As of Thursday, July 16, SanDisk sits 39.1% below the record of $2,351.37 it set in late June, and its forward price-to-earnings ratio — the share price divided by what analysts expect the company to earn over the next twelve months, a rough measure of how expensive a stock is — has fallen to 7.9x.",
+      "_zh_headline": "SanDisk 股价较峰值下跌 40%：价值陷阱还是千载难逢的买入机会？",
+      "_zh_summary": "两个投资者可以看到相同的数字（市盈率 7.9 倍）并得出相反的结论。人们看到了闪迪公司（纳斯达克股票代码：SNDK）有史以来最便宜的价格。另一个看到了半导体中最古老的陷阱。截至 7 月 16 日星期四，SanDisk 的股价比 6 月底创下的 2,351.37 美元的纪录低了 39.1%，其预期市盈率（股价除以分析师预计该公司未来 12 个月的盈利，粗略衡量股票价格的指标）已降至 7.9 倍。",
+      "_added_at": "2026-07-17T04:43:40.378483+00:00"
     },
     {
       "author": "Chris Katje",
@@ -136,7 +141,39 @@
       "_summary": "Ark Invest, led by Cathie Wood , has been building big positions in a new IPO across three ETFs. While Ark Invest is buying shares of the recent IPO SpaceX , this is another name with purchasing dating back to April 2026. The stock opened for trading at $30.11 and closed at $29.20. Not counting the recent weekend (July 11, July 12), Ark Invest has added XE stock to three ETFs in four straight trading sessions.",
       "_zh_headline": "X-Energy 股票：核能公司成为 Cathie Wood 的新宠",
       "_zh_summary": "由 Cathie Wood 领导的 Ark Invest 一直在三只 ETF 的新 IPO 中建立大量头寸。虽然 Ark Invest 正在购买最近 IPO 的 SpaceX 的股票，但这是另一个名字，购买时间可以追溯到 2026 年 4 月。该股开盘价为 30.11 美元，收盘价为 29.20 美元。不算最近的周末（7月11日、7月12日），Ark Invest已连续四个交易日将XE股票添加到三只ETF中。",
-      "_added_at": "2026-07-16T21:36:28.982716+00:00"
+      "_added_at": "2026-07-17T04:43:40.378483+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-16T23:30:36Z",
+      "headline": "Here's How Much $1000 Invested In Tesla 10 Years Ago Would Be Worth Today",
+      "id": 60515533,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla (NASDAQ:TSLA) has outperformed the market over the past 10 years by 25.14% on an annualized basis producing an average annual return of 38.35%. Currently, Tesla has a market capitalization of $1.46 trillion.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-16T23:30:36Z",
+      "url": "https://www.benzinga.com/news/26/07/60515533/here-s-how-much-1000-invested-tesla-10-years-ago-would-be-worth-today",
+      "_summary": "Tesla (NASDAQ: TSLA ) has outperformed the market over the past 10 years by 25.14% on an annualized basis producing an average annual return of 38.35%. Currently, Tesla has a market capitalization of $1.46 trillion. Buying $1000 In TSLA: If an investor had bought $1000 of TSLA stock 10 years ago, it would be worth $26,040.58 today based on a price of $389.17 for TSLA at the time of writing.",
+      "_zh_headline": "10 年前投资特斯拉的 1000 美元在今天值多少钱",
+      "_zh_summary": "特斯拉（纳斯达克股票代码：TSLA）过去 10 年的年化表现优于市场 25.14%，平均年回报率为 38.35%。目前，特斯拉市值为1.46万亿美元。购买 1000 美元的 TSLA：如果投资者 10 年前购买了 1000 美元的 TSLA 股票，那么根据撰写本文时 TSLA 的价格为 389.17 美元，该股票今天的价值为 26,040.58 美元。",
+      "_added_at": "2026-07-17T04:43:40.378483+00:00"
     },
     {
       "author": "Chandrima Sanyal",
@@ -171,569 +208,7 @@
       "_summary": "The new fund is managed by Manulife Investment Management and seeks long-term capital appreciation by investing primarily in a concentrated portfolio of large-cap U.S. companies. Key features of John Hancock Large Cap Opportunities ETF (JLCO): 1. Investment objective: Long-term capital appreciation. 4. Portfolio focus: High-conviction portfolio invested primarily in large-cap U.S. companies. 5. Management team: Michael J. Scanlon Jr. , CFA, and Leigh Pressman , CFA of Manulife Investment Management.",
       "_zh_headline": "宏利推出高信念大盘ETF以利用势头",
       "_zh_summary": "新基金由宏利投资管理公司管理，通过主要投资于美国大型公司的集中投资组合来寻求长期资本增值。 John Hancock Large Cap Opportunities ETF (JLCO) 的主要特点： 1. 投资目标：长期资本增值。 4. 投资组合重点：高信念投资组合主要投资于美国大盘公司。 5. 管理团队：宏利投资管理公司Michael J. Scanlon Jr.，CFA，Leigh Pressman，CFA。",
-      "_added_at": "2026-07-16T21:36:28.982716+00:00"
-    },
-    {
-      "author": "Anil Varma",
-      "content": "",
-      "created_at": "2026-07-16T19:18:49Z",
-      "headline": "QUICK SPARK: TSMC's Worst Selloff Since 2022 Looks Bad — Until You Look At Intel",
-      "id": 60511035,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Benzinga-Quick-Spark.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Benzinga-Quick-Spark.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "TSMC’s U.S.-listed shares are down about 15% so far in July. But Intel has dropped roughly 31% over the same stretch.",
-      "symbols": [
-        "INTC",
-        "TSM"
-      ],
-      "updated_at": "2026-07-16T19:18:49Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60511035/taiwan-semiconductor-tsm-stock-falling-versus-intel",
-      "_summary": "TSMC’s chipmaker’s net income soared to NT$706.56 billion ($22 billion), a 77.4% increase from the previous year, surpassing analyst expectations of NT$632.64 billion. Revenue also climbed to NT$1.27 trillion ($39.45 billion), exceeding forecasts and marking a 36% rise from the previous year. The company’s advanced manufacturing technologies, particularly those at 7-nanometer and below, contributed significantly, accounting for 77% of total wafer revenue.",
-      "_zh_headline": "QUICK SPARK：台积电自 2022 年以来最严重的抛售看起来很糟糕 - 直到你看看英特尔",
-      "_zh_summary": "台积电这家芯片制造商的净利润飙升至新台币 7065.6 亿元（合 220 亿美元），较上年增长 77.4%，超过分析师预期的新台币 6326.4 亿元。收入也攀升至新台币 1.27 万亿元（394.5 亿美元），超出预期，较上年增长 36%。该公司的先进制造技术，特别是7纳米及以下的技术，贡献显着，占晶圆总收入的77%。",
-      "_added_at": "2026-07-16T20:27:23.373519+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-16T19:57:55Z",
-      "headline": "SanDisk's 40% Drop From Peak: Value Trap or Once-in-a-Generation Buy?",
-      "id": 60512339,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SanDisk trades at 7.9x forward earnings after a 40% drop. History says memory stocks look cheapest right before earnings break.",
-      "symbols": [
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-16T19:57:55Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60512339/sandisk-sndk-40-percent-drop-value-trap-or-opportunity",
-      "_summary": "Two investors can look at the same number — 7.9 times earnings — and reach opposite conclusions. One sees the cheapest SanDisk Corp. (NASDAQ: SNDK ) has ever been. The other sees the oldest trap in semiconductors. As of Thursday, July 16, SanDisk sits 39.1% below the record of $2,351.37 it set in late June, and its forward price-to-earnings ratio — the share price divided by what analysts expect the company to earn over the next twelve months, a rough measure of how expensive a stock is — has fallen to 7.9x.",
-      "_zh_headline": "SanDisk 股价较峰值下跌 40%：价值陷阱还是千载难逢的买入机会？",
-      "_zh_summary": "两个投资者可以看到相同的数字（市盈率 7.9 倍）并得出相反的结论。人们看到了闪迪公司（纳斯达克股票代码：SNDK）有史以来最便宜的价格。另一个看到了半导体中最古老的陷阱。截至 7 月 16 日星期四，SanDisk 的股价比 6 月底创下的 2,351.37 美元的纪录低了 39.1%，其预期市盈率（股价除以分析师预计该公司未来 12 个月的盈利，粗略衡量股票价格的指标）已降至 7.9 倍。",
-      "_added_at": "2026-07-16T20:27:23.373519+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-16T17:06:05Z",
-      "headline": "Chip Selloff Drags Nasdaq 100, Gold Sinks Below $4,000: Stock Market Today",
-      "id": 60505919,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "A semiconductor selloff sank the Nasdaq 100 more than 1% while UnitedHealth&#39;s blowout quarter lifted the Dow.",
-      "symbols": [
-        "ABT",
-        "ASTS",
-        "BE",
-        "CTAS",
-        "DIA",
-        "GLD",
-        "IWM",
-        "JBHT",
-        "PL",
-        "QQQ",
-        "RHI",
-        "RKLB",
-        "SMG",
-        "SNDK",
-        "SPY",
-        "TSM",
-        "UNH",
-        "VOO",
-        "XLK",
-        "XLP",
-        "XLV"
-      ],
-      "updated_at": "2026-07-16T17:06:06Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
-      "_summary": "Another sharp selloff in semiconductors dragged the Nasdaq 100 down more than 1% by midday Thursday, extending a negative week for tech. Across U.S. equity markets, during midday trading, the moves were sharply split beneath the surface. Strength in defensive and value names offset weakness concentrated in chips and speculative tech, sending money down the market-cap ladder. The S&P 500 slipped 0.2% to around 7,554, while the Dow Jones Industrial Average added roughly 90 points, or 0.2%, to about 52,749.",
-      "_zh_headline": "芯片抛售拖累纳斯达克 100 指数，金价跌破 4,000 美元：今日股市",
-      "_zh_summary": "截至周四中午，半导体行业的另一次大幅抛售拖累纳斯达克 100 指数下跌超过 1%，延续了科技股的负面一周。整个美国股市在午盘交易中，走势在表面下急剧分化。防御性和价值型股票的强势抵消了芯片和投机性科技股的疲软，导致资金走下市值阶梯。标准普尔 500 指数下跌 0.2%，至 7,554 点左右；道琼斯工业平均指数上涨约 90 点，即 0.2%，至 52,749 点左右。",
-      "_added_at": "2026-07-16T18:41:49.014646+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-16T18:18:31Z",
-      "headline": "Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings; Apple Boosts China AI Models",
-      "id": 60508815,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Taiwan-Semi.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Taiwan-Semi.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Taiwan-Semi.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nKorea Leading Semiconductors \n\n\n\nPlease click here for an enlarged chart of Taiwan Semiconductor Manufacturing Co Ltd (NYSE:TSM).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "ASML",
-        "BABA",
-        "BIDU",
-        "BTCUSD",
-        "GOOG",
-        "KWEB",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SPCX",
-        "SPY",
-        "TSLA",
-        "TSM"
-      ],
-      "updated_at": "2026-07-16T18:19:52Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60508815/korea-drives-semi-stocks-lower-despite-solid-taiwan-semi-earnings-apple-boosts-china-ai-models",
-      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Amazon.com, Inc. (NASDAQ: AMZN ) .",
-      "_zh_headline": "尽管台湾半导体盈利稳健，但韩国推动半导体股票走低；苹果推动中国人工智能模型",
-      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，亚马逊公司（纳斯达克股票代码：AMZN）的资金流向是中性的。",
-      "_added_at": "2026-07-16T18:41:49.014646+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-16T18:36:27Z",
-      "headline": "Supermicro Stock Drops as AI Hardware Correction Triggers Massive Server Selloff",
-      "id": 60509479,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Super-Micro-Computer--Inc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Super-Micro-Computer--Inc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Super-Micro-Computer--Inc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Super Micro Computer (NASDAQ: SMCI) stock plummeted over 6% on Thursday as a broader computing hardware selloff sparked concerns over AI infrastructure inventory and growth.",
-      "symbols": [
-        "DELL",
-        "FTA",
-        "FXL",
-        "PFF",
-        "SMCI"
-      ],
-      "updated_at": "2026-07-16T18:36:27Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60509479/supermicro-stock-drops-as-ai-hardware-correction-triggers-massive-server-selloff",
-      "_summary": "Super Micro Computer, Inc (NASDAQ: SMCI ) stock slid by more than 7% on Thursday as investors pulled back from AI hardware and server stocks following a broader sector selloff. The Nasdaq is down 1.42% while the S&P 500 has shed 0.41%, and Technology is also lagging with a 2.5% loss. The bigger technical issue is the trend: SMCI is trading 13.6% below its 20-day SMA ($28.98) and 26.7% below its 200-day SMA ($34.18), keeping the intermediate and long-term bias pointed down.",
-      "_zh_headline": "由于人工智能硬件修正引发服务器大规模抛售，超微股价下跌",
-      "_zh_summary": "Super Micro Computer, Inc（纳斯达克股票代码：SMCI）股价周四下跌逾 7%，因投资者在更广泛的行业抛售后撤出人工智能硬件和服务器股票。纳斯达克指数下跌 1.42%，标准普尔 500 指数下跌 0.41%，科技股也下跌 2.5%。更大的技术问题是趋势：SMCI 的交易价格比 20 日移动平均线（28.98 美元）低 13.6%，比 200 日移动平均线（34.18 美元）低 26.7%，使中期和长期偏见保持向下。",
-      "_added_at": "2026-07-16T18:41:49.014646+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-16T17:35:22Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "id": 60507049,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "symbols": [
-        "AAOI",
-        "AAPL",
-        "IBM",
-        "INTC",
-        "MSFT",
-        "MU",
-        "NBIS",
-        "QUBT",
-        "SKHY",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-16T17:35:22Z",
-      "url": "https://www.benzinga.com/markets/options/26/07/60507049/10-information-technology-stocks-whale-activity-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-07-16T18:41:49.014646+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-16T17:41:57Z",
-      "headline": "Google Stock News: Analyst Predicts Massive 70% Cloud Growth Ahead of Earnings",
-      "id": 60507287,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Inc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Inc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Alphabet-Inc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) stock climbs on Thursday as Bank of America reaffirmed a highly bullish price target, predicting massive cloud growth and strong underlying AI margins.",
-      "symbols": [
-        "FCOM",
-        "GOOG",
-        "GOOGL",
-        "IWLG",
-        "PNQI"
-      ],
-      "updated_at": "2026-07-16T17:41:57Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60507287/google-stock-news-analyst-predicts-massive-70-cloud-growth-ahead-of-earnings",
-      "_summary": "The Nasdaq is down 0.92% while the S&P 500 has shed 0.12%. • Alphabet stock is trading at elevated levels. What should traders watch with GOOG? BofA Securities analyst Justin Post expects Alphabet to deliver a strong second quarter, driven by cloud momentum, steady search growth and AI-related upside. Post maintained a Buy rating on Alphabet with a $430 price forecast. He expects second-quarter revenue of $102.1 billion and GAAP EPS of $8.38, above Street estimates of $101 billion and $2.90.",
-      "_zh_headline": "谷歌股票新闻：分析师预测云计算将在盈利前大幅增长 70%",
-      "_zh_summary": "纳斯达克指数下跌 0.92%，标准普尔 500 指数下跌 0.12%。 • Alphabet 股票交易价格处于较高水平。交易者应该通过 GOOG 看什么？美国银行证券分析师贾斯汀·波斯特预计，在云发展势头、稳定的搜索增长和人工智能相关优势的推动下，Alphabet 第二季度将表现强劲。 Post 维持 Alphabet 的买入评级，预测价格为 430 美元。他预计第二季度营收为 1,021 亿美元，GAAP 每股收益为 8.38 美元，高于华尔街预期的 1,010 亿美元和 2.90 美元。",
-      "_added_at": "2026-07-16T18:41:49.014646+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-16T15:55:08Z",
-      "headline": "Lucid's 50% Selloff Ends First US 2x Single-Stock ETF, Exposing the Limits of Leverage",
-      "id": 60502881,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Denver--Co---May-15-2024-A-Lucid-Motors-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Denver--Co---May-15-2024-A-Lucid-Motors-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Denver--Co---May-15-2024-A-Lucid-Motors-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Lucid&#39;s 50% plunge forced the GraniteShares 2x Long LCID ETF to shut after its NAV turned negative, making it the first US leveraged ETF to get delisted.",
-      "symbols": [
-        "LCDL",
-        "LCID",
-        "SKHY",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-16T15:55:08Z",
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60502881/lucids-50-selloff-ends-first-us-2x-single-stock-etf-exposing-the-limits-of-leverage",
-      "_summary": "The fund, which sought to deliver 200% of the daily performance of Lucid stock through swap agreements, was forced to unwind its exposure after its swap counterparty exercised its contractual right to terminate the position. The liquidation resulted in losses large enough to drive the ETF’s NAV below zero, making the fund unsustainable.",
-      "_zh_headline": "Lucid 50% 抛售结束首只美国 2x 单股 ETF，暴露杠杆极限",
-      "_zh_summary": "该基金试图通过掉期协议实现 Lucid 股票每日表现的 200%，但在掉期交易对手行使其合同权利终止头寸后，被迫平仓。此次清算造成的损失足以使 ETF 的资产净值降至零以下，从而使该基金难以为继。",
-      "_added_at": "2026-07-16T16:49:39.137054+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-16T16:43:59Z",
-      "headline": "AMD's $600 Target Isn't Really About AMD",
-      "id": 60505004,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Shanghai-china-nov-22nd-2025-Amd-Company.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Shanghai-china-nov-22nd-2025-Amd-Company.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Shanghai-china-nov-22nd-2025-Amd-Company.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "BNP Paribas raised AMD&#39;s price target to $600 despite expecting a muted earnings season, signaling confidence in the long-term AI cycle.",
-      "symbols": [
-        "ALAB",
-        "AMD",
-        "AMZN",
-        "ANET",
-        "CRDO",
-        "FN",
-        "GOOG",
-        "GOOGL",
-        "NVDA",
-        "STX"
-      ],
-      "updated_at": "2026-07-16T16:43:59Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60505004/amd-stock-600-price-target-is-not-about-amd",
-      "_summary": "In fact, the firm believes the biggest AI demand catalyst is still at least a quarter away. Yet it raised AMD’s price target to $600 from $460, arguing the market is becoming willing to pay more for companies positioned to benefit from the next phase of the AI infrastructure buildout. BNP Paribas opened its second-quarter semiconductor earnings preview with an unusual observation: a recent sell-off across AI names has actually reduced the risk of a broader “sell-the-news” reaction this earnings season.",
-      "_zh_headline": "AMD 600 美元的目标并不是真正针对 AMD",
-      "_zh_summary": "事实上，该公司认为最大的人工智能需求催化剂距离出现至少还有四分之一的时间。然而，它将 AMD 的目标价格从 460 美元上调至 600 美元，理由是市场越来越愿意为那些能够从下一阶段人工智能基础设施建设中受益的公司支付更高的价格。法国巴黎银行在第二季度半导体盈利预览中提出了一个不同寻常的观察：最近人工智能公司的抛售实际上降低了本财报季出现更广泛的“抛售新闻”反应的风险。",
-      "_added_at": "2026-07-16T16:49:39.137054+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-16T16:46:31Z",
-      "headline": "Microsoft Earnings Preview: Copilot, AI Spending and Margins Are in Focus",
-      "id": 60505101,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Wall Street updates Microsoft ($MSFT) price forecasts ahead of July 29 earnings. See what top analysts expect for Azure &amp; AI growth.",
-      "symbols": [
-        "MSFT"
-      ],
-      "updated_at": "2026-07-16T16:46:31Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60505101/microsoft-earnings-preview-copilot-ai-spending-and-margins-are-in-focus",
-      "_summary": "Recently, several Wall Street analysts updated their outlooks on Microsoft while maintaining bullish ratings ahead of the company’s quarterly earnings later this month. Microsoft is scheduled to report quarterly results on July 29. Wall Street expects earnings of $4.23 per share, up from $3.65 a year earlier. Revenue is projected to rise to $87.61 billion from $76.44 billion.",
-      "_zh_headline": "微软财报预览：Copilot、人工智能支出和利润率成为焦点",
-      "_zh_summary": "最近，几位华尔街分析师更新了对微软的展望，同时在本月晚些时候该公司公布季度财报之前维持看涨评级。微软定于 7 月 29 日公布季度业绩。华尔街预计每股收益为 4.23 美元，高于去年同期的 3.65 美元。收入预计将从 764.4 亿美元增至 876.1 亿美元。",
-      "_added_at": "2026-07-16T16:49:39.137054+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-16T15:56:17Z",
-      "headline": "Buy ASTS, Watch SpaceX and Rocket Lab From the Launch Pad: Piper Sandler's Space Playbook",
-      "id": 60502946,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Two-Rockets-Launch--In-The-Background-A-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Two-Rockets-Launch--In-The-Background-A-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Two-Rockets-Launch--In-The-Background-A-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Piper Sandler initiates coverage on ASTS with an Overweight, SPCX and RKLB with a Neutral as one-year gains are already priced in.",
-      "symbols": [
-        "ASTS",
-        "RKLB",
-        "SPCX",
-        "T",
-        "TSLA",
-        "VZ"
-      ],
-      "updated_at": "2026-07-16T15:56:17Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60502946/buy-asts-watch-spacex-and-rocket-lab-from-the-launch-pad-piper-sandlers-space-playbook",
-      "_summary": "In its inaugural \"Final Frontier\" industry note, the firm argues that vertically integrated launch players like SpaceX and Rocket Lab are \"probably best‑positioned over a multi‑year period,” but says the cleaner one‑year risk‑reward sits with ASTS and its satellite‑to‑smartphone story. AST SpaceMobile is pitched as the pure‑play on turning everyday smartphones into satellite phones via direct‑to‑device broadband, not just SOS text messaging.",
-      "_zh_headline": "购买 ASTS，从发射台观看 SpaceX 和火箭实验室：Piper Sandler 的太空剧本",
-      "_zh_summary": "该公司在其首份“最终前沿”行业报告中认为，像 SpaceX 和 Rocket Lab 这样的垂直整合发射公司“可能在多年期间处于最佳位置”，但表示更干净的一年风险回报取决于 ASTS 及其卫星到智能手机的故事。 AST SpaceMobile 被定位为通过直接到设备的宽带将日常智能手机变成卫星电话的纯粹游戏，而不仅仅是 SOS 短信。",
-      "_added_at": "2026-07-16T16:49:39.137054+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-16T16:25:34Z",
-      "headline": "Etsy's 47% YTD Surge Leaves Upside More Limited, Analyst Says",
-      "id": 60504223,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Kazan--Russia---Oct-6--2021-Etsy-Is-Amer.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Kazan--Russia---Oct-6--2021-Etsy-Is-Amer.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Kazan--Russia---Oct-6--2021-Etsy-Is-Amer.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Details on why BTIG analyst Marvin Fong is downgrading Etsy (NASDAQ: ETSY).",
-      "symbols": [
-        "AMZN",
-        "CARG",
-        "ETSY"
-      ],
-      "updated_at": "2026-07-16T16:25:34Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/07/60504223/etsys-47-ytd-surge-leaves-upside-more-limited-analyst-says",
-      "_summary": "Etsy, Inc. (NASDAQ: ETSY ) , a leading global marketplace company, experienced a rating downgrade on Thursday, as BTIG shifted its investment stance to Neutral from Buy. Analyst Marvin Fong stated that the adjustment occurred because the stock had exceeded its prior $78 price target by 10%, bringing the risk-reward into balance. BTIG does not issue price targets on Neutral-rated stocks. • Etsy stock is showing weakness. Why are ETSY shares declining?",
-      "_zh_headline": "分析师表示，Etsy 年初至今飙升 47%，上涨空间更加有限",
-      "_zh_summary": "由于 BTIG 将投资立场从“买入”调整为“中性”，全球领先的市场公司 Etsy, Inc.（纳斯达克股票代码：ETSY）周四评级被下调。分析师 Marvin Fong 表示，此次调整是因为该股已超出之前 78 美元的目标价 10%，使风险回报达到平衡。 BTIG 不发布中性评级股票的价格目标。 • Etsy 股票表现疲软。为什么 ETSY 股价下跌？",
-      "_added_at": "2026-07-16T16:49:39.137054+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-16T15:02:13Z",
-      "headline": "TSMC's 68% Margins Show Why Intel's Foundry Turnaround Won't Be Easy",
-      "id": 60500889,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hsinchu--Taiwan---Apr-12--2021-Tsmc-Muse.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hsinchu--Taiwan---Apr-12--2021-Tsmc-Muse.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Hsinchu--Taiwan---Apr-12--2021-Tsmc-Muse.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "TSMC&#39;s 67.7% gross margin and accelerating 2nm ramp underscore the economic challenge Intel faces as it works to build a competitive foundry business.",
-      "symbols": [
-        "AAPL",
-        "INTC",
-        "TSM"
-      ],
-      "updated_at": "2026-07-16T15:02:13Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60500889/tsmc-margins-show-intel-foundry-turnaround-not-easy",
-      "_summary": "While TSMC is racing ahead with next-generation technology, it’s also generating the kind of manufacturing profits that remain the envy of the semiconductor industry. And that’s the hurdle Intel ultimately has to clear if it wants its foundry business to compete with the world’s largest contract chipmaker. TSMC reported a 67.7% gross margin and a 60.3% operating margin for the second quarter, alongside a 36% year-over-year increase in revenue and a 77.4% jump in net income.",
-      "_zh_headline": "台积电 68% 的利润率表明英特尔的代工转型之路并不容易",
-      "_zh_summary": "台积电在下一代技术方面不断领先，同时也创造了令半导体行业羡慕的制造利润。如果英特尔希望其代工业务能够与全球最大的代工芯片制造商竞争，这就是英特尔最终必须清除的障碍。台积电第二季度毛利率为 67.7%，营业利润率为 60.3%，收入同比增长 36%，净利润增长 77.4%。",
-      "_added_at": "2026-07-16T16:49:39.137054+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-16T14:01:27Z",
-      "headline": "Semiconductor Stocks’ Worst Slump in Over a Year — Are Chips Now Cheap Enough?",
-      "id": 60497783,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Semiconductors.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Semiconductors.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Semiconductors.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The iShares Semiconductor ETF fell 13% in four weeks, erasing its premium over the Nasdaq 100. Micron now trades at 6.8x forward earnings.",
-      "symbols": [
-        "ALAB",
-        "ASX",
-        "INTC",
-        "MU",
-        "QQQ",
-        "SOXX",
-        "TER"
-      ],
-      "updated_at": "2026-07-16T14:01:27Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60497783/semiconductor-selloff-soxx-valuation-micron-cheap-enough",
-      "_summary": "For the first time since late April, semiconductors no longer carry a valuation premium over the broader Nasdaq. The sector that doubled off its February low is now priced like the average large-cap tech stock . The Philadelphia Semiconductor Index – as tracked by the iShares Semiconductor ETF (NASDAQ: SOXX ) – has fallen 13.2% over the past four weeks. That is the sharpest four-week move for the fund since April 2025.",
-      "_zh_headline": "半导体股遭遇一年多来最严重的暴跌——芯片现在足够便宜吗？",
-      "_zh_summary": "自 4 月底以来，半导体行业首次不再比纳斯达克大盘具有估值溢价。该行业较 2 月份低点翻了一番，目前的定价与大型科技股的平均价格相同。 iShares Semiconductor ETF（纳斯达克股票代码：SOXX）追踪的费城半导体指数在过去四个星期内下跌了 13.2%。这是该基金自 2025 年 4 月以来最剧烈的四周走势。",
-      "_added_at": "2026-07-16T14:33:57.616250+00:00"
-    },
-    {
-      "author": "Oluwafemi Adedeji",
-      "content": "",
-      "created_at": "2026-07-16T13:32:36Z",
-      "headline": "Medicare Part B Jumped Nearly 10% In 2026: What That $18 Really Costs You Over 20 Years",
-      "id": 60495805,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Medicare-Part-B.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Medicare-Part-B.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Medicare-Part-B.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The standard Medicare Part B premium climbed to $202.90 a month in 2026, up $17.90 from $185, an increase most retirees waved off as pocket change. That shrug is the expensive part, because in retirement a small monthly",
-      "symbols": [
-        "SPY",
-        "UNH"
-      ],
-      "updated_at": "2026-07-16T13:32:36Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60495805/medicare-part-b-jumped-nearly-10-in-2026-what-that-18-really-costs-you-over-20-years",
-      "_summary": "The 2026 premium works out to a 9.7% jump , roughly double the size of the increase retirees absorbed the year before, and the annual deductible rose to $283. For context, inflation ran about 2.7% in 2025, so the Part B premium climbed more than three times faster than the broad cost of living. A single 9.7% jump is not the real problem. The trend behind it is.",
-      "_zh_headline": "Medicare B 部分在 2026 年上涨了近 10%：这 18 美元在 20 年内真正让你付出了什么代价",
-      "_zh_summary": "2026 年的保费将上涨 9.7%，大约是退休人员前一年吸收的增量的两倍，年度免赔额升至 283 美元。就背景而言，2025 年通货膨胀率约为 2.7%，因此 B 部分保费的上涨速度是总体生活成本的三倍多。 9.7% 的单一跳跃并不是真正的问题。其背后的趋势是。",
-      "_added_at": "2026-07-16T14:33:57.616250+00:00"
+      "_added_at": "2026-07-17T04:43:40.378483+00:00"
     }
   ]
 }
