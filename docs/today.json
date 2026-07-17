@@ -2,6 +2,38 @@
   "date": "2026-07-16",
   "articles": [
     {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-16T23:30:36Z",
+      "headline": "Here's How Much $1000 Invested In Tesla 10 Years Ago Would Be Worth Today",
+      "id": 60515533,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla (NASDAQ:TSLA) has outperformed the market over the past 10 years by 25.14% on an annualized basis producing an average annual return of 38.35%. Currently, Tesla has a market capitalization of $1.46 trillion.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-16T23:30:36Z",
+      "url": "https://www.benzinga.com/news/26/07/60515533/here-s-how-much-1000-invested-tesla-10-years-ago-would-be-worth-today",
+      "_summary": "Tesla (NASDAQ: TSLA ) has outperformed the market over the past 10 years by 25.14% on an annualized basis producing an average annual return of 38.35%. Currently, Tesla has a market capitalization of $1.46 trillion. Buying $1000 In TSLA: If an investor had bought $1000 of TSLA stock 10 years ago, it would be worth $26,040.58 today based on a price of $389.17 for TSLA at the time of writing.",
+      "_zh_headline": "10 年前投资特斯拉的 1000 美元在今天值多少钱",
+      "_zh_summary": "特斯拉（纳斯达克股票代码：TSLA）过去 10 年的年化表现优于市场 25.14%，平均年回报率为 38.35%。目前，特斯拉市值为1.46万亿美元。购买 1000 美元的 TSLA：如果投资者 10 年前购买了 1000 美元的 TSLA 股票，那么根据撰写本文时 TSLA 的价格为 389.17 美元，该股票今天的价值为 26,040.58 美元。",
+      "_added_at": "2026-07-17T01:05:09.930699+00:00"
+    },
+    {
       "author": "Erica Kollmann",
       "content": "",
       "created_at": "2026-07-16T19:50:15Z",
@@ -701,42 +733,6 @@
       "_summary": "The 2026 premium works out to a 9.7% jump , roughly double the size of the increase retirees absorbed the year before, and the annual deductible rose to $283. For context, inflation ran about 2.7% in 2025, so the Part B premium climbed more than three times faster than the broad cost of living. A single 9.7% jump is not the real problem. The trend behind it is.",
       "_zh_headline": "Medicare B 部分在 2026 年上涨了近 10%：这 18 美元在 20 年内真正让你付出了什么代价",
       "_zh_summary": "2026 年的保费将上涨 9.7%，大约是退休人员前一年吸收的增量的两倍，年度免赔额升至 283 美元。就背景而言，2025 年通货膨胀率约为 2.7%，因此 B 部分保费的上涨速度是总体生活成本的三倍多。 9.7% 的单一跳跃并不是真正的问题。其背后的趋势是。",
-      "_added_at": "2026-07-16T14:33:57.616250+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-16T12:56:46Z",
-      "headline": "What's Going on With Intel Stock Thursday?",
-      "id": 60494614,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "INTC stock fell 3% premarket on TSMC capex worries. Is the rally slowing? Check out Intel&#39;s key technical levels and Q2 earnings outlook.",
-      "symbols": [
-        "IGPT",
-        "INTC",
-        "SMH",
-        "TSM",
-        "XNTK"
-      ],
-      "updated_at": "2026-07-16T12:57:04Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60494614/whats-going-on-with-intel-stock-thursday-6",
-      "_summary": "Investors reacted to Taiwan Semiconductor Manufacturing Company Ltd.’s (NYSE: TSM ) stronger-than-expected capital spending plans, which triggered broad profit-taking across semiconductor stocks. Intel stock has rallied sharply over the past year, making it vulnerable to profit-taking during a risk-off session. The shares have also fallen below their short-term trend levels, which may encourage traders to remain cautious until buying interest returns.",
-      "_zh_headline": "周四英特尔股票怎么样？",
-      "_zh_summary": "投资者对台积电（NYSE：TSM）强于预期的资本支出计划做出反应，引发半导体股票普遍获利了结。英特尔股价在过去一年中大幅上涨，使其在避险交易时段很容易受到获利了结的影响。该股还跌破了短期趋势水平，这可能会鼓励交易者保持谨慎，直到买盘兴趣回归。",
       "_added_at": "2026-07-16T14:33:57.616250+00:00"
     }
   ]
