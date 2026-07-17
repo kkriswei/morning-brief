@@ -2,6 +2,219 @@
   "date": "2026-07-17",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-17T15:42:19Z",
+      "headline": "Chip Stocks Are Having Their Worst Month Since 2008: This Analyst Says Buy the Reset",
+      "id": 60529071,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/AI-chips.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/AI-chips.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/AI-chips.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The iShares Semiconductor ETF is down 18.6% in July, its worst month since 2008. BofA&#39;s Vivek Arya calls it a summer reset, not a reversal.",
+      "symbols": [
+        "AVGO",
+        "CRDO",
+        "KLAC",
+        "LRCX",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-17T15:42:19Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60529071/chip-stocks-worst-month-since-2008-bofa-vivek-arya-bullish",
+      "_summary": "Semiconductors are on track for their deepest monthly drawdown since the global financial crisis, and the loudest bull on Wall Street is refusing to blink. The iShares Semiconductor ETF (NASDAQ: SOXX ) is down 18.6% month-to-date — on pace for its worst month since November 2008, according to Tradingview data. The unwind follows one of the most violent rallies in the sector’s history.",
+      "_zh_headline": "芯片股正经历 2008 年以来最糟糕的一个月：分析师称买入重置股",
+      "_zh_summary": "半导体行业正面临全球金融危机以来最严重的月度跌幅，而华尔街最响亮的牛市却拒绝眨眼。根据 Tradingview 的数据，iShares 半导体 ETF（纳斯达克股票代码：SOXX）本月迄今下跌 18.6%，创 2008 年 11 月以来最糟糕的一个月。此次平仓是在该行业历史上最猛烈的反弹之一之后进行的。",
+      "_added_at": "2026-07-17T15:57:04.657103+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-17T15:27:55Z",
+      "headline": "Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday",
+      "id": 60528502,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Applied-Digital-Corporation.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Applied-Digital-Corporation.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Applied-Digital-Corporation.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Applied Digital (NASDAQ: APLD) stock plummets more than 6% on Friday during a broader growth-tech cooldown, following caution from TV analysts regarding the company&#39;s net losses.",
+      "symbols": [
+        "APLD",
+        "BLOK",
+        "DAPP",
+        "FDIG",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-17T15:27:55Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60528502/jim-cramer-may-like-applied-digital-but-stock-still-plummets-6-on-friday",
+      "_summary": "• Applied Digital stock is showing notable weakness. What’s behind APLD decline? S&P 500 futures are down 0.9%, setting a softer tone for higher-beta tech trades early in the session. The chart is in a clear downtrend on multiple timeframes, with the stock trading 29.6% below its 20-day SMA, 39% below its 50-day SMA, and 24.6% below its 200-day SMA — classic \"below the stack\" behavior that usually keeps rallies capped until price can reclaim key averages.",
+      "_zh_headline": "Jim Cramer 可能喜欢 Applied Digital，但周五股价仍暴跌 6%",
+      "_zh_summary": "• Applied Digital 股票显着疲软。 APLD下降的背后是什么？标准普尔 500 指数期货下跌 0.9%，为盘初高贝塔科技交易奠定了较为温和的基调。该图表在多个时间框架内都处于明显的下降趋势，该股的交易价格比 20 日 SMA 低 29.6%，比 50 日 SMA 低 39%，比 200 日 SMA 低 24.6%——典型的“低于堆栈”行为，通常会限制反弹，直到价格恢复关键均线。",
+      "_added_at": "2026-07-17T15:57:04.657103+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-17T15:21:31Z",
+      "headline": "Microsoft Holds the Key To Understanding Micron",
+      "id": 60528238,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Paris--France---February-20-2026-The-Mic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Paris--France---February-20-2026-The-Mic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Paris--France---February-20-2026-The-Mic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "As investors worry about Micron&#39;s AI-fueled margins, one portfolio manager says Microsoft&#39;s Azure story offers a better framework for understanding what&#39;s next.",
+      "symbols": [
+        "MSFT",
+        "MU"
+      ],
+      "updated_at": "2026-07-17T15:21:31Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60528238/microsoft-holds-the-key-to-understanding-micron",
+      "_summary": "Tengler acknowledged that Micron’s industry-leading margins may not remain at current levels, but argued that margin normalization shouldn’t automatically be viewed as a warning sign. “Am I concerned that margins could go down to 70%?” Tengler asked. “The market will hate it, but this is what happened with Microsoft during the launch and momentum of Azure. There was a time when Azure was growing at 92%, and the stock continued to outperform for a number of years even after growth began decelerating.",
+      "_zh_headline": "微软掌握着了解微米的钥匙",
+      "_zh_summary": "腾格勒承认，美光科技行业领先的利润率可能不会保持在当前水平，但他认为，利润率正常化不应自动被视为一个警告信号。 “我是否担心利润率可能会降至 70%？”腾格勒问道。 “市场会讨厌它，但这就是微软在 Azure 推出和发展势头期间发生的事情。曾经有一段时间，Azure 增长了 92%，即使在增长开始减速之后，该股在几年内仍继续跑赢大盘。",
+      "_added_at": "2026-07-17T15:57:04.657103+00:00"
+    },
+    {
+      "author": "Parshwa Turakhiya",
+      "content": "",
+      "created_at": "2026-07-17T15:12:49Z",
+      "headline": "Tom Lee Says 'People Are Rage Quitting at the Bottom,' Compares Ethereum to Amazon, Nvidia, JPMorgan",
+      "id": 60527869,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Ethereum-Hits-New-Record--Ethereum-And-N.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Ethereum-Hits-New-Record--Ethereum-And-N.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Ethereum-Hits-New-Record--Ethereum-And-N.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tom Lee says Ethereum investors are selling near the bottom as Robinhood Chain, tokenization and AI strengthen ETH demand.",
+      "symbols": [
+        "AMZN",
+        "BLK",
+        "BMNR",
+        "ETHUSD",
+        "HOOD",
+        "JPM",
+        "NVDA",
+        "ONDOUSD"
+      ],
+      "updated_at": "2026-07-17T15:12:49Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60527869/tom-lee-says-people-are-rage-quitting-at-the-bottom-compares-ethereum-to-amazon-nvidia-jpmorgan",
+      "_summary": "Amazon went from $6 to $241 after AWS scaled. Nvidia went from $1 to $197 after ChatGPT arrived. JPMorgan went from $58 to $334 after becoming a truly global bank. Each took years of sideways price action before the addressable market expanded enough to move the stock. Lee said ETH at $1,800 sits in that same window, with Ethereum co-creator Joe Lubin seeing a path to $250,000 as the fully realized version of that thesis.",
+      "_zh_headline": "汤姆·李 (Tom Lee) 表示“人们愤怒地退出底层”，将以太坊与亚马逊、英伟达、摩根大通进行比较",
+      "_zh_summary": "AWS 扩展后，亚马逊的股价从 6 美元涨到 241 美元。 ChatGPT 推出后，Nvidia 的价格从 1 美元涨到了 197 美元。成为真正的全球银行后，摩根大通的股价从 58 美元涨到了 334 美元。在潜在市场扩大到足以推动股票上涨之前，它们都经历了多年的横向价格波动。 Lee 表示 1,800 美元的 ETH 也处于同一窗口，而以太坊联合创始人 Joe Lubin 则看到了通向 250,000 美元的路径，作为该论文的完全实现版本。",
+      "_added_at": "2026-07-17T15:57:04.657103+00:00"
+    },
+    {
+      "author": "Daragh Thomas",
+      "content": "",
+      "created_at": "2026-07-17T15:03:27Z",
+      "headline": "Tesla's European Comeback in Trouble by Chinese EV Flood Into the UK",
+      "id": 60527386,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Indianapolis---May-19--2024-Tesla-Ev-Ele.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Indianapolis---May-19--2024-Tesla-Ev-Ele.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Indianapolis---May-19--2024-Tesla-Ev-Ele.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Chinese EV brands took a record 16.5% of the UK market in June. Traders now price a coin flip on Tesla&#39;s next big delivery milestone ahead of earnings.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-17T15:03:27Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60527386/teslas-european-comeback-in-trouble-by-chinese-ev-flood-into-the-uk",
+      "_summary": "Geely , a Hangzhou-based automaker founded in 1997, reportedly surpassed 1,000 UK registrations in a single month, according to a CNBC report from one of its dealerships in Maidstone, and expects to double that figure within months. The brand only launched in Britain last October and has appointed close to 80 retail sites. Customers interviewed by CNBC said the appeal wasn’t just the price tag but how much car it buys.",
+      "_zh_headline": "中国电动汽车涌入英国，特斯拉欧洲复兴之路陷入困境",
+      "_zh_summary": "据 CNBC 报道，成立于 1997 年的杭州汽车制造商吉利汽车在英国的注册量在一个月内就超过了 1,000 辆，并预计在几个月内将这一数字翻一番。该品牌去年 10 月才在英国推出，并已指定近 80 个零售点。接受 CNBC 采访的顾客表示，吸引力不仅仅在于价格标签，还在于购买的汽车数量。",
+      "_added_at": "2026-07-17T15:57:04.657103+00:00"
+    },
+    {
+      "author": "Shomik Sen Bhattacharjee",
+      "content": "",
+      "created_at": "2026-07-17T15:01:19Z",
+      "headline": "Dan Ives Warns SpaceX’s 'Valuation Support is Not There' Yet As Stock Struggles, But Claims Musk's Rocket Firm Will Be Central to the 'Fourth Industrial Revolution'",
+      "id": 60527257,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/June-2026--Space-X-Shares-Page-On-A-Stoc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Dan Ives sees SpaceX as vital AI and data infrastructure company, urges patience. Predicts Musk&#39;s 80% chance of acquiring Tesla.",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-17T15:01:19Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60527257/dan-ives-warns-spacexs-valuation-support-is-not-there-yet-as-stock-struggles-but-claims-musks-rocket-firm-will-be-central-to-the-fourth-industrial-revolution",
+      "_summary": "Ives, who left Wedbush this month to launch an investment-banking venture, acknowledged that \"the valuation support is not there.\" Still, he said investors are asking what SpaceX could become over \"the next 2, three, four, five years.\" \"And it’s hard to say fourth industrial revolution without SpaceX,\" Ives said. He also compared the company’s execution challenge to those of other prominent technology listings.",
+      "_zh_headline": "丹·艾夫斯警告说，由于股价低迷，SpaceX 的“估值支持还不存在”，但他声称马斯克的火箭公司将成为“第四次工业革命”的核心",
+      "_zh_summary": "艾夫斯本月离开韦德布什，创办了一家投资银行企业，他承认“估值支持不存在”。不过，他表示投资者仍在询问 SpaceX 在“未来 2 年、3 年、4 年、5 年”内会变成什么样子。艾夫斯说：“如果没有 SpaceX，就很难说第四次工业革命会发生。”他还将该公司的执行挑战与其他著名科技上市公司的执行挑战进行了比较。",
+      "_added_at": "2026-07-17T15:57:04.657103+00:00"
+    },
+    {
       "author": "David M. Jackson",
       "content": "",
       "created_at": "2026-07-17T12:30:20Z",
@@ -504,215 +717,6 @@
       "_zh_headline": "财报季开始之际，罗斯·格伯 (Ross Gerber) 猛烈抨击“泡沫言论”：“人工智能并非时尚”且“估值相当不错”",
       "_zh_summary": "周四，投资公司格柏川崎 (Gerber Kawasaki) 的罗斯·格柏 (Ross Gerber) 告诉投资者，不要忽视最近的科技股抛售，他消除了对人工智能泡沫的担忧，称该行业仍然是一个长期机会。格伯在 X 上发表的一篇文章中表示，就在财报季节开始之际，股票正处于“卖出模式”，投资者在最近的回调后对估值提出了怀疑。格伯驳斥了有关疲软反映人工智能泡沫的担忧，称尽管对该行业的怀疑与日俱增，但“没有泡沫言论”。",
       "_added_at": "2026-07-17T07:33:20.301861+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-17T07:04:06Z",
-      "headline": "Xi Jinping Rejects AI 'Solo Performance' by One Country as China's Kimi K3 Lands to Challenge OpenAI, Anthropic",
-      "id": 60516823,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hangzhou--China---Sept--4--2016---Chines.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hangzhou--China---Sept--4--2016---Chines.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hangzhou--China---Sept--4--2016---Chines.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Xi Jinping calls for global AI cooperation at WAIC 2026, pledging support for developing nations and responsible AI growth.",
-      "symbols": [
-        "AMD",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-17T07:04:06Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60516823/xi-jinping-rejects-ai-solo-performance-by-one-country-as-chinas-kimi-k3-lands-to-challenge-openai-anthropic",
-      "_summary": "Chinese President Xi Jinping spoke at the 2026 World Artificial Intelligence Conference (WAIC) on Friday, highlighting the need for international cooperation in AI development. Xi voiced China’s readiness to pursue greater openness and practical action in AI development. He stressed the importance of international cooperation, stating that AI development should not be a “solo performance” by a single country, but a “symphony of global collaboration,” the South China Morning Post reported.",
-      "_zh_headline": "习近平拒绝一国人工智能“独奏”，中国Kimi K3登陆挑战OpenAI、Anthropic",
-      "_zh_summary": "中国国家主席习近平周五在 2026 年世界人工智能大会 (WAIC) 上发表讲话，强调人工智能开发领域国际合作的必要性。习近平表示，中国愿在人工智能发展方面采取更加开放的态度和实际行动。据《南华早报》报道，他强调了国际合作的重要性，并表示人工智能发展不应是单个国家的“独奏”，而应是“全球合作的交响乐”。",
-      "_added_at": "2026-07-17T07:33:20.301861+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-07-17T06:51:40Z",
-      "headline": "Sundar Pichai Says 'Great' to see Intel Using Gemini Enterprise as Chipmaker Expands Google Cloud Partnership for AI-Powered Chip Design",
-      "id": 60516795,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Sundar-Pichai--Ceo-Of-Google--Speaking-A.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Sundar-Pichai--Ceo-Of-Google--Speaking-A.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Sundar-Pichai--Ceo-Of-Google--Speaking-A.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Alphabet CEO Sundar Pichai praised Intel&#39;s Gemini Enterprise rollout as the chipmaker expanded its Google Cloud AI partnership.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "INTC"
-      ],
-      "updated_at": "2026-07-17T06:51:40Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60516795/intel-google-cloud-gemini-enterprise-chip-design-partnership",
-      "_summary": "Reacting to the announcement on X , Alphabet CEO Sundar Pichai wrote, “Great to see @Intel using Gemini Enterprise across its business, including to speed up the development of next-gen semiconductors!” Under the expanded agreement, Intel will deploy Gemini Enterprise as a centralized AI platform for employees, enabling teams to build and use AI agents for coding, engineering automation and other business workflows.",
-      "_zh_headline": "Sundar Pichai 表示“很高兴”看到英特尔使用 Gemini Enterprise 作为芯片制造商扩大谷歌云合作伙伴关系以实现人工智能驱动的芯片设计",
-      "_zh_summary": "Alphabet 首席执行官 Sundar Pichai 在回应 X 上的公告时写道：“很高兴看到 @Intel 在其业务中使用 Gemini Enterprise，包括加快下一代半导体的开发！”根据扩展协议，英特尔将部署 Gemini Enterprise 作为员工的集中式人工智能平台，使团队能够构建和使用人工智能代理进行编码、工程自动化和其他业务工作流程。",
-      "_added_at": "2026-07-17T07:33:20.301861+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-07-17T01:22:33Z",
-      "headline": "Netflix, SpaceX, Alphabet, Alcoa and Intuitive Surgical: Why These 5 Stocks Are on Investors' Radars Today",
-      "id": 60515846,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Stock-Market-Sell-off-During-Market-Cras.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Stock-Market-Sell-off-During-Market-Cras.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Stock-Market-Sell-off-During-Market-Cras.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "NFLX, SPCX, GOOG, AA, ISRG were among the trending stocks on Thursday, July 16, 2026.",
-      "symbols": [
-        "AA",
-        "GOOG",
-        "ISRG",
-        "NFLX",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-17T01:22:33Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60515846/netflix-spacex-alphabet-alcoa-intuitive-surgical-stocks-to-watch",
-      "_summary": "Major U.S. indices ended Thursday in the red, with the Dow Jones Industrial Average slipping 0.2% to 52,552.97. The S&P 500 declined 0.51% to 7,533.77, while the Nasdaq dropped 1.47% to 25,881.95. Across U.S. equity markets, trading was mixed beneath the surface at midday, with gains in defensive and value stocks offsetting weakness in chipmakers and speculative technology shares, prompting a rotation into smaller-cap stocks.",
-      "_zh_headline": "Netflix、SpaceX、Alphabet、Alcoa 和 Intuitive Surgical：为什么这 5 只股票今天受到投资者关注",
-      "_zh_summary": "美国主要股指周四收跌，道琼斯工业平均指数下跌 0.2%，至 52,552.97 点。标准普尔 500 指数下跌 0.51%，至 7,533.77 点；纳斯达克指数下跌 1.47%，至 25,881.95 点。整个美国股市午盘交易涨跌互现，防御性股票和价值型股票的上涨抵消了芯片制造商和投机性科技股的疲软，促使资金转向小盘股。",
-      "_added_at": "2026-07-17T04:43:40.378483+00:00"
-    },
-    {
-      "author": "Aniket Verma",
-      "content": "",
-      "created_at": "2026-07-17T03:44:54Z",
-      "headline": "SpaceX Stock to Close Higher by July End? Probability on Crypto Prediction Market Falls From 61% to 32%",
-      "id": 60516091,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hawthorne-la-County--California--Novembe.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hawthorne-la-County--California--Novembe.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hawthorne-la-County--California--Novembe.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Cryptocurrency bettors are increasingly expecting Space Exploration Technologies Corp. to close lower by the end of July, as the stock continues to trade below its IPO price amid renewed selling pressure.",
-      "symbols": [
-        "BTCUSD",
-        "SPCX",
-        "ZECUSD"
-      ],
-      "updated_at": "2026-07-17T03:44:54Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60516091/spacex-stock-july-prediction-market-odds-fall",
-      "_summary": "Cryptocurrency bettors are increasingly expecting Space Exploration Technologies Corp. (NASDAQ: SPCX ) to close lower by the end of July, as the stock continues to trade below its IPO price amid renewed selling pressure. The probability of SPCX closing higher has dropped sharply from 61% last week to 32% at the time of writing. Note that SPCX finished at $170.86 on June 30. For an “Up” resolution, the stock must equal or beat $170.86 by the market close on July 31.",
-      "_zh_headline": "SpaceX 股价将在 7 月底收高？加密货币预测市场的概率从 61% 下降至 32%",
-      "_zh_summary": "加密货币押注者越来越多地预计 Space Exploration Technologies Corp.（纳斯达克股票代码：SPCX）将在 7 月底收盘走低，因为该股在新的抛售压力下继续低于其 IPO 价格。 SPCX 收高的概率已从上周的 61% 大幅下降至撰写本文时的 32%。请注意，SPCX 6 月 30 日收盘价为 170.86 美元。对于“上涨”决议，该股票必须在 7 月 31 日收盘时等于或高于 170.86 美元。",
-      "_added_at": "2026-07-17T04:43:40.378483+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-16T19:57:55Z",
-      "headline": "SanDisk's 40% Drop From Peak: Value Trap or Once-in-a-Generation Buy?",
-      "id": 60512339,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SanDisk trades at 7.9x forward earnings after a 40% drop. History says memory stocks look cheapest right before earnings break.",
-      "symbols": [
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-16T19:57:55Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60512339/sandisk-sndk-40-percent-drop-value-trap-or-opportunity",
-      "_summary": "Two investors can look at the same number — 7.9 times earnings — and reach opposite conclusions. One sees the cheapest SanDisk Corp. (NASDAQ: SNDK ) has ever been. The other sees the oldest trap in semiconductors. As of Thursday, July 16, SanDisk sits 39.1% below the record of $2,351.37 it set in late June, and its forward price-to-earnings ratio — the share price divided by what analysts expect the company to earn over the next twelve months, a rough measure of how expensive a stock is — has fallen to 7.9x.",
-      "_zh_headline": "SanDisk 股价较峰值下跌 40%：价值陷阱还是千载难逢的买入机会？",
-      "_zh_summary": "两个投资者可以看到相同的数字（市盈率 7.9 倍）并得出相反的结论。人们看到了闪迪公司（纳斯达克股票代码：SNDK）有史以来最便宜的价格。另一个看到了半导体中最古老的陷阱。截至 7 月 16 日星期四，SanDisk 的股价比 6 月底创下的 2,351.37 美元的纪录低了 39.1%，其预期市盈率（股价除以分析师预计该公司未来 12 个月的盈利，粗略衡量股票价格的指标）已降至 7.9 倍。",
-      "_added_at": "2026-07-17T04:43:40.378483+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-07-16T20:20:44Z",
-      "headline": "X-Energy Stock: Nuclear Company Becomes Cathie Wood’s New Favorite Position",
-      "id": 60513398,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Other-Key-Trades.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Other-Key-Trades.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/16/Other-Key-Trades.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Cathie Wood has been scooping up shares of this nuclear company in recent days.",
-      "symbols": [
-        "AMZN",
-        "ARKK",
-        "ARKQ",
-        "ARKX",
-        "ARX",
-        "BWXT",
-        "OKLO",
-        "XE"
-      ],
-      "updated_at": "2026-07-16T20:20:45Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60513398/x-energy-stock-nuclear-company-becomes-cathie-woods-new-favorite-position",
-      "_summary": "Ark Invest, led by Cathie Wood , has been building big positions in a new IPO across three ETFs. While Ark Invest is buying shares of the recent IPO SpaceX , this is another name with purchasing dating back to April 2026. The stock opened for trading at $30.11 and closed at $29.20. Not counting the recent weekend (July 11, July 12), Ark Invest has added XE stock to three ETFs in four straight trading sessions.",
-      "_zh_headline": "X-Energy 股票：核能公司成为 Cathie Wood 的新宠",
-      "_zh_summary": "由 Cathie Wood 领导的 Ark Invest 一直在三只 ETF 的新 IPO 中建立大量头寸。虽然 Ark Invest 正在购买最近 IPO 的 SpaceX 的股票，但这是另一个名字，购买时间可以追溯到 2026 年 4 月。该股开盘价为 30.11 美元，收盘价为 29.20 美元。不算最近的周末（7月11日、7月12日），Ark Invest已连续四个交易日将XE股票添加到三只ETF中。",
-      "_added_at": "2026-07-17T04:43:40.378483+00:00"
     }
   ]
 }
