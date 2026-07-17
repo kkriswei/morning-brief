@@ -2,6 +2,152 @@
   "date": "2026-07-17",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-17T07:10:30Z",
+      "headline": "Nasdaq Tumbles 1.5% Amid Selloff In Chip Stocks: Investor Sentiment Weakens, Greed Index Moves To ‘Fear’ Zone",
+      "id": 60516921,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Market sentiment declined as stocks fell, with tech stocks leading the way. UnitedHealth Group and Abbott Laboratories reported strong earnings.",
+      "symbols": [
+        "ABT",
+        "AMD",
+        "FITB",
+        "MU",
+        "TFC",
+        "TRV",
+        "UNH"
+      ],
+      "updated_at": "2026-07-17T07:10:30Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60516921/nasdaq-tumbles-1-5-amid-selloff-in-chip-stocks-investor-sentiment-weakens-greed-index-moves-to-fear-zone",
+      "_summary": "The CNN Money Fear and Greed index showed a decline in the overall market sentiment, while the index moved to the “Fear” zone on Thursday. U.S. stocks settled lower on Thursday, with the Nasdaq Composite falling around 1.5% during the session amid a sell-off in tech stocks. On the economic data front, U.S. retail sales increased 0.2% month-over-month in June, compared to a revised 1% gain in May and in line with market estimates. U.S.",
+      "_zh_headline": "芯片股遭抛售纳斯达克暴跌1.5%：投资者情绪走弱，贪婪指数移至“恐惧”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪下降，该指数周四移至“恐惧”区域。美国股市周四收低，纳斯达克综合指数因科技股遭抛售而下跌约 1.5%。经济数据方面，美国 6 月份零售额环比增长 0.2%，而 5 月份修正后的增幅为 1%，符合市场预期。我们。",
+      "_added_at": "2026-07-17T07:33:20.301861+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-17T04:56:10Z",
+      "headline": "Ross Gerber Slams 'Bubble Talk' as Earnings Season Begins: 'AI Is No Fad' and 'Valuations Are Quite Nice'",
+      "id": 60516221,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Businessman-Holding-Hologram-Ai-Chat-Sys.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Businessman-Holding-Hologram-Ai-Chat-Sys.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Businessman-Holding-Hologram-Ai-Chat-Sys.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Ross Gerber urged investors to look past the tech selloff, dismissing AI bubble fears and calling the sector a long-term opportunity.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "ORCL",
+        "TSLA",
+        "TSM"
+      ],
+      "updated_at": "2026-07-17T04:56:10Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516221/ross-gerber-says-ai-is-no-fad-as-tech-selloff-deepens",
+      "_summary": "Ross Gerber of investment firm Gerber Kawasaki told investors to look past the recent technology selloff on Thursday, dismissing fears of an AI bubble, saying the sector remained a long-term opportunity. In a post on X, Gerber said stocks were in “sell mode” just as earnings season got underway, with investors raising doubts about valuations after the recent pullback. Gerber dismissed concerns that the weakness reflected an AI bubble, saying there was “no bubble talk” despite growing skepticism around the sector.",
+      "_zh_headline": "财报季开始之际，罗斯·格伯 (Ross Gerber) 猛烈抨击“泡沫言论”：“人工智能并非时尚”且“估值相当不错”",
+      "_zh_summary": "周四，投资公司格柏川崎 (Gerber Kawasaki) 的罗斯·格柏 (Ross Gerber) 告诉投资者，不要忽视最近的科技股抛售，他消除了对人工智能泡沫的担忧，称该行业仍然是一个长期机会。格伯在 X 上发表的一篇文章中表示，就在财报季节开始之际，股票正处于“卖出模式”，投资者在最近的回调后对估值提出了怀疑。格伯驳斥了有关疲软反映人工智能泡沫的担忧，称尽管对该行业的怀疑与日俱增，但“没有泡沫言论”。",
+      "_added_at": "2026-07-17T07:33:20.301861+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-17T07:04:06Z",
+      "headline": "Xi Jinping Rejects AI 'Solo Performance' by One Country as China's Kimi K3 Lands to Challenge OpenAI, Anthropic",
+      "id": 60516823,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hangzhou--China---Sept--4--2016---Chines.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hangzhou--China---Sept--4--2016---Chines.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Hangzhou--China---Sept--4--2016---Chines.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Xi Jinping calls for global AI cooperation at WAIC 2026, pledging support for developing nations and responsible AI growth.",
+      "symbols": [
+        "AMD",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-17T07:04:06Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516823/xi-jinping-rejects-ai-solo-performance-by-one-country-as-chinas-kimi-k3-lands-to-challenge-openai-anthropic",
+      "_summary": "Chinese President Xi Jinping spoke at the 2026 World Artificial Intelligence Conference (WAIC) on Friday, highlighting the need for international cooperation in AI development. Xi voiced China’s readiness to pursue greater openness and practical action in AI development. He stressed the importance of international cooperation, stating that AI development should not be a “solo performance” by a single country, but a “symphony of global collaboration,” the South China Morning Post reported.",
+      "_zh_headline": "习近平拒绝一国人工智能“独奏”，中国Kimi K3登陆挑战OpenAI、Anthropic",
+      "_zh_summary": "中国国家主席习近平周五在 2026 年世界人工智能大会 (WAIC) 上发表讲话，强调人工智能开发领域国际合作的必要性。习近平表示，中国愿在人工智能发展方面采取更加开放的态度和实际行动。据《南华早报》报道，他强调了国际合作的重要性，并表示人工智能发展不应是单个国家的“独奏”，而应是“全球合作的交响乐”。",
+      "_added_at": "2026-07-17T07:33:20.301861+00:00"
+    },
+    {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-17T06:51:40Z",
+      "headline": "Sundar Pichai Says 'Great' to see Intel Using Gemini Enterprise as Chipmaker Expands Google Cloud Partnership for AI-Powered Chip Design",
+      "id": 60516795,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Sundar-Pichai--Ceo-Of-Google--Speaking-A.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Sundar-Pichai--Ceo-Of-Google--Speaking-A.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Sundar-Pichai--Ceo-Of-Google--Speaking-A.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Alphabet CEO Sundar Pichai praised Intel&#39;s Gemini Enterprise rollout as the chipmaker expanded its Google Cloud AI partnership.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "INTC"
+      ],
+      "updated_at": "2026-07-17T06:51:40Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516795/intel-google-cloud-gemini-enterprise-chip-design-partnership",
+      "_summary": "Reacting to the announcement on X , Alphabet CEO Sundar Pichai wrote, “Great to see @Intel using Gemini Enterprise across its business, including to speed up the development of next-gen semiconductors!” Under the expanded agreement, Intel will deploy Gemini Enterprise as a centralized AI platform for employees, enabling teams to build and use AI agents for coding, engineering automation and other business workflows.",
+      "_zh_headline": "Sundar Pichai 表示“很高兴”看到英特尔使用 Gemini Enterprise 作为芯片制造商扩大谷歌云合作伙伴关系以实现人工智能驱动的芯片设计",
+      "_zh_summary": "Alphabet 首席执行官 Sundar Pichai 在回应 X 上的公告时写道：“很高兴看到 @Intel 在其业务中使用 Gemini Enterprise，包括加快下一代半导体的开发！”根据扩展协议，英特尔将部署 Gemini Enterprise 作为员工的集中式人工智能平台，使团队能够构建和使用人工智能代理进行编码、工程自动化和其他业务工作流程。",
+      "_added_at": "2026-07-17T07:33:20.301861+00:00"
+    },
+    {
       "author": "Shivdeep Dhaliwal",
       "content": "",
       "created_at": "2026-07-17T01:22:33Z",
