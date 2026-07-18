@@ -2,6 +2,41 @@
   "date": "2026-07-18",
   "articles": [
     {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-18T04:04:00Z",
+      "headline": "Meta Reportedly Negotiating $10 Billion AI Compute Deal With Anthropic",
+      "id": 60540514,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/This-Illustrates-Digital-Connectivity-Wi.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/This-Illustrates-Digital-Connectivity-Wi.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/This-Illustrates-Digital-Connectivity-Wi.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Meta is reportedly negotiating a $10 billion deal to provide Anthropic with AI data center capacity over two years.",
+      "symbols": [
+        "CRWV",
+        "META",
+        "NBIS",
+        "SPCX"
+      ],
+      "updated_at": "2026-07-18T04:04:00Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60540514/meta-reportedly-negotiating-10-billion-ai-compute-deal-with-anthropic",
+      "_summary": "Meta Platforms (NASDAQ: META ) is reportedly negotiating a deal to rent AI data center capacity to Anthropic worth up to $10 billion over two years. Anthropic pitched the arrangement in June, and both sides could exit early, with terms remaining fluid, The New York Times reported on Friday, citing sources familiar with the discussions. Meta and Anthropic did not immediately respond to Benzinga ‘s request for comment.",
+      "_zh_headline": "据报道，Meta 正在与 Anthropic 就 100 亿美元的人工智能计算交易进行谈判",
+      "_zh_summary": "据报道，Meta Platforms（纳斯达克股票代码：META）正在就一项在两年内向 Anthropic 出租人工智能数据中心容量的协议进行谈判，价值高达 100 亿美元。 《纽约时报》周五援引熟悉讨论情况的消息人士的话报道称，Anthropic 于 6 月提出了这一安排，双方可能会提前退出，且条款仍不稳定。 Meta 和 Anthropic 没有立即回应 Benzinga 的置评请求。",
+      "_added_at": "2026-07-18T06:30:13.389363+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-17T17:46:30Z",
