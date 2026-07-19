@@ -2,6 +2,38 @@
   "date": "2026-07-19",
   "articles": [
     {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-19T11:01:21Z",
+      "headline": "Trade Secrets Fight With OpenAI, China's Regulatory Nod and More: This Week in Appleverse",
+      "id": 60542630,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Bangkok--Thailand---October-22--2023---A.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Bangkok--Thailand---October-22--2023---A.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Bangkok--Thailand---October-22--2023---A.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple faced legal battles, advanced AI efforts, gained China approval and saw renewed investor interest during a busy week.",
+      "symbols": [
+        "AAPL"
+      ],
+      "updated_at": "2026-07-19T11:01:21Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60542630/trade-secrets-fight-with-openai-chinas-regulatory-nod-and-more-this-week-in-appleverse",
+      "_summary": "It’s been an eventful week for Apple Inc. (NASDAQ: AAPL ) , with the tech giant making headlines for its ongoing legal battle, regulatory approval in China, and a stock rally. Here’s a round-up of the top stories about Apple from the past week: Apple has escalated its legal dispute with OpenAI , targeting former employees in the process. The company has sent letters to these employees, instructing them to preserve any documents or communications relevant to the case.",
+      "_zh_headline": "商业秘密与 OpenAI、中国监管点头等的斗争：本周 Appleverse",
+      "_zh_summary": "对于苹果公司（纳斯达克股票代码：AAPL）来说，这是多事的一周，这家科技巨头因其持续的法律诉讼、中国监管部门的批准以及股价上涨而成为头条新闻。以下是过去一周有关苹果的头条新闻的摘要：苹果已经升级了与 OpenAI 的法律纠纷，在此过程中针对前员工。该公司已致函这些员工，指示他们保留与案件相关的任何文件或通讯。",
+      "_added_at": "2026-07-19T11:37:03.550580+00:00"
+    },
+    {
       "author": "Snigdha Gairola",
       "content": "",
       "created_at": "2026-07-19T08:10:46Z",
