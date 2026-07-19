@@ -2,6 +2,40 @@
   "date": "2026-07-19",
   "articles": [
     {
+      "author": "Snigdha Gairola",
+      "content": "",
+      "created_at": "2026-07-19T08:10:46Z",
+      "headline": "Chamath Palihapitiya Warns AI Restrictions Could Leave America at an Economic and Security Disadvantage: 'The Future Is Open Source'",
+      "id": 60542500,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Chamath-Palihapitiya.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Chamath-Palihapitiya.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Chamath-Palihapitiya.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Chamath Palihapitiya warned that restricting open-source AI could hurt U.S. competitiveness, raising economic and military concerns.",
+      "symbols": [
+        "MSFT",
+        "NVDA",
+        "PLTR"
+      ],
+      "updated_at": "2026-07-19T08:10:46Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60542500/chamath-palihapitiya-warns-ai-restrictions-could-leave-america-at-an-economic-and-security-disadvantage-the-future-is-open-source",
+      "_summary": "Venture capitalist Chamath Palihapitiya warned that limiting access to open-source artificial intelligence (AI) could weaken U.S. economic competitiveness and create strategic risks as AI becomes central to future industries and national security. On Saturday, Palihapitiya argued in a post on X that open-source AI is essential for maintaining America’s technological advantage and should not be restricted. \"The future is open source. We need to embrace it and get on with it,\" Palihapitiya wrote.",
+      "_zh_headline": "Chamath Palihapitiya 警告人工智能限制可能使美国陷入经济和安全劣势：“未来是开源的”",
+      "_zh_summary": "风险投资家查马斯·帕里哈皮蒂亚 (Chamath Palihapitiya) 警告称，随着人工智能成为未来产业和国家安全的核心，限制对开源人工智能 (AI) 的访问可能会削弱美国的经济竞争力，并带来战略风险。周六，Palihapitiya 在 X 上发帖表示，开源人工智能对于维持美国的技术优势至关重要，不应受到限制。 “未来是开源的。我们需要拥抱它并继续努力，”帕里哈皮蒂亚写道。",
+      "_added_at": "2026-07-19T10:08:01.400723+00:00"
+    },
+    {
       "author": "Mohd Haider",
       "content": "",
       "created_at": "2026-07-19T06:34:37Z",
