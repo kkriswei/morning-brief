@@ -1,41 +1,35 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "articles": [
     {
       "author": "Crispus Nyaga",
       "content": "",
-      "created_at": "2026-07-18T21:56:23Z",
-      "headline": "DRAM ETF Inflows Jump Despite Micron, Sandisk, Seagate Slump",
-      "id": 60542168,
+      "created_at": "2026-07-18T16:04:27Z",
+      "headline": "Crude Oil Perpetual Futures Jump: Technicals Points to More Gains as US-Iran War Escalates",
+      "id": 60541185,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "DRAM ETF inflows are rising despite the ongoing weakness in Micron, Sandisk, Seagate, and Kioxia stock plunge",
-      "symbols": [
-        "DRAM",
-        "MU",
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-07-18T21:56:23Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60542168/dram-etf-inflows-jump-despite-micron-sandisk-seagate-slump",
-      "_summary": "The Roundhill Memory ETF (CBOE: DRAM) has slumped and moved into a technical bear market as concerns about the memory industry continued. It ended the week at $52.7, down by over 35% from its highest point in June. Americans are still buying the ETF despite the ongoing volatility in the industry. Data shows the fund has had net inflows of over $10 billion in the last 30 days and $2.5 billion in the last five. The fund has had over $23 billion in assets in the last three months.",
-      "_zh_headline": "尽管美光、Sandisk、希捷低迷，但 DRAM ETF 流入量仍大幅增加",
-      "_zh_summary": "由于对内存行业的担忧持续存在，Roundhill Memory ETF（CBOE：DRAM）暴跌并进入技术熊市。本周收于 52.7 美元，较 6 月份最高点下跌超过 35%。尽管该行业持续波动，美国人仍在购买 ETF。数据显示，该基金过去30天净流入超过100亿美元，过去5天净流入25亿美元。该基金在过去三个月内拥有超过 230 亿美元的资产。",
-      "_added_at": "2026-07-18T22:25:09.327625+00:00"
+      "summary": "Crude oil perpetual futures technicals points to further gains as US and Iran war escalates and Strait of Hormuz Traffic falls",
+      "symbols": [],
+      "updated_at": "2026-07-18T16:04:27Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/07/60541185/crude-oil-perpetual-futures-jump-technicals-points-to-more-gains-as-us-iran-war-escalates",
+      "_summary": "Perpetual futures linked to crude oil jumped on Hyperliquid amid fears that the US-Iran war will escalate in the near term. West Texas Intermediate (WTI) soared to $82.2, with the 24-hour volume hitting $157 million. Brent futures soared to $87, up by 25% from its lowest point in June. Energy prices are trending higher following reports that the United States and Iran are escalating their attacks. The US carried out another round of strikes on key Iranian targets, including a desalination plant and several bridges. President Trump has also warned that the US will target bridges and power plants next week. According to Axios, the administration has also deployed additional aerial refueling aircraft to Israel. The implications of all this is that traffic through the Strait of Hormuz has waned in the past few days. Data shows that only 10 ships crossed the Strait in the last 24 hours, with 444 others waiting. Oil companies are afraid of coming under Iranian attacks.",
+      "_zh_headline": "原油永续期货上涨：随着美伊战争升级，技术面将带来更多收益",
+      "_zh_summary": "由于担心美伊战争将在短期内升级，与原油挂钩的永续期货在 Hyperliquid 上上涨。西德克萨斯中质原油（WTI）飙升至82.2美元，24小时成交量达到1.57亿美元。布伦特原油期货飙升至 87 美元，较 6 月份的最低点上涨 25%。有报道称美国和伊朗升级袭击后，能源价格呈走高趋势。美国对伊朗主要目标进行了另一轮袭击，包括一座海水淡化厂和几座桥梁。特朗普总统还警告称，美国下周将瞄准桥梁和发电厂。据 Axios 报道，政府还向以色列部署了更多空中加油机。所有这一切的影响是，过去几天通过霍尔木兹海峡的交通量有所减少。数据显示，过去24小时内只有10艘船只穿越海峡，另有444艘船只在等待。石油公司害怕受到伊朗的攻击。",
+      "_added_at": "2026-07-19T04:51:03.924221+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -71,7 +65,7 @@
       "_summary": "The stock market has come under pressure this month, with major indices such as the Nasdaq 100 and the S&P 500 falling more than 5% from their all-time highs. This volatility is likely to persist in the coming week as several of the market’s biggest companies report earnings. The company delivered 480,000 vehicles after making 450,0000 during the quarter. Still, the company faces some major challenges ahead. Competition, especially from Chinese EV companies, is rising.",
       "_zh_headline": "下周最值得关注的标准普尔 500 指数股票：特斯拉、谷歌、英特尔、GE Vernova",
       "_zh_summary": "本月股市承压，纳斯达克100和标准普尔500等主要指数较历史高点下跌超过5%。随着市场上几家最大的公司公布收益，这种波动可能会在未来一周持续存在。该公司本季度交付了 450,000 辆汽车，之后交付了 480,000 辆汽车。尽管如此，该公司仍面临一些重大挑战。竞争，尤其是来自中国电动汽车公司的竞争正在加剧。",
-      "_added_at": "2026-07-18T21:25:39.443403+00:00"
+      "_added_at": "2026-07-19T04:51:03.924221+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -104,8 +98,8 @@
       "url": "https://www.benzinga.com/markets/equities/26/07/60542098/earnings-season-is-booming-so-why-are-sp-500-and-nasdaq-100-falling",
       "_summary": "The earnings season, which began earlier this week, is off to a strong start, with most companies reporting solid results and raising their guidance. At the same time, expectations for a Federal Reserve interest rate hike have eased after the United States released encouraging consumer and producer inflation data. So why are the Dow Jones, S&P 500 and Nasdaq 100 indices still falling? The earnings season has started well, with a FactSet (NYSE: FDS ) report showing that the average earnings growth was 24.7%.",
       "_zh_headline": "财报季蓬勃发展，为何标普 500 指数和纳斯达克 100 指数下跌？",
-      "_zh_summary": "本周早些时候开始的财报季开局良好，大多数公司报告了稳健的业绩并提高了指导。与此同时，在美国公布令人鼓舞的消费者和生产者通胀数据后，美联储加息的预期有所缓解。那么为什么道琼斯指数、标准普尔 500 指数和纳斯达克 100 指数仍在下跌呢？财报季开局良好，FactSet（纽约证券交易所股票代码：FDS）报告显示，平均盈利增长率为 24.7%。",
-      "_added_at": "2026-07-18T21:25:39.443403+00:00"
+      "_zh_summary": "本周早些时候开始的财报季开局良好，大多数公司报告了稳健的业绩并提高了指引。与此同时，在美国公布令人鼓舞的消费者和生产者通胀数据后，美联储加息的预期有所缓解。那么为什么道琼斯指数、标准普尔 500 指数和纳斯达克 100 指数仍在下跌呢？财报季开局良好，FactSet（纽约证券交易所股票代码：FDS）报告显示，平均盈利增长率为 24.7%。",
+      "_added_at": "2026-07-19T04:51:03.924221+00:00"
     },
     {
       "author": "Crispus Nyaga",
@@ -143,126 +137,43 @@
       "_summary": "Cathie Wood ’s flagship fund is bleeding assets as its underperformance against benchmark US indices like the Russell 2000, S&P 500 and Nasdaq 100 continues. The ARK Innovation ETF (CBOE: ARKK) has had a net outflow of $7 billion in the last 30 days, with its assets under management falling to $6.3 billion. At its peak in 2021, the fund had close to $30 billion in assets under management.",
       "_zh_headline": "由于投资者失去耐心，Cathie Wood 的 ARK Innovation ETF 资产大量流失",
       "_zh_summary": "Cathie Wood 的旗舰基金正在流失资产，因为其相对于罗素 2000 指数、标准普尔 500 指数和纳斯达克 100 指数等美国基准指数的表现持续不佳。 ARK Innovation ETF（CBOE：ARKK）过去30天内净流出70亿美元，其管理资产降至63亿美元。在 2021 年的巅峰时期，该基金管理的资产接近 300 亿美元。",
-      "_added_at": "2026-07-18T21:25:39.443403+00:00"
+      "_added_at": "2026-07-19T04:51:03.924221+00:00"
     },
     {
       "author": "Crispus Nyaga",
       "content": "",
-      "created_at": "2026-07-18T16:04:27Z",
-      "headline": "Crude Oil Perpetual Futures Jump: Technicals Points to More Gains as US-Iran War Escalates",
-      "id": 60541185,
+      "created_at": "2026-07-18T21:56:23Z",
+      "headline": "DRAM ETF Inflows Jump Despite Micron, Sandisk, Seagate Slump",
+      "id": 60542168,
       "images": [
         {
           "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Micron-Headquarters-In-Silicon-Valley.jpg?width=2048&height=1536"
         },
         {
           "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=1024&height=768"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Micron-Headquarters-In-Silicon-Valley.jpg?width=1024&height=768"
         },
         {
           "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=250&height=187"
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Micron-Headquarters-In-Silicon-Valley.jpg?width=250&height=187"
         }
       ],
       "source": "benzinga",
-      "summary": "Crude oil perpetual futures technicals points to further gains as US and Iran war escalates and Strait of Hormuz Traffic falls",
-      "symbols": [],
-      "updated_at": "2026-07-18T16:04:27Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60541185/crude-oil-perpetual-futures-jump-technicals-points-to-more-gains-as-us-iran-war-escalates",
-      "_summary": "Perpetual futures linked to crude oil jumped on Hyperliquid amid fears that the US-Iran war will escalate in the near term. West Texas Intermediate (WTI) soared to $82.2, with the 24-hour volume hitting $157 million. Brent futures soared to $87, up by 25% from its lowest point in June. Energy prices are trending higher following reports that the United States and Iran are escalating their attacks. The US carried out another round of strikes on key Iranian targets, including a desalination plant and several bridges. President Trump has also warned that the US will target bridges and power plants next week. According to Axios, the administration has also deployed additional aerial refueling aircraft to Israel. The implications of all this is that traffic through the Strait of Hormuz has waned in the past few days. Data shows that only 10 ships crossed the Strait in the last 24 hours, with 444 others waiting. Oil companies are afraid of coming under Iranian attacks.",
-      "_zh_headline": "原油永续期货上涨：随着美伊战争升级，技术面将带来更多收益",
-      "_zh_summary": "由于担心美伊战争将在短期内升级，与原油挂钩的永续期货在 Hyperliquid 上上涨。西德克萨斯中质原油（WTI）飙升至82.2美元，24小时成交量达到1.57亿美元。布伦特原油期货飙升至 87 美元，较 6 月份的最低点上涨 25%。有报道称美国和伊朗升级袭击后，能源价格呈走高趋势。美国对伊朗主要目标进行了另一轮袭击，包括一座海水淡化厂和几座桥梁。特朗普总统还警告称，美国下周将瞄准桥梁和发电厂。据 Axios 报道，政府还向以色列部署了更多空中加油机。所有这一切的影响是，过去几天通过霍尔木兹海峡的交通量有所减少。数据显示，过去24小时内只有10艘船只穿越海峡，另有444艘船只在等待。石油公司害怕受到伊朗的攻击。",
-      "_added_at": "2026-07-18T17:31:39.428074+00:00"
-    },
-    {
-      "author": "Shomik Sen Bhattacharjee",
-      "content": "",
-      "created_at": "2026-07-18T14:01:04Z",
-      "headline": "Maria Sharapova Once Revealed Her 'Steely Mentality' Made People Uncomfortable— It Also Built a Tennis Dynasty and a Portfolio of Winning Bets",
-      "id": 60541014,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/New-York--Ny---August-25-Maria-Sharapova.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/New-York--Ny---August-25-Maria-Sharapova.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/New-York--Ny---August-25-Maria-Sharapova.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Tennis great Maria Sharapova refused to apologize for her ruthless mentality on the court and carried that discipline into business ventures.",
+      "summary": "DRAM ETF inflows are rising despite the ongoing weakness in Micron, Sandisk, Seagate, and Kioxia stock plunge",
       "symbols": [
-        "AMZN",
-        "GOOG",
-        "LYFT"
+        "DRAM",
+        "MU",
+        "SNDK",
+        "STX",
+        "WDC"
       ],
-      "updated_at": "2026-07-18T14:01:04Z",
-      "url": "https://www.benzinga.com/news/sports/26/07/60541014/maria-sharapova-once-revealed-her-steely-mentality-made-people-uncomfortable-it-also-built-a-tennis-dynasty-and-a-portfolio-of-winning-bets",
-      "_summary": "Speaking with Gayle King at the TIME100 Summit in New York earlier this year, Sharapova said she never wanted to reshape herself to meet others’ expectations. \"So from a young age, I had a very steely mentality. I had a fist pump that I was really known for,\" she said. After matches, people told her, \"‘It’s so intimidating. You need to soften your edges. Can you add a filter?’\" Sharapova said she felt pressure to apologize \"because I was a lady,\" but rejected it.",
-      "_zh_headline": "玛丽亚·莎拉波娃曾透露她的“钢铁心态”让人不舒服——它还建立了一个网球王朝和一系列获胜赌注",
-      "_zh_summary": "今年早些时候，莎拉波娃在纽约举行的 TIME100 峰会上与盖尔·金 (Gayle King) 交谈时表示，她从来不想为了满足别人的期望而重塑自己。 “所以从很小的时候起，我就有一种非常钢铁般的心态。我的拳头泵是我真正出名的，”她说。赛后，人们告诉她，“‘这太吓人了。你需要软化你的棱角。你能加个过滤器吗？’”莎拉波娃说，她感到有压力道歉，“因为我是一位女士”，但她拒绝了。",
-      "_added_at": "2026-07-18T15:30:13.562847+00:00"
-    },
-    {
-      "headline": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
-      "source": "NYT",
-      "symbols": [],
-      "created_at": "2026-07-18T09:01:37+00:00",
-      "_summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "_zh_headline": "俄罗斯法案扩大制裁范围但可能加剧对美元的担忧",
-      "_zh_summary": "特朗普政府最近寻求缩减制裁，因为对手制定了变通办法，一些人认为这些变通办法可能会削弱美元的霸主地位。",
-      "_added_at": "2026-07-18T13:57:48.205903+00:00"
-    },
-    {
-      "author": "Benzinga Senior Editor",
-      "content": "",
-      "created_at": "2026-07-18T12:01:12Z",
-      "headline": "Benzinga Bulls and Bears: PayPal, UnitedHealth, Netflix — And Stocks End Wild Week",
-      "id": 60540910,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Bulls-and-Bears-1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Bulls-and-Bears-1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Bulls-and-Bears-1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
-      "symbols": [
-        "ASTS",
-        "CLSK",
-        "IBM",
-        "JTAI",
-        "NFLX",
-        "PENG",
-        "PYPL",
-        "SHMD",
-        "SPCX",
-        "TSLA",
-        "TSM",
-        "UNH"
-      ],
-      "updated_at": "2026-07-18T12:01:12Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60540910/benzinga-bulls-and-bears-paypal-unitedhealth-netflix-and-stocks-end-wild-week",
-      "_summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories. Technology stocks bore the brunt of the selling, with semiconductor shares suffering their steepest weekly decline in more than a year as investors reassessed AI spending expectations and growing competition in the industry.",
-      "_zh_headline": "Benzinga 牛市和熊市：PayPal、UnitedHealth、Netflix — 股市狂野一周结束",
-      "_zh_summary": "本辛加上周研究了许多投资者最喜欢的股票的前景——以下是我们的一些热门报道。科技股首当其冲，由于投资者重新评估人工智能支出预期和行业竞争日益激烈，半导体股遭遇一年多来最大单周跌幅。",
-      "_added_at": "2026-07-18T13:57:48.205903+00:00"
+      "updated_at": "2026-07-18T21:56:23Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60542168/dram-etf-inflows-jump-despite-micron-sandisk-seagate-slump",
+      "_summary": "The Roundhill Memory ETF (CBOE: DRAM) has slumped and moved into a technical bear market as concerns about the memory industry continued. It ended the week at $52.7, down by over 35% from its highest point in June. Americans are still buying the ETF despite the ongoing volatility in the industry. Data shows the fund has had net inflows of over $10 billion in the last 30 days and $2.5 billion in the last five. The fund has had over $23 billion in assets in the last three months.",
+      "_zh_headline": "尽管美光、Sandisk、希捷低迷，但 DRAM ETF 流入量仍大幅增加",
+      "_zh_summary": "由于对内存行业的担忧持续存在，Roundhill Memory ETF（CBOE：DRAM）暴跌并进入技术熊市。本周收于 52.7 美元，较 6 月份最高点下跌超过 35%。尽管该行业持续波动，美国人仍在购买 ETF。数据显示，该基金过去30天净流入超过100亿美元，过去5天净流入25亿美元。该基金在过去三个月内拥有超过 230 亿美元的资产。",
+      "_added_at": "2026-07-19T04:51:03.924221+00:00"
     },
     {
       "author": "Rishabh Mishra",
@@ -299,326 +210,7 @@
       "_summary": "Retail investors talked up five hot stocks during the week (July 13 to July 17) on X and Reddit’s r/WallStreetBets, driven by retail hype, earnings, listings, AI infrastructure momentum, and corporate/geopolitical news flow. Retail focus comprised AI infrastructure momentum, earnings, and corporate news-driven narratives with broader market action during the week. Netflix Inc. (NASDAQ: NFLX ) , AST SpaceMobile Inc. (NASDAQ: ASTS ) , SK Hynix Inc. ADR (NASDAQ: SKHY ) , Micron Technology Inc.",
       "_zh_headline": "SK 海力士、AST SpaceMobile、SpaceX：本周投资者热议的 5 只股票",
       "_zh_summary": "本周（7 月 13 日至 7 月 17 日），散户投资者在 X 和 Reddit 的 r/WallStreetBets 上谈论了五只热门股票，受到散户炒作、盈利、上市、人工智能基础设施势头和企业/地缘政治新闻流的推动。零售焦点包括人工智能基础设施势头、收益和企业新闻驱动的叙述以及本周更广泛的市场走势。 Netflix Inc.（纳斯达克股票代码：NFLX）、AST SpaceMobile Inc.（纳斯达克股票代码：ASTS）、SK Hynix Inc. ADR（纳斯达克股票代码：SKHY）、美光科技公司（Micron Technology Inc.）",
-      "_added_at": "2026-07-18T13:57:48.205903+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-18T02:46:03Z",
-      "headline": "Warren Buffett Once Said He'd Pay $5 Million a Year to Play Online Bridge— He Actually Pays $95 and the Reason Is a Classic Economics Lesson",
-      "id": 60540463,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Warren-Buffett-Smiling--A-Closeup-Of-The.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Warren-Buffett-Smiling--A-Closeup-Of-The.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Warren-Buffett-Smiling--A-Closeup-Of-The.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Warren Buffett said he&#39;d pay $5 million a year to play online bridge 12 hours weekly, but the platform charged far less for it.",
-      "symbols": [
-        "MSFT"
-      ],
-      "updated_at": "2026-07-18T02:46:03Z",
-      "url": "https://www.benzinga.com/news/gaming/26/07/60540463/warren-buffett-once-said-hed-pay-5-million-a-year-to-play-online-bridge-he-actually-pays-95-and-the-reason-is-a-classic-economics-lesson",
-      "_summary": "In a viral clip on X, user Ronit Pereira shared Buffett’s old interview with renowned journalist Charlie Rose , where the legendary investor said, “I don’t mind paying $5 million per year for the ability to play online bridge for 12 hours a week. It’s worth it to me.” He equated the expense to that of owning a second home, which he stated would not hold much value for him.",
-      "_zh_headline": "沃伦·巴菲特曾经说过，他愿意每年支付 500 万美元来玩在线桥牌——他实际上支付了 95 美元，原因是一堂经典的经济学课",
-      "_zh_summary": "在 X 上的一段疯传视频中，用户 Ronit Pereira 分享了巴菲特对著名记者 Charlie Rose 的旧采访，这位传奇投资者在采访中说道：“我不介意每年支付 500 万美元，以获得每周打 12 小时在线桥牌的能力。这对我来说是值得的。”他将这笔费用等同于拥有第二套住房的费用，他表示这对他来说没有多大价值。",
-      "_added_at": "2026-07-18T13:57:48.205903+00:00"
-    },
-    {
-      "author": "Mohd Haider",
-      "content": "",
-      "created_at": "2026-07-18T07:05:23Z",
-      "headline": "Nvidia's New AI Rival Could Reportedly Be Worth $20 Billion",
-      "id": 60540689,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Artificial-Intelligence--Electronic-Chip.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Artificial-Intelligence--Electronic-Chip.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/Artificial-Intelligence--Electronic-Chip.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Etched is reportedly seeking funding at a $20 billion valuation, highlighting surging investor demand for AI inference chip startups.",
-      "symbols": [
-        "CBRS",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-18T07:05:23Z",
-      "url": "https://www.benzinga.com/markets/private-markets/26/07/60540689/nvidias-new-ai-rival-could-reportedly-be-worth-20-billion",
-      "_summary": "Nvidia (NASDAQ: NVDA ) rival AI chip startup Etched is reportedly in talks to raise funds at roughly a $20 billion valuation, quadrupling its prior mark. Existing backer Jane Street is spearheading the new financing, The Wall Street Journal reported on Friday, citing sources. Separately, Etched is raising a round led by Sequoia Capital at a $10 billion valuation. Neither deal has closed, and terms may still shift. Etched did not immediately respond to Benzinga ‘s request for comment.",
-      "_zh_headline": "据报道，Nvidia 的新 AI 竞争对手价值 200 亿美元",
-      "_zh_summary": "据报道，英伟达 (NASDAQ: NVDA) 的竞争对手 AI 芯片初创公司 Etched 正在洽谈融资，估值约为 200 亿美元，是之前估值的四倍。 《华尔街日报》周五援引消息人士的话报道称，现有支持者 Jane Street 正在牵头进行新的融资。另外，Etched 正在筹集由红杉资本领投的一轮融资，估值为 100 亿美元。两项交易均尚未完成，条款可能仍会发生变化。 Etched 没有立即回应 Benzinga 的置评请求。",
-      "_added_at": "2026-07-18T08:25:08.896685+00:00"
-    },
-    {
-      "author": "Mohd Haider",
-      "content": "",
-      "created_at": "2026-07-18T04:04:00Z",
-      "headline": "Meta Reportedly Negotiating $10 Billion AI Compute Deal With Anthropic",
-      "id": 60540514,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/This-Illustrates-Digital-Connectivity-Wi.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/This-Illustrates-Digital-Connectivity-Wi.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/18/This-Illustrates-Digital-Connectivity-Wi.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Meta is reportedly negotiating a $10 billion deal to provide Anthropic with AI data center capacity over two years.",
-      "symbols": [
-        "CRWV",
-        "META",
-        "NBIS",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-18T04:04:00Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60540514/meta-reportedly-negotiating-10-billion-ai-compute-deal-with-anthropic",
-      "_summary": "Meta Platforms (NASDAQ: META ) is reportedly negotiating a deal to rent AI data center capacity to Anthropic worth up to $10 billion over two years. Anthropic pitched the arrangement in June, and both sides could exit early, with terms remaining fluid, The New York Times reported on Friday, citing sources familiar with the discussions. Meta and Anthropic did not immediately respond to Benzinga ‘s request for comment.",
-      "_zh_headline": "据报道，Meta 正在与 Anthropic 就 100 亿美元的人工智能计算交易进行谈判",
-      "_zh_summary": "据报道，Meta Platforms（纳斯达克股票代码：META）正在就一项在两年内向 Anthropic 出租人工智能数据中心容量的协议进行谈判，价值高达 100 亿美元。 《纽约时报》周五援引熟悉讨论情况的消息人士的话报道称，Anthropic 于 6 月提出了这一安排，双方可能会提前退出，且条款仍不稳定。 Meta 和 Anthropic 没有立即回应 Benzinga 的置评请求。",
-      "_added_at": "2026-07-18T06:30:13.389363+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-17T17:46:30Z",
-      "headline": "China's AI Breakthrough Triggers A Semiconductor Selloff—What It Means For Investors",
-      "id": 60533334,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/China.png?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/China.png?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/China.png?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nAI Breakthrouh\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
-      "symbols": [
-        "AAPL",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "META",
-        "MSFT",
-        "NFLX",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPCX",
-        "SPY",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-17T17:47:58Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60533334/china-ai-breakthrough-triggers-semiconductor-selloff-what-it-means-for-investors",
-      "_summary": "Chinese AI stocks are relatively inexpensive compared to U.S. AI stocks. The data shows the housing market is staying strong but may weaken in the future.  Here are the details: Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Apple Inc (NASDAQ: AAPL ) .",
-      "_zh_headline": "中国的人工智能突破引发半导体抛售——这对投资者意味着什么",
-      "_zh_summary": "与美国人工智能股票相比，中国人工智能股票相对便宜。数据显示，房地产市场保持强劲，但未来可能走弱。  详细信息如下： 大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，苹果公司（纳斯达克股票代码：AAPL）的资金流向呈中性。",
-      "_added_at": "2026-07-18T04:27:24.865737+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-07-17T19:46:50Z",
-      "headline": "David Sacks, Bill Ackman Sound the Alarm on China's Kimi K3 as Nvidia, Micron Slide",
-      "id": 60537191,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/bill-ackman-midjourney-dall-e.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/bill-ackman-midjourney-dall-e.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/bill-ackman-midjourney-dall-e.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "China&#39;s Kimi K3 has Sacks and Ackman sounding the alarm and chip stocks slipping. But Polymarket traders still give US labs the edge over Moonshot.",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SPCX"
-      ],
-      "updated_at": "2026-07-17T19:46:50Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60537191/david-sacks-bill-ackman-sound-the-alarm-on-chinas-kimi-k3-as-nvidia-micron-slide",
-      "_summary": "David Sacks and Bill Ackman are warning that China just narrowed America’s lead in artificial intelligence, and the timing has investors eyeing the chip trade. The alarm followed Friday’s release of Kimi K3 from Chinese startup Moonshot, a model that reportedly topped the Frontend Code Arena leaderboard, edging past Anthropic’s Claude Fable 5.",
-      "_zh_headline": "大卫·萨克斯 (David Sacks) 和比尔·阿克曼 (Bill Ackman) 对中国的 Kimi K3 发出警报，称 Nvidia、美光幻灯片",
-      "_zh_summary": "大卫·萨克斯和比尔·阿克曼警告说，中国刚刚缩小了美国在人工智能领域的领先优势，而这个时机让投资者开始关注芯片贸易。周五，中国初创公司 Moonshot 发布了 Kimi K3，据报道该模型在 Frontend Code Arena 排行榜上名列前茅，超越了 Anthropic 的 Claude Fable 5。",
-      "_added_at": "2026-07-18T04:27:24.865737+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-17T20:00:14Z",
-      "headline": "Inflation Broke Lower, The AI Trade Broke with It: The Week on Wall Street",
-      "id": 60537669,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/New-York-Ny-Usa-march-21--2024-The-New-Y.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/New-York-Ny-Usa-march-21--2024-The-New-Y.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/New-York-Ny-Usa-march-21--2024-The-New-Y.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Technology stocks fell 5.9% this week and IBM posted its worst day on record, even as June inflation cooled to 3.5%. Here is what drove the AI selloff.",
-      "symbols": [
-        "IBM",
-        "SKHY",
-        "SMH",
-        "SNDK",
-        "WDC"
-      ],
-      "updated_at": "2026-07-17T20:00:14Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60537669/ai-selloff-wall-street-inflation-cooled-week",
-      "_summary": "The best inflation report of 2026 landed on Wall Street this week, and the market sold anyway, abandoning the semiconductor trade that has carried the entire rally for three years. By Friday afternoon, the technology sector had slumped 5.2% for the week, marking one of the worst weeks of the year. The iShares Semiconductor ETF (NASDAQ: SMH ) — the fund investors use as shorthand for the AI trade itself — was down nearly 18.5% month to date, tracking toward its worst month since November 2008.",
-      "_zh_headline": "通胀走低，人工智能行业随之崩溃：华尔街一周",
-      "_zh_summary": "2026年最佳通胀报告本周登陆华尔街，市场无论如何都抛售，放弃了支撑了三年涨势的半导体交易。截至周五下午，科技股本周下跌 5.2%，是今年表现最差的一周之一。 iShares Semiconductor ETF（纳斯达克股票代码：SMH）——基金投资者用作人工智能交易本身的简称——本月迄今下跌了近 18.5%，接近 2008 年 11 月以来最糟糕的月份。",
-      "_added_at": "2026-07-18T04:27:24.865737+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-17T18:21:12Z",
-      "headline": "QUICK SPARK: Micron, SanDisk Now Among Cheapest Nasdaq 100 Stocks",
-      "id": 60534664,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Benzinga-Quick-Spark.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Benzinga-Quick-Spark.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron trades at 6.2x forward earnings and SanDisk at 8.1x after brutal July selloffs. Is the memory trade cheap or pricing a peak?",
-      "symbols": [
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-17T18:21:12Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60534664/micron-sandisk-cheapest-nasdaq-100-stocks-forward-pe",
-      "_summary": "Two of Wall Street’s favorite artificial intelligence trades have quietly landed in the Nasdaq 100’s bargain bin, even after triple-digit gains this year. • Micron Technology stock is showing exceptional strength. What’s behind MU gains? The stock is down 23.3% month-to-date in July, on pace for its worst month since June 2022. It is still up 208% in 2026, after a run of nearly 2,000% from its 2025 lows to June highs.",
-      "_zh_headline": "QUICK SPARK：美光科技、闪迪现已跻身纳斯达克 100 家最便宜股票之列",
-      "_zh_summary": "华尔街最受欢迎的两种人工智能交易已悄然登陆纳斯达克 100 指数，尽管今年涨幅达到了三位数。 • 美光科技股票显示出非凡的实力。 MU收益背后的原因是什么？该股 7 月份迄今已下跌 23.3%，创 2022 年 6 月以来最糟糕的一个月。在从 2025 年低点到 6 月高点上涨近 2,000% 后，该股在 2026 年仍上涨 208%。",
-      "_added_at": "2026-07-18T04:27:24.865737+00:00"
-    },
-    {
-      "author": "Parshwa Turakhiya",
-      "content": "",
-      "created_at": "2026-07-17T20:41:11Z",
-      "headline": "Bitcoin Breaks Tech Stocks Correlation: Will BTC Now Follow in Gold's Footsteps?",
-      "id": 60538851,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Golden-Bitcoin-Coin-Is-In-Red-And-Blue-S.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Golden-Bitcoin-Coin-Is-In-Red-And-Blue-S.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Golden-Bitcoin-Coin-Is-In-Red-And-Blue-S.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bitcoin ETFs may be following gold’s boom-bust cycle, with IBIT’s pullback signaling a long recovery before the next record high.",
-      "symbols": [
-        "BLK",
-        "BTCUSD",
-        "ETHUSD",
-        "GLD",
-        "IBIT",
-        "IGV"
-      ],
-      "updated_at": "2026-07-17T20:41:11Z",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60538851/bitcoin-breaks-tech-stocks-correlation-will-btc-now-follow-in-golds-footsteps",
-      "_summary": "Bloomberg Senior ETF Analyst Eric Balchunas on Friday said Bitcoin (CRYPTO: BTC) ETFs are likely following gold ETFs’ 22-year playbook of explosive gains, painful drawdowns, and recoveries that test investor patience. Balchunas built his comparison around one shared structural trait. Both Bitcoin and gold ETFs are wrappers around non-yielding assets that generate no cash flow, meaning investor sentiment drives performance rather than earnings, coupons, or government backing.",
-      "_zh_headline": "比特币打破了科技股的相关性：比特币现在会追随黄金的脚步吗？",
-      "_zh_summary": "彭博社高级 ETF 分析师埃里克·巴尔丘纳斯 (Eric Balchunas) 周五表示，比特币 (CRYPTO: BTC) ETF 很可能会效仿黄金 ETF 22 年的做法：爆炸性上涨、痛苦回撤和复苏，考验投资者的耐心。巴尔丘纳斯围绕一个共同的结构特征进行了比较。比特币和黄金 ETF 都是不产生现金流的非收益资产的包装，这意味着投资者情绪驱动业绩，而不是收益、优惠券或政府支持。",
-      "_added_at": "2026-07-18T04:27:24.865737+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-17T20:23:29Z",
-      "headline": "This New ETF Targets AI Memory Leaders and Weekly Cash Payouts",
-      "id": 60538435,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/17/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "XFUNDS launches the Memory Income ETF (DRMY), targeting AI-driven memory semiconductor companies while seeking weekly income through an options strategy.",
-      "symbols": [
-        "DRMY",
-        "MU",
-        "SKHY",
-        "STX"
-      ],
-      "updated_at": "2026-07-17T20:23:29Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60538435/this-new-etf-targets-ai-memory-leaders-and-weekly-cash-payouts",
-      "_summary": "Launched on Wednesday, the ETF targets companies across the memory ecosystem that are expected to benefit from rising demand for artificial intelligence (AI) infrastructure and high-performance computing. • XFUNDS Memory Income ETF stock is showing downward bias. What’s ahead for DRMY stock? The launch comes as memory chips remain a key investment theme amid accelerating AI adoption, with demand for technologies such as high-bandwidth memory and advanced storage solutions continuing to rise.",
-      "_zh_headline": "该新 ETF 瞄准人工智能内存领导者和每周现金支付",
-      "_zh_summary": "该 ETF 于周三推出，目标是整个内存生态系统中的公司，这些公司预计将受益于人工智能 (AI) 基础设施和高性能计算不断增长的需求。 • XFUNDS Memory Income ETF 股票显示出下行倾向。 DRMY 股票的前景如何？此次发布之际，随着人工智能的加速采用，存储芯片仍然是一个关键的投资主题，对高带宽内存和先进存储解决方案等技术的需求持续增长。",
-      "_added_at": "2026-07-18T04:27:24.865737+00:00"
+      "_added_at": "2026-07-19T04:51:03.924221+00:00"
     }
   ]
 }
