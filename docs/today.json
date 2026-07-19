@@ -2,6 +2,36 @@
   "date": "2026-07-19",
   "articles": [
     {
+      "author": "Benzinga Neuro",
+      "content": "",
+      "created_at": "2026-07-19T14:00:43Z",
+      "headline": "Americans Outside the Workforce Hit Record 105.8 Million as Hiring Slows in June",
+      "id": 60542811,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Usa-And-China-Trade-War-Economy-Conflict.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Usa-And-China-Trade-War-Economy-Conflict.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Usa-And-China-Trade-War-Economy-Conflict.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Record number of Americans outside workforce in June, reaching 105.8 million. Weak payroll print and drop in participation rate raise concerns.",
+      "symbols": [],
+      "updated_at": "2026-07-19T14:00:43Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60542811/americans-outside-the-workforce-hit-record-105-8-million-as-hiring-slows-in-june",
+      "_summary": "The June total sits 2.2 million above the prior high set during the 2020 shutdown period, and 2.5 million people have left the labor force so far in 2026. That shift matters for the same reason the weak payroll print does: fewer people working or looking for work can change how investors read the economy’s momentum and the path for interest rates. June’s unemployment rate dipped to 4.2% from expectations of 4.3%, but the decline came alongside a 0.3 percentage point slide in labor force participation to 61.5%. In other words, the jobless rate improved partly because some people stopped searching for jobs rather than because hiring surged, and the employment-to-population ratio also moved lower. Payroll growth also looked softer after revisions: April’s gain declined to 148,000 from 179,000, and May was cut to 129,000 from 172,000.",
+      "_zh_headline": "6 月份招聘放缓，美国劳动力人口创历史新高 1.058 亿",
+      "_zh_summary": "6 月份的总人数比 2020 年停工期间创下的最高水平高出 220 万人，2026 年迄今已有 250 万人离开劳动力市场。这一转变的重要性与疲弱的非农就业人口的原因相同：工作或找工作的人减少可能会改变投资者对经济动能和利率走势的看法。 6 月份失业率从预期的 4.3% 降至 4.2%，但劳动力参与率下降 0.3 个百分点至 61.5%。换句话说，失业率的改善部分是因为一些人停止寻找工作，而不是因为招聘激增，而且就业与人口的比率也下降了。修正后薪资增长也显得疲软：4 月份的增幅从 179,000 人下降至 148,000 人，5 月份则从 172,000 人削减至 129,000 人。",
+      "_added_at": "2026-07-19T15:31:39.321865+00:00"
+    },
+    {
       "author": "Mohd Haider",
       "content": "",
       "created_at": "2026-07-19T08:32:00Z",
