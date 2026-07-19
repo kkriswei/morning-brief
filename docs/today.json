@@ -2,6 +2,44 @@
   "date": "2026-07-19",
   "articles": [
     {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-19T06:34:37Z",
+      "headline": "Samsung Lays Off Hundreds of US Employees While Relocating Headquarters to Texas: Report",
+      "id": 60542448,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Samsung.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Samsung.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Samsung.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Samsung reportedly cut U.S. jobs as it relocates headquarters, while AI-driven chip growth contrasts with mobile division challenges.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "META",
+        "MSFT",
+        "ORCL",
+        "SSNLF",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-19T06:34:37Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60542448/samsung-lays-off-hundreds-of-us-employees-while-relocating-headquarters-to-texas-report",
+      "_summary": "Samsung Electronics Co. Ltd. (OTC: SSNLF ) has reportedly cut jobs across its U.S. display, phone and consumer electronics operations in New Jersey and Texas. Samsung confirmed that 739 positions in Englewood Cliffs, New Jersey, were affected as Samsung Electronics America moves its headquarters to Texas, the South Korean technology company said in a statement to Reuters on Sunday. Most employees were offered relocation options, while others were laid off, according to the report.",
+      "_zh_headline": "三星解雇数百名美国员工并将总部迁至德克萨斯州：报告",
+      "_zh_summary": "据报道，三星电子有限公司（场外交易代码：SSNLF）已在新泽西州和德克萨斯州的美国显示器、手机和消费电子业务部门裁员。韩国科技公司周日在给路透社的一份声明中表示，三星证实，随着三星电子美国公司将总部迁至德克萨斯州，新泽西州恩格尔伍德克利夫斯的 739 个职位受到影响。报告称，大多数员工都获得了搬迁选择，而其他员工则被解雇。",
+      "_added_at": "2026-07-19T07:39:49.331547+00:00"
+    },
+    {
       "author": "Crispus Nyaga",
       "content": "",
       "created_at": "2026-07-18T16:04:27Z",
