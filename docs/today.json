@@ -2,6 +2,157 @@
   "date": "2026-07-20",
   "articles": [
     {
+      "author": "Sam Ro",
+      "content": "",
+      "created_at": "2026-07-20T12:40:00Z",
+      "headline": "Known Worries And Unknown Unknowns",
+      "id": 60549191,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sam-Ro.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sam-Ro.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sam-Ro.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "There are two main types of risk.\n\n\n\nThere are well-known risks that are at least somewhat priced into the markets. They are the lingering fears that are covered regularly in the news and surfaced in surveys. As long as",
+      "symbols": [
+        "IVV",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-07-20T12:40:00Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60549191/known-worries-and-unknown-unknowns",
+      "_summary": "There are well-known risks that are at least somewhat priced into the markets. They are the lingering fears that are covered regularly in the news and surfaced in surveys. As long as new developments related to these risks aren’t much worse than what’s in the range of likely outcomes, markets can handle bad news relatively well. A bunch of firms recently conducted surveys asking people what they’re worried about.",
+      "_zh_headline": "已知的担忧和未知的未知",
+      "_zh_summary": "一些众所周知的风险至少在一定程度上已被市场消化。它们是新闻中经常报道并在调查中出现的挥之不去的恐惧。只要与这些风险相关的新事态发展并不比可能的结果严重多少，市场就能相对较好地应对坏消息。许多公司最近进行了调查，询问人们担心什么。",
+      "_added_at": "2026-07-20T13:27:13.928333+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-20T13:21:43Z",
+      "headline": "Investors Pour Record $46 Billion Into Semiconductor ETFs. What the Technicals Say Next",
+      "id": 60550500,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Semiconductor-Or-Microchip-Concepts-tech.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Semiconductor ETFs have seen record inflows of $46B in 2026 amid the AI boom. Here is what key technicals suggest for SMH and SOXX next.",
+      "symbols": [
+        "AMD",
+        "AMZN",
+        "AVGO",
+        "DRAM",
+        "FTXL",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "PSI",
+        "SKHY",
+        "SMH",
+        "SOXX",
+        "TSM",
+        "XSD"
+      ],
+      "updated_at": "2026-07-20T13:21:43Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60550500/investors-record-46-billion-semiconductor-etfs",
+      "_summary": "The semiconductor selloff has deepened , but investors continue to pour money into the sector, putting semiconductor exchange-traded funds (ETFs) on pace for a record year of inflows, according to data highlighted by The Kobeissi Letter . Record ETF inflows reflect investor confidence that semiconductors remain a key way to capitalize on the AI boom, fueled by heavy spending on AI data centers, advanced chips and cloud infrastructure.",
+      "_zh_headline": "投资者向半导体 ETF 投入创纪录的 460 亿美元。接下来技术面会说什么",
+      "_zh_summary": "《Kobeissi Letter》强调的数据显示，半导体抛售已经加深，但投资者继续向该行业注入资金，半导体交易所交易基金 (ETF) 的资金流入有望创下今年创纪录的纪录。创纪录的 ETF 资金流入反映了投资者的信心，即在人工智能数据中心、先进芯片和云基础设施方面的大量支出的推动下，半导体仍然是利用人工智能热潮的关键途径。",
+      "_added_at": "2026-07-20T13:27:13.928333+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-20T13:21:53Z",
+      "headline": "AI Trade’s Favorite Chip ETF Sees Record Inflows Despite Worst Month Since 2008",
+      "id": 60550501,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/AI-chips.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/AI-chips.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/AI-chips.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Semiconductor ETFs SOXX, SMH and DRAM drew record inflows in July even as prices fell the most since 2008. BofA stays bullish.",
+      "symbols": [
+        "DRAM",
+        "MU",
+        "SKHY",
+        "SMH",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-20T13:21:53Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60550501/chip-etfs-record-inflows-worst-month-since-2008",
+      "_summary": "Semiconductor exchange traded funds pulled in the most money on record in July, during the same month their prices fell the hardest since the financial crisis. Chart: Investors Poured $6.13 Billion Into SOXX During Its Worst Month In 18 Years The two facts sit on top of each other. Prices cratered and money rushed in. Investors did not flee the AI trade’s most crowded corner — they leaned into it. The behavior repeated across the sector’s other AI-linked funds.",
+      "_zh_headline": "尽管这是 2008 年以来最糟糕的一个月，但 AI Trade 最受欢迎的芯片 ETF 资金流入仍创历史新高",
+      "_zh_summary": "半导体交易所交易基金在 7 月份吸纳了有记录以来最多的资金，同月其价格跌幅为金融危机以来最严重。图表：投资者在 SOXX 18 年来最糟糕的一个月内向 SOXX 注入了 61.3 亿美元 这两个事实相互重叠。价格暴跌，资金涌入。投资者并没有逃离人工智能行业最拥挤的角落，而是涌入其中。该行业其他与人工智能相关的基金也重复了这种行为。",
+      "_added_at": "2026-07-20T13:27:13.928333+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-20T13:08:21Z",
+      "headline": "Apple, UnitedHealth Group And A Basic Material Stock: CNBC’s ‘Final Trades’",
+      "id": 60550200,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Experts-Urge-Seniors-to-Stay-Vigilant.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Experts-Urge-Seniors-to-Stay-Vigilant.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Experts-Urge-Seniors-to-Stay-Vigilant.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Kevin Simpson named Apple as his final trade on CNBC&#39;s Halftime Report Final Trades. HSBC analyst upgraded Apple and Gilman Hill CEO praised Rio Tinto.",
+      "symbols": [
+        "AAPL",
+        "RIO",
+        "UNH"
+      ],
+      "updated_at": "2026-07-20T13:08:21Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60550200/apple-unitedhealth-group-and-a-basic-material-stock-cnbcs-final-trades",
+      "_summary": "Lending support to his choice, HSBC analyst Nicolas Cote-Colisson, on Friday, upgraded Apple from Hold to Buy and raised the price target from $260 to $366. According to recent news, Apple is expanding its legal offensive against OpenAI, sending preservation notices to roughly 40 former Apple employees now working at the artificial intelligence company as the high-stakes trade-secrets lawsuit proceeds.",
+      "_zh_headline": "苹果、联合健康集团和基础材料股：CNBC 的“最终交易”",
+      "_zh_summary": "汇丰银行分析师 Nicolas Cote-Colisson 周五将苹果公司的评级从持有上调至买入，并将目标股价从 260 美元上调至 366 美元，为他的选择提供了支持。据最近的消息称，随着高风险的商业秘密诉讼的进行，苹果正在扩大对 OpenAI 的法律攻势，向目前在这家人工智能公司工作的大约 40 名前苹果员工发送了保存通知。",
+      "_added_at": "2026-07-20T13:27:13.928333+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-20T10:08:52Z",
