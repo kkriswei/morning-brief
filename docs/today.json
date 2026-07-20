@@ -2,6 +2,184 @@
   "date": "2026-07-20",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-20T19:57:36Z",
+      "headline": "International Stocks Are Back. Harding Loevner's New LOEV ETF Wants In",
+      "id": 60565020,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/International-stocks.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/International-stocks.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/International-stocks.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Harding Loevner launches its first active ETF, LOEV, offering investors exposure to developed international stocks through a proven 16-year strategy.",
+      "symbols": [
+        "CGXU",
+        "LOEV",
+        "MFC",
+        "SHEL",
+        "TOUS"
+      ],
+      "updated_at": "2026-07-20T19:57:36Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60565020/international-stocks-are-back-harding-loevners-new-loev-etf-wants-in",
+      "_summary": "The new fund brings one of the firm’s longest-running international equity strategies into the ETF wrapper, offering investors a tax-efficient way to access developed-market stocks outside the U.S. as demand for active ETFs continues to expand. According to chairman and CEO Aaron Bellish , the ETF reflects the firm’s vehicle-agnostic approach to delivering investment strategies. This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.",
+      "_zh_headline": "国际股市回归。 Harding Loevner 的新 LOEV ETF 希望参与",
+      "_zh_summary": "该新基金将该公司运行时间最长的国际股票策略之一纳入 ETF 包装，随着对主动 ETF 的需求持续扩大，为投资者提供了一种投资美国以外发达市场股票的节税方式。董事长兼首席执行官亚伦·贝利什 (Aaron Bellish) 表示，该 ETF 体现了该公司采用与投资工具无关的方式来实施投资策略。该内容部分是在人工智能工具的帮助下制作的，并由 Benzinga 编辑审核和发布。",
+      "_added_at": "2026-07-20T20:09:42.654679+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-20T18:38:00Z",
+      "headline": "SpaceX Stock Selloff: ‘Don’t Even Think About Bottom-Fishing,’ Expert Says",
+      "id": 60562549,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Cali--Colombia---May-6-2022-spacex-Logo-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Cali--Colombia---May-6-2022-spacex-Logo-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Cali--Colombia---May-6-2022-spacex-Logo-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Former hedge fund manager Whitney Tilson thinks SpaceX shares are overvalued, even after falling below their IPO price.",
+      "symbols": [
+        "SPCX"
+      ],
+      "updated_at": "2026-07-20T18:38:00Z",
+      "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/07/60562549/spacex-stock-selloff-dont-even-think-about-bottom-fishing-expert-says",
+      "_summary": "SpaceX stock was priced at $135 for its record-breaking IPO. Shares listed at around $150 and quickly traded higher for weeks with strong demand. Last week, the stock came back to earth, and new lows continue to be hit on Monday. Last week amid the selloff, Tilson told investors they should continue to stay away. Tilson said he predicted many times previously that the stock was overvalued, calling SpaceX \"the most overvalued large-cap stock of all time.\"",
+      "_zh_headline": "专家称 SpaceX 股票遭抛售：“根本别想抄底”",
+      "_zh_summary": "SpaceX 首次公开募股 (IPO) 的股价为 135 美元，创下历史纪录。股价在 150 美元左右上市，并在需求强劲的情况下连续数周迅速走高。上周该股重回地面，周一继续创出新低。上周，在抛售期间，蒂尔森告诉投资者，他们应该继续远离。蒂尔森表示，他此前多次预测该股被高估，并称 SpaceX 是“有史以来被高估最多的大盘股”。",
+      "_added_at": "2026-07-20T20:09:42.654679+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-20T18:40:27Z",
+      "headline": "Cathie Wood’s Tempus AI Bet Is Bleeding — And the Chart Looks Worse Than Wall Street Thinks",
+      "id": 60562651,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Tempus-Options-Surge.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Tempus-Options-Surge.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Tempus-Options-Surge.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tempus AI stock has fallen about 16% YTD. Cathie Wood still owns it as ARKK&#39;s 4th largest holding while analysts see nearly 38% upside. Here&#39;s what the chart says.",
+      "symbols": [
+        "AMD",
+        "ARKK",
+        "HOOD",
+        "PSNL",
+        "TEM",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-20T18:40:27Z",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60562651/tempus-ai-tem-stock-cathie-wood-bet-bleedingthinks",
+      "_summary": "The selloff has made one of Cathie Wood ‘s highest-conviction holdings considerably cheaper. The question now is whether the decline represents a buying opportunity—or a warning sign. According to consensus estimates from 19 analysts , Tempus carries an average price target of $66.50, implying roughly 37% upside from current levels.",
+      "_zh_headline": "Cathie Wood 的 Tempus AI 赌注正在流血——图表看起来比华尔街想象的更糟糕",
+      "_zh_summary": "这次抛售使得凯西·伍德最值得信赖的股票之一的价格大幅下跌。现在的问题是，下跌是否代表买入机会，还是警告信号。根据 19 名分析师的一致估计，Tempus 的平均目标价为 66.50 美元，这意味着较当前水平上涨约 37%。",
+      "_added_at": "2026-07-20T20:09:42.654679+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-20T17:35:12Z",
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "id": 60560387,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+      "symbols": [
+        "CRCL",
+        "IONQ",
+        "MSFT",
+        "NBIS",
+        "NVDA",
+        "ORCL",
+        "SNDK",
+        "TSM",
+        "VNET",
+        "WULF"
+      ],
+      "updated_at": "2026-07-20T17:35:12Z",
+      "url": "https://www.benzinga.com/markets/options/26/07/60560387/10-information-technology-stocks-whale-activity-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
+      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
+      "_added_at": "2026-07-20T20:09:42.654679+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-20T17:06:42Z",
+      "headline": "Meta's Ad Machine Shows No Signs of Slowing: Analyst",
+      "id": 60559570,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "META stock rises as BofA reiterates a Buy rating and $835 target ahead of July 29 earnings. Read the full market analysis.",
+      "symbols": [
+        "META"
+      ],
+      "updated_at": "2026-07-20T17:06:42Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60559570/metas-ad-machine-shows-no-signs-of-slowing-analyst",
+      "_summary": "Meta Platforms Inc. (NASDAQ: META ) stock rose nearly 1% on Monday as investors continued buying mega-cap technology stocks in a broader risk-on session. The Nasdaq is up almost 1% while the S&P 500 has gained 0.37%. Attention is also shifting to the company’s July 29 earnings report after Bank of America said healthy advertising demand and expanding AI monetization could support upside. Bank of America reiterated its Buy rating on Meta and maintained its $835 price forecast.",
+      "_zh_headline": "分析师：Meta 的广告机没有放缓的迹象",
+      "_zh_summary": "Meta Platforms Inc.（纳斯达克股票代码：META）股价周一上涨近 1%，因投资者在更广泛的风险偏好时段继续买入大型科技股。纳斯达克指数上涨近 1%，标准普尔 500 指数上涨 0.37%。在美国银行表示健康的广告需求和不断扩大的人工智能货币化可能支持上涨之后，人们的注意力也转移到了该公司 7 月 29 日的收益报告上。美国银行重申对 Meta 的买入评级，并维持 835 美元的价格预测。",
+      "_added_at": "2026-07-20T20:09:42.654679+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-20T17:42:00Z",
@@ -602,177 +780,6 @@
       "_summary": "U.S. stock futures advanced on Monday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Friday’s lower close. As the U.S. troop death toll reached 17, President Donald Trump signaled the operation will persist , noting, \"Iran has been very, very badly damaged. They’ve lost everything almost militarily.\" Meanwhile, the 10-year Treasury bond yielded 4.55%, and the two-year bond was at 4.18%.",
       "_zh_headline": "今日股市：特朗普称伊朗“受损非常非常严重”，标准普尔 500 指数、道琼斯期货上涨 - Eva Live、RTX、Synopsys 成为焦点",
       "_zh_summary": "美国股指期货周一上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周五收盘走低后上涨。随着美军死亡人数达到 17 人，唐纳德·特朗普总统表示行动将持续下去，并指出，“伊朗受到了非常非常严重的损害。他们几乎在军事上失去了一切。”与此同时，10年期国债收益率为4.55%，两年期国债收益率为4.18%。",
-      "_added_at": "2026-07-20T11:23:17.428965+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-20T08:02:01Z",
-      "headline": "SOXX Enters Bear Market: Why Ed Yardeni Says Semiconductor Stocks Could Fall Another 12%",
-      "id": 60544499,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Chips--semiconductor-shutterstock-219855.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Chips--semiconductor-shutterstock-219855.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Chips--semiconductor-shutterstock-219855.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Semiconductors plunged 20%, but Ed Yardeni warns the SOXX could fall another 12%. Learn why AI fears, margin calls are driving the selloff.",
-      "symbols": [
-        "DRAM",
-        "SKHY",
-        "SOXX"
-      ],
-      "updated_at": "2026-07-20T08:02:01Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60544499/soxx-enters-bear-market-why-ed-yardeni-says-semiconductor-stocks-could-fall-another-12",
-      "_summary": "The broader stock market remains seemingly calm, but a brutal 20% semiconductor plunge has veteran strategist Ed Yardeni warning that high-flying tech equities have even further to fall. While the S&P 500 is hovering securely around the 7,500 level—just 2.0% below its June 2 all-time high—momentum tech stocks are in freefall. “The surface stayed calm while the engine broke,” Yardeni noted, highlighting the stark divergence between the broader market and the tech sector.",
-      "_zh_headline": "SOXX 进入熊市：为什么 Ed Yardeni 表示半导体股票可能再下跌 12%",
-      "_zh_summary": "整体股市看似平静，但半导体暴跌 20% 令资深策略师埃德·亚德尼 (Ed Yardeni) 警告称，飞速发展的科技股还会进一步下跌。尽管标普 500 指数稳定地徘徊在 7,500 点附近（仅比 6 月 2 日的历史高点低 2.0%），但科技股的势头却呈直线下滑。亚德尼指出：“表面保持平静，而引擎却坏了。”他强调了大盘和科技板块之间的明显分歧。",
-      "_added_at": "2026-07-20T11:23:17.428965+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-20T11:18:08Z",
-      "headline": "Wall Street Has a New AI Crystal Ball—and It’s 7,000 Miles Away in South Korea: ‘We Are All Korean Investors Now’",
-      "id": 60547111,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Female-Fortuneteller-Or-Esoteric-Oracle-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Female-Fortuneteller-Or-Esoteric-Oracle-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Female-Fortuneteller-Or-Esoteric-Oracle-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Learn how leveraged AI bets in South Korea&#39;s Kospi index are whipsawing the Nasdaq and dictating the global semiconductor and tech trade.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SKHY",
-        "SPY",
-        "SSNLF"
-      ],
-      "updated_at": "2026-07-20T11:18:08Z",
-      "url": "https://www.benzinga.com/markets/asia/26/07/60547111/wall-street-has-a-new-ai-crystal-ball-and-its-7000-miles-away-in-south-korea-we-are-all-korean-investors-now",
-      "_summary": "Bloomberg data highlights that the 60-day correlation between the Kospi and the Nasdaq 100 now stands at 0.46. This is three times more than its five-year average of 0.16. Ivan Feinseth , chief investment officer at Tigress Financial Partners, told Bloomberg that Korea is now part of the “same volatility ecosystem as the Nasdaq and SOX,” adding that SK Hynix and Samsung now act as a pre‑market read‑through. Feinseth also said that Korea was no longer \"a distant emerging-market sideshow.\"",
-      "_zh_headline": "华尔街拥有一个新的人工智能水晶球——远在 7000 英里之外的韩国：“我们现在都是韩国投资者”",
-      "_zh_summary": "彭博社数据强调，Kospi 指数与纳斯达克 100 指数之间的 60 天相关性目前为 0.46。这是五年平均水平 0.16 的三倍。 Tigress Financial Partners 首席投资官 Ivan Feinseth 告诉彭博社，韩国现在是“与纳斯达克和 SOX 相同的波动性生态系统”的一部分，并补充说 SK 海力士和三星现在充当了上市前的预审角色。范塞斯还表示，韩国不再是“遥远的新兴市场的余兴节目”。",
-      "_added_at": "2026-07-20T11:23:17.428965+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-20T10:21:42Z",
-      "headline": "What's Going on With Micron Technology Stock Monday?",
-      "id": 60546021,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Micron-Technology-Office-Campus-In-Silic.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Micron-Technology-Office-Campus-In-Silic.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Micron-Technology-Office-Campus-In-Silic.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron (MU) stock jumps 4% premarket as investors return to chip stocks. Is the chip giant ready to break out? Read our analysis.",
-      "symbols": [
-        "MU",
-        "SOXQ",
-        "SOXX",
-        "SPMO"
-      ],
-      "updated_at": "2026-07-20T10:26:08Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60546021/whats-going-on-with-micron-technology-stock-monday-5",
-      "_summary": "Recently, Alger executive vice president Ankur Crawford said the company’s earnings power is \"underappreciated,\" arguing Micron could generate cash flow equal to roughly 30% of its current market cap over the next 18 months and as much as 50% over a longer period. Micron’s early gains came as traders rotated back into semiconductor stocks after recent weakness. The stock is attempting to stabilize following a pullback from its June peak while remaining in a strong longer-term uptrend.",
-      "_zh_headline": "周一美光科技股票怎么样？",
-      "_zh_summary": "最近，Alger 执行副总裁 Ankur Crawford 表示，该公司的盈利能力“被低估”，并认为美光科技在未来 18 个月内产生的现金流可能相当于其当前市值的约 30%，在更长时期内可能高达 50%。美光科技的早期上涨是由于交易员在近期的疲软后重新转向半导体股票。该股在从 6 月高点回落后正试图企稳，同时保持强劲的长期上升趋势。",
-      "_added_at": "2026-07-20T11:23:17.428965+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-20T09:58:31Z",
-      "headline": "Industry Comparison: Evaluating Micron Technology Against Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "id": 60545374,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_13.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_13.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_13.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "In the fast-paced and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating",
-      "symbols": [
-        "MU"
-      ],
-      "updated_at": "2026-07-20T09:58:31Z",
-      "url": "https://www.benzinga.com/news/26/07/60545374/industry-comparison-evaluating-micron-technology-against-competitors-semiconductors-amp-semiconducto",
-      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
-      "_zh_headline": "行业比较：针对半导体和半导体设备行业的竞争对手评估微米技术",
-      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
-      "_added_at": "2026-07-20T11:23:17.428965+00:00"
-    },
-    {
-      "author": "Badar Shaikh",
-      "content": "",
-      "created_at": "2026-07-20T08:20:31Z",
-      "headline": "Elon Musk's Tesla Releases Wall Street Estimates Ahead of Q2 Earnings: Here's What Analysts Expect",
-      "id": 60544629,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Tesla released analysts&#39; forecasts for Q2 2026 earnings, predicting revenue of $27B and net income of $1.27B.",
-      "symbols": [
-        "GS",
-        "JPM",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-20T08:20:31Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60544629/elon-musks-tesla-releases-wall-street-estimates-ahead-of-q2-earnings-heres-what-analysts-expect",
-      "_summary": "Analysts predicted Tesla’s revenue to be approximately $27.6 billion for the quarter, with net income reported to be around  $1.27 billion. For FY 2026, analysts have predicted Tesla to report revenue of approximately $105 billion, with a net income figure of around $4.4 billion. Analysts also estimated that the automaker would be cash flow negative at -$3.25 billion. They also predict Tesla will deliver 1,728,925 units in 2026, with Model Y and Model 3 comprising 1.67 million units from the total.",
-      "_zh_headline": "埃隆·马斯克 (Elon Musk) 的特斯拉在第二季度收益之前发布华尔街预期：分析师的预期如下",
-      "_zh_summary": "分析师预计特斯拉本季度营收约为 276 亿美元，净利润约为 12.7 亿美元。分析师预测特斯拉 2026 财年营收约为 1050 亿美元，净利润约为 44 亿美元。分析师还估计，该汽车制造商的现金流将为负数 - 32.5 亿美元。他们还预测，特斯拉到 2026 年将交付 1,728,925 辆汽车，其中 Model Y 和 Model 3 的交付量为 167 万辆。",
       "_added_at": "2026-07-20T11:23:17.428965+00:00"
     }
   ]
