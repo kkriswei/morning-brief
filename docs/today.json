@@ -2,6 +2,259 @@
   "date": "2026-07-20",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-20T17:42:00Z",
+      "headline": "Chip Rebound Lifts Nasdaq 100, Micron Rallies 5%: Stock Market Today",
+      "id": 60560678,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/3d-Render-Closeup-Of-Computer-Keyboard-W.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/3d-Render-Closeup-Of-Computer-Keyboard-W.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/3d-Render-Closeup-Of-Computer-Keyboard-W.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Growth and chip stocks led a mixed Wall Street tape Monday as the S&amp;P 500 and Nasdaq 100 rose while the Dow and small caps slipped.",
+      "symbols": [
+        "AAON",
+        "AGNC",
+        "AMC",
+        "APLD",
+        "AVGO",
+        "BE",
+        "BTCUSD",
+        "CAVA",
+        "DIA",
+        "DPZ",
+        "GLXY",
+        "IREN",
+        "IWM",
+        "LITE",
+        "MU",
+        "QQQ",
+        "SMH",
+        "TEM",
+        "UWMC",
+        "VOO",
+        "XE",
+        "XLC",
+        "XLE",
+        "XLK"
+      ],
+      "updated_at": "2026-07-20T17:42:00Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60560678/stock-market-today-nasdaq-100-chip-stock-rebound",
+      "_summary": "U.S. stocks were mixed by midday Monday as a rebound in the beaten-down chip sector reignited the AI-infrastructure trade. Markets are also pricing in one Fed rate hike this year. The odds of a September move are holding above 60% ahead of next week’s FOMC meeting , where policymakers are widely expected to stay on hold. West Texas Intermediate crude held near $82.60 a barrel, roughly flat on the day but clinging to five-week highs after last week’s near-5% surge.",
+      "_zh_headline": "芯片反弹提振纳斯达克 100 指数，美光科技上涨 5%：今日股市",
+      "_zh_summary": "周一中午，美国股市涨跌互现，遭受重创的芯片行业的反弹重新点燃了人工智能基础设施交易。市场还预计美联储今年将加息一次。在下周的 FOMC 会议之前，9 月份采取行动的可能性保持在 60% 以上，人们普遍预计政策制定者将按兵不动。西德克萨斯中质原油价格维持在每桶 82.60 美元附近，当天大致持平，但在上周飙升近 5% 后，仍维持在五周高位。",
+      "_added_at": "2026-07-20T18:29:53.548764+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-20T16:35:30Z",
+      "headline": "Tech Selloff: Expert Says ‘Get Your Shopping List Ready' – Stocks ‘Took the Elevator Up and the Elevator Shaft Down’",
+      "id": 60558626,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/tech-stocks-slip.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/tech-stocks-slip.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/tech-stocks-slip.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A technology stock selloff may have some investors worried. Market expert Jay Woods says investors should be ready to buy.",
+      "symbols": [
+        "AAPL",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "SPY",
+        "XLK"
+      ],
+      "updated_at": "2026-07-20T16:35:30Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60558626/tech-selloff-expert-says-get-your-shopping-list-ready-stocks-took-the-elevator-up-and-the-elevator-shaft-down",
+      "_summary": "After months of surging valuations, technology stocks saw a selloff by investors late last week. The selloff sees potential concerns on valuations and has one market expert telling investors to get their shopping list ready. Freedom Capital Markets Chief Market Strategist Jay Woods has followed the markets for decades, which led to his lack of surprise at last week’s selloff for technology names and a potential market correction.",
+      "_zh_headline": "科技股抛售：专家表示“准备好你的购物清单”——股市“把电梯拉上来，又把电梯井拉下来”",
+      "_zh_summary": "经过数月估值飙升后，科技股上周晚些时候遭到投资者抛售。此次抛售引发了对估值的潜在担忧，一位市场专家告诉投资者准备好购物清单。 Freedom Capital Markets 首席市场策略师 Jay Woods 数十年来一直关注市场，这导致他对上周科技股的抛售和潜在的市场调整并不感到意外。",
+      "_added_at": "2026-07-20T18:29:53.548764+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-20T16:05:26Z",
+      "headline": "Dow Falls Over 100 Points; IREN Shares Jump",
+      "id": 60557553,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stocks traded mixed midway through trading, with the Dow Jones index falling over 100 points on Monday.\n\n\n\nThe Dow traded down 0.21% to 52,036.64 while the NASDAQ climbed 0.79% to 25,720.74. The S&amp;P 500 also",
+      "symbols": [
+        "ADVB",
+        "AMC",
+        "GVH",
+        "IREN",
+        "QMLS",
+        "RYAAY",
+        "VCIG"
+      ],
+      "updated_at": "2026-07-20T16:05:26Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60557553/dow-falls-over-100-points-iren-shares-jump",
+      "_summary": "U.S. stocks traded mixed midway through trading, with the Dow Jones index falling over 100 points on Monday. The Dow traded down 0.21% to 52,036.64 while the NASDAQ climbed 0.79% to 25,720.74. The S&P 500 also rose, gaining, 0.40% to 7,487.38. Communication services shares jumped by 1.7% on Monday. In trading on Monday, financial stocks fell by 0.4%. Shares of Ryanair Holdings PLC (NASDAQ: RYAAY ) fell more than 5% on Monday following weak first-quarter results.",
+      "_zh_headline": "道指跌超100点； IREN 股价上涨",
+      "_zh_summary": "美股盘中涨跌互现，道琼斯指数周一跌超100点。道指下跌 0.21% 至 52,036.64 点，纳斯达克指数上涨 0.79% 至 25,720.74 点。标准普尔 500 指数也上涨 0.40%，至 7,487.38 点。周一，通信服务股上涨 1.7%。周一交易中，金融股下跌0.4%。继第一季度业绩疲软后，瑞安航空控股有限公司（纳斯达克股票代码：RYAAY）的股价周一下跌超过 5%。",
+      "_added_at": "2026-07-20T18:29:53.548764+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-07-20T15:59:25Z",
+      "headline": "Winners And Losers From Moonshot—Wall Street Fears Overblown—US May Ban Chinese Models",
+      "id": 60557342,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sk-Hynix.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sk-Hynix.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sk-Hynix.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nMoonshot Winners And Losers\n\n\n\nPlease click here for an enlarged chart of Micron Technology Inc (NASDAQ:MU).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of",
+      "symbols": [
+        "AAOI",
+        "AAPL",
+        "AMD",
+        "AMZN",
+        "ARM",
+        "BTCUSD",
+        "COHR",
+        "GLW",
+        "GOOG",
+        "GOOGL",
+        "INTC",
+        "LITE",
+        "META",
+        "MRVL",
+        "MSFT",
+        "MU",
+        "QQQ",
+        "SKHY",
+        "SPCX",
+        "SPY",
+        "SSNLF",
+        "TSLA",
+        "USO"
+      ],
+      "updated_at": "2026-07-20T16:01:11Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60557342/winners-and-losers-from-moonshot-wall-street-fears-overblown-us-may-ban-chinese-models",
+      "_summary": "Due to the security requirements and deepening distrust between the U.S. and China, the world is likely to be divided into two camps for AI: one dominated by the U.S. and the other dominated by China. Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Meta Platforms Inc (NASDAQ: META ) .",
+      "_zh_headline": "登月计划的赢家和输家——华尔街的担忧被夸大了——美国可能禁止中国模特",
+      "_zh_summary": "由于安全需求和中美之间不断加深的不信任，世界人工智能很可能分为两个阵营：一个以美国为主，另一个以中国为主。大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，Meta Platforms Inc（纳斯达克股票代码：META）的资金流向是中性的。",
+      "_added_at": "2026-07-20T18:29:53.548764+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-20T15:57:41Z",
+      "headline": "Microsoft Investors Brace for AI Reality Check As Earnings Near",
+      "id": 60557283,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Smart-Phone-With-The-Microsoft-Azure-Log.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Smart-Phone-With-The-Microsoft-Azure-Log.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Smart-Phone-With-The-Microsoft-Azure-Log.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Microsoft stock climbs as investors eye Q4 earnings. BofA maintains a Buy rating and $500 target. Read the full outlook.",
+      "symbols": [
+        "MSFT",
+        "TGRW",
+        "VOOG",
+        "XLK"
+      ],
+      "updated_at": "2026-07-20T15:59:55Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60557283/microsoft-investors-brace-for-ai-reality-check-as-earnings-near",
+      "_summary": "Microsoft Corp. (NASDAQ: MSFT ) stock is trading higher by almost 1% on Monday as big-cap technology stocks advance in a broader risk-on session. The Nasdaq has gained almost 1%, while the S&P 500 is up 0.33%. Technology is leading all sectors with a 0.9% gain. Investors are also looking ahead to Microsoft’s fiscal fourth-quarter earnings on July 29, with Wall Street closely watching Azure cloud growth, artificial intelligence monetization and capital spending, according to a new Bank of America research note.",
+      "_zh_headline": "随着盈利临近，微软投资者准备迎接人工智能现实检验",
+      "_zh_summary": "微软公司（纳斯达克股票代码：MSFT）的股价周一上涨近 1%，因为大型科技股在更广泛的风险偏好时段中上涨。纳斯达克指数上涨近 1%，标准普尔 500 指数上涨 0.33%。科技股以 0.9% 的涨幅领先于所有板块。根据美国银行的一份新研究报告，投资者也在期待微软 7 月 29 日公布的第四财季财报，华尔街密切关注 Azure 云的增长、人工智能货币化和资本支出。",
+      "_added_at": "2026-07-20T18:29:53.548764+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-20T15:45:57Z",
+      "headline": "Micron’s Moonshot Meets UBS: Was the AI Stock Warning Early or Just Unloved?",
+      "id": 60556918,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Trade-Business-Analytics-Graph-And-Finan.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Trade-Business-Analytics-Graph-And-Finan.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Trade-Business-Analytics-Graph-And-Finan.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "UBS warned to reduce risk in AI-related semi stocks in June. Call was right on short-term risk, early on returns, missed leadership change.",
+      "symbols": [
+        "AMD",
+        "MU",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-20T15:45:57Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60556918/microns-moonshot-meets-ubs-was-the-ai-stock-warning-early-or-just-unloved",
+      "_summary": "UBS’s June warning to \"reduce risk meaningfully\" in AI‑linked semi stocks landed in one of the most crowded trades in the market, and the past month has delivered enough volatility to judge it on more than vibes. UBS trading desk’s concern was based on a binary winners‑versus‑losers framework, stretched positioning and a narrative that treated an AI super‑cycle as if it were a straight line.",
+      "_zh_headline": "美光的登月计划与瑞银的邂逅：人工智能股票预警是过早还是只是不受欢迎？",
+      "_zh_summary": "瑞银 (UBS) 6 月份警告称，要“大幅降低”与人工智能相关的半成品股票的风险，这一警告引发了市场上最拥挤的交易之一，而过去一个月的波动性足以让我们不仅仅根据氛围来判断。瑞银交易部门的担忧是基于二元赢家与输家的框架、延伸的定位以及将人工智能超级周期视为一条直线的叙述。",
+      "_added_at": "2026-07-20T18:29:53.548764+00:00"
+    },
+    {
       "author": "Avi Kapoor",
       "content": "",
       "created_at": "2026-07-20T13:54:24Z",
@@ -521,219 +774,6 @@
       "_zh_headline": "埃隆·马斯克 (Elon Musk) 的特斯拉在第二季度收益之前发布华尔街预期：分析师的预期如下",
       "_zh_summary": "分析师预计特斯拉本季度营收约为 276 亿美元，净利润约为 12.7 亿美元。分析师预测特斯拉 2026 财年营收约为 1050 亿美元，净利润约为 44 亿美元。分析师还估计，该汽车制造商的现金流将为负数 - 32.5 亿美元。他们还预测，特斯拉到 2026 年将交付 1,728,925 辆汽车，其中 Model Y 和 Model 3 的交付量为 167 万辆。",
       "_added_at": "2026-07-20T11:23:17.428965+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-20T05:57:25Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60543800,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The Polygon-based Polymarket crowd is leaning optimistic for the July 20 opening bell, with over 65% of chances of S&amp;P 500 opening higher.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "POLUSD",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-20T05:57:25Z",
-      "url": "https://www.benzinga.com/news/26/07/60543800/stock-market-will-sp-500-open-up-or-down-today-10",
-      "_summary": "The Polygon -based (CRYPTO: POL) Polymarket crowd is leaning optimistic for the July 20 opening bell. The “S&P 500 (SPX) Up or Down on July 20?” betting contract currently reflects a 68% chance of an “Up” open. Early trading volume for the Monday contract sits at $12,272. The macroeconomic and geopolitical landscape over the weekend has grown increasingly complex, pulling markets in conflicting directions: According to market commentator Mohamed A.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "Polygon（CRYPTO：POL）Polymarket 人群对 7 月 20 日开盘持乐观态度。 “7 月 20 日标准普尔 500 (SPX) 上涨还是下跌？”投注合约目前反映“向上”开盘的可能性为 68%。周一合约早盘交易量为 12,272 美元。市场评论员 Mohamed A.",
-      "_added_at": "2026-07-20T07:41:25.986205+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-20T06:38:30Z",
-      "headline": "Dow Tumbles Over 400 Points, Records Weekly Loss: Investor Sentiment Declines, Greed Index In ‘Fear’ Zone",
-      "id": 60544009,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The CNN Money Fear &amp; Greed Index declined, U.S. stocks closed lower, and weekly losses were recorded. The index remained in the Fear zone on Friday.",
-      "symbols": [
-        "CCK",
-        "DPZ",
-        "GOOG",
-        "GOOGL",
-        "META",
-        "NFLX",
-        "STLD",
-        "TRV"
-      ],
-      "updated_at": "2026-07-20T06:38:30Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60544009/dow-tumbles-over-400-points-records-weekly-loss-investor-sentiment-declines-greed-index-in-fear-zone",
-      "_summary": "The CNN Money Fear and Greed index showed another decline in the overall market sentiment, while the index remained in the “Fear” zone on Friday. U.S. stocks settled lower on Friday, with the Dow Jones index dipping more than 400 points during the session. Major stock benchmarks also recorded weekly losses, with the S&P 500 falling 1.6% and the Nasdaq dipping 2.9%. The Dow also declined 0.9% last week. On the economic data front, U.S.",
-      "_zh_headline": "道指暴跌逾 400 点，录得周跌幅：投资者情绪下滑，贪婪指数处于“恐惧”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪再次下降，该指数周五仍处于“恐惧”区域。周五美国股市收低，道琼斯指数盘中下跌逾 400 点。主要股票基准也录得周跌幅，其中标准普尔 500 指数下跌 1.6%，纳斯达克指数下跌 2.9%。道指上周也下跌 0.9%。经济数据方面，美国",
-      "_added_at": "2026-07-20T07:41:25.986205+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-19T20:10:37Z",
-      "headline": "SOXX and SMH ETFs Sink, But Barclays Stays Bullish on Semiconductor Stocks",
-      "id": 60543145,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Nvidia-Logo-On-A-Smartphone-Screen-Again.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Nvidia-Logo-On-A-Smartphone-Screen-Again.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Nvidia-Logo-On-A-Smartphone-Screen-Again.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SOXX and SMH ETFs have dropped sharply in the past few days, but analysts at UBS and Barclays believe that semiconductor stocks will rebound.",
-      "symbols": [
-        "MU",
-        "NVDA",
-        "SMH",
-        "SOXX",
-        "TSM"
-      ],
-      "updated_at": "2026-07-19T20:10:37Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60543145/soxx-and-smh-etfs-sink-but-barclays-stays-bullish-on-semiconductor-stocks",
-      "_summary": "Semiconductor stocks have pulled back sharply as investors remain concerned about tapering demand and a pullback in capital expenditure. Despite the recent pullback, American investors have remained bullish on semiconductor stocks. Data from ETFdb shows that the SOXX has attracted more than $5.1 billion in inflows over the past 30 days and $12 billion over the last six months. Meanwhile, the SMH has recorded inflows of $2.03 billion and $6.36 billion over the same periods, respectively.",
-      "_zh_headline": "SOXX 和 SMH ETF 下跌，但巴克莱仍看好半导体股票",
-      "_zh_summary": "由于投资者仍然担心需求减少和资本支出缩减，半导体股票大幅回落。尽管最近出现回调，美国投资者仍然看好半导体股票。 ETFdb 的数据显示，SOXX 在过去 30 天吸引了超过 51 亿美元的资金流入，在过去 6 个月吸引了 120 亿美元的资金流入。与此同时，SMH 同期的流入资金分别为 20.3 亿美元和 63.6 亿美元。",
-      "_added_at": "2026-07-20T04:23:27.415616+00:00"
-    },
-    {
-      "author": "Ananya Gairola",
-      "content": "",
-      "created_at": "2026-07-20T04:18:37Z",
-      "headline": "Ross Gerber Says Apple Should Buy Disney or 'Stop Wasting Time' in Entertainment",
-      "id": 60543613,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Apple-Reshapes-AI-Leadership.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Apple-Reshapes-AI-Leadership.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Apple-Reshapes-AI-Leadership.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gerber urged Apple to buy Disney or exit entertainment, reviving Apple-Disney merger speculation as Disney&#39;s stock continues to struggle.",
-      "symbols": [
-        "AAPL",
-        "DIS",
-        "WFC"
-      ],
-      "updated_at": "2026-07-20T04:18:37Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60543613/ross-gerber-says-apple-should-buy-disney-or-stop-wasting-time-in-entertainment",
-      "_summary": "Gerber, CEO of Gerber Kawasaki , argued that Apple has reached a crossroads in its entertainment strategy, saying the tech giant should either fully commit by acquiring Disney or stop investing in the business. In a post on X , Gerber wrote, “Now is the time for Apple to decide if they really want to be in the entertainment business. Because if they took out Disney it would become the ultimate consumer company… Apple Disney… otherwise Apple should stop wasting time in entertainment.”",
-      "_zh_headline": "罗斯·格伯表示苹果应该收购迪士尼或“停止在娱乐领域浪费时间”",
-      "_zh_summary": "格柏川崎首席执行官格柏认为，苹果的娱乐战略已经走到了十字路口，他表示，这家科技巨头要么完全致力于收购迪士尼，要么停止对该业务的投资。格伯在 X 上的一篇帖子中写道，“现在是苹果决定他们是否真的想涉足娱乐业务的时候了。因为如果他们打败迪士尼，它将成为最终的消费公司……苹果迪士尼……否则苹果应该停止在娱乐领域浪费时间。”",
-      "_added_at": "2026-07-20T04:23:27.415616+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-19T20:22:00Z",
-      "headline": "Tesla Stock in Focus as It Expands German Production Ahead of Earnings",
-      "id": 60543165,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Focused-Shot-Capturing-Elon-Musk-Alongsi.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Focused-Shot-Capturing-Elon-Musk-Alongsi.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Focused-Shot-Capturing-Elon-Musk-Alongsi.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Tesla stock has landed at a crucial support level as the company expands its German manufacturing ahead of its earnings report",
-      "symbols": [
-        "MS",
-        "NIO",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-19T20:22:00Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60543165/tesla-stock-in-focus-as-it-expands-german-production-ahead-of-earnings",
-      "_summary": "Tesla (NASDAQ: TSLA ) stock will be in focus this week as the electric vehicle giant reports its financial results. The shares have fallen nearly 25% to around $380 after peaking at almost $500 in December last year. Tesla’s business is doing relatively well even as its stock remains in a bear market. Its recently released delivery numbers showed that it returned to growth in the second quarter. The company delivered 480,126 vehicles in the quarter after producing 451,758 vehicles.",
-      "_zh_headline": "特斯拉股票成为焦点，因为它在盈利前扩大了德国产量",
-      "_zh_summary": "特斯拉（纳斯达克股票代码：TSLA）股票本周将成为焦点，因为这家电动汽车巨头将公布其财务业绩。自去年 12 月达到近 500 美元的峰值后，该股已下跌近 25% 至 380 美元左右。尽管特斯拉的股票仍处于熊市，但其业务表现相对较好。其最近公布的交付数据显示，第二季度恢复增长。该公司本季度生产了 451,758 辆汽车，交付了 480,126 辆汽车。",
-      "_added_at": "2026-07-20T04:23:27.415616+00:00"
-    },
-    {
-      "author": "Crispus Nyaga",
-      "content": "",
-      "created_at": "2026-07-19T20:08:08Z",
-      "headline": "Intel Stock Forms an Alarming Pattern as Earnings Loom",
-      "id": 60543133,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/19/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel stock has formed a double-top pattern pointing to more downside as its earnings loom on Thursday this week",
-      "symbols": [
-        "AAPL",
-        "INTC",
-        "NVDA",
-        "SOXX"
-      ],
-      "updated_at": "2026-07-19T20:08:08Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60543133/intel-stock-forms-an-alarming-pattern-as-earnings-loom",
-      "_summary": "Intel is still one of the best-performing companies in the United States this year. It has jumped by 150% since January and by 320% in the last 12 months, with its valuation soaring to over $477 billion. Intel is also benefiting from the ongoing AI agent growth, which has led to a surge in demand for CPUs . The most recent results showed that its revenue jumped by 7% to $13.6 billion, while its gross margin rose to 39.4%. It also reduced its R&D and MG&A costs by 8%.",
-      "_zh_headline": "随着盈利的临近，英特尔股票形成令人担忧的格局",
-      "_zh_summary": "英特尔仍然是今年美国表现最好的公司之一。自 1 月份以来，该公司股价上涨了 150%，过去 12 个月上涨了 320%，估值飙升至超过 4770 亿美元。英特尔还受益于 AI 代理的持续增长，这导致 CPU 需求激增。最新业绩显示，其收入增长 7%，达到 136 亿美元，毛利率升至 39.4%。它还将研发和管理与管理成本降低了 8%。",
-      "_added_at": "2026-07-20T04:23:27.415616+00:00"
     }
   ]
 }
