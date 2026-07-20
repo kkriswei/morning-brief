@@ -2,6 +2,80 @@
   "date": "2026-07-20",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-20T05:57:25Z",
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "id": 60543800,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Polygon-based Polymarket crowd is leaning optimistic for the July 20 opening bell, with over 65% of chances of S&amp;P 500 opening higher.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "POLUSD",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-20T05:57:25Z",
+      "url": "https://www.benzinga.com/news/26/07/60543800/stock-market-will-sp-500-open-up-or-down-today-10",
+      "_summary": "The Polygon -based (CRYPTO: POL) Polymarket crowd is leaning optimistic for the July 20 opening bell. The “S&P 500 (SPX) Up or Down on July 20?” betting contract currently reflects a 68% chance of an “Up” open. Early trading volume for the Monday contract sits at $12,272. The macroeconomic and geopolitical landscape over the weekend has grown increasingly complex, pulling markets in conflicting directions: According to market commentator Mohamed A.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "Polygon（CRYPTO：POL）Polymarket 人群对 7 月 20 日开盘持乐观态度。 “7 月 20 日标准普尔 500 (SPX) 上涨还是下跌？”投注合约目前反映“向上”开盘的可能性为 68%。周一合约早盘交易量为 12,272 美元。市场评论员 Mohamed A.",
+      "_added_at": "2026-07-20T07:41:25.986205+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-20T06:38:30Z",
+      "headline": "Dow Tumbles Over 400 Points, Records Weekly Loss: Investor Sentiment Declines, Greed Index In ‘Fear’ Zone",
+      "id": 60544009,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The CNN Money Fear &amp; Greed Index declined, U.S. stocks closed lower, and weekly losses were recorded. The index remained in the Fear zone on Friday.",
+      "symbols": [
+        "CCK",
+        "DPZ",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "NFLX",
+        "STLD",
+        "TRV"
+      ],
+      "updated_at": "2026-07-20T06:38:30Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60544009/dow-tumbles-over-400-points-records-weekly-loss-investor-sentiment-declines-greed-index-in-fear-zone",
+      "_summary": "The CNN Money Fear and Greed index showed another decline in the overall market sentiment, while the index remained in the “Fear” zone on Friday. U.S. stocks settled lower on Friday, with the Dow Jones index dipping more than 400 points during the session. Major stock benchmarks also recorded weekly losses, with the S&P 500 falling 1.6% and the Nasdaq dipping 2.9%. The Dow also declined 0.9% last week. On the economic data front, U.S.",
+      "_zh_headline": "道指暴跌逾 400 点，录得周跌幅：投资者情绪下滑，贪婪指数处于“恐惧”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪再次下降，该指数周五仍处于“恐惧”区域。周五美国股市收低，道琼斯指数盘中下跌逾 400 点。主要股票基准也录得周跌幅，其中标准普尔 500 指数下跌 1.6%，纳斯达克指数下跌 2.9%。道指上周也下跌 0.9%。经济数据方面，美国",
+      "_added_at": "2026-07-20T07:41:25.986205+00:00"
+    },
+    {
       "author": "Crispus Nyaga",
       "content": "",
       "created_at": "2026-07-19T20:10:37Z",
