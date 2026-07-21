@@ -2,6 +2,208 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-21T10:18:17Z",
+      "headline": "Stock Market Today: Dow Jones, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally—Nebius, Archer, IREN in Focus",
+      "id": 60570908,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Wall-Street.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Wall-Street.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Wall-Street.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures advanced on Tuesday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices rose, following Monday&#39;s lower close.",
+      "symbols": [
+        "ACHR",
+        "AVGO",
+        "BTCUSD",
+        "CBRL",
+        "IREN",
+        "MU",
+        "NBIS",
+        "NVDA",
+        "QQQ",
+        "SOXQ",
+        "SPY",
+        "STLD"
+      ],
+      "updated_at": "2026-07-21T10:18:17Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60570908/stock-market-today-dow-jones-nasdaq-100-futures-rise-as-tech-stocks-lead-the-rally-nebius-archer-iren-in-focus",
+      "_summary": "U.S. stock futures advanced on Tuesday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Monday’s lower close. Meanwhile, Yemen’s Iran-aligned Houthis announced a naval blockade on Saudi Arabia on Monday, threatening to open a new front in the U.S.–Iran conflict and further endangering global trade and energy supplies beyond the Persian Gulf. Additionally, at President Donald Trump ’s direction, U.S.",
+      "_zh_headline": "今日股市：道琼斯指数、纳斯达克 100 指数期货上涨，科技股领涨 — Nebius、Archer、IREN 成为焦点",
+      "_zh_summary": "美国股指期货周二上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周一收盘走低后上涨。与此同时，也门与伊朗结盟的胡塞武装周一宣布对沙特阿拉伯实施海上封锁，威胁要在美伊冲突中开辟新战线，并进一步危及波斯湾以外的全球贸易和能源供应。此外，在唐纳德·特朗普总统的指示下，美国",
+      "_added_at": "2026-07-21T12:09:15.722932+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-21T12:04:33Z",
+      "headline": "Economist Mark Zandi Blames Trump Tariffs, Restrictive Immigration Policies for Higher Cost of Living: 'High Inflation Is a Policy Choice'",
+      "id": 60573616,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/100-Us-Dollar-Note-On-A-Usa-Flag-With-Wo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/100-Us-Dollar-Note-On-A-Usa-Flag-With-Wo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/100-Us-Dollar-Note-On-A-Usa-Flag-With-Wo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Economist Mark Zandi reveals why high inflation is a &#34;policy choice,&#34; driven by tariffs and strict immigration laws raising living costs.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-21T12:04:33Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60573616/economist-mark-zandi-blames-trump-tariffs-restrictive-immigration-policies-for-higher-cost-of-living-high-inflation-is-a-policy-choice",
+      "_summary": "With inflation running above the Federal Reserve’s target for 64 consecutive months , Moody’s Analytics Chief Economist Mark Zandi says higher consumer prices are not an accident but a direct result of government policy decisions. By breaking down the underlying economic math, Zandi points to trade tariffs imposed by the Donald Trump administration and restrictive immigration laws as the primary culprits preventing price stability in the current economy.",
+      "_zh_headline": "经济学家马克·赞迪将生活成本上升归咎于特朗普的关税和限制性移民政策：“高通胀是一种政策选择”",
+      "_zh_summary": "穆迪分析首席经济学家马克赞迪表示，随着通胀连续64个月高于美联储目标，消费者价格上涨并非偶然，而是政府政策决定的直接结果。通过分析基本的经济数学，赞迪指出唐纳德·特朗普政府征收的贸易关税和限制性移民法是阻碍当前经济价格稳定的罪魁祸首。",
+      "_added_at": "2026-07-21T12:09:15.722932+00:00"
+    },
+    {
+      "author": "Stjepan Kalinic",
+      "content": "",
+      "created_at": "2026-07-21T10:20:03Z",
+      "headline": "Why Fund Managers Now Fear AI Capex More Than Iran, Tariffs, or a Recession",
+      "id": 60570926,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Global economic outlook is strong, but fund managers fear an AI capex boom could trigger the next systemic credit event. Read more.",
+      "symbols": [
+        "AIQ",
+        "AMZN",
+        "BTCUSD",
+        "DELL",
+        "GOOG",
+        "HYG",
+        "IBM",
+        "JNK",
+        "LQD",
+        "MAGS",
+        "META",
+        "MSFT",
+        "SHOC",
+        "SKYY",
+        "SMH",
+        "SOXX",
+        "TRFK",
+        "VPN",
+        "XLK"
+      ],
+      "updated_at": "2026-07-21T10:20:03Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60570926/why-fund-managers-now-fear-ai-capex-more-than-iran-tariffs-or-a-recession",
+      "_summary": "In Bank of America’s July Global Fund Manager Survey, 48% of respondents identified AI hyperscaler capital expenditure as the most likely source of a systemic credit event. They ranked it ahead of private credit, consumer credit, and the more familiar macro risks that have dominated markets in recent years, including the Middle East conflict, tariffs, and recession. The paradox is subtle but notable.",
+      "_zh_headline": "为什么基金经理现在更担心人工智能资本支出而不是伊朗、关税或经济衰退",
+      "_zh_summary": "在美国银行 7 月份的全球基金经理调查中，48% 的受访者认为人工智能超大规模资本支出是系统性信贷事件最有可能的来源。他们将其排在私人信贷、消费信贷以及近年来主导市场的更熟悉的宏观风险之前，包括中东冲突、关税和经济衰退。这个悖论很微妙但值得注意。",
+      "_added_at": "2026-07-21T12:09:15.722932+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-21T10:55:21Z",
+      "headline": "This Chinese AI Model Became So Popular It Stopped Taking New Users— and Analysts Say Nvidia, Micron Could Be the Real Winners",
+      "id": 60571681,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Shanghai-china-march-28th-2024-Kimi-Ai-A.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Shanghai-china-march-28th-2024-Kimi-Ai-A.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Shanghai-china-march-28th-2024-Kimi-Ai-A.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Analysts say Moonshot AI&#39;s Kimi K3 boom could boost Nvidia and Micron as demand for high-performance memory rises.",
+      "symbols": [
+        "MU",
+        "NVDA",
+        "SKHY",
+        "SPCX",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-21T10:55:21Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60571681/this-chinese-ai-model-became-so-popular-it-stopped-taking-new-users-and-analysts-say-nvidia-micron-could-be-the-real-winners",
+      "_summary": "Two days after its launch on July 17, Moonshot AI temporarily stopped new sign-ups for its Kimi K3 model due to high demand and compute constraints.",
+      "_zh_headline": "这种中国人工智能模型变得如此受欢迎，以至于不再吸引新用户——分析师称英伟达、美光可能是真正的赢家",
+      "_zh_summary": "7 月 17 日推出两天后，由于需求量大和计算限制，Moonshot AI 暂时停止了 Kimi K3 模型的新注册。",
+      "_added_at": "2026-07-21T12:09:15.722932+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-21T11:00:09Z",
+      "headline": "Why Is AMD Stock Soaring Tuesday?",
+      "id": 60571798,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Advanced-Micro-Devices-Turnaround-Under-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Advanced-Micro-Devices-Turnaround-Under-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Advanced-Micro-Devices-Turnaround-Under-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "AMD stock rises premarket ahead of Advancing AI 2026. Explore key technical levels, analyst price targets, and earnings estimates.",
+      "symbols": [
+        "AMD",
+        "ARKW",
+        "META",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "SOXX",
+        "TRFK"
+      ],
+      "updated_at": "2026-07-21T11:00:09Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60571798/why-is-amd-stock-soaring-tuesday",
+      "_summary": "The broader risk-on tone also supported gains, with Nasdaq futures up 1.34% and S&P 500 futures rising 0.51%. Investors are now watching whether these next-generation AI systems can translate into sustained market share gains and stronger data center revenue growth. Momentum is also building ahead of the “Advancing AI 2026” event on July 22. Investors expect updates on next-generation AI silicon, rack-scale systems and additional hyperscale cloud and AI model customers.",
+      "_zh_headline": "为什么AMD股价周二飙升？",
+      "_zh_summary": "更广泛的风险基调也支撑了涨势，纳斯达克期货上涨 1.34%，标准普尔 500 指数期货上涨 0.51%。投资者现在正在关注这些下一代人工智能系统是否可以转化为持续的市场份额增长和更强劲的数据中心收入增长。在 7 月 22 日举行的“推进 AI 2026”活动之前，势头也在增强。投资者预计下一代 AI 芯片、机架规模系统以及其他超大规模云和 AI 模型客户的更新。",
+      "_added_at": "2026-07-21T12:09:15.722932+00:00"
+    },
+    {
       "author": "Eva Mathew",
       "content": "",
       "created_at": "2026-07-21T08:29:06Z",
