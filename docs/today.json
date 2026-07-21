@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "articles": [
     {
       "author": "Aniket Verma",
@@ -37,7 +37,7 @@
       "_summary": "Leading cryptocurrencies traded mixed on Monday as escalating geopolitical tensions curbed investors’ risk appetite. Bitcoin traded in the $65,000 area through most of the day as 24‑hour volume increased 92%. Ethereum continued to face strong resistance around the $1,915, while XRP edged higher. More than $245 million in cryptocurrency positions were liquidated over the past 24 hours, with bearish shorts taking the heaviest losses, according to Coinglass data.",
       "_zh_headline": "比特币、狗狗币持平；随着美国与伊朗的敌对行动继续，以太坊、XRP 上涨：分析师表示，如果……短期上涨可能会引发“更快的抛售”",
       "_zh_summary": "由于地缘政治紧张局势升级抑制了投资者的风险偏好，主要加密货币周一涨跌互现。比特币全天大部分时间都在 65,000 美元区域交易，24 小时交易量增加了 92%。以太坊继续在 1,915 美元附近面临强劲阻力，而 XRP 小幅走高。 Coinglass 数据显示，过去 24 小时内，超过 2.45 亿美元的加密货币头寸被清算，其中看跌空头损失最惨重。",
-      "_added_at": "2026-07-21T03:56:54.858289+00:00"
+      "_added_at": "2026-07-21T07:11:03.914276+00:00"
     },
     {
       "author": "Shivdeep Dhaliwal",
@@ -73,7 +73,75 @@
       "_summary": "Major U.S. indices closed lower on Monday, with the Dow Jones Industrial Average declining 0.59% to 51,839.26. The S&P 500 slipped 0.19% to 7,443.28, while the Nasdaq edged down 0.05% to 25,508.07. These are the top stocks that gained the attention of retail traders and investors through the day: AMC’s stock soared by 26.80%, closing at $2.46. The stock hit an intraday high of $2.48 and a low of $2.10, with a 52-week range between $3.60 and $0.93.",
       "_zh_headline": "AMC、IREN Ltd.、Archer Aviation、Nebius Group 和阿里巴巴：为何这 5 只股票如今受到投资者关注",
       "_zh_summary": "美国主要股指周一收低，道琼斯工业平均指数下跌 0.59%，至 51,839.26 点。标准普尔 500 指数下跌 0.19%，至 7,443.28 点；纳斯达克指数微跌 0.05%，至 25,508.07 点。这些是全天吸引散户和投资者关注的顶级股票：AMC 股价飙升 26.80%，收于 2.46 美元。该股盘中最高价为 2.48 美元，最低价为 2.10 美元，52 周波动区间为 3.60 美元至 0.93 美元。",
-      "_added_at": "2026-07-21T03:56:54.858289+00:00"
+      "_added_at": "2026-07-21T07:11:03.914276+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-21T06:01:41Z",
+      "headline": "AAPL, HPQ, SNDK, WDC: Gene Munster Says 'Memory Hog' AI Will Trigger a Massive 2027 Upgrade Cycle",
+      "id": 60568845,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Apple-logo-is-seen-at-the-Apple-Wangfuji.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Apple-logo-is-seen-at-the-Apple-Wangfuji.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Apple-logo-is-seen-at-the-Apple-Wangfuji.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gene Munster says &#39;memory hog&#39; AI will trigger a massive 2027 hardware upgrade cycle for unified memory, boosting AAPL, HPQ, SNDK &amp; WDC.",
+      "symbols": [
+        "AAPL",
+        "HPQ",
+        "SNDK",
+        "WDC"
+      ],
+      "updated_at": "2026-07-21T06:01:41Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60568845/aapl-hpq-sndk-wdc-gene-munster-says-memory-hog-ai-will-trigger-a-massive-2027-upgrade-cycle",
+      "_summary": "Deepwater Management Managing Partner Gene Munster predicts a major enterprise and consumer hardware refresh cycle beginning in 2027, driven by resource-intensive artificial intelligence applications that demand far greater memory capacity. Munster’s industry forecast stems directly from practical testing of advanced software tools . Deepwater’s in-house AI guru Doug Clinton recently spent time “pounding on Grok’s Build (command line version of Claude Code and OpenAI Codex) last weekend.”",
+      "_zh_headline": "AAPL、HPQ、SNDK、WDC：吉恩·蒙斯特 (Gene Munster) 表示“内存占用”人工智能将引发 2027 年大规模升级周期",
+      "_zh_summary": "Deepwater Management 执行合伙人 Gene Munster 预测，在需要更大内存容量的资源密集型人工智能应用的推动下，大型企业和消费者硬件更新周期将从 2027 年开始。蒙斯特的行业预测直接源于先进软件工具的实际测试。 Deepwater 的内部人工智能专家 Doug Clinton 最近花时间“上周末研究了 Grok 的 Build（Claude Code 和 OpenAI Codex 的命令行版本）”。",
+      "_added_at": "2026-07-21T07:11:03.914276+00:00"
+    },
+    {
+      "author": "Badar Shaikh",
+      "content": "",
+      "created_at": "2026-07-21T06:54:19Z",
+      "headline": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
+      "id": 60569178,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla&#39;s Cybercab fleet expansion is not impressive to Gary Black who says true autonomy is needed for investor interest.",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-21T06:54:19Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60569178/ahead-of-tesla-earnings-gary-black-says-cybercab-fleet-milestone-is-irrelevant-until-this-critical-fsd-goal-is-achieved-just-for-show",
+      "_summary": "In a response to user @CuriousPejjy , who talked about the recent sighting of over 245 Cybercab units at the company’s Giga Texas facility, Black said that the number of “cybercabs parked at Giga Texas is irrelevant to investors” as long as the vehicles could not autonomously drive without “safety monitors,” the investor added. “Supervised autonomous cars are not scalable,” he said, outlining that the fleet was “just for show” unless “the 245 can be driven autonomously.”",
+      "_zh_headline": "在特斯拉公布财报之前，加里·布莱克 (Gary Black) 表示，在实现 FSD 的这一关键目标之前，网络出租车车队的里程碑“无关紧要”：“仅供展示”",
+      "_zh_summary": "用户 @CuriousPejjy 谈到了最近在该公司位于德克萨斯州 Giga 的工厂看到超过 245 辆 Cyber​​cab 单位的情况，Black 在回应用户 @CuriousPejjy 时表示，只要这些车辆在没有“安全监视器”的情况下无法自动驾驶，“Giga Texas 停放的 Cyber​​cab 数量与投资者无关”，该投资者补充道。 “受监管的自动驾驶汽车无法扩展，”他说，并概述了车队“只是为了展示”，除非“245 可以自动驾驶”。",
+      "_added_at": "2026-07-21T07:11:03.914276+00:00"
     },
     {
       "author": "Shivdeep Dhaliwal",
@@ -114,39 +182,7 @@
       "_summary": "The purchase aligns with analyst expectations of robust advertising demand and AI monetization potential for the Mark Zuckerberg -led company. Bank of America reiterated its Buy rating, citing potential revenue growth from AI infrastructure. Ark Invest’s ARKK and ARKQ funds acquired shares in Archer Aviation , which saw a 19.59% increase, closing at $5.31. The purchase of 121,300 shares was estimated to be worth $644,103.",
       "_zh_headline": "凯茜·伍德 (Cathie Wood) 的方舟 (Ark) 在马克·扎克伯格 (Mark Zuckerberg) 和埃隆·马斯克 (Elon Musk) 身上下了重注，因为它在 Meta 和 SpaceX 上大举进军——削弱了 AMD 和 Robinhood",
       "_zh_summary": "此次收购符合分析师对马克·扎克伯格领导的公司强劲的广告需求和人工智能货币化潜力的预期。美国银行重申其买入评级，理由是人工智能基础设施的潜在收入增长。 Ark Invest 旗下的 ARKK 和 ARKQ 基金收购了 Archer Aviation 的股票，该公司股价上涨 19.59%，收于 5.31 美元。购买 121,300 股股票的价值估计为 644,103 美元。",
-      "_added_at": "2026-07-21T03:56:54.858289+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-20T21:15:27Z",
-      "headline": "$100 Invested In Broadcom 15 Years Ago Would Be Worth This Much Today",
-      "id": 60567225,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Broadcom (NASDAQ:AVGO) has outperformed the market over the past 15 years by 24.09% on an annualized basis producing an average annual return of 36.22%. Currently, Broadcom has a market capitalization of $1.78 trillion.",
-      "symbols": [
-        "AVGO"
-      ],
-      "updated_at": "2026-07-20T21:15:27Z",
-      "url": "https://www.benzinga.com/news/26/07/60567225/100-invested-broadcom-15-years-ago-would-be-worth-much-today",
-      "_summary": "Broadcom (NASDAQ: AVGO ) has outperformed the market over the past 15 years by 24.09% on an annualized basis producing an average annual return of 36.22%. Currently, Broadcom has a market capitalization of $1.78 trillion. Buying $100 In AVGO: If an investor had bought $100 of AVGO stock 15 years ago, it would be worth $10,478.25 today based on a price of $378.01 for AVGO at the time of writing.",
-      "_zh_headline": "15 年前投资 Broadcom 的 100 美元在今天值这么多钱",
-      "_zh_summary": "Broadcom（纳斯达克股票代码：AVGO）在过去 15 年中的年化表现优于市场 24.09%，平均年回报率为 36.22%。目前，博通市值为1.78万亿美元。购买 100 美元的 AVGO：如果投资者 15 年前购买了 100 美元的 AVGO 股票，那么根据撰写本文时 AVGO 的价格为 378.01 美元，该股票今天的价值为 10,478.25 美元。",
-      "_added_at": "2026-07-20T23:32:27.614141+00:00"
+      "_added_at": "2026-07-21T07:11:03.914276+00:00"
     },
     {
       "author": "Benzinga Insights",
@@ -178,580 +214,7 @@
       "_summary": "Marvell Technology (NASDAQ: MRVL ) has outperformed the market over the past 10 years by 19.46% on an annualized basis producing an average annual return of 32.55%. Currently, Marvell Technology has a market capitalization of $174.41 billion. Buying $100 In MRVL: If an investor had bought $100 of MRVL stock 10 years ago, it would be worth $1,689.25 today based on a price of $194.32 for MRVL at the time of writing.",
       "_zh_headline": "以下是您在过去 10 年中持有 Marvell 科技股票会赚多少钱",
       "_zh_summary": "Marvell Technology（纳斯达克股票代码：MRVL）过去 10 年的年化表现优于市场 19.46%，平均年回报率为 32.55%。目前，Marvell科技的市值为1744.1亿美元。购买 100 美元的 MRVL：如果投资者 10 年前购买了 100 美元的 MRVL 股票，那么根据撰写本文时 MRVL 的价格 194.32 美元，该股票今天的价值为 1,689.25 美元。",
-      "_added_at": "2026-07-20T21:44:35.181288+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-20T18:40:24Z",
-      "headline": "IREN Stock Rally Sparks 40% Surge in Leveraged ETFs After $2.8 Billion AI Deal Win",
-      "id": 60562648,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/New-York-City--New-York---September-3-20.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/New-York-City--New-York---September-3-20.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/New-York-City--New-York---September-3-20.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "IREN stock surges 20% after raising its AI cloud revenue outlook, sending these leveraged ETFs soaring nearly 40%.",
-      "symbols": [
-        "IRE",
-        "IREG",
-        "IREN",
-        "IREX",
-        "MSFT",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-20T18:40:24Z",
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60562648/iren-stock-rally-sparks-40-surge-in-leveraged-etfs-after-2-8-billion-ai-deal-win",
-      "_summary": "– Tradr 2X Long IREN Daily ETF (BATS: IREX ) — up about 40% – Defiance Daily Target 2X Long IREN ETF (NYSE: IRE ) — up nearly 40% – Leverage Shares 2X Long IREN Daily ETF (NASDAQ: IREG ) — also gaining close to 40% The move illustrates how single-stock leveraged ETFs can magnify upside when a high-beta AI infrastructure stock experiences a sharp re-rating. All three ETFs seek to deliver 200% of IREN’s daily return through derivatives rather than direct stock ownership.",
-      "_zh_headline": "赢得 28 亿美元 AI 交易后，IREN 股价上涨，杠杆 ETF 飙升 40%",
-      "_zh_summary": "– Tradr 2X 多头 IREN 每日 ETF (BATS: IREX) — 上涨约 40% – Defiance Daily Target 2X 多头 IREN ETF (NYSE: IRE) — 上涨近 40% – Leverage Shares 2X 多头 IREN 每日 ETF (NASDAQ: IREG) — 也上涨近 40%高贝塔值人工智能基础设施股票经历了大幅重估。所有三只 ETF 都寻求通过衍生品而不是直接持有股票来实现 IREN 200% 的每日回报。",
-      "_added_at": "2026-07-20T21:44:35.181288+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-20T19:57:36Z",
-      "headline": "International Stocks Are Back. Harding Loevner's New LOEV ETF Wants In",
-      "id": 60565020,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/International-stocks.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/International-stocks.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/International-stocks.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Harding Loevner launches its first active ETF, LOEV, offering investors exposure to developed international stocks through a proven 16-year strategy.",
-      "symbols": [
-        "CGXU",
-        "LOEV",
-        "MFC",
-        "SHEL",
-        "TOUS"
-      ],
-      "updated_at": "2026-07-20T19:57:36Z",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60565020/international-stocks-are-back-harding-loevners-new-loev-etf-wants-in",
-      "_summary": "The new fund brings one of the firm’s longest-running international equity strategies into the ETF wrapper, offering investors a tax-efficient way to access developed-market stocks outside the U.S. as demand for active ETFs continues to expand. According to chairman and CEO Aaron Bellish , the ETF reflects the firm’s vehicle-agnostic approach to delivering investment strategies. This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.",
-      "_zh_headline": "国际股市回归。 Harding Loevner 的新 LOEV ETF 希望参与",
-      "_zh_summary": "该新基金将该公司运行时间最长的国际股票策略之一纳入 ETF 包装，随着对主动 ETF 的需求持续扩大，为投资者提供了一种投资美国以外发达市场股票的节税方式。董事长兼首席执行官亚伦·贝利什 (Aaron Bellish) 表示，该 ETF 体现了该公司采用与投资工具无关的方式来实施投资策略。该内容部分是在人工智能工具的帮助下制作的，并由 Benzinga 编辑审核和发布。",
-      "_added_at": "2026-07-20T20:09:42.654679+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-07-20T18:38:00Z",
-      "headline": "SpaceX Stock Selloff: ‘Don’t Even Think About Bottom-Fishing,’ Expert Says",
-      "id": 60562549,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Cali--Colombia---May-6-2022-spacex-Logo-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Cali--Colombia---May-6-2022-spacex-Logo-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Cali--Colombia---May-6-2022-spacex-Logo-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Former hedge fund manager Whitney Tilson thinks SpaceX shares are overvalued, even after falling below their IPO price.",
-      "symbols": [
-        "SPCX"
-      ],
-      "updated_at": "2026-07-20T18:38:00Z",
-      "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/07/60562549/spacex-stock-selloff-dont-even-think-about-bottom-fishing-expert-says",
-      "_summary": "SpaceX stock was priced at $135 for its record-breaking IPO. Shares listed at around $150 and quickly traded higher for weeks with strong demand. Last week, the stock came back to earth, and new lows continue to be hit on Monday. Last week amid the selloff, Tilson told investors they should continue to stay away. Tilson said he predicted many times previously that the stock was overvalued, calling SpaceX \"the most overvalued large-cap stock of all time.\"",
-      "_zh_headline": "专家称 SpaceX 股票遭抛售：“根本别想抄底”",
-      "_zh_summary": "SpaceX 首次公开募股 (IPO) 的股价为 135 美元，创下历史纪录。股价在 150 美元左右上市，并在需求强劲的情况下连续数周迅速走高。上周该股重回地面，周一继续创出新低。上周，在抛售期间，蒂尔森告诉投资者，他们应该继续远离。蒂尔森表示，他此前多次预测该股被高估，并称 SpaceX 是“有史以来被高估最多的大盘股”。",
-      "_added_at": "2026-07-20T20:09:42.654679+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-20T18:40:27Z",
-      "headline": "Cathie Wood’s Tempus AI Bet Is Bleeding — And the Chart Looks Worse Than Wall Street Thinks",
-      "id": 60562651,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Tempus-Options-Surge.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Tempus-Options-Surge.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Tempus-Options-Surge.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Tempus AI stock has fallen about 16% YTD. Cathie Wood still owns it as ARKK&#39;s 4th largest holding while analysts see nearly 38% upside. Here&#39;s what the chart says.",
-      "symbols": [
-        "AMD",
-        "ARKK",
-        "HOOD",
-        "PSNL",
-        "TEM",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-20T18:40:27Z",
-      "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60562651/tempus-ai-tem-stock-cathie-wood-bet-bleedingthinks",
-      "_summary": "The selloff has made one of Cathie Wood ‘s highest-conviction holdings considerably cheaper. The question now is whether the decline represents a buying opportunity—or a warning sign. According to consensus estimates from 19 analysts , Tempus carries an average price target of $66.50, implying roughly 37% upside from current levels.",
-      "_zh_headline": "Cathie Wood 的 Tempus AI 赌注正在流血——图表看起来比华尔街想象的更糟糕",
-      "_zh_summary": "这次抛售使得凯西·伍德最值得信赖的股票之一的价格大幅下跌。现在的问题是，下跌是否代表买入机会，还是警告信号。根据 19 名分析师的一致估计，Tempus 的平均目标价为 66.50 美元，这意味着较当前水平上涨约 37%。",
-      "_added_at": "2026-07-20T20:09:42.654679+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-20T17:35:12Z",
-      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "id": 60560387,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "symbols": [
-        "CRCL",
-        "IONQ",
-        "MSFT",
-        "NBIS",
-        "NVDA",
-        "ORCL",
-        "SNDK",
-        "TSM",
-        "VNET",
-        "WULF"
-      ],
-      "updated_at": "2026-07-20T17:35:12Z",
-      "url": "https://www.benzinga.com/markets/options/26/07/60560387/10-information-technology-stocks-whale-activity-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.",
-      "_zh_headline": "今日盘中 10 只信息科技股鲸鱼活动",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者会寻找期权的市场估计与其正常价值严重偏离的情况。大量的交易活动可能会将期权价格推至夸大或低估的水平。",
-      "_added_at": "2026-07-20T20:09:42.654679+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-20T17:06:42Z",
-      "headline": "Meta's Ad Machine Shows No Signs of Slowing: Analyst",
-      "id": 60559570,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Ljubljana--Slovenia---21-January-2023-Me.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "META stock rises as BofA reiterates a Buy rating and $835 target ahead of July 29 earnings. Read the full market analysis.",
-      "symbols": [
-        "META"
-      ],
-      "updated_at": "2026-07-20T17:06:42Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60559570/metas-ad-machine-shows-no-signs-of-slowing-analyst",
-      "_summary": "Meta Platforms Inc. (NASDAQ: META ) stock rose nearly 1% on Monday as investors continued buying mega-cap technology stocks in a broader risk-on session. The Nasdaq is up almost 1% while the S&P 500 has gained 0.37%. Attention is also shifting to the company’s July 29 earnings report after Bank of America said healthy advertising demand and expanding AI monetization could support upside. Bank of America reiterated its Buy rating on Meta and maintained its $835 price forecast.",
-      "_zh_headline": "分析师：Meta 的广告机没有放缓的迹象",
-      "_zh_summary": "Meta Platforms Inc.（纳斯达克股票代码：META）股价周一上涨近 1%，因投资者在更广泛的风险偏好时段继续买入大型科技股。纳斯达克指数上涨近 1%，标准普尔 500 指数上涨 0.37%。在美国银行表示健康的广告需求和不断扩大的人工智能货币化可能支持上涨之后，人们的注意力也转移到了该公司 7 月 29 日的收益报告上。美国银行重申对 Meta 的买入评级，并维持 835 美元的价格预测。",
-      "_added_at": "2026-07-20T20:09:42.654679+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-20T17:42:00Z",
-      "headline": "Chip Rebound Lifts Nasdaq 100, Micron Rallies 5%: Stock Market Today",
-      "id": 60560678,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/3d-Render-Closeup-Of-Computer-Keyboard-W.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/3d-Render-Closeup-Of-Computer-Keyboard-W.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/3d-Render-Closeup-Of-Computer-Keyboard-W.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Growth and chip stocks led a mixed Wall Street tape Monday as the S&amp;P 500 and Nasdaq 100 rose while the Dow and small caps slipped.",
-      "symbols": [
-        "AAON",
-        "AGNC",
-        "AMC",
-        "APLD",
-        "AVGO",
-        "BE",
-        "BTCUSD",
-        "CAVA",
-        "DIA",
-        "DPZ",
-        "GLXY",
-        "IREN",
-        "IWM",
-        "LITE",
-        "MU",
-        "QQQ",
-        "SMH",
-        "TEM",
-        "UWMC",
-        "VOO",
-        "XE",
-        "XLC",
-        "XLE",
-        "XLK"
-      ],
-      "updated_at": "2026-07-20T17:42:00Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60560678/stock-market-today-nasdaq-100-chip-stock-rebound",
-      "_summary": "U.S. stocks were mixed by midday Monday as a rebound in the beaten-down chip sector reignited the AI-infrastructure trade. Markets are also pricing in one Fed rate hike this year. The odds of a September move are holding above 60% ahead of next week’s FOMC meeting , where policymakers are widely expected to stay on hold. West Texas Intermediate crude held near $82.60 a barrel, roughly flat on the day but clinging to five-week highs after last week’s near-5% surge.",
-      "_zh_headline": "芯片反弹提振纳斯达克 100 指数，美光科技上涨 5%：今日股市",
-      "_zh_summary": "周一中午，美国股市涨跌互现，遭受重创的芯片行业的反弹重新点燃了人工智能基础设施交易。市场还预计美联储今年将加息一次。在下周的 FOMC 会议之前，9 月份采取行动的可能性保持在 60% 以上，人们普遍预计政策制定者将按兵不动。西德克萨斯中质原油价格维持在每桶 82.60 美元附近，当天大致持平，但在上周飙升近 5% 后，仍维持在五周高位。",
-      "_added_at": "2026-07-20T18:29:53.548764+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-07-20T16:35:30Z",
-      "headline": "Tech Selloff: Expert Says ‘Get Your Shopping List Ready' – Stocks ‘Took the Elevator Up and the Elevator Shaft Down’",
-      "id": 60558626,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/tech-stocks-slip.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/tech-stocks-slip.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/tech-stocks-slip.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "A technology stock selloff may have some investors worried. Market expert Jay Woods says investors should be ready to buy.",
-      "symbols": [
-        "AAPL",
-        "MU",
-        "NVDA",
-        "QQQ",
-        "SPY",
-        "XLK"
-      ],
-      "updated_at": "2026-07-20T16:35:30Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60558626/tech-selloff-expert-says-get-your-shopping-list-ready-stocks-took-the-elevator-up-and-the-elevator-shaft-down",
-      "_summary": "After months of surging valuations, technology stocks saw a selloff by investors late last week. The selloff sees potential concerns on valuations and has one market expert telling investors to get their shopping list ready. Freedom Capital Markets Chief Market Strategist Jay Woods has followed the markets for decades, which led to his lack of surprise at last week’s selloff for technology names and a potential market correction.",
-      "_zh_headline": "科技股抛售：专家表示“准备好你的购物清单”——股市“把电梯拉上来，又把电梯井拉下来”",
-      "_zh_summary": "经过数月估值飙升后，科技股上周晚些时候遭到投资者抛售。此次抛售引发了对估值的潜在担忧，一位市场专家告诉投资者准备好购物清单。 Freedom Capital Markets 首席市场策略师 Jay Woods 数十年来一直关注市场，这导致他对上周科技股的抛售和潜在的市场调整并不感到意外。",
-      "_added_at": "2026-07-20T18:29:53.548764+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-20T16:05:26Z",
-      "headline": "Dow Falls Over 100 Points; IREN Shares Jump",
-      "id": 60557553,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Portland--Or--Usa---Mar-12--2020-Dow-Jon.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stocks traded mixed midway through trading, with the Dow Jones index falling over 100 points on Monday.\n\n\n\nThe Dow traded down 0.21% to 52,036.64 while the NASDAQ climbed 0.79% to 25,720.74. The S&amp;P 500 also",
-      "symbols": [
-        "ADVB",
-        "AMC",
-        "GVH",
-        "IREN",
-        "QMLS",
-        "RYAAY",
-        "VCIG"
-      ],
-      "updated_at": "2026-07-20T16:05:26Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60557553/dow-falls-over-100-points-iren-shares-jump",
-      "_summary": "U.S. stocks traded mixed midway through trading, with the Dow Jones index falling over 100 points on Monday. The Dow traded down 0.21% to 52,036.64 while the NASDAQ climbed 0.79% to 25,720.74. The S&P 500 also rose, gaining, 0.40% to 7,487.38. Communication services shares jumped by 1.7% on Monday. In trading on Monday, financial stocks fell by 0.4%. Shares of Ryanair Holdings PLC (NASDAQ: RYAAY ) fell more than 5% on Monday following weak first-quarter results.",
-      "_zh_headline": "道指跌超100点； IREN 股价上涨",
-      "_zh_summary": "美股盘中涨跌互现，道琼斯指数周一跌超100点。道指下跌 0.21% 至 52,036.64 点，纳斯达克指数上涨 0.79% 至 25,720.74 点。标准普尔 500 指数也上涨 0.40%，至 7,487.38 点。周一，通信服务股上涨 1.7%。周一交易中，金融股下跌0.4%。继第一季度业绩疲软后，瑞安航空控股有限公司（纳斯达克股票代码：RYAAY）的股价周一下跌超过 5%。",
-      "_added_at": "2026-07-20T18:29:53.548764+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-20T15:59:25Z",
-      "headline": "Winners And Losers From Moonshot—Wall Street Fears Overblown—US May Ban Chinese Models",
-      "id": 60557342,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sk-Hynix.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sk-Hynix.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Sk-Hynix.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nMoonshot Winners And Losers\n\n\n\nPlease click here for an enlarged chart of Micron Technology Inc (NASDAQ:MU).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of",
-      "symbols": [
-        "AAOI",
-        "AAPL",
-        "AMD",
-        "AMZN",
-        "ARM",
-        "BTCUSD",
-        "COHR",
-        "GLW",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "LITE",
-        "META",
-        "MRVL",
-        "MSFT",
-        "MU",
-        "QQQ",
-        "SKHY",
-        "SPCX",
-        "SPY",
-        "SSNLF",
-        "TSLA",
-        "USO"
-      ],
-      "updated_at": "2026-07-20T16:01:11Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60557342/winners-and-losers-from-moonshot-wall-street-fears-overblown-us-may-ban-chinese-models",
-      "_summary": "Due to the security requirements and deepening distrust between the U.S. and China, the world is likely to be divided into two camps for AI: one dominated by the U.S. and the other dominated by China. Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. In the early trade, money flows are neutral in Meta Platforms Inc (NASDAQ: META ) .",
-      "_zh_headline": "登月计划的赢家和输家——华尔街的担忧被夸大了——美国可能禁止中国模特",
-      "_zh_summary": "由于安全需求和中美之间不断加深的不信任，世界人工智能很可能分为两个阵营：一个以美国为主，另一个以中国为主。大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。在早期交易中，Meta Platforms Inc（纳斯达克股票代码：META）的资金流向是中性的。",
-      "_added_at": "2026-07-20T18:29:53.548764+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-20T15:57:41Z",
-      "headline": "Microsoft Investors Brace for AI Reality Check As Earnings Near",
-      "id": 60557283,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Smart-Phone-With-The-Microsoft-Azure-Log.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Smart-Phone-With-The-Microsoft-Azure-Log.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Smart-Phone-With-The-Microsoft-Azure-Log.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Microsoft stock climbs as investors eye Q4 earnings. BofA maintains a Buy rating and $500 target. Read the full outlook.",
-      "symbols": [
-        "MSFT",
-        "TGRW",
-        "VOOG",
-        "XLK"
-      ],
-      "updated_at": "2026-07-20T15:59:55Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60557283/microsoft-investors-brace-for-ai-reality-check-as-earnings-near",
-      "_summary": "Microsoft Corp. (NASDAQ: MSFT ) stock is trading higher by almost 1% on Monday as big-cap technology stocks advance in a broader risk-on session. The Nasdaq has gained almost 1%, while the S&P 500 is up 0.33%. Technology is leading all sectors with a 0.9% gain. Investors are also looking ahead to Microsoft’s fiscal fourth-quarter earnings on July 29, with Wall Street closely watching Azure cloud growth, artificial intelligence monetization and capital spending, according to a new Bank of America research note.",
-      "_zh_headline": "随着盈利临近，微软投资者准备迎接人工智能现实检验",
-      "_zh_summary": "微软公司（纳斯达克股票代码：MSFT）的股价周一上涨近 1%，因为大型科技股在更广泛的风险偏好时段中上涨。纳斯达克指数上涨近 1%，标准普尔 500 指数上涨 0.33%。科技股以 0.9% 的涨幅领先于所有板块。根据美国银行的一份新研究报告，投资者也在期待微软 7 月 29 日公布的第四财季财报，华尔街密切关注 Azure 云的增长、人工智能货币化和资本支出。",
-      "_added_at": "2026-07-20T18:29:53.548764+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-20T15:45:57Z",
-      "headline": "Micron’s Moonshot Meets UBS: Was the AI Stock Warning Early or Just Unloved?",
-      "id": 60556918,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Trade-Business-Analytics-Graph-And-Finan.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Trade-Business-Analytics-Graph-And-Finan.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Trade-Business-Analytics-Graph-And-Finan.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "UBS warned to reduce risk in AI-related semi stocks in June. Call was right on short-term risk, early on returns, missed leadership change.",
-      "symbols": [
-        "AMD",
-        "MU",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-20T15:45:57Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60556918/microns-moonshot-meets-ubs-was-the-ai-stock-warning-early-or-just-unloved",
-      "_summary": "UBS’s June warning to \"reduce risk meaningfully\" in AI‑linked semi stocks landed in one of the most crowded trades in the market, and the past month has delivered enough volatility to judge it on more than vibes. UBS trading desk’s concern was based on a binary winners‑versus‑losers framework, stretched positioning and a narrative that treated an AI super‑cycle as if it were a straight line.",
-      "_zh_headline": "美光的登月计划与瑞银的邂逅：人工智能股票预警是过早还是只是不受欢迎？",
-      "_zh_summary": "瑞银 (UBS) 6 月份警告称，要“大幅降低”与人工智能相关的半成品股票的风险，这一警告引发了市场上最拥挤的交易之一，而过去一个月的波动性足以让我们不仅仅根据氛围来判断。瑞银交易部门的担忧是基于二元赢家与输家的框架、延伸的定位以及将人工智能超级周期视为一条直线的叙述。",
-      "_added_at": "2026-07-20T18:29:53.548764+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-20T13:54:24Z",
-      "headline": "Nasdaq Surges 1%; Domino’s Shares Gain After Q2 results",
-      "id": 60552140,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/iRobot-Corp-NASDAQIRBT.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/iRobot-Corp-NASDAQIRBT.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/iRobot-Corp-NASDAQIRBT.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "US stocks higher, Nasdaq up 1% as Dow rises 0.25%. Domino&#39;s Pizza stock increases 4% on revenue beat. Oil down 0.8% and gold down 0.1%.",
-      "symbols": [
-        "ADVB",
-        "BIYA",
-        "DPZ",
-        "GVH",
-        "LBGJ",
-        "VCIG",
-        "ZYBT"
-      ],
-      "updated_at": "2026-07-20T13:54:24Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60552140/nasdaq-surges-1-dominos-shares-gain-after-q2-results",
-      "_summary": "U.S. stocks traded higher this morning, with the Nasdaq Composite gaining more than 1% on Monday. Following the market opening Monday, the Dow traded up 0.25% to 52,276.40 while the NASDAQ climbed 1.05% to 25,788.54. The S&P 500 also rose, gaining, 0.68% to 7,508.15. Communication services shares jumped by 1.6% on Monday. In trading on Monday, consumer staples stocks fell by 0.3%. Domino’s Pizza Inc.",
-      "_zh_headline": "纳斯达克指数上涨 1%；第二季度业绩公布后，达美乐股价上涨",
-      "_zh_summary": "今天上午美国股市走高，纳斯达克综合指数周一上涨超过 1%。周一开盘后，道指上涨 0.25% 至 52,276.40 点，纳斯达克指数上涨 1.05% 至 25,788.54 点。标准普尔 500 指数也上涨 0.68%，至 7,508.15 点。周一，通信服务股上涨 1.6%。周一交易中，消费必需品股下跌 0.3%。达美乐披萨公司",
-      "_added_at": "2026-07-20T15:30:33.768969+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-07-20T15:00:17Z",
-      "headline": "Martin Shkreli Says Micron Is Closing In on Nvidia's Profits: 'I Like Micron Right Now'",
-      "id": 60555121,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Former hedge fund manager Martin Shkreli says Micron (MU) is closing the profit gap with Nvidia (NVDA), brushing off the latest memory selloff.",
-      "symbols": [
-        "MU",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-20T15:00:18Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60555121/martin-shkreli-says-micron-is-closing-in-on-nvidias-profits-i-like-micron-right-now",
-      "_summary": "“You guys are staring at the abyss 30 minutes ago thinking like, how do I explain this to my wifey?” he said on a livestream as the market recovered. “We going to Red Lobster again? Again?” The panic obscured what he sees as the real story. “I think they’re going to do more net income than Nvidia just even next quarter,” Shkreli said, before pulling up the figures. Micron reportedly earned $28 billion last quarter against Nvidia’s $58 billion, with the gap projected to narrow to $35 billion versus $51 billion.",
-      "_zh_headline": "Martin Shkreli 表示美光正在接近 Nvidia 的利润：“我现在喜欢美光”",
-      "_zh_summary": "“三十分钟前你们还盯着深渊想，我该如何向我的妻子解释这件事？”随着市场复苏，他在直播中说道。 “我们又去红龙虾店？又去？”恐慌掩盖了他所看到的真实故事。 “我认为，即使是下个季度，他们的净利润也会超过英伟达，”施克莱利在调出这些数字之前说道。据报道，美光上季度的营收为 280 亿美元，而英伟达为 580 亿美元，预计差距将缩小至 350 亿美元和 510 亿美元。",
-      "_added_at": "2026-07-20T15:30:33.768969+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-20T14:35:27Z",
-      "headline": "QUICK SPARK: Energy Overtakes Technology As 2026's Best Sector",
-      "id": 60554062,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Benzinga-Quick-Spark.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/20/Benzinga-Quick-Spark.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Energy has overtaken tech as 2026&#39;s best sector, up 29% as the Iran war lifts oil. XLE jumped 9% in July while XLK fell 6.8% on the chip rout.",
-      "symbols": [
-        "SPY",
-        "XLE",
-        "XLK"
-      ],
-      "updated_at": "2026-07-20T14:35:27Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60554062/energy-overtakes-tech-best-sector-2026",
-      "_summary": "Energy has quietly taken the crown after the collapse of the June U.S.-Iran ceasefire and a fresh wave of strikes across the Middle East. The Energy Select Sector SPDR Fund (NYSE: XLE ) has risen 29.4% in 2026, overtaking technology — up 23% — as the stock market’s best-performing sector. Renewed fighting between the U.S. and Iran has pushed Brent crude back near $85 a barrel, with the Strait of Hormuz — the chokepoint that carries roughly a fifth of the world’s seaborne oil — still blocked.",
-      "_zh_headline": "QUICK SPARK：能源取代技术成为 2026 年最佳行业",
-      "_zh_summary": "在六月美伊停火破裂以及中东新一轮袭击浪潮之后，能源悄然占据了王位。能源精选行业 SPDR 基金（纽约证券交易所股票代码：XLE）在 2026 年上涨了 29.4%，超过上涨 23% 的科技股，成为股市表现最佳的行业。美国和伊朗之间的新一轮战斗已将布伦特原油价格推至每桶 85 美元附近，而霍尔木兹海峡——输送全球约五分之一海运石油的咽喉要道——仍然被封锁。",
-      "_added_at": "2026-07-20T15:30:33.768969+00:00"
+      "_added_at": "2026-07-21T07:11:03.914276+00:00"
     }
   ]
 }
