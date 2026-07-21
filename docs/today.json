@@ -2,6 +2,155 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-21T19:52:28Z",
+      "headline": "These 7 Small Caps Are on Fire as the Second Half Begins: Here’s Why",
+      "id": 60593569,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Russell-2000-Index--Text-On-Notebook-Wit.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Russell-2000-Index--Text-On-Notebook-Wit.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Russell-2000-Index--Text-On-Notebook-Wit.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Seven small-cap stocks have surged as much as 123% in early July on buyouts, FDA developments, refinancing deals and short squeezes.",
+      "symbols": [
+        "ADCT",
+        "CRNX",
+        "IWM",
+        "OFIX",
+        "RGNX",
+        "RPD",
+        "SOC",
+        "VRTX",
+        "VSTM",
+        "XOM"
+      ],
+      "updated_at": "2026-07-21T19:52:28Z",
+      "url": "https://www.benzinga.com/markets/small-cap/26/07/60593569/russell-2000-small-cap-stocks-july-biggest-gainers-2026",
+      "_summary": "The Russell 2000 opened the second half of 2026 pinned near a record around 3,000, going almost nowhere since the first half closed. Underneath that flat tape, seven small caps ripped 28% or more in just four trading sessions. The index, as tracked by the iShares Russell 2000 ETF (NYSE: IWM ) , is coming off a 22% first-half gain, its best opening six months since 1991. Most of these seven names are still deep underwater for the year, which is the tell: this is not broad small-cap strength lifting everything.",
+      "_zh_headline": "下半场一开始，这 7 只小盘股就火热起来：原因如下",
+      "_zh_summary": "Russell 2000 指数在 2026 年下半年开局时就锁定在 3,000 点左右的纪录附近，自上半年结束以来几乎没有任何进展。在这个平坦的大盘之下，七只小盘股在短短四个交易日内就上涨了 28% 或更多。 iShares Russell 2000 ETF（纽约证券交易所股票代码：IWM）追踪的该指数上半年上涨了 22%，这是自 1991 年以来六个月以来最好的开盘价。这七只股票中的大多数今年仍深陷水底，这说明：这并不是小盘股的全面走强。",
+      "_added_at": "2026-07-21T22:27:40.054420+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-21T20:25:02Z",
+      "headline": "A Hidden Fed Disconnect Could Become the Market's Biggest Risk",
+      "id": 60594993,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/View-Of-The-The-Front-Of-The-United-Stat.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/View-Of-The-The-Front-Of-The-United-Stat.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/View-Of-The-The-Front-Of-The-United-Stat.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Top economists expect Fed cuts in 2027, but CME FedWatch prices two hikes. Here&#39;s why the disconnect could matter for stocks.",
+      "symbols": [
+        "SPY"
+      ],
+      "updated_at": "2026-07-21T20:25:02Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60594993/wall-street-fed-cuts-vs-fedwatch-rate-hikes-2027",
+      "_summary": "The biggest macro disagreement on Wall Street today isn’t about inflation or economic growth. It’s about the direction of interest rates.",
+      "_zh_headline": "美联储隐性脱节可能成为市场最大风险",
+      "_zh_summary": "当今华尔街最大的宏观分歧不是通货膨胀或经济增长。这是关于利率的方向。",
+      "_added_at": "2026-07-21T22:27:40.054420+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-21T20:53:50Z",
+      "headline": "Trump's Ally Hints at Blocking Netflix, Amazon, ESPN From 2030 World Cup Rights",
+      "id": 60596032,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Zhongshan-China-july-19-2025-2026-World-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Zhongshan-China-july-19-2025-2026-World-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Zhongshan-China-july-19-2025-2026-World-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A strong 2026 World Cup could spark a bidding war for 2030 and 2034 U.S. media rights to the soccer tournament.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "CMCSA",
+        "DIS",
+        "FOX",
+        "FOXA",
+        "GOOG",
+        "GOOGL",
+        "NFLX"
+      ],
+      "updated_at": "2026-07-21T20:53:50Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60596032/trumps-ally-hints-at-blocking-netflix-amazon-espn-from-2030-world-cup-rights",
+      "_summary": "Politics could quickly become involved, with the FCC suggesting streamers need not bid. Four years from now, the 2030 World Cup will be hosted in Morocco, Portugal and Spain. Several companies could emerge victorious from the soccer tournament, including whoever gets the media rights in the U.S. Fox and Telemundo, which is owned by Comcast, have shared the rights for English and Spanish language rights, respectively, in the United States for the last three years.",
+      "_zh_headline": "特朗普的盟友暗示将阻止 Netflix、亚马逊和 ESPN 接收 2030 年世界杯转播权",
+      "_zh_summary": "政治可能很快就会介入，美国联邦通信委员会建议流媒体无需竞标。四年后，2030 年世界杯将在摩洛哥、葡萄牙和西班牙举办。几家公司可能会从足球锦标赛中获胜，其中包括获得美国媒体转播权的公司。福克斯和康卡斯特旗下的 Telemundo 在过去三年中分别分享了美国英语和西班牙语的转播权。",
+      "_added_at": "2026-07-21T22:27:40.054420+00:00"
+    },
+    {
+      "author": "Parshwa Turakhiya",
+      "content": "",
+      "created_at": "2026-07-21T18:46:26Z",
+      "headline": "Bitcoin Hits $66,000 on Clarity Act Hopes — But Bitwise's Jeff Park Says the Market Is Getting Ahead of Itself",
+      "id": 60591331,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Bitcoin.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Bitcoin.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Bitcoin.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bitcoin hits $66,000 on Clarity Act hopes, but Jeff Park warns the rally may be premature without Democratic support.",
+      "symbols": [
+        "BTCUSD",
+        "CRCL",
+        "ETHUSD",
+        "HOOD",
+        "SPY"
+      ],
+      "updated_at": "2026-07-21T18:46:26Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60591331/bitcoin-hits-66000-on-clarity-act-hopes-but-bitwises-jeff-park-says-the-market-is-getting-ahead-of-itself",
+      "_summary": "Bitcoin (CRYPTO: BTC) rallied to $66,000 on Tuesday on Clarity Act optimism, but Bitwise Capital partner Jeff Park warned the market is getting ahead of itself with no Democratic support in place. Jeff Park told The Wolf Of All Streets podcast that the news flow around the Clarity Act is coming entirely from the Republican side, which he said is the part of the story markets are missing.",
+      "_zh_headline": "清晰法案的希望推动比特币价格达到 66,000 美元——但 Bitwise 的杰夫·帕克 (Jeff Park) 表示市场有些超前了",
+      "_zh_summary": "周二，由于《澄清法案》的乐观情绪，比特币 (CRYPTO: BTC) 上涨至 66,000 美元，但 Bitwise Capital 合伙人 Jeff Park 警告称，在没有民主党支持的情况下，市场正在走向超前。杰夫·帕克（Jeff Park）告诉“所有街道之狼”播客，围绕《澄清法案》的新闻完全来自共和党方面，他说这是故事市场所缺失的部分。",
+      "_added_at": "2026-07-21T22:27:40.054420+00:00"
+    },
+    {
       "author": "Chandrima Sanyal",
       "content": "",
       "created_at": "2026-07-21T19:15:50Z",
@@ -643,157 +792,6 @@
       "_zh_headline": "美光、闪迪刚刚打破了贸易势头：SPMO 面临有史以来最糟糕的一个月",
       "_zh_summary": "十年来，标普 500 指数的动量策略一直领先于市场，因为它做了一件事：买入任何已经获胜的股票。 7 月，同样的策略让它遭遇了历史上最糟糕的一个月。在同一十年中，该 ETF 较成立之初仍上涨了 470% 以上，这一举动将利基因素押注变成了 209.3 亿美元的基金。动量投资很容易描述。",
       "_added_at": "2026-07-21T14:35:30.423065+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-21T14:00:53Z",
-      "headline": "Intel Earnings Could Raise the Stakes: Is the Turnaround Story Done?",
-      "id": 60578824,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel heads into earnings after reports of new data center layoffs. Here&#39;s why the turnaround story may still have another chapter.",
-      "symbols": [
-        "AMD",
-        "INTC",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-21T14:00:53Z",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60578824/intel-earnings-could-raise-the-stakes-is-the-turnaround-story-done",
-      "_summary": "Intel confirmed the organizational changes after CNBC reported the planned layoffs, saying the move is intended to ensure the business has “the right roles and skills in place to better serve the needs of our customers and strengthen our execution.” For investors, however, the announcement raises a bigger question. That makes management’s commentary during Thursdays earnings call arguably more important than the quarterly numbers themselves.",
-      "_zh_headline": "英特尔盈利可能会增加赌注：扭亏为盈的故事完成了吗？",
-      "_zh_summary": "在 CNBC 报道计划裁员后，英特尔证实了这一组织变革，称此举旨在确保该业务部门“拥有合适的角色和技能，以更好地满足客户的需求并加强我们的执行力”。然而，对于投资者来说，这一公告提出了一个更大的问题。这使得管理层在周四的财报电话会议上的评论可以说比季度数据本身更重要。",
-      "_added_at": "2026-07-21T14:35:30.423065+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-21T14:08:58Z",
-      "headline": "What Is Going On With Arm Stock On Tuesday?",
-      "id": 60579405,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Arm-Logo-On-Dark-Chip-Mounted-On-Green-P.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Arm-Logo-On-Dark-Chip-Mounted-On-Green-P.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Arm-Logo-On-Dark-Chip-Mounted-On-Green-P.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Arm Holdings stock jumped over 4% on Tuesday as investors consider the company&#39;s vital CPU role in rising AI rack-scale platforms.",
-      "symbols": [
-        "AMD",
-        "ARM",
-        "META",
-        "MSFT",
-        "NVDA",
-        "ORCL",
-        "QQEW",
-        "QTEC",
-        "SMHX"
-      ],
-      "updated_at": "2026-07-21T14:08:58Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60579405/what-is-going-on-with-arm-stock-on-tuesday",
-      "_summary": "Arm Holdings plc (NASDAQ: ARM ) stock rose Tuesday as investors continued to focus on AI-chip supply chains and rack-scale system competition across the semiconductor sector. The company’s stock gained about 5% as broader market sentiment improved, with S&P 500 futures up 0.5%. The move came as investors assessed how the latest AI hardware cycle could affect companies tied to hyperscale computing, CPU architectures and semiconductor IP.",
-      "_zh_headline": "周二 Arm 股票怎么样？",
-      "_zh_summary": "Arm Holdings plc（纳斯达克股票代码：ARM）股价周二上涨，因投资者继续关注整个半导体行业的人工智能芯片供应链和机架规模系统竞争。随着整体市场情绪改善，该公司股价上涨约 5%，标准普尔 500 指数期货上涨 0.5%。此举出台之际，投资者正在评估最新的人工智能硬件周期将如何影响与超大规模计算、CPU 架构和半导体 IP 相关的公司。",
-      "_added_at": "2026-07-21T14:35:30.423065+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-21T10:18:17Z",
-      "headline": "Stock Market Today: Dow Jones, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally—Nebius, Archer, IREN in Focus",
-      "id": 60570908,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures advanced on Tuesday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices rose, following Monday&#39;s lower close.",
-      "symbols": [
-        "ACHR",
-        "AVGO",
-        "BTCUSD",
-        "CBRL",
-        "IREN",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "QQQ",
-        "SOXQ",
-        "SPY",
-        "STLD"
-      ],
-      "updated_at": "2026-07-21T10:18:17Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60570908/stock-market-today-dow-jones-nasdaq-100-futures-rise-as-tech-stocks-lead-the-rally-nebius-archer-iren-in-focus",
-      "_summary": "U.S. stock futures advanced on Tuesday, as the Dow Jones, Nasdaq 100, and S&P 500 indices rose, following Monday’s lower close. Meanwhile, Yemen’s Iran-aligned Houthis announced a naval blockade on Saudi Arabia on Monday, threatening to open a new front in the U.S.–Iran conflict and further endangering global trade and energy supplies beyond the Persian Gulf. Additionally, at President Donald Trump ’s direction, U.S.",
-      "_zh_headline": "今日股市：道琼斯指数、纳斯达克 100 指数期货上涨，科技股领涨 — Nebius、Archer、IREN 成为焦点",
-      "_zh_summary": "美国股指期货周二上涨，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周一收盘走低后上涨。与此同时，也门与伊朗结盟的胡塞武装周一宣布对沙特阿拉伯实施海上封锁，威胁要在美伊冲突中开辟新战线，并进一步危及波斯湾以外的全球贸易和能源供应。此外，在唐纳德·特朗普总统的指示下，美国",
-      "_added_at": "2026-07-21T12:09:15.722932+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-21T12:04:33Z",
-      "headline": "Economist Mark Zandi Blames Trump Tariffs, Restrictive Immigration Policies for Higher Cost of Living: 'High Inflation Is a Policy Choice'",
-      "id": 60573616,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/100-Us-Dollar-Note-On-A-Usa-Flag-With-Wo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/100-Us-Dollar-Note-On-A-Usa-Flag-With-Wo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/100-Us-Dollar-Note-On-A-Usa-Flag-With-Wo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Economist Mark Zandi reveals why high inflation is a &#34;policy choice,&#34; driven by tariffs and strict immigration laws raising living costs.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-21T12:04:33Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60573616/economist-mark-zandi-blames-trump-tariffs-restrictive-immigration-policies-for-higher-cost-of-living-high-inflation-is-a-policy-choice",
-      "_summary": "With inflation running above the Federal Reserve’s target for 64 consecutive months , Moody’s Analytics Chief Economist Mark Zandi says higher consumer prices are not an accident but a direct result of government policy decisions. By breaking down the underlying economic math, Zandi points to trade tariffs imposed by the Donald Trump administration and restrictive immigration laws as the primary culprits preventing price stability in the current economy.",
-      "_zh_headline": "经济学家马克·赞迪将生活成本上升归咎于特朗普的关税和限制性移民政策：“高通胀是一种政策选择”",
-      "_zh_summary": "穆迪分析首席经济学家马克赞迪表示，随着通胀连续64个月高于美联储目标，消费者价格上涨并非偶然，而是政府政策决定的直接结果。通过分析基本的经济数学，赞迪指出唐纳德·特朗普政府征收的贸易关税和限制性移民法是阻碍当前经济价格稳定的罪魁祸首。",
-      "_added_at": "2026-07-21T12:09:15.722932+00:00"
     }
   ]
 }
