@@ -2,6 +2,76 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-21T19:31:14Z",
+      "headline": "Tesla Earnings Could Move $83 Billion in Market Value",
+      "id": 60592947,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Earnings-Strength.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Earnings-Strength.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Earnings-Strength.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Earnings set to hit the tape on Wednesday, options markets imply a 5.44% move for IBM and 5.91% for Tesla. Both stocks have seen declines in 2026.",
+      "symbols": [
+        "GEV",
+        "GLW",
+        "IBM",
+        "INTC",
+        "NOW",
+        "TSLA",
+        "TXN"
+      ],
+      "updated_at": "2026-07-21T19:31:14Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60592947/tesla-earnings-could-move-83-billion-in-market-value",
+      "_summary": "Earnings are set to hit the tape on Wednesday, and options markets are already sketching out the size of the post-print swing investors may have to stomach. Implied moves can be a quick read on how much uncertainty traders see around results and guidance, according to Benzinga Pro . The marquee name on this Benzinga-selected list is Tesla, but the biggest implied move is saved for the final section as the countdown runs from the calmest setup to the most volatile.",
+      "_zh_headline": "特斯拉盈利可能使市值增加 830 亿美元",
+      "_zh_summary": "企业财报将于周三公布，期权市场已经勾勒出投资者可能不得不承受的印后波动幅度。 Benzinga Pro 表示，通过隐含的走势可以快速了解交易者对结果和指引的不确定性。 Benzinga 选出的名单上最引人注目的名字是特斯拉，但最大的隐含走势被保留在最后部分，因为倒计时从最平静的设置到最不稳定的设置。",
+      "_added_at": "2026-07-21T23:32:00.542423+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-21T23:00:41Z",
+      "headline": "Here’s How Much You Would Have Made Owning SPDR Gold Shares Stock In The Last 5 Years",
+      "id": 60597489,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SPDR Gold Shares (NYSE:GLD) has outperformed the market over the past 5 years by 6.23% on an annualized basis producing an average annual return of 17.39%. Currently, SPDR Gold Shares has a market capitalization of",
+      "symbols": [
+        "GLD"
+      ],
+      "updated_at": "2026-07-21T23:00:41Z",
+      "url": "https://www.benzinga.com/news/26/07/60597489/here-s-how-much-you-would-have-made-owning-spdr-gold-shares-stock-last-5-years",
+      "_summary": "SPDR Gold Shares (NYSE: GLD ) has outperformed the market over the past 5 years by 6.23% on an annualized basis producing an average annual return of 17.39%. Currently, SPDR Gold Shares has a market capitalization of $132.12 billion. Buying $100 In GLD: If an investor had bought $100 of GLD stock 5 years ago, it would be worth $222.36 today based on a price of $374.61 for GLD at the time of writing.",
+      "_zh_headline": "以下是您在过去 5 年内持有 SPDR Gold Shares 股票可以获得的收入",
+      "_zh_summary": "SPDR Gold Shares（纽约证券交易所股票代码：GLD）过去 5 年的年化表现优于市场 6.23%，平均年回报率为 17.39%。目前，SPDR Gold Shares 的市值为 1321.2 亿美元。购买 100 美元的 GLD：如果投资者 5 年前购买了 100 美元的 GLD 股票，那么根据撰写本文时 GLD 的价格为 374.61 美元，该股票今天的价值为 222.36 美元。",
+      "_added_at": "2026-07-21T23:32:00.542423+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-21T19:52:28Z",
@@ -713,84 +783,6 @@
       "_summary": "Semiconductor ETFs have been among the strongest asset gatherers in 2026 as investors continue to position for spending tied to artificial intelligence, memory chips and advanced computing infrastructure. Recent inflows into funds such as SOXX and leveraged products like SOXL reflect persistent demand for chipmakers despite elevated valuations and occasional bouts of sector volatility.",
       "_zh_headline": "QUICK SPARK：半导体 ETF 主导资金流入，SOXX、SOXL 单日流入超过 21 亿美元",
       "_zh_summary": "随着投资者继续布局与人工智能、存储芯片和先进计算基础设施相关的支出，半导体 ETF 已成为 2026 年最强劲的资产收集者之一。尽管估值较高且偶尔出现行业波动，但近期流入 SOXX 等基金和 SOXL 等杠杆产品的资金反映了对芯片制造商的持续需求。",
-      "_added_at": "2026-07-21T14:35:30.423065+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-21T14:34:14Z",
-      "headline": "Marvell Stock Jumps As AI Infrastructure Spending Boom Powers Semiconductor Rally",
-      "id": 60581055,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Marvell.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Marvell.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Marvell.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Marvell Technology stock surged as investors rotated back into AI infrastructure names following major rack-scale hardware developments.",
-      "symbols": [
-        "AMD",
-        "CHPY",
-        "FTXL",
-        "META",
-        "MRVL",
-        "MSFT",
-        "NVDA",
-        "ORCL",
-        "SOXQ"
-      ],
-      "updated_at": "2026-07-21T14:34:14Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60581055/marvell-stock-ai-spending-boom-powers-semiconductor-rally",
-      "_summary": "Marvell Technology, Inc. (NASDAQ: MRVL ) shares rose on Tuesday as investors moved back into AI infrastructure names tied to data-center expansion. The company’s stock price gained nearly 6% premarket, while S&P 500 futures rose 0.4%. AMD is positioning Helios as a direct rival to NVIDIA Corp.’s (NASDAQ: NVDA ) Grace Blackwell and Vera Rubin systems. Futurum Group estimates Nvidia controls more than 95% of the data-center GPU market, while AMD holds about 4.5%.",
-      "_zh_headline": "人工智能基础设施支出热潮推动半导体涨势，Marvell 股价上涨",
-      "_zh_summary": "Marvell Technology, Inc.（纳斯达克股票代码：MRVL）股价周二上涨，因投资者重新投资与数据中心扩张相关的人工智能基础设施。该公司股价盘前上涨近6%，标准普尔500指数期货上涨0.4%。 AMD 将 Helios 定位为 NVIDIA 公司（纳斯达克股票代码：NVDA）Grace Blackwell 和 Vera Rubin 系统的直接竞争对手。 Futurum Group 估计 Nvidia 控制着数据中心 GPU 市场 95% 以上的份额，而 AMD 则占据约 4.5% 的份额。",
-      "_added_at": "2026-07-21T14:35:30.423065+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-21T12:58:35Z",
-      "headline": "Micron, SanDisk Just Broke the Momentum Trade: SPMO Faces Its Worst Month Ever",
-      "id": 60575305,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Western-Digital-Momentum.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Western-Digital-Momentum.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Western-Digital-Momentum.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SPMO ETF is on pace for its worst month since 2015, down 10.54%. Micron and a memory-chip selloff drove it.",
-      "symbols": [
-        "INTC",
-        "LRCX",
-        "MU",
-        "SNDK",
-        "SPMO",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-07-21T12:58:35Z",
-      "url": "https://www.benzinga.com/markets/large-cap/26/07/60575305/spmo-worst-month-micron-memory-selloff",
-      "_summary": "The S&P 500’s momentum strategy has beaten the market for a decade by doing one thing: buying whatever is already winning. In July, that same strategy handed it the worst month in its history. Over that same decade, the ETF is still up more than 470% from inception, a run that turned a niche factor bet into a $20.93 billion fund. Momentum investing is simple to describe.",
-      "_zh_headline": "美光、闪迪刚刚打破了贸易势头：SPMO 面临有史以来最糟糕的一个月",
-      "_zh_summary": "十年来，标普 500 指数的动量策略一直领先于市场，因为它做了一件事：买入任何已经获胜的股票。 7 月，同样的策略让它遭遇了历史上最糟糕的一个月。在同一十年中，该 ETF 较成立之初仍上涨了 470% 以上，这一举动将利基因素押注变成了 209.3 亿美元的基金。动量投资很容易描述。",
       "_added_at": "2026-07-21T14:35:30.423065+00:00"
     }
   ]
