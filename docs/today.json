@@ -2,6 +2,111 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Eva Mathew",
+      "content": "",
+      "created_at": "2026-07-21T08:29:06Z",
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "id": 60569710,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/People-Silhouettes-On-American-Stock-Mar.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/People-Silhouettes-On-American-Stock-Mar.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/People-Silhouettes-On-American-Stock-Mar.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "July 21, 2026: Polymarket traders expect the S&amp;P 500 to rebound despite Middle East tensions as earnings season gathers pace.",
+      "symbols": [
+        "GM",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "MMM",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-21T08:29:06Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60569710/sp500-july-21-open-up-or-down-polymarket-iran-ceasefire-oil-earnings-ai",
+      "_summary": "The S&P 500 slipped on Monday as rising oil prices and renewed Middle East tensions weighed on sentiment, but Polymarket traders are overwhelmingly betting the benchmark index will rebound at Tuesday’s open as earnings season gathers pace. The S&P 500 fell 0.19% to close at 7,443.28. However, the July 21 Polymarket contract implied a 95% probability that the index will open higher on Tuesday. Markets are attempting to balance geopolitical risks against a busy corporate earnings calendar.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "由于油价上涨和中东紧张局势再度升级打压市场情绪，标准普尔 500 指数周一下跌，但 Polymarket 交易员绝大多数押注随着财报季节加快，该基准指数将在周二开盘反弹。标准普尔 500 指数下跌 0.19%，收于 7,443.28 点。然而，7 月 21 日的 Polymarket 合约暗示该指数周二高开的可能性为 95%。市场正试图在地缘政治风险与繁忙的企业财报日历之间取得平衡。",
+      "_added_at": "2026-07-21T10:03:48.432651+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-21T09:59:00Z",
+      "headline": "What's Going on With Micron Technology Stock Tuesday?",
+      "id": 60570266,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Los-Angeles--California---24-January-202.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Los-Angeles--California---24-January-202.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Los-Angeles--California---24-January-202.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron (MU) stock gains 6% premarket as AI memory demand surges. Explore analyst price targets, key risks, and earnings expectations.",
+      "symbols": [
+        "MU",
+        "SKHY",
+        "SOXQ",
+        "SOXX",
+        "SPMO"
+      ],
+      "updated_at": "2026-07-21T09:59:00Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60570266/whats-going-on-with-micron-technology-stock-tuesday-4",
+      "_summary": "The move is also lining up with a firmer risk tone pre-bell. Nasdaq futures are up 1.36% while S&P 500 futures have gained 0.52%. His reasoning is simple—if AI-driven price increases begin to weigh on PC and smartphone makers, or encourage new competitors to enter the market, today’s supercycle could prove shorter than investors expect. He flagged expectations for overall memory demand to rise more than 50% to 60% next year, while AI-specific demand could climb 60% to 100%.",
+      "_zh_headline": "周二美光科技股票怎么样？",
+      "_zh_summary": "此举也与开盘前风险基调更为坚挺的情况相一致。纳斯达克期货上涨 1.36%，标准普尔 500 指数期货上涨 0.52%。他的理由很简单——如果人工智能驱动的价格上涨开始给个人电脑和智能手机制造商带来压力，或者鼓励新的竞争对手进入市场，那么今天的超级周期可能会比投资者预期的要短。他预计明年整体内存需求将增长 50% 至 60% 以上，而人工智能特定需求可能增长 60% 至 100%。",
+      "_added_at": "2026-07-21T10:03:48.432651+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-21T09:58:34Z",
+      "headline": "Comparing Micron Technology With Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "id": 60570253,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_8.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_8.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_8.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Amidst the fast-paced and highly competitive business environment of today, conducting comprehensive company analysis is essential for investors and industry enthusiasts. In this article, we will delve into an extensive",
+      "symbols": [
+        "MU"
+      ],
+      "updated_at": "2026-07-21T09:58:34Z",
+      "url": "https://www.benzinga.com/news/26/07/60570253/comparing-micron-technology-industry-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "_summary": "Micron is one of the largest semiconductor companies in the world, specializing in memory and storage chips. Its primary revenue stream comes from dynamic random access memory, or DRAM, and it also has minority exposure to not-and or NAND, flash chips. Micron serves a global customer base, selling chips into data centers, mobile phones, consumer electronics, and industrial and automotive applications. The firm is vertically integrated.",
+      "_zh_headline": "美光科技与半导体及半导体设备行业竞争对手的比较",
+      "_zh_summary": "美光是全球最大的半导体公司之一，专注于内存和存储芯片。其主要收入来源来自动态随机存取存储器 (DRAM)，并且少数业务涉及非与或 NAND 闪存芯片。美光科技服务于全球客户群，向数据中心、移动电话、消费电子产品以及工业和汽车应用销售芯片。该公司是垂直整合的。",
+      "_added_at": "2026-07-21T10:03:48.432651+00:00"
+    },
+    {
       "author": "Aniket Verma",
       "content": "",
       "created_at": "2026-07-21T01:51:14Z",
