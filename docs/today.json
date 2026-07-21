@@ -2,6 +2,49 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-21T19:15:50Z",
+      "headline": "SpaceX Millionaires Fuel Mark Cuban's Stock Ownership Case—and These ETFs Stand to Benefit",
+      "id": 60592484,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Los-Angeles---Jan-8-Mark-Cuban-At-The-Sp.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Los-Angeles---Jan-8-Mark-Cuban-At-The-Sp.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Los-Angeles---Jan-8-Mark-Cuban-At-The-Sp.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Mark Cuban says every worker should own stock. SpaceX&#39;s IPO shows why. Here&#39;s how ETFs offer exposure to America&#39;s biggest wealth creators.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "AVGO",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SPCF",
+        "SPCM",
+        "SPCX",
+        "VGT",
+        "XLK"
+      ],
+      "updated_at": "2026-07-21T19:15:50Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60592484/spacex-millionaires-fuel-mark-cubans-stock-ownership-case-and-these-etfs-stand-to-benefit",
+      "_summary": "Billionaire investor Mark Cuban ‘s stock options philosophy is shining a spotlight on a theme already familiar to ETF investors. Many of the market’s biggest wealth creators that are using the option of giving every employee an ownership stake, are also the largest holdings in technology-focused funds . He also suggested governments could encourage the practice by offering lower corporate tax rates to companies that distribute equity more broadly.",
+      "_zh_headline": "SpaceX 百万富翁推动 Mark Cuban 的股权诉讼——这些 ETF 将从中受益",
+      "_zh_summary": "亿万富翁投资者马克·库班 (Mark Cuban) 的股票期权理念让 ETF 投资者已经熟悉的主题成为焦点。市场上许多最大的财富创造者都选择为每位员工提供所有权股份，他们也是技术型基金的最大持股者。他还建议政府可以通过向更广泛分配股权的公司提供较低的企业税率来鼓励这种做法。",
+      "_added_at": "2026-07-21T20:45:56.922043+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-21T17:40:08Z",
@@ -750,56 +793,6 @@
       "_summary": "With inflation running above the Federal Reserve’s target for 64 consecutive months , Moody’s Analytics Chief Economist Mark Zandi says higher consumer prices are not an accident but a direct result of government policy decisions. By breaking down the underlying economic math, Zandi points to trade tariffs imposed by the Donald Trump administration and restrictive immigration laws as the primary culprits preventing price stability in the current economy.",
       "_zh_headline": "经济学家马克·赞迪将生活成本上升归咎于特朗普的关税和限制性移民政策：“高通胀是一种政策选择”",
       "_zh_summary": "穆迪分析首席经济学家马克赞迪表示，随着通胀连续64个月高于美联储目标，消费者价格上涨并非偶然，而是政府政策决定的直接结果。通过分析基本的经济数学，赞迪指出唐纳德·特朗普政府征收的贸易关税和限制性移民法是阻碍当前经济价格稳定的罪魁祸首。",
-      "_added_at": "2026-07-21T12:09:15.722932+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-07-21T10:20:03Z",
-      "headline": "Why Fund Managers Now Fear AI Capex More Than Iran, Tariffs, or a Recession",
-      "id": 60570926,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Global economic outlook is strong, but fund managers fear an AI capex boom could trigger the next systemic credit event. Read more.",
-      "symbols": [
-        "AIQ",
-        "AMZN",
-        "BTCUSD",
-        "DELL",
-        "GOOG",
-        "HYG",
-        "IBM",
-        "JNK",
-        "LQD",
-        "MAGS",
-        "META",
-        "MSFT",
-        "SHOC",
-        "SKYY",
-        "SMH",
-        "SOXX",
-        "TRFK",
-        "VPN",
-        "XLK"
-      ],
-      "updated_at": "2026-07-21T10:20:03Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60570926/why-fund-managers-now-fear-ai-capex-more-than-iran-tariffs-or-a-recession",
-      "_summary": "In Bank of America’s July Global Fund Manager Survey, 48% of respondents identified AI hyperscaler capital expenditure as the most likely source of a systemic credit event. They ranked it ahead of private credit, consumer credit, and the more familiar macro risks that have dominated markets in recent years, including the Middle East conflict, tariffs, and recession. The paradox is subtle but notable.",
-      "_zh_headline": "为什么基金经理现在更担心人工智能资本支出而不是伊朗、关税或经济衰退",
-      "_zh_summary": "在美国银行 7 月份的全球基金经理调查中，48% 的受访者认为人工智能超大规模资本支出是系统性信贷事件最有可能的来源。他们将其排在私人信贷、消费信贷以及近年来主导市场的更熟悉的宏观风险之前，包括中东冲突、关税和经济衰退。这个悖论很微妙但值得注意。",
       "_added_at": "2026-07-21T12:09:15.722932+00:00"
     }
   ]
