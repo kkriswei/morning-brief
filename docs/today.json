@@ -2,6 +2,236 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-21T14:23:29Z",
+      "headline": "Dow Surges 300 Points; General Motors Posts Upbeat Earnings",
+      "id": 60580397,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "US stocks rise with Dow Jones up 0.57% and NASDAQ climbing 0.69%. GM reports strong Q2 results and Utz Brands announces acquisition. Oil and gold up.",
+      "symbols": [
+        "GM",
+        "LBGJ",
+        "QMLS",
+        "SLGB",
+        "UTZ",
+        "VIVK",
+        "ZYBT"
+      ],
+      "updated_at": "2026-07-21T14:23:29Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60580397/dow-surges-300-points-general-motors-posts-upbeat-earnings",
+      "_summary": "U.S. stocks traded higher this morning, with the Dow Jones index gaining around 300 points on Tuesday. Following the market opening Tuesday, the Dow traded up 0.57% to 52,137.20 while the NASDAQ climbed 0.69% to 25,685.34. The S&P 500 also rose, gaining, 0.44% to 7,476.18. Information technology shares jumped by 1.2% on Tuesday. In trading on Tuesday, consumer staples stocks fell by 0.7%.",
+      "_zh_headline": "道指飙升 300 点；通用汽车公布乐观盈利",
+      "_zh_summary": "今天上午美国股市走高，道琼斯指数周二上涨约 300 点。周二开盘后，道指上涨 0.57% 至 52,137.20 点，纳斯达克指数上涨 0.69% 至 25,685.34 点。标准普尔 500 指数也上涨 0.44%，至 7,476.18 点。信息技术股周二上涨 1.2%。周二交易中，消费必需品股下跌 0.7%。",
+      "_added_at": "2026-07-21T14:35:30.423065+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-21T13:13:13Z",
+      "headline": "QUICK SPARK: Semiconductor ETFs Dominate Inflows As SOXX, SOXL Pull In Over $2.1 Billion in One Day",
+      "id": 60576185,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Benzinga-Quick-Spark.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Benzinga-Quick-Spark.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Semiconductor ETFs SOXX and SOXL attracted more than $2.1 billion combined on Monday, while IVV and GLD led redemptions.",
+      "symbols": [
+        "EWY",
+        "GLD",
+        "IVV",
+        "IWF",
+        "PSC",
+        "QQQ",
+        "QQQM",
+        "SOXL",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-21T13:13:13Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60576185/quick-spark-semiconductor-etfs-dominate-inflows-as-soxx-soxl-pull-in-over-2-1-billion-in-one-day",
+      "_summary": "Semiconductor ETFs have been among the strongest asset gatherers in 2026 as investors continue to position for spending tied to artificial intelligence, memory chips and advanced computing infrastructure. Recent inflows into funds such as SOXX and leveraged products like SOXL reflect persistent demand for chipmakers despite elevated valuations and occasional bouts of sector volatility.",
+      "_zh_headline": "QUICK SPARK：半导体 ETF 主导资金流入，SOXX、SOXL 单日流入超过 21 亿美元",
+      "_zh_summary": "随着投资者继续布局与人工智能、存储芯片和先进计算基础设施相关的支出，半导体 ETF 已成为 2026 年最强劲的资产收集者之一。尽管估值较高且偶尔出现行业波动，但近期流入 SOXX 等基金和 SOXL 等杠杆产品的资金反映了对芯片制造商的持续需求。",
+      "_added_at": "2026-07-21T14:35:30.423065+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-21T14:34:14Z",
+      "headline": "Marvell Stock Jumps As AI Infrastructure Spending Boom Powers Semiconductor Rally",
+      "id": 60581055,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Marvell.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Marvell.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Marvell.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Marvell Technology stock surged as investors rotated back into AI infrastructure names following major rack-scale hardware developments.",
+      "symbols": [
+        "AMD",
+        "CHPY",
+        "FTXL",
+        "META",
+        "MRVL",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "SOXQ"
+      ],
+      "updated_at": "2026-07-21T14:34:14Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60581055/marvell-stock-ai-spending-boom-powers-semiconductor-rally",
+      "_summary": "Marvell Technology, Inc. (NASDAQ: MRVL ) shares rose on Tuesday as investors moved back into AI infrastructure names tied to data-center expansion. The company’s stock price gained nearly 6% premarket, while S&P 500 futures rose 0.4%. AMD is positioning Helios as a direct rival to NVIDIA Corp.’s (NASDAQ: NVDA ) Grace Blackwell and Vera Rubin systems. Futurum Group estimates Nvidia controls more than 95% of the data-center GPU market, while AMD holds about 4.5%.",
+      "_zh_headline": "人工智能基础设施支出热潮推动半导体涨势，Marvell 股价上涨",
+      "_zh_summary": "Marvell Technology, Inc.（纳斯达克股票代码：MRVL）股价周二上涨，因投资者重新投资与数据中心扩张相关的人工智能基础设施。该公司股价盘前上涨近6%，标准普尔500指数期货上涨0.4%。 AMD 将 Helios 定位为 NVIDIA 公司（纳斯达克股票代码：NVDA）Grace Blackwell 和 Vera Rubin 系统的直接竞争对手。 Futurum Group 估计 Nvidia 控制着数据中心 GPU 市场 95% 以上的份额，而 AMD 则占据约 4.5% 的份额。",
+      "_added_at": "2026-07-21T14:35:30.423065+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-21T12:58:35Z",
+      "headline": "Micron, SanDisk Just Broke the Momentum Trade: SPMO Faces Its Worst Month Ever",
+      "id": 60575305,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Western-Digital-Momentum.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Western-Digital-Momentum.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Western-Digital-Momentum.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SPMO ETF is on pace for its worst month since 2015, down 10.54%. Micron and a memory-chip selloff drove it.",
+      "symbols": [
+        "INTC",
+        "LRCX",
+        "MU",
+        "SNDK",
+        "SPMO",
+        "STX",
+        "WDC"
+      ],
+      "updated_at": "2026-07-21T12:58:35Z",
+      "url": "https://www.benzinga.com/markets/large-cap/26/07/60575305/spmo-worst-month-micron-memory-selloff",
+      "_summary": "The S&P 500’s momentum strategy has beaten the market for a decade by doing one thing: buying whatever is already winning. In July, that same strategy handed it the worst month in its history. Over that same decade, the ETF is still up more than 470% from inception, a run that turned a niche factor bet into a $20.93 billion fund. Momentum investing is simple to describe.",
+      "_zh_headline": "美光、闪迪刚刚打破了贸易势头：SPMO 面临有史以来最糟糕的一个月",
+      "_zh_summary": "十年来，标普 500 指数的动量策略一直领先于市场，因为它做了一件事：买入任何已经获胜的股票。 7 月，同样的策略让它遭遇了历史上最糟糕的一个月。在同一十年中，该 ETF 较成立之初仍上涨了 470% 以上，这一举动将利基因素押注变成了 209.3 亿美元的基金。动量投资很容易描述。",
+      "_added_at": "2026-07-21T14:35:30.423065+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-21T14:00:53Z",
+      "headline": "Intel Earnings Could Raise the Stakes: Is the Turnaround Story Done?",
+      "id": 60578824,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Intel-Logo-Displayed-On-Blue-Cube.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel heads into earnings after reports of new data center layoffs. Here&#39;s why the turnaround story may still have another chapter.",
+      "symbols": [
+        "AMD",
+        "INTC",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-21T14:00:53Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60578824/intel-earnings-could-raise-the-stakes-is-the-turnaround-story-done",
+      "_summary": "Intel confirmed the organizational changes after CNBC reported the planned layoffs, saying the move is intended to ensure the business has “the right roles and skills in place to better serve the needs of our customers and strengthen our execution.” For investors, however, the announcement raises a bigger question. That makes management’s commentary during Thursdays earnings call arguably more important than the quarterly numbers themselves.",
+      "_zh_headline": "英特尔盈利可能会增加赌注：扭亏为盈的故事完成了吗？",
+      "_zh_summary": "在 CNBC 报道计划裁员后，英特尔证实了这一组织变革，称此举旨在确保该业务部门“拥有合适的角色和技能，以更好地满足客户的需求并加强我们的执行力”。然而，对于投资者来说，这一公告提出了一个更大的问题。这使得管理层在周四的财报电话会议上的评论可以说比季度数据本身更重要。",
+      "_added_at": "2026-07-21T14:35:30.423065+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-21T14:08:58Z",
+      "headline": "What Is Going On With Arm Stock On Tuesday?",
+      "id": 60579405,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Arm-Logo-On-Dark-Chip-Mounted-On-Green-P.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Arm-Logo-On-Dark-Chip-Mounted-On-Green-P.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Arm-Logo-On-Dark-Chip-Mounted-On-Green-P.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Arm Holdings stock jumped over 4% on Tuesday as investors consider the company&#39;s vital CPU role in rising AI rack-scale platforms.",
+      "symbols": [
+        "AMD",
+        "ARM",
+        "META",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "QQEW",
+        "QTEC",
+        "SMHX"
+      ],
+      "updated_at": "2026-07-21T14:08:58Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60579405/what-is-going-on-with-arm-stock-on-tuesday",
+      "_summary": "Arm Holdings plc (NASDAQ: ARM ) stock rose Tuesday as investors continued to focus on AI-chip supply chains and rack-scale system competition across the semiconductor sector. The company’s stock gained about 5% as broader market sentiment improved, with S&P 500 futures up 0.5%. The move came as investors assessed how the latest AI hardware cycle could affect companies tied to hyperscale computing, CPU architectures and semiconductor IP.",
+      "_zh_headline": "周二 Arm 股票怎么样？",
+      "_zh_summary": "Arm Holdings plc（纳斯达克股票代码：ARM）股价周二上涨，因投资者继续关注整个半导体行业的人工智能芯片供应链和机架规模系统竞争。随着整体市场情绪改善，该公司股价上涨约 5%，标准普尔 500 指数期货上涨 0.5%。此举出台之际，投资者正在评估最新的人工智能硬件周期将如何影响与超大规模计算、CPU 架构和半导体 IP 相关的公司。",
+      "_added_at": "2026-07-21T14:35:30.423065+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-21T10:18:17Z",
