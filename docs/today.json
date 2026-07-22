@@ -2,6 +2,130 @@
   "date": "2026-07-22",
   "articles": [
     {
+      "headline": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+      "source": "CNBC",
+      "symbols": [],
+      "created_at": "2026-07-22T22:06:49+00:00",
+      "_summary": "John Paulson, the hedge fund manager who made billions betting against the U.S. housing market before turning bullish on gold, said he believes the precious metal is only in the early stages of a long-term rally. \"I do think we're in the beginnings or the early stages of a long-term bull market for gold,\" Paulson said on CNBC's \"The Exchange\" Wednesday. \"As people lose faith in paper currencies, gold as an alternative will continue to grow.\" Paulson, whose wager against subprime mortgages became one of the most profitable trades in Wall Street history, shifted his focus to gold in 2009, arguing that the unprecedented fiscal and monetary stimulus following the financial crisis would ultimately weaken the U.S. dollar. Since then, gold prices have roughly quadrupled, topping the $5,000 threshold before pulling back. The billionaire investor said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "_zh_headline": "约翰·保尔森表示，我们正处于黄金长期牛市的早期阶段",
+      "_zh_summary": "对冲基金经理约翰·保尔森(John Paulson)在转而看好黄金之前，曾在美国房地产市场上做空数十亿美元，他表示，他认为这种贵金属仅处于长期反弹的早期阶段。保尔森周三在 CNBC 的《The Exchange》节目中表示：“我确实认为，我们正处于黄金长期牛市的开始或早期阶段。” “随着人们对纸币失去信心，黄金作为替代品将继续增长。”保尔森对次级抵押贷款的押注成为华尔街历史上最赚钱的交易之一，他在 2009 年将注意力转向黄金，认为金融危机后前所未有的财政和货币刺激措施最终将削弱美元。此后，金价大约上涨了四倍，突破了 5,000 美元的关口，然后又回落。这位亿万富翁投资者表示，在各国央行不断增加储备以及私营部门兴趣不断增长的带动下，对黄金的需求持续扩大。",
+      "_added_at": "2026-07-22T22:34:02.006633+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-22T21:05:53Z",
+      "headline": "Senator Backs Berkshire Stock In Post-Buffett Era as Other Congress Members Bail",
+      "id": 60625920,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bold-Portrait-Photo-Of-Warren-Buffett.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bold-Portrait-Photo-Of-Warren-Buffett.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bold-Portrait-Photo-Of-Warren-Buffett.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "While several members of Congress have sold their Berkshire Hathaway shares in 2026, one senator is bucking the trend.",
+      "symbols": [
+        "BRK",
+        "BRK/A",
+        "BRK/B",
+        "GOOG",
+        "SPY"
+      ],
+      "updated_at": "2026-07-22T21:06:51Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60625920/senator-backs-berkshire-stock-in-post-buffett-era-as-other-congress-members-bail",
+      "_summary": "Moran disclosed buying $15,000 to $50,000 in BRK.B shares on June 23, according to data from Quiver Quantitative. The senator also bought Alphabet (NASDAQ: GOOG ) stock, totaling $1,000 to $15,000 on the same day. These latest purchases are similar to the senator’s trading history this year, with those two stocks being the only other stocks he has bought and sold in 2026. Moran also disclosed buying Berkshire Hathaway stock with the following trades this year:",
+      "_zh_headline": "其他国会议员保释后，参议员在后巴菲特时代支持伯克希尔股票",
+      "_zh_summary": "根据 Quiver Quantitative 的数据，莫兰透露于 6 月 23 日购买了 15,000 至 50,000 美元的 BRK.B 股票。这位参议员还于同一天购买了 Alphabet（纳斯达克股票代码：GOOG）股票，总额为 1,000 至 15,000 美元。这些最新购买的股票与这位参议员今年的交易历史类似，这两只股票是他在 2026 年买卖的唯一其他股票。莫兰还透露，今年通过以下交易购买了伯克希尔哈撒韦股票：",
+      "_added_at": "2026-07-22T22:34:02.006633+00:00"
+    },
+    {
+      "author": "Adam Eckert",
+      "content": "",
+      "created_at": "2026-07-22T22:08:35Z",
+      "headline": "Alphabet CFO Says Demand Still Outpaces Capacity: AI Infrastructure Stocks Rise",
+      "id": 60627122,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Modern-Data-Center-With-Ai-Server-Racks-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Modern-Data-Center-With-Ai-Server-Racks-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Modern-Data-Center-With-Ai-Server-Racks-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Ai Infrastructure stocks are getting a boost in after-hours trading Wednesday following Alphabet&#39;s quarterly earnings call.",
+      "symbols": [
+        "APLD",
+        "CIFR",
+        "CRWV",
+        "GLXY",
+        "GOOG",
+        "GOOGL",
+        "HUT",
+        "IREN",
+        "NBIS",
+        "SHAZ",
+        "WULF"
+      ],
+      "updated_at": "2026-07-22T22:08:35Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60627122/alphabet-cfo-says-demand-still-outpaces-capacity-ai-infrastructure-stocks-rise",
+      "_summary": "On the conference call following Alphabet’s second-quarter earnings, the Google parent company revised its full-year 2026 capital expenditures forecast from a range of $180 billion to $190 billion to a new range of $195 billion to $205 billion, primarily due to the acceleration of delivering capacity to meet growing demand.",
+      "_zh_headline": "Alphabet 首席财务官表示需求仍超过产能：人工智能基础设施库存上涨",
+      "_zh_summary": "在 Alphabet 第二季度财报公布后的电话会议上，谷歌母公司将 2026 年全年资本支出预测从 1800 亿美元至 1900 亿美元调整为 1950 亿美元至 2050 亿美元的新范围，这主要是由于加速交付产能以满足不断增长的需求。",
+      "_added_at": "2026-07-22T22:34:02.006633+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-22T20:18:06Z",
+      "headline": "Time to Buy SanDisk, Micron? BlackRock Says Chip Stock Rout Is Overdone",
+      "id": 60624116,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "BlackRock says last week&#39;s semiconductor selloff went too far, arguing cheaper AI lifts demand for memory chips from SanDisk and Micron, not less.",
+      "symbols": [
+        "MU",
+        "SNDK",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-22T20:18:06Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60624116/sandisk-micron-blackrock-tech-selloff-overdone",
+      "_summary": "But BlackRock says investors may be drawing the wrong conclusion. The world’s largest asset manager argued Monday that the sharp selloff across technology and semiconductor stocks “is overstated,” warning that markets are confusing a shift in AI competition with a collapse in AI investment. The distinction could matter for investors trying to decide whether the recent correction represents the end of the AI trade or simply another buying opportunity.",
+      "_zh_headline": "是时候购买闪迪、美光了吗？贝莱德称芯片股暴跌有些过头了",
+      "_zh_summary": "但贝莱德表示，投资者可能得出了错误的结论。这家全球最大的资产管理公司周一表示，科技股和半导体股的大幅抛售“被夸大了”，并警告称，市场正在将人工智能竞争的转变与人工智能投资的崩溃混为一谈。对于试图确定最近的调整是否代表人工智能交易的结束或仅仅是另一个买入机会的投资者来说，这种区别可能很重要。",
+      "_added_at": "2026-07-22T22:34:02.006633+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-22T19:52:19Z",
@@ -585,151 +709,6 @@
       "_summary": "Bitcoin (CRYPTO: BTC) has broken above $65,000 and is testing its previous high near $67,260. However, one crypto analyst says it is too early to declare that the bear-market bottom is in. In a podcast on July 22, analyst Jason Pizzino said the market’s structure began improving in late June and early July. That is when Bitcoin recovered despite widespread negativity surrounding crypto markets and treasury companies.",
       "_zh_headline": "比特币熊市结束？不完全是。分析师称 83,000 美元是真正的考验",
       "_zh_summary": "比特币（CRYPTO：BTC）已突破 65,000 美元，并正在测试其前高点 67,260 美元附近。然而，一位加密货币分析师表示，现在宣布熊市底部已经到来还为时过早。分析师 Jason Pizzino 在 7 月 22 日的播客中表示，市场结构在 6 月底和 7 月初开始改善。尽管加密货币市场和财务公司普遍存在负面情绪，但比特币还是在那时复苏了。",
-      "_added_at": "2026-07-22T14:34:52.013583+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-22T13:58:56Z",
-      "headline": "SPY, QQQ And SOXL Power ETF Trading To New Record",
-      "id": 60607763,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Leveraged ETFs joined SPY and QQQ in driving ETF trading to a record high, reflecting the rising influence of leveraged and index ETFs.",
-      "symbols": [
-        "QQQ",
-        "SOXL",
-        "SOXS",
-        "SPY",
-        "VOO"
-      ],
-      "updated_at": "2026-07-22T13:58:56Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60607763/spy-qqq-and-soxl-power-etf-trading-to-new-record",
-      "_summary": "ETF volume hit an all-time high of 27.6%, according to IEX’s latest data. That’s up sharply from the high teens and low 20s that prevailed for much of the past decade. The milestone points to a broader change in market behavior. Rather than trading individual stocks, many investors are now turning to ETFs, particularly leveraged and inverse funds, to make bullish or bearish bets on sectors, themes, or even single companies.",
-      "_zh_headline": "SPY、QQQ 和 SOXL Power ETF 交易再创新高",
-      "_zh_summary": "IEX 的最新数据显示，ETF 成交量创下 27.6% 的历史新高。与过去十年的大部分时间里盛行的十几岁和二十多岁的人相比，这一数字急剧上升。这一里程碑表明市场行为发生了更广泛的变化。许多投资者现在不再交易个股，而是转向 ETF，特别是杠杆基金和反向基金，对行业、主题甚至单个公司进行看涨或看跌押注。",
-      "_added_at": "2026-07-22T14:34:52.013583+00:00"
-    },
-    {
-      "author": "Surbhi Jain",
-      "content": "",
-      "created_at": "2026-07-22T14:11:02Z",
-      "headline": "QUICK SPARK: China's EV Price War Can't Last Forever– 'Unsustainable' GM CEO Says",
-      "id": 60608592,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Benzinga-Quick-Spark.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Benzinga-Quick-Spark.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "GM CEO Mary Barra called China&#39;s EV price war &#34;unsustainable,&#34; arguing the market needs consolidation - why Tesla investors should care..",
-      "symbols": [
-        "BYDDF",
-        "F",
-        "GM",
-        "LI",
-        "NIO",
-        "TSLA",
-        "XPEV"
-      ],
-      "updated_at": "2026-07-22T14:11:02Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60608592/quick-spark-chinas-ev-price-war-cant-last-forever-unsustainable-gm-ceo-says",
-      "_summary": "Speaking on GM’s second-quarter earnings call, Barra described the pricing environment in China as “unsustainable,” arguing that the country’s overcrowded EV market will eventually need a major shakeout. “There’s intense pricing competition that frankly is unsustainable in China,” she said, adding that “there’s so many competitors” and “a lot of sorting that’s going to happen, need to happen for long-term viability.”",
-      "_zh_headline": "QUICK SPARK：中国的电动汽车价格战不会永远持续——通用汽车首席执行官表示“不可持续”",
-      "_zh_summary": "博拉在通用汽车第二季度财报电话会议上表示，中国的定价环境“不可持续”，并认为中国过度拥挤的电动汽车市场最终需要进行重大调整。她说：“坦率地说，中国存在激烈的价格竞争，这是不可持续的。”她补充说，“竞争对手太多了”，“为了长期生存，需要进行大量分类。”",
-      "_added_at": "2026-07-22T14:34:52.013583+00:00"
-    },
-    {
-      "author": "Kaustubh Bagalkote",
-      "content": "",
-      "created_at": "2026-07-22T14:01:49Z",
-      "headline": "What's Going on With Intel Stock Wednesday?",
-      "id": 60607986,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stone-Uk---September-2-2020-New-Intel-Lo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stone-Uk---September-2-2020-New-Intel-Lo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stone-Uk---September-2-2020-New-Intel-Lo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel (INTC) stock rises ahead of Q2 earnings. See analyst ratings, technical levels, and revenue expectations before the report.",
-      "symbols": [
-        "IGPT",
-        "INTC",
-        "SKHY",
-        "SMH",
-        "SOXQ"
-      ],
-      "updated_at": "2026-07-22T14:01:49Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60607986/whats-going-on-with-intel-stock-wednesday-8",
-      "_summary": "The Nasdaq was down 0.51%, while the S&P 500 slipped 0.13%. Intel is scheduled to report second-quarter results on Thursday, July 23. The upcoming release has prompted investors to adjust positions, often leading to larger price swings ahead of earnings. The stock has also posted strong gains over the past year. As a result, traders are watching closely to see whether the recent pullback creates a buying opportunity or signals further weakness.",
-      "_zh_headline": "英特尔股票周三怎么样？",
-      "_zh_summary": "纳斯达克指数下跌 0.51%，标准普尔 500 指数下跌 0.13%。英特尔定于 7 月 23 日星期四公布第二季度业绩。即将发布的业绩促使投资者调整仓位，往往导致财报发布前价格出现较大波动。该股在过去一年中也录得强劲上涨。因此，交易员正在密切关注近期的回调是否会创造买入机会或预示进一步疲软。",
-      "_added_at": "2026-07-22T14:34:52.013583+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-22T13:20:47Z",
-      "headline": "What's Going on With Apple Stock Wednesday?",
-      "id": 60606020,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Pune--India---February-19--2024--Apple-i.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Pune--India---February-19--2024--Apple-i.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Pune--India---February-19--2024--Apple-i.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Apple slips in premarket as tech weakens. With Q3 earnings on July 30, can AAPL hold its bullish trend? Read the full analysis.",
-      "symbols": [
-        "AAPL",
-        "OEF",
-        "SCHG",
-        "TCHP"
-      ],
-      "updated_at": "2026-07-22T13:21:49Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60606020/whats-going-on-with-apple-stock-wednesday-3",
-      "_summary": "Investors are also watching whether Apple can hold onto its recent gains after a strong rally. The company is scheduled to report fiscal third-quarter earnings after the market closes on July 30. Apple continues to trade in a longer-term uptrend. The stock is 6.3% above its 20-day simple moving average of $308.48 and 19.2% above its 200-day SMA of $274.94. The 20-day SMA also remains above the 50-day SMA of $304.24, signaling that the intermediate trend is still positive.",
-      "_zh_headline": "周三苹果股票怎么样？",
-      "_zh_summary": "投资者也在关注苹果公司在强劲反弹后能否守住近期涨幅。该公司计划在 7 月 30 日收盘后公布第三财季收益。苹果公司的交易继续处于长期上升趋势。该股较 20 日简单移动平均线 308.48 美元高出 6.3%，比 200 日移动平均线 274.94 美元高出 19.2%。 20 日移动平均线也保持在 304.24 美元的 50 日移动平均线之上，表明中期趋势仍然积极。",
       "_added_at": "2026-07-22T14:34:52.013583+00:00"
     }
   ]
