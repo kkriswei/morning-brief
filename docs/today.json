@@ -2,6 +2,153 @@
   "date": "2026-07-22",
   "articles": [
     {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-07-22T19:52:19Z",
+      "headline": "Chip Stocks Retreat As Yemen’s Houthis Enter The War; Alphabet, Tesla Earnings Ahead",
+      "id": 60622342,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nRed Sea Blockade\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
+      "symbols": [
+        "AAPL",
+        "ADI",
+        "AMZN",
+        "BTCUSD",
+        "GOOG",
+        "IBM",
+        "META",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "SOXL",
+        "SPCX",
+        "SPY",
+        "TSLA",
+        "TXN",
+        "USO"
+      ],
+      "updated_at": "2026-07-22T19:53:44Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60622342/chip-stocks-retreat-as-yemens-houthis-enter-the-war-alphabet-tesla-earnings-ahead",
+      "_summary": "The Japanese yen fell below 163 per dollar before recovering.  This level last occurred in 1986.  The proximate cause is rising oil due to Houthis blockading the Red Sea.  Japan is a major oil importer, getting most of its oil from the Middle East. The fall in yen is raising alarm bells in Japan.  There are indications that the Bank of Japan is considering increasing interest rates faster.",
+      "_zh_headline": "随着也门胡塞武装参战，芯片股下跌； Alphabet、特斯拉盈利预测",
+      "_zh_summary": "日元兑美元汇率一度跌破163，随后有所回升。  这一水平上次出现在 1986 年。直接原因是胡塞武装封锁红海导致石油价格上涨。  日本是主要石油进口国，大部分石油来自中东。日元贬值给日本敲响了警钟。  有迹象表明，日本央行正在考虑加快加息速度。",
+      "_added_at": "2026-07-22T20:39:58.604403+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-22T20:21:55Z",
+      "headline": "QUICK SPARK: SPY Couldn't Keep Up—98% of QuantumStreet AI Index Assets Beat Benchmarks in H1",
+      "id": 60624305,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/People-Silhouettes-Over-SP-500-Index.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/People-Silhouettes-Over-SP-500-Index.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/People-Silhouettes-Over-SP-500-Index.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "QuantumStreet AI said 98% of its index assets have beaten benchmarks in 2026, with semiconductor stock picks helping it outperform SPY.",
+      "symbols": [
+        "LRCX",
+        "MU",
+        "QCOM",
+        "SPY",
+        "TWLO"
+      ],
+      "updated_at": "2026-07-22T20:21:55Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60624305/quick-spark-spy-couldnt-keep-up-98-of-quantumstreet-ai-index-assets-beat-benchmarks-in-h1",
+      "_summary": "QuantumStreet AI said 98% of its index strategy assets outperformed their benchmarks in the first half of 2026, while the remaining 2% matched benchmark performance. None of the firm’s AI-driven index strategies underperformed despite a volatile six months marked by macro uncertainty, geopolitical tensions and sharp sector rotation.",
+      "_zh_headline": "QUICK SPARK：SPY 无法跟上——上半年 98% 的 QuantumStreet AI 指数资产超过了基准",
+      "_zh_summary": "QuantumStreet AI 表示，其 98% 的指数策略资产在 2026 年上半年的表现优于基准，而其余 2% 的表现与基准表现相当。尽管宏观不确定性、地缘政治紧张局势和剧烈的行业轮动导致了这六个月的波动，但该公司人工智能驱动的指数策略均表现不佳。",
+      "_added_at": "2026-07-22T20:39:58.604403+00:00"
+    },
+    {
+      "author": "Mark Putrino",
+      "content": "",
+      "created_at": "2026-07-22T20:09:35Z",
+      "headline": "Stock Of The Day: Is The Danaher Selloff Over?",
+      "id": 60623411,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Selloff-Could-Hit-Main-Street-Hard.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Selloff-Could-Hit-Main-Street-Hard.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Selloff-Could-Hit-Main-Street-Hard.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Danaher Corporation (DHR) shares may have experienced a seller&#39;s capitulation. There has also been bullish action in the stock.",
+      "symbols": [
+        "DHR"
+      ],
+      "updated_at": "2026-07-22T20:09:35Z",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60623411/stock-of-the-day-is-the-danaher-selloff-over",
+      "_summary": "Danaher Corporation (NYSE: DHR ) is consolidating on Wednesday. The shares plunged by more than 10% yesterday, with the move driven by a weak earnings report. But the shares may rebound from here. This is why Danaher is the Stock of the Day. Over 28 million shares traded yesterday. This is well in excess of the average daily volume of 4.96 million. Sometimes, when a huge amount of volume trades after a downtrend, it can be a bullish dynamic. It can show a capitulation on the part of the sellers.",
+      "_zh_headline": "每日精选股票：丹纳赫抛售结束了吗？",
+      "_zh_summary": "丹纳赫公司（纽约证券交易所股票代码：DHR）将于周三进行整合。由于盈利报告疲软，该股昨天暴跌超过 10%。但股价可能会从这里反弹。这就是丹纳赫成为今日股票的原因。昨天交易的股票超过 2800 万股。这远远超过了 496 万的日均交易量。有时，当下跌趋势后出现大量交易时，这可能是看涨动态。它可以表明卖家的投降。",
+      "_added_at": "2026-07-22T20:39:58.604403+00:00"
+    },
+    {
+      "author": "Daragh Thomas",
+      "content": "",
+      "created_at": "2026-07-22T18:53:36Z",
+      "headline": "Bessent Wants Chinese AI Sanctioned, But Jensen Huang Says Distillation Is Learning",
+      "id": 60620441,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Treasury threatens sanctions over Chinese AI &#34;theft,&#34; but Nvidia CEO Jensen Huang says distillation is just learning. Prediction markets side with his calm.",
+      "symbols": [
+        "NVDA"
+      ],
+      "updated_at": "2026-07-22T18:53:36Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60620441/bessent-wants-chinese-ai-sanctioned-but-jensen-huang-says-distillation-is-learning",
+      "_summary": "The pressure started Tuesday, when Treasury Secretary Scott Bessent told Fox Business the administration is finding “watermarks of our U.S. large language models on many of the Chinese models” and may act within weeks. The practice at issue is distillation: bombarding a frontier model with prompts and training a cheaper model on its answers, capturing much of its capability at a fraction of the cost. The technique is a normal part of AI development when done openly.",
+      "_zh_headline": "Bessent 希望中国人工智能受到制裁，但黄仁勋表示蒸馏就是学习",
+      "_zh_summary": "这种压力始于周二，当时财政部长斯科特·贝森特告诉福克斯商业频道，政府正在发现“我们的美国大语言模型在许多中国模型上的水印”，并可能在几周内采取行动。有争议的做法是蒸馏：用提示轰炸前沿模型，并根据其答案训练更便宜的模型，以一小部分成本捕获其大部分功能。当公开进行时，该技术是人工智能开发的正常组成部分。",
+      "_added_at": "2026-07-22T20:39:58.604403+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-22T16:58:04Z",
@@ -584,245 +731,6 @@
       "_zh_headline": "周三苹果股票怎么样？",
       "_zh_summary": "投资者也在关注苹果公司在强劲反弹后能否守住近期涨幅。该公司计划在 7 月 30 日收盘后公布第三财季收益。苹果公司的交易继续处于长期上升趋势。该股较 20 日简单移动平均线 308.48 美元高出 6.3%，比 200 日移动平均线 274.94 美元高出 19.2%。 20 日移动平均线也保持在 304.24 美元的 50 日移动平均线之上，表明中期趋势仍然积极。",
       "_added_at": "2026-07-22T14:34:52.013583+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-22T11:08:49Z",
-      "headline": "S&P 500 Short Interest Nears Highest Since 2010 — Market Commentator Warns 'Conditions for a Short-Squeeze Are Rising'",
-      "id": 60602172,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/A-Hand-Rotates-A-Wooden-Cube-To-Indicate.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/A-Hand-Rotates-A-Wooden-Cube-To-Indicate.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/A-Hand-Rotates-A-Wooden-Cube-To-Indicate.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "S&amp;P 500 short interest nears 15-year highs. Experts warn &#34;conditions for a short-squeeze are rising&#34; as bearish bets surge.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-22T11:08:49Z",
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60602172/sp-500-short-interest-nears-highest-since-2010-market-commentator-warns-conditions-for-a-short-squeeze-are-rising",
-      "_summary": "Short interest in the S&P 500 index has climbed to approximately 3.7% of its free float—nearing its highest level since 2010—prompting market commentator The Kobeissi Letter to warn that “conditions for a short-squeeze are rising”. As traders build heavy short positions against American equities, these elevated short levels across key benchmarks are creating significant potential for a rapid upward market rally. Pessimistic sentiment is even more pronounced across the broader stock market .",
-      "_zh_headline": "标准普尔 500 指数空头兴趣接近 2010 年以来最高水平 — 市场评论员警告“空头挤压的条件正在上升”",
-      "_zh_summary": "标准普尔 500 指数的空头兴趣已攀升至其自由流通量的约 3.7%，接近 2010 年以来的最高水平，促使市场评论员 The Koheissi Letter 发出警告，“空头挤压的条件正在上升”。随着交易员对美国股市建立大量空头头寸，主要基准的空头水平不断上升，为市场快速上涨创造了巨大潜力。整个股市的悲观情绪更为明显。",
-      "_added_at": "2026-07-22T12:12:14.358772+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-22T11:11:30Z",
-      "headline": "Earnings Scheduled For July 22, 2026",
-      "id": 60602326,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Companies Reporting Before The Bell\n• Northern Trust (NASDAQ:NTRS) is expected to report quarterly earnings at $3.45 per share on revenue of $2.35 billion. \n• Old National Bancorp (NASDAQ:ONB) is projected to report",
-      "symbols": [
-        "ARR",
-        "AVB",
-        "BANR",
-        "BDN",
-        "BKU",
-        "BMI",
-        "CALM",
-        "CASH",
-        "CATY",
-        "CBAN",
-        "CCI",
-        "CCS",
-        "CME",
-        "CSX",
-        "CVBF",
-        "CYH",
-        "EFSC",
-        "EGBN",
-        "EGP",
-        "ELS",
-        "EPRT",
-        "EQNR",
-        "EQR",
-        "FAF",
-        "FBNC",
-        "FBP",
-        "FR",
-        "FRME",
-        "FSBC",
-        "FULT",
-        "GEV",
-        "GGG",
-        "GL",
-        "GOOG",
-        "GOOGL",
-        "GSHD",
-        "GTY",
-        "HBNC",
-        "HCSG",
-        "HYFT",
-        "IBM",
-        "IRDM",
-        "KALU",
-        "KMI",
-        "KNX",
-        "LBRT",
-        "LOB",
-        "LUV",
-        "LVS",
-        "MCO",
-        "MEDP",
-        "MMLP",
-        "MOH",
-        "NOW",
-        "NTRS",
-        "NTST",
-        "NVEC",
-        "NWFL",
-        "OBK",
-        "OII",
-        "ONB",
-        "OSBC",
-        "OTIS",
-        "OTLY",
-        "PFBC",
-        "PHM",
-        "PKG",
-        "PM",
-        "PNFP",
-        "QCRH",
-        "QS",
-        "RCI",
-        "RDY",
-        "RELL",
-        "RGP",
-        "RJF",
-        "RLI",
-        "RNR",
-        "ROL",
-        "RPM",
-        "RS",
-        "SAN",
-        "SEIC",
-        "SF",
-        "SLG",
-        "SON",
-        "STC",
-        "T",
-        "TCBI",
-        "TCBX",
-        "TDY",
-        "TEL",
-        "TNL",
-        "TSLA",
-        "TXN",
-        "URI",
-        "UVSP",
-        "VTMX",
-        "WAB",
-        "WCN",
-        "WEX",
-        "WH"
-      ],
-      "updated_at": "2026-07-22T11:11:30Z",
-      "url": "https://www.benzinga.com/news/earnings/26/07/60602326/earnings-scheduled-july-22-2026",
-      "_summary": "• Northern Trust (NASDAQ: NTRS ) is expected to report quarterly earnings at $3.45 per share on revenue of $2.35 billion. • Old National Bancorp (NASDAQ: ONB ) is projected to report quarterly earnings at $0.63 per share on revenue of $717.52 million. • First BanCorp (NYSE: FBP ) is expected to report quarterly earnings at $0.54 per share on revenue of $264.02 million. • Rogers Communications (NYSE: RCI ) is expected to report quarterly earnings at $0.82 per share on revenue of $4.10 billion.",
-      "_zh_headline": "预计 2026 年 7 月 22 日的收益",
-      "_zh_summary": "• Northern Trust（纳斯达克股票代码：NTRS）预计公布季度收益为每股3.45 美元，营收为23.5 亿美元。 • Old National Bancorp（纳斯达克股票代码：ONB）预计公布季度收益为每股0.63 美元，营收为7.1752 亿美元。 • First BanCorp（纽约证券交易所股票代码：FBP）预计公布季度收益为每股 0.54 美元，营收为 2.6402 亿美元。 • Rogers Communications（纽约证券交易所股票代码：RCI）预计公布季度收益为每股 0.82 美元，营收为 41 亿美元。",
-      "_added_at": "2026-07-22T12:12:14.358772+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-22T10:21:49Z",
-      "headline": "What's Going on With AMD Stock Wednesday?",
-      "id": 60601029,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amd-Chip-On-A-Dark--Intricate-Circuit-Bo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amd-Chip-On-A-Dark--Intricate-Circuit-Bo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amd-Chip-On-A-Dark--Intricate-Circuit-Bo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "AMD trades at $533 ahead of Q2 earnings on Aug. 4. Wall Street expects strong revenue growth, but valuation leaves little room for error.",
-      "symbols": [
-        "AMD",
-        "ARKW",
-        "INTC",
-        "NVDA",
-        "SOXX",
-        "TRFK"
-      ],
-      "updated_at": "2026-07-22T10:21:49Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60601029/whats-going-on-with-amd-stock-wednesday-8",
-      "_summary": "With AMD trading near recent highs, investors may also be taking profits ahead of the company’s upcoming earnings report. The stock has rallied sharply in recent months, leaving traders focused on whether it can hold its recent gains ahead of the next major catalyst. NVIDIA said it began shipping Vera to customers, including OpenAI , Anthropic and SpaceX , in June.",
-      "_zh_headline": "AMD 股票周三怎么样？",
-      "_zh_summary": "随着 AMD 的交易价格接近近期高点，投资者也可能会在该公司即将发布的收益报告之前获利了结。该股近几个月大幅上涨，令交易员关注该股能否在下一个主要催化剂出现之前保持近期涨势。 NVIDIA 表示，它于 6 月开始向 OpenAI、Anthropic 和 SpaceX 等客户交付 Vera。",
-      "_added_at": "2026-07-22T12:12:14.358772+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-22T11:15:23Z",
-      "headline": "What's Going on With Micron Technology Stock Wednesday?",
-      "id": 60602392,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Micron-Technology-Logo-Displayed-On-A-Mo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Micron (MU) drops premarket after 12% surge. Analysts raise price targets as AI demand drives a massive memory market upcycle.",
-      "symbols": [
-        "MU",
-        "SOXQ",
-        "SOXX",
-        "SPMO"
-      ],
-      "updated_at": "2026-07-22T11:15:23Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60602392/whats-going-on-with-micron-technology-stock-wednesday-4",
-      "_summary": "The modest pullback follows a sharp rally fueled by optimism around artificial intelligence-driven memory demand. Morgan Stanley analyst Joseph Moore said the recent pullback in U.S. memory stocks presents an attractive buying opportunity. Moore expects memory prices to increase at least 25% from the second quarter to the third quarter of 2026 as data center memory shortages persist.",
-      "_zh_headline": "周三美光科技股票怎么样？",
-      "_zh_summary": "此次小幅回调是在人工智能驱动的内存需求乐观情绪推动下大幅反弹之后出现的。摩根士丹利分析师约瑟夫·摩尔表示，美国内存股最近的回调提供了一个有吸引力的买入机会。 Moore 预计，由于数据中心内存短缺持续存在，内存价格从 2026 年第二季度到第三季度将上涨至少 25%。",
-      "_added_at": "2026-07-22T12:12:14.358772+00:00"
     }
   ]
 }
