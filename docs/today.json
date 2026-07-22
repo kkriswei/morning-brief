@@ -2,6 +2,109 @@
   "date": "2026-07-21",
   "articles": [
     {
+      "author": "Shivdeep Dhaliwal",
+      "content": "",
+      "created_at": "2026-07-22T01:12:39Z",
+      "headline": "Super Micro Computer, Rocket Lab, Dell, Capital One and Oklo: Why These 5 Stocks Are on Investors' Radars Today",
+      "id": 60598063,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Concept-Of-Stock-Market-And-Fintech--Blu.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Concept-Of-Stock-Market-And-Fintech--Blu.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Concept-Of-Stock-Market-And-Fintech--Blu.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Major U.S. indices closed higher, with the Dow Jones Industrial Average gaining 0.74% to 52,224.64.",
+      "symbols": [
+        "COF",
+        "DELL",
+        "OKLO",
+        "RKLB",
+        "SMCI"
+      ],
+      "updated_at": "2026-07-22T01:12:39Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60598063/super-micro-computer-rocket-lab-dell-capital-one-and-oklo-why-these-5-stocks-are-on-investors-radars-today",
+      "_summary": "Major U.S. indices closed higher, with the Dow Jones Industrial Average gaining 0.74% to 52,224.64, the S&P 500 advancing 0.89% to 7,509.20 and the Nasdaq climbing 1.29% to 25,837.20. These are the top stocks that gained the attention of retail traders and investors through the day. Super Micro’s stock surged by 7.01% to close at $25.50, hitting an intraday high of $25.54 and a low of $24.33. The stock’s 52-week range is between $19.49 and $62.36. In after-hours trading, the stock shot up 20.58% to $30.75.",
+      "_zh_headline": "Super Micro Computer、Rocket Lab、Dell、Capital One 和 Oklo：为何这 5 只股票如今受到投资者关注",
+      "_zh_summary": "美国主要股指收高，其中道琼斯工业平均指数上涨0.74%至52,224.64点，标准普尔500指数上涨0.89%至7,509.20点，纳斯达克指数上涨1.29%至25,837.20点。这些是全天吸引散户交易者和投资者关注的顶级股票。 Super Micro股价飙升7.01%，收于25.50美元，盘中最高触及25.54美元，最低触及24.33美元。该股 52 周波动区间为 19.49 美元至 62.36 美元。盘后交易中，该股上涨 20.58% 至 30.75 美元。",
+      "_added_at": "2026-07-22T03:58:04.579813+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-22T03:20:29Z",
+      "headline": "SK Hynix Dismisses Intel Ohio Buyout Report: 'We Have No Plans for an Acquisition'",
+      "id": 60598297,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Sk-Hynix-America-Headquarters-In-San-Jos.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SK hynix denied a report it was in talks to buy Intel&#39;s Ohio chip campus, saying it has neither pursued nor decided on a deal.",
+      "symbols": [
+        "INTC",
+        "MU",
+        "NVDA",
+        "SKHY"
+      ],
+      "updated_at": "2026-07-22T03:20:29Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60598297/sk-hynix-denies-intel-ohio-buyout-report",
+      "_summary": "SK hynix issued the clarification in a Korea Exchange filing after Korea JoongAng Daily reported that the company was negotiating to acquire the Ohio campus to establish front-end memory chip production in the U.S. within five years. In the filing, SK hynix said it is “continuously reviewing various investment and acquisition opportunities for business purposes,” but added that it “has not pursued or decided to acquire Intel’s Ohio site and Fab.”",
+      "_zh_headline": "SK 海力士否认英特尔俄亥俄州收购报告：“我们没有收购计划”",
+      "_zh_summary": "韩国《中央日报》报道称，SK 海力士正在谈判收购俄亥俄州工厂，以便在五年内在美国建立前端存储芯片生产基地，之后，SK 海力士在韩国交易所提交的文件中做出了澄清。 SK海力士在文件中表示，它“正在不断审查出于商业目的的各种投资和收购机会”，但补充说，它“尚未寻求或决定收购英特尔俄亥俄州工厂和晶圆厂”。",
+      "_added_at": "2026-07-22T03:58:04.579813+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-21T20:30:18Z",
+      "headline": "Tesla Q2 Preview: Could This Be ‘The One That Helps Turn Things Around’?",
+      "id": 60595151,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tesla-Stock----EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tesla-Stock----EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tesla-Stock----EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A look at the earnings estimates and key items to watch for Tesla&#39;s Q2 earnings report, coming Wednesday after market close.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-21T20:30:18Z",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60595151/tesla-q2-preview-could-this-be-the-one-that-helps-turn-things-around",
+      "_summary": "Here are the earnings estimates, what experts are saying ahead of the report and the key items to watch. Analysts expect Tesla to report second-quarter revenue of $25.24 billion, up from $22.50 billion in last year’s second quarter, according to data from Benzinga Pro. The company has beaten analyst estimates for revenue in four straight quarters and in five of the last 10 quarters overall.",
+      "_zh_headline": "特斯拉第二季度预览：这会是“帮助扭转局面的那个”吗？",
+      "_zh_summary": "以下是盈利预测、专家在报告发布前的言论以及值得关注的关键项目。 Benzinga Pro 的数据显示，分析师预计特斯拉第二季度营收为 252.4 亿美元，高于去年第二季度的 225 亿美元。该公司的收入连续四个季度超出了分析师的预期，并且在过去 10 个季度中有五个季度超出了分析师的预期。",
+      "_added_at": "2026-07-22T03:58:04.579813+00:00"
+    },
+    {
       "author": "Kaustubh Bagalkote",
       "content": "",
       "created_at": "2026-07-21T19:31:14Z",
@@ -670,120 +773,6 @@
       "_zh_headline": "汽油价格回到 4 美元，但一位顶级大宗商品分析师表示，真正的痛苦在于柴油",
       "_zh_summary": "随着霍尔木兹海峡的冲突蔓延到沙特阿拉伯，周一全国汽油平均价格达到每加仑 4 美元，一周内上涨 15%。但一位大宗商品分析师表示，司机们看到的数字是错误的。 Kpler 大宗商品研究主管马特·史密斯 (Matt Smith) 在周一的 G Markets 教授播客中表示：“痛苦基本上已经从油价转移到了产品上。”",
       "_added_at": "2026-07-21T16:56:19.677817+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-07-21T15:27:01Z",
-      "headline": "Trump Went to War Convinced Iran Would 'Fold Really Quickly,' New Book Claims. Polymarket Prices a Ground Invasion at 27%",
-      "id": 60583733,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Washington--Dc--On-June-18--2025--Us-Pre.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Washington--Dc--On-June-18--2025--Us-Pre.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Washington--Dc--On-June-18--2025--Us-Pre.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "A new book claims Trump went to war expecting Iran to fold fast. Five months in, Polymarket traders price a US ground invasion at 27%.",
-      "symbols": [
-        "CVX",
-        "LMT",
-        "PLTR",
-        "TSLA",
-        "XOM"
-      ],
-      "updated_at": "2026-07-21T15:27:01Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60583733/trump-went-to-war-convinced-iran-would-fold-really-quickly-new-book-claims-polymarket-prices-a-ground-invasion-at-27",
-      "_summary": "President Donald Trump reportedly initiated the war against Iran believing the regime would “fold really quickly,” according to a new book by New York Times reporters Jonathan Swan and Maggie Haberman , called “Regime Change: Inside the Imperial Presidency of Donald Trump.” Swan, speaking Monday on the School of War podcast , said the president made what he described as a deep gut decision, brushing aside warnings that the conflict could drag on.",
-      "_zh_headline": "新书称，特朗普相信伊朗会“很快崩溃”，从而发动战争。 Polymarket 将地面入侵定价为 27%",
-      "_zh_summary": "据《纽约时报》记者乔纳森·斯旺（Jonathan Swan）和玛吉·哈伯曼（Maggie Haberman）出版的新书《政权更迭：唐纳德·特朗普帝国总统内部》称，据报道，唐纳德·特朗普总统发起了针对伊朗的战争，认为该政权将“很快垮台”。斯旺周一在战争学校播客上发表讲话说，总统做出了他所说的“深思熟虑的决定”，无视冲突可能拖延下去的警告。",
-      "_added_at": "2026-07-21T16:56:19.677817+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-21T14:23:29Z",
-      "headline": "Dow Surges 300 Points; General Motors Posts Upbeat Earnings",
-      "id": 60580397,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "US stocks rise with Dow Jones up 0.57% and NASDAQ climbing 0.69%. GM reports strong Q2 results and Utz Brands announces acquisition. Oil and gold up.",
-      "symbols": [
-        "GM",
-        "LBGJ",
-        "QMLS",
-        "SLGB",
-        "UTZ",
-        "VIVK",
-        "ZYBT"
-      ],
-      "updated_at": "2026-07-21T14:23:29Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60580397/dow-surges-300-points-general-motors-posts-upbeat-earnings",
-      "_summary": "U.S. stocks traded higher this morning, with the Dow Jones index gaining around 300 points on Tuesday. Following the market opening Tuesday, the Dow traded up 0.57% to 52,137.20 while the NASDAQ climbed 0.69% to 25,685.34. The S&P 500 also rose, gaining, 0.44% to 7,476.18. Information technology shares jumped by 1.2% on Tuesday. In trading on Tuesday, consumer staples stocks fell by 0.7%.",
-      "_zh_headline": "道指飙升 300 点；通用汽车公布乐观盈利",
-      "_zh_summary": "今天上午美国股市走高，道琼斯指数周二上涨约 300 点。周二开盘后，道指上涨 0.57% 至 52,137.20 点，纳斯达克指数上涨 0.69% 至 25,685.34 点。标准普尔 500 指数也上涨 0.44%，至 7,476.18 点。信息技术股周二上涨 1.2%。周二交易中，消费必需品股下跌 0.7%。",
-      "_added_at": "2026-07-21T14:35:30.423065+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-21T13:13:13Z",
-      "headline": "QUICK SPARK: Semiconductor ETFs Dominate Inflows As SOXX, SOXL Pull In Over $2.1 Billion in One Day",
-      "id": 60576185,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Benzinga-Quick-Spark.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/21/Benzinga-Quick-Spark.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Semiconductor ETFs SOXX and SOXL attracted more than $2.1 billion combined on Monday, while IVV and GLD led redemptions.",
-      "symbols": [
-        "EWY",
-        "GLD",
-        "IVV",
-        "IWF",
-        "PSC",
-        "QQQ",
-        "QQQM",
-        "SOXL",
-        "SOXX"
-      ],
-      "updated_at": "2026-07-21T13:13:13Z",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60576185/quick-spark-semiconductor-etfs-dominate-inflows-as-soxx-soxl-pull-in-over-2-1-billion-in-one-day",
-      "_summary": "Semiconductor ETFs have been among the strongest asset gatherers in 2026 as investors continue to position for spending tied to artificial intelligence, memory chips and advanced computing infrastructure. Recent inflows into funds such as SOXX and leveraged products like SOXL reflect persistent demand for chipmakers despite elevated valuations and occasional bouts of sector volatility.",
-      "_zh_headline": "QUICK SPARK：半导体 ETF 主导资金流入，SOXX、SOXL 单日流入超过 21 亿美元",
-      "_zh_summary": "随着投资者继续布局与人工智能、存储芯片和先进计算基础设施相关的支出，半导体 ETF 已成为 2026 年最强劲的资产收集者之一。尽管估值较高且偶尔出现行业波动，但近期流入 SOXX 等基金和 SOXL 等杠杆产品的资金反映了对芯片制造商的持续需求。",
-      "_added_at": "2026-07-21T14:35:30.423065+00:00"
     }
   ]
 }
