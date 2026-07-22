@@ -2,6 +2,170 @@
   "date": "2026-07-22",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-22T16:58:04Z",
+      "headline": "Stock Market Today: Nasdaq 100 Falls as Crude Rallies to $88",
+      "id": 60615991,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Crude-Oil-Price-Hike-Graph-Chart--Stock-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Crude-Oil-Price-Hike-Graph-Chart--Stock-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Crude-Oil-Price-Hike-Graph-Chart--Stock-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Stocks split as oil climbs on the 11th night of Iran strikes and Super Micro rockets 26% on a record backlog, while the Nasdaq slips ahead of Alphabet, Tesla.",
+      "symbols": [
+        "AMD",
+        "ARWR",
+        "DELL",
+        "DIA",
+        "GEV",
+        "GOOGL",
+        "IBM",
+        "IWM",
+        "KVYO",
+        "PAG",
+        "PATH",
+        "PEGA",
+        "PM",
+        "QQQ",
+        "RDDT",
+        "SMCI",
+        "TSLA",
+        "USO",
+        "VOO",
+        "WAB",
+        "XLB",
+        "XLE",
+        "XLU"
+      ],
+      "updated_at": "2026-07-22T16:58:04Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60615991/stock-market-today-news-oil-nasdaq-wednesday",
+      "_summary": "U.S. stocks traded in split fashion by midday Wednesday, with a resilient Dow and S&P 500 masking softer breadth as rising oil prices and fresh tariffs kept a lid on risk appetite ahead of the first “Magnificent Seven” earnings of the season. Oil prices climbed as the U.S. carried out its 11th consecutive night of strikes on Iran, broadening its targets and stoking fears over the flow of crude through the Strait of Hormuz.",
+      "_zh_headline": "今日股市：随着原油价格上涨至 88 美元，纳斯达克 100 指数下跌",
+      "_zh_summary": "截至周三中午，美国股市走势分化，道琼斯指数和标准普尔 500 指数表现强劲，掩盖了整体疲软的面貌，原因是油价上涨和新关税在本季首个“七大”财报发布之前抑制了风险偏好。美国连续第 11 晚对伊朗发动打击，扩大了打击目标，引发了对霍尔木兹海峡原油流动的担忧，油价上涨。",
+      "_added_at": "2026-07-22T18:42:36.208409+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-22T18:25:49Z",
+      "headline": "3 Semiconductor Stocks to Buy After the Selloff — Bank of America’s Picks",
+      "id": 60619308,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Santa-Clara--California---April-26--2018.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Santa-Clara--California---April-26--2018.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Santa-Clara--California---April-26--2018.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bank of America says the sharp July selloff in Applied Materials, Lam Research and KLA is a buying opportunity as chip equipment spending accelerates.",
+      "symbols": [
+        "AMAT",
+        "KLAC",
+        "LRCX"
+      ],
+      "updated_at": "2026-07-22T18:25:49Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60619308/semiconductor-stocks-buy-selloff-bank-of-america-picks",
+      "_summary": "Three of the most important stocks in the artificial intelligence trade all set record highs on the same day, June 30. Three weeks later, they are down as much as 28%. Bank of America thinks that drop is the reason to buy them. Bank of America analyst Vivek Arya expects wafer fab equipment spending, the total the industry lays out on those machines each year, to climb from roughly $144 billion in 2026 to about $250 billion by 2028.",
+      "_zh_headline": "抛售后值得买入的 3 只半导体股票——美国银行的精选",
+      "_zh_summary": "人工智能行业中最重要的三只股票在 6 月 30 日同一天均创下历史新高。三周后，它们的跌幅高达 28%。美国银行认为下跌是购买它们的原因。美国银行分析师 Vivek Arya 预计，晶圆厂设备支出（即该行业每年在这些机器上的支出总额）将从 2026 年的约 1,440 亿美元攀升至 2028 年的约 2,500 亿美元。",
+      "_added_at": "2026-07-22T18:42:36.208409+00:00"
+    },
+    {
+      "author": "Benzinga Insights",
+      "content": "",
+      "created_at": "2026-07-22T17:35:22Z",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "id": 60617441,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "symbols": [
+        "AMD",
+        "APP",
+        "MSTR",
+        "MU",
+        "NBIS",
+        "NVDA",
+        "ORCL",
+        "SNDK",
+        "STM",
+        "VRNS"
+      ],
+      "updated_at": "2026-07-22T17:35:22Z",
+      "url": "https://www.benzinga.com/markets/options/26/07/60617441/10-information-technology-stocks-whale-alerts-today-s-session",
+      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
+      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
+      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
+      "_added_at": "2026-07-22T18:42:36.208409+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-22T16:58:27Z",
+      "headline": "Amazon's AWS Growth Could Top Expectations, Analyst Says",
+      "id": 60616005,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amazon-com-Inc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amazon-com-Inc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amazon-com-Inc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Amazon (AMZN) Q2 earnings preview: BofA projects $198.8B revenue and 33% AWS cloud growth driven by enterprise AI adoption.",
+      "symbols": [
+        "AMZN",
+        "IWX",
+        "LRGE",
+        "PNQI"
+      ],
+      "updated_at": "2026-07-22T16:58:27Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60616005/amazons-aws-growth-could-top-expectations-analyst-says",
+      "_summary": "The brokerage reiterated its Buy rating and $310 price forecast, citing improving AI positioning, accelerating AWS growth and continued momentum in generative AI services as potential catalysts for the stock in the second half of 2026. Bank of America now expects Amazon to report second-quarter revenue of $198.8 billion and operating income of $24.1 billion, above Wall Street consensus estimates of $196.8 billion and $23.6 billion, respectively.",
+      "_zh_headline": "分析师表示，亚马逊 AWS 的增长可能超出预期",
+      "_zh_summary": "该券商重申了买入评级和 310 美元的价格预测，理由是人工智能定位的改善、AWS 的加速增长以及生成式人工智能服务的持续增长势头是该股 2026 年下半年的潜在催化剂。美国银行目前预计亚马逊第二季度营收将达到 1988 亿美元，营业收入将达到 241 亿美元，分别高于华尔街普遍预期的 1968 亿美元和 236 亿美元。",
+      "_added_at": "2026-07-22T18:42:36.208409+00:00"
+    },
+    {
       "author": "Benzinga Insights",
       "content": "",
       "created_at": "2026-07-22T16:15:29Z",
@@ -659,161 +823,6 @@
       "_zh_headline": "周三美光科技股票怎么样？",
       "_zh_summary": "此次小幅回调是在人工智能驱动的内存需求乐观情绪推动下大幅反弹之后出现的。摩根士丹利分析师约瑟夫·摩尔表示，美国内存股最近的回调提供了一个有吸引力的买入机会。 Moore 预计，由于数据中心内存短缺持续存在，内存价格从 2026 年第二季度到第三季度将上涨至少 25%。",
       "_added_at": "2026-07-22T12:12:14.358772+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-22T09:33:40Z",
-      "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings— Super Micro, Adtran, Capital One in Focus",
-      "id": 60600025,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bull-And-Bear-Market-Confrontation-Refle.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bull-And-Bear-Market-Confrontation-Refle.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bull-And-Bear-Market-Confrontation-Refle.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Wednesday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Tuesday&#39;s higher close.",
-      "symbols": [
-        "ADTN",
-        "AIR",
-        "AVGO",
-        "BTCUSD",
-        "COF",
-        "GOOG",
-        "GOOGL",
-        "IBM",
-        "MU",
-        "NVDA",
-        "NVVE",
-        "QQQ",
-        "SMCI",
-        "SPY",
-        "TSLA",
-        "TXN"
-      ],
-      "updated_at": "2026-07-22T09:33:40Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60600025/stock-market-today-sp-500-nasdaq-100-futures-fall-as-chip-stocks-cool-down-and-tesla-alphabet-gear-up-for-earnings-super-micro-adtran-capital-one-in-focus",
-      "_summary": "U.S. stock futures tied to the Dow Jones, Nasdaq 100, and S&P 500 indices fell on Wednesday, following Tuesday’s higher close. At the ASEAN Foreign Ministers’ meeting in the Philippines, U.S. Secretary of State Marco Rubio said that \"The problem we’re having right now is that they’re not serious about talks.” This pushed crude oil prices higher. Tech optimism offset anxieties surrounding the Iran conflict and U.S. trade policy.",
-      "_zh_headline": "今日股市：随着芯片股降温，特斯拉、Alphabet 加速盈利，标准普尔 500 指数、纳斯达克 100 指数期货下跌——聚焦超微、Adtran、第一资本",
-      "_zh_summary": "继周二收盘走高后，与道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数相关的美国股指期货周三下跌。在菲律宾举行的东盟外长会议上，美国国务卿马可·卢比奥表示，“我们现在面临的问题是他们并不认真对待谈判。”这推高了原油价格。科技乐观情绪抵消了围绕伊朗冲突和美国贸易政策的担忧。",
-      "_added_at": "2026-07-22T10:00:24.287795+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-22T07:47:14Z",
-      "headline": "Nasdaq Jumps Over 1% Amid Gain In Chip Stocks: Investor Sentiment Improves, Greed Index Remains In ‘Fear’ Zone",
-      "id": 60599496,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "The CNN Fear &amp; Greed index improved while remaining in the Fear zone. Nasdaq gained 1% amid chipmaker gains.",
-      "symbols": [
-        "GEV",
-        "GM",
-        "MMM",
-        "MU",
-        "T",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-22T07:47:14Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60599496/nasdaq-jumps-over-1-amid-gain-in-chip-stocks-investor-sentiment-improves-greed-index-remains-in-fear-zone",
-      "_summary": "The CNN Money Fear and Greed index showed an improvement in the overall market sentiment, while the index remained in the “Fear” zone on Tuesday. U.S. stocks settled higher on Tuesday, with the Nasdaq Composite gaining more than 1% during the session amid gains in chipmakers. Micron Technology Inc. (NASDAQ: MU ) shares surged more than 12% as investors kept their focus on corporate earnings and looked past a 10th straight day of U.S.-Iran hostilities.",
-      "_zh_headline": "芯片股上涨纳斯达克上涨逾1%：投资者情绪改善，贪婪指数仍处于“恐惧”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪有所改善，该指数周二仍处于“恐惧”区域。美国股市周二收高，纳斯达克综合指数因芯片制造商上涨而上涨超过 1%。美光科技公司（纳斯达克股票代码：MU）股价飙升逾 12%，因投资者继续关注企业盈利，并展望美伊连续第 10 天的敌对行动。",
-      "_added_at": "2026-07-22T10:00:24.287795+00:00"
-    },
-    {
-      "author": "Eva Mathew",
-      "content": "",
-      "created_at": "2026-07-22T08:44:03Z",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "id": 60599715,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "July 22, 2026: Polymarket traders expect the S&amp;P 500 to open lower on Wednesday as rising oil prices overshadow strong corporate earnings.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "IBM",
-        "T",
-        "TSLA",
-        "TXN"
-      ],
-      "updated_at": "2026-07-22T08:44:03Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60599715/sp500-july-22-open-up-or-down-polymarket-oil-fed-earnings-ai-stocks",
-      "_summary": "The S&P 500 rallied on Tuesday as strong corporate earnings and a rebound in semiconductor stocks lifted equities. However, Polymarket traders are betting the benchmark index will open lower on Wednesday as rising oil prices and renewed inflation concerns cloud the outlook. The S&P 500 gained 0.89% to close at 7,509.20. However, the July 22 Polymarket contract implied just a 15% probability that the index will open higher on Wednesday, with traders increasingly positioning for a weaker start.",
-      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
-      "_zh_summary": "由于企业盈利强劲和半导体股票反弹提振股市，标准普尔 500 指数周二上涨。然而，Polymarket 交易员押注基准指数周三将开盘走低，因为油价上涨和新一轮通胀担忧给前景蒙上阴影。标准普尔 500 指数上涨 0.89%，收于 7,509.20 点。然而，7 月 22 日的 Polymarket 合约暗示该指数周三开盘走高的可能性仅为 15%，交易者越来越多地为弱势开局做准备。",
-      "_added_at": "2026-07-22T10:00:24.287795+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-22T07:59:39Z",
-      "headline": "Ross Gerber Renews Call For Disney Shake-Up After Stock Trails S&P 500 For 11 Years: 'Break Up The Mouse House Or Sell It'",
-      "id": 60599545,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Ostrava--Czechia---July-27--2024-Disney-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Ostrava--Czechia---July-27--2024-Disney-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Ostrava--Czechia---July-27--2024-Disney-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Investor Ross Gerber renews Disney breakup call, says shareholders have &#34;suffered too long&#34; after 11 years of stock underperformance. ",
-      "symbols": [
-        "AAPL",
-        "DIS",
-        "SPY"
-      ],
-      "updated_at": "2026-07-22T07:59:39Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60599545/ross-gerber-renews-call-for-disney-shake-up-after-stock-trails-sp-500-for-11-years-break-up-the-mouse-house-or-sell-it",
-      "_summary": "Gerber, who is also the CEO of Gerber Kawasaki , added that Disney’s individual businesses are worth more separately than together, saying shareholders have suffered too long. “Break up the mouse house or sell it,” Gerber added. Gerber has repeatedly criticized Disney’s strategy in recent days. Gerber also said Disney management had failed to unlock the value of its assets and argued shareholders were “sick of the dawdling” while executives continued to receive large compensation packages.",
-      "_zh_headline": "迪士尼股价连续 11 年落后于标准普尔 500 指数后，罗斯·格伯 (Ross Gerber) 再次呼吁进行重组：“要么拆散老鼠之家，要么卖掉它”",
-      "_zh_summary": "兼任格柏川崎公司首席执行官的格柏补充说，迪士尼各个业务的单独价值高于整体价值，并称股东遭受了太长时间的痛苦。 “拆掉老鼠屋或者卖掉它，”格伯补充道。格伯最近几天多次批评迪士尼的策略。格伯还表示，迪士尼管理层未能释放其资产的价值，并认为股东“厌倦了磨蹭”，而高管们却继续获得巨额薪酬。",
-      "_added_at": "2026-07-22T10:00:24.287795+00:00"
     }
   ]
 }
