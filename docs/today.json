@@ -2,6 +2,221 @@
   "date": "2026-07-22",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-22T13:49:37Z",
+      "headline": "Nasdaq Down Over 100 Points; AT&T Shares Gain After Upbeat Earnings",
+      "id": 60607337,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/iRobot-Corp-NASDAQIRBT.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/iRobot-Corp-NASDAQIRBT.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/iRobot-Corp-NASDAQIRBT.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "US stocks mixed, Nasdaq falls 100 pts. Dow up 0.02%, Nasdaq down 0.52%, S&amp;P 500 falls 0.20%. Energy up 1.1%, tech down 0.7%. AT&amp;T up 4% on earnings.",
+      "symbols": [
+        "CPHI",
+        "INLF",
+        "LABT",
+        "OMH",
+        "T",
+        "WETO",
+        "ZCMD"
+      ],
+      "updated_at": "2026-07-22T13:49:37Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60607337/nasdaq-down-over-100-points-att-shares-gain-after-upbeat-earnings",
+      "_summary": "U.S. stocks traded mixed this morning, with the Nasdaq Composite falling more than 100 points on Wednesday. Following the market opening Wednesday, the Dow traded up 0.02% to 52,237.67 while the NASDAQ declined 0.52% to 25,703.94. The S&P 500 also fell, dropping, 0.20% to 7,493.98. In trading on Wednesday, information technology stocks fell by 0.7%. AT&T Inc . (NYSE: T ) stock gained more than 4% on Wednesday after the telecom giant reported second-quarter fiscal 2026 earnings that topped Wall Street expectations.",
+      "_zh_headline": "纳斯达克下跌逾100点； AT&T 盈利乐观，股价上涨",
+      "_zh_summary": "今早美国股市涨跌互现，周三纳斯达克综合指数下跌逾 100 点。周三开盘后，道琼斯指数上涨 0.02%，至 52,237.67 点；纳斯达克指数下跌 0.52%，至 25,703.94 点。标准普尔 500 指数也下跌，跌幅为 0.20%，至 7,493.98 点。周三交易中，信息技术股下跌 0.7%。美国电话电报公司在这家电信巨头公布 2026 财年第二季度收益超出华尔街预期后，该公司 (NYSE: T) 股价周三上涨逾 4%。",
+      "_added_at": "2026-07-22T14:34:52.013583+00:00"
+    },
+    {
+      "author": "Khyathi Dalal",
+      "content": "",
+      "created_at": "2026-07-22T14:20:42Z",
+      "headline": "Bitcoin Bear Market Over? Not Quite. Analyst Says $83,000 Is The Real Test",
+      "id": 60609023,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bitcoin-Digital-Cryptocurrency-Losing-Va.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bitcoin-Digital-Cryptocurrency-Losing-Va.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Bitcoin-Digital-Cryptocurrency-Losing-Va.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "It&#39;s too early to declare the Bitcoin bear market bottom, but $83,000 could confirm a trend change, one analyst says.",
+      "symbols": [
+        "BTCUSD"
+      ],
+      "updated_at": "2026-07-22T14:20:42Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60609023/bitcoin-bear-market-over-not-quite-analyst-says-83000-is-the-real-test",
+      "_summary": "Bitcoin (CRYPTO: BTC) has broken above $65,000 and is testing its previous high near $67,260. However, one crypto analyst says it is too early to declare that the bear-market bottom is in. In a podcast on July 22, analyst Jason Pizzino said the market’s structure began improving in late June and early July. That is when Bitcoin recovered despite widespread negativity surrounding crypto markets and treasury companies.",
+      "_zh_headline": "比特币熊市结束？不完全是。分析师称 83,000 美元是真正的考验",
+      "_zh_summary": "比特币（CRYPTO：BTC）已突破 65,000 美元，并正在测试其前高点 67,260 美元附近。然而，一位加密货币分析师表示，现在宣布熊市底部已经到来还为时过早。分析师 Jason Pizzino 在 7 月 22 日的播客中表示，市场结构在 6 月底和 7 月初开始改善。尽管加密货币市场和财务公司普遍存在负面情绪，但比特币还是在那时复苏了。",
+      "_added_at": "2026-07-22T14:34:52.013583+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-22T13:58:56Z",
+      "headline": "SPY, QQQ And SOXL Power ETF Trading To New Record",
+      "id": 60607763,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Nzd-Jpy-Candlestick-Chart-Forex-Analysis.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Leveraged ETFs joined SPY and QQQ in driving ETF trading to a record high, reflecting the rising influence of leveraged and index ETFs.",
+      "symbols": [
+        "QQQ",
+        "SOXL",
+        "SOXS",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-07-22T13:58:56Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60607763/spy-qqq-and-soxl-power-etf-trading-to-new-record",
+      "_summary": "ETF volume hit an all-time high of 27.6%, according to IEX’s latest data. That’s up sharply from the high teens and low 20s that prevailed for much of the past decade. The milestone points to a broader change in market behavior. Rather than trading individual stocks, many investors are now turning to ETFs, particularly leveraged and inverse funds, to make bullish or bearish bets on sectors, themes, or even single companies.",
+      "_zh_headline": "SPY、QQQ 和 SOXL Power ETF 交易再创新高",
+      "_zh_summary": "IEX 的最新数据显示，ETF 成交量创下 27.6% 的历史新高。与过去十年的大部分时间里盛行的十几岁和二十多岁的人相比，这一数字急剧上升。这一里程碑表明市场行为发生了更广泛的变化。许多投资者现在不再交易个股，而是转向 ETF，特别是杠杆基金和反向基金，对行业、主题甚至单个公司进行看涨或看跌押注。",
+      "_added_at": "2026-07-22T14:34:52.013583+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-22T14:11:02Z",
+      "headline": "QUICK SPARK: China's EV Price War Can't Last Forever– 'Unsustainable' GM CEO Says",
+      "id": 60608592,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Benzinga-Quick-Spark.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Benzinga-Quick-Spark.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "GM CEO Mary Barra called China&#39;s EV price war &#34;unsustainable,&#34; arguing the market needs consolidation - why Tesla investors should care..",
+      "symbols": [
+        "BYDDF",
+        "F",
+        "GM",
+        "LI",
+        "NIO",
+        "TSLA",
+        "XPEV"
+      ],
+      "updated_at": "2026-07-22T14:11:02Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60608592/quick-spark-chinas-ev-price-war-cant-last-forever-unsustainable-gm-ceo-says",
+      "_summary": "Speaking on GM’s second-quarter earnings call, Barra described the pricing environment in China as “unsustainable,” arguing that the country’s overcrowded EV market will eventually need a major shakeout. “There’s intense pricing competition that frankly is unsustainable in China,” she said, adding that “there’s so many competitors” and “a lot of sorting that’s going to happen, need to happen for long-term viability.”",
+      "_zh_headline": "QUICK SPARK：中国的电动汽车价格战不会永远持续——通用汽车首席执行官表示“不可持续”",
+      "_zh_summary": "博拉在通用汽车第二季度财报电话会议上表示，中国的定价环境“不可持续”，并认为中国过度拥挤的电动汽车市场最终需要进行重大调整。她说：“坦率地说，中国存在激烈的价格竞争，这是不可持续的。”她补充说，“竞争对手太多了”，“为了长期生存，需要进行大量分类。”",
+      "_added_at": "2026-07-22T14:34:52.013583+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-22T14:01:49Z",
+      "headline": "What's Going on With Intel Stock Wednesday?",
+      "id": 60607986,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stone-Uk---September-2-2020-New-Intel-Lo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stone-Uk---September-2-2020-New-Intel-Lo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Stone-Uk---September-2-2020-New-Intel-Lo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel (INTC) stock rises ahead of Q2 earnings. See analyst ratings, technical levels, and revenue expectations before the report.",
+      "symbols": [
+        "IGPT",
+        "INTC",
+        "SKHY",
+        "SMH",
+        "SOXQ"
+      ],
+      "updated_at": "2026-07-22T14:01:49Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60607986/whats-going-on-with-intel-stock-wednesday-8",
+      "_summary": "The Nasdaq was down 0.51%, while the S&P 500 slipped 0.13%. Intel is scheduled to report second-quarter results on Thursday, July 23. The upcoming release has prompted investors to adjust positions, often leading to larger price swings ahead of earnings. The stock has also posted strong gains over the past year. As a result, traders are watching closely to see whether the recent pullback creates a buying opportunity or signals further weakness.",
+      "_zh_headline": "英特尔股票周三怎么样？",
+      "_zh_summary": "纳斯达克指数下跌 0.51%，标准普尔 500 指数下跌 0.13%。英特尔定于 7 月 23 日星期四公布第二季度业绩。即将发布的业绩促使投资者调整仓位，往往导致财报发布前价格出现较大波动。该股在过去一年中也录得强劲上涨。因此，交易员正在密切关注近期的回调是否会创造买入机会或预示进一步疲软。",
+      "_added_at": "2026-07-22T14:34:52.013583+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-22T13:20:47Z",
+      "headline": "What's Going on With Apple Stock Wednesday?",
+      "id": 60606020,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Pune--India---February-19--2024--Apple-i.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Pune--India---February-19--2024--Apple-i.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Pune--India---February-19--2024--Apple-i.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Apple slips in premarket as tech weakens. With Q3 earnings on July 30, can AAPL hold its bullish trend? Read the full analysis.",
+      "symbols": [
+        "AAPL",
+        "OEF",
+        "SCHG",
+        "TCHP"
+      ],
+      "updated_at": "2026-07-22T13:21:49Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60606020/whats-going-on-with-apple-stock-wednesday-3",
+      "_summary": "Investors are also watching whether Apple can hold onto its recent gains after a strong rally. The company is scheduled to report fiscal third-quarter earnings after the market closes on July 30. Apple continues to trade in a longer-term uptrend. The stock is 6.3% above its 20-day simple moving average of $308.48 and 19.2% above its 200-day SMA of $274.94. The 20-day SMA also remains above the 50-day SMA of $304.24, signaling that the intermediate trend is still positive.",
+      "_zh_headline": "周三苹果股票怎么样？",
+      "_zh_summary": "投资者也在关注苹果公司在强劲反弹后能否守住近期涨幅。该公司计划在 7 月 30 日收盘后公布第三财季收益。苹果公司的交易继续处于长期上升趋势。该股较 20 日简单移动平均线 308.48 美元高出 6.3%，比 200 日移动平均线 274.94 美元高出 19.2%。 20 日移动平均线也保持在 304.24 美元的 50 日移动平均线之上，表明中期趋势仍然积极。",
+      "_added_at": "2026-07-22T14:34:52.013583+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-22T11:08:49Z",
@@ -605,38 +820,6 @@
       "_summary": "Musk responded to an X user who shared the report and said, “Jesus that’s a lot of compute,” replying, “This is fake news.” Foxconn and SpaceX did not immediately respond to Benzinga’s requests for clarification. “If Supermicro did that well, Dell should be incredible,” Cramer said in a post on X. Dell is scheduled to report fiscal year 2027 second quarter earnings on September 3.",
       "_zh_headline": "埃隆·马斯克否认有关富士康赢得 SpaceX 520 亿美元人工智能服务器交易的报道：“这是假新闻”",
       "_zh_summary": "马斯克在回复一位分享该报告的 X 用户时表示，“天哪，这需要大量的计算”，并回答道：“这是假新闻。”富士康和 SpaceX 没有立即回应 Benzinga 的澄清请求。克莱默在 X 上发帖称：“如果超微做得这么好，戴尔应该会令人难以置信。”戴尔定于 9 月 3 日公布 2027 财年第二季度收益。",
-      "_added_at": "2026-07-22T07:13:28.889782+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-21T23:00:41Z",
-      "headline": "Here’s How Much You Would Have Made Owning SPDR Gold Shares Stock In The Last 5 Years",
-      "id": 60597489,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SPDR Gold Shares (NYSE:GLD) has outperformed the market over the past 5 years by 6.23% on an annualized basis producing an average annual return of 17.39%. Currently, SPDR Gold Shares has a market capitalization of",
-      "symbols": [
-        "GLD"
-      ],
-      "updated_at": "2026-07-21T23:00:41Z",
-      "url": "https://www.benzinga.com/news/26/07/60597489/here-s-how-much-you-would-have-made-owning-spdr-gold-shares-stock-last-5-years",
-      "_summary": "SPDR Gold Shares (NYSE: GLD ) has outperformed the market over the past 5 years by 6.23% on an annualized basis producing an average annual return of 17.39%. Currently, SPDR Gold Shares has a market capitalization of $132.12 billion. Buying $100 In GLD: If an investor had bought $100 of GLD stock 5 years ago, it would be worth $222.36 today based on a price of $374.61 for GLD at the time of writing.",
-      "_zh_headline": "以下是您在过去 5 年内持有 SPDR Gold Shares 股票可以获得的收入",
-      "_zh_summary": "SPDR Gold Shares（纽约证券交易所股票代码：GLD）过去 5 年的年化表现优于市场 6.23%，平均年回报率为 17.39%。目前，SPDR Gold Shares 的市值为 1321.2 亿美元。购买 100 美元的 GLD：如果投资者 5 年前购买了 100 美元的 GLD 股票，那么根据撰写本文时 GLD 的价格为 374.61 美元，该股票今天的价值为 222.36 美元。",
       "_added_at": "2026-07-22T07:13:28.889782+00:00"
     }
   ]
