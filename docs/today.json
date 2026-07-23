@@ -2,6 +2,39 @@
   "date": "2026-07-23",
   "articles": [
     {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-23T21:52:59Z",
+      "headline": "Trump Hits 60 Countries with 10% to 12.5% Tariffs as Temporary Levies Expire",
+      "id": 60658332,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Expert-Warns-Over-Trump-Defamation-Suit.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Expert-Warns-Over-Trump-Defamation-Suit.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Expert-Warns-Over-Trump-Defamation-Suit.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump imposes new tariffs on imports from 60 countries, targeting those with weak anti-forced-labor laws.",
+      "symbols": [
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-23T21:52:59Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60658332/trump-hits-60-countries-with-10-to-12-5-tariffs-as-temporary-levies-expire",
+      "_summary": "President Donald Trump is rebuilding his tariff wall hours before a temporary global levy expires, keeping trade risk on Wall Street’s radar. The administration announced on Thursday that it will impose tariffs of 10% to 12.5% on imports from 60 trading partners at 12:01 a.m. ET Friday. The duties target countries accused of weak enforcement against goods made with forced labor and will replace a temporary 10% worldwide tariff expiring simultaneously.",
+      "_zh_headline": "临时征税到期后，特朗普对 60 个国家征收 10% 至 12.5% 的关税",
+      "_zh_summary": "唐纳德·特朗普总统正在临时全球征税到期前几个小时重建关税墙，这让华尔街继续关注贸易风险。美国政府周四宣布，将于美国东部时间周五中午 12:01 对来自 60 个贸易伙伴的进口商品征收 10% 至 12.5% 的关税。这些关税针对的是被指控对强迫劳动制造的商品执法不力的国家，并将取代同时到期的全球 10% 临时关税。",
+      "_added_at": "2026-07-23T23:29:11.105556+00:00"
+    },
+    {
       "headline": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
       "summary": "The S&P 500 tumbled more than 1 percent, while the tech-heavy Nasdaq Composite sank more than 2 percent.",
       "url": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
@@ -701,46 +734,6 @@
       "_summary": "Highlighting a broad bond market selloff, El-Erian noted that nominal yields are rising sharply across major advanced economies. Specifically, the “US 10-Year is approaching 4.70%, UK 5.10%, Germany 3.20%,” with notable upward movement occurring at the front end as well. El-Erian observed that “higher oil prices — and, I suspect, further indication of massive bond issuance ahead–” are pushing rates higher on the day of the ECB policy decision. U.S.",
       "_zh_headline": "穆罕默德·埃里安警告称，在美联储会议之前，油价上涨、“大规模债券发行”正在推动全球收益率飙升",
       "_zh_summary": "埃尔-埃里安强调了债券市场的广泛抛售，指出主要发达经济体的名义收益率正在急剧上升。具体来说，“美国10年期国债利率接近4.70%，英国5.10%，德国3.20%”，前端也出现显着的上升趋势。埃尔-埃里安观察到，“油价上涨——而且我怀疑，这进一步表明未来将大规模发行债券——”正在欧洲央行政策决定当天推高利率。我们。",
-      "_added_at": "2026-07-23T13:04:30.457601+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-23T12:03:08Z",
-      "headline": "Rollins Posts Downbeat Q2 Earnings, Joins Texas Instruments, Alphabet And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
-      "id": 60634006,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/The-Alphabet-Trade.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/The-Alphabet-Trade.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/The-Alphabet-Trade.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Stock futures down on Thursday, Rollins Inc (ROL) reports disappointing Q2 results, other stocks also decline in pre-market trading.",
-      "symbols": [
-        "CYH",
-        "GOOGL",
-        "MOH",
-        "QS",
-        "ROL",
-        "STM",
-        "TASK",
-        "TSLA",
-        "TXN"
-      ],
-      "updated_at": "2026-07-23T12:03:08Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60634006/rollins-posts-downbeat-q2-earnings-joins-texas-instruments-alphabet-and-other-big-stocks-moving-lower-in-thursdays-pre-market-session",
-      "_summary": "U.S. stock futures were lower this morning, with the Dow futures falling around 200 points on Thursday. Shares of Rollins Inc (NYSE: ROL ) fell sharply in pre-market trading after the company reported worse-than-expected second-quarter financial results . Rollins reported quarterly earnings of 32 cents per share which missed the analyst consensus estimate of 34 cents per share. The company reported quarterly sales of $1.079 billion which missed the analyst consensus estimate of $1.092 billion.",
-      "_zh_headline": "罗林斯公布了悲观的第二季度收益，加入德州仪器、Alphabet 和其他大型股票在周四盘前交易中走低的行列",
-      "_zh_summary": "今天上午美国股指期货走低，周四道琼斯指数期货下跌约 200 点。罗林斯公司（纽约证券交易所代码：ROL）公布第二季度财务业绩差于预期后，其股价在盘前交易中大幅下跌。罗林斯公布的季度收益为每股 32 美分，低于分析师一致预期的每股 34 美分。该公司公布的季度销售额为 10.79 亿美元，低于分析师普遍预期的 10.92 亿美元。",
       "_added_at": "2026-07-23T13:04:30.457601+00:00"
     }
   ]
