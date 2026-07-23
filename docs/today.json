@@ -2,6 +2,112 @@
   "date": "2026-07-23",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-23T07:30:58Z",
+      "headline": "Nasdaq Falls Over 100 Points As Oil Prices Surge: Investor Sentiment Edges Lower, Greed Index Remains In ‘Fear’ Zone",
+      "id": 60629250,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "CNN Fear &amp; Greed index showed slight decline in market sentiment as crude oil prices rose. GEV &amp; PEGA stocks fell, while T stock gained.",
+      "symbols": [
+        "GEV",
+        "HON",
+        "LMT",
+        "PEGA",
+        "T",
+        "TMUS"
+      ],
+      "updated_at": "2026-07-23T07:30:58Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60629250/nasdaq-falls-over-100-points-as-oil-prices-surge-investor-sentiment-edges-lower-greed-index-remains-in-fear-zone",
+      "_summary": "The CNN Money Fear and Greed index showed a slight decline in the overall market sentiment, while the index remained in the “Fear” zone on Wednesday. U.S. stocks settled mostly lower on Wednesday, with the Nasdaq Composite falling more than 100 points during the session amid a rise in crude oil prices. Oil prices climbed as the U.S. carried out its 11th consecutive night of strikes on Iran, broadening its targets and stoking fears over the flow of crude through the Strait of Hormuz.",
+      "_zh_headline": "油价飙升纳斯达克跌超100点：投资者情绪走低，贪婪指数仍处于“恐惧”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪略有下降，该指数周三仍处于“恐惧”区域。周三美国股市大多走低，由于原油价格上涨，纳斯达克综合指数盘中下跌逾 100 点。美国连续第 11 晚对伊朗发动打击，扩大了打击目标，引发了对霍尔木兹海峡原油流动的担忧，油价上涨。",
+      "_added_at": "2026-07-23T07:57:17.769603+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-23T07:25:28Z",
+      "headline": "Elon Musk Says Tesla's Spending Spree Is the 'Fastest Industrial Scale-Up Since World War II' as 2026 Shapes Up To Be a 'Massive CapEx Year'",
+      "id": 60629217,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Sunnyvale--Ca--Usa---May-3--2022-Closeup.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Sunnyvale--Ca--Usa---May-3--2022-Closeup.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Sunnyvale--Ca--Usa---May-3--2022-Closeup.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Elon Musk calls Tesla&#39;s growth the fastest since World War II as CFO Vaibhav Taneja signals a massive 2026 CapEx push.",
+      "symbols": [
+        "MU",
+        "NIO",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-23T07:25:28Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60629217/elon-musk-says-teslas-spending-spree-is-the-fastest-industrial-scale-up-since-world-war-ii-as-2026-shapes-up-to-be-a-massive-capex-year",
+      "_summary": "During the Q2 earnings call on Wednesday, Taneja expressed the company’s readiness to spend aggressively on vehicles, autonomy, and robotics, anticipating strong returns. He marked 2026 as a “massive CapEx year” for Tesla. Tesla’s reported a record capital expenditure (CapEx) of $5.79 billion for the second quarter, representing a 142% year-over-year increase from the prior year. At the same time, its total GAAP operating expenses climbed 47% year-over-year to $4.35 billion in the second quarter of 2026.",
+      "_zh_headline": "埃隆·马斯克 (Elon Musk) 表示，特斯拉的支出热潮是“二战以来最快的工业规模扩张”，2026 年将成为“大规模资本支出年”",
+      "_zh_summary": "在周三的第二季度财报电话会议上，塔内贾表示，该公司准备在车辆、自动驾驶和机器人技术上大举投资，并预计将获得强劲回报。他将 2026 年标记为特斯拉的“大规模资本支出年”。特斯拉报告第二季度资本支出 (CapEx) 达到创纪录的 57.9 亿美元，同比增长 142%。与此同时，2026 年第二季度其 GAAP 运营支出总额同比增长 47% 至 43.5 亿美元。",
+      "_added_at": "2026-07-23T07:57:17.769603+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-23T07:29:30Z",
+      "headline": "Intel CFO David Zinsner Said Supply Would Improve 'Through the Rest of the Year' — Q2 Earnings Will Test That",
+      "id": 60629240,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca--Usa---Feb-20--2024-Low-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca--Usa---Feb-20--2024-Low-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca--Usa---Feb-20--2024-Low-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel reports Q2 Thursday as investors watch for signs AI-related supply constraints that hurt Q1 revenue have started to ease.",
+      "symbols": [
+        "INTC",
+        "MU",
+        "SKHY"
+      ],
+      "updated_at": "2026-07-23T07:29:30Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60629240/intel-q2-earnings-david-zinsner-supply-outlook",
+      "_summary": "During the first-quarter earnings call in April, CEO Lip-Bu Tan said demand continued to outpace supply across Intel’s businesses, particularly for Xeon server CPUs, even as the company expanded factory output. The company CFO, David Zinsner, said first-quarter revenue “would have been meaningfully higher” if more supply had been available, and expected supply to improve in the second quarter and continue increasing through the rest of the year.",
+      "_zh_headline": "英特尔首席财务官 David Zinsner 表示，供应量将在“今年剩余时间内”有所改善——第二季度收益将检验这一点",
+      "_zh_summary": "在 4 月份的第一季度财报电话会议上，首席执行官 Lip-Bu Tan 表示，尽管英特尔扩大了工厂产量，但英特尔各业务部门的需求仍然超过供应，尤其是至强服务器 CPU。该公司首席财务官 David Zinsner 表示，如果供应量增加，第一季度的收入“将会显着提高”，并预计第二季度的供应量将有所改善，并在今年剩余时间内继续增加。",
+      "_added_at": "2026-07-23T07:57:17.769603+00:00"
+    },
+    {
       "headline": "John Paulson says we are in the early stages of a long-term bull market for gold",
       "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
       "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
