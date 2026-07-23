@@ -2,6 +2,193 @@
   "date": "2026-07-23",
   "articles": [
     {
+      "author": "Mark Putrino",
+      "content": "",
+      "created_at": "2026-07-23T19:49:21Z",
+      "headline": "Where Will The Tesla Selloff End?",
+      "id": 60653996,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Tesla-Stock----EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Tesla-Stock----EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Tesla-Stock----EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla (TSLA) shares are in a freefall because of a weak earnings report. The shares have broken two important support levels.",
+      "symbols": [
+        "TSLA"
+      ],
+      "updated_at": "2026-07-23T19:49:21Z",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60653996/where-will-the-tesla-selloff-end",
+      "_summary": "The downtrend may continue. This is why Tesla is the Stock of the Day . Markets are driven by supply and demand. When there are more shares for sale than buyers willing to purchase them, sellers are often forced to undercut one another by lowering their asking prices to attract buyers. When a stock reaches a support level, the dynamic changes. There are large amounts of shares to be purchased. Downtrends end or pause when they reach support levels.",
+      "_zh_headline": "特斯拉抛售将在哪里结束？",
+      "_zh_summary": "下跌趋势可能会持续。这就是特斯拉成为今日股票的原因。市场由供给和需求驱动。当待售股票多于买家愿意购买的股票时，卖家往往被迫通过降低要价来吸引买家，从而相互压价。当股票达到支撑位时，动态就会发生变化。有大量股票可供购买。当下降趋势达到支撑位时，下降趋势就会结束或暂停。",
+      "_added_at": "2026-07-23T19:56:04.381631+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-23T19:46:47Z",
+      "headline": "Trump Official Buys ETF Version of 'Keep Your Enemies Closer'",
+      "id": 60653896,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Trump-Pelosi-Shutter.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Trump-Pelosi-Shutter.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Trump-Pelosi-Shutter.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A Trump DHS official bought the Pelosi-tracking NANC ETF, despite its Republican rival GOP outperforming in 2026. Why is NANC more popular?",
+      "symbols": [
+        "BAC",
+        "CVX",
+        "GOOGL",
+        "GOP",
+        "INTC",
+        "LHX",
+        "MSFT",
+        "NANC",
+        "NVDA",
+        "QQQ",
+        "UBER",
+        "VOO"
+      ],
+      "updated_at": "2026-07-23T19:46:47Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60653896/trump-official-buys-democratic-trades-etf-nanc-pelosi",
+      "_summary": "A senior official in President Donald Trump ’s Department of Homeland Security appears to have found one Democratic strategy worth backing: copying the party’s stock trades . The investment appears to be the first of its kind disclosed by a high-ranking Trump administration official. It is especially notable because Allende is a longtime Republican official who has served in the Trump administration and previously worked under Florida Governor Ron DeSantis .",
+      "_zh_headline": "特朗普官员购买 ETF 版本的《让​​敌人更近》",
+      "_zh_summary": "唐纳德·特朗普总统的国土安全部的一位高级官员似乎发现了一项值得支持的民主党策略：复制该党的股票交易。这项投资似乎是特朗普政府高级官员披露的首笔此类投资。尤其值得注意的是，阿连德是一位长期担任共和党官员的人，曾在特朗普政府任职，此前曾在佛罗里达州州长罗恩·德桑蒂斯手下工作过。",
+      "_added_at": "2026-07-23T19:56:04.381631+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-23T19:11:20Z",
+      "headline": "SPY Could Be Poised for a Post-Midterm Rally if 70 Years of History Repeats",
+      "id": 60652897,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Midterm-Stakes-Highlighted.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Midterm-Stakes-Highlighted.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Midterm-Stakes-Highlighted.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "70 years of S&amp;P 500 post-midterm performance history suggests SPY, VOO and IVV could ride a post-election rally. Here&#39;s what market data shows.",
+      "symbols": [
+        "IVV",
+        "QQQ",
+        "SPY",
+        "VOO"
+      ],
+      "updated_at": "2026-07-23T19:11:20Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60652897/spy-could-be-poised-for-a-post-midterm-rally-if-70-years-of-history-repeats",
+      "_summary": "According to LPL Financial , the market’s performance has followed a remarkably consistent pattern across presidential cycles, with weakness during midterm years frequently giving way to a strong rebound once election uncertainty fades. Since 1954, the S&P 500 has posted an average annual return of just 4.6% during midterm years, the lowest among the four years of the presidential cycle, LPL Financial charts show.",
+      "_zh_headline": "如果 70 年的历史重演，SPY 可能会迎来中期后反弹",
+      "_zh_summary": "LPL Financial 表示，在各个总统周期中，市场表现都遵循非常一致的模式，一旦选举不确定性消退，中期的疲软往往会被强劲反弹所取代。 LPL 金融图表显示，自 1954 年以来，标准普尔 500 指数在中期的平均年回报率仅为 4.6%，是总统任期四年中的最低水平。",
+      "_added_at": "2026-07-23T19:56:04.381631+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-23T19:13:27Z",
+      "headline": "NVIDIA's Next Breakout? Market Veteran Sees Plenty of Fuel Left in the AI Leader",
+      "id": 60653023,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Bet-Against-Nvidia.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Bet-Against-Nvidia.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Bet-Against-Nvidia.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Market experts highlight fresh buying in NVIDIA (NVDA) as technical breakout patterns align with strong AI GPU dominance.",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AVGO",
+        "GLW",
+        "GOOGL",
+        "INTC",
+        "META",
+        "MU",
+        "NVDA",
+        "SNDK",
+        "WDC"
+      ],
+      "updated_at": "2026-07-23T19:14:03Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60653023/nvidias-next-breakout-market-veteran-sees-plenty-of-fuel-left-in-the-ai-leader",
+      "_summary": "Virtus Investment Partners’ Joe Terranova told CNBC’s “Halftime Report” that he added to NVIDIA after the stock showed signs of a technical momentum breakout. He said NVIDIA’s fundamentals remain well known, but his latest purchases focused on the stock’s chart setup. Brown said Alphabet’s earnings are important because they give investors a clean read on hyperscaler capital spending and whether AI infrastructure projects remain on track.",
+      "_zh_headline": "NVIDIA 的下一个突破是什么？市场老手认为人工智能领导者还有很多动力",
+      "_zh_summary": "Virtus Investment Partners 的 Joe Terranova 在 CNBC 的《半场报告》中表示，在 NVIDIA 股票显示出技术势头突破的迹象后，他增持了该股。他表示，英伟达的基本面仍然众所周知，但他最近的购买重点是该股的图表设置。布朗表示，Alphabet 的收益很重要，因为它们可以让投资者清楚地了解超大规模资本支出以及人工智能基础设施项目是否仍在正常进行。",
+      "_added_at": "2026-07-23T19:56:04.381631+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-23T18:53:57Z",
+      "headline": "Why Is Walt Disney Stock Falling Thursday?",
+      "id": 60652375,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Walt-Disney.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Walt-Disney.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Walt-Disney.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The Walt Disney Co. (DIS) stock drops near 52-week low amid EU patent injunctions &amp; break-up calls. Is a Q2 earnings rebound ahead?",
+      "symbols": [
+        "AAPL",
+        "DIS",
+        "IDCC",
+        "SPY"
+      ],
+      "updated_at": "2026-07-23T18:53:57Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60652375/why-is-walt-disney-stock-falling-thursday",
+      "_summary": "The Walt Disney Co. (NYSE: DIS ) stock traded lower Thursday as investors weighed a European patent ruling, renewed calls for a corporate restructuring and fresh regulatory uncertainty surrounding its media business. The broader market was also under pressure, with the Nasdaq down 2.06% and the S&P 500 declining 1.41%. The ruling confirms the validity of the patent and covers High Efficiency Video Coding (HEVC) video encoding technology across 11 European Union countries. Disney can appeal the decision.",
+      "_zh_headline": "为什么华特迪士尼股票周四下跌？",
+      "_zh_summary": "华特迪士尼公司（纽约证券交易所股票代码：DIS）周四股价走低，原因是投资者权衡欧洲专利裁决、重新呼吁企业重组以及围绕其媒体业务的新监管不确定性。大盘也承压，纳指下跌2.06%，标普500指数下跌1.41%。该裁决确认了该专利的有效性，并涵盖了 11 个欧盟国家的高效视频编码 (HEVC) 视频编码技术。迪士尼可以对该决定提出上诉。",
+      "_added_at": "2026-07-23T19:56:04.381631+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-23T17:16:10Z",
@@ -583,185 +770,6 @@
       "_zh_headline": "今日股市：第二季度财报公布后，道琼斯指数、标准普尔 500 指数期货下跌，谷歌、埃隆·马斯克的 TSLA 拖累——英特尔、ServiceNow、Quantumscape 成为焦点",
       "_zh_summary": "美国股指期货周四下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三收盘走高后下跌。据路透社报道，美国情报分析师正在调查俄罗斯是否在最近对海湾地区中央情报局设施的精确打击中协助伊朗提供目标信息或增强的无人机技术，这给投资者增加了地缘政治的不确定性。与此同时，10年期国债收益率为4.67%，两年期国债收益率为4.31%。",
       "_added_at": "2026-07-23T10:39:57.967182+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-23T10:22:50Z",
-      "headline": "ServiceNow CEO Bill McDermott Hails '10-Figure Cybersecurity Business' as Q2 Subscription Revenue Surges 23% to $3.88 Billion",
-      "id": 60631250,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca-Us---September-28--2025-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca-Us---September-28--2025-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca-Us---September-28--2025-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "ServiceNow Q2 subscription revenues surged 23% to $3.88B. CEO Bill McDermott hails NOW&#39;s new 10-figure cyber business.",
-      "symbols": [
-        "BTCUSD",
-        "GOOG",
-        "INTC",
-        "NOW",
-        "QQQ",
-        "QS",
-        "SPY",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-23T10:22:50Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60631250/servicenow-ceo-bill-mcdermott-hails-10-figure-cybersecurity-business-as-q2-subscription-revenue-surges-23-to-3-88-billion",
-      "_summary": "McDermott emphasized that ServiceNow is rapidly expanding beyond traditional IT workflows into security orchestration, accelerated by recent acquisitions like Armis and Veza. “We now have a 10-figure cybersecurity business that’s growing faster than all the other top cybersecurity companies,” McDermott stated during the earnings call.",
-      "_zh_headline": "ServiceNow 首席执行官 Bill McDermott 称赞“网络安全业务达到 10 位数”，第二季度订阅收入飙升 23% 至 38.8 亿美元",
-      "_zh_summary": "McDermott 强调，ServiceNow 正在迅速从传统 IT 工作流程扩展到安全编排，最近收购的 Armis 和 Veza 加速了这一进程。麦克德莫特在财报电话会议上表示：“我们现在拥有 10 位数的网络安全业务，其增长速度超过所有其他顶级网络安全公司。”",
-      "_added_at": "2026-07-23T10:39:57.967182+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-23T08:23:55Z",
-      "headline": "Jim Bianco Says Bond Investors Need a Rate Hike as 30-Year Treasury Yield Hits 5.15%: 'When the Fed Starts Panicking, I Can Stop Panicking'",
-      "id": 60629625,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Businessman-Clicks-Inscription-Bonds--Bo.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Businessman-Clicks-Inscription-Bonds--Bo.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Businessman-Clicks-Inscription-Bonds--Bo.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "As 30-year Treasury yields hit 5.15%, Jim Bianco warns a July 29 Fed rate hike is needed to calm markets and stop bond investor panic.",
-      "symbols": [
-        "DIA",
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-23T08:23:55Z",
-      "url": "https://www.benzinga.com/markets/economic-data/26/07/60629625/jim-bianco-says-bond-investors-need-a-rate-hike-as-30-year-treasury-yield-hits-5-15-when-the-fed-starts-panicking-i-can-stop-panicking",
-      "_summary": "With 30-year U.S. Treasury yields at 5.15% and market probabilities of a July 29 interest rate hike climbing to roughly 36%, macro researcher Jim Bianco argues that bond investors need the Federal Reserve to tighten policy to restore calm. Deconstructing the turbulence, Bianco invoked a Wall Street adage, stating, “When the Fed starts panicking, I can stop panicking”.",
-      "_zh_headline": "Jim Bianco表示，随着30年期国债收益率达到5.15%，债券投资者需要加息：“当美联储开始恐慌时，我可以停止恐慌”",
-      "_zh_summary": "鉴于 30 年期美国国债收益率为 5.15%，且 7 月 29 日加息的市场概率攀升至约 36%，宏观研究员吉姆·比安科 (Jim Bianco) 认为，债券投资者需要美联储收紧政策以恢复平静。比安科在解构这场动荡时引用了华尔街的一句格言，称“当美联储开始恐慌时，我可以停止恐慌”。",
-      "_added_at": "2026-07-23T10:39:57.967182+00:00"
-    },
-    {
-      "author": "Avi Kapoor",
-      "content": "",
-      "created_at": "2026-07-23T07:30:58Z",
-      "headline": "Nasdaq Falls Over 100 Points As Oil Prices Surge: Investor Sentiment Edges Lower, Greed Index Remains In ‘Fear’ Zone",
-      "id": 60629250,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Fear-and-Greed.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Fear-and-Greed.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Fear-and-Greed.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "CNN Fear &amp; Greed index showed slight decline in market sentiment as crude oil prices rose. GEV &amp; PEGA stocks fell, while T stock gained.",
-      "symbols": [
-        "GEV",
-        "HON",
-        "LMT",
-        "PEGA",
-        "T",
-        "TMUS"
-      ],
-      "updated_at": "2026-07-23T07:30:58Z",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60629250/nasdaq-falls-over-100-points-as-oil-prices-surge-investor-sentiment-edges-lower-greed-index-remains-in-fear-zone",
-      "_summary": "The CNN Money Fear and Greed index showed a slight decline in the overall market sentiment, while the index remained in the “Fear” zone on Wednesday. U.S. stocks settled mostly lower on Wednesday, with the Nasdaq Composite falling more than 100 points during the session amid a rise in crude oil prices. Oil prices climbed as the U.S. carried out its 11th consecutive night of strikes on Iran, broadening its targets and stoking fears over the flow of crude through the Strait of Hormuz.",
-      "_zh_headline": "油价飙升纳斯达克跌超100点：投资者情绪走低，贪婪指数仍处于“恐惧”区域",
-      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪略有下降，该指数周三仍处于“恐惧”区域。周三美国股市大多走低，由于原油价格上涨，纳斯达克综合指数盘中下跌逾 100 点。美国连续第 11 晚对伊朗发动打击，扩大了打击目标，引发了对霍尔木兹海峡原油流动的担忧，油价上涨。",
-      "_added_at": "2026-07-23T07:57:17.769603+00:00"
-    },
-    {
-      "author": "Namrata Sen",
-      "content": "",
-      "created_at": "2026-07-23T07:25:28Z",
-      "headline": "Elon Musk Says Tesla's Spending Spree Is the 'Fastest Industrial Scale-Up Since World War II' as 2026 Shapes Up To Be a 'Massive CapEx Year'",
-      "id": 60629217,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Sunnyvale--Ca--Usa---May-3--2022-Closeup.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Sunnyvale--Ca--Usa---May-3--2022-Closeup.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Sunnyvale--Ca--Usa---May-3--2022-Closeup.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Elon Musk calls Tesla&#39;s growth the fastest since World War II as CFO Vaibhav Taneja signals a massive 2026 CapEx push.",
-      "symbols": [
-        "MU",
-        "NIO",
-        "SPCX",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-23T07:25:28Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60629217/elon-musk-says-teslas-spending-spree-is-the-fastest-industrial-scale-up-since-world-war-ii-as-2026-shapes-up-to-be-a-massive-capex-year",
-      "_summary": "During the Q2 earnings call on Wednesday, Taneja expressed the company’s readiness to spend aggressively on vehicles, autonomy, and robotics, anticipating strong returns. He marked 2026 as a “massive CapEx year” for Tesla. Tesla’s reported a record capital expenditure (CapEx) of $5.79 billion for the second quarter, representing a 142% year-over-year increase from the prior year. At the same time, its total GAAP operating expenses climbed 47% year-over-year to $4.35 billion in the second quarter of 2026.",
-      "_zh_headline": "埃隆·马斯克 (Elon Musk) 表示，特斯拉的支出热潮是“二战以来最快的工业规模扩张”，2026 年将成为“大规模资本支出年”",
-      "_zh_summary": "在周三的第二季度财报电话会议上，塔内贾表示，该公司准备在车辆、自动驾驶和机器人技术上大举投资，并预计将获得强劲回报。他将 2026 年标记为特斯拉的“大规模资本支出年”。特斯拉报告第二季度资本支出 (CapEx) 达到创纪录的 57.9 亿美元，同比增长 142%。与此同时，2026 年第二季度其 GAAP 运营支出总额同比增长 47% 至 43.5 亿美元。",
-      "_added_at": "2026-07-23T07:57:17.769603+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-23T07:29:30Z",
-      "headline": "Intel CFO David Zinsner Said Supply Would Improve 'Through the Rest of the Year' — Q2 Earnings Will Test That",
-      "id": 60629240,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca--Usa---Feb-20--2024-Low-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca--Usa---Feb-20--2024-Low-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca--Usa---Feb-20--2024-Low-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel reports Q2 Thursday as investors watch for signs AI-related supply constraints that hurt Q1 revenue have started to ease.",
-      "symbols": [
-        "INTC",
-        "MU",
-        "SKHY"
-      ],
-      "updated_at": "2026-07-23T07:29:30Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60629240/intel-q2-earnings-david-zinsner-supply-outlook",
-      "_summary": "During the first-quarter earnings call in April, CEO Lip-Bu Tan said demand continued to outpace supply across Intel’s businesses, particularly for Xeon server CPUs, even as the company expanded factory output. The company CFO, David Zinsner, said first-quarter revenue “would have been meaningfully higher” if more supply had been available, and expected supply to improve in the second quarter and continue increasing through the rest of the year.",
-      "_zh_headline": "英特尔首席财务官 David Zinsner 表示，供应量将在“今年剩余时间内”有所改善——第二季度收益将检验这一点",
-      "_zh_summary": "在 4 月份的第一季度财报电话会议上，首席执行官 Lip-Bu Tan 表示，尽管英特尔扩大了工厂产量，但英特尔各业务部门的需求仍然超过供应，尤其是至强服务器 CPU。该公司首席财务官 David Zinsner 表示，如果供应量增加，第一季度的收入“将会显着提高”，并预计第二季度的供应量将有所改善，并在今年剩余时间内继续增加。",
-      "_added_at": "2026-07-23T07:57:17.769603+00:00"
     }
   ]
 }
