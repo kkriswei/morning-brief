@@ -2,6 +2,55 @@
   "date": "2026-07-23",
   "articles": [
     {
+      "headline": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
+      "summary": "The S&P 500 tumbled more than 1 percent, while the tech-heavy Nasdaq Composite sank more than 2 percent.",
+      "url": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
+      "source": "NYT",
+      "symbols": [],
+      "created_at": "2026-07-23T20:07:54+00:00",
+      "_summary": "The S&P 500 tumbled more than 1 percent, while the tech-heavy Nasdaq Composite sank more than 2 percent.",
+      "_zh_headline": "随着人工智能的出现，股市暴跌支出和油价对市场构成压力",
+      "_zh_summary": "标准普尔 500 指数下跌超过 1%，而以科技股为主的纳斯达克综合指数则下跌超过 2%。",
+      "_added_at": "2026-07-23T21:36:32.401403+00:00"
+    },
+    {
+      "author": "Khyathi Dalal",
+      "content": "",
+      "created_at": "2026-07-23T20:04:03Z",
+      "headline": "Bitcoin Slips To $64,000 As ETH, XRP, DOGE Tumble In Macro Sell-Off",
+      "id": 60654531,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bitcoin dropped to $64,000 as a broader risk-off sentiment hit crypto markets following weak technology earnings that pressured equities.",
+      "symbols": [
+        "BTCUSD",
+        "DOGEUSD",
+        "ETHUSD",
+        "SHIBUSD",
+        "SOLUSD",
+        "XRPUSD"
+      ],
+      "updated_at": "2026-07-23T20:04:03Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60654531/bitcoin-slips-to-64000-as-eth-xrp-doge-tumble-in-macro-sell-off",
+      "_summary": "Bitcoin fell to $64,000 as a broader risk-off move swept through crypto markets after disappointing technology earnings weighed on equities. The pullback pushed crypto market sentiment back into the Fear zone. Ted Pillows noted Bitcoin trading below its 200-week EMA has historically marked a long-term accumulation zone. If the traditional four-year cycle holds, the market bottom could form in Q4.",
+      "_zh_headline": "ETH、XRP、DOGE 在宏观抛售中暴跌，比特币跌至 64,000 美元",
+      "_zh_summary": "令人失望的科技收益打压股市后，更广泛的避险举措席卷加密货币市场，比特币跌至 64,000 美元。此次回调将加密货币市场情绪推回到恐惧区域。 Ted Pillows 指出，比特币交易价格低于 200 周均线历来标志着一个长期积累区域。如果传统的四年周期成立，市场底部可能会在第四季度形成。",
+      "_added_at": "2026-07-23T21:36:32.401403+00:00"
+    },
+    {
       "author": "Mark Putrino",
       "content": "",
       "created_at": "2026-07-23T19:49:21Z",
@@ -693,83 +742,6 @@
       "_zh_headline": "罗林斯公布了悲观的第二季度收益，加入德州仪器、Alphabet 和其他大型股票在周四盘前交易中走低的行列",
       "_zh_summary": "今天上午美国股指期货走低，周四道琼斯指数期货下跌约 200 点。罗林斯公司（纽约证券交易所代码：ROL）公布第二季度财务业绩差于预期后，其股价在盘前交易中大幅下跌。罗林斯公布的季度收益为每股 32 美分，低于分析师一致预期的每股 34 美分。该公司公布的季度销售额为 10.79 亿美元，低于分析师普遍预期的 10.92 亿美元。",
       "_added_at": "2026-07-23T13:04:30.457601+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-07-23T10:17:18Z",
-      "headline": "‘Big Short’ Billionaire Strikes $4.2 Billion Gold Deal",
-      "id": 60631213,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Gold-Mining.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Gold-Mining.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Gold-Mining.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Billionaire John Paulson consolidates Donlin Gold ownership with NOVAGOLD in a $4.2B deal to streamline Alaska&#39;s top gold mine.",
-      "symbols": [
-        "GDX",
-        "GDXJ",
-        "GLD",
-        "IAU",
-        "NG",
-        "RING",
-        "SGDM"
-      ],
-      "updated_at": "2026-07-23T10:17:18Z",
-      "url": "https://www.benzinga.com/markets/commodities/26/07/60631213/big-short-billionaire-strikes-4-2-billion-gold-deal",
-      "_summary": "Under the agreement, NOVAGOLD will acquire Paulson’s interest in Donlin Gold through an all-stock transaction. Through a new company, NovaGold Corporation domiciled in Delaware, existing NOVAGOLD shareholders will own around 65% of the combined company, while Paulson will receive roughly 35% of shares. The firm is expected to list on the New York Stock Exchange. When accounting for NOVAGOLD shares Paulson already owns, he will hold about 40% of the new company, although his voting rights will be capped at 19.99%.",
-      "_zh_headline": "“大空头”亿万富翁达成 42 亿美元黄金交易",
-      "_zh_summary": "根据协议，NOVAGOLD将通过全股票交易收购保尔森在Donlin Gold的权益。通过一家位于特拉华州的新公司 NovaGold Corporation，现有 NOVAGOLD 股东将拥有合并后公司约 65% 的股份，而保尔森将获得约 35% 的股份。该公司预计将在纽约证券交易所上市。如果考虑到保尔森已持有的 NOVAGOLD 股份，他将持有新公司约 40% 的股份，尽管他的投票权上限为 19.99%。",
-      "_added_at": "2026-07-23T13:04:30.457601+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-23T09:25:37Z",
-      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings—Intel, ServiceNow, Quantumscape in Focus",
-      "id": 60630054,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures declined on Thursday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Wednesday&#39;s higher close.",
-      "symbols": [
-        "BTCUSD",
-        "GOOG",
-        "INTC",
-        "NOW",
-        "QQQ",
-        "QS",
-        "SPY",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-23T09:25:37Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60630054/stock-market-today-dow-jones-sp-500-futures-slip-as-googl-elon-musks-tsla-drag-after-q2-earnings-intel-servicenow-quantumscape-in-focus",
-      "_summary": "U.S. stock futures declined on Thursday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Wednesday’s higher close. Adding to geopolitical uncertainty for investors, U.S. intelligence analysts are investigating whether Russia assisted Iran with target information or enhanced drone tech in recent precise strikes on CIA facilities in the Gulf, according to Reuters. Meanwhile, the 10-year Treasury bond yielded 4.67%, and the two-year bond was at 4.31%.",
-      "_zh_headline": "今日股市：第二季度财报公布后，道琼斯指数、标准普尔 500 指数期货下跌，谷歌、埃隆·马斯克的 TSLA 拖累——英特尔、ServiceNow、Quantumscape 成为焦点",
-      "_zh_summary": "美国股指期货周四下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三收盘走高后下跌。据路透社报道，美国情报分析师正在调查俄罗斯是否在最近对海湾地区中央情报局设施的精确打击中协助伊朗提供目标信息或增强的无人机技术，这给投资者增加了地缘政治的不确定性。与此同时，10年期国债收益率为4.67%，两年期国债收益率为4.31%。",
-      "_added_at": "2026-07-23T10:39:57.967182+00:00"
     }
   ]
 }
