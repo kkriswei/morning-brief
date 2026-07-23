@@ -1,70 +1,6 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "articles": [
-    {
-      "author": "Michael Cohen",
-      "content": "",
-      "created_at": "2026-07-22T22:15:54Z",
-      "headline": "Alphabet Q2 2026 Earnings Call Transcript (CORRECTED)",
-      "id": 60626962,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Google.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Google.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Google.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Alphabet (NASDAQ:GOOGL) released second-quarter financial results and hosted an earnings call on Wednesday. Read the complete transcript below.\nBenzinga APIs provide real-time access to earnings call transcripts and",
-      "symbols": [
-        "GOOGL"
-      ],
-      "updated_at": "2026-07-22T22:15:57Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60626962/alphabet-q2-2026-earnings-call-transcript",
-      "_summary": "Editor’s Note: The transcripts have been removed and were published in error. Alphabet (NASDAQ: GOOGL ) released second-quarter financial results and hosted an earnings call on Wednesday. Read the complete transcript below. Benzinga APIs provide real-time access to earnings call transcripts and financial data. Visit https://www.benzinga.com/apis/ to learn more. The full earnings call is available at https://abc.xyz/investor/events/event-details/2026/2026-Q2-Earnings-Call-2026-GgTAq7Is0z/default.aspx",
-      "_zh_headline": "Alphabet 2026 年第二季度收益电话会议记录（已更正）",
-      "_zh_summary": "编者注：文字记录已被删除并错误发布。 Alphabet（纳斯达克股票代码：GOOGL）发布了第二季度财务业绩，并于周三召开了财报电话会议。阅读下面的完整文字记录。 Benzinga API 提供对财报电话会议记录和财务数据的实时访问。请访问 https://www.benzinga.com/apis/ 了解更多信息。完整的财报电话会议请访问 https://abc.xyz/investor/events/event-details/2026/2026-Q2-Earnings-Call-2026-GgTAq7Is0z/default.aspx",
-      "_added_at": "2026-07-23T01:03:32.397865+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-22T21:53:58Z",
-      "headline": "Transcript: Alphabet Q2 2026 Earnings Conference Call",
-      "id": 60626958,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Alphabet (NASDAQ:GOOG) held its second-quarter earnings conference call on Wednesday. Below is the complete transcript from the call.\nBenzinga APIs provide real-time access to earnings call transcripts and financial",
-      "symbols": [
-        "GOOG"
-      ],
-      "updated_at": "2026-07-22T21:53:58Z",
-      "url": "https://www.benzinga.com/news/26/07/60626958/transcript-alphabet-q2-2026-earnings-conference-call",
-      "_summary": "Alphabet (NASDAQ: GOOG ) held its second-quarter earnings conference call on Wednesday. Below is the complete transcript from the call. Benzinga APIs provide real-time access to earnings call transcripts and financial data. Visit https://www.benzinga.com/apis/ to learn more.",
-      "_zh_headline": "文字记录：Alphabet 2026 年第二季度收益电话会议",
-      "_zh_summary": "Alphabet（纳斯达克股票代码：GOOG）周三召开了第二季度财报电话会议。以下是通话的完整记录。 Benzinga API 提供对财报电话会议记录和财务数据的实时访问。请访问 https://www.benzinga.com/apis/ 了解更多信息。",
-      "_added_at": "2026-07-23T01:03:32.397865+00:00"
-    },
     {
       "headline": "John Paulson says we are in the early stages of a long-term bull market for gold",
       "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
@@ -75,7 +11,45 @@
       "_summary": "John Paulson, the hedge fund manager who made billions betting against the U.S. housing market before turning bullish on gold, said he believes the precious metal is only in the early stages of a long-term rally. \"I do think we're in the beginnings or the early stages of a long-term bull market for gold,\" Paulson said on CNBC's \"The Exchange\" Wednesday. \"As people lose faith in paper currencies, gold as an alternative will continue to grow.\" Paulson, whose wager against subprime mortgages became one of the most profitable trades in Wall Street history, shifted his focus to gold in 2009, arguing that the unprecedented fiscal and monetary stimulus following the financial crisis would ultimately weaken the U.S. dollar. Since then, gold prices have roughly quadrupled, topping the $5,000 threshold before pulling back. The billionaire investor said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
       "_zh_headline": "约翰·保尔森表示，我们正处于黄金长期牛市的早期阶段",
       "_zh_summary": "对冲基金经理约翰·保尔森(John Paulson)在转而看好黄金之前，曾在美国房地产市场上做空数十亿美元，他表示，他认为这种贵金属仅处于长期反弹的早期阶段。保尔森周三在 CNBC 的《The Exchange》节目中表示：“我确实认为，我们正处于黄金长期牛市的开始或早期阶段。” “随着人们对纸币失去信心，黄金作为替代品将继续增长。”保尔森对次级抵押贷款的押注成为华尔街历史上最赚钱的交易之一，他在 2009 年将注意力转向黄金，认为金融危机后前所未有的财政和货币刺激措施最终将削弱美元。此后，金价大约上涨了四倍，突破了 5,000 美元的关口，然后又回落。这位亿万富翁投资者表示，在各国央行不断增加储备以及私营部门兴趣不断增长的带动下，对黄金的需求持续扩大。",
-      "_added_at": "2026-07-22T22:34:02.006633+00:00"
+      "_added_at": "2026-07-23T04:53:46.428343+00:00"
+    },
+    {
+      "author": "Shivdeep Dhaliwal",
+      "content": "",
+      "created_at": "2026-07-23T01:45:57Z",
+      "headline": "Google-Parent Alphabet, Tesla, ServiceNow, IBM and Texas Instruments: Why These 5 Stocks are on Investors' Radars Today",
+      "id": 60627967,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Using-A-Mobile-Phone-To-View-Stocks-And-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Using-A-Mobile-Phone-To-View-Stocks-And-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Using-A-Mobile-Phone-To-View-Stocks-And-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Major U.S. indices ended Wednesday in the red with the Dow Jones Industrial Average marginally down at 0.01% at 52,218.58.",
+      "symbols": [
+        "BTCUSD",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "NOW",
+        "TSLA",
+        "TXN"
+      ],
+      "updated_at": "2026-07-23T01:45:57Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60627967/google-parent-alphabet-tesla-servicenow-ibm-and-texas-instruments-why-these-5-stocks-are-on-investors-radars-today",
+      "_summary": "Major U.S. indices ended Wednesday in the red with the Dow Jones Industrial Average marginally down at 0.01% at 52,218.58, the S&P 500 down 0.14% at 7,498.96, and Nasdaq declining 0.57% to 25,690.90. These are the top stocks that gained the attention of retail traders and investors through the day: Alphabet Class A stock saw a decline of 1.46%, closing at $342.09. The stock reached an intraday high of $349.94 and a low of $341.73, with a 52-week range between $408.61 and $187.82.",
+      "_zh_headline": "谷歌母公司 Alphabet、特斯拉、ServiceNow、IBM 和德州仪器：为何这 5 只股票如今受到投资者关注",
+      "_zh_summary": "美国主要股指周三收跌，道琼斯工业平均指数小幅下跌 0.01%，至 52,218.58 点；标准普尔 500 指数下跌 0.14%，至 7,498.96 点；纳斯达克指数下跌 0.57%，至 25,690.90 点。这些是全天吸引散户和投资者关注的顶级股票：Alphabet A 类股票下跌 1.46%，收于 342.09 美元。该股盘中最高价为 349.94 美元，最低价为 341.73 美元，52 周波动区间为 408.61 美元至 187.82 美元。",
+      "_added_at": "2026-07-23T04:53:46.428343+00:00"
     },
     {
       "author": "Chris Katje",
@@ -111,7 +85,75 @@
       "_summary": "Moran disclosed buying $15,000 to $50,000 in BRK.B shares on June 23, according to data from Quiver Quantitative. The senator also bought Alphabet (NASDAQ: GOOG ) stock, totaling $1,000 to $15,000 on the same day. These latest purchases are similar to the senator’s trading history this year, with those two stocks being the only other stocks he has bought and sold in 2026. Moran also disclosed buying Berkshire Hathaway stock with the following trades this year:",
       "_zh_headline": "其他国会议员保释后，参议员在后巴菲特时代支持伯克希尔股票",
       "_zh_summary": "根据 Quiver Quantitative 的数据，莫兰透露于 6 月 23 日购买了 15,000 至 50,000 美元的 BRK.B 股票。这位参议员还于同一天购买了 Alphabet（纳斯达克股票代码：GOOG）股票，总额为 1,000 至 15,000 美元。这些最新购买的股票与这位参议员今年的交易历史类似，这两只股票是他在 2026 年买卖的唯一其他股票。莫兰还透露，今年通过以下交易购买了伯克希尔哈撒韦股票：",
-      "_added_at": "2026-07-22T22:34:02.006633+00:00"
+      "_added_at": "2026-07-23T04:53:46.428343+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-23T03:56:32Z",
+      "headline": "Scott Bessent Says Open Source AI Not 'Open Season' on American Intellectual Property, Warns Chinese AI Firms of Sanctions",
+      "id": 60628229,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Some-Firms-Face-Political-Pressure.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Some-Firms-Face-Political-Pressure.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Some-Firms-Face-Political-Pressure.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Treasury&#39;s Scott Bessent warns Chinese AI firms could face sanctions, Entity List over AI distillation tied to US IP theft.",
+      "symbols": [
+        "BABA",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-23T03:56:32Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60628229/scott-bessent-open-source-ai-china-sanctions",
+      "_summary": "Treasury Secretary Scott Bessent on Wednesday warned that Chinese artificial intelligence companies could face sanctions and Entity List designations if they use “industrial-scale distillation attacks” that cross into intellectual property theft. In a post on X, Bessent said President Donald Trump ‘s administration supports open-source AI and the innovation it unlocks but added that “open source is not open season on American IP.”",
+      "_zh_headline": "斯科特·贝森特 (Scott Bessent) 称开源人工智能并非美国知识产权的“开放季节”，警告中国人工智能公司不要实施制裁",
+      "_zh_summary": "美国财政部长斯科特·贝森特周三警告说，如果中国人工智能公司使用涉及知识产权盗窃的“工业规模蒸馏攻击”，它们可能会面临制裁和实体清单指定。 Bessent 在 X 上的一篇帖子中表示，唐纳德·特朗普总统的政府支持开源人工智能及其所带来的创新，但他补充说，“开源并不是美国知识产权的开放季节。”",
+      "_added_at": "2026-07-23T04:53:46.428343+00:00"
+    },
+    {
+      "author": "Aniket Verma",
+      "content": "",
+      "created_at": "2026-07-23T02:44:02Z",
+      "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+      "id": 60628134,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/London--Uk---June-2021-Bitcoin-Cryptocur.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/London--Uk---June-2021-Bitcoin-Cryptocur.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/London--Uk---June-2021-Bitcoin-Cryptocur.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla Inc. recorded paper losses on its Bitcoin holdings for the third straight quarter, but did not sell any, according to its earnings release on Wednesday, July 22.",
+      "symbols": [
+        "BTCUSD",
+        "MSTR",
+        "TSLA",
+        "ZECUSD"
+      ],
+      "updated_at": "2026-07-23T02:44:02Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60628134/tesla-bitcoin-holdings-q2-paper-loss",
+      "_summary": "As of March 31, the EV giant held $674 million in digital assets, down 45% year-over-year and 14.24% from the previous quarter. Tesla reported $112 million in paper losses on cryptocurrency investments, marking three straight quarters of red ink. The Elon Musk -led company does not publish a breakdown of its cryptocurrency holdings. Instead, all investments are grouped under the “digital assets” line item. On-chain analytics firm Arkham Intelligence reports that its stockpile consists solely of Bitcoin.",
+      "_zh_headline": "尽管账面亏损 1.12 亿美元，埃隆·马斯克 (Elon Musk) 的特斯拉在第二季度仍持有比特币库存",
+      "_zh_summary": "截至3月31日，这家电动汽车巨头持有6.74亿美元的数字资产，同比下降45%，环比下降14.24%。特斯拉公布的加密货币投资账面亏损为 1.12 亿美元，连续三个季度出现亏损。这家埃隆·马斯克领导的公司没有公布其加密货币持有量的详细信息。相反，所有投资都分组在“数字资产”行项目下。链上分析公司 Arkham Intelligence 报告称，其库存仅由比特币组成。",
+      "_added_at": "2026-07-23T04:53:46.428343+00:00"
     },
     {
       "author": "Adam Eckert",
@@ -153,557 +195,7 @@
       "_summary": "On the conference call following Alphabet’s second-quarter earnings, the Google parent company revised its full-year 2026 capital expenditures forecast from a range of $180 billion to $190 billion to a new range of $195 billion to $205 billion, primarily due to the acceleration of delivering capacity to meet growing demand.",
       "_zh_headline": "Alphabet 首席财务官表示需求仍超过产能：人工智能基础设施库存上涨",
       "_zh_summary": "在 Alphabet 第二季度财报公布后的电话会议上，谷歌母公司将 2026 年全年资本支出预测从 1800 亿美元至 1900 亿美元调整为 1950 亿美元至 2050 亿美元的新范围，这主要是由于加速交付产能以满足不断增长的需求。",
-      "_added_at": "2026-07-22T22:34:02.006633+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-22T20:18:06Z",
-      "headline": "Time to Buy SanDisk, Micron? BlackRock Says Chip Stock Rout Is Overdone",
-      "id": 60624116,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "BlackRock says last week&#39;s semiconductor selloff went too far, arguing cheaper AI lifts demand for memory chips from SanDisk and Micron, not less.",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "SOXX"
-      ],
-      "updated_at": "2026-07-22T20:18:06Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60624116/sandisk-micron-blackrock-tech-selloff-overdone",
-      "_summary": "But BlackRock says investors may be drawing the wrong conclusion. The world’s largest asset manager argued Monday that the sharp selloff across technology and semiconductor stocks “is overstated,” warning that markets are confusing a shift in AI competition with a collapse in AI investment. The distinction could matter for investors trying to decide whether the recent correction represents the end of the AI trade or simply another buying opportunity.",
-      "_zh_headline": "是时候购买闪迪、美光了吗？贝莱德称芯片股暴跌有些过头了",
-      "_zh_summary": "但贝莱德表示，投资者可能得出了错误的结论。这家全球最大的资产管理公司周一表示，科技股和半导体股的大幅抛售“被夸大了”，并警告称，市场正在将人工智能竞争的转变与人工智能投资的崩溃混为一谈。对于试图确定最近的调整是否代表人工智能交易的结束或仅仅是另一个买入机会的投资者来说，这种区别可能很重要。",
-      "_added_at": "2026-07-22T22:34:02.006633+00:00"
-    },
-    {
-      "author": "The Arora Report",
-      "content": "",
-      "created_at": "2026-07-22T19:52:19Z",
-      "headline": "Chip Stocks Retreat As Yemen’s Houthis Enter The War; Alphabet, Tesla Earnings Ahead",
-      "id": 60622342,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Hawthorne-LA-CoSpaceX-Headquarters-locat.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "\n\n\n\nRed Sea Blockade\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
-      "symbols": [
-        "AAPL",
-        "ADI",
-        "AMZN",
-        "BTCUSD",
-        "GOOG",
-        "IBM",
-        "META",
-        "MSFT",
-        "NVDA",
-        "QQQ",
-        "SOXL",
-        "SPCX",
-        "SPY",
-        "TSLA",
-        "TXN",
-        "USO"
-      ],
-      "updated_at": "2026-07-22T19:53:44Z",
-      "url": "https://www.benzinga.com/Opinion/26/07/60622342/chip-stocks-retreat-as-yemens-houthis-enter-the-war-alphabet-tesla-earnings-ahead",
-      "_summary": "The Japanese yen fell below 163 per dollar before recovering.  This level last occurred in 1986.  The proximate cause is rising oil due to Houthis blockading the Red Sea.  Japan is a major oil importer, getting most of its oil from the Middle East. The fall in yen is raising alarm bells in Japan.  There are indications that the Bank of Japan is considering increasing interest rates faster.",
-      "_zh_headline": "随着也门胡塞武装参战，芯片股下跌； Alphabet、特斯拉盈利预测",
-      "_zh_summary": "日元兑美元汇率一度跌破163，随后有所回升。  这一水平上次出现在 1986 年。直接原因是胡塞武装封锁红海导致石油价格上涨。  日本是主要石油进口国，大部分石油来自中东。日元贬值给日本敲响了警钟。  有迹象表明，日本央行正在考虑加快加息速度。",
-      "_added_at": "2026-07-22T20:39:58.604403+00:00"
-    },
-    {
-      "author": "Chandrima Sanyal",
-      "content": "",
-      "created_at": "2026-07-22T20:21:55Z",
-      "headline": "QUICK SPARK: SPY Couldn't Keep Up—98% of QuantumStreet AI Index Assets Beat Benchmarks in H1",
-      "id": 60624305,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/People-Silhouettes-Over-SP-500-Index.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/People-Silhouettes-Over-SP-500-Index.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/People-Silhouettes-Over-SP-500-Index.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "QuantumStreet AI said 98% of its index assets have beaten benchmarks in 2026, with semiconductor stock picks helping it outperform SPY.",
-      "symbols": [
-        "LRCX",
-        "MU",
-        "QCOM",
-        "SPY",
-        "TWLO"
-      ],
-      "updated_at": "2026-07-22T20:21:55Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60624305/quick-spark-spy-couldnt-keep-up-98-of-quantumstreet-ai-index-assets-beat-benchmarks-in-h1",
-      "_summary": "QuantumStreet AI said 98% of its index strategy assets outperformed their benchmarks in the first half of 2026, while the remaining 2% matched benchmark performance. None of the firm’s AI-driven index strategies underperformed despite a volatile six months marked by macro uncertainty, geopolitical tensions and sharp sector rotation.",
-      "_zh_headline": "QUICK SPARK：SPY 无法跟上——上半年 98% 的 QuantumStreet AI 指数资产超过了基准",
-      "_zh_summary": "QuantumStreet AI 表示，其 98% 的指数策略资产在 2026 年上半年的表现优于基准，而其余 2% 的表现与基准表现相当。尽管宏观不确定性、地缘政治紧张局势和剧烈的行业轮动导致了这六个月的波动，但该公司人工智能驱动的指数策略均表现不佳。",
-      "_added_at": "2026-07-22T20:39:58.604403+00:00"
-    },
-    {
-      "author": "Mark Putrino",
-      "content": "",
-      "created_at": "2026-07-22T20:09:35Z",
-      "headline": "Stock Of The Day: Is The Danaher Selloff Over?",
-      "id": 60623411,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Selloff-Could-Hit-Main-Street-Hard.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Selloff-Could-Hit-Main-Street-Hard.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Selloff-Could-Hit-Main-Street-Hard.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Danaher Corporation (DHR) shares may have experienced a seller&#39;s capitulation. There has also been bullish action in the stock.",
-      "symbols": [
-        "DHR"
-      ],
-      "updated_at": "2026-07-22T20:09:35Z",
-      "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60623411/stock-of-the-day-is-the-danaher-selloff-over",
-      "_summary": "Danaher Corporation (NYSE: DHR ) is consolidating on Wednesday. The shares plunged by more than 10% yesterday, with the move driven by a weak earnings report. But the shares may rebound from here. This is why Danaher is the Stock of the Day. Over 28 million shares traded yesterday. This is well in excess of the average daily volume of 4.96 million. Sometimes, when a huge amount of volume trades after a downtrend, it can be a bullish dynamic. It can show a capitulation on the part of the sellers.",
-      "_zh_headline": "每日精选股票：丹纳赫抛售结束了吗？",
-      "_zh_summary": "丹纳赫公司（纽约证券交易所股票代码：DHR）将于周三进行整合。由于盈利报告疲软，该股昨天暴跌超过 10%。但股价可能会从这里反弹。这就是丹纳赫成为今日股票的原因。昨天交易的股票超过 2800 万股。这远远超过了 496 万的日均交易量。有时，当下跌趋势后出现大量交易时，这可能是看涨动态。它可以表明卖家的投降。",
-      "_added_at": "2026-07-22T20:39:58.604403+00:00"
-    },
-    {
-      "author": "Daragh Thomas",
-      "content": "",
-      "created_at": "2026-07-22T18:53:36Z",
-      "headline": "Bessent Wants Chinese AI Sanctioned, But Jensen Huang Says Distillation Is Learning",
-      "id": 60620441,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Treasury threatens sanctions over Chinese AI &#34;theft,&#34; but Nvidia CEO Jensen Huang says distillation is just learning. Prediction markets side with his calm.",
-      "symbols": [
-        "NVDA"
-      ],
-      "updated_at": "2026-07-22T18:53:36Z",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60620441/bessent-wants-chinese-ai-sanctioned-but-jensen-huang-says-distillation-is-learning",
-      "_summary": "The pressure started Tuesday, when Treasury Secretary Scott Bessent told Fox Business the administration is finding “watermarks of our U.S. large language models on many of the Chinese models” and may act within weeks. The practice at issue is distillation: bombarding a frontier model with prompts and training a cheaper model on its answers, capturing much of its capability at a fraction of the cost. The technique is a normal part of AI development when done openly.",
-      "_zh_headline": "Bessent 希望中国人工智能受到制裁，但黄仁勋表示蒸馏就是学习",
-      "_zh_summary": "这种压力始于周二，当时财政部长斯科特·贝森特告诉福克斯商业频道，政府正在发现“我们的美国大语言模型在许多中国模型上的水印”，并可能在几周内采取行动。有争议的做法是蒸馏：用提示轰炸前沿模型，并根据其答案训练更便宜的模型，以一小部分成本捕获其大部分功能。当公开进行时，该技术是人工智能开发的正常组成部分。",
-      "_added_at": "2026-07-22T20:39:58.604403+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-22T16:58:04Z",
-      "headline": "Stock Market Today: Nasdaq 100 Falls as Crude Rallies to $88",
-      "id": 60615991,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Crude-Oil-Price-Hike-Graph-Chart--Stock-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Crude-Oil-Price-Hike-Graph-Chart--Stock-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Crude-Oil-Price-Hike-Graph-Chart--Stock-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Stocks split as oil climbs on the 11th night of Iran strikes and Super Micro rockets 26% on a record backlog, while the Nasdaq slips ahead of Alphabet, Tesla.",
-      "symbols": [
-        "AMD",
-        "ARWR",
-        "DELL",
-        "DIA",
-        "GEV",
-        "GOOGL",
-        "IBM",
-        "IWM",
-        "KVYO",
-        "PAG",
-        "PATH",
-        "PEGA",
-        "PM",
-        "QQQ",
-        "RDDT",
-        "SMCI",
-        "TSLA",
-        "USO",
-        "VOO",
-        "WAB",
-        "XLB",
-        "XLE",
-        "XLU"
-      ],
-      "updated_at": "2026-07-22T16:58:04Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60615991/stock-market-today-news-oil-nasdaq-wednesday",
-      "_summary": "U.S. stocks traded in split fashion by midday Wednesday, with a resilient Dow and S&P 500 masking softer breadth as rising oil prices and fresh tariffs kept a lid on risk appetite ahead of the first “Magnificent Seven” earnings of the season. Oil prices climbed as the U.S. carried out its 11th consecutive night of strikes on Iran, broadening its targets and stoking fears over the flow of crude through the Strait of Hormuz.",
-      "_zh_headline": "今日股市：随着原油价格上涨至 88 美元，纳斯达克 100 指数下跌",
-      "_zh_summary": "截至周三中午，美国股市走势分化，道琼斯指数和标准普尔 500 指数表现强劲，掩盖了整体疲软的面貌，原因是油价上涨和新关税在本季首个“七大”财报发布之前抑制了风险偏好。美国连续第 11 晚对伊朗发动打击，扩大了打击目标，引发了对霍尔木兹海峡原油流动的担忧，油价上涨。",
-      "_added_at": "2026-07-22T18:42:36.208409+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-22T18:25:49Z",
-      "headline": "3 Semiconductor Stocks to Buy After the Selloff — Bank of America’s Picks",
-      "id": 60619308,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Santa-Clara--California---April-26--2018.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Santa-Clara--California---April-26--2018.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Santa-Clara--California---April-26--2018.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bank of America says the sharp July selloff in Applied Materials, Lam Research and KLA is a buying opportunity as chip equipment spending accelerates.",
-      "symbols": [
-        "AMAT",
-        "KLAC",
-        "LRCX"
-      ],
-      "updated_at": "2026-07-22T18:25:49Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60619308/semiconductor-stocks-buy-selloff-bank-of-america-picks",
-      "_summary": "Three of the most important stocks in the artificial intelligence trade all set record highs on the same day, June 30. Three weeks later, they are down as much as 28%. Bank of America thinks that drop is the reason to buy them. Bank of America analyst Vivek Arya expects wafer fab equipment spending, the total the industry lays out on those machines each year, to climb from roughly $144 billion in 2026 to about $250 billion by 2028.",
-      "_zh_headline": "抛售后值得买入的 3 只半导体股票——美国银行的精选",
-      "_zh_summary": "人工智能行业中最重要的三只股票在 6 月 30 日同一天均创下历史新高。三周后，它们的跌幅高达 28%。美国银行认为下跌是购买它们的原因。美国银行分析师 Vivek Arya 预计，晶圆厂设备支出（即该行业每年在这些机器上的支出总额）将从 2026 年的约 1,440 亿美元攀升至 2028 年的约 2,500 亿美元。",
-      "_added_at": "2026-07-22T18:42:36.208409+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-22T17:35:22Z",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "id": 60617441,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "symbols": [
-        "AMD",
-        "APP",
-        "MSTR",
-        "MU",
-        "NBIS",
-        "NVDA",
-        "ORCL",
-        "SNDK",
-        "STM",
-        "VRNS"
-      ],
-      "updated_at": "2026-07-22T17:35:22Z",
-      "url": "https://www.benzinga.com/markets/options/26/07/60617441/10-information-technology-stocks-whale-alerts-today-s-session",
-      "_summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders often look for circumstances when the market estimation of an option diverges away from its normal worth. Abnormal amounts of trading activity could push option prices to hyperbolic or underperforming levels.",
-      "_zh_headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-      "_zh_summary": "此鲸鱼警报可以帮助交易者发现下一个重大交易机会。鲸鱼是拥有大量资金的实体，我们通过我们的期权活动扫描仪在 Benzinga 跟踪他们的交易。交易者经常寻找期权的市场估值偏离其正常价值的情况。异常数量的交易活动可能会将期权价格推至双曲线或表现不佳的水平。",
-      "_added_at": "2026-07-22T18:42:36.208409+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-22T16:58:27Z",
-      "headline": "Amazon's AWS Growth Could Top Expectations, Analyst Says",
-      "id": 60616005,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amazon-com-Inc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amazon-com-Inc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Amazon-com-Inc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Amazon (AMZN) Q2 earnings preview: BofA projects $198.8B revenue and 33% AWS cloud growth driven by enterprise AI adoption.",
-      "symbols": [
-        "AMZN",
-        "IWX",
-        "LRGE",
-        "PNQI"
-      ],
-      "updated_at": "2026-07-22T16:58:27Z",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60616005/amazons-aws-growth-could-top-expectations-analyst-says",
-      "_summary": "The brokerage reiterated its Buy rating and $310 price forecast, citing improving AI positioning, accelerating AWS growth and continued momentum in generative AI services as potential catalysts for the stock in the second half of 2026. Bank of America now expects Amazon to report second-quarter revenue of $198.8 billion and operating income of $24.1 billion, above Wall Street consensus estimates of $196.8 billion and $23.6 billion, respectively.",
-      "_zh_headline": "分析师表示，亚马逊 AWS 的增长可能超出预期",
-      "_zh_summary": "该券商重申了买入评级和 310 美元的价格预测，理由是人工智能定位的改善、AWS 的加速增长以及生成式人工智能服务的持续增长势头是该股 2026 年下半年的潜在催化剂。美国银行目前预计亚马逊第二季度营收将达到 1988 亿美元，营业收入将达到 241 亿美元，分别高于华尔街普遍预期的 1968 亿美元和 236 亿美元。",
-      "_added_at": "2026-07-22T18:42:36.208409+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-22T16:15:29Z",
-      "headline": "Here’s How Much You Would Have Made Owning Vanguard S&P 500 Growth ETF Stock In The Last 15 Years",
-      "id": 60614439,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Vanguard S&amp;P 500 Growth ETF (NYSE:VOOG) has outperformed the market over the past 15 years by 2.42% on an annualized basis producing an average annual return of 14.8%. Currently, Vanguard S&amp;P 500 Growth ETF has",
-      "symbols": [
-        "VOOG"
-      ],
-      "updated_at": "2026-07-22T16:15:29Z",
-      "url": "https://www.benzinga.com/news/26/07/60614439/here-s-how-much-you-would-have-made-owning-vanguard-s-p-500-growth-etf-stock-last-15-years",
-      "_summary": "Vanguard S&P 500 Growth ETF (NYSE: VOOG ) has outperformed the market over the past 15 years by 2.42% on an annualized basis producing an average annual return of 14.8%. Currently, Vanguard S&P 500 Growth ETF has a market capitalization of $25.76 billion. Buying $1000 In VOOG: If an investor had bought $1000 of VOOG stock 15 years ago, it would be worth $7,911.76 today based on a price of $82.07 for VOOG at the time of writing.",
-      "_zh_headline": "以下是您在过去 15 年中持有 Vanguard S&P 500 Growth ETF 股票可以获得的收入",
-      "_zh_summary": "Vanguard S&P 500 Growth ETF（纽约证券交易所代码：VOOG）在过去 15 年中的年化表现优于市场 2.42%，平均年回报率为 14.8%。目前，Vanguard S&P 500 Growth ETF 的市值为 257.6 亿美元。购买 1000 美元的 VOOG：如果投资者 15 年前购买了 1000 美元的 VOOG 股票，那么基于撰写本文时 VOOG 的价格为 82.07 美元，该股票今天的价值为 7,911.76 美元。",
-      "_added_at": "2026-07-22T16:57:14.693297+00:00"
-    },
-    {
-      "author": "Benzinga Insights",
-      "content": "",
-      "created_at": "2026-07-22T15:46:38Z",
-      "headline": "If You Invested $100 In State Street SPDR Portfolio S&P 500 Growth ETF Stock 15 Years Ago, You Would Have This Much Today",
-      "id": 60613232,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "State Street SPDR Portfolio S&amp;P 500 Growth ETF (NYSE:SPYG) has outperformed the market over the past 15 years by 2.35% on an annualized basis producing an average annual return of 14.72%. Currently, State Street",
-      "symbols": [
-        "SPYG"
-      ],
-      "updated_at": "2026-07-22T15:46:38Z",
-      "url": "https://www.benzinga.com/news/26/07/60613232/if-you-invested-100-state-street-spdr-portfolio-s-p-500-growth-etf-stock-15-years-ago-you-would-have",
-      "_summary": "State Street SPDR Portfolio S&P 500 Growth ETF (NYSE: SPYG ) has outperformed the market over the past 15 years by 2.35% on an annualized basis producing an average annual return of 14.72%. Currently, State Street SPDR Portfolio S&P 500 Growth ETF has a market capitalization of $52.45 billion. Buying $100 In SPYG: If an investor had bought $100 of SPYG stock 15 years ago, it would be worth $784.37 today based on a price of $118.14 for SPYG at the time of writing.",
-      "_zh_headline": "如果您 15 年前投资 100 美元购买道富 SPDR 投资组合 S&P 500 Growth ETF 股票，今天您将拥有这么多",
-      "_zh_summary": "State Street SPDR Portfolio S&P 500 Growth ETF（纽约证券交易所代码：SPYG）在过去 15 年中的年化表现优于市场 2.35%，平均年回报率为 14.72%。目前，State Street SPDR Portfolio S&P 500 Growth ETF 的市值为 524.5 亿美元。购买 100 美元的 SPYG：如果投资者 15 年前购买了 100 美元的 SPYG 股票，那么根据撰写本文时 SPYG 的价格为 118.14 美元，该股票今天的价值为 784.37 美元。",
-      "_added_at": "2026-07-22T16:57:14.693297+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-22T15:09:57Z",
-      "headline": "Oracle Faces Pressure: Data Center Costs and OpenAI Exposure Weigh on Stock",
-      "id": 60611503,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Oracle.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Oracle.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Oracle.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Oracle (NYSE: ORCL) stock fell on Wednesday as traders highlighted massive data center cost overruns, credit default risk, and heavy exposure to OpenAI.",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "IGV",
-        "MSFT",
-        "ORCL",
-        "TDIV",
-        "TRFK"
-      ],
-      "updated_at": "2026-07-22T15:09:57Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60611503/oracle-faces-pressure-data-center-costs-and-openai-exposure-weigh-on-stock",
-      "_summary": "Oracle Corp (NYSE: ORCL ) stock traded lower on Wednesday as big-cap tech remains under pressure in a risk-off tape. The Nasdaq is down 0.59% while the S&P 500 has shed 0.16%. The stock drew scrutiny on CNBC’s \"Fast Money\" on Tuesday after traders discussed reports that data center cost overruns are weighing on the stock and raising questions about its AI infrastructure strategy.",
-      "_zh_headline": "Oracle 面临压力：数据中心成本和 OpenAI 风险打压库存",
-      "_zh_summary": "甲骨文公司（纽约证券交易所股票代码：ORCL）股价周三走低，因大型科技股仍面临避险压力。纳斯达克指数下跌 0.59%，标准普尔 500 指数下跌 0.16%。周二，在交易员讨论了数据中心成本超支正在打压该股并引发对其人工智能基础设施战略的质疑后，该股受到了 CNBC“快钱”节目的密切关注。",
-      "_added_at": "2026-07-22T16:57:14.693297+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-07-22T16:30:41Z",
-      "headline": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
-      "id": 60615102,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Chips--semiconductor-shutterstock-219855.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Chips--semiconductor-shutterstock-219855.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Chips--semiconductor-shutterstock-219855.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "AI’s surge pulled billions out of gold and Bitcoin; now the momentum trade is cracking as chip stocks slide and investors eye a potential reversal.",
-      "symbols": [
-        "ASML",
-        "GLD",
-        "IBIT",
-        "SOXX",
-        "TSM"
-      ],
-      "updated_at": "2026-07-22T16:30:41Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60615102/semiconductor-stocks-inflows-versus-gold-bitcoin",
-      "_summary": "The AI trade did more than propel chip stocks higher this year. It appears to have siphoned capital directly from some of the market’s most familiar monetary hedges. Since March, US semiconductor exchange-traded funds have drawn over $22 billion in cumulative inflows, while gold and Bitcoin funds have shed around $17.5 billion. The correlation between these moves suggests less a pair of separate investment narratives than a single, powerful rotation.",
-      "_zh_headline": "半导体贸易从黄金和比特币中蒸发了 220 亿美元——现在潮流正在逆转",
-      "_zh_summary": "The AI trade did more than propel chip stocks higher this year. It appears to have siphoned capital directly from some of the market’s most familiar monetary hedges.自 3 月份以来，美国半导体交易所交易基金累计流入超过 220 亿美元，而黄金和比特币基金则流失了约 175 亿美元。 The correlation between these moves suggests less a pair of separate investment narratives than a single, powerful rotation.",
-      "_added_at": "2026-07-22T16:57:14.693297+00:00"
-    },
-    {
-      "author": "Piero Cingari",
-      "content": "",
-      "created_at": "2026-07-22T15:39:30Z",
-      "headline": "Nvidia vs. AMD: The Next AI Battle Targets a $170 Billion Prize",
-      "id": 60612967,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Modern-Data-Technology-Center-With-Serve.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Modern-Data-Technology-Center-With-Serve.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Modern-Data-Technology-Center-With-Serve.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bank of America says the next AI war isn&#39;t about GPUs anymore. Nvidia and AMD are competing to define the future of a $170 billion server CPU market.",
-      "symbols": [
-        "AMD",
-        "NVDA"
-      ],
-      "updated_at": "2026-07-22T15:39:30Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60612967/nvidia-amd-agentic-ai-server-cpu-debate-bank-of-america",
-      "_summary": "For nearly three years, investors judged the AI race by one metric: GPU performance. Bank of America thinks the next winner may depend on something far less discussed: server CPUs. The question isn’t which company builds the faster processor. It’s which metric customers decide matters most. Bank of America says Nvidia measures success by how quickly a single AI agent completes its work. “Nvidia introduced a new framework: max single-threaded performance at scale,” analyst Vivek Arya said.",
-      "_zh_headline": "Nvidia vs. AMD：下一场人工智能之战的目标是 1700 亿美元",
-      "_zh_summary": "近三年来，投资者通过一个指标来评判人工智能竞赛：GPU 性能。美国银行认为下一个赢家可能取决于一些很少被讨论的东西：服务器 CPU。问题不在于哪家公司生产更快的处理器。这是客户决定的最重要的指标。美国银行表示，英伟达通过单个人工智能代理完成工作的速度来衡量成功。 “Nvidia 推出了一个新框架：大规模单线程性能最大化，”分析师 Vivek Arya 说道。",
-      "_added_at": "2026-07-22T16:57:14.693297+00:00"
-    },
-    {
-      "author": "Chris Katje",
-      "content": "",
-      "created_at": "2026-07-22T16:33:15Z",
-      "headline": "Intel Q2 Preview: Stock Hammers Nvidia with 7x Returns Since Dow Swap — Will Earnings Fuel Further Gains?",
-      "id": 60615237,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Intel-Nvidia-Shutterstock.png?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Intel-Nvidia-Shutterstock.png?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/22/Intel-Nvidia-Shutterstock.png?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel has beaten analyst estimates for revenue in seven straight quarters. Will the trend and stock outperformance continue after Q2 results Thursday?",
-      "symbols": [
-        "INTC",
-        "NVDA",
-        "SOXX"
-      ],
-      "updated_at": "2026-07-22T16:33:15Z",
-      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60615237/intel-q2-preview-stock-hammers-nvidia-with-7x-returns-since-dow-swap-will-earnings-fuel-further-gains",
-      "_summary": "Here are the earnings estimates, analyst ratings and key items to watch. • Intel stock is trading at elevated levels. What should traders watch with INTC? Analysts expect Intel to report second-quarter revenue of $14.40 billion, up from $12.86 billion, according to data from Benzinga Pro. The company has beaten analyst estimates for revenue in seven straight quarters and in eight of the past 10 quarters overall.",
-      "_zh_headline": "英特尔第二季度预览：自道指掉期以来，股票以 7 倍的回报重创英伟达 - 盈利会推动进一步上涨吗？",
-      "_zh_summary": "以下是盈利预测、分析师评级和值得关注的关键项目。 • 英特尔股票交易价格处于高位。交易者在 INTC 时应该注意什么？ Benzinga Pro 的数据显示，分析师预计英特尔第二季度营收为 144 亿美元，高于 128.6 亿美元。该公司的收入连续七个季度超出了分析师的预期，过去 10 个季度中有 8 个季度超出了分析师的预期。",
-      "_added_at": "2026-07-22T16:57:14.693297+00:00"
+      "_added_at": "2026-07-23T04:53:46.428343+00:00"
     }
   ]
 }
