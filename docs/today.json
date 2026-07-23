@@ -2,6 +2,190 @@
   "date": "2026-07-23",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-23T14:37:29Z",
+      "headline": "Tesla's AI Bet Flounders As Alphabet's Gemini Shines — What It Means For AI ETFs",
+      "id": 60641820,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Mountain-View--Ca--Usa---12-09-2023-Goog.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Mountain-View--Ca--Usa---12-09-2023-Goog.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Mountain-View--Ca--Usa---12-09-2023-Goog.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla (TSLA) and Alphabet&#39;s (GOOGL) earnings highlighted a growing divide. Here&#39;s what it means for AI ETFs as investors weigh AI profits vs future potential.",
+      "symbols": [
+        "GGLL",
+        "GGLS",
+        "GOOGL",
+        "IYW",
+        "QQQ",
+        "QQQU",
+        "SMH",
+        "SOXX",
+        "TSLA",
+        "TSLL",
+        "TSLS",
+        "VCR",
+        "VGT",
+        "XLK",
+        "XLY"
+      ],
+      "updated_at": "2026-07-23T14:37:29Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60641820/teslas-ai-bet-flounders-as-alphabets-gemini-shines-what-it-means-for-ai-etfs",
+      "_summary": "In the second quarter earnings call, Alphabet revealed that the Gemini app now has 950 million monthly active users and raised its full-year capital expenditure forecast to $195 billion-$205 billion citing continued strong demand for AI infrastructure. Ryan Lee , Senior Vice President of Product and Strategy at ETF issuer Direxion , said the results gave AI bulls what they wanted to see.",
+      "_zh_headline": "Alphabet 的 Gemini 表现出色，特斯拉的 AI 押注陷入困境——这对 AI ETF 意味着什么",
+      "_zh_summary": "在第二季度财报电话会议上，Alphabet 透露，Gemini 应用目前拥有 9.5 亿月活跃用户，并将全年资本支出预测上调至 1950 亿至 2050 亿美元，理由是人工智能基础设施需求持续强劲。 ETF 发行人 Direxion 的产品和战略高级副总裁 Ryan Lee 表示，结果给了人工智能多头他们希望看到的结果。",
+      "_added_at": "2026-07-23T15:32:30.420824+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-23T15:26:43Z",
+      "headline": "Oil Hits $100: Three Market Signals Investors Should Watch",
+      "id": 60644225,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Rusty-Oil-Barrels-With-Stock-Market-Char.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Rusty-Oil-Barrels-With-Stock-Market-Char.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Rusty-Oil-Barrels-With-Stock-Market-Char.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A surge in oil prices has triggered reactions across financial markets, from energy stocks to Treasury yields and foreign exchange, suggesting investors are beginning to position for a more inflationary backdrop.",
+      "symbols": [
+        "DINO",
+        "MPC",
+        "PSX",
+        "SPY",
+        "USO",
+        "XLE"
+      ],
+      "updated_at": "2026-07-23T15:26:43Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/07/60644225/oil-hits-100-three-market-signals-investors-should-watch",
+      "_summary": "Brent crude oil prices topped $100 per barrel on Thursday morning, extending gains for a fifth consecutive session as escalating tensions in the Middle East fueled fears of supply disruptions. The move has already triggered noticeable reactions across financial markets, from energy stocks to Treasury yields and foreign exchange, suggesting investors are beginning to position for a potentially more inflationary backdrop.",
+      "_zh_headline": "油价触及 100 美元：投资者应关注的三个市场信号",
+      "_zh_summary": "周四上午，布伦特原油价格突破每桶 100 美元，连续第五个交易日延续涨势，因中东紧张局势升级加剧了对供应中断的担忧。此举已经引发了从能源股到国债收益率和外汇等整个金融市场的明显反应，这表明投资者开始为潜在的通胀加剧做好准备。",
+      "_added_at": "2026-07-23T15:32:30.420824+00:00"
+    },
+    {
+      "author": "Namrata Sen",
+      "content": "",
+      "created_at": "2026-07-23T14:56:22Z",
+      "headline": "Jensen Huang Backs 'Excellent' Chinese AI Models, Tells Washington to Ditch 'Science Fiction' Fears: 'Misunderstood The Impact of Kimi'",
+      "id": 60642935,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Jensen-Huang--Nvidia-Founder-And-Ceo-And.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Jensen-Huang--Nvidia-Founder-And-Ceo-And.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Jensen-Huang--Nvidia-Founder-And-Ceo-And.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Nvidia CEO Jensen Huang backs China&#39;s open AI models, saying they boost AI adoption and chip demand without threatening U.S. firms.",
+      "symbols": [
+        "MU",
+        "NVDA"
+      ],
+      "updated_at": "2026-07-23T14:56:22Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60642935/jensen-huang-backs-excellent-chinese-ai-models-tells-washington-to-ditch-science-fiction-fears-misunderstood-the-impact-of-kimi",
+      "_summary": "Nvidia Corp. (NASDAQ: NVDA ) CEO Jensen Huang said the U.S. should embrace, not ban, China’s AI models, arguing that high-quality open-source technology should be used rather than feared. In an interview with Axios on Tuesday, Huang called the Chinese models “excellent” and dismissed concerns that OpenAI and Anthropic should fear open AI models, saying they broaden AI adoption by attracting new users, while many customers will still pay for the superior performance and reliability of closed models.",
+      "_zh_headline": "黄仁勋支持“优秀”的中国人工智能模型，告诉华盛顿放弃“科幻小说”的恐惧：“误解了 Kimi 的影响”",
+      "_zh_summary": "英伟达公司（纳斯达克股票代码：NVDA）首席执行官黄仁勋表示，美国应该拥抱而不是禁止中国的人工智能模型，并认为应该使用高质量的开源技术，而不是害怕。在周二接受 Axios 采访时，黄仁勋称中国模型“优秀”，并驳斥了 OpenAI 和 Anthropic 应该害怕开放 AI 模型的担忧，称它们通过吸引新用户扩大了 AI 的采用，而许多客户仍然会为封闭模型的卓越性能和可靠性买单。",
+      "_added_at": "2026-07-23T15:32:30.420824+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-23T14:58:44Z",
+      "headline": "QUICK SPARK: Magnificent Seven Eye Worst Day Since Trump's Tariff Turmoil",
+      "id": 60643044,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Benzinga-Quick-Spark.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Benzinga-Quick-Spark.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Benzinga-Quick-Spark.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Tesla and Alphabet capex shocks plus $100 oil drove the Roundhill Magnificent Seven ETF down 4%, its worst session since April 2025.",
+      "symbols": [
+        "GOOGL",
+        "MAGS",
+        "MSFT",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-23T14:58:44Z",
+      "url": "https://www.benzinga.com/markets/large-cap/26/07/60643044/magnificent-seven-worst-day-since-april-2025-google-tesla-earnings",
+      "_summary": "Both reported negative free cash flow, the money left after paying for factories, chips and data centers. Alphabet’s went negative for the first time as a public company. Rising oil prices also affected risk sentiment. Brent crude topped $100 a barrel for the first time since May after Houthi attacks on tankers off Saudi Arabia, sending the 10-year Treasury yield to its highest level since January 2025. Every one of the seven is red. Even Microsoft Corp.",
+      "_zh_headline": "快速火花：七眼联盟自特朗普关税风暴以来最糟糕的一天",
+      "_zh_summary": "两家公司的自由现金流均为负值，即支付工厂、芯片和数据中心费用后剩下的钱。 Alphabet 作为上市公司首次出现负值。油价上涨也影响了风险情绪。胡塞武装袭击沙特阿拉伯附近的油轮后，布伦特原油自 5 月份以来首次突破每桶 100 美元，导致 10 年期国债收益率升至 2025 年 1 月以来的最高水平。这七种债券中的每一种都是红色的。甚至微软公司",
+      "_added_at": "2026-07-23T15:32:30.420824+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-23T15:14:48Z",
+      "headline": "The Biggest Winner Inside Tesla's Earnings Wasn't Tesla—It Was SpaceX",
+      "id": 60643792,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Kaunas--Lithuania-2022---April-14-Tesla-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "A non-cash gain on Tesla&#39;s SpaceX stake accounted for nearly 69% of the EV maker&#39;s GAAP profit, overshadowing its operating earnings in Q2.",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-23T15:14:48Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60643792/the-biggest-winner-inside-teslas-earnings-wasnt-tesla-it-was-spacex",
+      "_summary": "Buried in Tesla’s earnings report’s cash flow statement is a $1.005 billion pretax unrealized gain on its SpaceX investment, equal to $763 million after tax. While Tesla didn’t receive any cash or sell any shares, the after-tax gain accounted for roughly 68.5% of the company’s $1.114 billion GAAP net income. The revaluation of Tesla’s SpaceX investment is one of the quarter’s biggest contributors to the EV maker’s bottom line.",
+      "_zh_headline": "特斯拉盈利的最大赢家不是特斯拉，而是 SpaceX",
+      "_zh_summary": "特斯拉财报现金流量表中隐藏着其对 SpaceX 投资的 10.05 亿美元税前未实现收益，相当于税后 7.63 亿美元。虽然特斯拉没有收到任何现金或出售任何股票，但税后收益约占该公司 11.14 亿美元 GAAP 净利润的 68.5%。特斯拉对 SpaceX 投资的重估是本季度对这家电动汽车制造商利润的最大贡献者之一。",
+      "_added_at": "2026-07-23T15:32:30.420824+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-23T12:40:42Z",
