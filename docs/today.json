@@ -2,6 +2,118 @@
   "date": "2026-07-23",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-23T09:25:37Z",
+      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings—Intel, ServiceNow, Quantumscape in Focus",
+      "id": 60630054,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Wall-Street-New-York-Stock-Exchange.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Wall-Street-New-York-Stock-Exchange.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Wall-Street-New-York-Stock-Exchange.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "U.S. stock futures declined on Thursday, as the Dow Jones, Nasdaq 100, and S&amp;P 500 indices fell, following Wednesday&#39;s higher close.",
+      "symbols": [
+        "BTCUSD",
+        "GOOG",
+        "INTC",
+        "NOW",
+        "QQQ",
+        "QS",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-23T09:25:37Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60630054/stock-market-today-dow-jones-sp-500-futures-slip-as-googl-elon-musks-tsla-drag-after-q2-earnings-intel-servicenow-quantumscape-in-focus",
+      "_summary": "U.S. stock futures declined on Thursday, as the Dow Jones, Nasdaq 100, and S&P 500 indices fell, following Wednesday’s higher close. Adding to geopolitical uncertainty for investors, U.S. intelligence analysts are investigating whether Russia assisted Iran with target information or enhanced drone tech in recent precise strikes on CIA facilities in the Gulf, according to Reuters. Meanwhile, the 10-year Treasury bond yielded 4.67%, and the two-year bond was at 4.31%.",
+      "_zh_headline": "今日股市：第二季度财报公布后，道琼斯指数、标准普尔 500 指数期货下跌，谷歌、埃隆·马斯克的 TSLA 拖累——英特尔、ServiceNow、Quantumscape 成为焦点",
+      "_zh_summary": "美国股指期货周四下跌，道琼斯指数、纳斯达克 100 指数和标准普尔 500 指数继周三收盘走高后下跌。据路透社报道，美国情报分析师正在调查俄罗斯是否在最近对海湾地区中央情报局设施的精确打击中协助伊朗提供目标信息或增强的无人机技术，这给投资者增加了地缘政治的不确定性。与此同时，10年期国债收益率为4.67%，两年期国债收益率为4.31%。",
+      "_added_at": "2026-07-23T10:39:57.967182+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-23T10:22:50Z",
+      "headline": "ServiceNow CEO Bill McDermott Hails '10-Figure Cybersecurity Business' as Q2 Subscription Revenue Surges 23% to $3.88 Billion",
+      "id": 60631250,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca-Us---September-28--2025-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca-Us---September-28--2025-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Santa-Clara--Ca-Us---September-28--2025-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "ServiceNow Q2 subscription revenues surged 23% to $3.88B. CEO Bill McDermott hails NOW&#39;s new 10-figure cyber business.",
+      "symbols": [
+        "BTCUSD",
+        "GOOG",
+        "INTC",
+        "NOW",
+        "QQQ",
+        "QS",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-23T10:22:50Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60631250/servicenow-ceo-bill-mcdermott-hails-10-figure-cybersecurity-business-as-q2-subscription-revenue-surges-23-to-3-88-billion",
+      "_summary": "McDermott emphasized that ServiceNow is rapidly expanding beyond traditional IT workflows into security orchestration, accelerated by recent acquisitions like Armis and Veza. “We now have a 10-figure cybersecurity business that’s growing faster than all the other top cybersecurity companies,” McDermott stated during the earnings call.",
+      "_zh_headline": "ServiceNow 首席执行官 Bill McDermott 称赞“网络安全业务达到 10 位数”，第二季度订阅收入飙升 23% 至 38.8 亿美元",
+      "_zh_summary": "McDermott 强调，ServiceNow 正在迅速从传统 IT 工作流程扩展到安全编排，最近收购的 Armis 和 Veza 加速了这一进程。麦克德莫特在财报电话会议上表示：“我们现在拥有 10 位数的网络安全业务，其增长速度超过所有其他顶级网络安全公司。”",
+      "_added_at": "2026-07-23T10:39:57.967182+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-23T08:23:55Z",
+      "headline": "Jim Bianco Says Bond Investors Need a Rate Hike as 30-Year Treasury Yield Hits 5.15%: 'When the Fed Starts Panicking, I Can Stop Panicking'",
+      "id": 60629625,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Businessman-Clicks-Inscription-Bonds--Bo.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Businessman-Clicks-Inscription-Bonds--Bo.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Businessman-Clicks-Inscription-Bonds--Bo.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "As 30-year Treasury yields hit 5.15%, Jim Bianco warns a July 29 Fed rate hike is needed to calm markets and stop bond investor panic.",
+      "symbols": [
+        "DIA",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-23T08:23:55Z",
+      "url": "https://www.benzinga.com/markets/economic-data/26/07/60629625/jim-bianco-says-bond-investors-need-a-rate-hike-as-30-year-treasury-yield-hits-5-15-when-the-fed-starts-panicking-i-can-stop-panicking",
+      "_summary": "With 30-year U.S. Treasury yields at 5.15% and market probabilities of a July 29 interest rate hike climbing to roughly 36%, macro researcher Jim Bianco argues that bond investors need the Federal Reserve to tighten policy to restore calm. Deconstructing the turbulence, Bianco invoked a Wall Street adage, stating, “When the Fed starts panicking, I can stop panicking”.",
+      "_zh_headline": "Jim Bianco表示，随着30年期国债收益率达到5.15%，债券投资者需要加息：“当美联储开始恐慌时，我可以停止恐慌”",
+      "_zh_summary": "鉴于 30 年期美国国债收益率为 5.15%，且 7 月 29 日加息的市场概率攀升至约 36%，宏观研究员吉姆·比安科 (Jim Bianco) 认为，债券投资者需要美联储收紧政策以恢复平静。比安科在解构这场动荡时引用了华尔街的一句格言，称“当美联储开始恐慌时，我可以停止恐慌”。",
+      "_added_at": "2026-07-23T10:39:57.967182+00:00"
+    },
+    {
       "author": "Avi Kapoor",
       "content": "",
       "created_at": "2026-07-23T07:30:58Z",
