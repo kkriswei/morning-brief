@@ -2,6 +2,78 @@
   "date": "2026-07-24",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-24T06:47:03Z",
+      "headline": "Nasdaq Tumbles Over 2% Amid Higher Oil Prices: Investor Sentiment Weakens, Greed Index Remains In ‘Fear’ Zone",
+      "id": 60660103,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Fear-and-Greed.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Fear-and-Greed.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Fear-and-Greed.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Market sentiment declines, Nasdaq falls 2%, Trump warns Iran, Tesla and T-Mobile stock drops, while Dow closes lower by 507 points.",
+      "symbols": [
+        "AXP",
+        "GOOG",
+        "GOOGL",
+        "HCA",
+        "TMUS",
+        "TSLA",
+        "VZ"
+      ],
+      "updated_at": "2026-07-24T06:47:03Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60660103/nasdaq-tumbles-over-2-amid-higher-oil-prices-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
+      "_summary": "The CNN Money Fear and Greed index showed a decline in the overall market sentiment, while the index remained in the “Fear” zone on Thursday. U.S. stocks settled lower on Thursday, with the Nasdaq Composite falling more than 2% during the session amid rising tensions in the Middle East. President Donald Trump warned that \"major military punishment will be inflicted upon Iran\" if its Houthi proxies again fire on tankers, after two Saudi Arabian vessels were hit overnight.",
+      "_zh_headline": "油价走高纳斯达克指数暴跌逾2%：投资者情绪疲软，贪婪指数仍处于“恐惧”区域",
+      "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪下降，该指数周四仍处于“恐惧”区域。由于中东紧张局势加剧，周四美国股市收低，纳斯达克综合指数盘中跌幅超过 2%。唐纳德·特朗普总统警告称，在两艘沙特阿拉伯船只夜间被击中后，如果胡塞武装代理人再次向油轮开火，“伊朗将受到重大军事惩罚”。",
+      "_added_at": "2026-07-24T07:54:41.990703+00:00"
+    },
+    {
+      "author": "Radhika Anilkumar Nadig",
+      "content": "",
+      "created_at": "2026-07-24T07:12:23Z",
+      "headline": "Intel CEO Lip-Bu Tan Warns AI Supply Crunch Won't Ease: Shortages Will 'Persist for the Foreseeable Future'",
+      "id": 60660243,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel-Corp.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel-Corp.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel-Corp.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel beats second-quarter earnings expectations but says AI supply shortages across the ecosystem will persist for the foreseeable future.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "INTC"
+      ],
+      "updated_at": "2026-07-24T07:12:23Z",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60660243/intel-ceo-lip-bu-tan-ai-chip-shortage",
+      "_summary": "Intel said the industry continues to face severe AI infrastructure constraints despite earlier expectations that supply would improve this year.",
+      "_zh_headline": "英特尔首席执行官 Lip-Bu Tan 警告人工智能供应紧张不会缓解：短缺将“在可预见的未来持续存在”",
+      "_zh_summary": "英特尔表示，尽管此前预计今年供应量将有所改善，但该行业仍面临严重的人工智能基础设施限制。",
+      "_added_at": "2026-07-24T07:54:41.990703+00:00"
+    },
+    {
       "author": "Radhika Anilkumar Nadig",
       "content": "",
       "created_at": "2026-07-24T01:54:49Z",
