@@ -2,6 +2,147 @@
   "date": "2026-07-24",
   "articles": [
     {
+      "author": "Dmytro Spilka",
+      "content": "",
+      "created_at": "2026-07-24T16:35:07Z",
+      "headline": "Alphabet's Q2 Earnings—Why Wall Street's Frosty Reaction Spells Danger For The AI Rally",
+      "id": 60674275,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Google.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Google.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Google.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The worrying sign for Wall Street’s hyperscalers following Alphabet’s Q2 2026 earnings is that it’s not enough to beat revenue expectations anymore; investors demand capex control. \n\n\n\nAlphabet (NASDAQ:GOOGL) tumbled",
+      "symbols": [
+        "GOOGL",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-24T16:35:07Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60674275/alphabets-q2-earnings-why-wall-streets-frosty-reaction-spells-danger-for-the-ai-rally",
+      "_summary": "The worrying sign for Wall Street’s hyperscalers following Alphabet’s Q2 2026 earnings is that it’s not enough to beat revenue expectations anymore; investors demand capex control. Alphabet (NASDAQ: GOOGL ) tumbled 7.7% following its earnings call, which was largely comprised of good news. The Google parent recorded its 12th consecutive quarter of strong revenue gains, comfortably beating expectations.",
+      "_zh_headline": "Alphabet 第二季度收益——为何华尔街的冷淡反应对人工智能涨势意味着危险",
+      "_zh_summary": "Alphabet 公布 2026 年第二季度财报后，华尔街超大规模企业面临的一个令人担忧的迹象是，它已经不足以超出收入预期；投资者要求资本支出控制。 Alphabet（纳斯达克股票代码：GOOGL）在财报电话会议上大跌 7.7%，财报电话会议主要由好消息组成。谷歌母公司连续第 12 个季度实现强劲收入增长，轻松超出预期。",
+      "_added_at": "2026-07-24T17:06:33.556769+00:00"
+    },
+    {
+      "author": "Khyathi Dalal",
+      "content": "",
+      "created_at": "2026-07-24T15:25:07Z",
+      "headline": "Bitcoin Weathers $800 Billion Tech Selloff As Stocks Sink — What's Next?",
+      "id": 60671623,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Big-Tech-Giant-Technology-Companies-Stoc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Big-Tech-Giant-Technology-Companies-Stoc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Big-Tech-Giant-Technology-Companies-Stoc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Bitcoin traded flat despite $800B selloff in US stock market, showing resilience. CLARITY Act delay could mean more regulatory uncertainty.",
+      "symbols": [
+        "BTCUSD",
+        "GOOG",
+        "GOOGL",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-24T15:25:07Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60671623/bitcoin-weathers-800-billion-tech-selloff-as-stocks-sink-whats-next",
+      "_summary": "Bitcoin (CRYPTO: BTC) was trading flat despite an earnings-driven selloff that erased roughly $800 billion from the U.S. stock market. It offers an early sign that the cryptocurrency may be becoming more resilient to weakness in technology shares. The equity selloff was driven partly by concerns over rapidly rising AI capital expenditures and whether large technology companies can generate sufficient returns on those investments.",
+      "_zh_headline": "随着股市下跌，比特币经受了 8000 亿美元的科技股抛售——接下来会发生什么？",
+      "_zh_summary": "尽管收益驱动的抛售导致美国股市蒸发约 8000 亿美元，但比特币 (CRYPTO: BTC) 的交易表现平淡。它提供了一个早期迹象，表明加密货币可能对科技股的疲软变得更有弹性。股票抛售的部分原因是对人工智能资本支出快速增长以及大型科技公司能否从这些投资中产生足够回报的担忧。",
+      "_added_at": "2026-07-24T17:06:33.556769+00:00"
+    },
+    {
+      "author": "Kaustubh Bagalkote",
+      "content": "",
+      "created_at": "2026-07-24T15:30:40Z",
+      "headline": "Why Is Sky Quarry Stock Down on Friday?",
+      "id": 60671853,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/A-Detailed-Stock-Market-Chart-Featuring-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/A-Detailed-Stock-Market-Chart-Featuring-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/A-Detailed-Stock-Market-Chart-Featuring-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Sky Quarry Inc. (NASDAQ: SKYQ) stock moved down on Friday amid geopolitical developments in the Red Sea, oil price fluctuations, and updated short interest metrics.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "MAGS",
+        "SKYQ",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-24T15:30:40Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60671853/why-is-sky-quarry-stock-down-on-friday",
+      "_summary": "Following gains established during the previous session, Sky Quarry Inc. (NASDAQ: SKYQ ) stock is now down. Sky Quarry is an integrated energy solutions company, created to address the environmental issues caused by the landfill disposal of waste asphalt roofing shingles. The company uses an established oil extraction technology.",
+      "_zh_headline": "为什么 Sky Quarry 股票周五下跌？",
+      "_zh_summary": "继前一交易日上涨之后，Sky Quarry Inc.（纳斯达克股票代码：SKYQ）的股票现在下跌。 Sky Quarry 是一家综合能源解决方案公司，旨在解决因垃圾填埋处理废弃沥青屋顶瓦而造成的环境问题。该公司采用成熟的石油开采技术。",
+      "_added_at": "2026-07-24T17:06:33.556769+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-24T16:21:12Z",
+      "headline": "QUICK SPARK: Micron, SK Hynix, SanDisk Fans Get a New ETF to Turbocharge the DRAM Trade",
+      "id": 60673789,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Portland--Or--Usa---Apr-14--2026-Sandisk.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "New RAML ETF gives traders 2X daily exposure to the Roundhill Memory ETF, amplifying bets on Micron, SanDisk and AI memory stocks.",
+      "symbols": [
+        "DRAM",
+        "MU",
+        "RAML",
+        "SKHY",
+        "SNDK",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-24T16:21:12Z",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60673789/micron-sk-hynix-sandisk-fans-get-new-etf-for-dram-trade",
+      "_summary": "The ETF began trading on Thursday with a 0.99% expense ratio and is intended for active traders seeking short-term tactical exposure. Memory has emerged as one of the fastest-growing themes within semiconductors as AI models require significantly more bandwidth and faster data movement than traditional computing workloads.",
+      "_zh_headline": "QUICK SPARK：美光、SK 海力士、SanDisk 粉丝获得新 ETF 以推动 DRAM 贸易",
+      "_zh_summary": "该 ETF 于周四开始交易，费用率为 0.99%，面向寻求短期战术敞口的活跃交易者。内存已成为半导体中增长最快的主题之一，因为人工智能模型比传统计算工作负载需要更多的带宽和更快的数据移动。",
+      "_added_at": "2026-07-24T17:06:33.556769+00:00"
+    },
+    {
       "author": "Khyathi Dalal",
       "content": "",
       "created_at": "2026-07-24T13:55:56Z",
@@ -598,139 +739,6 @@
       "_zh_headline": "油价走高纳斯达克指数暴跌逾2%：投资者情绪疲软，贪婪指数仍处于“恐惧”区域",
       "_zh_summary": "CNN 货币恐惧与贪婪指数显示整体市场情绪下降，该指数周四仍处于“恐惧”区域。由于中东紧张局势加剧，周四美国股市收低，纳斯达克综合指数盘中跌幅超过 2%。唐纳德·特朗普总统警告称，在两艘沙特阿拉伯船只夜间被击中后，如果胡塞武装代理人再次向油轮开火，“伊朗将受到重大军事惩罚”。",
       "_added_at": "2026-07-24T07:54:41.990703+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-24T07:12:23Z",
-      "headline": "Intel CEO Lip-Bu Tan Warns AI Supply Crunch Won't Ease: Shortages Will 'Persist for the Foreseeable Future'",
-      "id": 60660243,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel-Corp.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel-Corp.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel-Corp.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Intel beats second-quarter earnings expectations but says AI supply shortages across the ecosystem will persist for the foreseeable future.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "INTC"
-      ],
-      "updated_at": "2026-07-24T07:12:23Z",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60660243/intel-ceo-lip-bu-tan-ai-chip-shortage",
-      "_summary": "Intel said the industry continues to face severe AI infrastructure constraints despite earlier expectations that supply would improve this year.",
-      "_zh_headline": "英特尔首席执行官 Lip-Bu Tan 警告人工智能供应紧张不会缓解：短缺将“在可预见的未来持续存在”",
-      "_zh_summary": "英特尔表示，尽管此前预计今年供应量将有所改善，但该行业仍面临严重的人工智能基础设施限制。",
-      "_added_at": "2026-07-24T07:54:41.990703+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-24T01:54:49Z",
-      "headline": "Trump Says Iranian Money Held by US Will 'Pay' for Damage Done to Ships: Oil Slips, Dow Futures Rise",
-      "id": 60659246,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Washington-dc--United-States--April-14-2.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Washington-dc--United-States--April-14-2.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Washington-dc--United-States--April-14-2.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures rose and oil slipped after Trump said U.S.-held Iranian funds should cover future ship and cargo damage. ",
-      "symbols": [],
-      "updated_at": "2026-07-24T01:54:49Z",
-      "url": "https://www.benzinga.com/markets/futures/26/07/60659246/trump-iran-frozen-funds-oil-dow-futures",
-      "_summary": "U.S. stock futures traded higher and crude oil prices slipped on Thursday after President Donald Trump said Iranian funds held by the U.S. should be used to pay for any future damage to ships and cargo. Dow futures gained 20.00 points, or 0.04%, to 51,914.00, while S&P 500 futures gained 6.25 points, or 0.08%, to 7,451.25. Nasdaq 100 futures advanced 37.75 points, or 0.13%, to 28,658.50 as of around 8:51 p.m. EDT. In commodities, WTI crude oil fell 0.05% to $92.14 per barrel, while Brent crude dropped 0.12% to $100.571 per barrel. Natural gas futures fell 0.28% to $2.9079 per MMBtu. Meanwhile, the U.S. dollar index, which tracks the greenback against a basket of currencies, stood at 101.423, down 0.01% on the day. Asian markets were lower, with South Korea’s KOSPI declining 3.68% to 6,835.76 and Japan’s Nikkei 225 falling 2.50% to 64,762.97.",
-      "_zh_headline": "特朗普称美国持有的伊朗资金将为船舶受损“买单”：石油价格下滑，道琼斯指数期货上涨",
-      "_zh_summary": "在唐纳德·特朗普总统表示美国持有的伊朗资金应用于支付未来对船舶和货物的任何损害之后，美国股指期货交易走高，原油价格下跌。道指期货上涨 20.00 点，或 0.04%，至 51,914.00；标准普尔 500 指数期货上涨 6.25 点，或 0.08%，至 7,451.25。截至晚上 8 点 51 分左右，纳斯达克 100 指数期货上涨 37.75 点，涨幅为 0.13%，至 28,658.50 点。美东时间。大宗商品方面，WTI 原油下跌 0.05%，至每桶 92.14 美元，布伦特原油下跌 0.12%，至每桶 100.571 美元。天然气期货下跌 0.28%，至每 MMBtu 2.9079 美元。与此同时，追踪美元兑一篮子货币的美元指数报101.423，当日下跌0.01%。亚洲市场走低，韩国综合股价指数下跌 3.68%，至 6,835.76 点；日本日经 225 指数下跌 2.50%，至 64,762.97 点。",
-      "_added_at": "2026-07-24T04:50:11.650571+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-24T03:28:46Z",
-      "headline": "Gary Black Says Tesla's 14% Post-Earnings Selloff Shows Investors Took Management's 'Caution About Not Scaling' Autonomy to Heart",
-      "id": 60659415,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/New-York--Usa--20-Mar-2025-Selective-Foc.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/New-York--Usa--20-Mar-2025-Selective-Foc.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/New-York--Usa--20-Mar-2025-Selective-Foc.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Gary Black says Tesla&#39;s post-earnings selloff shows investors reassessing self-driving expectations after earnings.",
-      "symbols": [
-        "TSLA"
-      ],
-      "updated_at": "2026-07-24T03:28:46Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60659415/gary-black-tesla-post-earnings-selloff-autonomy",
-      "_summary": "Black, managing partner at The Future Fund LLC , said on X that Tesla’s 14.5% decline marked its worst trading day since March 2025, adding that investors “took to heart management’s caution about not scaling up” until those vehicles demonstrated it was safe to do so. “We have long argued that at a 180x forward P/E the market was way too aggressive in assuming TSLA gets to the finish line first on unsupervised autonomy and that other competitors can’t match its ability to scale,” Black said.",
-      "_zh_headline": "加里·布莱克 (Gary Black) 表示，特斯拉财报后 14% 的抛售表明投资者认真对待管理层“不扩大规模”自主权的警告",
-      "_zh_summary": "The Future Fund LLC 的管理合伙人 Black 在 X 上表示，特斯拉 14.5% 的跌幅是自 2025 年 3 月以来最糟糕的交易日，并补充说，投资者“牢记管理层关于不扩大规模的警告”，直到这些车辆证明这样做是安全的。 Black 表示：“我们长期以来一直认为，在 180 倍的预期市盈率下，市场假设 TSLA 在无人监督的自主性方面首先到达终点线，并且其他竞争对手无法匹敌其规模扩张能力，这太过激进了。”",
-      "_added_at": "2026-07-24T04:50:11.650571+00:00"
-    },
-    {
-      "author": "Khyathi Dalal",
-      "content": "",
-      "created_at": "2026-07-23T20:04:03Z",
-      "headline": "Bitcoin Slips To $64,000 As ETH, XRP, DOGE Tumble In Macro Sell-Off",
-      "id": 60654531,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Bitcoin dropped to $64,000 as a broader risk-off sentiment hit crypto markets following weak technology earnings that pressured equities.",
-      "symbols": [
-        "BTCUSD",
-        "DOGEUSD",
-        "ETHUSD",
-        "SHIBUSD",
-        "SOLUSD",
-        "XRPUSD"
-      ],
-      "updated_at": "2026-07-23T20:04:03Z",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60654531/bitcoin-slips-to-64000-as-eth-xrp-doge-tumble-in-macro-sell-off",
-      "_summary": "Bitcoin fell to $64,000 as a broader risk-off move swept through crypto markets after disappointing technology earnings weighed on equities. The pullback pushed crypto market sentiment back into the Fear zone. Ted Pillows noted Bitcoin trading below its 200-week EMA has historically marked a long-term accumulation zone. If the traditional four-year cycle holds, the market bottom could form in Q4.",
-      "_zh_headline": "ETH、XRP、DOGE 在宏观抛售中暴跌，比特币跌至 64,000 美元",
-      "_zh_summary": "令人失望的科技收益打压股市后，更广泛的避险举措席卷加密货币市场，比特币跌至 64,000 美元。此次回调将加密货币市场情绪推回到恐惧区域。 Ted Pillows 指出，比特币交易价格低于 200 周均线历来标志着一个长期积累区域。如果传统的四年周期成立，市场底部可能会在第四季度形成。",
-      "_added_at": "2026-07-24T04:50:11.650571+00:00"
     }
   ]
 }
