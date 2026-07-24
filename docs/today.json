@@ -4,6 +4,92 @@
     {
       "author": "Piero Cingari",
       "content": "",
+      "created_at": "2026-07-24T20:03:18Z",
+      "headline": "Oil Broke $100, Alphabet's AI Bill Scares Investors: What Moved Wall Street This Week",
+      "id": 60681323,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Alphabet-Company-Logo-On-Screen.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Alphabet-Company-Logo-On-Screen.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Alphabet-Company-Logo-On-Screen.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Brent crude topped $100 as Middle East tensions escalated while Alphabet and Tesla sold off on surging AI spending.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "BAC",
+        "COP",
+        "CVX",
+        "EOG",
+        "GM",
+        "GOOGL",
+        "JPM",
+        "LMT",
+        "META",
+        "MSFT",
+        "RTX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-24T20:03:18Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60681323/oil-tops-100-alphabet-tesla-capex-weekly-market-wrap",
+      "_summary": "Two of America’s largest companies reported earnings this week. Neither was punished for what it sold . Alphabet Inc. (NASDAQ: GOOGL ) lost $294 billion in market value on Thursday, the largest single-session loss in the company’s history. Tesla Inc. (NASDAQ: TSLA ) suffered its worst week since March 2020. Underneath both selloffs sat the same line item: CAPEX. Above it all, Brent crude climbed above $100 a barrel for the first time since May.",
+      "_zh_headline": "石油突破 100 美元，Alphabet 的人工智能法案吓坏了投资者：本周是什么让华尔街感动",
+      "_zh_summary": "美国最大的两家公司本周公布了收益。两人都没有因为所售商品而受到惩罚。 Alphabet Inc.（纳斯达克股票代码：GOOGL）周四市值损失 2940 亿美元，这是该公司历史上最大的单日损失。特斯拉公司（纳斯达克股票代码：TSLA）经历了自 2020 年 3 月以来最糟糕的一周。两次抛售背后隐藏着同一个项目：资本支出。最重要的是，布伦特原油自 5 月份以来首次升至每桶 100 美元以上。",
+      "_added_at": "2026-07-24T20:47:16.604043+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-24T18:57:39Z",
+      "headline": "Wall Street's New ETF Strategy? Copy, Paste, Repeat—and Hope for the Next DRAM",
+      "id": 60679318,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Etf-Investment--Exchange-traded-Funds--R.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Etf-Investment--Exchange-traded-Funds--R.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Etf-Investment--Exchange-traded-Funds--R.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Everyone wants the next DRAM. See why ETF issuers are cloning winning AI and semiconductor themes—and what it means for investors.",
+      "symbols": [
+        "DRAM",
+        "DRMY",
+        "IBIT",
+        "MU",
+        "RAML",
+        "SKHL",
+        "SKHX",
+        "SKHY",
+        "SKHZ",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-24T18:57:39Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60679318/wall-streets-new-etf-strategy-copy-paste-repeat-and-hope-for-the-next-dram",
+      "_summary": "The U.S. ETF industry’s hottest product is no longer just a blockbuster fund, it’s the copycat. A record 1,084 ETFs had launched by mid-July, already within striking distance of 2025’s full-year record of 1,161, per Morningstar. With U.S.-listed ETF inflows on pace to reach $2.3 trillion this year, as estimated by State Street, issuers are racing to capture the next winning investment theme before rivals do. And interestingly, a successful ETF doesn’t just attract assets, it spawns an entire category.",
+      "_zh_headline": "华尔街的新ETF策略？复制、粘贴、重复——期待下一代 DRAM",
+      "_zh_summary": "美国ETF行业最热门的产品不再只是重磅基金，而是山寨基金。根据晨星公司的数据，截至 7 月中旬，已推出创纪录的 1,084 只 ETF，距离 2025 年全年记录 1,161 只已经很近了。据道富银行估计，今年美国上市 ETF 的流入量将达到 2.3 万亿美元，发行人正在竞相抢在竞争对手之前抓住下一个成功的投资主题。有趣的是，成功的 ETF 不仅能吸引资产，还能催生整个类别。",
+      "_added_at": "2026-07-24T20:47:16.604043+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
       "created_at": "2026-07-24T17:59:57Z",
       "headline": "S&P 500 Rises As Oil Sinks On Iran Talk Hopes: Stock Market Today",
       "id": 60677278,
@@ -702,81 +788,6 @@
       "_zh_headline": "特斯拉刚刚经历了丰田规模的崩溃——摩根大通、瑞银发出危险信号",
       "_zh_summary": "该股暴跌 14.52%，收于 319.69 美元，创下特斯拉历史上最大单日跌幅。交易量激增至 11561 万股，是三个月日均交易量 4940 万股的两倍多。特斯拉第二季度的业绩给投资者提供了多种卖出按钮的理由。尽管营收超出华尔街预期，但由于汽车利润率恶化，调整后每股收益 33 美分远低于预期。",
       "_added_at": "2026-07-24T13:00:56.629484+00:00"
-    },
-    {
-      "author": "Dylan Berman",
-      "content": "",
-      "created_at": "2026-07-24T11:49:36Z",
-      "headline": "Apple Stock Trades Above Every Major Moving Average Heading Into Q3",
-      "id": 60663633,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Beijing--China---July-21--2023-Apple-Log.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Beijing--China---July-21--2023-Apple-Log.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Beijing--China---July-21--2023-Apple-Log.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Apple shares are in the spotlight Friday with earnings due, split analyst targets, bullish chart setup and Edge Rankings drawing attention.",
-      "symbols": [
-        "AAPL"
-      ],
-      "updated_at": "2026-07-24T11:49:36Z",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60663633/apple-stock-trades-above-every-major-moving-average-heading-into-q3",
-      "_summary": "Apple is scheduled to report third-quarter earnings on July 30. Analysts estimate EPS of $1.89 along with revenue of $108.86 billion. For the prior quarter, Apple reported EPS of $2.01, beating the consensus estimate of $1.94. The company also posted revenue of $111.18 billion, exceeding the consensus estimate of $109.68 billion. Apple has beaten EPS estimates in eight consecutive quarters. Over the last four quarters, the company has averaged an EPS surprise of 0.07% and a revenue surprise of 0.03%.",
-      "_zh_headline": "进入第三季度，苹果股票交易价格高于所有主要移动平均线",
-      "_zh_summary": "苹果定于 7 月 30 日公布第三季度财报。分析师预计每股收益为 1.89 美元，营收为 1088.6 亿美元。苹果上一季度的每股收益为 2.01 美元，超出市场普遍预期的 1.94 美元。该公司还公布营收 1,111.8 亿美元，超出市场普遍预期的 1,096.8 亿美元。苹果公司的每股收益连续八个季度超出预期。过去四个季度，该公司每股收益平均意外增长 0.07%，收入意外增长 0.03%。",
-      "_added_at": "2026-07-24T13:00:56.629484+00:00"
-    },
-    {
-      "author": "Rishabh Mishra",
-      "content": "",
-      "created_at": "2026-07-24T09:12:23Z",
-      "headline": "Stock Market Today: S&P 500, Dow Jones Futures Gain as Oil Prices Decline—Intel, Edwards Lifesciences, SAP in Focus",
-      "id": 60660984,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Wall-Street.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Wall-Street.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Wall-Street.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "U.S. stock futures were higher on Friday, as the Dow Jones, S&amp;P 500 and Nasdaq 100 indices rose, following Thursday&#39;s lower close.",
-      "symbols": [
-        "BTCUSD",
-        "DECK",
-        "EW",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "MAGS",
-        "ORCL",
-        "QQQ",
-        "SAP",
-        "SPY",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-24T09:12:23Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60660984/stock-market-today-sp-500-dow-jones-futures-gain-as-oil-prices-decline-intel-edwards-lifesciences-sap-in-focus",
-      "_summary": "U.S. stock futures were higher on Friday, as the Dow Jones, S&P 500 and Nasdaq 100 indices rose, following Thursday’s lower close. However, Brent Crude Futures cooled down on Friday, hovering around the $98 mark as of the publication of this piece. This followed President Donald Trump saying Iranian funds held by the U.S. should be used to pay for any future damage to ships and cargo. Meanwhile, the 10-year Treasury bond yielded 4.691%, and the two-year bond was at 4.331%.",
-      "_zh_headline": "今日股市：随着油价下跌，标准普尔 500 指数、道琼斯期货上涨——英特尔、Edwards Lifesciences、SAP 成为焦点",
-      "_zh_summary": "周五美国股指期货走高，道琼斯指数、标准普尔 500 指数和纳斯达克 100 指数继周四收盘走低后上涨。然而，布伦特原油期货周五降温，截至本文发表时徘徊在 98 美元大关附近。此前，唐纳德·特朗普总统表示，美国持有的伊朗资金应用于支付未来对船舶和货物的任何损害。与此同时，10年期国债收益率为4.691%，两年期国债收益率为4.331%。",
-      "_added_at": "2026-07-24T10:34:12.901736+00:00"
     }
   ]
 }
