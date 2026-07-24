@@ -2,6 +2,207 @@
   "date": "2026-07-24",
   "articles": [
     {
+      "author": "Khyathi Dalal",
+      "content": "",
+      "created_at": "2026-07-24T13:55:56Z",
+      "headline": "Robinhood, Hyperliquid Could Lead Crypto's Next Bull Market, Says Matthew Sigel: 'Wall Street Is Going Onchain'",
+      "id": 60667129,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Munich--Germany---January-28--2021robinh.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Munich--Germany---January-28--2021robinh.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Munich--Germany---January-28--2021robinh.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "The next crypto bull market is likely to be driven by blockchain and traditional finance convergence. HYPE and HOOD are the early leaders while winners in next cycle could be Uniswap, Aave, Morpho, Coinbase, Figure, BlackRock, Visa.",
+      "symbols": [
+        "AAVEUSD",
+        "BLK",
+        "BTCUSD",
+        "COIN",
+        "ETHUSD",
+        "HOOD",
+        "HYPEUSD",
+        "JPM",
+        "UNIUSD",
+        "V"
+      ],
+      "updated_at": "2026-07-24T13:55:56Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60667129/robinhood-hyperliquid-could-lead-cryptos-next-bull-market-says-matthew-sigel-wall-street-is-going-onchain",
+      "_summary": "VanEck Head of Digital Assets Research Matthew Sigel believes the next crypto bull market will be driven not by meme coins or speculative trading, but by the convergence of blockchain technology and traditional finance. • Robinhood Markets stock is under selling pressure. What’s driving HOOD stock lower? He added that Hyperliquid is on pace to generate $800 million in annualized revenue while using 99% of protocol revenue to repurchase HYPE tokens, reducing circulating supply.",
+      "_zh_headline": "马修·西格尔 (Matthew Sigel) 表示，Robinhood 和超流动性可能会引领加密货币的下一个牛市：“华尔街正在走向链上”",
+      "_zh_summary": "VanEck 数字资产研究主管 Matthew Sigel 认为，下一个加密货币牛市将不是由模因币或投机交易驱动，而是由区块链技术和传统金融的融合驱动。 • Robinhood Markets 股票面临抛售压力。是什么导致 HOOD 股票走低？他补充说，Hyperliquid 有望产生 8 亿美元的年化收入，同时使用 99% 的协议收入来回购 HYPE 代币，从而减少流通供应。",
+      "_added_at": "2026-07-24T15:13:34.971682+00:00"
+    },
+    {
+      "author": "The Arora Report",
+      "content": "",
+      "created_at": "2026-07-24T15:07:55Z",
+      "headline": "Everyone Talks GPUs, But CPUs Benefit From Agentic AI—Intel Earnings Stop Tech Stocks Bleeding",
+      "id": 60670812,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Intel.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "\n\n\n\nCPUs For Agentic AI\n\n\n\nPlease click here for an enlarged chart of Intel Corp (NASDAQ:INTC).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of INTC stock is",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AMZN",
+        "BTCUSD",
+        "EWY",
+        "GOOG",
+        "INTC",
+        "META",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "QQQ",
+        "SKHY",
+        "SNDK",
+        "SPY",
+        "TSLA",
+        "USO"
+      ],
+      "updated_at": "2026-07-24T15:09:33Z",
+      "url": "https://www.benzinga.com/Opinion/26/07/60670812/everyone-talks-gpus-but-cpus-benefit-from-agentic-ai-intel-earnings-stop-tech-stocks-bleeding",
+      "_summary": "Most portfolios are now heavily concentrated in the Mag 7 stocks.  For this reason, it is important to pay attention to early money flows in the Mag 7 stocks on a daily basis. Consider continuing to hold good, very long term, existing positions and add tactical positions based on signals. Benzinga Disclaimer: This article is from an unpaid external contributor. It does not represent Benzinga’s reporting and has not been edited for content or accuracy.",
+      "_zh_headline": "每个人都在谈论 GPU，但 CPU 受益于代理人工智能——英特尔财报阻止科技股止血",
+      "_zh_summary": "大多数投资组合现在主要集中在 Mag 7 股票上。  因此，每日关注 Mag 7 股票的早期资金流向非常重要。考虑继续持有良好的、长期的现有头寸，并根据信号增加战术头寸。 Benzinga 免责声明：本文来自无偿外部贡献者。它不代表 Benzinga 的报告，并且未经内容或准确性编辑。",
+      "_added_at": "2026-07-24T15:13:34.971682+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-24T14:13:20Z",
+      "headline": "Why Wall Street May Be Mispricing Qualcomm's AI Future, Citrini Says",
+      "id": 60668110,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Qualcomm-Inc.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Qualcomm-Inc.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Qualcomm-Inc.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Citrini Research says Qualcomm is stuck in the wrong category. Its High Bandwidth Compute architecture takes aim at AI&#39;s costliest bottleneck.",
+      "symbols": [
+        "AVGO",
+        "MSFT",
+        "MU",
+        "NVDA",
+        "QCOM"
+      ],
+      "updated_at": "2026-07-24T14:13:20Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60668110/qualcomm-qcom-citrini-research-memory-wall-ai-thesis",
+      "_summary": "For most of the AI boom, investors have sorted semiconductor companies into neat categories. NVIDIA Corp. (NASDAQ: NVDA ) dominated AI accelerators. Qualcomm Inc . (NASDAQ: QCOM ) stayed trapped in the “smartphone chipmaker” bucket. Citrini Research argues that classification may soon become outdated. The business underneath Qualcomm is turning into something else. • Qualcomm stock is showing weakness. Why is QCOM stock trading lower?",
+      "_zh_headline": "西特里尼表示，为什么华尔街可能对高通人工智能的未来定价错误",
+      "_zh_summary": "在人工智能热潮的大部分时间里，投资者将半导体公司分成了整齐的类别。 NVIDIA 公司（纳斯达克股票代码：NVDA）在人工智能加速器领域占据主导地位。高通公司（纳斯达克股票代码：QCOM）仍然被困在“智能手机芯片制造商”的桶中。 Citrini Research 认为，分类可能很快就会过时。高通旗下的业务正在转向其他业务。 • 高通股票表现疲软。为什么高通股票交易价格较低？",
+      "_added_at": "2026-07-24T15:13:34.971682+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-24T13:18:47Z",
+      "headline": "What's Going on With Sandisk Stock Friday?",
+      "id": 60665773,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/SanDisk-Bangkok--Thailand---February-05-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/SanDisk-Bangkok--Thailand---February-05-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/SanDisk-Bangkok--Thailand---February-05-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Sandisk (SNDK) stock drops over 3% premarket as memory peers slide ahead of Aug. 5 earnings. Analysts expect major profit growth.",
+      "symbols": [
+        "DRAM",
+        "MU",
+        "PTF",
+        "RPG",
+        "SKHY",
+        "SNDK",
+        "WDC"
+      ],
+      "updated_at": "2026-07-24T13:18:47Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60665773/whats-going-on-with-sandisk-stock-friday-2",
+      "_summary": "Sandisk Corporation (NASDAQ: SNDK ) stock fell more than 3% in Friday’s premarket session as investors repositioned ahead of the company’s upcoming quarterly earnings report and took profits in memory stocks. Nasdaq futures rose 0.14%, while S&P 500 futures gained 0.27%. The stock has remained in focus as investors continue to favor memory and storage companies tied to AI infrastructure spending, tight supply conditions and hyperscale data center expansion.",
+      "_zh_headline": "星期五Sandisk 股票怎么样？",
+      "_zh_summary": "Sandisk Corporation（纳斯达克股票代码：SNDK）股价在周五盘前交易中下跌超过 3%，原因是投资者在该公司即将发布的季度收益报告之前重新定位并获利了结内存股。纳斯达克期货上涨0.14%，标准普尔500指数期货上涨0.27%。由于投资者继续青睐与人工智能基础设施支出、供应紧张和超大规模数据中心扩张相关的内存和存储公司，该股仍然受到关注。",
+      "_added_at": "2026-07-24T15:13:34.971682+00:00"
+    },
+    {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-24T13:44:16Z",
+      "headline": "Tesla’s $214 Billion Rout Sends Shockwaves Through ETFs — These Funds Got Slammed",
+      "id": 60666465,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Vinnytsia--Ukraine-April-10--2026--Close.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Vinnytsia--Ukraine-April-10--2026--Close.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Vinnytsia--Ukraine-April-10--2026--Close.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Leveraged Tesla ETFs plunged as much as 30% after Tesla&#39;s record post-earnings selloff, dominating Thursday&#39;s list of the biggest ETF losers.",
+      "symbols": [
+        "TESC",
+        "TSLA",
+        "TSLG",
+        "TSLI",
+        "TSLL",
+        "TSLR",
+        "TSLT"
+      ],
+      "updated_at": "2026-07-24T13:44:16Z",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60666465/teslas-214-billion-rout-sends-shockwaves-through-etfs-these-funds-got-slammed",
+      "_summary": "Tesla shares tumbled 14.5% on Thursday , erasing $214.5 billion in market value in the company’s biggest one-day decline on record after investors reacted negatively to its second-quarter earnings and surging AI-related spending plans. The rout was magnified in ETFs designed to deliver leveraged daily exposure to Tesla. Long Tesla funds dominated the list of the day’s worst-performing ETFs, with losses approaching 30%.",
+      "_zh_headline": "特斯拉 2140 亿美元暴跌给 ETF 带来冲击——这些基金遭受重创",
+      "_zh_summary": "周四，特斯拉股价暴跌 14.5%，市值蒸发 2145 亿美元，创下该公司有记录以来最大单日跌幅，此前投资者对其第二季度盈利和人工智能相关支出计划激增做出负面反应。在旨在提供特斯拉每日杠杆敞口的 ETF 中，跌势被放大。做多特斯拉基金在当天表现最差的 ETF 名单中占据主导地位，损失接近 30%。",
+      "_added_at": "2026-07-24T15:13:34.971682+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-24T11:42:56Z",
@@ -529,112 +730,6 @@
       "_summary": "Bitcoin fell to $64,000 as a broader risk-off move swept through crypto markets after disappointing technology earnings weighed on equities. The pullback pushed crypto market sentiment back into the Fear zone. Ted Pillows noted Bitcoin trading below its 200-week EMA has historically marked a long-term accumulation zone. If the traditional four-year cycle holds, the market bottom could form in Q4.",
       "_zh_headline": "ETH、XRP、DOGE 在宏观抛售中暴跌，比特币跌至 64,000 美元",
       "_zh_summary": "令人失望的科技收益打压股市后，更广泛的避险举措席卷加密货币市场，比特币跌至 64,000 美元。此次回调将加密货币市场情绪推回到恐惧区域。 Ted Pillows 指出，比特币交易价格低于 200 周均线历来标志着一个长期积累区域。如果传统的四年周期成立，市场底部可能会在第四季度形成。",
-      "_added_at": "2026-07-24T04:50:11.650571+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-07-24T01:17:52Z",
-      "headline": "Intel, Amkor Technology, MaxLinear, Lockheed Martin and Oracle: Why These 5 Stocks Are on Investors' Radars Today",
-      "id": 60659166,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Stock-Market-Sell-off-During-Market-Cras.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Stock-Market-Sell-off-During-Market-Cras.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Stock-Market-Sell-off-During-Market-Cras.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "INTC, AMKR, MXL, LMT, ORCL were among the stocks seen trending on Thursday, July 23, 2026.",
-      "symbols": [
-        "AMKR",
-        "INTC",
-        "LMT",
-        "MXL",
-        "ORCL"
-      ],
-      "updated_at": "2026-07-24T01:17:52Z",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60659166/intel-amkor-maxlinear-lockheed-oracle-stocks-to-watch",
-      "_summary": "These are the top stocks that gained the attention of retail traders and investors through the day. Intel stock fell 2.33% to $100.23, trading between an intraday high of $104.18 and a low of $99.24, with a 52-week range of $18.97 to $142.34. The shares rose 4.37% to $104.61 in extended trading. Intel beat second-quarter expectations, reporting adjusted EPS of 42 cents on revenue of $16.13 billion, driven by 25% year-over-year revenue growth.",
-      "_zh_headline": "英特尔、Amkor Technology、MaxLinear、Lockheed Martin 和 Oracle：为何这 5 只股票如今受到投资者关注",
-      "_zh_summary": "这些是全天吸引散户交易者和投资者关注的顶级股票。英特尔股价下跌 2.33%，至 100.23 美元，盘中最高点 104.18 美元，最低点 99.24 美元，52 周波动区间为 18.97 美元至 142.34 美元。该股在盘后交易中上涨 4.37%，至 104.61 美元。英特尔第二季度业绩超出预期，调整后每股收益为 42 美分，营收为 161.3 亿美元，营收同比增长 25%。",
-      "_added_at": "2026-07-24T04:50:11.650571+00:00"
-    },
-    {
-      "author": "Erica Kollmann",
-      "content": "",
-      "created_at": "2026-07-23T21:52:59Z",
-      "headline": "Trump Hits 60 Countries with 10% to 12.5% Tariffs as Temporary Levies Expire",
-      "id": 60658332,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Expert-Warns-Over-Trump-Defamation-Suit.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Expert-Warns-Over-Trump-Defamation-Suit.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/23/Expert-Warns-Over-Trump-Defamation-Suit.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Trump imposes new tariffs on imports from 60 countries, targeting those with weak anti-forced-labor laws.",
-      "symbols": [
-        "QQQ",
-        "SPY"
-      ],
-      "updated_at": "2026-07-23T21:52:59Z",
-      "url": "https://www.benzinga.com/news/politics/26/07/60658332/trump-hits-60-countries-with-10-to-12-5-tariffs-as-temporary-levies-expire",
-      "_summary": "President Donald Trump is rebuilding his tariff wall hours before a temporary global levy expires, keeping trade risk on Wall Street’s radar. The administration announced on Thursday that it will impose tariffs of 10% to 12.5% on imports from 60 trading partners at 12:01 a.m. ET Friday. The duties target countries accused of weak enforcement against goods made with forced labor and will replace a temporary 10% worldwide tariff expiring simultaneously.",
-      "_zh_headline": "临时征税到期后，特朗普对 60 个国家征收 10% 至 12.5% 的关税",
-      "_zh_summary": "唐纳德·特朗普总统正在临时全球征税到期前几个小时重建关税墙，这让华尔街继续关注贸易风险。美国政府周四宣布，将于美国东部时间周五中午 12:01 对来自 60 个贸易伙伴的进口商品征收 10% 至 12.5% 的关税。这些关税针对的是被指控对强迫劳动制造的商品执法不力的国家，并将取代同时到期的全球 10% 临时关税。",
-      "_added_at": "2026-07-24T04:50:11.650571+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-07-24T03:12:08Z",
-      "headline": "Cathie Wood Scoops Up Tesla Shares as Stock Sinks, Ark Trims Robinhood Amid Crypto Weakness",
-      "id": 60659381,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Ark-Invest-Cathie-Wood.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Ark-Invest-Cathie-Wood.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/24/Ark-Invest-Cathie-Wood.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Cathie Wood scooped up Tesla on its worst day in over a year, even as Ark kept selling down its Robinhood stake.",
-      "symbols": [
-        "ARKK",
-        "ARKQ",
-        "ARKW",
-        "ARKX",
-        "HOOD",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-24T03:12:08Z",
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60659381/cathie-wood-scoops-up-tesla-shares-as-stock-sinks-ark-trims-robinhood-amid-crypto-weakness",
-      "_summary": "The buying came as the Elon Musk -led company’s stock sank after the company missed second-quarter adjusted earnings expectations, a result that pushed the shares toward their worst day in more than a year . Investors were digesting a softer quarter that highlighted pressure from discounting and weaker regulatory credit revenue, two factors that weighed on margins. Ark sold 40,553 shares of Robinhood through ARKW on the same day.",
-      "_zh_headline": "特斯拉股价下跌，凯西·伍德 (Cathie Wood) 买入特斯拉股票，Ark 在加密货币疲软之际削减 Robinhood",
-      "_zh_summary": "此次买入正值埃隆·马斯克(Elon Musk)领导的公司股价下跌之际，该公司未能达到第二季度调整后的盈利预期，这一结果导致该股跌至一年多来最糟糕的一天。投资者正在消化疲软的季度，凸显了贴现压力和监管信贷收入疲弱，这两个因素拖累了利润率。 Ark当天通过ARKW出售了40,553股Robinhood股票。",
       "_added_at": "2026-07-24T04:50:11.650571+00:00"
     }
   ]
