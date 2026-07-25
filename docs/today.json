@@ -2,6 +2,80 @@
   "date": "2026-07-25",
   "articles": [
     {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-25T05:08:36Z",
+      "headline": "Elon Musk, Mark Zuckerberg, Satya Nadella Show 'Overwhelming Support' for Open-Weight AI Models as OpenAI, Anthropic Stay Silent",
+      "id": 60683802,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Large-Language-Model-Llm-Processing-Data.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Large-Language-Model-Llm-Processing-Data.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Large-Language-Model-Llm-Processing-Data.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Elon Musk joined Satya Nadella and Mark Zuckerberg in backing open-weight AI as tech leaders urged U.S. support for open models.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "META",
+        "MSFT",
+        "NVDA",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-25T05:08:36Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60683802/elon-musk-mark-zuckerberg-satya-nadella-show-overwhelming-support-for-open-weight-ai-models-as-openai-anthropic-stay-silent",
+      "_summary": "Nadella championed open-weight AI models, describing them as “essential to a healthy AI ecosystem.” In a post on X , Nadella wrote, “Together with others across our industry, we are outlining a path for open-weight models to strengthen American competitiveness and expand economic opportunity, while protecting national security.” Zuckerberg echoed Nadella’s message, posting on X, “Open source is a positive and important force for both empowering people and preventing centralization. Proud to support this.”",
+      "_zh_headline": "埃隆·马斯克、马克·扎克伯格、萨蒂亚·纳德拉对开放权重人工智能模型表示“压倒性支持”，而 OpenAI、Anthropic 却保持沉默",
+      "_zh_summary": "纳德拉倡导开放权重人工智能模型，称其“对于健康的人工智能生态系统至关重要”。纳德拉在 X 上的一篇帖子中写道：“我们正在与整个行业的其他人一起，勾勒出一条开放权重模型的道路，以增强美国的竞争力并扩大经济机会，同时保护国家安全。”扎克伯格回应了纳德拉的信息，在 X 上发帖称，“开源是赋予人们权力和防止中心化的积极而重要的力量。很自豪能够支持这一点。”",
+      "_added_at": "2026-07-25T07:32:58.841619+00:00"
+    },
+    {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-25T04:52:16Z",
+      "headline": "Waymo Eyes Uber Exit as Robotaxi Rivalry Heats Up: Report",
+      "id": 60683788,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Phoenix--Arizona---September-1-2022-Auto.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Phoenix--Arizona---September-1-2022-Auto.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Phoenix--Arizona---September-1-2022-Auto.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Waymo plans an independent Austin and Atlanta expansion after ending its Uber partnership, reshaping the autonomous ride-hailing landscape.",
+      "symbols": [
+        "GOOG",
+        "GOOGL",
+        "UBER"
+      ],
+      "updated_at": "2026-07-25T04:52:16Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60683788/waymo-eyes-uber-exit-as-robotaxi-rivalry-heats-up-report",
+      "_summary": "The two companies are also lobbying for competing state policies, according to the report. Uber is pushing for “hybrid networks” that would require human drivers to handle most rides, while Waymo backs high permitting costs that could limit smaller AV operators. Uber and Waymo did not immediately respond to Benzinga ‘s requests for comment. Waymo now operates more than 3,800 vehicles across 10 cities after raising $16 billion in February at a valuation of $126 billion .",
+      "_zh_headline": "随着机器人出租车竞争加剧，Waymo 考虑 Uber 退出：报告",
+      "_zh_summary": "报告称，两家公司还在游说相互竞争的国家政策。 Uber 正在推动“混合网络”，这需要人类司机来处理大部分乘车服务，而 Waymo 支持高昂的许可成本，这可能会限制小型自动驾驶汽车运营商的发展。 Uber 和 Waymo 没有立即回应 Benzinga 的置评请求。 Waymo 在 2 月份筹集了 160 亿美元资金，估值达到 1,260 亿美元，目前在 10 个城市运营着 3,800 多辆汽车。",
+      "_added_at": "2026-07-25T07:32:58.841619+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-24T17:59:57Z",
