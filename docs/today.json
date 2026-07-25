@@ -2,6 +2,91 @@
   "date": "2026-07-25",
   "articles": [
     {
+      "author": "Benzinga Senior Editor",
+      "content": "",
+      "created_at": "2026-07-25T12:00:37Z",
+      "headline": "Benzinga Bulls and Bears: IBM, Super Micro, Tesla",
+      "id": 60684165,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Bulls-and-Bears-1.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Bulls-and-Bears-1.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Bulls-and-Bears-1.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+      "symbols": [
+        "ARKK",
+        "GOOG",
+        "IBM",
+        "LUV",
+        "MSFT",
+        "NOW",
+        "NVDA",
+        "OKLO",
+        "PLTR",
+        "PSKY",
+        "PSNL",
+        "RKLB",
+        "SMCI",
+        "TEM",
+        "TSLA",
+        "XE"
+      ],
+      "updated_at": "2026-07-25T12:00:37Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60684165/benzinga-bulls-and-bears-ibm-super-micro-tesla",
+      "_summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories. Despite the week’s weakness, investors remain optimistic about the long-term AI opportunity, though attention has shifted toward balancing growth with profitability. With oil prices elevated and Treasury yields rising, markets are entering the heart of earnings season with a sharper focus on capital discipline, inflation risks and corporate guidance.",
+      "_zh_headline": "",
+      "_zh_summary": "",
+      "_added_at": "2026-07-25T14:10:38.502255+00:00"
+    },
+    {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-25T12:30:14Z",
+      "headline": "Intel, Tesla, IBM And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "id": 60684194,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Vinnytsia--Ukraine-April-10--2026--Close.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Vinnytsia--Ukraine-April-10--2026--Close.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Vinnytsia--Ukraine-April-10--2026--Close.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Retail investors talked up five hot stocks during July 20 to July 24 on X and Reddit&#39;s r/WallStreetBets: INTC, TSLA, GOOG, IBM, NOW.",
+      "symbols": [
+        "FTNT",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "INTC",
+        "NOW",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-25T12:30:14Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60684194/intel-tesla-ibm-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+      "_summary": "Retail investors talked up five hot stocks during the week (July 20 to July 24) on X and Reddit’s r/WallStreetBets, driven by retail hype, earnings, AI infrastructure momentum, and corporate news flow. Retail focus comprised AI infrastructure momentum, earnings, and corporate news-driven narratives with broader market action during the week. Intel Corp. (NASDAQ: INTC ) , Tesla Inc. (NASDAQ: TSLA ) , Alphabet Inc. (NASDAQ: GOOG ) (NASDAQ: GOOGL ) , International Business Machines Corp.",
+      "_zh_headline": "",
+      "_zh_summary": "",
+      "_added_at": "2026-07-25T14:10:38.502255+00:00"
+    },
+    {
       "author": "Ananya Gairola",
       "content": "",
       "created_at": "2026-07-25T02:53:50Z",
