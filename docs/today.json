@@ -4,6 +4,76 @@
     {
       "author": "Crispus Nyaga",
       "content": "",
+      "created_at": "2026-07-25T21:34:37Z",
+      "headline": "Why is Salesforce the Worst-Performing Dow Jones Stock?",
+      "id": 60685389,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Salesforce.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Salesforce.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Salesforce.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Salesforce stock has plunged sharply in the past few years and is the top laggard in the Dow Jones Index as growth concerns remain",
+      "symbols": [
+        "CRM"
+      ],
+      "updated_at": "2026-07-25T21:34:37Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60685389/why-is-salesforce-the-worst-performing-dow-jones-stock",
+      "_summary": "CRM stock has fallen in the past few years amid concerns about its revenue and market share growth. Most recently, the retreat has been because of the ongoing SaaSPocalypse concerns. SaaSPocalypse is the fear that artificial intelligence agents will ultimately disrupt and take market share from software companies. These AI tools are expected to become more powerful over time. Just this week, OpenAI confirmed that its AI tool had successfully hacked Hugging Face .",
+      "_zh_headline": "为什么 Salesforce 是表现最差的道琼斯股票？",
+      "_zh_summary": "由于对其收入和市场份额增长的担忧，CRM 股票在过去几年中一直在下跌。最近，撤退是因为持续存在的 SaaSPocalypse 担忧。 SaaSPocalypse 是对人工智能代理最终会颠覆并夺取软件公司市场份额的担忧。随着时间的推移，这些人工智能工具预计将变得更加强大。就在本周，OpenAI 确认其 AI 工具已成功破解 Hugging Face。",
+      "_added_at": "2026-07-25T22:29:31.649288+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-25T21:34:31Z",
+      "headline": "Tesla, Intel, Google All Dropped After Earnings - Will Microsoft, Amazon, Meta Follow?",
+      "id": 60685388,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Hundreds-Of-Microsoft-Employees-Just-Rev.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Top tech stocks like Tesla, Intel, and Google dropped after earnings. So, what will Microsoft, Meta, and Amazon do after results?",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "INTC",
+        "META",
+        "MSFT",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-25T21:34:31Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60685388/tesla-intel-google-all-dropped-after-earnings-will-microsoft-amazon-meta-follow",
+      "_summary": "Microsoft stock has already plunged by over 30% from its all-time high. Similarly, Meta and Amazon have dropped by 25% and 18% from their all-time highs, erasing billions of dollars in value. These companies will publish their financial results next week, with analysts expecting their growth to continue. Benzinga data shows that analysts expect Meta Platforms’ revenue to come in at $60 billion, up by 26% YoY. Its EPS is expected to rise modestly to $7.22.",
+      "_zh_headline": "特斯拉、英特尔、谷歌均在财报公布后股价下跌——微软、亚马逊、Meta 会效仿吗？",
+      "_zh_summary": "微软股价已较历史高点下跌逾 30%。同样，Meta 和亚马逊的价值也较历史最高点下跌了 25% 和 18%，蒸发了数十亿美元。这些公司将于下周公布财务业绩，分析师预计它们的增长将继续。 Benzinga 数据显示，分析师预计 Meta Platforms 收入将达到 600 亿美元，同比增长 26%。其每股收益预计将小幅上涨至 7.22 美元。",
+      "_added_at": "2026-07-25T22:29:31.649288+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
       "created_at": "2026-07-25T18:43:16Z",
       "headline": "Micron Stuck in a Bear Market: Will it Rebound or Crash Further?",
       "id": 60685302,
