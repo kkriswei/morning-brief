@@ -2,6 +2,78 @@
   "date": "2026-07-25",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-25T18:43:16Z",
+      "headline": "Micron Stuck in a Bear Market: Will it Rebound or Crash Further?",
+      "id": 60685302,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Micron-Technology-Office-Campus-In-Silic.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Micron stock has pulled back in the past few weeks and moved into a bear market as analysts remain optimistic about the company",
+      "symbols": [
+        "DRAM",
+        "GOOG",
+        "MU",
+        "SNDK",
+        "TSLA",
+        "WDC"
+      ],
+      "updated_at": "2026-07-25T18:43:16Z",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60685302/micron-stuck-in-a-bear-market-will-it-rebound-or-crash-further",
+      "_summary": "The options market is not sending a clear signal about Micron’s near-term outlook. Data shows that implied volatility has climbed to about 99%, indicating that investors expect heightened price swings. Meanwhile, the put-to-call ratio stands at 1.19, suggesting a modest bearish or hedging bias rather than aggressive bearish positioning. Wall Street analysts are optimistic that Micron has more upside to go. Benzinga data shows that the consensus target for the stock is $1,268, up by 37% from the current level.",
+      "_zh_headline": "美光陷入熊市：会反弹还是进一步崩盘？",
+      "_zh_summary": "期权市场并未发出有关美光近期前景的明确信号。数据显示，隐含波动率已攀升至99%左右，表明投资者预期价格波动加剧。与此同时，看跌期权与看涨期权比率为 1.19，表明温和的看跌或对冲偏见，而不是激进的看跌头寸。华尔街分析师乐观地认为美光科技还有更大的上升空间。 Benzinga 数据显示，该股的共识目标为 1,268 美元，较当前水平上涨 37%。",
+      "_added_at": "2026-07-25T19:44:50.070157+00:00"
+    },
+    {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-25T18:42:47Z",
+      "headline": "Behind the Gold Price Drop? Falling ETF Inflows as US Bond Yields Jump",
+      "id": 60685283,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/25/Digital-Gold-Price-Stock-Market-Trading-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gold price has dropped in the past few days as data shows that top gold ETFs like GLD and IAU are seeing strong outflows",
+      "symbols": [
+        "DRAM",
+        "GLD",
+        "GLDM",
+        "IAU"
+      ],
+      "updated_at": "2026-07-25T18:42:47Z",
+      "url": "https://www.benzinga.com/markets/commodities/26/07/60685283/behind-the-gold-price-drop-falling-etf-inflows-as-us-bond-yields-jump",
+      "_summary": "Gold prices have slumped into a bear market this year, even as geopolitical risks rose. The metal has fallen by over 27% from its January high, underperforming the stock market. This retreat is likely due to falling ETF inflows and rising bond yields. Demand for gold among American investors has waned this year as many of them have rotated to the memory sector.",
+      "_zh_headline": "金价下跌的背后？美国债券收益率飙升，ETF 流入量下降",
+      "_zh_summary": "尽管地缘政治风险上升，金价今年仍陷入熊市。该金属已较 1 月份高点下跌超过 27%，表现逊于股市。这种回撤可能是由于 ETF 流入量下降和债券收益率上升所致。今年美国投资者对黄金的需求有所下降，因为他们中的许多人转向了内存行业。",
+      "_added_at": "2026-07-25T19:44:50.070157+00:00"
+    },
+    {
       "author": "Shomik Sen Bhattacharjee",
       "content": "",
       "created_at": "2026-07-25T15:00:55Z",
