@@ -2,6 +2,49 @@
   "date": "2026-07-26",
   "articles": [
     {
+      "author": "Crispus Nyaga",
+      "content": "",
+      "created_at": "2026-07-26T19:25:34Z",
+      "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
+      "id": 60686287,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/Wall-Street-Sign-With-American-Flag-On-T.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "ETFs are having a strong year, with inflows surpassing $1 trillion and total assets under management steadily approaching the $16 trillion mark. ",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "INTC",
+        "MAGS",
+        "META",
+        "MSFT",
+        "QQQ",
+        "SCHD",
+        "TQQQ",
+        "TSLA",
+        "VIG"
+      ],
+      "updated_at": "2026-07-26T19:25:34Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60686287/top-three-etfs-to-watch-this-week-tqqq-mags-schd",
+      "_summary": "Exchange-traded funds (ETFs) are having a strong year, with inflows surpassing $1 trillion and total assets under management steadily approaching the $16 trillion mark. The ETF has experienced over $949 million in inflows in the last month, a sign that investors expect tech stocks to do well. This week will be crucial for the fund as most of its constituent companies publish their financial results. The ETF is also sensitive to the actions of the Federal Reserve.",
+      "_zh_headline": "本周值得关注的三大 ETF：TQQQ、MAGS、SCHD",
+      "_zh_summary": "交易所交易基金 (ETF) 今年表现强劲，资金流入超过 1 万亿美元，管理总资产稳步逼近 16 万亿美元大关。上个月，该 ETF 的资金流入超过 9.49 亿美元，这表明投资者预计科技股将表现良好。本周对于该基金来说至关重要，因为大多数旗下公司都会公布财务业绩。 ETF 对美联储的行动也很敏感。",
+      "_added_at": "2026-07-26T19:44:37.455580+00:00"
+    },
+    {
       "author": "Mohd Haider",
       "content": "",
       "created_at": "2026-07-26T13:00:28Z",
