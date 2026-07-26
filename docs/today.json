@@ -2,6 +2,81 @@
   "date": "2026-07-26",
   "articles": [
     {
+      "author": "Mohd Haider",
+      "content": "",
+      "created_at": "2026-07-26T06:20:52Z",
+      "headline": "Samsung, Broadcom Ink $200 Billion AI Chip Pact Through 2030 as Foundry Race With TSMC Heats Up",
+      "id": 60685628,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/3d-Letter-Samsung-In-High-Technology.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/3d-Letter-Samsung-In-High-Technology.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/3d-Letter-Samsung-In-High-Technology.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Samsung and Broadcom signed a partnership projected above $200 billion to advance AI chips, memory and semiconductor manufacturing.",
+      "symbols": [
+        "AVGO",
+        "SSNLF",
+        "TSLA",
+        "TSM"
+      ],
+      "updated_at": "2026-07-26T06:20:52Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60685628/samsung-broadcom-ink-200-billion-ai-chip-pact-through-2030-as-foundry-race-with-tsmc-heats-up",
+      "_summary": "The five-year agreement combines Broadcom’s expertise in designing application-specific integrated circuits with Samsung’s chip manufacturing capabilities. Under the deal, Broadcom’s next-generation communication chips will be produced using Samsung’s sub-2-nanometer process technology, according to Samsung. The two companies will also work together to develop advanced high-bandwidth memory technologies, including HBM4E and HBM5.",
+      "_zh_headline": "三星与博通签署 2030 年价值 2000 亿美元的人工智能芯片协议，与台积电的晶圆代工竞赛愈演愈烈",
+      "_zh_summary": "这项为期五年的协议将博通在设计专用集成电路方面的专业知识与三星的芯片制造能力结合起来。三星表示，根据协议，博通的下一代通信芯片将采用三星的亚2纳米工艺技术生产。两家公司还将共同开发先进的高带宽内存技术，包括 HBM4E 和 HBM5。",
+      "_added_at": "2026-07-26T07:11:55.233604+00:00"
+    },
+    {
+      "author": "Snigdha Gairola",
+      "content": "",
+      "created_at": "2026-07-26T05:48:08Z",
+      "headline": "Demis Hassabis Backs Jensen Huang's AI Vision, Says 'A Strong and Secure Open Ecosystem Is Important' for Global AI Growth",
+      "id": 60685609,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/Deepmind-Logo-Displayed-On-A-Smartphone-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/Deepmind-Logo-Displayed-On-A-Smartphone-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/26/Deepmind-Logo-Displayed-On-A-Smartphone-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Demis Hassabis backs open AI models as Nvidia’s Jensen Huang says the future needs both open and closed frontier AI systems.",
+      "symbols": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "META",
+        "MSFT",
+        "NVDA",
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-26T05:48:08Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60685609/demis-hassabis-backs-jensen-huangs-ai-vision-says-a-strong-and-secure-open-ecosystem-is-important-for-global-ai-growth",
+      "_summary": "On Saturday, Hassabis shared Huang’s post on X , supporting Nvidia’s position that open AI models play a critical role in advancing innovation, security and global access to AI. \"A strong and secure open ecosystem is important for the world to benefit from AI,\" he wrote. He highlighted Google DeepMind’s contributions to open science and AI development, including projects such as JAX, Transformers, AlphaFold and Gemma open models.",
+      "_zh_headline": "Demis Hassabis 支持黄仁勋的人工智能愿景，表示“强大且安全的开放生态系统对于全球人工智能增长非常重要”",
+      "_zh_summary": "周六，哈萨比斯在 X 上分享了黄仁勋的帖子，支持 Nvidia 的立场，即开放人工智能模型在推动创新、安全和全球人工智能获取方面发挥着关键作用。他写道：“强大而安全的开放生态系统对于世界从人工智能中受益非常重要。”他强调了 Google DeepMind 对开放科学和人工智能开发的贡献，包括 JAX、Transformers、AlphaFold 和 Gemma 开放模型等项目。",
+      "_added_at": "2026-07-26T07:11:55.233604+00:00"
+    },
+    {
       "author": "Crispus Nyaga",
       "content": "",
       "created_at": "2026-07-25T18:43:16Z",
