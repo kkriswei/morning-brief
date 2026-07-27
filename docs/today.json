@@ -2,6 +2,77 @@
   "date": "2026-07-27",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-27T20:12:29Z",
+      "headline": "BlackRock’s Nasdaq ETF Challenger Is Growing — But QQQ Still Pulls 300× More Inflows",
+      "id": 60710855,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Qqq-Word-On-Yellow-Sticky-With-Calculato.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Qqq-Word-On-Yellow-Sticky-With-Calculato.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Qqq-Word-On-Yellow-Sticky-With-Calculato.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "BlackRock&#39;s IQQ is gaining consistent inflows, while Invesco&#39;s QQQ remains the dominant Nasdaq-100 ETF despite cheaper rivals.",
+      "symbols": [
+        "IQQ",
+        "QNDX",
+        "QQQ",
+        "QQQM"
+      ],
+      "updated_at": "2026-07-27T20:12:29Z",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60710855/blackrock-nasdaq-etf-challenger-is-growing-but-qqq-still-pulls-300x-more-inflows",
+      "_summary": "However, the numbers also underscore just how difficult it is to dislodge one of the world’s largest ETFs. Trading activity painted an even starker picture. Taking the example of July 24, while about $22 million worth of IQQ shares changed hands on July 24, QQQ traded nearly $29.4 billion, highlighting the liquidity advantage that continues to attract institutional investors. For long-term investors, lower fees can translate into meaningful savings over time, particularly on large portfolios.",
+      "_zh_headline": "贝莱德纳斯达克 ETF 挑战者规模不断壮大，但 QQQ 的资金流入量仍增加 300 倍",
+      "_zh_summary": "然而，这些数字也凸显了驱逐全球最大 ETF 之一的难度。交易活动描绘出更加严峻的景象。以7月24日为例，虽然7月24日价值约2200万美元的IQQ股票易手，但QQQ的交易额接近294亿美元，凸显了持续吸引机构投资者的流动性优势。对于长期投资者来说，随着时间的推移，较低的费用可以转化为有意义的节省，特别是对于大型投资组合。",
+      "_added_at": "2026-07-27T21:40:55.418386+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-27T20:10:44Z",
+      "headline": "EXCLUSIVE: China Is Coming For SanDisk—But Not Yet For Micron’s Memory Crown (CORRECTED)",
+      "id": 60695546,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Los-Angeles--California---24-January-202.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Los-Angeles--California---24-January-202.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Los-Angeles--California---24-January-202.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Analyst MS Hwang says China is making rapid progress in commodity DRAM and NAND, but the HBM market still belongs to the incumbents.",
+      "symbols": [
+        "MU",
+        "SKHY",
+        "SNDK",
+        "SSNLF",
+        "WDC"
+      ],
+      "updated_at": "2026-07-27T20:10:51Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60695546/micron-sk-hynix-hbm-china-memory-competition-exclusive-interview",
+      "_summary": "Editor’s Note: This story has been corrected to remove an inaccurate company reference. China, however, is making rapid progress in commodity DRAM and NAND . That’s according to Counterpoint Research analyst MS Hwang , who told Benzinga in an interview that “Chinese vendors are catching up quickly in commodity DRAM and NAND. Yet, the HBM is difficult to catch up.” He added: “I think China vendors can manufacture HBM3 in 1H 2027.”",
+      "_zh_headline": "独家报道：中国正在为 SanDisk 而来，但尚未为 Micron 的内存皇冠而来（已更正）",
+      "_zh_summary": "编者注：本文已更正，删除了不准确的公司参考信息。然而，中国在商品 DRAM 和 NAND 领域正在快速进步。 Counterpoint Research 分析师 MS Hwang 在接受 Benzinga 采访时表示，“中国供应商在商品 DRAM 和 NAND 领域正在快速追赶。然而，HBM 很难追赶。”他补充道：“我认为中国供应商可以在 2027 年上半年生产 HBM3。”",
+      "_added_at": "2026-07-27T21:40:55.418386+00:00"
+    },
+    {
       "author": "The Arora Report",
       "content": "",
       "created_at": "2026-07-27T19:09:16Z",
@@ -740,77 +811,6 @@
       "_summary": "Western Digital Corp. (NASDAQ: WDC ) stock rose about 3% in Monday’s premarket trading as investors returned to higher-risk technology stocks. Nasdaq futures climbed 1.43%, while S&P 500 futures gained 0.89%. Western Digital’s gains appeared to track the broader market rally rather than company-specific news. The stock is rebounding after pulling back from its June high as investors rotate back into technology shares ahead of the opening bell.",
       "_zh_headline": "西部数据股票周一上涨：发生了什么？",
       "_zh_summary": "随着投资者重返高风险科技股，西部数据公司（纳斯达克股票代码：WDC）股价在周一盘前交易中上涨约 3%。纳斯达克期货上涨 1.43%，标准普尔 500 指数期货上涨 0.89%。西部数据的涨幅似乎是跟随更广泛的市场上涨，而不是公司特定的新闻。随着投资者在开盘前重新投资科技股，该股从 6 月高点回落后正在反弹。",
-      "_added_at": "2026-07-27T12:42:29.399853+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-27T11:05:31Z",
-      "headline": "What's Going on With Sandisk Stock Monday?",
-      "id": 60690118,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/SanDisk-Bangkok--Thailand---February-05-.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/SanDisk-Bangkok--Thailand---February-05-.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/SanDisk-Bangkok--Thailand---February-05-.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "SanDisk (SNDK) stock jumped 4%+ premarket as chip stocks rally ahead of Aug. 5 earnings. Key technical levels &amp; analyst outlook inside.",
-      "symbols": [
-        "DRAM",
-        "MU",
-        "PTF",
-        "RPG",
-        "SKHY",
-        "SNDK"
-      ],
-      "updated_at": "2026-07-27T11:08:52Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60690118/whats-going-on-with-sandisk-stock-monday-4",
-      "_summary": "The broader market rally helped lift Sandisk after the stock pulled back from its June peak. The rebound comes just over a week before the company’s quarterly earnings report, a period that often brings increased trading activity and volatility. Despite the recent decline, Sandisk remains one of the market’s biggest winners over the past 12 months, with shares up more than 3,329%. That sharp rally has made the stock susceptible to profit-taking and buy-the-dip trading.",
-      "_zh_headline": "周一Sandisk 股票怎么样？",
-      "_zh_summary": "在Sandisk股票从6月份的高点回落后，大盘的上涨帮助该公司提振。反弹发生在该公司发布季度收益报告的一周多前，这一时期通常会带来交易活动增加和波动性。尽管最近有所下跌，Sandisk 仍然是过去 12 个月市场的最大赢家之一，股价上涨超过 3,329%。这种大幅上涨使该股容易受到获利了结和逢低买入交易的影响。",
-      "_added_at": "2026-07-27T12:42:29.399853+00:00"
-    },
-    {
-      "author": "Badar Shaikh",
-      "content": "",
-      "created_at": "2026-07-27T10:29:36Z",
-      "headline": "Uber-Backed EV Firm Says Iran War Is Accelerating Electric Vehicle Adoption in South Africa",
-      "id": 60689488,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Uber-Sign-On-Its-Headquarters-Building-I.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Uber-Sign-On-Its-Headquarters-Building-I.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Uber-Sign-On-Its-Headquarters-Building-I.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Valternative, a fleet operator backed by Uber, says the US-Iran war has accelerated EV penetration in South Africa.",
-      "symbols": [
-        "GOOG",
-        "GOOGL",
-        "UBER"
-      ],
-      "updated_at": "2026-07-27T10:29:36Z",
-      "url": "https://www.benzinga.com/markets/emerging-markets/26/07/60689488/uber-backed-ev-firm-says-iran-war-is-accelerating-electric-vehicle-adoption-in-south-africa",
-      "_summary": "While Qute offers an alternative to traditional tuk-tuks but remains powered by fossil fuels, Valternative and Uber’s approach is an electric one and the Iran war is helping drive electrification in a country where infrastructure remains sparse, the report said. Fuel costs in South Africa remain high as the conflict sends supply shocks throughout the world and Jeewa said that South African drivers or customers would not return to ICE vehicles once they “get a taste of electric,” the report outlined.",
-      "_zh_headline": "Uber支持的电动汽车公司表示，伊朗战争正在加速南非电动汽车的采用",
-      "_zh_summary": "报告称，虽然 Qute 提供了传统嘟嘟车的替代方案，但仍然由化石燃料提供动力，但 Valternative 和 Uber 的方法是电动的，而伊朗战争正在帮助推动这个基础设施仍然稀疏的国家的电气化。报告概述称，由于冲突给世界各地的供应带来冲击，南非的燃料成本仍然很高，吉瓦表示，南非司机或顾客一旦“尝到了电动车的滋味”，就不会再使用内燃机汽车了。",
       "_added_at": "2026-07-27T12:42:29.399853+00:00"
     }
   ]
