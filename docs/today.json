@@ -2,6 +2,235 @@
   "date": "2026-07-27",
   "articles": [
     {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-27T14:21:50Z",
+      "headline": "Dow Jumps Over 400 Points; AstraZeneca Shares Rise After Q2 Earnings",
+      "id": 60697186,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Dow Jones up 0.80% to 52,361.92, NASDAQ up 0.23% to 25,024.65, S&amp;P 500 up 0.28% to 7,432.59. Communication services up 2.5%, energy down 1.84%.",
+      "symbols": [
+        "AZN",
+        "BIYA",
+        "CAPR",
+        "CISS",
+        "ENTX",
+        "LVWR",
+        "YYAI"
+      ],
+      "updated_at": "2026-07-27T14:21:50Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60697186/dow-jumps-over-400-points-astrazeneca-shares-rise-after-q2-earnings",
+      "_summary": "U.S. stocks traded higher this morning, with the Dow Jones index gaining more than 400 points on Monday. Following the market opening Monday, the Dow traded up 0.80% to 52,361.92 while the NASDAQ climbed 0.23% to 25,024.65. The S&P 500 also rose, gaining, 0.28% to 7,432.59. Communication services shares jumped by 2.5% on Monday. In trading on Monday, energy stocks fell by 1.84%. AstraZeneca PLC (NASDAQ: AZN ) shares gained over 2% on Monday after the company reported earnings for the second quarter.",
+      "_zh_headline": "道指跃升逾 400 点；阿斯利康股价在第二季度收益公布后上涨",
+      "_zh_summary": "美国股市今早走高，道琼斯指数周一上涨逾 400 点。周一开盘后，道指上涨 0.80% 至 52,361.92 点，纳斯达克指数上涨 0.23% 至 25,024.65 点。标准普尔 500 指数也上涨 0.28%，至 7,432.59 点。周一，通信服务股上涨 2.5%。周一交易中，能源股下跌1.84%。阿斯利康公司（纳斯达克股票代码：AZN）公布第二季度收益后，周一该公司股价上涨超过 2%。",
+      "_added_at": "2026-07-27T15:59:20.330416+00:00"
+    },
+    {
+      "author": "Chris Katje",
+      "content": "",
+      "created_at": "2026-07-27T15:19:23Z",
+      "headline": "Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week",
+      "id": 60700295,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Los-Angeles--California---20-January-202.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Los-Angeles--California---20-January-202.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Los-Angeles--California---20-January-202.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Four of the Magnificent Seven stocks report quarterly results this week. A look at past earnings history and what to expect.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "DIA",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "QQQ",
+        "SPY",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-27T15:19:23Z",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60700295/magnificent-seven-in-spotlight-what-to-expert-from-meta-microsoft-amazon-apple-earnings-this-week",
+      "_summary": "Four of the largest public companies in the world report quarterly financial results this week , reports that could have a big impact on several sectors and market indexes. Here’s a look at the Magnificent Seven stocks reporting this week and what investors should expect. Woods said the company’s outlooks will be key to justify lofty valuations heading into the second half of 2026. The market expert highlights that this will be the last quarterly report for Apple under CEO Tim Cook.",
+      "_zh_headline": "聚光灯下的七巨头：从 Meta、微软、亚马逊、苹果本周的财报中可以看出什么",
+      "_zh_summary": "全球最大的四家上市公司本周将公布季度财务业绩，该报告可能对多个行业和市场指数产生重大影响。以下是本周七大股票的报告以及投资者应该期待的内容。伍兹表示，该公司的前景将是证明 2026 年下半年高估值合理性的关键。这位市场专家强调，这将是苹果在首席执行官蒂姆·库克 (Tim Cook) 领导下发布的最后一份季度报告。",
+      "_added_at": "2026-07-27T15:59:20.330416+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-27T14:03:38Z",
+      "headline": "This 100-Year-Old Theory Says the Stock Market Isn’t Done Climbing: Ed Yardeni",
+      "id": 60696164,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Charging-Bull-Is-A-Bronze-Sculpture-That.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Charging-Bull-Is-A-Bronze-Sculpture-That.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Charging-Bull-Is-A-Bronze-Sculpture-That.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Yardeni says Dow Theory remains bullish as transportation stocks hit record highs, as the AI infrastructure boom supports the broader market.",
+      "symbols": [
+        "IYT",
+        "QQQ",
+        "SPY"
+      ],
+      "updated_at": "2026-07-27T14:03:38Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60696164/ed-yardeni-dow-theory-remains-bullish-transportation-ai",
+      "_summary": "Artificial intelligence has dominated Wall Street’s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether the hyperscalers are overspending on AI. Yet one of the market’s oldest indicators is quietly telling a very different story. According to Ed Yardeni , a theory developed more than 100 years ago still suggests the bull market has further to run. “Dow Theory remains bullish,” Yardeni said in his latest sector outlook.",
+      "_zh_headline": "这个已有 100 年历史的理论表明股市的上涨还没有结束：埃德·亚德尼 (Ed Yardeni)",
+      "_zh_summary": "人工智能今年主导了华尔街的注意力。投资者一直关注资本支出、自由现金流萎缩以及超大规模企业是否在人工智能上过度支出。然而，市场最古老的指标之一正在悄然讲述一个截然不同的故事。 Ed Yardeni 认为，100 多年前发展起来的理论仍然表明牛市还会进一步运行。 “道琼斯指数仍然看涨，”亚德尼在最新的行业展望中表示。",
+      "_added_at": "2026-07-27T15:59:20.330416+00:00"
+    },
+    {
+      "author": "Anusuya Lahiri",
+      "content": "",
+      "created_at": "2026-07-27T13:27:05Z",
+      "headline": "Intel’s Earnings Could Quadruple in 4 Years, Analyst Says",
+      "id": 60694256,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Intel-Corp.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Intel-Corp.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Intel-Corp.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Intel (INTC) stock gained 2% premarket as demand for AI server chips surges. Discover analyst forecasts, technicals, and foundry growth.",
+      "symbols": [
+        "IGPT",
+        "INTC",
+        "NVDA",
+        "SKHY",
+        "SMH",
+        "SOXQ",
+        "TSM"
+      ],
+      "updated_at": "2026-07-27T13:27:05Z",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60694256/intels-earnings-could-quadruple-in-4-years-analyst-says",
+      "_summary": "Intel Corp (NASDAQ: INTC ) stock gained by almost 2% during Monday’s premarket session as risk appetite firms up across equities. Nasdaq futures are up 1.28% while S&P 500 futures have gained 0.79%. Bank of America Securities analyst Vivek Arya told CNBC on Friday that Intel’s second-quarter results showed the company is gaining traction in AI infrastructure, driven by nearly 59% year-over-year growth in its core server CPU business.",
+      "_zh_headline": "分析师称英特尔盈利将在四年内翻两番",
+      "_zh_summary": "由于股市风险偏好增强，英特尔公司（纳斯达克股票代码：INTC）股价在周一盘前交易中上涨近 2%。纳斯达克期货上涨 1.28%，标准普尔 500 指数期货上涨 0.79%。美国银行证券分析师 Vivek Arya 周五向 CNBC 表示，英特尔第二季度业绩显示，在核心服务器 CPU 业务同比增长近 59% 的推动下，该公司在人工智能基础设施领域正在获得牵引力。",
+      "_added_at": "2026-07-27T15:59:20.330416+00:00"
+    },
+    {
+      "author": "Surbhi Jain",
+      "content": "",
+      "created_at": "2026-07-27T14:20:50Z",
+      "headline": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
+      "id": 60697145,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Krugman-Questions-AI-Stocks.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Krugman-Questions-AI-Stocks.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Krugman-Questions-AI-Stocks.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "After Nvidia and SK Hynix, GraniteShares CEO Will Rhind says Broadcom, Marvell and TSMC could be the next AI winners.",
+      "symbols": [
+        "AAPL",
+        "AMD",
+        "AVGO",
+        "MRVL",
+        "NVDA",
+        "SKHY",
+        "TSM"
+      ],
+      "updated_at": "2026-07-27T14:20:50Z",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60697145/exclusive-after-nvidia-and-sk-hynix-these-3-ai-stocks-could-be-the-next-winners-ceo-says",
+      "_summary": "“Follow the bottlenecks,” Rhind told Benzinga in an exclusive email interview. According to Rhind, the biggest investment opportunities are shifting from AI processors themselves to the technologies that connect, manufacture and support them. After GPUs and memory, Rhind sees networking infrastructure as one of the next critical constraints for AI data centers. “After the GPU and the memory, the next winners are the companies solving how you connect and power all of it,” he said.",
+      "_zh_headline": "独家：首席执行官表示，继英伟达和 SK 海力士之后，这 3 只人工智能股票可能成为下一个赢家",
+      "_zh_summary": "“追随瓶颈，”莱因德在独家电子邮件采访中告诉本辛加。 Rhind 表示，最大的投资机会正在从人工智能处理器本身转向连接、制造和支持它们的技术。 Rhind 认为，继 GPU 和内存之后，网络基础设施是人工智能数据中心的下一个关键限制之一。 “继 GPU 和内存之后，下一个赢家是那些解决如何连接和供电的公司，”他说。",
+      "_added_at": "2026-07-27T15:59:20.330416+00:00"
+    },
+    {
+      "author": "Parshwa Turakhiya",
+      "content": "",
+      "created_at": "2026-07-27T14:35:48Z",
+      "headline": "Anthony Scaramucci Comments On Trump-Linked Meme Coin Activity: 'People Smell Corruption'",
+      "id": 60697975,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Scaramucci-Launches-The-Resilience-Lab-T.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Scaramucci-Launches-The-Resilience-Lab-T.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Scaramucci-Launches-The-Resilience-Lab-T.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Anthony Scaramucci says Trump’s memecoin hurt crypto trust but still sees Bitcoin reaching a $10 trillion market cap.",
+      "symbols": [
+        "AVAXUSD",
+        "BTCUSD",
+        "COIN",
+        "CRCL",
+        "ETHUSD",
+        "MSTR",
+        "MU",
+        "SOLUSD",
+        "UBER"
+      ],
+      "updated_at": "2026-07-27T14:35:48Z",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60697975/anthony-scaramucci-comments-on-trump-linked-meme-coin-activity-people-smell-corruption",
+      "_summary": "Skybridge Capital founder Anthony Scaramucci says Donald Trump’s meme coin activity poisoned public trust in crypto at exactly the wrong moment, even as he sees Bitcoin (CRYPTO: BTC) reaching a $10 trillion market cap. Scaramucci made the case on The Wolf Of All Streets podcast that crypto was building genuine public goodwill heading into Trump’s inauguration, then lost it almost immediately.",
+      "_zh_headline": "安东尼·斯卡拉穆奇对与特朗普相关的模因币活动发表评论：“人们闻到了腐败的味道”",
+      "_zh_summary": "Skybridge Capital 创始人 Anthony Scaramucci 表示，唐纳德·特朗普的模因币活动在错误的时刻毒害了公众对加密货币的信任，尽管他认为比特币（CRYPTO：BTC）的市值已达到 10 万亿美元。斯卡拉穆奇在 The Wolf Of All Streets 播客中表示，加密货币正在为特朗普的就职典礼建立真正的公众善意，但随后几乎立即失去了这种善意。",
+      "_added_at": "2026-07-27T15:59:20.330416+00:00"
+    },
+    {
       "author": "Stjepan Kalinic",
       "content": "",
       "created_at": "2026-07-27T12:03:06Z",
@@ -547,40 +776,6 @@
       "_summary": "The Indian government has directed GitHub to remove Jack Dorsey ‘s Bitchat repositories amid the ongoing student protests in Delhi. Intel and Advanced Micro Device s are reportedly entering into longer-term purchase agreements with Chinese server customers. Alphabet has opened a more direct front against Nvidia in the AI chip market. The U.S.",
       "_zh_headline": "消费科技（7 月 20 日至 24 日）：人工智能繁荣推动大型科技盈利，甲骨文获得 70 亿美元的国防交易等",
       "_zh_summary": "由于德里正在进行的学生抗议活动，印度政府已指示 GitHub 删除 Jack Dorsey 的 Bitchat 存储库。据报道，英特尔和 Advanced Micro Device 正在与中国服务器客户签订长期采购协议。 Alphabet 在人工智能芯片市场上与英伟达展开了更直接的对抗。美国",
-      "_added_at": "2026-07-27T05:25:39.150904+00:00"
-    },
-    {
-      "author": "Radhika Anilkumar Nadig",
-      "content": "",
-      "created_at": "2026-07-27T03:45:31Z",
-      "headline": "Nvidia Deepens South Korea AI Push With $1 Billion NAVER Investment",
-      "id": 60686999,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Bahia--Brazil---August-28--2025-Nvidia-L.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Bahia--Brazil---August-28--2025-Nvidia-L.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Bahia--Brazil---August-28--2025-Nvidia-L.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "NVIDIA to invest $1B in NAVER to expand South Korea&#39;s AI datacenter infrastructure. ",
-      "symbols": [
-        "BAM",
-        "NVDA",
-        "SKHY"
-      ],
-      "updated_at": "2026-07-27T03:45:32Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60686999/nvidia-naver-ai-investment-south-korea",
-      "_summary": "NVIDIA Corp (NASDAQ: NVDA ) plans to invest about $1 billion in NAVER Corp as part of a broader effort to expand artificial intelligence datacenter infrastructure in South Korea. A regulatory filing from NAVER on Monday said NVIDIA will buy 7.2 million newly issued shares at 204,500 KRW ($139.45) each, about a 1% discount to NAVER’s Friday closing price, as part of its planned $1 billion investment.",
-      "_zh_headline": "Nvidia 投资 10 亿美元 NAVER 深化韩国人工智能发展",
-      "_zh_summary": "NVIDIA 公司（纳斯达克股票代码：NVDA）计划向 NAVER 公司投资约 10 亿美元，作为扩大韩国人工智能数据中心基础设施的更广泛努力的一部分。 NAVER 周一向监管机构提交的文件称，NVIDIA 将以每股 204,500 韩元（139.45 美元）的价格购买 720 万股新发行的股票，比 NAVER 周五收盘价折价约 1%，作为其计划的 10 亿美元投资的一部分。",
       "_added_at": "2026-07-27T05:25:39.150904+00:00"
     }
   ]
