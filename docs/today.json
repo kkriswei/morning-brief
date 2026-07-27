@@ -2,6 +2,107 @@
   "date": "2026-07-27",
   "articles": [
     {
+      "author": "Rishabh Mishra",
+      "content": "",
+      "created_at": "2026-07-27T05:51:54Z",
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "id": 60687326,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Stock-S-And-P-500-Index-Fund-Symbol-Is-O.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Polymarket S&amp;P 500 up open odds hit 88% on July 27 as a pause in U.S. strikes on Iran sends crude oil prices tumbling.",
+      "symbols": [
+        "AAPL",
+        "AMZN",
+        "META",
+        "MSFT",
+        "POLUSD"
+      ],
+      "updated_at": "2026-07-27T05:51:54Z",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60687326/stock-market-will-sp-500-open-up-or-down-today-11",
+      "_summary": "U.S. stock futures are rising heading into Monday morning, driven by a temporary lull in Middle East hostilities and a steep pullback in global energy prices. Markets received a substantial boost over the weekend following news that the United States suspended its 13-night airstrike campaign against Iran to allow space for diplomatic negotiations and evaluate depleted munitions stocks.",
+      "_zh_headline": "股市：今天标普 500 指数会上涨还是下跌？",
+      "_zh_summary": "受中东敌对行动暂时平息和全球能源价格大幅回落的推动，美国股指期货周一上午上涨。周末有消息称，美国暂停对伊朗进行为期 13 晚的空袭行动，为外交谈判留出空间并评估耗尽的弹药库存，市场大幅提振。",
+      "_added_at": "2026-07-27T08:55:39.372859+00:00"
+    },
+    {
+      "author": "Badar Shaikh",
+      "content": "",
+      "created_at": "2026-07-27T07:20:06Z",
+      "headline": "Peter Schiff Says Elon Musk Lost $100 Billion Amid Tesla, SpaceX Selloff: 'I'm an Elon Fan'",
+      "id": 60687908,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/National-Harbor--Md--Usa--February-20-20.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/National-Harbor--Md--Usa--February-20-20.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/National-Harbor--Md--Usa--February-20-20.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Peter Schiff comments on Elon Musk&#39;s $100B loss in wealth due to Tesla and SpaceX stock declines, but clarifies he is not criticizing Musk.",
+      "symbols": [
+        "SPCX",
+        "TSLA"
+      ],
+      "updated_at": "2026-07-27T07:20:06Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60687908/peter-schiff-says-elon-musk-lost-100-billion-amid-tesla-spacex-selloff-im-an-elon-fan",
+      "_summary": "In a series of posts on X on Friday, the Echelon Wealth Partners co-founder said that Musk lost nearly $100 billion in a week. “I’m old enough to remember when $100 billion was a lot of money,” he said. Schiff then responded to a user in the thread, who said that Musk was creating value for the world and that the dip was not permanent. “I’m an Elon fan,” Schiff said, adding that the post was not criticizing the Tesla CEO. “I wish I was rich enough to ‘lose’ $100 billion in one week,” he said.",
+      "_zh_headline": "彼得·希夫称埃隆·马斯克因特斯拉、SpaceX 抛售而损失了 1000 亿美元：“我是埃隆·马斯克的粉丝”",
+      "_zh_summary": "周五，这位 Echelon Wealth Partners 联合创始人在 X 上的一系列帖子中表示，马斯克在一周内损失了近 1000 亿美元。 “我已经足够大了，还记得 1000 亿美元是一笔巨款，”他说。希夫随后在帖子中回复了一位用户，该用户表示马斯克正在为世界创造价值，而且这种下滑并不是永久性的。 “我是埃隆的粉丝，”希夫说，并补充说该帖子并不是批评特斯拉首席执行官。 “我希望自己足够富有，能够在一周内‘损失’ 1000 亿美元，”他说。",
+      "_added_at": "2026-07-27T08:55:39.372859+00:00"
+    },
+    {
+      "author": "Tanya Rawat",
+      "content": "",
+      "created_at": "2026-07-27T05:52:20Z",
+      "headline": "Gen X Retirement Nears With S&P 500 Portfolios Riding a Boom: Advisor Says Real Danger Isn't a Crash, but One That Comes at the 'Wrong Time'",
+      "id": 60687336,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Pay-Claims-And-Pay-Tables.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Pay-Claims-And-Pay-Tables.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Pay-Claims-And-Pay-Tables.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Gen X retirement portfolios face growing market risk as advisers warn about S&amp;P 500 concentration and AI-linked stocks.",
+      "symbols": [
+        "AMZN"
+      ],
+      "updated_at": "2026-07-27T05:52:20Z",
+      "url": "https://www.benzinga.com/personal-finance/financial-advisors/26/07/60687336/gen-x-retirement-sp-500-sequence-of-returns-risk",
+      "_summary": "Financial advisers are warning that Gen X investors approaching retirement could be particularly vulnerable to a market downturn as heavy exposure to the S&P 500 coincides with growing concentration in AI-linked stocks, according to a CNBC report published Sunday. Gen X, generally defined as those born between 1965 and 1980, is entering a period when years of accumulating retirement savings increasingly overlap with the need to protect money that may soon be used for income.",
+      "_zh_headline": "随着标普 500 指数投资组合的繁荣，X 一代即将退休：顾问表示，真正的危险不是崩盘，而是在“错误的时间”出现的危机",
+      "_zh_summary": "据 CNBC 周日发布的一份报告称，财务顾问警告说，即将退休的 X 一代投资者可能特别容易受到市场低迷的影响，因为他们在标准普尔 500 指数中的大量投资与人工智能相关股票的集中度不断提高相一致。 X一代通常被定义为1965年至1980年之间出生的人，他们正在进入这样一个时期：多年积累的退休储蓄与保护可能很快用于收入的资金的需求越来越重叠。",
+      "_added_at": "2026-07-27T08:55:39.372859+00:00"
+    },
+    {
       "author": "Crispus Nyaga",
       "content": "",
       "created_at": "2026-07-26T19:55:16Z",
