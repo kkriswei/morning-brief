@@ -2,6 +2,41 @@
   "date": "2026-07-27",
   "articles": [
     {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-27T20:29:46Z",
+      "headline": "EXCLUSIVE: Why TEMA ETF Is Buying China’s Memory Champion Without Selling Micron",
+      "id": 60711696,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Blocks-Of-Computer-Memory-Sit-On-Top-Of-.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "CXMT&#39;s blockbuster IPO sparked fears of rising Chinese competition across the memory industry. But Tema ETFs CIO Yuri Khodjamirian tells Benzinga investors are overlooking a crucial distinction between commodity DRAM and high-bandwidth memory, where Micron, SK Hynix and Samsung still hold a formidable technological edge.",
+      "symbols": [
+        "DISK",
+        "MU",
+        "SKHY",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-27T20:29:46Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60711696/why-tema-etf-is-buying-chinas-memory-champion-without-selling-micron",
+      "_summary": "China’s newest memory champion – ChangXin Memory Technologies (CXMT) – is finally public on the Shanghai market. Following CXMT’s eye-popping 466% debut, Wall Street dumped virtually every memory stock in sight. The market’s message was simple: China’s rise threatens the entire industry. Yet Yuri Khodjamirian , chief investment officer at Tema ETFs, doesn’t believe investors should view CXMT’s rise as a direct threat to Micron’s AI memory franchise.",
+      "_zh_headline": "独家：为什么 TEMA ETF 购买中国内存冠军而不出售美光",
+      "_zh_summary": "中国最新的存储器冠军——长鑫存储器科技（CXMT）——终于在上海市场上市。在长鑫存储首日股价上涨 466% 后，华尔街几乎抛售了所有能看到的内存股。市场传达的信息很简单：中国的崛起威胁着整个行业。然而，Tema ETF 首席投资官 Yuri Khodjamirian 认为，投资者不应将长鑫存储的崛起视为对美光 AI 内存业务的直接威胁。",
+      "_added_at": "2026-07-27T23:35:24.666790+00:00"
+    },
+    {
       "author": "Chandrima Sanyal",
       "content": "",
       "created_at": "2026-07-27T20:12:29Z",
@@ -773,44 +808,6 @@
       "_summary": "“Investors are ​underestimating how fundamentally AI is changing the Big Tech business model,” Shay Boloor , chief market strategist at Futurum Equities , said, according to Reuters. “These companies were historically valued as asset-light platforms because ​revenue could scale much faster than capital requirements, but AI is pushing them toward a hybrid model where software, advertising and cloud economics increasingly depend on enormous physical infrastructure spending,” he added.",
       "_zh_headline": "债券市场正在重新思考大型科技公司每年为人工智能投入超过 1 万亿美元的资金",
       "_zh_summary": "据路透社报道，Futurum Equities 首席市场策略师 Shay Boloor 表示：“投资者低估了人工智能对大型科技商业模式的根本改变。”他补充道：“这些公司历来被视为轻资产平台，因为收入的增长速度可能远远快于资本需求，但人工智能正在推动它们走向一种混合模式，在这种模式中，软件、广告和云经济越来越依赖于巨大的物理基础设施支出。”",
-      "_added_at": "2026-07-27T12:42:29.399853+00:00"
-    },
-    {
-      "author": "Anusuya Lahiri",
-      "content": "",
-      "created_at": "2026-07-27T12:14:41Z",
-      "headline": "Western Digital Stock Is Gaining Monday: What's Going On?",
-      "id": 60692078,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Irvine--California--Usa---July-9--2022-W.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Irvine--California--Usa---July-9--2022-W.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Irvine--California--Usa---July-9--2022-W.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Western Digital (WDC) gains 3% premarket alongside STX and MU as tech rebounds. Key levels and Q2 earnings forecast analyzed inside.",
-      "symbols": [
-        "AFOS",
-        "CTEF",
-        "EGGQ",
-        "MU",
-        "SNDK",
-        "STX",
-        "WDC"
-      ],
-      "updated_at": "2026-07-27T12:14:41Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60692078/western-digital-stock-is-gaining-monday-whats-going-on",
-      "_summary": "Western Digital Corp. (NASDAQ: WDC ) stock rose about 3% in Monday’s premarket trading as investors returned to higher-risk technology stocks. Nasdaq futures climbed 1.43%, while S&P 500 futures gained 0.89%. Western Digital’s gains appeared to track the broader market rally rather than company-specific news. The stock is rebounding after pulling back from its June high as investors rotate back into technology shares ahead of the opening bell.",
-      "_zh_headline": "西部数据股票周一上涨：发生了什么？",
-      "_zh_summary": "随着投资者重返高风险科技股，西部数据公司（纳斯达克股票代码：WDC）股价在周一盘前交易中上涨约 3%。纳斯达克期货上涨 1.43%，标准普尔 500 指数期货上涨 0.89%。西部数据的涨幅似乎是跟随更广泛的市场上涨，而不是公司特定的新闻。随着投资者在开盘前重新投资科技股，该股从 6 月高点回落后正在反弹。",
       "_added_at": "2026-07-27T12:42:29.399853+00:00"
     }
   ]
