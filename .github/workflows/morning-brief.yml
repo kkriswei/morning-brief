@@ -1,6 +1,11 @@
 name: Morning Brief
 
 on:
+  # Temporary one-shot validation trigger; removed after the release run.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/morning-brief.yml"
   # GitHub cron is UTC-only. Each ET slot has an EDT and EST candidate;
   # morning_brief.py --scheduled accepts only the invocation inside the local
   # 09:00 or 16:45 ET window, so the duplicate exits without side effects.
