@@ -1,12 +1,12 @@
 {
-  "name": "Morning Brief",
-  "short_name": "Brief",
-  "description": "Daily market and world news digest",
+  "name": "Evidence-First Market Brief",
+  "short_name": "Market Brief",
+  "description": "Daily US market moves with evidence-ranked explanations",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0b0c0e",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]

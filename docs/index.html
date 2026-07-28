@@ -1,209 +1,233 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#0b0c0e">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="apple-mobile-web-app-title" content="Morning Brief">
-<title>Morning Brief — 7/28</title>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Market Brief">
+<title>Market Brief — 7/28</title>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/svg+xml" href="icon.svg">
 <link rel="apple-touch-icon" href="icon.svg">
 <style>
   :root {
-    --bg: #ffffff; --bg-card: #f8fafc; --fg: #0f172a; --fg-muted: #64748b;
-    --accent: #15803d; --border: #e2e8f0;
+    --bg: #0b0c0e; --surface: #121418; --surface-2: #181b20;
+    --ink: #f3f1eb; --muted: #979ba3; --line: #282c33;
+    --green: #5ee39a; --red: #ff7c82; --amber: #e7bd72;
   }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  html, body { background: var(--bg); color: var(--fg); }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-    line-height: 1.55; max-width: 760px; margin: 0 auto;
-    padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.58; padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
   }
-  header { padding: 28px 20px 16px; border-bottom: 1px solid var(--border); }
-  h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.02em; }
-  header .date { color: var(--fg-muted); font-size: 14px; margin-top: 4px; }
-  section { padding: 0 20px; }
-  h2 {
-    font-size: 12px; font-weight: 700; text-transform: uppercase;
-    letter-spacing: 0.1em; color: var(--accent); margin: 28px 0 12px;
+  .wrap { width: min(880px, 100%); margin: 0 auto; padding: 0 22px; }
+  header { padding: 40px 0 26px; border-bottom: 1px solid var(--line); }
+  .eyebrow, .section-kicker {
+    color: var(--amber); font-size: 11px; font-weight: 750; letter-spacing: .16em;
   }
-  article {
-    background: var(--bg-card); border: 1px solid var(--border);
-    border-radius: 14px; padding: 18px 20px; margin-bottom: 14px;
+  h1 { margin: 7px 0 0; font-size: clamp(32px, 7vw, 54px); line-height: 1.05; letter-spacing: -.04em; }
+  .date { color: var(--muted); margin-top: 10px; font-size: 14px; }
+  section { padding: 34px 0; border-bottom: 1px solid var(--line); }
+  h2 { margin: 7px 0 20px; font-size: 25px; letter-spacing: -.02em; }
+  .session-date, .data-note, .confidence, .meta, .move-close, .sector-line, .empty {
+    color: var(--muted); font-size: 12px;
   }
-  article .meta {
-    font-size: 12px; color: var(--fg-muted); margin-bottom: 8px;
-    display: flex; gap: 8px; flex-wrap: wrap;
+  .moves { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .move { padding: 15px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
+  .move-label { color: var(--muted); font-size: 12px; }
+  .move-value { margin: 3px 0 1px; font-size: 22px; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--ink); }
+  .sector-line { margin: 13px 0 0; }
+  .explanation { margin-top: 22px; padding: 19px 20px; background: var(--surface-2); border-left: 3px solid var(--amber); }
+  .explanation p { margin: 7px 0 0; font-size: 16px; }
+  .overview { margin-top: 22px; padding: 20px; background: var(--surface-2); border: 1px solid var(--line); border-left-width: 4px; }
+  .overview-kicker { color: var(--muted); font-size: 11px; letter-spacing: .13em; }
+  .overview-label { margin-top: 4px; font-size: 25px; font-weight: 780; letter-spacing: -.02em; }
+  .overview p { margin: 8px 0 9px; }
+  .overview ul { margin: 0; padding-left: 19px; color: var(--muted); font-size: 13px; }
+  .tone-positive, .tone-cautious-positive { border-left-color: var(--green); }
+  .tone-negative, .tone-cautious-negative { border-left-color: var(--red); }
+  .tone-neutral, .tone-unavailable { border-left-color: var(--amber); }
+  .data-note { margin: 14px 0 0; }
+  .section-note, .special-note { color: var(--muted); font-size: 12px; }
+  .sector-block { margin-top: 26px; }
+  .sector-heading, .special-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--line); }
+  .sector-heading h3, .special-heading h3 { margin: 0 0 9px; font-size: 20px; }
+  .sector-move { font-size: 13px; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .story { display: grid; grid-template-columns: 36px 1fr; gap: 10px; padding: 20px 0; border-top: 1px solid var(--line); }
+  .sector-block .story:first-of-type { border-top: 0; }
+  .story-number { color: #555b65; font-size: 12px; padding-top: 2px; }
+  .story h3 { margin: 6px 0 4px; font-size: 18px; line-height: 1.35; }
+  .story h3 a { color: var(--ink); text-decoration: none; }
+  .story h3 a:hover { color: var(--green); }
+  .zh-headline { color: #c5c8ce; font-size: 15px; }
+  .story-badge { margin-left: 8px; color: var(--amber); font-size: 10px; letter-spacing: .08em; }
+  .summary { margin: 13px 0 4px; color: #d9dbe0; font-size: 14px; }
+  .zh-summary { margin: 5px 0 0; color: var(--muted); font-size: 14px; }
+  .special-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+  .special-block { min-width: 0; padding: 18px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+  .special-quote { display: flex; align-items: baseline; gap: 8px; white-space: nowrap; }
+  .special-price { font-size: 19px; font-weight: 750; }
+  .special-change { font-size: 13px; font-weight: 750; }
+  .special-quote.unavailable { color: var(--muted); font-size: 12px; }
+  .special-block .story { grid-template-columns: 24px 1fr; }
+  .special-block .story h3 { font-size: 16px; }
+  .special-block .summary, .special-block .zh-summary { display: none; }
+  footer { padding: 28px 0 40px; color: var(--muted); font-size: 11px; }
+  @media (max-width: 680px) {
+    .wrap { padding: 0 16px; }
+    header { padding-top: 30px; }
+    .moves { grid-template-columns: repeat(2, 1fr); }
+    .special-grid { grid-template-columns: 1fr; }
+    .move-value { font-size: 20px; }
+    .story { grid-template-columns: 28px 1fr; }
   }
-  .symbols { color: var(--accent); font-weight: 600; }
-  article h3 { font-size: 17px; font-weight: 600; line-height: 1.35; margin-bottom: 6px; }
-  article h3 a { color: var(--fg); text-decoration: none; }
-  article h3 a:hover { color: var(--accent); }
-  .zh-line { color: var(--fg-muted); font-size: 15px; margin-bottom: 12px; }
-  .summary { font-size: 15px; margin: 10px 0 6px; }
-  .zh-summary { font-size: 14px; color: var(--fg-muted); }
-  footer {
-    padding: 24px 20px 32px; color: var(--fg-muted); font-size: 12px;
-    text-align: center; border-top: 1px solid var(--border); margin-top: 28px;
-  }
-  footer a { color: var(--accent); text-decoration: none; }
 </style>
 </head>
 <body>
-<header>
-  <h1>Morning Brief</h1>
-  <div class="date">Tuesday, July 28, 2026</div>
-</header>
-<section><h2>Market Pulse — why stocks moved</h2>
-<article>
-  <div class="meta"><span class="symbols">[BA,BTCUSD,CDNS,JNJ,KO]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/equities/26/07/60716461/stock-market-today-dow-jones-futures-gain-nasdaq-100-declines-as-oil-slips-ahead-of-trumps-meetings-with-zelensky-and-netanyahu-boeing-coca-cola-johnson-johnson-in-focus" target="_blank" rel="noopener">1. Stock Market Today: Dow Jones Futures Gain, Nasdaq 100 Declines as Oil Slips Ahead of Trump's Meetings With Zelensky and Netanyahu—Boeing, Coca-Cola, Johnson &amp; Johnson in Focus</a></h3>
-  <div class="zh-line">今日股市：道琼斯期货上涨，纳斯达克 100 指数下跌，因特朗普与泽伦斯基和内塔尼亚胡会晤之前油价下跌——焦点集中在波音、可口可乐、强生公司</div>
-  <p class="summary">U.S. stock futures were mixed on Tuesday, as the Dow Jones index gained but the S&amp;P 500 and Nasdaq 100 indices declined, following Monday’s mixed close. Meanwhile, the 10-year Treasury bond yielded 4.61%, and the two-year bond was at 4.29%. The CME Group’s FedWatch tool shows markets pricing in a 68.5% likelihood that the Federal Reserve will leave interest rates unchanged at its July meeting.</p>
-  <p class="zh-summary">周二美国股指期货涨跌互现，道琼斯指数上涨，但标准普尔 500 指数和纳斯达克 100 指数在周一收盘涨跌不一后下跌。与此同时，10年期国债收益率为4.61%，两年期国债收益率为4.29%。 CME 集团的 FedWatch 工具显示，市场定价美联储在 7 月会议上维持利率不变的可能性为 68.5%。</p>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">EVIDENCE-FIRST · US MARKETS</div>
+    <h1>Market Brief</h1>
+    <div class="date">Tuesday · July 28, 2026 · 晨间简报</div>
+  </header>
+  <section class="market-pulse"><div class="section-kicker">MARKET PULSE</div><div class="session-date">最近完整交易日 · Monday, July 27, 2026</div><h2>主要指数明显分化</h2><div class="moves"><div class="move"><div class="move-label">S&amp;P 500</div><div class="move-value up">+0.02%</div><div class="move-close">ETF SPY · 739.09</div></div><div class="move"><div class="move-label">Nasdaq 100</div><div class="move-value down">-0.31%</div><div class="move-close">ETF QQQ · 682.12</div></div><div class="move"><div class="move-label">Dow</div><div class="move-value up">+0.48%</div><div class="move-close">ETF DIA · 521.26</div></div><div class="move"><div class="move-label">Russell 2000</div><div class="move-value up">+0.60%</div><div class="move-close">ETF IWM · 292.91</div></div></div><p class="sector-line">领涨：消费 +1.31% · 落后：半导体 -2.25%</p><div class="overview tone-cautious-positive"><div class="overview-kicker">今日总览</div><div class="overview-label">中性偏利好 · 结构分化</div><p>上涨指数数量占优，但并非全面上涨，资金轮动比单一方向更重要。</p><ul><li>四大指数中 3 个上涨、1 个下跌；中位变动 +0.25%。</li><li>领涨 消费 +1.31%；落后 半导体 -2.25%。</li><li>同日核心报道集中在：AI 与半导体、债券与美元。</li></ul></div><div class="explanation"><div class="confidence">新闻归因 · 较高置信度</div><p>主要指数明显分化，没有单一主导催化剂。报道主要集中在AI 与半导体、债券与美元，更像多股力量互相抵消。</p></div><p class="data-note">数据：延迟 SIP 全市场日线。ETF 用作指数代理；新闻归因基于同日来源和方向一致性，不是可证明的唯一因果。</p></section>
+  <section class="sector-news"><div class="section-kicker">SECTOR MAP</div><h2>板块核心新闻</h2><p class="section-note">每个板块最多两条；优先同日市场驱动和高质量来源。</p><div class="sector-block"><div class="sector-heading"><h3>半导体</h3><span class="sector-move down">SMH -2.25%</span></div><article class="story">
+  <div class="story-number">01</div>
+  <div class="story-content">
+    <div class="meta">Bloomberg Markets · Mon 7/27 6:08 PM ET<span class="story-badge">核心驱动</span></div>
+    <h3><a href="https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates" target="_blank" rel="noopener noreferrer">Chipmakers Sink as Wall Street Rotation Powers On: Markets Wrap</a></h3>
+    <div class="zh-headline">随着华尔街轮动的加剧，芯片制造商陷入困境：市场结束</div>
+    <p class="summary">A rotation that has seen Wall Street investors bail from high-profile chipmakers in favor of more economically sensitive industries picked up speed, driving the Nasdaq 100 close to a technical correction.</p>
+    <p class="zh-summary">华尔街投资者纷纷放弃知名芯片制造商，转向对经济更敏感的行业，这种轮动速度加快，推动纳斯达克 100 指数接近技术调整。</p>
+  </div>
+</article><article class="story">
+  <div class="story-number">02</div>
+  <div class="story-content">
+    <div class="meta">benzinga · Mon 7/27 1:52 PM ET · AMKR, BKNG, BKR, BMNR, CDNS<span class="story-badge">核心驱动</span></div>
+    <h3><a href="https://www.benzinga.com/markets/equities/26/07/60706041/oil-crashes-8-percent-iran-pause-chip-rout-hits-nasdaq-rally-markets-monday" target="_blank" rel="noopener noreferrer">Oil Crashes 8%, Chip Rout Weighs on Nasdaq 100: Stock Market Today</a></h3>
+    <div class="zh-headline">油价暴跌 8%，芯片溃败令纳斯达克 100 指数承压：今日股市</div>
+    <p class="summary">Crude oil cratered as much as 8% on Monday after Washington paused its strike campaign against Iran, but a brutal sell-off in semiconductors wiped out Wall Street’s early relief rally, leaving the major averages mixed ahead of Wednesday’s Federal Reserve decision and a wave of Magnificent Seven earnings. “Iran wants to meet and we’re meeting. There’s a chance we can make a deal with Iran,” President Donald Trump told reporters aboard Air Force One at about 12:25 p.m.</p>
+    <p class="zh-summary">华盛顿暂停对伊朗的打击行动后，周一原油价格暴跌高达 8%，但半导体的残酷抛售抹去了华尔街早前的缓解反弹，导致周三美联储决定和一波“七大财报”发布之前，主要股指涨跌互现。 “伊朗想要会面，我们正在会面。我们有机会与伊朗达成协议，”唐纳德·特朗普总统于中午 12 点 25 分左右在空军一号上对记者表示。</p>
+  </div>
+</article></div><div class="sector-block"><div class="sector-heading"><h3>能源与原油</h3><span class="sector-move down">XLE -2.11%</span></div><article class="story">
+  <div class="story-number">03</div>
+  <div class="story-content">
+    <div class="meta">Financial Times Markets · Mon 7/27 1:24 PM ET</div>
+    <h3><a href="https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer">Oil price tumbles as Iran and US pause strikes over Strait of Hormuz</a></h3>
+    <div class="zh-headline">伊朗和美国暂停对霍尔木兹海峡的袭击导致油价暴跌</div>
+    <p class="summary">Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%. Our digitised version of the FT newspaper, for easy reading on any device.</p>
+    <p class="zh-summary">在任何设备上以数字方式完整访问高质量的《金融时报》新闻。试用期间随时取消。在任何设备上以数字方式获取优质《金融时报》新闻报道的必要条件。预付一年费用可节省 20%。通过行业领导者的专家分析，以完整的数字方式获取高质量的《金融时报》新闻。预付一年费用可节省 20%。我们的《金融时报》数字化版本，可在任何设备上轻松阅读。</p>
+  </div>
+</article><article class="story">
+  <div class="story-number">04</div>
+  <div class="story-content">
+    <div class="meta">Bloomberg Markets · Tue 7/28 7:33 AM ET</div>
+    <h3><a href="https://www.bloomberg.com/news/articles/2026-07-28/opec-plans-to-pause-quota-hikes-after-september-delegates-say" target="_blank" rel="noopener noreferrer">OPEC+ Plans Quota-Hikes Pause After September, Delegates Say</a></h3>
+    <div class="zh-headline">代表们表示，OPEC+计划在9月后暂停配额上涨</div>
+    <p class="summary">OPEC+ expects to pause oil-production quota hikes after a final increase in September as the group continues to evaluate the fast-changing supply impact of the Iran war, two delegates said.</p>
+    <p class="zh-summary">两位代表表示，OPEC+ 预计将在 9 月份最终增加石油产量配额后暂停上调，因为该组织将继续评估伊朗战争快速变化的供应影响。</p>
+  </div>
+</article></div><div class="sector-block"><div class="sector-heading"><h3>科技与 AI</h3><span class="sector-move down">XLK -0.90%</span></div><article class="story">
+  <div class="story-number">05</div>
+  <div class="story-content">
+    <div class="meta">CNBC Markets · Tue 7/28 10:05 AM ET</div>
+    <h3><a href="https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html" target="_blank" rel="noopener noreferrer">Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag</a></h3>
+    <div class="zh-headline">由于人工智能基础设施的轮换，加密货币股票上涨；比特币矿工滞后</div>
+    <p class="summary">Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.</p>
+    <p class="zh-summary">尽管大盘抛售且资金从芯片和人工智能基础设施公司撤离，但加密货币股票周一还是涨幅最大的股票。</p>
+  </div>
+</article><article class="story">
+  <div class="story-number">06</div>
+  <div class="story-content">
+    <div class="meta">NYT Business · Tue 7/28 9:55 AM ET</div>
+    <h3><a href="https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html" target="_blank" rel="noopener noreferrer">5 Things to Know About Meta’s Giant Data Center in Louisiana</a></h3>
+    <div class="zh-headline">关于位于路易斯安那州的 Meta 巨型数据中心需要了解的 5 件事</div>
+    <p class="summary">The road to the giant project was paved with secret meetings and an ever-expanding building plan.</p>
+    <p class="zh-summary">通往这一巨型项目的道路是由秘密会议和不断扩大的建筑计划铺成的。</p>
+  </div>
+</article></div><div class="sector-block"><div class="sector-heading"><h3>宏观与利率</h3></div><article class="story">
+  <div class="story-number">07</div>
+  <div class="story-content">
+    <div class="meta">Bloomberg Markets · Mon 7/27 7:21 PM ET</div>
+    <h3><a href="https://www.bloomberg.com/news/articles/2026-07-27/gold-holds-gain-as-trump-sounds-optimism-over-us-iran-talks" target="_blank" rel="noopener noreferrer">Gold Declines as Traders Weigh Prospects for Interest-Rate Hike</a></h3>
+    <div class="zh-headline">交易员权衡加息前景，金价下跌</div>
+    <p class="summary">Gold declined ahead of a potentially divisive decision on US interest rates later this week, while a fragile pause in Middle East hostilities soothed inflation fears.</p>
+    <p class="zh-summary">在本周晚些时候美国利率可能出现分歧的决定之前，金价下跌，而中东敌对行动的脆弱停顿缓解了通胀担忧。</p>
+  </div>
+</article><article class="story">
+  <div class="story-number">08</div>
+  <div class="story-content">
+    <div class="meta">Financial Times Markets · Tue 7/28 7:00 AM ET</div>
+    <h3><a href="https://www.ft.com/content/bf03d7a8-bfe7-41b6-ba43-74364de8d96f" target="_blank" rel="noopener noreferrer">How China’s grip on electrification metals could affect inflation</a></h3>
+    <div class="zh-headline">中国对电气化金属的控制可能如何影响通胀</div>
+    <p class="summary">Beijing’s supply-chain dominance poses major risks for the green transition</p>
+    <p class="zh-summary">北京的供应链主导地位给绿色转型带来重大风险</p>
+  </div>
+</article></div></section>
+  <section class="special-watch"><div class="section-kicker">FOCUS LIST</div><h2>重点标的独立跟踪</h2><div class="special-grid"><div class="special-block"><div class="special-heading"><h3>SPCX / SpaceX 相关</h3><div class="special-quote"><span class="special-price">113.50</span><span class="special-change down">-1.36%</span></div></div><p class="special-note">同时匹配 SPCX 代码及 SpaceX、Starlink、Starship 关键词；相关报道不自动等同于 SPCX 的直接基本面。</p><article class="story">
+  <div class="story-number">01</div>
+  <div class="story-content">
+    <div class="meta">benzinga · Tue 7/28 9:18 AM ET · AMZN, NTGR, SPCX, TMUS</div>
+    <h3><a href="https://www.benzinga.com/markets/tech/26/07/60724057/trump-administration-exempts-spacexs-starlink-from-sweeping-fcc-ban-on-foreign-made-routers-through-february-2028" target="_blank" rel="noopener noreferrer">Trump Administration Exempts SpaceX’s Starlink From Sweeping FCC Ban on Foreign-Made Routers Through February 2028</a></h3>
+    <div class="zh-headline">特朗普政府将 SpaceX 的 Starlink 免除 FCC 对外国制造路由器的全面禁令，直至 2028 年 2 月</div>
+    <p class="summary">The Trump administration granted SpaceX’s (NASDAQ: SPCX ) Starlink routers an exemption from Federal Communications Commission restrictions on foreign-made consumer routers, allowing the company to seek approval for new hardware through Feb. Starlink Secures Conditional Approval Through 2028 The FCC’s Covered List now identifies Starlink routers as conditionally approved by the Department of War.</p>
+    <p class="zh-summary">特朗普政府授予 SpaceX（纳斯达克股票代码：SPCX）的 Starlink 路由器豁免联邦通信委员会对外国制造消费者路由器的限制，允许该公司在 2 月之前寻求新硬件的批准。 Starlink 在 2028 年之前获得有条件批准。 FCC 的涵盖列表现在将 Starlink 路由器确定为获得战争部有条件批准的。</p>
+  </div>
+</article><article class="story">
+  <div class="story-number">02</div>
+  <div class="story-content">
+    <div class="meta">CNBC Markets · Tue 7/28 11:38 AM ET</div>
+    <h3><a href="https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html" target="_blank" rel="noopener noreferrer">SpaceX has now lost the equivalent of a full Tesla in market capitalization</a></h3>
+    <div class="zh-headline">SpaceX 现在的市值已相当于特斯拉的全部市值</div>
+    <p class="summary">Elon Musk&#x27;s space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.</p>
+    <p class="zh-summary">自 6 月份触及每股 225.64 美元的高点以来，埃隆·马斯克 (Elon Musk) 的太空公司市值已经蒸发了超过 1.2 万亿美元。</p>
+  </div>
+</article></div><div class="special-block"><div class="special-heading"><h3>MRVL · Marvell</h3><div class="special-quote"><span class="special-price">189.17</span><span class="special-change down">-2.61%</span></div></div><p class="special-note">独立跟踪 MRVL 行情、Marvell 公司新闻和半导体催化剂。</p><article class="story">
+  <div class="story-number">01</div>
+  <div class="story-content">
+    <div class="meta">benzinga · Tue 7/28 11:33 AM ET · AMD, INTC, MRVL, MU, NVDA</div>
+    <h3><a href="https://www.benzinga.com/markets/tech/26/07/60732161/ai-chip-trade-cracking-1-trillion-wipeout-in-korea-spreading" target="_blank" rel="noopener noreferrer">Is the AI Chip Trade Actually Cracking? $1 Trillion Wiped Out in Korea — And It&#x27;s Spreading</a></h3>
+    <div class="zh-headline">AI芯片贸易真的出现裂痕吗？韩国损失 1 万亿美元——而且还在蔓延</div>
+    <p class="summary">Four separate chip-stock selloffs. A combined $1 trillion wiped off Korea’s top four chipmakers. If you’re wondering whether the AI trade has hit a wall , you are not alone. See the chart and price action here. The Pattern Is Getting Hard to Ignore This isn’t a one-off panic.</p>
+    <p class="zh-summary">四次独立的芯片股抛售。韩国四大芯片制造商的总资产达 1 万亿美元。如果您想知道人工智能行业是否已经碰壁，那么您并不孤单。请参阅此处的图表和价格走势。这种模式越来越难以忽视这并不是一次性的恐慌。</p>
+  </div>
+</article></div></div></section>
+  <section class="stories"><div class="section-kicker">EVIDENCE</div><h2>全球重大新闻</h2><article class="story">
+  <div class="story-number">01</div>
+  <div class="story-content">
+    <div class="meta">NYT · Tue 7/28 11:21 AM ET</div>
+    <h3><a href="https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html" target="_blank" rel="noopener noreferrer">As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks</a></h3>
+    <div class="zh-headline">美国暂停打击，伊朗并不急于恢复停火谈判</div>
+    <p class="summary">Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump and have leverage over the Strait of Hormuz, analysts say.</p>
+    <p class="zh-summary">分析人士称，在战事暂缓之际，伊朗领导人押注他们能够比特朗普总统承受更多痛苦，并对霍尔木兹海峡拥有影响力。</p>
+  </div>
 </article>
-<article>
-  <div class="meta"><span class="symbols">[AMD,ASML,MU,NVDA,SNDK]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/news/politics/26/07/60714419/trump-russia-iran-intelligence-zelensky-netanyahu-dow-oil" target="_blank" rel="noopener">2. Trump Downplays Russia-Iran Intelligence Claims Ahead of Zelensky, Netanyahu Meetings: Dow Futures Fall 56 Points, Oil and Brent Slide</a></h3>
-  <div class="zh-line">特朗普在泽伦斯基和内塔尼亚胡会议之前淡化俄罗斯和伊朗情报部门的说法：道琼斯指数期货下跌 56 点，石油和布伦特原油下滑</div>
-  <p class="summary">Late Monday, U.S. stock futures traded lower and oil prices eased as investors weighed President Donald Trump’s comments on Russia, Iran and the outlook for ongoing conflicts ahead of high-profile White House meetings. Dow futures fell 56.00 points, or 0.11%, to 52,326.00, while S&amp;P 500 futures declined 12.25 points, or 0.16%, to 7,436.00. Nasdaq 100 futures lost 118.25 points, or 0.42%, to 28,071.75 as of around 8:31 p.m. EDT.</p>
-  <p class="zh-summary">周一晚间，由于投资者在备受瞩目的白宫会议之前权衡唐纳德·特朗普总统对俄罗斯、伊朗的言论以及持续冲突的前景，美国股指期货走低，油价下跌。道指期货下跌 56.00 点，或 0.11%，至 52,326.00；标准普尔 500 指数期货下跌 12.25 点，或 0.16%，至 7,436.00。截至晚上 8 点 31 分左右，纳斯达克 100 指数期货下跌 118.25 点，至 28,071.75 点，跌幅 0.42%。美东时间。</p>
+<article class="story">
+  <div class="story-number">02</div>
+  <div class="story-content">
+    <div class="meta">NYT · Tue 7/28 9:06 AM ET</div>
+    <h3><a href="https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html" target="_blank" rel="noopener noreferrer">Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer</a></h3>
+    <div class="zh-headline">乌克兰对伊朗船只的袭击可能使两场战争更加接近</div>
+    <p class="summary">The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.</p>
+    <p class="zh-summary">里海袭击事件是多年来对立的两个国家之间不同寻常的直接交锋。</p>
+  </div>
 </article>
-<article>
-  <div class="meta"><span class="symbols">[DRAM,MU,NVDA,RAM,SKHY]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/etfs/sector-etfs/26/07/60724276/sk-hynix-sandisk-crash-15-as-cxmt-frenzy-sparks-worst-kospi-selloff-memory-etfs-face-fresh-test" target="_blank" rel="noopener">3. SK Hynix, SanDisk Crash 15% as CXMT Frenzy Sparks Worst KOSPI Selloff — Memory ETFs Face Fresh Test</a></h3>
-  <div class="zh-line">CXMT 疯狂引发最严重 KOSPI 抛售，SK 海力士、SanDisk 暴跌 15% — 内存 ETF 面临新考验</div>
-  <p class="summary">South Korean semiconductor stocks suffered their steepest selloff in years, sending shockwaves through memory-focused ETFs as investors reassessed the competitive threat from China’s rapidly advancing memory chip industry following the blockbuster China market debut of ChangXin Memory Technologies (CXMT) .</p>
-  <p class="zh-summary">继长鑫存储技术公司（CXMT）在中国市场首次亮相后，投资者重新评估了中国快速发展的存储芯片行业的竞争威胁，韩国半导体股票遭受了多年来最严重的抛售，对以存储为主的 ETF 造成了冲击。</p>
-</article>
-</section>
-<section><h2>Markets</h2>
-<article>
-  <div class="meta"><span class="symbols">[AMAT,AMD,INTC,MU,NVDA]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/trading-ideas/movers/26/07/60723966/micron-nvidia-amd-on-watch-as-asias-chip-selloff-sends-warning-to-wall-street" target="_blank" rel="noopener">4. Micron, Nvidia, AMD on Watch as Asia's Chip Selloff Sends Warning to Wall Street</a></h3>
-  <div class="zh-line">亚洲芯片抛售向华尔街发出警告，美光、英伟达、AMD 密切关注</div>
-  <p class="summary">The chip-stock bloodbath that started in Seoul overnight is crossing the Pacific — and Wall Street’s premarket screens are flashing red. The Philadelphia Semiconductor Index, tracked by the iShares PHLX SOX Semiconductor Sector Index Fund (NASDAQ: SOXX ) , shed about 2% in the prior session. The trigger was a brutal overnight session in South Korea, where the Kospi slumped 10.8% as Samsung Electronics and SK Hynix — down 13.4% and 14.7%, respectively — got hit by a wave of retail-leverage unwind.</p>
-  <p class="zh-summary">一夜之间在首尔开始的芯片股大屠杀正在跨越太平洋，华尔街的盘前屏幕正在闪烁红色。 iShares PHLX SOX 半导体行业指数基金（纳斯达克股票代码：SOXX）追踪的费城半导体指数在前一交易日下跌约 2%。导火索是韩国昨晚的惨烈交易，韩国综合指数下跌 10.8%，三星电子和 SK 海力士分别下跌 13.4% 和 14.7%，受到零售杠杆平仓浪潮的打击。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[MU,SKHY,SNDK,STX,WDC]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60729392/ai-memory-trade-crumbling-sandisk-micron-western-digital-sk-hynix" target="_blank" rel="noopener">5. The AI Memory Trade Is Crumbling: SanDisk, Micron and Western Digital Extend Brutal Selloff</a></h3>
-  <div class="zh-line">AI内存贸易正在崩溃：闪迪、美光和西部数据继续残酷抛售</div>
-  <p class="summary">Just a month ago, memory was Wall Street’s favorite AI trade. Today, it has become one of the market’s biggest casualties . Since their late-June highs, SanDisk has tumbled over 50%, SK Hynix has dropped about 47%, Micron and Western Digital are each down more than 32%, and Seagate has lost about 30%.</p>
-  <p class="zh-summary">就在一个月前，内存还是华尔街最喜欢的人工智能交易。如今，它已成为市场最大的受害者之一。自 6 月底的高点以来，闪迪已下跌超过 50%，SK 海力士已下跌约 47%，美光和西部数据均下跌超过 32%，希捷下跌约 30%。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[APLD,CLS,DFNS,NVDA,SNDK]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/news/26/07/60714314/nvidia-applied-digital-celestica-sandisk-stocks-to-watch" target="_blank" rel="noopener">6. Nvidia, Applied Digital, Celestica, T3 Defense Corp. and SanDisk: Why These Stocks Are on Investors' Radars Today</a></h3>
-  <div class="zh-line">Nvidia、Applied Digital、Celestica、T3 Defense Corp. 和 SanDisk：为何这些股票如今受到投资者关注</div>
-  <p class="summary">These are the top stocks that gained the attention of retail traders and investors through the day. Nvidia fell 4.99% to close at $196.51, trading between an intraday low of $195.44 and a high of $208.75; the stock has ranged from a 52-week low of $164.07 to a high of $236.54.</p>
-  <p class="zh-summary">这些是全天吸引散户交易者和投资者关注的顶级股票。英伟达跌 4.99%，收于 196.51 美元，盘中低点 195.44 美元，高点 208.75 美元；该股的波动范围从 52 周低点 164.07 美元到高点 236.54 美元。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[CISS,ENLV,INLF,KO,SPWR]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/market-summary/26/07/60725854/dow-jumps-350-points-coca-cola-shares-gain-on-upbeat-earnings" target="_blank" rel="noopener">7. Dow Jumps 350 Points; Coca-Cola Shares Gain On Upbeat Earnings</a></h3>
-  <div class="zh-line">道琼斯指数跃升 350 点；可口可乐股价因乐观盈利而上涨</div>
-  <p class="summary">U.S. stocks traded higher this morning, with the Dow Jones index gaining more than 350 points on Tuesday. Following the market opening Tuesday, the Dow traded up 0.70% to 52,573.32 while the NASDAQ declined 0.69% to 24,759.18. The S&amp;P 500 also fell, dropping, 0.09% to 7,406.76. Consumer staples shares jumped by 3.1% on Tuesday. In trading on Tuesday, information technology stocks fell by 1.7%.</p>
-  <p class="zh-summary">今天上午美国股市走高，道琼斯指数周二上涨超过 350 点。周二开盘后，道琼斯指数上涨 0.70%，至 52,573.32 点；纳斯达克指数下跌 0.69%，至 24,759.18 点。标准普尔 500 指数也下跌，跌幅为 0.09%，至 7,406.76 点。消费必需品股周二上涨 3.1%。周二交易中，信息技术股下跌 1.7%。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[DIA,QQQ,SPY]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/economic-data/26/07/60721291/trumps-zombie-tariffs-are-back-and-top-economist-justin-wolfers-says-its-a-never-ending-24-7-saga" target="_blank" rel="noopener">8. Trump's Zombie Tariffs Are Back— and Top Economist Justin Wolfers Says It's a 'Never-Ending 24/7 Saga'</a></h3>
-  <div class="zh-line">特朗普的僵尸关税卷土重来——顶级经济学家贾斯汀·沃尔弗斯称这是一个“永无休止的 24/7 传奇”</div>
-  <p class="summary">President Donald Trump ’s sweeping import taxes have returned from the dead, earning the moniker “zombie tariffs,” and economists warn the chaotic policy is wreaking havoc on U.S. businesses. Economist Justin Wolfers described the constantly shifting trade directives as a “never-ending 24/7 saga” punishing consumers instead of sparking a manufacturing boom. Experts argue the policy’s design reveals its true intent. Countries deemed “really bad” face a 12.5% tariff, while “merely bad” nations get a 10% rate.</p>
-  <p class="zh-summary">唐纳德·特朗普总统的全面进口税死而复生，赢得了“僵尸关税”的绰号，经济学家警告说，混乱的政策正在对美国企业造成严重破坏。经济学家贾斯汀·沃尔弗斯 (Justin Wolfers) 将不断变化的贸易指令描述为“永无休止的 24/7 传奇”，它不仅没有引发制造业繁荣，反而惩罚了消费者。专家认为，该政策的设计揭示了其真实意图。被认为“非常糟糕”的国家面临 12.5% 的关税，而“非常糟糕”的国家则面临 10% 的关税。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[DRAM,NVDA,QQQ,SKHY,SOXX]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60720465/is-the-ai-boom-a-virtuous-circle-or-a-ponzi-scheme-wall-street-is-split" target="_blank" rel="noopener">9. Is the AI Boom A 'Virtuous Circle' Or a Ponzi Scheme? Wall Street Is Split</a></h3>
-  <div class="zh-line">人工智能热潮是“良性循环”还是庞氏骗局？华尔街分裂</div>
-  <p class="summary">The artificial intelligence boom has sparked a web of interwoven investments, leaving market watchers divided on whether this trend represents a “virtuous circle” of strategic alignment or a perilous tech echo chamber masking true demand. Conversely, Janus Henderson said that these mega-deals are a “virtuous circle” that efficiently aligns builders, suppliers, and customers to meet unprecedented computing demand. However, industry executives maintain that such arrangements solve a genuine capital bottleneck.</p>
-  <p class="zh-summary">人工智能的繁荣引发了一系列相互交织的投资，市场观察人士对于这一趋势是否代表战略联盟的“良性循环”，还是掩盖真实需求的危险的科技回声室产生了分歧。相反，Janus Henderson 表示，这些大型交易是一个“良性循环”，可以有效地协调构建商、供应商和客户，以满足前所未有的计算需求。然而，行业高管坚持认为，这种安排解决了真正的资本瓶颈。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[DIA,QQQ,SPY]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/economic-data/26/07/60715747/is-citadels-surprise-july-rate-hike-call-viable-jim-bianco-says-38-market-odds-mean-its-not-that-far" target="_blank" rel="noopener">10. Is Citadel's Surprise July Rate Hike Call Viable? Jim Bianco Says 38% Market Odds Mean It's 'Not That Far'</a></h3>
-  <div class="zh-line">Citadel 的 7 月份意外加息电话可行吗？ Jim Bianco 表示 38% 的市场赔率意味着“距离还远”</div>
-  <p class="summary">As Wall Street debates whether Citadel Securities ’ call for a surprise Federal Reserve rate hike this week is viable, macro researcher Jim Bianco highlighted that current market pricing showing a 38% probability means the firm’s prediction “is not that far” from reality. Reportedly, Citadel Securities expects Chairman Kevin Warsh to deliver a surprise quarter-point rate hike on Wednesday to reinforce price stability and establish central bank independence.</p>
-  <p class="zh-summary">在华尔街争论 Citadel 证券本周美联储意外加息的呼吁是否可行时，宏观研究员吉姆·比安科 (Jim Bianco) 强调，当前市场定价显示的可能性为 38%，这意味着该公司的预测与现实“相差不远”。据报道，Citadel 证券预计董事长凯文·沃什 (Kevin Warsh) 将在周三出人意料地加息 25 个基点，以加强价格稳定并建立央行独立性。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[IQQ,QNDX,QQQ,QQQM]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60710855/blackrock-nasdaq-etf-challenger-is-growing-but-qqq-still-pulls-300x-more-inflows" target="_blank" rel="noopener">11. BlackRock’s Nasdaq ETF Challenger Is Growing — But QQQ Still Pulls 300× More Inflows</a></h3>
-  <div class="zh-line">贝莱德纳斯达克 ETF 挑战者规模不断壮大，但 QQQ 的资金流入量仍增加 300 倍</div>
-  <p class="summary">However, the numbers also underscore just how difficult it is to dislodge one of the world’s largest ETFs. Trading activity painted an even starker picture. Taking the example of July 24, while about $22 million worth of IQQ shares changed hands on July 24, QQQ traded nearly $29.4 billion, highlighting the liquidity advantage that continues to attract institutional investors. For long-term investors, lower fees can translate into meaningful savings over time, particularly on large portfolios.</p>
-  <p class="zh-summary">然而，这些数字也凸显了驱逐全球最大 ETF 之一的难度。交易活动描绘出更加严峻的景象。以7月24日为例，虽然7月24日价值约2200万美元的IQQ股票易手，但QQQ的交易额接近294亿美元，凸显了持续吸引机构投资者的流动性优势。对于长期投资者来说，随着时间的推移，较低的费用可以转化为有意义的节省，特别是对于大型投资组合。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[MU,NVDA,PSI,SKHY,SMH]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60715404/china-chip-fears-nvidia-sk-hynix-micron-memory-stocks-etfs" target="_blank" rel="noopener">12. More Than $1 Trillion Wiped Out as China Chip Fears Slam Nvidia, SK Hynix, Micron and Memory Stocks: ETFs to Watch</a></h3>
-  <div class="zh-line">英伟达、SK 海力士、美光和内存股因中国芯片担忧重挫，损失超过 1 万亿美元：值得关注的 ETF</div>
-  <p class="summary">More than $1 trillion was wiped from U.S. stocks on Monday, with over half of the losses concentrated in just six memory-related names as investors dumped the sector on fears that China could expand domestic chip production. Together, the six companies erased approximately $541 billion in market capitalization during Monday’s selloff. The development is expected to help Chinese chipmakers expand manufacturing capacity using homegrown equipment, fueling concerns over future memory-chip supply and pricing.</p>
-  <p class="zh-summary">周一，美国股市蒸发了超过 1 万亿美元，其中一半以上的损失集中在六只与内存相关的股票上，投资者因担心中国可能扩大国内芯片产量而抛售该行业。在周一的抛售中，这六家公司的市值总计蒸发了约 5,410 亿美元。这一进展预计将帮助中国芯片制造商利用国产设备扩大制造能力，引发人们对未来存储芯片供应和定价的担忧。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[COWG,DRAM,MU,RPG,SKHY]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60718731/sandisk-stock-extends-losses-as-ai-memory-trade-unravels" target="_blank" rel="noopener">13. Sandisk Stock Extends Losses As AI Memory Trade Unravels</a></h3>
-  <div class="zh-line">随着人工智能内存贸易的破裂，Sandisk 股票扩大跌幅</div>
-  <p class="summary">The weakness followed another sharp decline in SK hynix Inc. (NASDAQ: SKHY ) , which dropped 7.47% on Monday, extending a sector-wide selloff that has swept through AI memory names. Micron Technology Inc. (NASDAQ: MU ) also fell more than 5% in Tuesday’s premarket session. Nasdaq futures fell 0.81% before the opening bell, while S&amp;P 500 futures slipped 0.08%, adding to pressure on high-growth semiconductor stocks.</p>
-  <p class="zh-summary">继SK海力士公司（纳斯达克股票代码：SKHY）再次大幅下跌之后，该公司周一下跌了7.47%，延续了席卷人工智能存储器品牌的全行业抛售。美光科技公司（纳斯达克股票代码：MU）在周二盘前交易中也下跌超过 5%。纳斯达克期货开盘前下跌0.81%，标准普尔500指数期货下跌0.08%，加大了高增长半导体股的压力。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[MU,SKHY]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60716500/why-is-sk-hynix-stock-falling-tuesday" target="_blank" rel="noopener">14. Why Is SK hynix Stock Falling Tuesday?</a></h3>
-  <div class="zh-line">为什么SK海力士股价周二下跌？</div>
-  <p class="summary">The stock has shifted from one of the hottest AI memory trades to a major test of investor confidence as concerns over crowded positioning, China competition, and hyperscaler spending weigh on the sector. Pictet Asset Management’s Andy Wong said investors are debating whether memory makers are capturing too much of the AI supply-chain economics. He said the market wants to see whether anything changes the perception that SK Hynix is extracting excessive margin from customers.</p>
-  <p class="zh-summary">由于对该行业的拥挤定位、中国竞争和超大规模支出的担忧，该股已从最热门的人工智能内存交易之一转变为投资者信心的重大考验。 Pictet Asset Management 的 Andy Wong 表示，投资者正在争论内存制造商是否在人工智能供应链经济中占据了太多份额。他表示，市场希望看看是否有任何事情可以改变人们对 SK 海力士从客户那里榨取过多利润的看法。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[MU,SKHY,SOXQ,SOXX,SPMO]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60717287/why-is-micron-technology-stock-falling-tuesday-3" target="_blank" rel="noopener">15. Why Is Micron Technology Stock Falling Tuesday?</a></h3>
-  <div class="zh-line">为什么美光科技股票周二下跌？</div>
-  <p class="summary">Micron remains one of the biggest beneficiaries of the AI memory boom, but recent price action suggests investors are reassessing how long strong high-bandwidth memory (HBM) demand, pricing power and hyperscaler spending can sustain the sector’s rally. Investor sentiment also deteriorated after reports of China’s progress in deep ultraviolet lithography machines raised concerns about future memory-chip supply and increased competition.</p>
-  <p class="zh-summary">美光仍然是人工智能内存繁荣的最大受益者之一，但最近的价格走势表明投资者正在重新评估强劲的高带宽内存（HBM）需求、定价能力和超大规模支出能够维持该行业的涨势多久。有关中国在深紫外光刻机方面取得进展的报道引发了人们对未来存储芯片供应和竞争加剧的担忧，投资者情绪也随之恶化。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[BMY,GSK,MDT,NVDA]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/trading-ideas/dividends/26/07/60720372/wall-streets-most-accurate-analysts-spotlight-on-3-health-care-stocks-delivering-high-dividend-yields-12" target="_blank" rel="noopener">16. Wall Street's Most Accurate Analysts Spotlight On 3 Health Care Stocks Delivering High-Dividend Yields</a></h3>
-  <div class="zh-line">华尔街最准确的分析师重点关注三只提供高股息收益率的医疗保健股</div>
-  <p class="summary">During times of turbulence and uncertainty in the markets, many investors turn to dividend-yielding stocks. These are often companies that have high free cash flows and reward shareholders with a high dividend payout . Below are the ratings of the most accurate analysts for three high-yielding stocks in the health care sector. Benzinga readers can review the latest analyst takes on their favorite stocks by visiting Analyst Stock Ratings page.</p>
-  <p class="zh-summary">在市场动荡和不确定的时期，许多投资者转向派息股票。这些公司通常拥有高自由现金流并以高股息支付回报股东。以下是最准确的分析师对医疗保健行业三只高收益股票的评级。 Benzinga 读者可以访问分析师股票评级页面，查看分析师对他们最喜欢的股票的最新看法。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[BLK,CGGR,FDN,LSGR,META]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/large-cap/26/07/60719573/meta-joins-forces-with-blackrock-to-build-ai-mega-campus-in-el-paso" target="_blank" rel="noopener">17. Meta Joins Forces With BlackRock to Build AI Mega Campus in El Paso</a></h3>
-  <div class="zh-line">Meta 与贝莱德联手在埃尔帕索建设人工智能巨型园区</div>
-  <p class="summary">Meta’s gains came despite a risk-off tone in equity futures as investors positioned ahead of the company’s second-quarter earnings report, due on Wednesday, July 29. The stock is drawing attention as traders weigh expectations for advertising growth, artificial intelligence investments and spending discipline.. Funds managed by BlackRock will own an 80% stake in the venture, while Meta will retain the remaining 20% and lease the entire campus.</p>
-  <p class="zh-summary">尽管股票期货出现避险基调，投资者在该公司将于 7 月 29 日周三发布第二季度收益报告之前进行了布局，但 Meta 的涨幅还是出现了。随着交易员权衡广告增长、人工智能投资和支出纪律的预期，该股引起了人们的关注。贝莱德管理的基金将拥有该合资企业 80% 的股份，而 Meta 将保留剩余的 20% 股份并租赁整个园区。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[IGPT,INTC,SMH,SOXQ]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60716573/intel-stock-is-falling-tuesday-whats-going-on" target="_blank" rel="noopener">18. Intel Stock Is Falling Tuesday: What's Going On?</a></h3>
-  <div class="zh-line">英特尔股价周二下跌：发生了什么？</div>
-  <p class="summary">The stock appeared to be moving lower with the broader semiconductor sector as investors adopted a more cautious stance ahead of the opening bell. The pullback follows a strong 12-month rally and shifts attention to whether Intel can hold key technical support levels. Intel remains in a long-term uptrend, although its intermediate momentum has weakened. The stock is trading about 19% below its 20-day simple moving average (SMA) and 23.1% below its 50-day SMA, suggesting near-term rallies could face resistance.</p>
-  <p class="zh-summary">由于投资者在开盘前采取了更加谨慎的立场，该股似乎随着半导体行业的整体走低而走低。此次回调是在 12 个月的强劲反弹之后出现的，并将人们的注意力转移到英特尔能否守住关键技术支撑位。英特尔仍处于长期上升趋势，尽管其中期动能有所减弱。该股目前较 20 日简单移动平均线 (SMA) 低约 19%，较 50 日简单移动平均线 (SMA) 低 23.1%，表明近期反弹可能面临阻力。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[MU,SKHY]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60716330/sk-hynix-sinks-below-nasdaq-ipo-price-as-china-chip-fears-trigger-memory-stock-rout" target="_blank" rel="noopener">19. SK Hynix Sinks Below Nasdaq IPO Price as China Chip Fears Trigger Memory Stock Rout</a></h3>
-  <div class="zh-line">SK海力士股价跌破纳斯达克IPO价格，因中国芯片市场担忧引发内存股暴跌</div>
-  <p class="summary">The South Korean chipmaker fell as much as 10% to $139.01 on Monday, dropping below its $149 IPO price for the first time since the company’s $26.5 billion U.S. listing earlier this month. The drop extended a sharp reversal for one of the biggest winners of the AI boom, with investors accelerating their exit from semiconductor stocks amid mounting concerns over AI infrastructure spending and future demand.</p>
-  <p class="zh-summary">这家韩国芯片制造商周一股价下跌 10%，至 139.01 美元，自本月早些时候以 265 亿美元的资金在美国上市以来，首次跌破 149 美元的 IPO 价格。此次下跌延续了人工智能热潮最大赢家之一的急剧逆转，由于对人工智能基础设施支出和未来需求的担忧日益加剧，投资者加速退出半导体股票。</p>
-</article>
-<article>
-  <div class="meta"><span class="symbols">[MU,SKHY,SNDK,SSNLF,WDC]</span><span>benzinga</span></div>
-  <h3><a href="https://www.benzinga.com/markets/tech/26/07/60695546/micron-sk-hynix-hbm-china-memory-competition-exclusive-interview" target="_blank" rel="noopener">20. EXCLUSIVE: China Is Coming For SanDisk—But Not Yet For Micron’s Memory Crown (CORRECTED)</a></h3>
-  <div class="zh-line">独家报道：中国正在为 SanDisk 而来，但尚未为 Micron 的内存皇冠而来（已更正）</div>
-  <p class="summary">Editor’s Note: This story has been corrected to remove an inaccurate company reference. China, however, is making rapid progress in commodity DRAM and NAND . That’s according to Counterpoint Research analyst MS Hwang , who told Benzinga in an interview that “Chinese vendors are catching up quickly in commodity DRAM and NAND. Yet, the HBM is difficult to catch up.” He added: “I think China vendors can manufacture HBM3 in 1H 2027.”</p>
-  <p class="zh-summary">编者注：本文已更正，删除了不准确的公司参考信息。然而，中国在商品 DRAM 和 NAND 领域正在快速进步。 Counterpoint Research 分析师 MS Hwang 在接受 Benzinga 采访时表示，“中国供应商在商品 DRAM 和 NAND 领域正在快速追赶。然而，HBM 很难追赶。”他补充道：“我认为中国供应商可以在 2027 年上半年生产 HBM3。”</p>
-</article>
-</section>
-<footer>
-  Generated 2026-07-28 15:01 UTC · Refreshes hourly · Notifications at 9:30 AM and 4:30 PM ET
-</footer>
+<article class="story">
+  <div class="story-number">03</div>
+  <div class="story-content">
+    <div class="meta">NPR · Tue 7/28 7:26 AM ET</div>
+    <h3><a href="https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption" target="_blank" rel="noopener noreferrer">Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation</a></h3>
+    <div class="zh-headline">特朗普将与泽连斯基、内塔尼亚胡会面。而且，TPS 持有者可能很快就会面临驱逐出境</div>
+    <p class="summary">President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.</p>
+    <p class="zh-summary">特朗普总统定于今天与乌克兰领导人弗拉基米尔·泽连斯基和以色列总理本杰明·内塔尼亚胡分别举行会议。而且，临时保护身份持有者可能很快就会面临被驱逐出境。</p>
+  </div>
+</article></section>
+  <footer>Generated 2026-07-28 11:42 AM ET · America/New_York<br>
+  行情可能延迟；利好/利空判断基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
+</div>
 </body>
 </html>

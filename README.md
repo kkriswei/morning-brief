@@ -1,103 +1,138 @@
-# Morning Brief
+# Evidence-First Market Brief
 
-Daily market + world news digest. Generated every morning at 9 AM ET, delivered three ways:
+A bilingual US-market and world-news brief delivered as a PWA and through ntfy.
 
-1. **Web app (PWA)** — installable on iPhone/Android home screen
-2. **Push notification** — via [ntfy.sh](https://ntfy.sh) to your phone
-3. **Plain HTML** — viewable at the GitHub Pages URL
+The market section no longer treats a popular headline as the reason stocks moved. Every run now follows this order:
 
-Each story has an English summary (2-4 sentences) with the Chinese translation underneath for language practice. Stories are split into "World" (NYT/BBC/NPR top headlines) and "Markets" (Alpaca news feed, ranked for market impact).
+1. Fetch comparable daily bars for SPY, QQQ, DIA, IWM, major sectors, Treasury/oil/dollar ETF proxies, SPCX, and MRVL.
+2. Select the latest **completed** US trading session in `America/New_York`.
+3. Fetch up to ten pages of Alpaca/Benzinga news plus independent market and primary-data feeds.
+4. Match stories to the same session, actual index direction, broad-market language, and catalyst category.
+5. Produce a Chinese bullish/bearish overview from actual breadth, not headline tone.
+6. Group only the strongest stories into sector buckets, then render SPCX/SpaceX-related and MRVL news in dedicated sections.
+7. Show source links and confidence. If evidence is insufficient, the brief says so instead of inventing a cause.
 
-## Setup
+## Brief structure
 
-### 1. Create the repo
+1. **今日总览** — `偏利好`, `偏利空`, `中性偏利好/利空`, or `中性分化`, backed by the four broad-index proxies and sector breadth.
+2. **板块核心新闻** — up to two high-signal stories per selected sector, such as semiconductors, technology/AI, financials, energy, macro/rates, consumer, healthcare, and industrials.
+3. **SPCX / SpaceX 相关** — SPCX quote plus stories matching the SPCX symbol or SpaceX, Starlink, and Starship keywords. Related SpaceX coverage is not automatically described as direct SPCX fundamentals.
+4. **MRVL · Marvell** — an independent MRVL quote and dedicated Marvell/semiconductor news list.
+5. **全球重大新闻** — kept separate so world stories cannot be misrepresented as the cause of a US-market move.
 
-```bash
-cd ~/Desktop/News
-git init
-git add .
-git commit -m "Initial commit"
-```
+## Data sources
 
-Then on GitHub, create a new **public** repo called `morning-brief` (or any name) and push:
+### Market prices
 
-```bash
-git remote add origin https://github.com/<your-username>/morning-brief.git
-git branch -M main
-git push -u origin main
-```
+- Alpaca historical daily bars.
+- Delayed consolidated SIP data is preferred.
+- IEX single-exchange data is used only as a clearly labeled fallback.
+- SPY, QQQ, DIA, and IWM are ETF proxies for the broad indexes.
 
-### 2. Add secrets
+### Market evidence
 
-In your repo on GitHub: **Settings → Secrets and variables → Actions → New repository secret**.
+- Alpaca/Benzinga, paginated up to 500 articles so Monday can still reach Friday's session.
+- Bloomberg Markets.
+- Financial Times Markets.
+- CNBC Markets.
+- MarketWatch.
+- New York Times Business.
+- BBC Business.
+- Federal Reserve releases.
 
-Add three secrets:
+### World news
 
-| Name | Value |
+- New York Times.
+- BBC.
+- NPR.
+
+One failed feed does not fabricate a replacement. Confidence falls when fewer independent sources are available.
+
+## Schedule
+
+The GitHub Actions workflow runs on weekdays in two Eastern Time windows:
+
+- Around **9:00 AM ET**: explains the latest completed session and adds current overnight news.
+- Around **4:45 PM ET**: explains the just-completed session.
+
+GitHub cron uses UTC. The workflow includes both daylight- and standard-time candidates; `--scheduled` applies an `America/New_York` gate so the duplicate invocation exits without rendering or notifying.
+
+On a market holiday, the duplicate after-close brief is skipped. The morning brief can still summarize the last completed session.
+
+## Delivery
+
+Each successful run can produce:
+
+1. An installable web app in `docs/`.
+2. An ntfy market notification containing the overview verdict, actual index-proxy changes, sector buckets, and dedicated SPCX/MRVL lines.
+3. A separate ntfy world-news notification when qualifying stories exist.
+
+If ntfy delivery fails after the page renders, the workflow remains visibly failed but still commits the updated page. A green workflow is therefore evidence that both generation and delivery completed.
+
+## GitHub setup
+
+Add these repository secrets under **Settings → Secrets and variables → Actions**:
+
+| Secret | Value |
 |---|---|
-| `ALPACA_API_KEY` | Your Alpaca paper-trading key |
-| `ALPACA_API_SECRET` | Your Alpaca paper-trading secret |
-| `NTFY_NEWS_TOPIC` | Any unique ntfy topic name (e.g. `morning-brief-XYZ123`) |
+| `ALPACA_API_KEY` | Alpaca paper/live API key |
+| `ALPACA_API_SECRET` | Matching Alpaca secret |
+| `NTFY_NEWS_TOPIC` | A unique ntfy topic |
 
-### 3. Enable GitHub Pages
+Enable GitHub Pages from the `main` branch and `/docs` directory.
 
-**Settings → Pages**:
-- Source: **Deploy from a branch**
-- Branch: **main** / folder: **`/docs`**
-- Save
+The workflow has `workflow_dispatch`, so it can also be run manually from Actions. A manual run bypasses the schedule gate.
 
-After the first workflow run finishes, your site will be live at:
+## Run locally
 
-```
-https://<your-username>.github.io/morning-brief/
+```bash
+python3 -m venv .venv
+.venv/bin/pip install requests beautifulsoup4
 ```
 
-### 4. Trigger the first run
+Create `.env`:
 
-Go to **Actions → Morning Brief → Run workflow**. Confirm it completes green, then the site is live.
+```text
+ALPACA_API_KEY=...
+ALPACA_API_SECRET=...
+NTFY_NEWS_TOPIC=...
+```
 
-After this, it auto-runs daily at **13:00 UTC** (≈ 9 AM ET, give or take 15 min — GitHub cron is not exact).
+Render with live data but do not send a phone notification:
 
-### 5. Install on your phone
+```bash
+.venv/bin/python morning_brief.py --no-push
+```
 
-**iPhone (Safari):**
-1. Open the GitHub Pages URL in Safari.
-2. Tap the Share button → **Add to Home Screen**.
-3. Done — it appears as an app icon and opens fullscreen.
+Render a clearly synthetic, offline layout preview outside `docs/`:
 
-**Android (Chrome):** look for the install prompt or use the menu → "Install app."
+```bash
+.venv/bin/python morning_brief.py --demo --no-push --output-dir /tmp/market-brief-demo
+```
+
+Render a non-synthetic waiting page without credentials:
+
+```bash
+.venv/bin/python morning_brief.py --placeholder --no-push
+```
+
+Run tests:
+
+```bash
+.venv/bin/python -m unittest discover -s tests -v
+```
+
+## Important limitation
+
+The brief reports delayed market data and evidence-ranked news attribution. `偏利好/偏利空` describes the latest completed session's market breadth; it is not a forecast or a trade instruction. News reports can describe what investors cited, but they cannot prove a single unique cause for every market move. Flat or mixed sessions should often say **“没有单一主导催化剂”**.
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `morning_brief.py` | Main script: fetches news, ranks, scrapes summaries, translates, writes `docs/index.html`, pushes ntfy notifications |
-| `.github/workflows/morning-brief.yml` | GitHub Actions cron job that runs the script and commits any changes to `docs/` |
-| `docs/index.html` | The generated brief (overwritten each run) |
+| `morning_brief.py` | Market bars, news pagination, evidence ranking, translations, HTML, and ntfy |
+| `tests/test_morning_brief.py` | Deterministic session, ranking, pagination, schedule, and render tests |
+| `.github/workflows/morning-brief.yml` | DST-aware weekday morning/close automation |
+| `docs/index.html` | Generated PWA page |
 | `docs/manifest.webmanifest` | PWA manifest |
-| `docs/icon.svg` | App icon |
-
-## Running locally (optional)
-
-If you want to test changes before pushing:
-
-```bash
-python3 -m venv .venv
-.venv/bin/pip install requests beautifulsoup4
-echo 'ALPACA_API_KEY=...'      > .env
-echo 'ALPACA_API_SECRET=...'  >> .env
-echo 'NTFY_NEWS_TOPIC=...'    >> .env
-.venv/bin/python morning_brief.py
-open docs/index.html
-```
-
-## Customization
-
-| Want to change... | Edit |
-|---|---|
-| Fire time | `.github/workflows/morning-brief.yml` `cron:` line (UTC) |
-| Number of articles | `MAX_ARTICLES` in `morning_brief.py` |
-| Summary length | `LEAD_TARGET_CHARS` / `LEAD_MAX_CHARS` |
-| Add/remove RSS feeds | `GENERAL_FEEDS` list |
-| Source ranking | `score_article()` function |
-| Web app theme | CSS variables at top of `HTML_TEMPLATE` |
+| `docs/icon.svg` | PWA icon |

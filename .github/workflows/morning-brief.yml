@@ -1,12 +1,14 @@
 name: Morning Brief
 
 on:
-  # Run every hour at :30 — keeps the website fresh throughout the day so the
-  # PWA shows current news (intraday selloffs, breaking events, etc.).
-  # ntfy push notifications are only sent at 9:30 AM and 4:30 PM ET (the script
-  # decides based on UTC hour). Cron in GH Actions has ±15 min variability.
+  # GitHub cron is UTC-only. Each ET slot has an EDT and EST candidate;
+  # morning_brief.py --scheduled accepts only the invocation inside the local
+  # 09:00 or 16:45 ET window, so the duplicate exits without side effects.
   schedule:
-    - cron: "30 * * * *"
+    - cron: "10 13 * * 1-5"
+    - cron: "10 14 * * 1-5"
+    - cron: "45 20 * * 1-5"
+    - cron: "45 21 * * 1-5"
   # Run on demand from the Actions tab
   workflow_dispatch:
 
@@ -21,7 +23,7 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,16 +35,25 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests beautifulsoup4
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
 
       - name: Generate morning brief
         env:
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
           ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
           NTFY_NEWS_TOPIC: ${{ secrets.NTFY_NEWS_TOPIC }}
-        run: python morning_brief.py
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+            python morning_brief.py --scheduled
+          else
+            python morning_brief.py
+          fi
 
       - name: Commit updated brief
+        if: ${{ always() }}
         run: |
           git config user.name  "morning-brief-bot"
           git config user.email "morning-brief-bot@users.noreply.github.com"
