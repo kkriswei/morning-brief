@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-generated-at="2026-07-28T15:58:32.960695+00:00">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -30,6 +30,8 @@
   }
   h1 { margin: 7px 0 0; font-size: clamp(32px, 7vw, 54px); line-height: 1.05; letter-spacing: -.04em; }
   .date { color: var(--muted); margin-top: 10px; font-size: 14px; }
+  .refresh-status { display: flex; align-items: center; gap: 7px; color: var(--muted); margin-top: 8px; font-size: 12px; }
+  .refresh-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 3px rgba(94, 227, 154, .12); }
   section { padding: 34px 0; border-bottom: 1px solid var(--line); }
   h2 { margin: 7px 0 20px; font-size: 25px; letter-spacing: -.02em; }
   .session-date, .data-note, .confidence, .meta, .move-close, .sector-line, .empty {
@@ -93,6 +95,7 @@
     <div class="eyebrow">EVIDENCE-FIRST · US MARKETS</div>
     <h1>Market Brief</h1>
     <div class="date">Tuesday · July 28, 2026 · 晨间简报</div>
+    <div class="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">网页自动更新 · 每分钟检查</span></div>
   </header>
   <section class="market-pulse"><div class="section-kicker">MARKET PULSE</div><div class="session-date">最近完整交易日 · Monday, July 27, 2026</div><h2>主要指数明显分化</h2><div class="moves"><div class="move"><div class="move-label">S&amp;P 500</div><div class="move-value up">+0.02%</div><div class="move-close">ETF SPY · 739.09</div></div><div class="move"><div class="move-label">Nasdaq 100</div><div class="move-value down">-0.31%</div><div class="move-close">ETF QQQ · 682.12</div></div><div class="move"><div class="move-label">Dow</div><div class="move-value up">+0.48%</div><div class="move-close">ETF DIA · 521.26</div></div><div class="move"><div class="move-label">Russell 2000</div><div class="move-value up">+0.60%</div><div class="move-close">ETF IWM · 292.91</div></div></div><p class="sector-line">领涨：消费 +1.31% · 落后：半导体 -2.25%</p><div class="overview tone-cautious-positive"><div class="overview-kicker">今日总览</div><div class="overview-label">中性偏利好 · 结构分化</div><p>上涨指数数量占优，但并非全面上涨，资金轮动比单一方向更重要。</p><ul><li>四大指数中 3 个上涨、1 个下跌；中位变动 +0.25%。</li><li>领涨 消费 +1.31%；落后 半导体 -2.25%。</li><li>同日核心报道集中在：AI 与半导体、债券与美元。</li></ul></div><div class="explanation"><div class="confidence">新闻归因 · 较高置信度</div><p>主要指数明显分化，没有单一主导催化剂。报道主要集中在AI 与半导体、债券与美元，更像多股力量互相抵消。</p></div><p class="data-note">数据：延迟 SIP 全市场日线。ETF 用作指数代理；新闻归因基于同日来源和方向一致性，不是可证明的唯一因果。</p></section>
   <section class="sector-news"><div class="section-kicker">SECTOR MAP</div><h2>板块核心新闻</h2><p class="section-note">每个板块最多两条；优先同日市场驱动和高质量来源。</p><div class="sector-block"><div class="sector-heading"><h3>半导体</h3><span class="sector-move down">SMH -2.25%</span></div><article class="story">
@@ -219,15 +222,43 @@
 <article class="story">
   <div class="story-number">03</div>
   <div class="story-content">
-    <div class="meta">NPR · Tue 7/28 7:26 AM ET</div>
-    <h3><a href="https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption" target="_blank" rel="noopener noreferrer">Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation</a></h3>
-    <div class="zh-headline">特朗普将与泽连斯基、内塔尼亚胡会面。而且，TPS 持有者可能很快就会面临驱逐出境</div>
-    <p class="summary">President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.</p>
-    <p class="zh-summary">特朗普总统定于今天与乌克兰领导人弗拉基米尔·泽连斯基和以色列总理本杰明·内塔尼亚胡分别举行会议。而且，临时保护身份持有者可能很快就会面临被驱逐出境。</p>
+    <div class="meta">BBC · Tue 7/28 11:45 AM ET</div>
+    <h3><a href="https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Japan earthquake: What we know so far</a></h3>
+    <div class="zh-headline">日本地震：到目前为止我们所知道的</div>
+    <p class="summary">Japan is reeling from the latest major earthquake to hit the country. Many people are trapped inside an Aeon Mall shopping centre after the magnitude 7.1 earthquake hit Kyushu island, the fire service says. The quake has also caused power cuts, damaged roads, collapsed a castle wall and destroyed a footbridge. Information is still coming out of Japan but here is what we know so far.</p>
+    <p class="zh-summary">日本正遭受最近发生的大地震的影响。消防部门称，九州岛发生7.1级地震后，许多人被困在永旺梦乐城购物中心内。地震还造成停电、道路受损、城堡围墙倒塌、人行天桥被毁。日本仍在不断传出信息，但目前我们所知道的情况如下。</p>
   </div>
 </article></section>
-  <footer>Generated 2026-07-28 11:50 AM ET · America/New_York<br>
+  <footer>Generated 2026-07-28 11:58 AM ET · America/New_York<br>
   行情可能延迟；利好/利空判断基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
 </div>
+<script>
+(() => {
+  const currentVersion = document.documentElement.dataset.generatedAt;
+  const statusText = document.getElementById("refresh-status-text");
+
+  async function checkForUpdate() {
+    try {
+      const response = await fetch("status.json?ts=" + Date.now(), { cache: "no-store" });
+      if (!response.ok) return;
+      const status = await response.json();
+      if (status.generated_at && status.generated_at !== currentVersion) {
+        statusText.textContent = "发现新简报，正在刷新…";
+        const nextUrl = new URL(window.location.href);
+        nextUrl.searchParams.set("v", status.generated_at);
+        window.location.replace(nextUrl.toString());
+      }
+    } catch (_error) {
+      // Keep the current brief visible when the network is temporarily unavailable.
+    }
+  }
+
+  checkForUpdate();
+  window.setInterval(checkForUpdate, 60000);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) checkForUpdate();
+  });
+})();
+</script>
 </body>
 </html>
