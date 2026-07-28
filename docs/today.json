@@ -2,6 +2,159 @@
   "date": "2026-07-28",
   "articles": [
     {
+      "author": "Chandrima Sanyal",
+      "content": "",
+      "created_at": "2026-07-28T13:24:47Z",
+      "headline": "SK Hynix, SanDisk Crash 15% as CXMT Frenzy Sparks Worst KOSPI Selloff — Memory ETFs Face Fresh Test",
+      "id": 60724276,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/National-Flag-Of-South-Korea-On-Satin--D.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/National-Flag-Of-South-Korea-On-Satin--D.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/National-Flag-Of-South-Korea-On-Satin--D.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SK Hynix and Samsung plunged as China&#39;s CXMT IPO intensified memory-chip competition fears, putting ETFs exposed to the memory market under pressure.",
+      "symbols": [
+        "DRAM",
+        "MU",
+        "NVDA",
+        "RAM",
+        "SKHY",
+        "SNDK",
+        "SOXL",
+        "SOXS",
+        "SSNLF"
+      ],
+      "updated_at": "2026-07-28T13:24:47Z",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60724276/sk-hynix-sandisk-crash-15-as-cxmt-frenzy-sparks-worst-kospi-selloff-memory-etfs-face-fresh-test",
+      "_summary": "South Korean semiconductor stocks suffered their steepest selloff in years, sending shockwaves through memory-focused ETFs as investors reassessed the competitive threat from China’s rapidly advancing memory chip industry following the blockbuster China market debut of ChangXin Memory Technologies (CXMT) .",
+      "_zh_headline": "CXMT 疯狂引发最严重 KOSPI 抛售，SK 海力士、SanDisk 暴跌 15% — 内存 ETF 面临新考验",
+      "_zh_summary": "继长鑫存储技术公司（CXMT）在中国市场首次亮相后，投资者重新评估了中国快速发展的存储芯片行业的竞争威胁，韩国半导体股票遭受了多年来最严重的抛售，对以存储为主的 ETF 造成了冲击。",
+      "_added_at": "2026-07-28T15:01:01.413431+00:00"
+    },
+    {
+      "author": "Erica Kollmann",
+      "content": "",
+      "created_at": "2026-07-28T13:16:06Z",
+      "headline": "Micron, Nvidia, AMD on Watch as Asia's Chip Selloff Sends Warning to Wall Street",
+      "id": 60723966,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Artificial-Intelligence--Electronic-Chip.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Artificial-Intelligence--Electronic-Chip.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Artificial-Intelligence--Electronic-Chip.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Chip-stocks plunge after brutal overnight session in South Korea, as US semiconductor names extend losses in premarket trading.",
+      "symbols": [
+        "AMAT",
+        "AMD",
+        "INTC",
+        "MU",
+        "NVDA",
+        "SKHY",
+        "SNDK",
+        "SOXX"
+      ],
+      "updated_at": "2026-07-28T13:16:06Z",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60723966/micron-nvidia-amd-on-watch-as-asias-chip-selloff-sends-warning-to-wall-street",
+      "_summary": "The chip-stock bloodbath that started in Seoul overnight is crossing the Pacific — and Wall Street’s premarket screens are flashing red. The Philadelphia Semiconductor Index, tracked by the iShares PHLX SOX Semiconductor Sector Index Fund (NASDAQ: SOXX ) , shed about 2% in the prior session. The trigger was a brutal overnight session in South Korea, where the Kospi slumped 10.8% as Samsung Electronics and SK Hynix — down 13.4% and 14.7%, respectively — got hit by a wave of retail-leverage unwind.",
+      "_zh_headline": "亚洲芯片抛售向华尔街发出警告，美光、英伟达、AMD 密切关注",
+      "_zh_summary": "一夜之间在首尔开始的芯片股大屠杀正在跨越太平洋，华尔街的盘前屏幕正在闪烁红色。 iShares PHLX SOX 半导体行业指数基金（纳斯达克股票代码：SOXX）追踪的费城半导体指数在前一交易日下跌约 2%。导火索是韩国昨晚的惨烈交易，韩国综合指数下跌 10.8%，三星电子和 SK 海力士分别下跌 13.4% 和 14.7%，受到零售杠杆平仓浪潮的打击。",
+      "_added_at": "2026-07-28T15:01:01.413431+00:00"
+    },
+    {
+      "author": "Piero Cingari",
+      "content": "",
+      "created_at": "2026-07-28T14:43:44Z",
+      "headline": "The AI Memory Trade Is Crumbling: SanDisk, Micron and Western Digital Extend Brutal Selloff",
+      "id": 60729392,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Sandisk-Company-Logo---EK.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Sandisk-Company-Logo---EK.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Sandisk-Company-Logo---EK.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "SanDisk, Micron and Western Digital have lost up to 52% since June. Is China ending the AI memory boom, or is Wall Street overreacting?",
+      "symbols": [
+        "MU",
+        "SKHY",
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "updated_at": "2026-07-28T14:43:44Z",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60729392/ai-memory-trade-crumbling-sandisk-micron-western-digital-sk-hynix",
+      "_summary": "Just a month ago, memory was Wall Street’s favorite AI trade. Today, it has become one of the market’s biggest casualties . Since their late-June highs, SanDisk has tumbled over 50%, SK Hynix has dropped about 47%, Micron and Western Digital are each down more than 32%, and Seagate has lost about 30%.",
+      "_zh_headline": "AI内存贸易正在崩溃：闪迪、美光和西部数据继续残酷抛售",
+      "_zh_summary": "就在一个月前，内存还是华尔街最喜欢的人工智能交易。如今，它已成为市场最大的受害者之一。自 6 月底的高点以来，闪迪已下跌超过 50%，SK 海力士已下跌约 47%，美光和西部数据均下跌超过 32%，希捷下跌约 30%。",
+      "_added_at": "2026-07-28T15:01:01.413431+00:00"
+    },
+    {
+      "author": "Avi Kapoor",
+      "content": "",
+      "created_at": "2026-07-28T13:50:43Z",
+      "headline": "Dow Jumps 350 Points; Coca-Cola Shares Gain On Upbeat Earnings",
+      "id": 60725854,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Tallinn--Estonia---August-4th-2023---Scr.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Dow Jones up 350 points, NASDAQ down. Coca-Cola shares rise 6% after better-than-expected earnings. Oil down 2.2% and gold down 1.2%.",
+      "symbols": [
+        "CISS",
+        "ENLV",
+        "INLF",
+        "KO",
+        "SPWR",
+        "WLDS",
+        "YYAI"
+      ],
+      "updated_at": "2026-07-28T13:50:43Z",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60725854/dow-jumps-350-points-coca-cola-shares-gain-on-upbeat-earnings",
+      "_summary": "U.S. stocks traded higher this morning, with the Dow Jones index gaining more than 350 points on Tuesday. Following the market opening Tuesday, the Dow traded up 0.70% to 52,573.32 while the NASDAQ declined 0.69% to 24,759.18. The S&P 500 also fell, dropping, 0.09% to 7,406.76. Consumer staples shares jumped by 3.1% on Tuesday. In trading on Tuesday, information technology stocks fell by 1.7%.",
+      "_zh_headline": "道琼斯指数跃升 350 点；可口可乐股价因乐观盈利而上涨",
+      "_zh_summary": "今天上午美国股市走高，道琼斯指数周二上涨超过 350 点。周二开盘后，道琼斯指数上涨 0.70%，至 52,573.32 点；纳斯达克指数下跌 0.69%，至 24,759.18 点。标准普尔 500 指数也下跌，跌幅为 0.09%，至 7,406.76 点。消费必需品股周二上涨 3.1%。周二交易中，信息技术股下跌 1.7%。",
+      "_added_at": "2026-07-28T15:01:01.413431+00:00"
+    },
+    {
       "author": "Rishabh Mishra",
       "content": "",
       "created_at": "2026-07-28T12:06:12Z",
@@ -574,44 +727,6 @@
       "_summary": "Editor’s Note: This story has been corrected to remove an inaccurate company reference. China, however, is making rapid progress in commodity DRAM and NAND . That’s according to Counterpoint Research analyst MS Hwang , who told Benzinga in an interview that “Chinese vendors are catching up quickly in commodity DRAM and NAND. Yet, the HBM is difficult to catch up.” He added: “I think China vendors can manufacture HBM3 in 1H 2027.”",
       "_zh_headline": "独家报道：中国正在为 SanDisk 而来，但尚未为 Micron 的内存皇冠而来（已更正）",
       "_zh_summary": "编者注：本文已更正，删除了不准确的公司参考信息。然而，中国在商品 DRAM 和 NAND 领域正在快速进步。 Counterpoint Research 分析师 MS Hwang 在接受 Benzinga 采访时表示，“中国供应商在商品 DRAM 和 NAND 领域正在快速追赶。然而，HBM 很难追赶。”他补充道：“我认为中国供应商可以在 2027 年上半年生产 HBM3。”",
-      "_added_at": "2026-07-28T07:16:40.251028+00:00"
-    },
-    {
-      "author": "Shivdeep Dhaliwal",
-      "content": "",
-      "created_at": "2026-07-28T03:24:00Z",
-      "headline": "SpaceX Stock Slides but Cathie Wood Keeps Buying — Tesla Gets an Ark Boost Too",
-      "id": 60714602,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Ark-Invest-Cathie-Wood.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Ark-Invest-Cathie-Wood.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Ark-Invest-Cathie-Wood.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Ark Invest bought $14.1 million of SpaceX-linked shares and $8.6 million of Tesla stock Monday, July 27, 2026.\n",
-      "symbols": [
-        "ARKK",
-        "ARKQ",
-        "ARKW",
-        "ARKX",
-        "HOOD",
-        "SPCX",
-        "TSLA"
-      ],
-      "updated_at": "2026-07-28T03:24:00Z",
-      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60714602/spacex-stock-slides-but-cathie-wood-keeps-buying-tesla-gets-an-ark-boost-too",
-      "_summary": "The buying came as SpaceX stock continues to slide . The stock remained under pressure despite a successful Starship test flight and Musk’s renewed commitment to Mars, with investors focusing on the potential increase in share supply and the company’s long-term investment strategy. SpaceX shares extended their decline ahead of the Aug. 6 lock-up expiration, when up to 911.5 million shares could become eligible for trading, as investors also awaited the company’s first earnings report as a public company on Aug. 4.",
-      "_zh_headline": "SpaceX 股价下跌，但 Cathie Wood 继续买入——特斯拉也获得了方舟的提振",
-      "_zh_summary": "此次收购是在 SpaceX 股价持续下滑之际进行的。尽管“星舰”试飞成功且马斯克重申了对火星的承诺，但该股仍面临压力，投资者关注的是股票供应的潜在增长和该公司的长期投资策略。 SpaceX 股价在 8 月 6 日禁售期到期之前延续跌势，届时最多有 9.115 亿股股票可能有资格进行交易，投资者还在等待该公司 8 月 4 日作为上市公司发布的第一份收益报告。",
       "_added_at": "2026-07-28T07:16:40.251028+00:00"
     }
   ]
