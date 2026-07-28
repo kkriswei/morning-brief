@@ -2,6 +2,78 @@
   "date": "2026-07-27",
   "articles": [
     {
+      "author": "Ananya Gairola",
+      "content": "",
+      "created_at": "2026-07-28T01:59:28Z",
+      "headline": "Trump Downplays Russia-Iran Intelligence Claims Ahead of Zelensky, Netanyahu Meetings: Dow Futures Fall 56 Points, Oil and Brent Slide",
+      "id": 60714419,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Trump.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Trump.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Trump.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "Trump downplayed Russia-Iran intelligence claims as U.S. stock futures and oil prices fell ahead of meetings with Zelensky and Netanyahu.",
+      "symbols": [
+        "AMD",
+        "ASML",
+        "MU",
+        "NVDA",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-28T01:59:28Z",
+      "url": "https://www.benzinga.com/news/politics/26/07/60714419/trump-russia-iran-intelligence-zelensky-netanyahu-dow-oil",
+      "_summary": "Late Monday, U.S. stock futures traded lower and oil prices eased as investors weighed President Donald Trump’s comments on Russia, Iran and the outlook for ongoing conflicts ahead of high-profile White House meetings. Dow futures fell 56.00 points, or 0.11%, to 52,326.00, while S&P 500 futures declined 12.25 points, or 0.16%, to 7,436.00. Nasdaq 100 futures lost 118.25 points, or 0.42%, to 28,071.75 as of around 8:31 p.m. EDT.",
+      "_zh_headline": "特朗普在泽伦斯基和内塔尼亚胡会议之前淡化俄罗斯和伊朗情报部门的说法：道琼斯指数期货下跌 56 点，石油和布伦特原油下滑",
+      "_zh_summary": "周一晚间，由于投资者在备受瞩目的白宫会议之前权衡唐纳德·特朗普总统对俄罗斯、伊朗的言论以及持续冲突的前景，美国股指期货走低，油价下跌。道指期货下跌 56.00 点，或 0.11%，至 52,326.00；标准普尔 500 指数期货下跌 12.25 点，或 0.16%，至 7,436.00。截至晚上 8 点 31 分左右，纳斯达克 100 指数期货下跌 118.25 点，至 28,071.75 点，跌幅 0.42%。美东时间。",
+      "_added_at": "2026-07-28T03:47:30.346781+00:00"
+    },
+    {
+      "author": "Shivdeep Dhaliwal",
+      "content": "",
+      "created_at": "2026-07-28T01:40:39Z",
+      "headline": "Nvidia, Applied Digital, Celestica, T3 Defense Corp. and SanDisk: Why These Stocks Are on Investors' Radars Today",
+      "id": 60714314,
+      "images": [
+        {
+          "size": "large",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Stock-Market-Sell-off-During-Market-Cras.jpg?width=2048&height=1536"
+        },
+        {
+          "size": "small",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Stock-Market-Sell-off-During-Market-Cras.jpg?width=1024&height=768"
+        },
+        {
+          "size": "thumb",
+          "url": "https://cdn.benzinga.com/files/images/story/2026/07/28/Stock-Market-Sell-off-During-Market-Cras.jpg?width=250&height=187"
+        }
+      ],
+      "source": "benzinga",
+      "summary": "NVDA, APLD, CLS, DFNS, SNDK were among the stocks seen trending among investors on Monday, July 27, 2026.",
+      "symbols": [
+        "APLD",
+        "CLS",
+        "DFNS",
+        "NVDA",
+        "SNDK"
+      ],
+      "updated_at": "2026-07-28T01:40:39Z",
+      "url": "https://www.benzinga.com/news/26/07/60714314/nvidia-applied-digital-celestica-sandisk-stocks-to-watch",
+      "_summary": "These are the top stocks that gained the attention of retail traders and investors through the day. Nvidia fell 4.99% to close at $196.51, trading between an intraday low of $195.44 and a high of $208.75; the stock has ranged from a 52-week low of $164.07 to a high of $236.54.",
+      "_zh_headline": "Nvidia、Applied Digital、Celestica、T3 Defense Corp. 和 SanDisk：为何这些股票如今受到投资者关注",
+      "_zh_summary": "这些是全天吸引散户交易者和投资者关注的顶级股票。英伟达跌 4.99%，收于 196.51 美元，盘中低点 195.44 美元，高点 208.75 美元；该股的波动范围从 52 周低点 164.07 美元到高点 236.54 美元。",
+      "_added_at": "2026-07-28T03:47:30.346781+00:00"
+    },
+    {
       "author": "Piero Cingari",
       "content": "",
       "created_at": "2026-07-27T20:29:46Z",
@@ -720,95 +792,6 @@
       "_zh_headline": "独家：首席执行官表示，继英伟达和 SK 海力士之后，这 3 只人工智能股票可能成为下一个赢家",
       "_zh_summary": "“追随瓶颈，”莱因德在独家电子邮件采访中告诉本辛加。 Rhind 表示，最大的投资机会正在从人工智能处理器本身转向连接、制造和支持它们的技术。 Rhind 认为，继 GPU 和内存之后，网络基础设施是人工智能数据中心的下一个关键限制之一。 “继 GPU 和内存之后，下一个赢家是那些解决如何连接和供电的公司，”他说。",
       "_added_at": "2026-07-27T15:59:20.330416+00:00"
-    },
-    {
-      "author": "Parshwa Turakhiya",
-      "content": "",
-      "created_at": "2026-07-27T14:35:48Z",
-      "headline": "Anthony Scaramucci Comments On Trump-Linked Meme Coin Activity: 'People Smell Corruption'",
-      "id": 60697975,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Scaramucci-Launches-The-Resilience-Lab-T.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Scaramucci-Launches-The-Resilience-Lab-T.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Scaramucci-Launches-The-Resilience-Lab-T.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Anthony Scaramucci says Trump’s memecoin hurt crypto trust but still sees Bitcoin reaching a $10 trillion market cap.",
-      "symbols": [
-        "AVAXUSD",
-        "BTCUSD",
-        "COIN",
-        "CRCL",
-        "ETHUSD",
-        "MSTR",
-        "MU",
-        "SOLUSD",
-        "UBER"
-      ],
-      "updated_at": "2026-07-27T14:35:48Z",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60697975/anthony-scaramucci-comments-on-trump-linked-meme-coin-activity-people-smell-corruption",
-      "_summary": "Skybridge Capital founder Anthony Scaramucci says Donald Trump’s meme coin activity poisoned public trust in crypto at exactly the wrong moment, even as he sees Bitcoin (CRYPTO: BTC) reaching a $10 trillion market cap. Scaramucci made the case on The Wolf Of All Streets podcast that crypto was building genuine public goodwill heading into Trump’s inauguration, then lost it almost immediately.",
-      "_zh_headline": "安东尼·斯卡拉穆奇对与特朗普相关的模因币活动发表评论：“人们闻到了腐败的味道”",
-      "_zh_summary": "Skybridge Capital 创始人 Anthony Scaramucci 表示，唐纳德·特朗普的模因币活动在错误的时刻毒害了公众对加密货币的信任，尽管他认为比特币（CRYPTO：BTC）的市值已达到 10 万亿美元。斯卡拉穆奇在 The Wolf Of All Streets 播客中表示，加密货币正在为特朗普的就职典礼建立真正的公众善意，但随后几乎立即失去了这种善意。",
-      "_added_at": "2026-07-27T15:59:20.330416+00:00"
-    },
-    {
-      "author": "Stjepan Kalinic",
-      "content": "",
-      "created_at": "2026-07-27T12:03:06Z",
-      "headline": "Bond Markets Are Rethinking Big Tech’s $1 Trillion+ a Year for AI",
-      "id": 60691604,
-      "images": [
-        {
-          "size": "large",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Modern-Data-Technology-Center-With-Serve.jpg?width=2048&height=1536"
-        },
-        {
-          "size": "small",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Modern-Data-Technology-Center-With-Serve.jpg?width=1024&height=768"
-        },
-        {
-          "size": "thumb",
-          "url": "https://cdn.benzinga.com/files/images/story/2026/07/27/Modern-Data-Technology-Center-With-Serve.jpg?width=250&height=187"
-        }
-      ],
-      "source": "benzinga",
-      "summary": "Big Tech&#39;s AI capex boom is wiping out free cash flow. Discover how data center spending is changing tech investing forever.",
-      "symbols": [
-        "AMZN",
-        "CLOU",
-        "CRWV",
-        "DTCR",
-        "FIVG",
-        "GOOG",
-        "IGV",
-        "MAGS",
-        "META",
-        "MSFT",
-        "ORCL",
-        "QQQ",
-        "SKYY",
-        "SMH",
-        "SOXX",
-        "TRFK",
-        "VGT",
-        "XLK"
-      ],
-      "updated_at": "2026-07-27T12:03:06Z",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60691604/bond-markets-are-rethinking-big-techs-1-trillion-a-year-for-ai",
-      "_summary": "“Investors are ​underestimating how fundamentally AI is changing the Big Tech business model,” Shay Boloor , chief market strategist at Futurum Equities , said, according to Reuters. “These companies were historically valued as asset-light platforms because ​revenue could scale much faster than capital requirements, but AI is pushing them toward a hybrid model where software, advertising and cloud economics increasingly depend on enormous physical infrastructure spending,” he added.",
-      "_zh_headline": "债券市场正在重新思考大型科技公司每年为人工智能投入超过 1 万亿美元的资金",
-      "_zh_summary": "据路透社报道，Futurum Equities 首席市场策略师 Shay Boloor 表示：“投资者低估了人工智能对大型科技商业模式的根本改变。”他补充道：“这些公司历来被视为轻资产平台，因为收入的增长速度可能远远快于资本需求，但人工智能正在推动它们走向一种混合模式，在这种模式中，软件、广告和云经济越来越依赖于巨大的物理基础设施支出。”",
-      "_added_at": "2026-07-27T12:42:29.399853+00:00"
     }
   ]
 }
