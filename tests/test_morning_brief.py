@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import tempfile
 import unittest
 from datetime import date, datetime, time, timezone
@@ -503,6 +504,20 @@ class ScheduleTests(unittest.TestCase):
             "close",
         )
 
+    def test_web_refresh_gate_is_weekday_market_hours_in_et(self) -> None:
+        self.assertTrue(
+            mb.web_refresh_allowed(datetime(2026, 7, 27, 13, 0, tzinfo=timezone.utc))
+        )
+        self.assertTrue(
+            mb.web_refresh_allowed(datetime(2026, 1, 12, 22, 30, tzinfo=timezone.utc))
+        )
+        self.assertFalse(
+            mb.web_refresh_allowed(datetime(2026, 7, 27, 22, 30, tzinfo=timezone.utc))
+        )
+        self.assertFalse(
+            mb.web_refresh_allowed(datetime(2026, 7, 26, 14, 0, tzinfo=timezone.utc))
+        )
+
 
 class RenderTests(unittest.TestCase):
     def test_demo_render_contains_market_facts_and_responsive_css(self) -> None:
@@ -510,8 +525,10 @@ class RenderTests(unittest.TestCase):
         pulse, assessment, world = mb._demo_payload(now)
         assessment.articles[0]["headline"] = "Market falls <script>alert(1)</script>"
         with tempfile.TemporaryDirectory() as directory:
-            output = mb.render_html(pulse, assessment, world, Path(directory), now)
+            output_dir = Path(directory)
+            output = mb.render_html(pulse, assessment, world, output_dir, now)
             page = output.read_text(encoding="utf-8")
+            status = json.loads((output_dir / "status.json").read_text(encoding="utf-8"))
         self.assertIn("S&amp;P 500", page)
         self.assertIn("-1.19%", page)
         self.assertIn("今日总览", page)
@@ -520,6 +537,11 @@ class RenderTests(unittest.TestCase):
         self.assertIn("半导体", page)
         self.assertIn("SPCX / SpaceX 相关", page)
         self.assertIn("MRVL · Marvell", page)
+        self.assertIn("网页自动更新 · 每分钟检查", page)
+        self.assertIn('fetch("status.json?ts=" + Date.now()', page)
+        self.assertIn("window.setInterval(checkForUpdate, 60000)", page)
+        self.assertEqual(status["generated_at"], now.isoformat())
+        self.assertEqual(status["overview"], "偏利空")
         self.assertIn("@media (max-width: 680px)", page)
         self.assertIn(">Market falls</a>", page)
         self.assertNotIn("<script>alert(1)</script>", page)

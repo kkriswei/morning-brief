@@ -48,9 +48,19 @@ The market section no longer treats a popular headline as the reason stocks move
 
 One failed feed does not fabricate a replacement. Confidence falls when fewer independent sources are available.
 
-## Schedule
+## Hosting and automatic refresh
 
-The GitHub Actions workflow runs on weekdays in two Eastern Time windows:
+The live page is hosted on GitHub Pages at:
+
+https://kkriswei.github.io/morning-brief/
+
+During weekday US-market hours, GitHub Actions silently regenerates the page about every 30 minutes. These website refreshes do not send ntfy notifications. An open browser checks `docs/status.json` every minute and reloads only when a newly generated brief has actually been deployed.
+
+GitHub cron is best-effort and can start a few minutes late. The page therefore shows its generation time instead of claiming real-time data.
+
+## Notification schedule
+
+Phone notifications remain limited to two weekday Eastern Time windows:
 
 - Around **9:00 AM ET**: explains the latest completed session and adds current overnight news.
 - Around **4:45 PM ET**: explains the just-completed session.
@@ -81,7 +91,7 @@ Add these repository secrets under **Settings → Secrets and variables → Acti
 
 Enable GitHub Pages from the `main` branch and `/docs` directory.
 
-The workflow has `workflow_dispatch`, so it can also be run manually from Actions. A manual run bypasses the schedule gate.
+The workflow has `workflow_dispatch`, so it can also be run manually from Actions. A manual run bypasses the schedule gate. Code pushes rebuild the live page without sending a phone notification.
 
 ## Run locally
 
@@ -134,5 +144,6 @@ The brief reports delayed market data and evidence-ranked news attribution. `偏
 | `tests/test_morning_brief.py` | Deterministic session, ranking, pagination, schedule, and render tests |
 | `.github/workflows/morning-brief.yml` | DST-aware weekday morning/close automation |
 | `docs/index.html` | Generated PWA page |
+| `docs/status.json` | Small deployment version marker used by browser auto-refresh |
 | `docs/manifest.webmanifest` | PWA manifest |
 | `docs/icon.svg` | PWA icon |

@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import json
 import os
 import re
 import sys
@@ -1726,7 +1727,7 @@ def _stories_section_html(title: str, articles: list[dict], empty_text: str) -> 
 
 
 HTML_TEMPLATE = Template("""<!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-generated-at="$generated_iso">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -1757,6 +1758,8 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   }
   h1 { margin: 7px 0 0; font-size: clamp(32px, 7vw, 54px); line-height: 1.05; letter-spacing: -.04em; }
   .date { color: var(--muted); margin-top: 10px; font-size: 14px; }
+  .refresh-status { display: flex; align-items: center; gap: 7px; color: var(--muted); margin-top: 8px; font-size: 12px; }
+  .refresh-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 3px rgba(94, 227, 154, .12); }
   section { padding: 34px 0; border-bottom: 1px solid var(--line); }
   h2 { margin: 7px 0 20px; font-size: 25px; letter-spacing: -.02em; }
   .session-date, .data-note, .confidence, .meta, .move-close, .sector-line, .empty {
@@ -1820,6 +1823,7 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     <div class="eyebrow">EVIDENCE-FIRST · US MARKETS</div>
     <h1>Market Brief</h1>
     <div class="date">$date_long · $mode_label</div>
+    <div class="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">网页自动更新 · 每分钟检查</span></div>
   </header>
   $market_section
   $sector_section
@@ -1828,6 +1832,34 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   <footer>Generated $generated_et · America/New_York<br>
   行情可能延迟；利好/利空判断基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
 </div>
+<script>
+(() => {
+  const currentVersion = document.documentElement.dataset.generatedAt;
+  const statusText = document.getElementById("refresh-status-text");
+
+  async function checkForUpdate() {
+    try {
+      const response = await fetch("status.json?ts=" + Date.now(), { cache: "no-store" });
+      if (!response.ok) return;
+      const status = await response.json();
+      if (status.generated_at && status.generated_at !== currentVersion) {
+        statusText.textContent = "发现新简报，正在刷新…";
+        const nextUrl = new URL(window.location.href);
+        nextUrl.searchParams.set("v", status.generated_at);
+        window.location.replace(nextUrl.toString());
+      }
+    } catch (_error) {
+      // Keep the current brief visible when the network is temporarily unavailable.
+    }
+  }
+
+  checkForUpdate();
+  window.setInterval(checkForUpdate, 60000);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) checkForUpdate();
+  });
+})();
+</script>
 </body>
 </html>
 """)
@@ -1882,6 +1914,7 @@ def render_html(
         date_short=local.strftime("%-m/%-d"),
         date_long=local.strftime("%A · %B %-d, %Y"),
         mode_label=_brief_mode(now),
+        generated_iso=now.astimezone(timezone.utc).isoformat(),
         generated_et=local.strftime("%Y-%m-%d %-I:%M %p ET"),
         market_section=_market_section_html(pulse, assessment, overview),
         sector_section=_sector_groups_html(sector_groups, pulse),
@@ -1894,6 +1927,16 @@ def render_html(
     )
     index_path = output_dir / "index.html"
     index_path.write_text(page, encoding="utf-8")
+    status = {
+        "generated_at": now.astimezone(timezone.utc).isoformat(),
+        "generated_et": local.strftime("%Y-%m-%d %-I:%M %p ET"),
+        "market_session": pulse.session_date.isoformat() if pulse.session_date else None,
+        "overview": overview.label_zh,
+    }
+    (output_dir / "status.json").write_text(
+        json.dumps(status, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
     (output_dir / "manifest.webmanifest").write_text(MANIFEST_JSON, encoding="utf-8")
     (output_dir / "icon.svg").write_text(ICON_SVG, encoding="utf-8")
     return index_path
@@ -2032,6 +2075,15 @@ def scheduled_slot(now: datetime) -> str | None:
     return None
 
 
+def web_refresh_allowed(now: datetime) -> bool:
+    """Limit high-frequency page refreshes to weekday US-market hours."""
+    local = now.astimezone(NY_TZ)
+    if local.weekday() >= 5:
+        return False
+    minute_of_day = local.hour * 60 + local.minute
+    return 8 * 60 + 45 <= minute_of_day <= 18 * 60 + 15
+
+
 def news_window(pulse: MarketPulse, now: datetime) -> tuple[datetime, datetime]:
     start = now - timedelta(hours=NEWS_LOOKBACK_HOURS)
     if pulse.session_date:
@@ -2101,6 +2153,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--no-push", action="store_true", help="Render without sending ntfy notifications")
     parser.add_argument("--scheduled", action="store_true", help="Apply ET/DST schedule gate")
+    parser.add_argument(
+        "--web-refresh",
+        action="store_true",
+        help="Apply the weekday ET market-hours gate for silent website updates",
+    )
     parser.add_argument("--demo", action="store_true", help="Render clearly labeled synthetic data without network access")
     parser.add_argument(
         "--placeholder",
@@ -2134,6 +2191,9 @@ def main(argv: list[str] | None = None) -> int:
     slot = scheduled_slot(now) if args.scheduled else None
     if args.scheduled and slot is None:
         print(f"Skipping duplicate/out-of-window scheduled invocation at {now.astimezone(NY_TZ).isoformat()}")
+        return 0
+    if args.web_refresh and not web_refresh_allowed(now):
+        print(f"Skipping out-of-window website refresh at {now.astimezone(NY_TZ).isoformat()}")
         return 0
 
     env = load_env(ENV_PATH)
