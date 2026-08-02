@@ -54,7 +54,9 @@ The live page is hosted on GitHub Pages at:
 
 https://kkriswei.github.io/morning-brief/
 
-During weekday US-market hours, GitHub Actions silently regenerates the page about every 30 minutes. These website refreshes do not send ntfy notifications. An open browser checks `docs/status.json` every minute and reloads only when a newly generated brief has actually been deployed.
+During weekday US-market hours, GitHub Actions silently regenerates the page about every 30 minutes. On Saturday and Sunday, it publishes a weekend news edition about every two hours during daytime ET. The weekend edition keeps Friday as the latest completed market session while refreshing current business, sector, watchlist, and world news.
+
+These website refreshes do not send ntfy notifications. An open browser checks `docs/status.json` every minute and reloads only when a newly generated brief has actually been deployed.
 
 GitHub cron is best-effort and can start a few minutes late. The page therefore shows its generation time instead of claiming real-time data.
 

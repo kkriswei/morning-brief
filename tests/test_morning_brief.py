@@ -504,7 +504,7 @@ class ScheduleTests(unittest.TestCase):
             "close",
         )
 
-    def test_web_refresh_gate_is_weekday_market_hours_in_et(self) -> None:
+    def test_web_refresh_gate_allows_daytime_updates_every_day_in_et(self) -> None:
         self.assertTrue(
             mb.web_refresh_allowed(datetime(2026, 7, 27, 13, 0, tzinfo=timezone.utc))
         )
@@ -514,9 +514,20 @@ class ScheduleTests(unittest.TestCase):
         self.assertFalse(
             mb.web_refresh_allowed(datetime(2026, 7, 27, 22, 30, tzinfo=timezone.utc))
         )
-        self.assertFalse(
+        self.assertTrue(
             mb.web_refresh_allowed(datetime(2026, 7, 26, 14, 0, tzinfo=timezone.utc))
         )
+        self.assertTrue(
+            mb.web_refresh_allowed(datetime(2026, 1, 11, 14, 0, tzinfo=timezone.utc))
+        )
+        self.assertFalse(
+            mb.web_refresh_allowed(datetime(2026, 7, 26, 23, 0, tzinfo=timezone.utc))
+        )
+
+    def test_weekend_refresh_does_not_enable_phone_notification_slots(self) -> None:
+        weekend = datetime(2026, 7, 26, 13, 10, tzinfo=timezone.utc)
+        self.assertIsNone(mb.scheduled_slot(weekend))
+        self.assertEqual(mb._brief_mode(weekend), "周末新闻")
 
 
 class RenderTests(unittest.TestCase):

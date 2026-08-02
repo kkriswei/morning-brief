@@ -8,7 +8,8 @@ timestamp alignment, and confidence are shown explicitly.
 
 The normal scheduled morning run explains the latest completed session.  A
 second after-close run can explain the current session once a completed bar is
-available.  Both runs also include a small world-news section.
+available.  Both runs also include a small world-news section.  Silent weekend
+refreshes publish current news while retaining the latest completed session.
 """
 
 from __future__ import annotations
@@ -1888,7 +1889,10 @@ MANIFEST_JSON = """{
 
 
 def _brief_mode(now: datetime) -> str:
-    return "收盘复盘" if now.astimezone(NY_TZ).time() >= time(16, 30) else "晨间简报"
+    local = now.astimezone(NY_TZ)
+    if local.weekday() >= 5:
+        return "周末新闻"
+    return "收盘复盘" if local.time() >= time(16, 30) else "晨间简报"
 
 
 def render_html(
@@ -2076,10 +2080,8 @@ def scheduled_slot(now: datetime) -> str | None:
 
 
 def web_refresh_allowed(now: datetime) -> bool:
-    """Limit high-frequency page refreshes to weekday US-market hours."""
+    """Limit silent website refreshes to daytime Eastern Time on every day."""
     local = now.astimezone(NY_TZ)
-    if local.weekday() >= 5:
-        return False
     minute_of_day = local.hour * 60 + local.minute
     return 8 * 60 + 45 <= minute_of_day <= 18 * 60 + 15
 
@@ -2156,7 +2158,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--web-refresh",
         action="store_true",
-        help="Apply the weekday ET market-hours gate for silent website updates",
+        help="Apply the daytime ET gate for silent website updates",
     )
     parser.add_argument("--demo", action="store_true", help="Render clearly labeled synthetic data without network access")
     parser.add_argument(
