@@ -14,6 +14,26 @@ def daily_bar(session_date: date, close: float) -> dict:
     return {"t": timestamp.astimezone(timezone.utc).isoformat(), "c": close}
 
 
+def minute_bar(
+    session_date: date,
+    hour: int,
+    minute: int,
+    close: float,
+    volume: int,
+    *,
+    high: float | None = None,
+    low: float | None = None,
+) -> dict:
+    timestamp = datetime.combine(session_date, time(hour, minute), tzinfo=mb.NY_TZ)
+    return {
+        "t": timestamp.astimezone(timezone.utc).isoformat(),
+        "c": close,
+        "h": high if high is not None else close,
+        "l": low if low is not None else close,
+        "v": volume,
+    }
+
+
 def article(
     headline: str,
     source: str,
@@ -100,6 +120,16 @@ class FakeRSSClient:
         return self.Response()
 
 
+class FakeBarClient:
+    def __init__(self, bars: dict[str, list[dict]]):
+        self.bars = bars
+        self.calls: list[dict] = []
+
+    def get(self, _url, *, headers, params, timeout):
+        self.calls.append(dict(params))
+        return FakeResponse({"bars": self.bars, "next_page_token": None})
+
+
 class MarketPulseTests(unittest.TestCase):
     def setUp(self) -> None:
         self.thursday = date(2026, 7, 23)
@@ -151,6 +181,74 @@ class MarketPulseTests(unittest.TestCase):
         pulse = mb.build_market_pulse(raw, now, "sip")
         self.assertFalse(pulse.available)
         self.assertIn("两个可比较", pulse.note)
+
+
+class PremarketPulseTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.prior_session = date(2026, 7, 27)
+        self.premarket_session = date(2026, 7, 28)
+        self.now = datetime(2026, 7, 28, 13, 0, tzinfo=timezone.utc)  # 9 AM EDT
+        moves = {
+            "SPY": mb.MarketMove("SPY", "S&P 500", 600, 598, 0.33, self.prior_session, "broad"),
+            "QQQ": mb.MarketMove("QQQ", "Nasdaq 100", 500, 497, 0.60, self.prior_session, "broad"),
+            "IWM": mb.MarketMove("IWM", "Russell 2000", 220, 219, 0.46, self.prior_session, "broad"),
+            "SMH": mb.MarketMove("SMH", "Semiconductors", 280, 275, 1.82, self.prior_session, "sector"),
+            "MRVL": mb.MarketMove("MRVL", "Marvell", 88, 87, 1.15, self.prior_session, "special"),
+            "SPCX": mb.MarketMove("SPCX", "SPCX", 112, 111, 0.90, self.prior_session, "special"),
+        }
+        self.market_pulse = mb.MarketPulse(
+            self.prior_session, moves, "up", "sip", "test daily bars"
+        )
+
+    def test_builds_delayed_premarket_move_without_splicing_regular_session(self) -> None:
+        raw = {
+            "SPY": [
+                minute_bar(self.prior_session, 18, 0, 601, 900),
+                minute_bar(self.premarket_session, 4, 5, 602, 1_000, high=602.5, low=601.5),
+                minute_bar(self.premarket_session, 8, 40, 606, 2_500, high=607, low=605),
+                minute_bar(self.premarket_session, 9, 30, 610, 50_000),
+            ],
+            "QQQ": [minute_bar(self.premarket_session, 8, 39, 505, 3_000)],
+            "IWM": [minute_bar(self.premarket_session, 8, 38, 219, 1_500)],
+        }
+        premarket = mb.build_premarket_pulse(raw, self.market_pulse, self.now, "sip")
+
+        spy = premarket.moves["SPY"]
+        self.assertTrue(premarket.available)
+        self.assertEqual(spy.price, 606)
+        self.assertEqual(spy.previous_close, 600)
+        self.assertAlmostEqual(spy.change_pct, 1.0)
+        self.assertEqual(spy.volume, 3_500)
+        self.assertEqual(spy.high, 607)
+        self.assertEqual(spy.low, 601.5)
+        self.assertEqual(spy.as_of.astimezone(mb.NY_TZ).time(), time(8, 40))
+        self.assertNotEqual(spy.price, 610)
+        self.assertEqual(premarket.status, "盘前明显分化")
+
+    def test_fetch_uses_one_minute_bars_and_delayed_query_end(self) -> None:
+        client = FakeBarClient(
+            {"SPY": [minute_bar(self.premarket_session, 8, 40, 606, 2_500)]}
+        )
+        premarket = mb.fetch_premarket_pulse(
+            "key", "secret", self.market_pulse, self.now, client=client
+        )
+
+        self.assertTrue(premarket.available)
+        self.assertEqual(client.calls[0]["timeframe"], "1Min")
+        self.assertEqual(client.calls[0]["symbols"], ",".join(mb.PREMARKET_SYMBOLS))
+        self.assertEqual(client.calls[0]["feed"], "sip")
+        self.assertEqual(client.calls[0]["start"], "2026-07-28T08:00:00Z")
+        self.assertEqual(client.calls[0]["end"], "2026-07-28T12:44:00Z")
+
+    def test_regular_session_and_weekends_are_not_labeled_premarket(self) -> None:
+        regular = datetime(2026, 7, 28, 14, 0, tzinfo=timezone.utc)
+        weekend = datetime(2026, 7, 26, 13, 0, tzinfo=timezone.utc)
+        self.assertFalse(
+            mb.build_premarket_pulse({}, self.market_pulse, regular, "sip").active
+        )
+        self.assertFalse(
+            mb.build_premarket_pulse({}, self.market_pulse, weekend, "sip").active
+        )
 
 
 class RankingTests(unittest.TestCase):
@@ -477,9 +575,37 @@ class BriefStructureTests(unittest.TestCase):
         self.assertIn("中性偏利好", title)
         self.assertIn("【今日总览】", body)
         self.assertIn("【板块核心新闻】", body)
-        self.assertIn("半导体 SMH -2.25%", body)
+        self.assertIn("半导体 昨收 SMH -2.25%", body)
         self.assertIn("SPCX / SpaceX 相关", body)
         self.assertIn("MRVL · Marvell", body)
+
+    def test_premarket_notification_uses_extended_hours_prices(self) -> None:
+        now = datetime(2026, 7, 28, 13, 10, tzinfo=timezone.utc)
+        as_of = datetime(2026, 7, 28, 12, 54, tzinfo=timezone.utc)
+        move = mb.PremarketMove(
+            "SPY", "S&P 500", 742.5, 739, 0.47, 125_000, 743, 738.5, as_of
+        )
+        premarket = mb.PremarketPulse(
+            date(2026, 7, 28),
+            {"SPY": move},
+            "盘前偏强",
+            "sip",
+            as_of,
+            "延迟 SIP 全市场 1 分钟成交聚合（至少延迟 16 分钟）",
+        )
+        assessment = mb.DriverAssessment([], "不足", "test", [])
+        messages = mb._notification_messages(
+            self.pulse,
+            assessment,
+            [],
+            now,
+            premarket=premarket,
+        )
+        title, body, _ = messages[0]
+        self.assertIn("Premarket Brief", title)
+        self.assertIn("【盘前行情", body)
+        self.assertIn("SPY $742.50 +0.47%", body)
+        self.assertIn("涨跌相对昨收", body)
 
 
 class ScheduleTests(unittest.TestCase):
@@ -505,6 +631,12 @@ class ScheduleTests(unittest.TestCase):
         )
 
     def test_web_refresh_gate_allows_daytime_updates_every_day_in_et(self) -> None:
+        self.assertFalse(
+            mb.web_refresh_allowed(datetime(2026, 7, 27, 10, 29, tzinfo=timezone.utc))
+        )
+        self.assertTrue(
+            mb.web_refresh_allowed(datetime(2026, 7, 27, 10, 37, tzinfo=timezone.utc))
+        )
         self.assertTrue(
             mb.web_refresh_allowed(datetime(2026, 7, 27, 13, 0, tzinfo=timezone.utc))
         )
@@ -528,6 +660,16 @@ class ScheduleTests(unittest.TestCase):
         weekend = datetime(2026, 7, 26, 13, 10, tzinfo=timezone.utc)
         self.assertIsNone(mb.scheduled_slot(weekend))
         self.assertEqual(mb._brief_mode(weekend), "周末新闻")
+
+    def test_weekday_mode_distinguishes_premarket_from_regular_session(self) -> None:
+        self.assertEqual(
+            mb._brief_mode(datetime(2026, 7, 27, 13, 10, tzinfo=timezone.utc)),
+            "盘前简报",
+        )
+        self.assertEqual(
+            mb._brief_mode(datetime(2026, 7, 27, 13, 30, tzinfo=timezone.utc)),
+            "晨间简报",
+        )
 
 
 class RenderTests(unittest.TestCase):
@@ -556,6 +698,34 @@ class RenderTests(unittest.TestCase):
         self.assertIn("@media (max-width: 680px)", page)
         self.assertIn(">Market falls</a>", page)
         self.assertNotIn("<script>alert(1)</script>", page)
+
+    def test_premarket_render_keeps_extended_hours_separate_from_prior_close(self) -> None:
+        now = datetime(2026, 7, 27, 13, 0, tzinfo=timezone.utc)
+        pulse, assessment, world = mb._demo_payload(now)
+        premarket = mb._demo_premarket(pulse, now)
+        with tempfile.TemporaryDirectory() as directory:
+            output_dir = Path(directory)
+            output = mb.render_html(
+                pulse,
+                assessment,
+                world,
+                output_dir,
+                now,
+                premarket=premarket,
+            )
+            page = output.read_text(encoding="utf-8")
+            status = json.loads((output_dir / "status.json").read_text(encoding="utf-8"))
+
+        self.assertIn("盘前简报", page)
+        self.assertIn("PREMARKET · DELAYED", page)
+        self.assertIn("盘前行情", page)
+        self.assertIn("vs 昨收", page)
+        self.assertIn("成交量为 4:00 AM ET 起盘前累计", page)
+        self.assertIn("最近完整交易日 · Friday, July 24, 2026", page)
+        self.assertEqual(status["mode"], "盘前简报")
+        self.assertTrue(status["premarket"]["active"])
+        self.assertEqual(status["premarket"]["feed"], "sip")
+        self.assertIn("SPY", status["premarket"]["moves"])
 
 
 if __name__ == "__main__":

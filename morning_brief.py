@@ -10,6 +10,8 @@ The normal scheduled morning run explains the latest completed session.  A
 second after-close run can explain the current session once a completed bar is
 available.  Both runs also include a small world-news section.  Silent weekend
 refreshes publish current news while retaining the latest completed session.
+Weekday premarket runs keep the prior close separate from delayed extended-hours
+prices and volume.
 """
 
 from __future__ import annotations
@@ -66,6 +68,10 @@ SECTION_NEWS_LOOKBACK_HOURS = 36
 SUMMARY_TARGET_CHARS = 360
 SUMMARY_MAX_CHARS = 480
 COMPLETED_SESSION_DELAY_MINUTES = 30
+MARKET_DATA_DELAY_MINUTES = 16
+PREMARKET_START_ET = time(4, 0)
+PREMARKET_DISPLAY_START_ET = time(6, 30)
+REGULAR_MARKET_OPEN_ET = time(9, 30)
 
 BROAD_MARKET_SYMBOLS = {
     "SPY": "S&P 500",
@@ -98,6 +104,7 @@ MARKET_SYMBOLS = {
     **CROSS_ASSET_SYMBOLS,
     **SPECIAL_SYMBOLS,
 }
+PREMARKET_SYMBOLS = ("SPY", "QQQ", "IWM", "SMH", "MRVL", "SPCX")
 
 INDEX_TICKERS = set(BROAD_MARKET_SYMBOLS) | {"VIX", "VOO", "VTI"}
 MEGA_CAPS = {
@@ -208,6 +215,37 @@ class MarketPulse:
     def primary_change(self) -> float | None:
         move = self.moves.get("SPY")
         return move.change_pct if move else None
+
+
+@dataclass(frozen=True)
+class PremarketMove:
+    symbol: str
+    label: str
+    price: float
+    previous_close: float
+    change_pct: float
+    volume: int
+    high: float
+    low: float
+    as_of: datetime
+
+
+@dataclass
+class PremarketPulse:
+    session_date: date | None
+    moves: dict[str, PremarketMove] = field(default_factory=dict)
+    status: str = "unavailable"
+    feed: str = "unavailable"
+    as_of: datetime | None = None
+    note: str = "当前不在盘前窗口"
+
+    @property
+    def active(self) -> bool:
+        return self.session_date is not None
+
+    @property
+    def available(self) -> bool:
+        return self.active and bool(self.moves)
 
 
 @dataclass
@@ -817,6 +855,180 @@ def fetch_market_pulse(
     return MarketPulse(
         session_date=None,
         note="行情不可用，暂不判断涨跌原因。" + (" " + " | ".join(errors) if errors else ""),
+    )
+
+
+def _premarket_session_date(now: datetime) -> date | None:
+    local = now.astimezone(NY_TZ)
+    if local.weekday() >= 5:
+        return None
+    if PREMARKET_START_ET <= local.time() < REGULAR_MARKET_OPEN_ET:
+        return local.date()
+    return None
+
+
+def _fetch_intraday_bar_pages(
+    api_key: str,
+    api_secret: str,
+    start: datetime,
+    end: datetime,
+    feed: str,
+    client=requests,
+) -> dict[str, list[dict]]:
+    params: dict[str, str | int] = {
+        "symbols": ",".join(PREMARKET_SYMBOLS),
+        "timeframe": "1Min",
+        "start": start.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "end": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "adjustment": "all",
+        "feed": feed,
+        "sort": "asc",
+        "limit": 10000,
+    }
+    bars: dict[str, list[dict]] = defaultdict(list)
+    page_token: str | None = None
+    for _ in range(4):
+        page_params = dict(params)
+        if page_token:
+            page_params["page_token"] = page_token
+        response = client.get(
+            ALPACA_BARS_URL,
+            headers=_auth_headers(api_key, api_secret),
+            params=page_params,
+            timeout=20,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        for symbol, items in (payload.get("bars") or {}).items():
+            bars[symbol].extend(items or [])
+        page_token = payload.get("next_page_token")
+        if not page_token:
+            break
+    return dict(bars)
+
+
+def _classify_premarket(moves: dict[str, PremarketMove]) -> str:
+    broad_changes = [
+        moves[symbol].change_pct
+        for symbol in ("SPY", "QQQ", "IWM")
+        if symbol in moves
+    ]
+    if not broad_changes:
+        return "盘前数据有限"
+    if max(broad_changes) >= 0.35 and min(broad_changes) <= -0.35:
+        return "盘前明显分化"
+    center = median(broad_changes)
+    if center >= 0.35:
+        return "盘前偏强"
+    if center <= -0.35:
+        return "盘前偏弱"
+    return "盘前波动有限"
+
+
+def build_premarket_pulse(
+    raw_bars: dict[str, list[dict]],
+    market_pulse: MarketPulse,
+    now: datetime,
+    feed: str,
+) -> PremarketPulse:
+    session_date = _premarket_session_date(now)
+    if session_date is None:
+        return PremarketPulse(session_date=None)
+
+    moves: dict[str, PremarketMove] = {}
+    latest_timestamp: datetime | None = None
+    for symbol in PREMARKET_SYMBOLS:
+        prior_move = market_pulse.moves.get(symbol)
+        if not prior_move or prior_move.close <= 0:
+            continue
+        rows: list[tuple[datetime, dict]] = []
+        for bar in raw_bars.get(symbol, []):
+            timestamp = parse_ts(bar.get("t"))
+            if not timestamp or bar.get("c") is None:
+                continue
+            local_timestamp = timestamp.astimezone(NY_TZ)
+            if local_timestamp.date() != session_date:
+                continue
+            if not PREMARKET_START_ET <= local_timestamp.time() < REGULAR_MARKET_OPEN_ET:
+                continue
+            rows.append((timestamp, bar))
+        rows.sort(key=lambda pair: pair[0])
+        if not rows:
+            continue
+
+        as_of, latest = rows[-1]
+        price = float(latest["c"])
+        previous_close = prior_move.close
+        move = PremarketMove(
+            symbol=symbol,
+            label=MARKET_SYMBOLS.get(symbol, symbol),
+            price=price,
+            previous_close=previous_close,
+            change_pct=(price / previous_close - 1) * 100,
+            volume=int(sum(float(bar.get("v") or 0) for _, bar in rows)),
+            high=max(float(bar.get("h") or bar["c"]) for _, bar in rows),
+            low=min(float(bar.get("l") or bar["c"]) for _, bar in rows),
+            as_of=as_of,
+        )
+        moves[symbol] = move
+        if latest_timestamp is None or as_of > latest_timestamp:
+            latest_timestamp = as_of
+
+    feed_note = (
+        f"延迟 SIP 全市场 1 分钟成交聚合（至少延迟 {MARKET_DATA_DELAY_MINUTES} 分钟）"
+        if feed == "sip"
+        else f"IEX 单一交易所 1 分钟成交聚合（至少延迟 {MARKET_DATA_DELAY_MINUTES} 分钟）"
+    )
+    return PremarketPulse(
+        session_date=session_date,
+        moves=moves,
+        status=_classify_premarket(moves),
+        feed=feed,
+        as_of=latest_timestamp,
+        note=feed_note,
+    )
+
+
+def fetch_premarket_pulse(
+    api_key: str,
+    api_secret: str,
+    market_pulse: MarketPulse,
+    now: datetime,
+    client=requests,
+) -> PremarketPulse:
+    session_date = _premarket_session_date(now)
+    if session_date is None:
+        return PremarketPulse(session_date=None)
+
+    start_et = datetime.combine(session_date, PREMARKET_START_ET, tzinfo=NY_TZ)
+    end = now - timedelta(minutes=MARKET_DATA_DELAY_MINUTES)
+    if end <= start_et.astimezone(timezone.utc):
+        return PremarketPulse(
+            session_date=session_date,
+            note=f"盘前刚开始，等待至少延迟 {MARKET_DATA_DELAY_MINUTES} 分钟的数据。",
+        )
+
+    errors: list[str] = []
+    for feed in ("sip", "iex"):
+        try:
+            raw_bars = _fetch_intraday_bar_pages(
+                api_key,
+                api_secret,
+                start_et.astimezone(timezone.utc),
+                end,
+                feed,
+                client=client,
+            )
+            premarket = build_premarket_pulse(raw_bars, market_pulse, now, feed)
+            if premarket.available:
+                return premarket
+            errors.append(f"{feed}: 没有当日盘前成交")
+        except Exception as exc:
+            errors.append(f"{feed}: {exc}")
+            print(f"  Premarket data fetch failed for {feed}: {exc}", file=sys.stderr)
+    return PremarketPulse(
+        session_date=session_date,
+        note="盘前行情暂不可用。" + (" " + " | ".join(errors) if errors else ""),
     )
 
 
@@ -1536,6 +1748,67 @@ def _format_pct(value: float) -> str:
     return f"{value:+.2f}%"
 
 
+def _format_volume(value: int) -> str:
+    if value >= 1_000_000:
+        return f"{value / 1_000_000:.2f}M"
+    if value >= 1_000:
+        return f"{value / 1_000:.1f}K"
+    return str(value)
+
+
+def _premarket_section_html(premarket: PremarketPulse | None) -> str:
+    if premarket is None or not premarket.active:
+        return ""
+    session = premarket.session_date.strftime("%A, %B %-d, %Y")
+    if not premarket.available:
+        return (
+            '<section class="premarket"><div class="section-kicker">PREMARKET · DELAYED</div>'
+            f'<div class="session-date">盘前行情 · {_html_escape(session)}</div>'
+            '<h2>盘前行情暂不可用</h2>'
+            f'<p class="pulse-summary">{_html_escape(premarket.note)}</p></section>'
+        )
+
+    cards: list[str] = []
+    for symbol in PREMARKET_SYMBOLS:
+        move = premarket.moves.get(symbol)
+        if move is None:
+            cards.append(
+                '<div class="premarket-card unavailable">'
+                f'<div class="move-label">{_html_escape(symbol)} · '
+                f'{_html_escape(MARKET_SYMBOLS.get(symbol, symbol))}</div>'
+                '<div class="premarket-empty">暂无当日盘前成交</div>'
+                '</div>'
+            )
+            continue
+        css_class = "up" if move.change_pct > 0 else "down" if move.change_pct < 0 else "flat"
+        move_as_of = move.as_of.astimezone(NY_TZ).strftime("%-I:%M %p ET")
+        cards.append(
+            '<div class="premarket-card">'
+            f'<div class="move-label">{_html_escape(symbol)} · {_html_escape(move.label)}</div>'
+            f'<div class="premarket-price">${move.price:,.2f}</div>'
+            f'<div class="premarket-change {css_class}">{_format_pct(move.change_pct)} vs 昨收</div>'
+            f'<div class="premarket-meta">量 {_format_volume(move.volume)} · '
+            f'区间 ${move.low:,.2f}–${move.high:,.2f}<br>'
+            f'成交截至 {_html_escape(move_as_of)}</div>'
+            '</div>'
+        )
+    as_of = (
+        premarket.as_of.astimezone(NY_TZ).strftime("%-I:%M %p ET")
+        if premarket.as_of else "时间未知"
+    )
+    return (
+        '<section class="premarket">'
+        '<div class="section-kicker">PREMARKET · DELAYED</div>'
+        f'<div class="session-date">盘前行情 · {_html_escape(session)} · 最新成交截至 {_html_escape(as_of)}</div>'
+        f'<h2>{_html_escape(premarket.status)}</h2>'
+        f'<div class="premarket-grid">{"".join(cards)}</div>'
+        f'<p class="data-note">数据：{_html_escape(premarket.note)}。'
+        '涨跌均相对最近完整交易日收盘；成交量为 4:00 AM ET 起盘前累计，'
+        '不可与完整常规交易时段成交量直接比较。</p>'
+        '</section>'
+    )
+
+
 def _sector_move_label_zh(move: MarketMove) -> str:
     for key, symbol in SECTOR_PROXIES.items():
         if symbol == move.symbol:
@@ -1622,7 +1895,11 @@ def _market_section_html(
     )
 
 
-def _sector_groups_html(groups: list[SectorGroup], pulse: MarketPulse) -> str:
+def _sector_groups_html(
+    groups: list[SectorGroup],
+    pulse: MarketPulse,
+    premarket: PremarketPulse | None = None,
+) -> str:
     if not groups:
         return (
             '<section class="sector-news"><div class="section-kicker">SECTOR MAP</div>'
@@ -1634,11 +1911,18 @@ def _sector_groups_html(groups: list[SectorGroup], pulse: MarketPulse) -> str:
     story_number = 1
     for group in groups:
         proxy_html = ""
+        premarket_move = premarket.moves.get(group.proxy_symbol or "") if premarket else None
         move = pulse.moves.get(group.proxy_symbol or "")
-        if move:
+        if premarket_move:
+            css_class = "up" if premarket_move.change_pct > 0 else "down" if premarket_move.change_pct < 0 else "flat"
+            proxy_html = (
+                f'<span class="sector-move {css_class}">盘前 {premarket_move.symbol} '
+                f'{_format_pct(premarket_move.change_pct)}</span>'
+            )
+        elif move:
             css_class = "up" if move.change_pct > 0 else "down" if move.change_pct < 0 else "flat"
             proxy_html = (
-                f'<span class="sector-move {css_class}">{move.symbol} '
+                f'<span class="sector-move {css_class}">昨收 {move.symbol} '
                 f'{_format_pct(move.change_pct)}</span>'
             )
         stories: list[str] = []
@@ -1664,12 +1948,24 @@ def _special_watch_html(
     spec: SpecialWatchSpec,
     pulse: MarketPulse,
     articles: list[dict],
+    premarket: PremarketPulse | None = None,
 ) -> str:
+    premarket_move = premarket.moves.get(spec.symbol) if premarket else None
     move = pulse.moves.get(spec.symbol)
-    if move:
+    if premarket_move:
+        css_class = "up" if premarket_move.change_pct > 0 else "down" if premarket_move.change_pct < 0 else "flat"
+        move_html = (
+            '<div class="special-quote">'
+            '<span class="special-session">盘前</span>'
+            f'<span class="special-price">{premarket_move.price:,.2f}</span>'
+            f'<span class="special-change {css_class}">{_format_pct(premarket_move.change_pct)}</span>'
+            '</div>'
+        )
+    elif move:
         css_class = "up" if move.change_pct > 0 else "down" if move.change_pct < 0 else "flat"
         move_html = (
             '<div class="special-quote">'
+            '<span class="special-session">昨收</span>'
             f'<span class="special-price">{move.close:,.2f}</span>'
             f'<span class="special-change {css_class}">{_format_pct(move.change_pct)}</span>'
             '</div>'
@@ -1701,9 +1997,10 @@ def _special_watch_html(
 def _special_sections_html(
     pulse: MarketPulse,
     special_news: dict[str, list[dict]],
+    premarket: PremarketPulse | None = None,
 ) -> str:
     blocks = "".join(
-        _special_watch_html(spec, pulse, special_news.get(symbol, []))
+        _special_watch_html(spec, pulse, special_news.get(symbol, []), premarket)
         for symbol, spec in SPECIAL_WATCH_SPECS.items()
     )
     return (
@@ -1770,6 +2067,12 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   .move { padding: 15px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
   .move-label { color: var(--muted); font-size: 12px; }
   .move-value { margin: 3px 0 1px; font-size: 22px; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .premarket-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .premarket-card { padding: 16px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
+  .premarket-card.unavailable { display: flex; min-height: 118px; flex-direction: column; justify-content: space-between; }
+  .premarket-price { margin-top: 5px; font-size: 24px; font-weight: 780; font-variant-numeric: tabular-nums; }
+  .premarket-change { margin-top: 1px; font-size: 14px; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .premarket-meta, .premarket-empty { margin-top: 8px; color: var(--muted); font-size: 11px; }
   .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--ink); }
   .sector-line { margin: 13px 0 0; }
   .explanation { margin-top: 22px; padding: 19px 20px; background: var(--surface-2); border-left: 3px solid var(--amber); }
@@ -1803,6 +2106,7 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   .special-quote { display: flex; align-items: baseline; gap: 8px; white-space: nowrap; }
   .special-price { font-size: 19px; font-weight: 750; }
   .special-change { font-size: 13px; font-weight: 750; }
+  .special-session { color: var(--muted); font-size: 10px; letter-spacing: .08em; }
   .special-quote.unavailable { color: var(--muted); font-size: 12px; }
   .special-block .story { grid-template-columns: 24px 1fr; }
   .special-block .story h3 { font-size: 16px; }
@@ -1812,6 +2116,7 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     .wrap { padding: 0 16px; }
     header { padding-top: 30px; }
     .moves { grid-template-columns: repeat(2, 1fr); }
+    .premarket-grid { grid-template-columns: repeat(2, 1fr); }
     .special-grid { grid-template-columns: 1fr; }
     .move-value { font-size: 20px; }
     .story { grid-template-columns: 28px 1fr; }
@@ -1826,12 +2131,13 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     <div class="date">$date_long · $mode_label</div>
     <div class="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">网页自动更新 · 每分钟检查</span></div>
   </header>
+  $premarket_section
   $market_section
   $sector_section
   $special_section
   $world_section
   <footer>Generated $generated_et · America/New_York<br>
-  行情可能延迟；利好/利空判断基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
+  盘前行情至少延迟 16 分钟；收盘复盘基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
 </div>
 <script>
 (() => {
@@ -1892,6 +2198,8 @@ def _brief_mode(now: datetime) -> str:
     local = now.astimezone(NY_TZ)
     if local.weekday() >= 5:
         return "周末新闻"
+    if PREMARKET_START_ET <= local.time() < REGULAR_MARKET_OPEN_ET:
+        return "盘前简报"
     return "收盘复盘" if local.time() >= time(16, 30) else "晨间简报"
 
 
@@ -1904,6 +2212,7 @@ def render_html(
     overview: MarketOverview | None = None,
     sector_groups: list[SectorGroup] | None = None,
     special_news: dict[str, list[dict]] | None = None,
+    premarket: PremarketPulse | None = None,
 ) -> Path:
     output_dir.mkdir(parents=True, exist_ok=True)
     local = now.astimezone(NY_TZ)
@@ -1920,9 +2229,10 @@ def render_html(
         mode_label=_brief_mode(now),
         generated_iso=now.astimezone(timezone.utc).isoformat(),
         generated_et=local.strftime("%Y-%m-%d %-I:%M %p ET"),
+        premarket_section=_premarket_section_html(premarket),
         market_section=_market_section_html(pulse, assessment, overview),
-        sector_section=_sector_groups_html(sector_groups, pulse),
-        special_section=_special_sections_html(pulse, special_news),
+        sector_section=_sector_groups_html(sector_groups, pulse, premarket),
+        special_section=_special_sections_html(pulse, special_news, premarket),
         world_section=_stories_section_html(
             "全球重大新闻",
             world_articles,
@@ -1934,8 +2244,26 @@ def render_html(
     status = {
         "generated_at": now.astimezone(timezone.utc).isoformat(),
         "generated_et": local.strftime("%Y-%m-%d %-I:%M %p ET"),
+        "mode": _brief_mode(now),
         "market_session": pulse.session_date.isoformat() if pulse.session_date else None,
         "overview": overview.label_zh,
+        "premarket": {
+            "active": bool(premarket and premarket.active),
+            "as_of": premarket.as_of.isoformat() if premarket and premarket.as_of else None,
+            "feed": premarket.feed if premarket else "unavailable",
+            "moves": {
+                symbol: {
+                    "price": round(move.price, 4),
+                    "previous_close": round(move.previous_close, 4),
+                    "change_pct": round(move.change_pct, 4),
+                    "volume": move.volume,
+                    "high": round(move.high, 4),
+                    "low": round(move.low, 4),
+                    "as_of": move.as_of.isoformat(),
+                }
+                for symbol, move in (premarket.moves.items() if premarket else [])
+            },
+        },
     }
     (output_dir / "status.json").write_text(
         json.dumps(status, ensure_ascii=False, indent=2) + "\n",
@@ -1954,14 +2282,36 @@ def _notification_messages(
     overview: MarketOverview | None = None,
     sector_groups: list[SectorGroup] | None = None,
     special_news: dict[str, list[dict]] | None = None,
+    premarket: PremarketPulse | None = None,
 ) -> list[tuple[str, str, str | None]]:
     local = now.astimezone(NY_TZ)
-    mode = "Market Close" if _brief_mode(now) == "收盘复盘" else "Morning Brief"
+    brief_mode = _brief_mode(now)
+    if brief_mode == "收盘复盘":
+        mode = "Market Close"
+    elif brief_mode == "盘前简报":
+        mode = "Premarket Brief"
+    else:
+        mode = "Morning Brief"
     overview = overview or build_market_overview(pulse, assessment)
     sector_groups = sector_groups or []
     special_news = special_news or {symbol: [] for symbol in SPECIAL_WATCH_SPECS}
     title = f"{mode} · {overview.label_zh} — {local.strftime('%a %-m/%-d')}"
     lines: list[str] = []
+    if premarket and premarket.available:
+        as_of = (
+            premarket.as_of.astimezone(NY_TZ).strftime("%-I:%M %p ET")
+            if premarket.as_of else "时间未知"
+        )
+        lines.append(f"【盘前行情 · 截至 {as_of}】")
+        for symbol in PREMARKET_SYMBOLS:
+            move = premarket.moves.get(symbol)
+            if move:
+                lines.append(
+                    f"{symbol} ${move.price:,.2f} {_format_pct(move.change_pct)} "
+                    f"量 {_format_volume(move.volume)}"
+                )
+        lines.append(f"{premarket.note}；涨跌相对昨收。")
+
     if pulse.available:
         session = pulse.session_date.strftime("%-m/%-d") if pulse.session_date else ""
         moves = "  ".join(
@@ -1982,11 +2332,14 @@ def _notification_messages(
 
     lines.append("【重点标的】")
     for symbol, spec in SPECIAL_WATCH_SPECS.items():
+        premarket_move = premarket.moves.get(symbol) if premarket else None
         move = pulse.moves.get(symbol)
-        move_text = (
-            f"${move.close:,.2f} {_format_pct(move.change_pct)}"
-            if move else "行情暂不可用"
-        )
+        if premarket_move:
+            move_text = f"盘前 ${premarket_move.price:,.2f} {_format_pct(premarket_move.change_pct)}"
+        elif move:
+            move_text = f"昨收 ${move.close:,.2f} {_format_pct(move.change_pct)}"
+        else:
+            move_text = "行情暂不可用"
         articles = special_news.get(symbol, [])
         lines.append(f"▸ {spec.label_zh}: {move_text}")
         if articles:
@@ -2001,8 +2354,14 @@ def _notification_messages(
     if sector_groups:
         lines.append("【板块核心新闻】")
         for group in sector_groups:
+            premarket_move = premarket.moves.get(group.proxy_symbol or "") if premarket else None
             move = pulse.moves.get(group.proxy_symbol or "")
-            move_text = f" {move.symbol} {_format_pct(move.change_pct)}" if move else ""
+            if premarket_move:
+                move_text = f" 盘前 {premarket_move.symbol} {_format_pct(premarket_move.change_pct)}"
+            elif move:
+                move_text = f" 昨收 {move.symbol} {_format_pct(move.change_pct)}"
+            else:
+                move_text = ""
             lines.append(f"▸ {group.label_zh}{move_text}")
             article = group.articles[0]
             headline = article.get("_zh_headline") or article.get("headline") or ""
@@ -2083,7 +2442,8 @@ def web_refresh_allowed(now: datetime) -> bool:
     """Limit silent website refreshes to daytime Eastern Time on every day."""
     local = now.astimezone(NY_TZ)
     minute_of_day = local.hour * 60 + local.minute
-    return 8 * 60 + 45 <= minute_of_day <= 18 * 60 + 15
+    start_minute = PREMARKET_DISPLAY_START_ET.hour * 60 + PREMARKET_DISPLAY_START_ET.minute
+    return start_minute <= minute_of_day <= 18 * 60 + 15
 
 
 def news_window(pulse: MarketPulse, now: datetime) -> tuple[datetime, datetime]:
@@ -2151,6 +2511,47 @@ def _demo_payload(now: datetime) -> tuple[MarketPulse, DriverAssessment, list[di
     return pulse, assessment, []
 
 
+def _demo_premarket(pulse: MarketPulse, now: datetime) -> PremarketPulse:
+    session_date = _premarket_session_date(now)
+    if session_date is None:
+        return PremarketPulse(session_date=None)
+    demo_changes = {
+        "SPY": 0.42,
+        "QQQ": 0.68,
+        "IWM": -0.18,
+        "SMH": 1.05,
+        "MRVL": 0.91,
+        "SPCX": -0.35,
+    }
+    moves: dict[str, PremarketMove] = {}
+    as_of = now - timedelta(minutes=MARKET_DATA_DELAY_MINUTES)
+    for index, symbol in enumerate(PREMARKET_SYMBOLS, 1):
+        prior = pulse.moves.get(symbol)
+        if not prior:
+            continue
+        change_pct = demo_changes[symbol]
+        price = prior.close * (1 + change_pct / 100)
+        moves[symbol] = PremarketMove(
+            symbol=symbol,
+            label=MARKET_SYMBOLS.get(symbol, symbol),
+            price=price,
+            previous_close=prior.close,
+            change_pct=change_pct,
+            volume=24_000 * index,
+            high=price * 1.002,
+            low=price * 0.998,
+            as_of=as_of,
+        )
+    return PremarketPulse(
+        session_date=session_date,
+        moves=moves,
+        status=_classify_premarket(moves),
+        feed="sip",
+        as_of=as_of,
+        note=f"演示用延迟 SIP 盘前数据（至少延迟 {MARKET_DATA_DELAY_MINUTES} 分钟）",
+    )
+
+
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--no-push", action="store_true", help="Render without sending ntfy notifications")
@@ -2176,7 +2577,15 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.demo:
         pulse, assessment, world_articles = _demo_payload(now)
-        path = render_html(pulse, assessment, world_articles, args.output_dir, now)
+        premarket = _demo_premarket(pulse, now)
+        path = render_html(
+            pulse,
+            assessment,
+            world_articles,
+            args.output_dir,
+            now,
+            premarket=premarket,
+        )
         print(f"Rendered demo site: {path}")
         return 0
 
@@ -2222,6 +2631,15 @@ def main(argv: list[str] | None = None) -> int:
         pulse.status,
         pulse.feed,
     )
+    premarket = fetch_premarket_pulse(api_key, api_secret, pulse, now)
+    if premarket.active:
+        print(
+            "Premarket pulse:",
+            premarket.session_date.isoformat() if premarket.session_date else "unavailable",
+            premarket.status,
+            premarket.feed,
+            f"{len(premarket.moves)} symbols",
+        )
 
     if (
         args.scheduled
@@ -2315,6 +2733,7 @@ def main(argv: list[str] | None = None) -> int:
         overview=overview,
         sector_groups=sector_groups,
         special_news=special_news,
+        premarket=premarket,
     )
     print(f"Rendered site: {index_path}")
 
@@ -2331,6 +2750,7 @@ def main(argv: list[str] | None = None) -> int:
         overview=overview,
         sector_groups=sector_groups,
         special_news=special_news,
+        premarket=premarket,
     ):
         try:
             message_id = push_ntfy(topic, title, body, click_url)
