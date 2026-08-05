@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN" data-generated-at="2026-08-04T22:13:28.179672+00:00">
+<html lang="zh-CN" data-generated-at="2026-08-05T00:06:26.289507+00:00">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -41,6 +41,12 @@
   .move { padding: 15px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
   .move-label { color: var(--muted); font-size: 12px; }
   .move-value { margin: 3px 0 1px; font-size: 22px; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .premarket-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .premarket-card { padding: 16px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
+  .premarket-card.unavailable { display: flex; min-height: 118px; flex-direction: column; justify-content: space-between; }
+  .premarket-price { margin-top: 5px; font-size: 24px; font-weight: 780; font-variant-numeric: tabular-nums; }
+  .premarket-change { margin-top: 1px; font-size: 14px; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .premarket-meta, .premarket-empty { margin-top: 8px; color: var(--muted); font-size: 11px; }
   .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--ink); }
   .sector-line { margin: 13px 0 0; }
   .explanation { margin-top: 22px; padding: 19px 20px; background: var(--surface-2); border-left: 3px solid var(--amber); }
@@ -74,6 +80,7 @@
   .special-quote { display: flex; align-items: baseline; gap: 8px; white-space: nowrap; }
   .special-price { font-size: 19px; font-weight: 750; }
   .special-change { font-size: 13px; font-weight: 750; }
+  .special-session { color: var(--muted); font-size: 10px; letter-spacing: .08em; }
   .special-quote.unavailable { color: var(--muted); font-size: 12px; }
   .special-block .story { grid-template-columns: 24px 1fr; }
   .special-block .story h3 { font-size: 16px; }
@@ -83,6 +90,7 @@
     .wrap { padding: 0 16px; }
     header { padding-top: 30px; }
     .moves { grid-template-columns: repeat(2, 1fr); }
+    .premarket-grid { grid-template-columns: repeat(2, 1fr); }
     .special-grid { grid-template-columns: 1fr; }
     .move-value { font-size: 20px; }
     .story { grid-template-columns: 28px 1fr; }
@@ -97,8 +105,9 @@
     <div class="date">Tuesday · August 4, 2026 · 收盘复盘</div>
     <div class="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">网页自动更新 · 每分钟检查</span></div>
   </header>
+  
   <section class="market-pulse"><div class="section-kicker">MARKET PULSE</div><div class="session-date">最近完整交易日 · Tuesday, August 4, 2026</div><h2>大盘显著上涨</h2><div class="moves"><div class="move"><div class="move-label">S&amp;P 500</div><div class="move-value up">+1.80%</div><div class="move-close">ETF SPY · 771.33</div></div><div class="move"><div class="move-label">Nasdaq 100</div><div class="move-value up">+3.40%</div><div class="move-close">ETF QQQ · 723.85</div></div><div class="move"><div class="move-label">Dow</div><div class="move-value up">+1.73%</div><div class="move-close">ETF DIA · 540.43</div></div><div class="move"><div class="move-label">Russell 2000</div><div class="move-value up">+1.85%</div><div class="move-close">ETF IWM · 301.71</div></div></div><p class="sector-line">领涨：半导体 +5.55% · 落后：能源与原油 -0.46%</p><div class="overview tone-positive"><div class="overview-kicker">今日总览</div><div class="overview-label">偏利好</div><p>主要指数方向向上，风险偏好占优；但仍需看板块是否同步扩散。</p><ul><li>四大指数中 4 个上涨、0 个下跌；中位变动 +1.83%。</li><li>领涨 半导体 +5.55%；落后 能源与原油 -0.46%。</li><li>同日核心报道集中在：地缘政治与贸易政策、AI 与半导体。</li></ul></div><div class="explanation"><div class="confidence">新闻归因 · 较高置信度</div><p>大盘显著上涨。同日市场报道最集中指向地缘政治与贸易政策、AI 与半导体；这是当前证据最一致的解释，不代表唯一因果。</p></div><p class="data-note">数据：延迟 SIP 全市场日线。ETF 用作指数代理；新闻归因基于同日来源和方向一致性，不是可证明的唯一因果。</p></section>
-  <section class="sector-news"><div class="section-kicker">SECTOR MAP</div><h2>板块核心新闻</h2><p class="section-note">每个板块最多两条；优先同日市场驱动和高质量来源。</p><div class="sector-block"><div class="sector-heading"><h3>半导体</h3><span class="sector-move up">SMH +5.55%</span></div><article class="story">
+  <section class="sector-news"><div class="section-kicker">SECTOR MAP</div><h2>板块核心新闻</h2><p class="section-note">每个板块最多两条；优先同日市场驱动和高质量来源。</p><div class="sector-block"><div class="sector-heading"><h3>半导体</h3><span class="sector-move up">昨收 SMH +5.55%</span></div><article class="story">
   <div class="story-number">01</div>
   <div class="story-content">
     <div class="meta">benzinga · Tue 8/4 1:07 PM ET · AAOI, APTV, AVGO, BRKR, CAT<span class="story-badge">核心驱动</span></div>
@@ -116,7 +125,7 @@
     <p class="summary">As AMD prepares to report earnings Tuesday after the bell, market participants face a divergence between positive earnings results and negative price action.</p>
     <p class="zh-summary">AMD 准备在周二盘后公布财报，市场参与者面临着积极的盈利结果和消极的价格走势之间的分歧。</p>
   </div>
-</article></div><div class="sector-block"><div class="sector-heading"><h3>科技与 AI</h3><span class="sector-move up">XLK +4.98%</span></div><article class="story">
+</article></div><div class="sector-block"><div class="sector-heading"><h3>科技与 AI</h3><span class="sector-move up">昨收 XLK +4.98%</span></div><article class="story">
   <div class="story-number">03</div>
   <div class="story-content">
     <div class="meta">NYT Business · Tue 8/4 6:05 PM ET<span class="story-badge">核心驱动</span></div>
@@ -132,16 +141,16 @@
     <h3><a href="https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer">Inside Google’s $200bn Wall Street finance machine for Anthropic</a></h3>
     <div class="zh-headline">深入了解 Google 为 Anthropic 打造的价值 2000 亿美元的华尔街金融机器</div>
     <p class="summary">Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Access to eight surprising articles a day, hand-picked by FT editors. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.</p>
-    <p class="zh-summary">在任何设备上以数字方式完整访问高质量的《金融时报》新闻。试用期间随时取消。每天阅读由《金融时报》编辑精心挑选的八篇令人惊叹的文章。在任何设备上以数字方式获取优质《金融时报》新闻报道的必要条件。预付一年费用可节省 20%。通过行业领导者的专家分析，以完整的数字方式获取高质量的《金融时报》新闻。预付一年费用可节省 20%。</p>
+    <p class="zh-summary">在任何设备上以数字方式完整访问高质量的《金融时报》新闻。试用期间随时取消。每天阅读由《金融时报》编辑精心挑选的八篇令人惊叹的文章。在任何设备上获取高质量《金融时报》新闻的基本数字访问权限。预付一年费用可节省 20%。通过行业领导者的专家分析，以完整的数字方式获取高质量的《金融时报》新闻。预付一年费用可节省 20%。</p>
   </div>
-</article></div><div class="sector-block"><div class="sector-heading"><h3>工业与国防</h3><span class="sector-move up">XLI +1.77%</span></div><article class="story">
+</article></div><div class="sector-block"><div class="sector-heading"><h3>工业与国防</h3><span class="sector-move up">昨收 XLI +1.77%</span></div><article class="story">
   <div class="story-number">05</div>
   <div class="story-content">
     <div class="meta">Financial Times Markets · Tue 8/4 4:06 PM ET<span class="story-badge">核心驱动</span></div>
     <h3><a href="https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer">US stocks jump after Bessent says deal to reopen Hormuz is imminent</a></h3>
     <div class="zh-headline">贝森特表示即将达成重新开放霍尔木兹海峡的协议后，美国股市上涨</div>
     <p class="summary">Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%. Our digitised version of the FT newspaper, for easy reading on any device.</p>
-    <p class="zh-summary">在任何设备上以数字方式完整访问高质量的《金融时报》新闻。试用期间随时取消。在任何设备上以数字方式获取优质《金融时报》新闻报道的必要条件。预付一年费用可节省 20%。通过行业领导者的专家分析，以完整的数字方式获取高质量的《金融时报》新闻。预付一年费用可节省 20%。我们的《金融时报》数字化版本，可在任何设备上轻松阅读。</p>
+    <p class="zh-summary">在任何设备上以数字方式完整访问高质量的《金融时报》新闻。试用期间随时取消。在任何设备上获取高质量《金融时报》新闻的基本数字访问权限。预付一年费用可节省 20%。通过行业领导者的专家分析，以完整的数字方式获取高质量的《金融时报》新闻。预付一年费用可节省 20%。我们的《金融时报》数字化版本，可在任何设备上轻松阅读。</p>
   </div>
 </article></div><div class="sector-block"><div class="sector-heading"><h3>地缘政治与贸易</h3></div><article class="story">
   <div class="story-number">06</div>
@@ -155,59 +164,59 @@
 </article><article class="story">
   <div class="story-number">07</div>
   <div class="story-content">
-    <div class="meta">NYT Business · Tue 8/4 4:28 PM ET</div>
-    <h3><a href="https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html" target="_blank" rel="noopener noreferrer">Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War</a></h3>
-    <div class="zh-headline">在霍尔木兹海峡工作的水手陷入伊朗战争的交火中</div>
-    <p class="summary">Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.</p>
-    <p class="zh-summary">数千名平民工人仍被困在面临伊朗袭击风险的船只上。其中一艘船上的水手已被伊朗海军扣押了三个多月。</p>
+    <div class="meta">Financial Times Markets · Tue 8/4 12:00 AM ET</div>
+    <h3><a href="https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer">Russia expands shadow LNG fleet to beat EU crackdown</a></h3>
+    <div class="zh-headline">俄罗斯扩大影子液化天然气船队以应对欧盟的打击</div>
+    <p class="summary">Growing number of ships will help Moscow continue exporting liquefied natural gas when sanctions tighten next year</p>
+    <p class="zh-summary">明年制裁收紧时，越来越多的船只将帮助莫斯科继续出口液化天然气</p>
   </div>
 </article></div></section>
-  <section class="special-watch"><div class="section-kicker">FOCUS LIST</div><h2>重点标的独立跟踪</h2><div class="special-grid"><div class="special-block"><div class="special-heading"><h3>SPCX / SpaceX 相关</h3><div class="special-quote"><span class="special-price">125.33</span><span class="special-change up">+9.43%</span></div></div><p class="special-note">同时匹配 SPCX 代码及 SpaceX、Starlink、Starship 关键词；相关报道不自动等同于 SPCX 的直接基本面。</p><article class="story">
+  <section class="special-watch"><div class="section-kicker">FOCUS LIST</div><h2>重点标的独立跟踪</h2><div class="special-grid"><div class="special-block"><div class="special-heading"><h3>SPCX / SpaceX 相关</h3><div class="special-quote"><span class="special-session">昨收</span><span class="special-price">125.33</span><span class="special-change up">+9.43%</span></div></div><p class="special-note">同时匹配 SPCX 代码及 SpaceX、Starlink、Starship 关键词；相关报道不自动等同于 SPCX 的直接基本面。</p><article class="story">
   <div class="story-number">01</div>
   <div class="story-content">
-    <div class="meta">benzinga · Tue 8/4 4:23 PM ET · BTCUSD, SPCX</div>
-    <h3><a href="https://www.benzinga.com/markets/earnings/26/08/60931182/spacex-q2-highlights-double-beat-revenue-up-92-backlog-hits-47-5-billion" target="_blank" rel="noopener noreferrer">SpaceX Q2 Highlights: Double Beat, Revenue Up 92%, Backlog Hits $47.5 Billion</a></h3>
-    <div class="zh-headline">SpaceX 第二季度亮点：双节拍，收入增长 92%，积压订单达到 475 亿美元</div>
-    <p class="summary">Space giant SpaceX (NASDAQ: SPCX ) reported its first quarterly financial results as a public company Tuesday after market close. • What’s driving SPCX stock today? SpaceX Q2 Earnings SpaceX reported second-quarter revenue of $7.81 billion, up 92% year-over-year. The revenue total beat a Street consensus estimate of $6.93 billion according to data from Benzing Pro.</p>
-    <p class="zh-summary">周二收盘后，太空巨头 SpaceX（纳斯达克股票代码：SPCX）公布了其作为上市公司的首个季度财务业绩。 • 今天SPCX 股票的推动因素是什么？ SpaceX 第二季度财报 SpaceX 报告第二季度营收为 78.1 亿美元，同比增长 92%。根据 Benzing Pro 的数据，总收入超过了华尔街普遍预期的 69.3 亿美元。</p>
+    <div class="meta">benzinga · Tue 8/4 6:17 PM ET · ECHO, SPCX, T, TMUS, VZ</div>
+    <h3><a href="https://www.benzinga.com/trading-ideas/movers/26/08/60935870/spacexs-starlink-mobile-plans-to-take-quite-a-few-t-mobile-verizon-att-customers" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink Mobile Plans to Take &#x27;Quite a Few&#x27; T-Mobile, Verizon, AT&amp;T Customers [CORRECTED]</a></h3>
+    <div class="zh-headline">SpaceX 的 Starlink Mobile 计划吸引“相当多”的 T-Mobile、Verizon、AT&amp;T 客户[已更正]</div>
+    <p class="summary">CORRECTION: An earlier version of this attributed Gwynne Stockwell’s quotes to Elon Musk. Space Exploration Technologies Corp.’s (NASDAQ: SPCX ) first earnings was used by the company call to lay out an aggressive vision for Starlink Mobile, telling analysts the EchoStar (NASDAQ: ECHO ) spectrum deal sets up a massive capability jump for direct-to-phone service.</p>
+    <p class="zh-summary">更正：此内容的早期版本将格温·斯托克韦尔 (Gwynne Stockwell) 的引述归因于埃隆·马斯克 (Elon Musk)。 Space Exploration Technologies Corp.（纳斯达克股票代码：SPCX）的第一份财报被公司电话会议用来为 Starlink Mobile 制定了积极的愿景，告诉分析师 EchoStar（纳斯达克股票代码：ECHO）频谱交易将为直接电话服务带来巨大的能力飞跃。</p>
   </div>
 </article><article class="story">
   <div class="story-number">02</div>
   <div class="story-content">
-    <div class="meta">Bloomberg Markets · Tue 8/4 4:21 PM ET</div>
-    <h3><a href="https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-estimates-closing-bell-video" target="_blank" rel="noopener noreferrer">SpaceX Exceeds Estimates in First Earnings Report | Closing Bell</a></h3>
-    <div class="zh-headline">SpaceX 在第一份收益报告中超出了预期结束钟声</div>
-    <p class="summary">Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec.</p>
-    <p class="zh-summary">Romaine Bostick、Carol Massar 和 Tim Stenovec 在彭博电视台、彭博广播电台和 YouTube 上对美国市场进行全面跨平台报道。</p>
+    <div class="meta">Bloomberg Markets · Tue 8/4 7:48 PM ET</div>
+    <h3><a href="https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-revenue-estimates-in-post-ipo-earnings-video" target="_blank" rel="noopener noreferrer">SpaceX exceeds revenue estimates in first earnings report since IPO</a></h3>
+    <div class="zh-headline">SpaceX 自 IPO 以来的首份盈利报告超出了收入预期</div>
+    <p class="summary">SpaceX’s revenue exceeded Wall Street’s expectations in the company’s first quarterly financial report following its blockbuster IPO in June. Ed Ludlow has the info on Elon Musk&#x27;s rocket, satellite and AI conglomerate.</p>
+    <p class="zh-summary">SpaceX 在 6 月份轰动一时的 IPO 后发布的首个季度财务报告中，其收入超出了华尔街的预期。埃德·勒德洛 (Ed Ludlow) 掌握了埃隆·马斯克 (Elon Musk) 的火箭、卫星和人工智能集团的信息。</p>
   </div>
-</article></div><div class="special-block"><div class="special-heading"><h3>MRVL · Marvell</h3><div class="special-quote"><span class="special-price">218.59</span><span class="special-change up">+12.81%</span></div></div><p class="special-note">独立跟踪 MRVL 行情、Marvell 公司新闻和半导体催化剂。</p><article class="story">
+</article></div><div class="special-block"><div class="special-heading"><h3>MRVL · Marvell</h3><div class="special-quote"><span class="special-session">昨收</span><span class="special-price">218.59</span><span class="special-change up">+12.81%</span></div></div><p class="special-note">独立跟踪 MRVL 行情、Marvell 公司新闻和半导体催化剂。</p><article class="story">
   <div class="story-number">01</div>
   <div class="story-content">
-    <div class="meta">benzinga · Tue 8/4 11:50 AM ET · AVGO, FDTX, FTXL, INTC, MRVL</div>
-    <h3><a href="https://www.benzinga.com/markets/tech/26/08/60914959/marvell-stock-surges-10-next-gen-ai-storage-unveiled-ahead-of-q2-earnings" target="_blank" rel="noopener noreferrer">Marvell Stock Surges 10%: Next-Gen AI Storage Unveiled Ahead of Q2 Earnings</a></h3>
-    <div class="zh-headline">Marvell 股价飙升 10%：下一代 AI 存储在第二季度收益公布前发布</div>
-    <p class="summary">(NASDAQ: MRVL ) stock gained by more than 10% on Tuesday after the company unveiled next-generation AI memory and storage infrastructure products at FMS: The Future of Memory and Storage event and announced plans to hold a conference call after releasing second-quarter fiscal 2027 results on Aug. The Nasdaq is up 2.20% while the S&amp;P 500 has gained 1.08%. • Marvell Technology shares are powering higher.</p>
-    <p class="zh-summary">周二，该公司在 FMS：内存和存储的未来活动上推出了下一代人工智能内存和存储基础设施产品，并宣布计划在 8 月发布 2027 财年第二季度业绩后召开电话会议，周二该公司股价上涨超过 10%。纳斯达克指数上涨 2.20%，标准普尔 500 指数上涨 1.08%。 • Marvell Technology 股价走高。</p>
+    <div class="meta">benzinga · Tue 8/4 7:45 PM ET · MRVL</div>
+    <h3><a href="https://www.benzinga.com/news/26/08/60936304/here-s-how-much-you-would-have-made-owning-marvell-technology-stock-last-15-years" target="_blank" rel="noopener noreferrer">Here’s How Much You Would Have Made Owning Marvell Technology Stock In The Last 15 Years</a></h3>
+    <div class="zh-headline">以下是您在过去 15 年中持有 Marvell 科技股票会赚多少钱</div>
+    <p class="summary">Marvell Technology (NASDAQ: MRVL ) has outperformed the market over the past 15 years by 7.68% on an annualized basis producing an average annual return of 21.39%. Currently, Marvell Technology has a market capitalization of $195.54 billion. Buying $100 In MRVL: If an investor had bought $100 of MRVL stock 15 years ago, it would be worth $1,824.62 today based on a price of $217.86 for MRVL at the time of writing.</p>
+    <p class="zh-summary">Marvell Technology（纳斯达克股票代码：MRVL）在过去 15 年中的年化表现优于市场 7.68%，平均年回报率为 21.39%。目前，Marvell科技的市值为1955.4亿美元。购买 100 美元的 MRVL：如果投资者 15 年前购买了 100 美元的 MRVL 股票，那么根据撰写本文时 MRVL 的价格为 217.86 美元，该股票今天的价值为 1,824.62 美元。</p>
   </div>
 </article></div></div></section>
   <section class="stories"><div class="section-kicker">EVIDENCE</div><h2>全球重大新闻</h2><article class="story">
   <div class="story-number">01</div>
   <div class="story-content">
-    <div class="meta">NYT · Tue 8/4 6:00 PM ET</div>
-    <h3><a href="https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html" target="_blank" rel="noopener noreferrer">Inside the Oval Office Showdown Between Trump and Jeanine Pirro</a></h3>
-    <div class="zh-headline">特朗普和珍妮·皮罗在椭圆形办公室的对决</div>
-    <p class="summary">attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.</p>
-    <p class="zh-summary">哥伦比亚特区律师告诉特朗普总统，他的内政部长道格·布尔古姆为自己的错误编造了一个自私的掩盖故事，误导了他。</p>
+    <div class="meta">NYT · Tue 8/4 7:30 PM ET</div>
+    <h3><a href="https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html" target="_blank" rel="noopener noreferrer">What Was on the Minds of Michigan Voters? Many Cited the Economy and Trump.</a></h3>
+    <div class="zh-headline">密歇根州选民在想什么？许多人引用了经济和特朗普。</div>
+    <p class="summary">As they cast ballots in the Democratic Senate primary, voters said they were concerned about data centers, health care, Israel and the war with Iran.</p>
+    <p class="zh-summary">在民主党参议院初选投票时，选民表示他们对数据中心、医疗保健、以色列以及与伊朗的战争感到担忧。</p>
   </div>
 </article>
 <article class="story">
   <div class="story-number">02</div>
   <div class="story-content">
-    <div class="meta">NYT · Tue 8/4 4:58 PM ET</div>
-    <h3><a href="https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html" target="_blank" rel="noopener noreferrer">Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants</a></h3>
-    <div class="zh-headline">上诉法院称环保局无法阻止数十亿美元的气候拨款</div>
-    <p class="summary">The funds have been frozen since early in President Trump’s second term.</p>
-    <p class="zh-summary">自特朗普总统第二任期初期以来，这些资金就被冻结。</p>
+    <div class="meta">NYT · Tue 8/4 6:36 PM ET</div>
+    <h3><a href="https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html" target="_blank" rel="noopener noreferrer">Inside the Oval Office Showdown Between Trump and Jeanine Pirro</a></h3>
+    <div class="zh-headline">特朗普和珍妮·皮罗在椭圆形办公室的对决</div>
+    <p class="summary">attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.</p>
+    <p class="zh-summary">哥伦比亚特区律师告诉特朗普总统，他的内政部长道格·布尔古姆为自己的错误编造了一个自私的掩盖故事，误导了他。</p>
   </div>
 </article>
 <article class="story">
@@ -220,8 +229,8 @@
     <p class="zh-summary">乌克兰表示，这段视频显示一名受惊的平民被遥控无人机追赶，构成战争罪。</p>
   </div>
 </article></section>
-  <footer>Generated 2026-08-04 6:13 PM ET · America/New_York<br>
-  行情可能延迟；利好/利空判断基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
+  <footer>Generated 2026-08-04 8:06 PM ET · America/New_York<br>
+  盘前行情至少延迟 16 分钟；收盘复盘基于最近完整交易日和同日新闻证据，不构成投资建议。</footer>
 </div>
 <script>
 (() => {

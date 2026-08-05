@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-04T22:13:28.179672+00:00",
-  "generated_et": "2026-08-04 6:13 PM ET",
+  "generated_at": "2026-08-05T00:06:26.289507+00:00",
+  "generated_et": "2026-08-04 8:06 PM ET",
+  "mode": "收盘复盘",
   "market_session": "2026-08-04",
-  "overview": "偏利好"
+  "overview": "偏利好",
+  "premarket": {
+    "active": false,
+    "as_of": null,
+    "feed": "unavailable",
+    "moves": {}
+  }
 }
