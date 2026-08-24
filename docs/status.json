@@ -1,13 +1,68 @@
 {
-  "generated_at": "2026-08-23T22:12:44.162518+00:00",
-  "generated_et": "2026-08-23 6:12 PM ET",
-  "mode": "周末新闻",
+  "generated_at": "2026-08-24T10:49:26.364732+00:00",
+  "generated_et": "2026-08-24 6:49 AM ET",
+  "mode": "盘前简报",
   "market_session": "2026-08-21",
   "overview": "偏利好",
   "premarket": {
-    "active": false,
-    "as_of": null,
-    "feed": "unavailable",
-    "moves": {}
+    "active": true,
+    "as_of": "2026-08-24T10:33:00+00:00",
+    "feed": "sip",
+    "moves": {
+      "SPY": {
+        "price": 764.13,
+        "previous_close": 765.72,
+        "change_pct": -0.2076,
+        "volume": 351886,
+        "high": 767.15,
+        "low": 763.48,
+        "as_of": "2026-08-24T10:30:00+00:00"
+      },
+      "QQQ": {
+        "price": 709.4,
+        "previous_close": 713.44,
+        "change_pct": -0.5663,
+        "volume": 393357,
+        "high": 711.26,
+        "low": 706.82,
+        "as_of": "2026-08-24T10:33:00+00:00"
+      },
+      "IWM": {
+        "price": 299.61,
+        "previous_close": 299.96,
+        "change_pct": -0.1167,
+        "volume": 55300,
+        "high": 300.11,
+        "low": 299.55,
+        "as_of": "2026-08-24T10:30:00+00:00"
+      },
+      "SMH": {
+        "price": 553.9,
+        "previous_close": 560.42,
+        "change_pct": -1.1634,
+        "volume": 41371,
+        "high": 556.0,
+        "low": 550.91,
+        "as_of": "2026-08-24T10:32:00+00:00"
+      },
+      "MRVL": {
+        "price": 229.32,
+        "previous_close": 237.04,
+        "change_pct": -3.2568,
+        "volume": 284751,
+        "high": 230.01,
+        "low": 226.99,
+        "as_of": "2026-08-24T10:33:00+00:00"
+      },
+      "SPCX": {
+        "price": 134.4,
+        "previous_close": 136.97,
+        "change_pct": -1.8763,
+        "volume": 923986,
+        "high": 134.9,
+        "low": 133.22,
+        "as_of": "2026-08-24T10:33:00+00:00"
+      }
+    }
   }
 }
