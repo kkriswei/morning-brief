@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-08-24T11:39:05.665131+00:00",
-  "generated_et": "2026-08-24 7:39 AM ET",
+  "generated_at": "2026-08-24T13:09:02.548893+00:00",
+  "generated_et": "2026-08-24 9:09 AM ET",
   "mode": "盘前简报",
   "market_session": "2026-08-21",
   "overview": "偏利好",
   "premarket": {
     "active": true,
-    "as_of": "2026-08-24T11:23:00+00:00",
+    "as_of": "2026-08-24T12:53:00+00:00",
     "feed": "sip",
     "moves": {
       "SPY": {
-        "price": 763.42,
+        "price": 764.3815,
         "previous_close": 765.72,
-        "change_pct": -0.3004,
-        "volume": 390300,
+        "change_pct": -0.1748,
+        "volume": 845975,
         "high": 767.15,
         "low": 763.07,
-        "as_of": "2026-08-24T11:22:00+00:00"
+        "as_of": "2026-08-24T12:53:00+00:00"
       },
       "QQQ": {
-        "price": 708.44,
+        "price": 709.15,
         "previous_close": 713.44,
-        "change_pct": -0.7008,
-        "volume": 522026,
-        "high": 711.26,
+        "change_pct": -0.6013,
+        "volume": 1014862,
+        "high": 712.905,
         "low": 706.82,
-        "as_of": "2026-08-24T11:23:00+00:00"
+        "as_of": "2026-08-24T12:53:00+00:00"
       },
       "IWM": {
-        "price": 299.18,
+        "price": 299.76,
         "previous_close": 299.96,
-        "change_pct": -0.26,
-        "volume": 83631,
-        "high": 300.11,
-        "low": 299.14,
-        "as_of": "2026-08-24T11:23:00+00:00"
+        "change_pct": -0.0667,
+        "volume": 358828,
+        "high": 300.2,
+        "low": 299.13,
+        "as_of": "2026-08-24T12:53:00+00:00"
       },
       "SMH": {
-        "price": 552.08,
+        "price": 553.28,
         "previous_close": 560.42,
-        "change_pct": -1.4882,
-        "volume": 66530,
+        "change_pct": -1.274,
+        "volume": 113252,
         "high": 556.0,
         "low": 550.3,
-        "as_of": "2026-08-24T11:23:00+00:00"
+        "as_of": "2026-08-24T12:53:00+00:00"
       },
       "MRVL": {
-        "price": 228.9,
+        "price": 229.36,
         "previous_close": 237.04,
-        "change_pct": -3.434,
-        "volume": 370121,
-        "high": 230.01,
+        "change_pct": -3.24,
+        "volume": 567960,
+        "high": 237.632,
         "low": 226.99,
-        "as_of": "2026-08-24T11:23:00+00:00"
+        "as_of": "2026-08-24T12:52:00+00:00"
       },
       "SPCX": {
-        "price": 133.86,
+        "price": 133.61,
         "previous_close": 136.97,
-        "change_pct": -2.2706,
-        "volume": 1313186,
-        "high": 134.9,
+        "change_pct": -2.4531,
+        "volume": 2008844,
+        "high": 137.312,
         "low": 133.22,
-        "as_of": "2026-08-24T11:23:00+00:00"
+        "as_of": "2026-08-24T12:53:00+00:00"
       }
     }
   }
