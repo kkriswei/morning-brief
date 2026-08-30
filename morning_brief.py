@@ -40,6 +40,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent
 ENV_PATH = ROOT / ".env"
 SITE_DIR = ROOT / "docs"
+WEEKLY_EVENTS_PATH = ROOT / "data" / "weekly_events.json"
 NY_TZ = ZoneInfo("America/New_York")
 
 ALPACA_NEWS_URL = "https://data.alpaca.markets/v1beta1/news"
@@ -277,6 +278,39 @@ class SpecialWatchSpec:
     symbol: str
     label_zh: str
     keywords: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class PortfolioImpact:
+    symbols: tuple[str, ...]
+    sensitivity: str
+    summary_zh: str
+
+
+@dataclass(frozen=True)
+class WeeklyEvent:
+    starts_at: datetime
+    time_label_zh: str
+    title_zh: str
+    importance: str
+    source: str
+    source_url: str
+    watch_zh: str
+    bullish_if_zh: str
+    bearish_if_zh: str
+    bullish_sectors: tuple[str, ...]
+    bearish_sectors: tuple[str, ...]
+    portfolio_impacts: tuple[PortfolioImpact, ...]
+
+
+@dataclass
+class WeeklyEventCalendar:
+    week_start: date
+    week_end: date
+    events: list[WeeklyEvent] = field(default_factory=list)
+    verified_at: datetime | None = None
+    portfolio_symbols: tuple[str, ...] = ()
+    portfolio_note_zh: str = ""
 
 
 CATEGORY_PATTERNS: dict[str, tuple[str, ...]] = {
@@ -533,6 +567,98 @@ def parse_ts(value: str | None) -> datetime | None:
     if parsed.tzinfo is None:
         parsed = parsed.replace(tzinfo=timezone.utc)
     return parsed.astimezone(timezone.utc)
+
+
+def market_week_dates(now: datetime) -> tuple[date, date]:
+    """Return the market week to show; weekends preview the coming week."""
+    local_date = now.astimezone(NY_TZ).date()
+    weekday = local_date.weekday()
+    if weekday >= 5:
+        monday = local_date + timedelta(days=7 - weekday)
+    else:
+        monday = local_date - timedelta(days=weekday)
+    return monday, monday + timedelta(days=6)
+
+
+def load_weekly_event_calendar(
+    now: datetime,
+    path: Path = WEEKLY_EVENTS_PATH,
+) -> WeeklyEventCalendar:
+    """Load source-verified events for the current or coming market week."""
+    week_start, week_end = market_week_dates(now)
+    empty = WeeklyEventCalendar(week_start=week_start, week_end=week_end)
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"  Weekly event calendar unavailable: {exc}", file=sys.stderr)
+        return empty
+
+    if not isinstance(payload, dict):
+        print("  Weekly event calendar unavailable: root must be an object", file=sys.stderr)
+        return empty
+
+    verified_value = payload.get("verified_at")
+    verified_at = parse_ts(str(verified_value)) if verified_value else None
+    portfolio_symbols = tuple(
+        str(symbol).strip().upper()
+        for symbol in payload.get("portfolio_symbols") or []
+        if str(symbol).strip()
+    )
+    events: list[WeeklyEvent] = []
+    for raw in payload.get("events") or []:
+        try:
+            starts_at = parse_ts(raw.get("starts_at"))
+            if starts_at is None:
+                raise ValueError("missing starts_at")
+            event_date = starts_at.astimezone(NY_TZ).date()
+            if not (week_start <= event_date <= week_end):
+                continue
+            source_url = str(raw.get("source_url") or "")
+            if urlparse(source_url).scheme not in {"http", "https"}:
+                raise ValueError("invalid source_url")
+            impacts = tuple(
+                PortfolioImpact(
+                    symbols=tuple(
+                        str(symbol).strip().upper()
+                        for symbol in item.get("symbols") or []
+                        if str(symbol).strip()
+                    ),
+                    sensitivity=str(item.get("sensitivity") or "未标注"),
+                    summary_zh=str(item.get("summary_zh") or ""),
+                )
+                for item in raw.get("portfolio_impacts") or []
+            )
+            event = WeeklyEvent(
+                starts_at=starts_at,
+                time_label_zh=str(raw.get("time_label_zh") or "时间待确认"),
+                title_zh=str(raw.get("title_zh") or "未命名事件"),
+                importance=str(raw.get("importance") or "中"),
+                source=str(raw.get("source") or "来源未提供"),
+                source_url=source_url,
+                watch_zh=str(raw.get("watch_zh") or ""),
+                bullish_if_zh=str(raw.get("bullish_if_zh") or ""),
+                bearish_if_zh=str(raw.get("bearish_if_zh") or ""),
+                bullish_sectors=tuple(
+                    str(item) for item in raw.get("bullish_sectors") or []
+                ),
+                bearish_sectors=tuple(
+                    str(item) for item in raw.get("bearish_sectors") or []
+                ),
+                portfolio_impacts=impacts,
+            )
+            events.append(event)
+        except (AttributeError, TypeError, ValueError) as exc:
+            print(f"  Skipping invalid weekly event: {exc}", file=sys.stderr)
+
+    events.sort(key=lambda event: event.starts_at)
+    return WeeklyEventCalendar(
+        week_start=week_start,
+        week_end=week_end,
+        events=events,
+        verified_at=verified_at,
+        portfolio_symbols=portfolio_symbols,
+        portfolio_note_zh=str(payload.get("portfolio_note_zh") or ""),
+    )
 
 
 def _auth_headers(api_key: str, api_secret: str) -> dict[str, str]:
@@ -1382,6 +1508,25 @@ def _article_age_hours(article: dict, now: datetime) -> float | None:
     return (now - created).total_seconds() / 3600
 
 
+def current_section_news(articles: list[dict], now: datetime) -> list[dict]:
+    """Keep weekend current-content sections genuinely Saturday/Sunday fresh.
+
+    Friday market drivers remain available to explain the last completed close,
+    but weekend sector, focus-list, and world sections must not be filled by a
+    higher-scoring Friday recap merely because US cash trading is closed.
+    """
+    local = now.astimezone(NY_TZ)
+    if local.weekday() < 5:
+        return list(articles)
+    saturday = local.date() - timedelta(days=local.weekday() - 5)
+    selected: list[dict] = []
+    for article in articles:
+        article_date = _article_date_et(article)
+        if article_date is not None and saturday <= article_date <= local.date():
+            selected.append(article)
+    return selected
+
+
 def _sector_scores(article: dict) -> dict[str, int]:
     headline = _clean_markup(article.get("headline") or "").lower()
     text = _article_text(article)
@@ -1809,6 +1954,105 @@ def _premarket_section_html(premarket: PremarketPulse | None) -> str:
     )
 
 
+def _weekly_events_html(
+    calendar: WeeklyEventCalendar,
+    now: datetime,
+) -> str:
+    week_label = (
+        f"{calendar.week_start.strftime('%-m/%-d')}–"
+        f"{calendar.week_end.strftime('%-m/%-d')} ET"
+    )
+    if not calendar.events:
+        return (
+            '<section class="weekly-events">'
+            '<div class="section-kicker">WEEK AHEAD · VERIFIED</div>'
+            f'<div class="session-date">{_html_escape(week_label)}</div>'
+            '<h2>本周关键事件</h2>'
+            '<p class="empty">当前周没有已核实并录入的关键事件；不会用未确认日期占位。</p>'
+            '</section>'
+        )
+
+    future_times = [
+        event.starts_at for event in calendar.events if event.starts_at > now
+    ]
+    next_time = min(future_times) if future_times else None
+    cards: list[str] = []
+    for event in calendar.events:
+        if event.starts_at <= now:
+            status_text, status_class = "已到时", "past"
+        elif next_time is not None and event.starts_at == next_time:
+            status_text, status_class = "下一个", "next"
+        else:
+            status_text, status_class = "待公布", "upcoming"
+
+        bullish_tags = "".join(
+            f'<span class="impact-tag positive">{_html_escape(item)}</span>'
+            for item in event.bullish_sectors
+        )
+        bearish_tags = "".join(
+            f'<span class="impact-tag negative">{_html_escape(item)}</span>'
+            for item in event.bearish_sectors
+        )
+        portfolio_rows = "".join(
+            '<div class="portfolio-row">'
+            '<div class="portfolio-symbols">'
+            f'{_html_escape(" / ".join(impact.symbols) or "未指定")}'
+            f'<span>{_html_escape(impact.sensitivity)}敏感</span>'
+            '</div>'
+            f'<p>{_html_escape(impact.summary_zh)}</p>'
+            '</div>'
+            for impact in event.portfolio_impacts
+        )
+        cards.append(
+            f'<article class="event-card event-{status_class}">'
+            '<div class="event-topline">'
+            f'<span class="event-time">{_html_escape(event.time_label_zh)}</span>'
+            f'<span class="event-status">{_html_escape(status_text)} · '
+            f'{_html_escape(event.importance)}重要度</span>'
+            '</div>'
+            f'<h3><a href="{_html_escape(_safe_url(event.source_url))}" '
+            'target="_blank" rel="noopener noreferrer">'
+            f'{_html_escape(event.title_zh)}</a></h3>'
+            f'<p class="event-watch"><strong>看什么：</strong>{_html_escape(event.watch_zh)}</p>'
+            '<div class="scenario-grid">'
+            '<div class="scenario positive">'
+            '<div class="scenario-label">偏利好情景</div>'
+            f'<p>{_html_escape(event.bullish_if_zh)}</p>'
+            f'<div class="impact-tags">{bullish_tags}</div>'
+            '</div>'
+            '<div class="scenario negative">'
+            '<div class="scenario-label">偏利空情景</div>'
+            f'<p>{_html_escape(event.bearish_if_zh)}</p>'
+            f'<div class="impact-tags">{bearish_tags}</div>'
+            '</div>'
+            '</div>'
+            '<div class="portfolio-impact">'
+            '<div class="portfolio-title">对当前监控仓位的影响</div>'
+            f'{portfolio_rows}'
+            '</div>'
+            f'<div class="event-source">官方时间来源：{_html_escape(event.source)}</div>'
+            '</article>'
+        )
+
+    verified = (
+        calendar.verified_at.astimezone(NY_TZ).strftime("%-m/%-d %-I:%M %p ET")
+        if calendar.verified_at else "时间未记录"
+    )
+    portfolio = " / ".join(calendar.portfolio_symbols) or "未配置"
+    return (
+        '<section class="weekly-events">'
+        '<div class="section-kicker">WEEK AHEAD · VERIFIED</div>'
+        f'<div class="session-date">{_html_escape(week_label)} · 日历核实于 '
+        f'{_html_escape(verified)}</div>'
+        '<h2>本周关键事件</h2>'
+        '<p class="section-note">先看触发条件，再看板块方向；同一事件可能因结果不同而反向交易。</p>'
+        f'{"".join(cards)}'
+        f'<p class="data-note">当前监控清单：{_html_escape(portfolio)}。'
+        f'{_html_escape(calendar.portfolio_note_zh)} 这里只评估方向和敏感度，不构成交易建议。</p>'
+        '</section>'
+    )
+
+
 def _sector_move_label_zh(move: MarketMove) -> str:
     for key, symbol in SECTOR_PROXIES.items():
         if symbol == move.symbol:
@@ -2085,6 +2329,35 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   .tone-positive, .tone-cautious-positive { border-left-color: var(--green); }
   .tone-negative, .tone-cautious-negative { border-left-color: var(--red); }
   .tone-neutral, .tone-unavailable { border-left-color: var(--amber); }
+  .event-card { margin-top: 16px; padding: 21px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+  .event-card.event-next { border-color: var(--amber); box-shadow: 0 0 0 1px rgba(231, 189, 114, .14); }
+  .event-card.event-past { opacity: .72; }
+  .event-topline { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .event-time { color: var(--amber); font-size: 12px; font-weight: 780; }
+  .event-status { color: var(--muted); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
+  .event-card h3 { margin: 8px 0 7px; font-size: 21px; line-height: 1.3; }
+  .event-card h3 a { color: var(--ink); text-decoration: none; }
+  .event-watch { margin: 0 0 15px; color: #d9dbe0; font-size: 13px; }
+  .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .scenario { padding: 14px; border-radius: 9px; border: 1px solid var(--line); }
+  .scenario.positive { background: rgba(94, 227, 154, .045); }
+  .scenario.negative { background: rgba(255, 124, 130, .045); }
+  .scenario-label { font-size: 12px; font-weight: 780; }
+  .scenario.positive .scenario-label { color: var(--green); }
+  .scenario.negative .scenario-label { color: var(--red); }
+  .scenario p { margin: 7px 0 10px; color: #d9dbe0; font-size: 13px; }
+  .impact-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+  .impact-tag { padding: 3px 7px; border-radius: 999px; font-size: 10px; border: 1px solid var(--line); }
+  .impact-tag.positive { color: var(--green); }
+  .impact-tag.negative { color: var(--red); }
+  .portfolio-impact { margin-top: 12px; padding: 14px; background: var(--surface-2); border-radius: 9px; }
+  .portfolio-title { margin-bottom: 7px; color: var(--amber); font-size: 11px; font-weight: 780; letter-spacing: .08em; }
+  .portfolio-row { display: grid; grid-template-columns: minmax(130px, .38fr) 1fr; gap: 12px; padding: 8px 0; border-top: 1px solid var(--line); }
+  .portfolio-row:first-of-type { border-top: 0; }
+  .portfolio-symbols { font-size: 12px; font-weight: 780; }
+  .portfolio-symbols span { display: block; color: var(--muted); font-size: 10px; font-weight: 500; }
+  .portfolio-row p { margin: 0; color: #c9ccd2; font-size: 12px; }
+  .event-source { margin-top: 11px; color: var(--muted); font-size: 10px; }
   .data-note { margin: 14px 0 0; }
   .section-note, .special-note { color: var(--muted); font-size: 12px; }
   .sector-block { margin-top: 26px; }
@@ -2117,6 +2390,9 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     header { padding-top: 30px; }
     .moves { grid-template-columns: repeat(2, 1fr); }
     .premarket-grid { grid-template-columns: repeat(2, 1fr); }
+    .scenario-grid { grid-template-columns: 1fr; }
+    .portfolio-row { grid-template-columns: 1fr; gap: 3px; }
+    .event-topline { align-items: flex-start; flex-direction: column; gap: 4px; }
     .special-grid { grid-template-columns: 1fr; }
     .move-value { font-size: 20px; }
     .story { grid-template-columns: 28px 1fr; }
@@ -2131,6 +2407,7 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     <div class="date">$date_long · $mode_label</div>
     <div class="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">网页自动更新 · 每分钟检查</span></div>
   </header>
+  $weekly_events_section
   $premarket_section
   $market_section
   $sector_section
@@ -2213,6 +2490,7 @@ def render_html(
     sector_groups: list[SectorGroup] | None = None,
     special_news: dict[str, list[dict]] | None = None,
     premarket: PremarketPulse | None = None,
+    weekly_calendar: WeeklyEventCalendar | None = None,
 ) -> Path:
     output_dir.mkdir(parents=True, exist_ok=True)
     local = now.astimezone(NY_TZ)
@@ -2223,6 +2501,7 @@ def render_html(
         now,
     )
     special_news = special_news or {symbol: [] for symbol in SPECIAL_WATCH_SPECS}
+    weekly_calendar = weekly_calendar or load_weekly_event_calendar(now)
     page = HTML_TEMPLATE.safe_substitute(
         date_short=local.strftime("%-m/%-d"),
         date_long=local.strftime("%A · %B %-d, %Y"),
@@ -2230,6 +2509,7 @@ def render_html(
         generated_iso=now.astimezone(timezone.utc).isoformat(),
         generated_et=local.strftime("%Y-%m-%d %-I:%M %p ET"),
         premarket_section=_premarket_section_html(premarket),
+        weekly_events_section=_weekly_events_html(weekly_calendar, now),
         market_section=_market_section_html(pulse, assessment, overview),
         sector_section=_sector_groups_html(sector_groups, pulse, premarket),
         special_section=_special_sections_html(pulse, special_news, premarket),
@@ -2247,6 +2527,25 @@ def render_html(
         "mode": _brief_mode(now),
         "market_session": pulse.session_date.isoformat() if pulse.session_date else None,
         "overview": overview.label_zh,
+        "weekly_events": {
+            "week_start": weekly_calendar.week_start.isoformat(),
+            "week_end": weekly_calendar.week_end.isoformat(),
+            "verified_at": (
+                weekly_calendar.verified_at.isoformat()
+                if weekly_calendar.verified_at else None
+            ),
+            "portfolio_symbols": list(weekly_calendar.portfolio_symbols),
+            "events": [
+                {
+                    "starts_at": event.starts_at.isoformat(),
+                    "title_zh": event.title_zh,
+                    "importance": event.importance,
+                    "source": event.source,
+                    "source_url": event.source_url,
+                }
+                for event in weekly_calendar.events
+            ],
+        },
         "premarket": {
             "active": bool(premarket and premarket.active),
             "as_of": premarket.as_of.isoformat() if premarket and premarket.as_of else None,
@@ -2283,6 +2582,7 @@ def _notification_messages(
     sector_groups: list[SectorGroup] | None = None,
     special_news: dict[str, list[dict]] | None = None,
     premarket: PremarketPulse | None = None,
+    weekly_calendar: WeeklyEventCalendar | None = None,
 ) -> list[tuple[str, str, str | None]]:
     local = now.astimezone(NY_TZ)
     brief_mode = _brief_mode(now)
@@ -2295,6 +2595,7 @@ def _notification_messages(
     overview = overview or build_market_overview(pulse, assessment)
     sector_groups = sector_groups or []
     special_news = special_news or {symbol: [] for symbol in SPECIAL_WATCH_SPECS}
+    weekly_calendar = weekly_calendar or load_weekly_event_calendar(now)
     title = f"{mode} · {overview.label_zh} — {local.strftime('%a %-m/%-d')}"
     lines: list[str] = []
     if premarket and premarket.available:
@@ -2311,6 +2612,26 @@ def _notification_messages(
                     f"量 {_format_volume(move.volume)}"
                 )
         lines.append(f"{premarket.note}；涨跌相对昨收。")
+
+    if weekly_calendar.events:
+        upcoming = [
+            event for event in weekly_calendar.events if event.starts_at > now
+        ]
+        shown_events = upcoming[:3] if upcoming else weekly_calendar.events[-2:]
+        lines.append("【本周关键事件】")
+        for event in shown_events:
+            symbol_groups = [
+                "/".join(impact.symbols) + f"({impact.sensitivity})"
+                for impact in event.portfolio_impacts
+                if impact.symbols
+            ]
+            lines.append(f"▸ {event.time_label_zh} · {event.title_zh}")
+            if event.bullish_sectors:
+                lines.append(f"利好情景关注：{'、'.join(event.bullish_sectors[:4])}")
+            if event.bearish_sectors:
+                lines.append(f"利空情景关注：{'、'.join(event.bearish_sectors[:4])}")
+            if symbol_groups:
+                lines.append(f"仓位敏感度：{'；'.join(symbol_groups)}")
 
     if pulse.available:
         session = pulse.session_date.strftime("%-m/%-d") if pulse.session_date else ""
@@ -2439,11 +2760,8 @@ def scheduled_slot(now: datetime) -> str | None:
 
 
 def web_refresh_allowed(now: datetime) -> bool:
-    """Limit silent website refreshes to daytime Eastern Time on every day."""
-    local = now.astimezone(NY_TZ)
-    minute_of_day = local.hour * 60 + local.minute
-    start_minute = PREMARKET_DISPLAY_START_ET.hour * 60 + PREMARKET_DISPLAY_START_ET.minute
-    return start_minute <= minute_of_day <= 18 * 60 + 15
+    """Allow every timezone-aware silent refresh; notification gates stay separate."""
+    return now.tzinfo is not None
 
 
 def news_window(pulse: MarketPulse, now: datetime) -> tuple[datetime, datetime]:
@@ -2574,6 +2892,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
     now = datetime.now(timezone.utc)
+    weekly_calendar = load_weekly_event_calendar(now)
 
     if args.demo:
         pulse, assessment, world_articles = _demo_payload(now)
@@ -2585,6 +2904,7 @@ def main(argv: list[str] | None = None) -> int:
             args.output_dir,
             now,
             premarket=premarket,
+            weekly_calendar=weekly_calendar,
         )
         print(f"Rendered demo site: {path}")
         return 0
@@ -2595,7 +2915,14 @@ def main(argv: list[str] | None = None) -> int:
             note="代码已升级；等待下一次使用有效 Alpaca 凭据生成经过验证的行情与新闻。",
         )
         assessment = build_driver_assessment(pulse, [])
-        path = render_html(pulse, assessment, [], args.output_dir, now)
+        path = render_html(
+            pulse,
+            assessment,
+            [],
+            args.output_dir,
+            now,
+            weekly_calendar=weekly_calendar,
+        )
         print(f"Rendered live-data placeholder: {path}")
         return 0
 
@@ -2630,6 +2957,10 @@ def main(argv: list[str] | None = None) -> int:
         pulse.session_date.isoformat() if pulse.session_date else "unavailable",
         pulse.status,
         pulse.feed,
+    )
+    print(
+        f"Weekly events: {weekly_calendar.week_start.isoformat()} to "
+        f"{weekly_calendar.week_end.isoformat()} · {len(weekly_calendar.events)} verified"
     )
     premarket = fetch_premarket_pulse(api_key, api_secret, pulse, now)
     if premarket.active:
@@ -2673,11 +3004,19 @@ def main(argv: list[str] | None = None) -> int:
         world_candidates.extend(items)
 
     drivers = select_market_drivers(market_articles, pulse)
-    world_articles = select_world_articles(world_candidates, now)
+    current_market_articles = current_section_news(market_articles, now)
+    current_world_candidates = current_section_news(world_candidates, now)
+    current_urls = {
+        article.get("url") or "" for article in current_market_articles
+    }
+    current_drivers = [
+        article for article in drivers if (article.get("url") or "") in current_urls
+    ]
+    world_articles = select_world_articles(current_world_candidates, now)
     assessment = build_driver_assessment(pulse, drivers)
     overview = build_market_overview(pulse, assessment)
     special_news = {
-        symbol: select_special_news(market_articles, spec, now)
+        symbol: select_special_news(current_market_articles, spec, now)
         for symbol, spec in SPECIAL_WATCH_SPECS.items()
     }
     special_urls = {
@@ -2686,8 +3025,8 @@ def main(argv: list[str] | None = None) -> int:
         for article in articles
     }
     sector_groups = build_sector_groups(
-        market_articles,
-        drivers,
+        current_market_articles,
+        current_drivers,
         now,
         exclude_urls=special_urls,
     )
@@ -2734,6 +3073,7 @@ def main(argv: list[str] | None = None) -> int:
         sector_groups=sector_groups,
         special_news=special_news,
         premarket=premarket,
+        weekly_calendar=weekly_calendar,
     )
     print(f"Rendered site: {index_path}")
 
@@ -2751,6 +3091,7 @@ def main(argv: list[str] | None = None) -> int:
         sector_groups=sector_groups,
         special_news=special_news,
         premarket=premarket,
+        weekly_calendar=weekly_calendar,
     ):
         try:
             message_id = push_ntfy(topic, title, body, click_url)

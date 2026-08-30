@@ -5,18 +5,16 @@ on:
     branches: [main]
     paths:
       - "morning_brief.py"
+      - "data/weekly_events.json"
       - "tests/**"
       - ".github/workflows/morning-brief.yml"
   # GitHub cron is UTC-only. Each ET slot has an EDT and EST candidate;
   # morning_brief.py --scheduled accepts only the invocation inside the local
   # 09:00 or 16:45 ET window, so the duplicate exits without side effects.
   schedule:
-    # Redundant off-minute premarket refreshes start early to reduce cron-delay risk.
-    - cron: "7,37 10-14 * * 1-5"
-    # Silent website refreshes every 30 minutes; Python applies the ET market-hours gate.
-    - cron: "0,30 13-22 * * 1-5"
-    # Silent weekend news refreshes every two hours; Python keeps only daytime ET runs.
-    - cron: "0 */2 * * 0,6"
+    # Silent website refresh every hour, including nights and weekends.
+    # Notifications remain limited to the explicit weekday slots below.
+    - cron: "17 * * * *"
     - cron: "10 13 * * 1-5"
     - cron: "10 14 * * 1-5"
     - cron: "45 20 * * 1-5"
@@ -59,7 +57,7 @@ jobs:
           NTFY_NEWS_TOPIC: ${{ secrets.NTFY_NEWS_TOPIC }}
           SCHEDULE_EXPRESSION: ${{ github.event.schedule }}
         run: |
-          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && { [ "$SCHEDULE_EXPRESSION" = "7,37 10-14 * * 1-5" ] || [ "$SCHEDULE_EXPRESSION" = "0,30 13-22 * * 1-5" ] || [ "$SCHEDULE_EXPRESSION" = "0 */2 * * 0,6" ]; }; then
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ "$SCHEDULE_EXPRESSION" = "17 * * * *" ]; then
             python morning_brief.py --web-refresh --no-push
           elif [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
             python morning_brief.py --scheduled

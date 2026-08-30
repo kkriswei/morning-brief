@@ -6,21 +6,23 @@ The market section no longer treats a popular headline as the reason stocks move
 
 1. Fetch comparable daily bars for SPY, QQQ, DIA, IWM, major sectors, Treasury/oil/dollar ETF proxies, SPCX, and MRVL.
 2. During weekday premarket hours, fetch delayed 1-minute extended-hours bars for SPY, QQQ, IWM, SMH, MRVL, and SPCX.
-3. Select the latest **completed** US trading session in `America/New_York`.
-4. Fetch up to ten pages of Alpaca/Benzinga news plus independent market and primary-data feeds.
-5. Match stories to the same session, actual index direction, broad-market language, and catalyst category.
-6. Produce a Chinese bullish/bearish overview from actual breadth, not headline tone.
-7. Group only the strongest stories into sector buckets, then render SPCX/SpaceX-related and MRVL news in dedicated sections.
-8. Show source links and confidence. If evidence is insufficient, the brief says so instead of inventing a cause.
+3. Load the source-verified calendar for the current market week (or the coming week on weekends), with conditional sector and monitored-position impact.
+4. Select the latest **completed** US trading session in `America/New_York`.
+5. Fetch up to ten pages of Alpaca/Benzinga news plus independent market and primary-data feeds.
+6. Match stories to the same session, actual index direction, broad-market language, and catalyst category.
+7. Produce a Chinese bullish/bearish overview from actual breadth, not headline tone.
+8. Group only the strongest stories into sector buckets, then render SPCX/SpaceX-related and MRVL news in dedicated sections.
+9. Show source links and confidence. If evidence is insufficient, the brief says so instead of inventing a cause.
 
 ## Brief structure
 
 1. **盘前行情** — delayed extended-hours price versus prior close, cumulative premarket volume, range, feed, and timestamp.
-2. **今日总览** — `偏利好`, `偏利空`, `中性偏利好/利空`, or `中性分化`, backed by the four broad-index proxies and sector breadth.
-3. **板块核心新闻** — up to two high-signal stories per selected sector, such as semiconductors, technology/AI, financials, energy, macro/rates, consumer, healthcare, and industrials.
-4. **SPCX / SpaceX 相关** — SPCX quote plus stories matching the SPCX symbol or SpaceX, Starlink, and Starship keywords. Related SpaceX coverage is not automatically described as direct SPCX fundamentals.
-5. **MRVL · Marvell** — an independent MRVL quote and dedicated Marvell/semiconductor news list.
-6. **全球重大新闻** — kept separate so world stories cannot be misrepresented as the cause of a US-market move.
+2. **本周关键事件** — verified ET date/time, what to watch, separate bullish/bearish scenarios, affected sectors, and qualitative sensitivity for the monitored positions.
+3. **今日总览** — `偏利好`, `偏利空`, `中性偏利好/利空`, or `中性分化`, backed by the four broad-index proxies and sector breadth.
+4. **板块核心新闻** — up to two high-signal stories per selected sector, such as semiconductors, technology/AI, financials, energy, macro/rates, consumer, healthcare, and industrials.
+5. **SPCX / SpaceX 相关** — SPCX quote plus stories matching the SPCX symbol or SpaceX, Starlink, and Starship keywords. Related SpaceX coverage is not automatically described as direct SPCX fundamentals.
+6. **MRVL · Marvell** — an independent MRVL quote and dedicated Marvell/semiconductor news list.
+7. **全球重大新闻** — kept separate so world stories cannot be misrepresented as the cause of a US-market move.
 
 ## Data sources
 
@@ -43,6 +45,17 @@ The market section no longer treats a popular headline as the reason stocks move
 - BBC Business.
 - Federal Reserve releases.
 
+### Weekly event calendar
+
+- BLS official release calendar for labor-market releases.
+- Federal Reserve official monthly calendar for the Beige Book and policy events.
+- ISM official Manufacturing and Services PMI release calendar.
+- Company investor-relations announcements for selected high-impact earnings.
+
+`data/weekly_events.json` is source-verified and time-bounded. The renderer shows only the active market week, so an expired event cannot silently roll forward as current. On Saturday and Sunday, “本周” means the coming Monday-through-Sunday market week.
+
+The current monitored-symbol list is `SMH / VOO / QQQM / MRVL / SPCX`. Only direction and sensitivity are published; weights, cost basis, and account values are not stored. Update the JSON when the monitored list or next verified calendar changes. A JSON-only push also triggers regeneration.
+
 ### World news
 
 - New York Times.
@@ -57,9 +70,9 @@ The live page is hosted on GitHub Pages at:
 
 https://kkriswei.github.io/morning-brief/
 
-On weekdays, redundant off-minute refreshes begin around 6:30 AM ET so the page can publish a delayed premarket view before the opening bell. The premarket block keeps current extended-hours prices separate from the latest completed session.
+GitHub Actions silently regenerates the page once an hour, 24/7. During weekday premarket hours, the premarket block keeps current extended-hours prices separate from the latest completed session.
 
-During US-market hours, GitHub Actions silently regenerates the page about every 30 minutes. On Saturday and Sunday, it publishes a weekend news edition about every two hours during daytime ET. The weekend edition keeps Friday as the latest completed market session while refreshing current business, sector, watchlist, and world news.
+The weekend edition keeps Friday as the latest completed market session for the close recap, while sector, focus-list, and world sections accept only Saturday/Sunday stories. This prevents a high-scoring Friday recap from looking like current weekend news.
 
 These website refreshes do not send ntfy notifications. An open browser checks `docs/status.json` every minute and reloads only when a newly generated brief has actually been deployed.
 
@@ -143,15 +156,16 @@ Run tests:
 
 ## Important limitation
 
-The brief reports delayed market data and evidence-ranked news attribution. `偏利好/偏利空` describes the latest completed session's market breadth; it is not a forecast or a trade instruction. News reports can describe what investors cited, but they cannot prove a single unique cause for every market move. Flat or mixed sessions should often say **“没有单一主导催化剂”**.
+The brief reports delayed market data and evidence-ranked news attribution. `偏利好/偏利空` describes the latest completed session's market breadth; it is not a forecast or a trade instruction. Weekly-event impacts are conditional scenarios, not predictions. Without position weights and cost basis, the portfolio section reports sensitivity rather than expected P&L. News reports can describe what investors cited, but they cannot prove a single unique cause for every market move. Flat or mixed sessions should often say **“没有单一主导催化剂”**.
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `morning_brief.py` | Market bars, news pagination, evidence ranking, translations, HTML, and ntfy |
-| `tests/test_morning_brief.py` | Deterministic session, ranking, pagination, schedule, and render tests |
-| `.github/workflows/morning-brief.yml` | DST-aware weekday morning/close automation |
+| `morning_brief.py` | Market bars, weekly calendar, news ranking, translations, HTML, and ntfy |
+| `data/weekly_events.json` | Time-bounded, source-linked events and scenario/position impact |
+| `tests/test_morning_brief.py` | Deterministic session, calendar, ranking, pagination, schedule, and render tests |
+| `.github/workflows/morning-brief.yml` | Hourly silent refresh plus DST-aware weekday notification slots |
 | `docs/index.html` | Generated PWA page |
 | `docs/status.json` | Small deployment version marker used by browser auto-refresh |
 | `docs/manifest.webmanifest` | PWA manifest |

@@ -1,0 +1,187 @@
+{
+  "verified_at": "2026-08-30T17:15:00-04:00",
+  "portfolio_symbols": ["SMH", "VOO", "QQQM", "MRVL", "SPCX"],
+  "portfolio_note_zh": "按当前股票监控清单做定性敏感度分析；公开页面不保存仓位权重、成本或账户金额。",
+  "events": [
+    {
+      "starts_at": "2026-09-01T10:00:00-04:00",
+      "time_label_zh": "周二 10:00 AM ET",
+      "title_zh": "美国 7 月 JOLTS 职位空缺",
+      "importance": "高",
+      "source": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
+      "watch_zh": "看职位空缺、离职率和招聘率是否显示劳动力需求在有序降温。",
+      "bullish_if_zh": "职位空缺温和回落、但招聘没有断崖式下滑：降息预期可升温，同时衰退担忧有限。",
+      "bearish_if_zh": "职位空缺意外反弹会推高利率预期；若空缺和招聘同时急跌，则会转为衰退交易。",
+      "bullish_sectors": ["长久期科技", "半导体", "小盘成长", "REITs"],
+      "bearish_sectors": ["高估值科技", "半导体", "小盘周期", "可选消费"],
+      "portfolio_impacts": [
+        {
+          "symbols": ["SMH", "MRVL", "QQQM"],
+          "sensitivity": "高",
+          "summary_zh": "有序降温通常通过美债收益率回落形成利好；数据过热或衰退式骤降都偏利空。"
+        },
+        {
+          "symbols": ["SPCX"],
+          "sensitivity": "中高",
+          "summary_zh": "高波动成长资产更依赖流动性和风险偏好，可能放大市场反应。"
+        },
+        {
+          "symbols": ["VOO"],
+          "sensitivity": "中",
+          "summary_zh": "分散度较高，但极端就业信号仍会通过大盘盈利和估值传导。"
+        }
+      ]
+    },
+    {
+      "starts_at": "2026-09-01T10:00:00-04:00",
+      "time_label_zh": "周二 10:00 AM ET",
+      "title_zh": "美国 8 月 ISM 制造业 PMI",
+      "importance": "高",
+      "source": "Institute for Supply Management",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "watch_zh": "重点看新订单、生产和价格支付；50 是扩张与收缩的分界，但市场更关注相对预期。",
+      "bullish_if_zh": "新订单改善且价格支付降温，代表增长修复而通胀压力没有同步上升。",
+      "bearish_if_zh": "新订单继续收缩会打击周期板块；价格支付反弹则会形成滞胀压力。",
+      "bullish_sectors": ["工业", "材料", "半导体", "运输"],
+      "bearish_sectors": ["工业", "材料", "小盘股", "可选消费"],
+      "portfolio_impacts": [
+        {
+          "symbols": ["SMH", "MRVL"],
+          "sensitivity": "高",
+          "summary_zh": "新订单改善可强化芯片周期预期；订单疲弱或价格压力回升则形成双重估值压力。"
+        },
+        {
+          "symbols": ["QQQM", "SPCX"],
+          "sensitivity": "中",
+          "summary_zh": "主要通过增长预期、利率和风险偏好间接传导。"
+        },
+        {
+          "symbols": ["VOO"],
+          "sensitivity": "中",
+          "summary_zh": "制造业占指数盈利的一部分，影响通常弱于就业报告。"
+        }
+      ]
+    },
+    {
+      "starts_at": "2026-09-02T14:00:00-04:00",
+      "time_label_zh": "周三 2:00 PM ET",
+      "title_zh": "美联储褐皮书",
+      "importance": "中高",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "watch_zh": "观察十二个地区对就业、工资、物价和企业需求的描述，为 9 月 FOMC 提供背景。",
+      "bullish_if_zh": "经济活动稳定、工资和物价压力继续缓和，属于软着陆组合。",
+      "bearish_if_zh": "企业需求普遍收缩会强化盈利下修；成本压力黏性则会压低降息空间。",
+      "bullish_sectors": ["科技", "半导体", "小盘股", "REITs"],
+      "bearish_sectors": ["周期股", "可选消费", "高估值成长", "小盘股"],
+      "portfolio_impacts": [
+        {
+          "symbols": ["QQQM", "SMH", "MRVL"],
+          "sensitivity": "中高",
+          "summary_zh": "软着陆措辞偏利好；黏性通胀或需求明显转弱均会压制估值。"
+        },
+        {
+          "symbols": ["SPCX"],
+          "sensitivity": "中高",
+          "summary_zh": "对融资条件和风险偏好更敏感，波动可能高于大盘。"
+        },
+        {
+          "symbols": ["VOO"],
+          "sensitivity": "中",
+          "summary_zh": "影响较分散，主要改变对大盘盈利和 9 月利率路径的判断。"
+        }
+      ]
+    },
+    {
+      "starts_at": "2026-09-02T17:00:00-04:00",
+      "time_label_zh": "周三盘后 · 电话会 5:00 PM ET",
+      "title_zh": "Broadcom（AVGO）FY2026 Q3 财报与指引",
+      "importance": "高",
+      "source": "Broadcom Investor Relations",
+      "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+      "watch_zh": "重点听 AI 加速器、定制芯片、网络业务和下一季指引；这是半导体与 AI 基建的重要同业读数。",
+      "bullish_if_zh": "业绩和指引上调，且 AI 网络与定制加速器需求继续扩张。",
+      "bearish_if_zh": "指引低于预期、AI 增速放缓，或传统半导体复苏弱于预期。",
+      "bullish_sectors": ["半导体", "AI 基建", "数据中心网络", "大型科技"],
+      "bearish_sectors": ["半导体", "AI 基建", "高估值科技", "数据中心供应链"],
+      "portfolio_impacts": [
+        {
+          "symbols": ["SMH", "MRVL"],
+          "sensitivity": "很高",
+          "summary_zh": "最直接的同业传导；MRVL 会受到定制芯片和数据中心网络需求预期的映射，但不等同于 Marvell 自身业绩。"
+        },
+        {
+          "symbols": ["QQQM"],
+          "sensitivity": "中高",
+          "summary_zh": "通过大型科技和 AI 资本开支叙事影响指数估值。"
+        },
+        {
+          "symbols": ["VOO", "SPCX"],
+          "sensitivity": "低至中",
+          "summary_zh": "VOO 受权重和大盘情绪传导；SPCX 主要受风险偏好间接影响。"
+        }
+      ]
+    },
+    {
+      "starts_at": "2026-09-03T10:00:00-04:00",
+      "time_label_zh": "周四 10:00 AM ET",
+      "title_zh": "美国 8 月 ISM 服务业 PMI",
+      "importance": "高",
+      "source": "Institute for Supply Management",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "watch_zh": "服务业占美国经济比重更高，重点看商业活动、就业与价格支付。",
+      "bullish_if_zh": "商业活动保持扩张、就业稳定，同时价格支付降温。",
+      "bearish_if_zh": "价格支付明显反弹会推高利率；商业活动和就业骤降则会放大衰退担忧。",
+      "bullish_sectors": ["软件", "消费服务", "金融", "小盘股"],
+      "bearish_sectors": ["高估值科技", "可选消费", "金融", "小盘股"],
+      "portfolio_impacts": [
+        {
+          "symbols": ["QQQM", "SMH", "MRVL"],
+          "sensitivity": "中高",
+          "summary_zh": "价格降温利好估值；服务通胀再加速会通过收益率上升形成压力。"
+        },
+        {
+          "symbols": ["SPCX"],
+          "sensitivity": "中",
+          "summary_zh": "主要反映风险偏好和融资环境变化。"
+        },
+        {
+          "symbols": ["VOO"],
+          "sensitivity": "中",
+          "summary_zh": "服务业范围广，若数据显著偏离预期，对大盘影响会高于制造业 PMI。"
+        }
+      ]
+    },
+    {
+      "starts_at": "2026-09-04T08:30:00-04:00",
+      "time_label_zh": "周五 8:30 AM ET",
+      "title_zh": "美国 8 月就业报告",
+      "importance": "最高",
+      "source": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
+      "watch_zh": "同时看非农就业、失业率、时薪和前两个月修正；单看新增就业容易误判。",
+      "bullish_if_zh": "就业温和增长、失业率稳定、工资增速降温，最接近软着陆。",
+      "bearish_if_zh": "就业和工资过热会推高收益率；就业骤降、失业率跳升则会触发盈利与衰退担忧。",
+      "bullish_sectors": ["科技", "半导体", "小盘股", "可选消费", "REITs"],
+      "bearish_sectors": ["高估值科技", "半导体", "小盘股", "可选消费", "周期股"],
+      "portfolio_impacts": [
+        {
+          "symbols": ["SMH", "MRVL", "QQQM"],
+          "sensitivity": "很高",
+          "summary_zh": "最敏感于工资和收益率；软着陆数据偏利好，过热或衰退式疲弱都偏利空。"
+        },
+        {
+          "symbols": ["SPCX"],
+          "sensitivity": "很高",
+          "summary_zh": "高贝塔和流动性敏感特征可能放大周五的风险偏好变化。"
+        },
+        {
+          "symbols": ["VOO"],
+          "sensitivity": "高",
+          "summary_zh": "这是本周对大盘盈利和美联储路径影响最大的宏观事件。"
+        }
+      ]
+    }
+  ]
+}

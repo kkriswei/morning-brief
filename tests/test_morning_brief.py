@@ -456,6 +456,95 @@ class FetchTests(unittest.TestCase):
         self.assertIsNotNone(mb.parse_ts(items[0]["created_at"]))
 
 
+class WeeklyEventTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.now = datetime(2026, 8, 30, 17, 0, tzinfo=timezone.utc)  # Sunday 1 PM ET
+
+    def test_weekend_previews_the_coming_market_week(self) -> None:
+        self.assertEqual(
+            mb.market_week_dates(self.now),
+            (date(2026, 8, 31), date(2026, 9, 6)),
+        )
+        weekday = datetime(2026, 9, 2, 15, 0, tzinfo=timezone.utc)
+        self.assertEqual(
+            mb.market_week_dates(weekday),
+            (date(2026, 8, 31), date(2026, 9, 6)),
+        )
+
+    def test_verified_calendar_loads_events_and_monitored_positions(self) -> None:
+        calendar = mb.load_weekly_event_calendar(self.now)
+        self.assertEqual(len(calendar.events), 6)
+        self.assertEqual(calendar.events[0].title_zh, "美国 7 月 JOLTS 职位空缺")
+        self.assertEqual(calendar.events[-1].title_zh, "美国 8 月就业报告")
+        self.assertEqual(
+            calendar.portfolio_symbols,
+            ("SMH", "VOO", "QQQM", "MRVL", "SPCX"),
+        )
+        self.assertTrue(all(event.source_url.startswith("https://") for event in calendar.events))
+
+    def test_invalid_calendar_entry_is_skipped_without_inventing_an_event(self) -> None:
+        payload = {
+            "verified_at": "2026-08-30T12:00:00-04:00",
+            "events": [
+                {
+                    "starts_at": "2026-09-01T10:00:00-04:00",
+                    "title_zh": "Unverified",
+                    "source_url": "javascript:alert(1)",
+                }
+            ],
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "events.json"
+            path.write_text(json.dumps(payload), encoding="utf-8")
+            calendar = mb.load_weekly_event_calendar(self.now, path)
+        self.assertEqual(calendar.events, [])
+
+    def test_weekend_current_sections_exclude_friday_but_keep_weekend_news(self) -> None:
+        friday = article("Friday recap", "Test", date(2026, 8, 28))
+        saturday = article("Saturday update", "Test", date(2026, 8, 29))
+        sunday = article("Sunday update", "Test", date(2026, 8, 30))
+        selected = mb.current_section_news([friday, saturday, sunday], self.now)
+        self.assertEqual(
+            [item["headline"] for item in selected],
+            ["Saturday update", "Sunday update"],
+        )
+
+    def test_render_and_notification_show_scenarios_sectors_and_position_impact(self) -> None:
+        pulse, assessment, world = mb._demo_payload(self.now)
+        calendar = mb.load_weekly_event_calendar(self.now)
+        with tempfile.TemporaryDirectory() as directory:
+            output_dir = Path(directory)
+            output = mb.render_html(
+                pulse,
+                assessment,
+                world,
+                output_dir,
+                self.now,
+                weekly_calendar=calendar,
+            )
+            page = output.read_text(encoding="utf-8")
+            status = json.loads((output_dir / "status.json").read_text(encoding="utf-8"))
+
+        self.assertIn("本周关键事件", page)
+        self.assertIn("Broadcom（AVGO）FY2026 Q3 财报与指引", page)
+        self.assertIn("偏利好情景", page)
+        self.assertIn("偏利空情景", page)
+        self.assertIn("对当前监控仓位的影响", page)
+        self.assertIn("SMH / MRVL", page)
+        self.assertEqual(len(status["weekly_events"]["events"]), 6)
+
+        messages = mb._notification_messages(
+            pulse,
+            assessment,
+            world,
+            self.now,
+            weekly_calendar=calendar,
+        )
+        self.assertIn("【本周关键事件】", messages[0][1])
+        self.assertIn("美国 7 月 JOLTS 职位空缺", messages[0][1])
+        self.assertIn("仓位敏感度", messages[0][1])
+
+
 class BriefStructureTests(unittest.TestCase):
     def setUp(self) -> None:
         self.session = date(2026, 7, 27)
@@ -630,30 +719,18 @@ class ScheduleTests(unittest.TestCase):
             "close",
         )
 
-    def test_web_refresh_gate_allows_daytime_updates_every_day_in_et(self) -> None:
-        self.assertFalse(
-            mb.web_refresh_allowed(datetime(2026, 7, 27, 10, 29, tzinfo=timezone.utc))
+    def test_web_refresh_gate_allows_continuous_silent_updates(self) -> None:
+        self.assertTrue(
+            mb.web_refresh_allowed(datetime(2026, 7, 27, 3, 0, tzinfo=timezone.utc))
         )
         self.assertTrue(
-            mb.web_refresh_allowed(datetime(2026, 7, 27, 10, 37, tzinfo=timezone.utc))
+            mb.web_refresh_allowed(datetime(2026, 7, 27, 23, 59, tzinfo=timezone.utc))
         )
         self.assertTrue(
-            mb.web_refresh_allowed(datetime(2026, 7, 27, 13, 0, tzinfo=timezone.utc))
-        )
-        self.assertTrue(
-            mb.web_refresh_allowed(datetime(2026, 1, 12, 22, 30, tzinfo=timezone.utc))
+            mb.web_refresh_allowed(datetime(2026, 7, 26, 4, 0, tzinfo=timezone.utc))
         )
         self.assertFalse(
-            mb.web_refresh_allowed(datetime(2026, 7, 27, 22, 30, tzinfo=timezone.utc))
-        )
-        self.assertTrue(
-            mb.web_refresh_allowed(datetime(2026, 7, 26, 14, 0, tzinfo=timezone.utc))
-        )
-        self.assertTrue(
-            mb.web_refresh_allowed(datetime(2026, 1, 11, 14, 0, tzinfo=timezone.utc))
-        )
-        self.assertFalse(
-            mb.web_refresh_allowed(datetime(2026, 7, 26, 23, 0, tzinfo=timezone.utc))
+            mb.web_refresh_allowed(datetime(2026, 7, 26, 23, 0))
         )
 
     def test_weekend_refresh_does_not_enable_phone_notification_slots(self) -> None:
@@ -717,6 +794,7 @@ class RenderTests(unittest.TestCase):
             status = json.loads((output_dir / "status.json").read_text(encoding="utf-8"))
 
         self.assertIn("盘前简报", page)
+        self.assertLess(page.index("本周关键事件"), page.index("PREMARKET · DELAYED"))
         self.assertIn("PREMARKET · DELAYED", page)
         self.assertIn("盘前行情", page)
         self.assertIn("vs 昨收", page)
