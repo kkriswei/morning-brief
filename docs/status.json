@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-31T19:25:19.890565+00:00",
-  "generated_et": "2026-08-31 3:25 PM ET",
-  "mode": "晨间简报",
-  "market_session": "2026-08-28",
-  "overview": "中性偏利空 · 结构分化",
+  "generated_at": "2026-09-01T00:43:05.532477+00:00",
+  "generated_et": "2026-08-31 8:43 PM ET",
+  "mode": "收盘复盘",
+  "market_session": "2026-08-31",
+  "overview": "偏利空",
+  "weekly_events": {
+    "week_start": "2026-08-31",
+    "week_end": "2026-09-06",
+    "verified_at": "2026-08-30T21:15:00+00:00",
+    "portfolio_symbols": [
+      "SMH",
+      "VOO",
+      "QQQM",
+      "MRVL",
+      "SPCX"
+    ],
+    "events": [
+      {
+        "starts_at": "2026-09-01T14:00:00+00:00",
+        "title_zh": "美国 7 月 JOLTS 职位空缺",
+        "importance": "高",
+        "source": "U.S. Bureau of Labor Statistics",
+        "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm"
+      },
+      {
+        "starts_at": "2026-09-01T14:00:00+00:00",
+        "title_zh": "美国 8 月 ISM 制造业 PMI",
+        "importance": "高",
+        "source": "Institute for Supply Management",
+        "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+      },
+      {
+        "starts_at": "2026-09-02T18:00:00+00:00",
+        "title_zh": "美联储褐皮书",
+        "importance": "中高",
+        "source": "Federal Reserve Board",
+        "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm"
+      },
+      {
+        "starts_at": "2026-09-02T21:00:00+00:00",
+        "title_zh": "Broadcom（AVGO）FY2026 Q3 财报与指引",
+        "importance": "高",
+        "source": "Broadcom Investor Relations",
+        "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial"
+      },
+      {
+        "starts_at": "2026-09-03T14:00:00+00:00",
+        "title_zh": "美国 8 月 ISM 服务业 PMI",
+        "importance": "高",
+        "source": "Institute for Supply Management",
+        "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+      },
+      {
+        "starts_at": "2026-09-04T12:30:00+00:00",
+        "title_zh": "美国 8 月就业报告",
+        "importance": "最高",
+        "source": "U.S. Bureau of Labor Statistics",
+        "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm"
+      }
+    ]
+  },
   "premarket": {
     "active": false,
     "as_of": null,
