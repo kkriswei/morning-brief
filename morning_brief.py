@@ -1851,6 +1851,12 @@ def _format_article_time(article: dict) -> str:
     return created.astimezone(NY_TZ).strftime("%a %-m/%-d %-I:%M %p ET")
 
 
+def _article_display_headline(article: dict) -> str:
+    return _clean_markup(
+        article.get("_zh_headline") or article.get("headline") or "未命名报道"
+    )
+
+
 def _article_html(article: dict, index: int) -> str:
     headline = _clean_markup(article.get("headline") or "")
     source = (article.get("source") or "来源未提供").strip()
@@ -1864,13 +1870,19 @@ def _article_html(article: dict, index: int) -> str:
         '<span class="story-badge">核心驱动</span>'
         if article.get("_is_driver") else ""
     )
-    zh_headline_html = (
-        f'<div class="zh-headline">{_html_escape(zh_headline)}</div>'
-        if zh_headline else ""
+    display_headline = _article_display_headline(article)
+    original_html = (
+        f'<p class="original-headline">原文：{_html_escape(headline)}</p>'
+        if zh_headline and headline and zh_headline.strip() != headline.strip() else ""
     )
-    summary_html = f'<p class="summary">{_html_escape(summary)}</p>' if summary else ""
-    zh_summary_html = (
-        f'<p class="zh-summary">{_html_escape(zh_summary)}</p>' if zh_summary else ""
+    detail_summary = zh_summary or summary
+    detail_html = (
+        '<details class="story-details">'
+        '<summary>查看摘要与原文</summary>'
+        f'{original_html}'
+        f'<p class="story-summary">{_html_escape(detail_summary)}</p>'
+        '</details>'
+        if original_html or detail_summary else ""
     )
     return (
         '<article class="story">\n'
@@ -1880,10 +1892,8 @@ def _article_html(article: dict, index: int) -> str:
         f'{_html_escape(_format_article_time(article))}{_html_escape(symbol_text)}'
         f'{badge_html}</div>\n'
         f'    <h3><a href="{_html_escape(url)}" target="_blank" rel="noopener noreferrer">'
-        f'{_html_escape(headline)}</a></h3>\n'
-        f'    {zh_headline_html}\n'
-        f'    {summary_html}\n'
-        f'    {zh_summary_html}\n'
+        f'{_html_escape(display_headline)}</a></h3>\n'
+        f'    {detail_html}\n'
         '  </div>\n'
         '</article>'
     )
@@ -1930,11 +1940,16 @@ def _premarket_section_html(premarket: PremarketPulse | None) -> str:
         cards.append(
             '<div class="premarket-card">'
             f'<div class="move-label">{_html_escape(symbol)} · {_html_escape(move.label)}</div>'
+            '<div class="premarket-primary">'
             f'<div class="premarket-price">${move.price:,.2f}</div>'
-            f'<div class="premarket-change {css_class}">{_format_pct(move.change_pct)} vs 昨收</div>'
-            f'<div class="premarket-meta">量 {_format_volume(move.volume)} · '
-            f'区间 ${move.low:,.2f}–${move.high:,.2f}<br>'
-            f'成交截至 {_html_escape(move_as_of)}</div>'
+            f'<div class="premarket-change {css_class}">{_format_pct(move.change_pct)}</div>'
+            '</div>'
+            '<details class="mini-details">'
+            '<summary>成交细节</summary>'
+            f'<div class="premarket-meta">相对昨收 · 量 {_format_volume(move.volume)} · '
+            f'区间 ${move.low:,.2f}–${move.high:,.2f} · '
+            f'截至 {_html_escape(move_as_of)}</div>'
+            '</details>'
             '</div>'
         )
     as_of = (
@@ -1947,9 +1962,11 @@ def _premarket_section_html(premarket: PremarketPulse | None) -> str:
         f'<div class="session-date">盘前行情 · {_html_escape(session)} · 最新成交截至 {_html_escape(as_of)}</div>'
         f'<h2>{_html_escape(premarket.status)}</h2>'
         f'<div class="premarket-grid">{"".join(cards)}</div>'
-        f'<p class="data-note">数据：{_html_escape(premarket.note)}。'
-        '涨跌均相对最近完整交易日收盘；成交量为 4:00 AM ET 起盘前累计，'
-        '不可与完整常规交易时段成交量直接比较。</p>'
+        '<details class="section-details">'
+        '<summary>数据说明</summary>'
+        f'<p class="data-note">{_html_escape(premarket.note)}。涨跌均相对最近完整交易日收盘；'
+        '成交量为 4:00 AM ET 起盘前累计，不可与完整常规交易时段成交量直接比较。</p>'
+        '</details>'
         '</section>'
     )
 
@@ -2004,16 +2021,19 @@ def _weekly_events_html(
             for impact in event.portfolio_impacts
         )
         cards.append(
-            f'<article class="event-card event-{status_class}">'
+            f'<details class="event-card event-{status_class}">'
+            '<summary class="event-summary disclosure-summary">'
+            '<div class="event-summary-copy">'
             '<div class="event-topline">'
             f'<span class="event-time">{_html_escape(event.time_label_zh)}</span>'
             f'<span class="event-status">{_html_escape(status_text)} · '
             f'{_html_escape(event.importance)}重要度</span>'
             '</div>'
-            f'<h3><a href="{_html_escape(_safe_url(event.source_url))}" '
-            'target="_blank" rel="noopener noreferrer">'
-            f'{_html_escape(event.title_zh)}</a></h3>'
-            f'<p class="event-watch"><strong>看什么：</strong>{_html_escape(event.watch_zh)}</p>'
+            f'<h3>{_html_escape(event.title_zh)}</h3>'
+            f'<p class="event-watch">{_html_escape(event.watch_zh)}</p>'
+            '</div>'
+            '</summary>'
+            '<div class="event-expanded">'
             '<div class="scenario-grid">'
             '<div class="scenario positive">'
             '<div class="scenario-label">偏利好情景</div>'
@@ -2030,8 +2050,11 @@ def _weekly_events_html(
             '<div class="portfolio-title">对当前监控仓位的影响</div>'
             f'{portfolio_rows}'
             '</div>'
-            f'<div class="event-source">官方时间来源：{_html_escape(event.source)}</div>'
-            '</article>'
+            f'<div class="event-source">官方时间来源：'
+            f'<a href="{_html_escape(_safe_url(event.source_url))}" target="_blank" '
+            f'rel="noopener noreferrer">{_html_escape(event.source)}</a></div>'
+            '</div>'
+            '</details>'
         )
 
     verified = (
@@ -2045,10 +2068,13 @@ def _weekly_events_html(
         f'<div class="session-date">{_html_escape(week_label)} · 日历核实于 '
         f'{_html_escape(verified)}</div>'
         '<h2>本周关键事件</h2>'
-        '<p class="section-note">先看触发条件，再看板块方向；同一事件可能因结果不同而反向交易。</p>'
+        '<p class="section-note">点击事件，查看利好/利空情景和仓位影响。</p>'
         f'{"".join(cards)}'
+        '<details class="section-details">'
+        '<summary>仓位与日历说明</summary>'
         f'<p class="data-note">当前监控清单：{_html_escape(portfolio)}。'
         f'{_html_escape(calendar.portfolio_note_zh)} 这里只评估方向和敏感度，不构成交易建议。</p>'
+        '</details>'
         '</section>'
     )
 
@@ -2069,7 +2095,10 @@ def _overview_html(overview: MarketOverview) -> str:
         '<div class="overview-kicker">今日总览</div>'
         f'<div class="overview-label">{_html_escape(overview.label_zh)}</div>'
         f'<p>{_html_escape(overview.summary_zh)}</p>'
+        '<details class="inline-details">'
+        '<summary>查看判断依据</summary>'
         f'<ul>{evidence}</ul>'
+        '</details>'
         '</div>'
     )
 
@@ -2129,12 +2158,15 @@ def _market_section_html(
         f'<div class="moves">{"".join(broad_cards)}</div>'
         f'{sector_line}'
         f'{_overview_html(overview)}'
+        '<details class="section-details market-details">'
+        '<summary>新闻归因与数据说明</summary>'
         '<div class="explanation">'
-        f'<div class="confidence">新闻归因 · {_html_escape(assessment.confidence)}置信度</div>'
+        f'<div class="confidence">{_html_escape(assessment.confidence)}置信度</div>'
         f'<p>{_html_escape(assessment.summary_zh)}</p>'
         '</div>'
-        f'<p class="data-note">数据：{_html_escape(pulse.note)}。ETF 用作指数代理；'
+        f'<p class="data-note">{_html_escape(pulse.note)}。ETF 用作指数代理；'
         '新闻归因基于同日来源和方向一致性，不是可证明的唯一因果。</p>'
+        '</details>'
         '</section>'
     )
 
@@ -2173,17 +2205,23 @@ def _sector_groups_html(
         for article in group.articles:
             stories.append(_article_html(article, story_number))
             story_number += 1
+        teaser = _article_display_headline(group.articles[0]) if group.articles else ""
         blocks.append(
-            '<div class="sector-block">'
+            '<details class="sector-block">'
+            '<summary class="group-summary disclosure-summary">'
+            '<div class="group-summary-copy">'
             f'<div class="sector-heading"><h3>{_html_escape(group.label_zh)}</h3>'
             f'{proxy_html}</div>'
-            f'{"".join(stories)}'
+            f'<p class="group-teaser">{_html_escape(teaser)}</p>'
             '</div>'
+            '</summary>'
+            f'<div class="group-body">{"".join(stories)}</div>'
+            '</details>'
         )
     return (
         '<section class="sector-news"><div class="section-kicker">SECTOR MAP</div>'
         '<h2>板块核心新闻</h2>'
-        '<p class="section-note">每个板块最多两条；优先同日市场驱动和高质量来源。</p>'
+        '<p class="section-note">点击板块查看新闻和摘要。</p>'
         f'{"".join(blocks)}</section>'
     )
 
@@ -2231,10 +2269,20 @@ def _special_watch_html(
         if spec.symbol == "SPCX" else
         '<p class="special-note">独立跟踪 MRVL 行情、Marvell 公司新闻和半导体催化剂。</p>'
     )
+    teaser = (
+        _article_display_headline(articles[0])
+        if articles else "最近 36 小时无达到门槛的专项新闻"
+    )
     return (
-        '<div class="special-block">'
+        '<details class="special-block">'
+        '<summary class="special-summary disclosure-summary">'
+        '<div class="special-summary-copy">'
         f'<div class="special-heading"><h3>{_html_escape(spec.label_zh)}</h3>{move_html}</div>'
-        f'{note}{stories}</div>'
+        f'<p class="group-teaser">{_html_escape(teaser)}</p>'
+        '</div>'
+        '</summary>'
+        f'<div class="special-body">{note}{stories}</div>'
+        '</details>'
     )
 
 
@@ -2264,7 +2312,9 @@ def _stories_section_html(title: str, articles: list[dict], empty_text: str) -> 
     items = "\n".join(_article_html(article, index) for index, article in enumerate(articles, 1))
     return (
         '<section class="stories"><div class="section-kicker">EVIDENCE</div>'
-        f'<h2>{_html_escape(title)}</h2>{items}</section>'
+        f'<h2>{_html_escape(title)}</h2>'
+        '<p class="section-note">点击标题打开来源，点击“查看摘要与原文”展开内容。</p>'
+        f'{items}</section>'
     )
 
 
@@ -2273,9 +2323,9 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#0b0c0e">
+<meta name="theme-color" content="#ffffff">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Market Brief">
 <title>Market Brief — $date_short</title>
 <link rel="manifest" href="manifest.webmanifest">
@@ -2283,119 +2333,145 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
 <link rel="apple-touch-icon" href="icon.svg">
 <style>
   :root {
-    --bg: #0b0c0e; --surface: #121418; --surface-2: #181b20;
-    --ink: #f3f1eb; --muted: #979ba3; --line: #282c33;
-    --green: #5ee39a; --red: #ff7c82; --amber: #e7bd72;
+    --bg: #ffffff; --surface: #ffffff; --surface-2: #f6f6f3;
+    --ink: #24231f; --muted: #6b6a63; --line: #e4e3dc;
+    --green: #15724c; --red: #b43f45; --amber: #9a5b2b;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; background: var(--bg); color: var(--ink); }
   body {
     font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    line-height: 1.58; padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+    line-height: 1.52; padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
   }
-  .wrap { width: min(880px, 100%); margin: 0 auto; padding: 0 22px; }
-  header { padding: 40px 0 26px; border-bottom: 1px solid var(--line); }
+  .wrap { width: min(900px, 100%); margin: 0 auto; padding: 0 24px; }
+  header { padding: 30px 0 20px; border-bottom: 1px solid var(--line); }
   .eyebrow, .section-kicker {
     color: var(--amber); font-size: 11px; font-weight: 750; letter-spacing: .16em;
   }
-  h1 { margin: 7px 0 0; font-size: clamp(32px, 7vw, 54px); line-height: 1.05; letter-spacing: -.04em; }
-  .date { color: var(--muted); margin-top: 10px; font-size: 14px; }
+  h1 { margin: 5px 0 0; font-size: clamp(30px, 6vw, 46px); line-height: 1.05; letter-spacing: -.04em; }
+  .date { color: var(--muted); margin-top: 8px; font-size: 13px; }
   .refresh-status { display: flex; align-items: center; gap: 7px; color: var(--muted); margin-top: 8px; font-size: 12px; }
-  .refresh-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 3px rgba(94, 227, 154, .12); }
-  section { padding: 34px 0; border-bottom: 1px solid var(--line); }
-  h2 { margin: 7px 0 20px; font-size: 25px; letter-spacing: -.02em; }
+  .refresh-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 3px rgba(21, 114, 76, .09); }
+  section { padding: 27px 0; border-bottom: 1px solid var(--line); }
+  h2 { margin: 5px 0 14px; font-size: 23px; letter-spacing: -.02em; }
+  summary { list-style: none; cursor: pointer; }
+  summary::-webkit-details-marker { display: none; }
+  summary:focus-visible { outline: 2px solid var(--amber); outline-offset: 4px; border-radius: 4px; }
+  .disclosure-summary { display: grid; grid-template-columns: minmax(0, 1fr) 24px; gap: 12px; align-items: center; }
+  .disclosure-summary::after { content: "+"; color: var(--muted); font-size: 22px; font-weight: 350; text-align: right; }
+  details[open] > .disclosure-summary::after { content: "−"; }
   .session-date, .data-note, .confidence, .meta, .move-close, .sector-line, .empty {
     color: var(--muted); font-size: 12px;
   }
   .moves { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
-  .move { padding: 15px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
+  .move { padding: 13px; border: 1px solid var(--line); background: var(--surface); border-radius: 8px; }
   .move-label { color: var(--muted); font-size: 12px; }
   .move-value { margin: 3px 0 1px; font-size: 22px; font-weight: 750; font-variant-numeric: tabular-nums; }
   .premarket-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-  .premarket-card { padding: 16px; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; }
-  .premarket-card.unavailable { display: flex; min-height: 118px; flex-direction: column; justify-content: space-between; }
-  .premarket-price { margin-top: 5px; font-size: 24px; font-weight: 780; font-variant-numeric: tabular-nums; }
+  .premarket-card { padding: 14px; border: 1px solid var(--line); background: var(--surface); border-radius: 8px; }
+  .premarket-card.unavailable { display: flex; min-height: 92px; flex-direction: column; justify-content: space-between; }
+  .premarket-primary { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+  .premarket-price { margin-top: 4px; font-size: 21px; font-weight: 780; font-variant-numeric: tabular-nums; }
   .premarket-change { margin-top: 1px; font-size: 14px; font-weight: 750; font-variant-numeric: tabular-nums; }
-  .premarket-meta, .premarket-empty { margin-top: 8px; color: var(--muted); font-size: 11px; }
+  .premarket-meta, .premarket-empty { margin-top: 7px; color: var(--muted); font-size: 11px; }
+  .mini-details, .section-details, .inline-details, .story-details { margin-top: 8px; }
+  .mini-details summary, .section-details summary, .inline-details summary, .story-details summary {
+    width: fit-content; color: var(--muted); font-size: 11px; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px;
+  }
+  .mini-details summary:hover, .section-details summary:hover, .inline-details summary:hover, .story-details summary:hover { color: var(--ink); }
+  .section-details { margin-top: 13px; }
+  .section-details[open] { padding: 12px 14px; background: var(--surface-2); border-radius: 7px; }
   .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--ink); }
   .sector-line { margin: 13px 0 0; }
-  .explanation { margin-top: 22px; padding: 19px 20px; background: var(--surface-2); border-left: 3px solid var(--amber); }
+  .explanation { margin-top: 10px; padding: 12px 14px; background: var(--surface); border-left: 2px solid var(--amber); }
   .explanation p { margin: 7px 0 0; font-size: 16px; }
-  .overview { margin-top: 22px; padding: 20px; background: var(--surface-2); border: 1px solid var(--line); border-left-width: 4px; }
+  .overview { margin-top: 17px; padding: 16px; background: var(--surface-2); border-left: 3px solid var(--line); }
   .overview-kicker { color: var(--muted); font-size: 11px; letter-spacing: .13em; }
-  .overview-label { margin-top: 4px; font-size: 25px; font-weight: 780; letter-spacing: -.02em; }
-  .overview p { margin: 8px 0 9px; }
-  .overview ul { margin: 0; padding-left: 19px; color: var(--muted); font-size: 13px; }
+  .overview-label { margin-top: 3px; font-size: 22px; font-weight: 780; letter-spacing: -.02em; }
+  .overview p { margin: 6px 0 0; }
+  .overview ul { margin: 9px 0 0; padding-left: 19px; color: var(--muted); font-size: 12px; }
   .tone-positive, .tone-cautious-positive { border-left-color: var(--green); }
   .tone-negative, .tone-cautious-negative { border-left-color: var(--red); }
   .tone-neutral, .tone-unavailable { border-left-color: var(--amber); }
-  .event-card { margin-top: 16px; padding: 21px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
-  .event-card.event-next { border-color: var(--amber); box-shadow: 0 0 0 1px rgba(231, 189, 114, .14); }
-  .event-card.event-past { opacity: .72; }
-  .event-topline { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
-  .event-time { color: var(--amber); font-size: 12px; font-weight: 780; }
-  .event-status { color: var(--muted); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
-  .event-card h3 { margin: 8px 0 7px; font-size: 21px; line-height: 1.3; }
-  .event-card h3 a { color: var(--ink); text-decoration: none; }
-  .event-watch { margin: 0 0 15px; color: #d9dbe0; font-size: 13px; }
+  .event-card { margin-top: 9px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .event-card.event-next { border-left: 3px solid var(--amber); }
+  .event-card.event-past { opacity: .66; }
+  .event-summary { padding: 13px 15px; }
+  .event-summary-copy { min-width: 0; }
+  .event-topline { display: flex; align-items: center; gap: 8px; }
+  .event-time { color: var(--amber); font-size: 11px; font-weight: 780; }
+  .event-status { color: var(--muted); font-size: 9px; letter-spacing: .06em; text-transform: uppercase; }
+  .event-card h3 { margin: 4px 0 3px; font-size: 18px; line-height: 1.3; }
+  .event-watch { display: -webkit-box; margin: 0; overflow: hidden; color: var(--muted); font-size: 12px; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+  .event-expanded { padding: 14px 15px 15px; border-top: 1px solid var(--line); background: var(--surface-2); }
   .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-  .scenario { padding: 14px; border-radius: 9px; border: 1px solid var(--line); }
-  .scenario.positive { background: rgba(94, 227, 154, .045); }
-  .scenario.negative { background: rgba(255, 124, 130, .045); }
+  .scenario { padding: 12px; border-radius: 7px; border: 1px solid var(--line); background: var(--surface); }
+  .scenario.positive { border-left: 2px solid var(--green); }
+  .scenario.negative { border-left: 2px solid var(--red); }
   .scenario-label { font-size: 12px; font-weight: 780; }
   .scenario.positive .scenario-label { color: var(--green); }
   .scenario.negative .scenario-label { color: var(--red); }
-  .scenario p { margin: 7px 0 10px; color: #d9dbe0; font-size: 13px; }
+  .scenario p { margin: 6px 0 9px; color: var(--ink); font-size: 12px; }
   .impact-tags { display: flex; flex-wrap: wrap; gap: 5px; }
-  .impact-tag { padding: 3px 7px; border-radius: 999px; font-size: 10px; border: 1px solid var(--line); }
+  .impact-tag { padding: 2px 6px; border-radius: 999px; font-size: 9px; border: 1px solid var(--line); background: var(--surface); }
   .impact-tag.positive { color: var(--green); }
   .impact-tag.negative { color: var(--red); }
-  .portfolio-impact { margin-top: 12px; padding: 14px; background: var(--surface-2); border-radius: 9px; }
+  .portfolio-impact { margin-top: 10px; padding: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 7px; }
   .portfolio-title { margin-bottom: 7px; color: var(--amber); font-size: 11px; font-weight: 780; letter-spacing: .08em; }
   .portfolio-row { display: grid; grid-template-columns: minmax(130px, .38fr) 1fr; gap: 12px; padding: 8px 0; border-top: 1px solid var(--line); }
   .portfolio-row:first-of-type { border-top: 0; }
   .portfolio-symbols { font-size: 12px; font-weight: 780; }
   .portfolio-symbols span { display: block; color: var(--muted); font-size: 10px; font-weight: 500; }
-  .portfolio-row p { margin: 0; color: #c9ccd2; font-size: 12px; }
+  .portfolio-row p { margin: 0; color: var(--muted); font-size: 12px; }
   .event-source { margin-top: 11px; color: var(--muted); font-size: 10px; }
+  .event-source a { color: inherit; text-underline-offset: 2px; }
   .data-note { margin: 14px 0 0; }
   .section-note, .special-note { color: var(--muted); font-size: 12px; }
-  .sector-block { margin-top: 26px; }
-  .sector-heading, .special-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--line); }
-  .sector-heading h3, .special-heading h3 { margin: 0 0 9px; font-size: 20px; }
+  .sector-block { margin-top: 9px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); overflow: hidden; }
+  .group-summary, .special-summary { padding: 13px 15px; }
+  .group-summary-copy, .special-summary-copy { min-width: 0; }
+  .sector-heading, .special-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+  .sector-heading h3, .special-heading h3 { margin: 0; font-size: 18px; }
+  .group-teaser { margin: 4px 0 0; overflow: hidden; color: var(--muted); font-size: 12px; text-overflow: ellipsis; white-space: nowrap; }
+  .group-body, .special-body { padding: 0 15px 3px; border-top: 1px solid var(--line); background: var(--surface-2); }
   .sector-move { font-size: 13px; font-weight: 750; font-variant-numeric: tabular-nums; }
-  .story { display: grid; grid-template-columns: 36px 1fr; gap: 10px; padding: 20px 0; border-top: 1px solid var(--line); }
+  .story { display: grid; grid-template-columns: 30px 1fr; gap: 8px; padding: 14px 0; border-top: 1px solid var(--line); }
+  .story-content { min-width: 0; }
   .sector-block .story:first-of-type { border-top: 0; }
-  .story-number { color: #555b65; font-size: 12px; padding-top: 2px; }
-  .story h3 { margin: 6px 0 4px; font-size: 18px; line-height: 1.35; }
+  .story-number { color: #b4b3a8; font-size: 11px; padding-top: 2px; }
+  .story h3 { margin: 4px 0 2px; font-size: 16px; line-height: 1.35; }
   .story h3 a { color: var(--ink); text-decoration: none; }
   .story h3 a:hover { color: var(--green); }
-  .zh-headline { color: #c5c8ce; font-size: 15px; }
   .story-badge { margin-left: 8px; color: var(--amber); font-size: 10px; letter-spacing: .08em; }
-  .summary { margin: 13px 0 4px; color: #d9dbe0; font-size: 14px; }
-  .zh-summary { margin: 5px 0 0; color: var(--muted); font-size: 14px; }
-  .special-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
-  .special-block { min-width: 0; padding: 18px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+  .story-details[open] { margin-top: 8px; }
+  .original-headline { margin: 8px 0 0; color: var(--muted); font-size: 11px; }
+  .story-summary { margin: 6px 0 0; color: var(--muted); font-size: 12px; }
+  .special-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .special-block { min-width: 0; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
   .special-quote { display: flex; align-items: baseline; gap: 8px; white-space: nowrap; }
   .special-price { font-size: 19px; font-weight: 750; }
   .special-change { font-size: 13px; font-weight: 750; }
   .special-session { color: var(--muted); font-size: 10px; letter-spacing: .08em; }
   .special-quote.unavailable { color: var(--muted); font-size: 12px; }
+  .special-body .special-note { margin: 12px 0 0; }
   .special-block .story { grid-template-columns: 24px 1fr; }
   .special-block .story h3 { font-size: 16px; }
-  .special-block .summary, .special-block .zh-summary { display: none; }
-  footer { padding: 28px 0 40px; color: var(--muted); font-size: 11px; }
+  footer { padding: 24px 0 36px; color: var(--muted); font-size: 10px; }
   @media (max-width: 680px) {
     .wrap { padding: 0 16px; }
-    header { padding-top: 30px; }
+    header { padding-top: 24px; }
     .moves { grid-template-columns: repeat(2, 1fr); }
     .premarket-grid { grid-template-columns: repeat(2, 1fr); }
     .scenario-grid { grid-template-columns: 1fr; }
     .portfolio-row { grid-template-columns: 1fr; gap: 3px; }
-    .event-topline { align-items: flex-start; flex-direction: column; gap: 4px; }
+    .event-topline { align-items: center; flex-wrap: wrap; gap: 3px 6px; }
+    .event-summary, .group-summary, .special-summary { padding: 12px; }
+    .event-card h3 { font-size: 17px; }
+    .event-watch { -webkit-line-clamp: 1; }
+    .event-expanded, .group-body, .special-body { padding-left: 12px; padding-right: 12px; }
     .special-grid { grid-template-columns: 1fr; }
     .move-value { font-size: 20px; }
-    .story { grid-template-columns: 28px 1fr; }
+    .story { grid-template-columns: 24px 1fr; }
   }
 </style>
 </head>
@@ -2449,9 +2525,10 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
 """)
 
 ICON_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
-  <rect width="192" height="192" rx="42" fill="#0b0c0e"/>
-  <path d="M34 126 L67 97 L91 110 L126 66 L159 82" fill="none" stroke="#5ee39a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="126" cy="66" r="9" fill="#e7bd72"/>
+  <rect width="192" height="192" rx="42" fill="#ffffff"/>
+  <path d="M34 126 L67 97 L91 110 L126 66 L159 82" fill="none" stroke="#15724c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="126" cy="66" r="9" fill="#9a5b2b"/>
+  <rect x="1" y="1" width="190" height="190" rx="41" fill="none" stroke="#e4e3dc" stroke-width="2"/>
 </svg>
 """
 
@@ -2462,8 +2539,8 @@ MANIFEST_JSON = """{
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#0b0c0e",
-  "theme_color": "#0b0c0e",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]

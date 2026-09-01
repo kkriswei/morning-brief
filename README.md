@@ -16,13 +16,15 @@ The market section no longer treats a popular headline as the reason stocks move
 
 ## Brief structure
 
-1. **盘前行情** — delayed extended-hours price versus prior close, cumulative premarket volume, range, feed, and timestamp.
-2. **本周关键事件** — verified ET date/time, what to watch, separate bullish/bearish scenarios, affected sectors, and qualitative sensitivity for the monitored positions.
+The published page uses a white, compact reading view. It shows the decision-useful line first; supporting evidence, scenarios, position impact, market-data notes, and story summaries stay collapsed until the reader opens them.
+
+1. **本周关键事件** — verified ET date/time and one-line watch item first; bullish/bearish scenarios, affected sectors, and monitored-position sensitivity expand on click.
+2. **盘前行情** — delayed extended-hours price versus prior close first; cumulative volume, range, feed, and timestamp expand on click.
 3. **今日总览** — `偏利好`, `偏利空`, `中性偏利好/利空`, or `中性分化`, backed by the four broad-index proxies and sector breadth.
-4. **板块核心新闻** — up to two high-signal stories per selected sector, such as semiconductors, technology/AI, financials, energy, macro/rates, consumer, healthcare, and industrials.
-5. **SPCX / SpaceX 相关** — SPCX quote plus stories matching the SPCX symbol or SpaceX, Starlink, and Starship keywords. Related SpaceX coverage is not automatically described as direct SPCX fundamentals.
-6. **MRVL · Marvell** — an independent MRVL quote and dedicated Marvell/semiconductor news list.
-7. **全球重大新闻** — kept separate so world stories cannot be misrepresented as the cause of a US-market move.
+4. **板块核心新闻** — each sector shows one headline preview; open it for up to two high-signal stories and their summaries.
+5. **SPCX / SpaceX 相关** — the quote and newest headline stay visible; the dedicated watch list expands on click. Related SpaceX coverage is not automatically described as direct SPCX fundamentals.
+6. **MRVL · Marvell** — the independent quote and newest headline stay visible; detailed Marvell/semiconductor coverage expands on click.
+7. **全球重大新闻** — headlines stay scannable and separate; summaries and original titles expand on click.
 
 ## Data sources
 

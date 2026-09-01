@@ -531,6 +531,9 @@ class WeeklyEventTests(unittest.TestCase):
         self.assertIn("偏利空情景", page)
         self.assertIn("对当前监控仓位的影响", page)
         self.assertIn("SMH / MRVL", page)
+        self.assertEqual(page.count('<details class="event-card'), 6)
+        self.assertNotIn('<details class="event-card event-next" open', page)
+        self.assertIn("点击事件，查看利好/利空情景和仓位影响", page)
         self.assertEqual(len(status["weekly_events"]["events"]), 6)
 
         messages = mb._notification_messages(
@@ -773,7 +776,14 @@ class RenderTests(unittest.TestCase):
         self.assertEqual(status["generated_at"], now.isoformat())
         self.assertEqual(status["overview"], "偏利空")
         self.assertIn("@media (max-width: 680px)", page)
-        self.assertIn(">Market falls</a>", page)
+        self.assertIn("--bg: #ffffff", page)
+        self.assertIn('<meta name="theme-color" content="#ffffff">', page)
+        self.assertNotIn("black-translucent", page)
+        self.assertIn('<details class="story-details">', page)
+        self.assertIn("查看摘要与原文", page)
+        self.assertIn('<p class="original-headline">原文：Market falls</p>', page)
+        self.assertIn('<details class="sector-block">', page)
+        self.assertIn('<details class="special-block">', page)
         self.assertNotIn("<script>alert(1)</script>", page)
 
     def test_premarket_render_keeps_extended_hours_separate_from_prior_close(self) -> None:
@@ -797,7 +807,10 @@ class RenderTests(unittest.TestCase):
         self.assertLess(page.index("本周关键事件"), page.index("PREMARKET · DELAYED"))
         self.assertIn("PREMARKET · DELAYED", page)
         self.assertIn("盘前行情", page)
-        self.assertIn("vs 昨收", page)
+        self.assertIn("相对昨收", page)
+        self.assertIn("成交细节", page)
+        self.assertIn('<details class="mini-details">', page)
+        self.assertIn("数据说明", page)
         self.assertIn("成交量为 4:00 AM ET 起盘前累计", page)
         self.assertIn("最近完整交易日 · Friday, July 24, 2026", page)
         self.assertEqual(status["mode"], "盘前简报")
