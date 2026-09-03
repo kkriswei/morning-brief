@@ -821,7 +821,7 @@ class ScheduleTests(unittest.TestCase):
             encoding="utf-8"
         )
         self.assertIn('cron: "7,22,37,52 0,8-23 * * 1-5"', workflow)
-        self.assertIn('cron: "7,37 * * 0,6"', workflow)
+        self.assertIn('cron: "7,37 * * * 0,6"', workflow)
         self.assertIn('"10 13 * * 1-5"|"10 14 * * 1-5"', workflow)
         self.assertIn("python morning_brief.py --web-refresh --no-push", workflow)
 
