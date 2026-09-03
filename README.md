@@ -73,7 +73,7 @@ The live page is hosted on GitHub Pages at:
 
 https://kkriswei.github.io/morning-brief/
 
-GitHub Actions targets a refresh every 15 minutes during weekday market-active hours, every 30 minutes on weekends, and hourly overnight. During weekday premarket hours, the premarket block keeps current extended-hours prices separate from the latest completed session.
+GitHub Actions targets a silent refresh every 15 minutes, 24/7, using one off-the-hour schedule. During weekday premarket hours, the premarket block keeps current extended-hours prices separate from the latest completed session.
 
 The weekend edition keeps Friday as the latest completed market session for the close recap, while sector, focus-list, and world sections accept only Saturday/Sunday stories. This prevents a high-scoring Friday recap from looking like current weekend news.
 
@@ -168,7 +168,7 @@ The brief reports delayed market data and evidence-ranked news attribution. `偏
 | `morning_brief.py` | Market bars, weekly calendar, news ranking, translations, HTML, and ntfy |
 | `data/weekly_events.json` | Time-bounded, source-linked events and scenario/position impact |
 | `tests/test_morning_brief.py` | Deterministic session, calendar, ranking, pagination, schedule, and render tests |
-| `.github/workflows/morning-brief.yml` | Redundant 15/30-minute silent refreshes plus DST-aware weekday notification slots |
+| `.github/workflows/morning-brief.yml` | Continuous 15-minute silent refreshes plus DST-aware weekday notification slots |
 | `docs/index.html` | Generated PWA page |
 | `docs/status.json` | Small deployment version marker used by browser auto-refresh |
 | `docs/event-results.json` | Persisted, source-linked event results found by earlier runs |

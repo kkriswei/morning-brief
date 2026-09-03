@@ -816,14 +816,20 @@ class BriefStructureTests(unittest.TestCase):
 
 
 class ScheduleTests(unittest.TestCase):
-    def test_workflow_uses_redundant_refreshes_and_separate_notifications(self) -> None:
+    def test_workflow_uses_continuous_refreshes_and_separate_notifications(self) -> None:
         workflow = (mb.ROOT / ".github" / "workflows" / "morning-brief.yml").read_text(
             encoding="utf-8"
         )
-        self.assertIn('cron: "7,22,37,52 0,8-23 * * 1-5"', workflow)
-        self.assertIn('cron: "7,37 * * * 0,6"', workflow)
+        self.assertIn('cron: "7-59/15 * * * *"', workflow)
         self.assertIn('"10 13 * * 1-5"|"10 14 * * 1-5"', workflow)
         self.assertIn("python morning_brief.py --web-refresh --no-push", workflow)
+        cron_values = [
+            line.split('"')[1]
+            for line in workflow.splitlines()
+            if line.strip().startswith("- cron:")
+        ]
+        self.assertTrue(cron_values)
+        self.assertTrue(all(len(value.split()) == 5 for value in cron_values))
 
     def test_schedule_gate_handles_daylight_and_standard_time(self) -> None:
         self.assertEqual(

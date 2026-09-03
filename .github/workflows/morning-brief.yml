@@ -12,11 +12,8 @@ on:
   # because scheduled runs are best-effort and may start late. Notification
   # slots remain gated in America/New_York by morning_brief.py --scheduled.
   schedule:
-    # Weekdays: target 15-minute refreshes during market-active UTC hours,
-    # hourly overnight. Weekends: target 30-minute refreshes around the clock.
-    - cron: "7,22,37,52 0,8-23 * * 1-5"
-    - cron: "17 1-7 * * 1-5"
-    - cron: "7,37 * * * 0,6"
+    # Use one simple, off-the-hour expression for silent 24/7 refreshes.
+    - cron: "7-59/15 * * * *"
     # DST-safe weekday phone-notification candidates.
     - cron: "10 13 * * 1-5"
     - cron: "10 14 * * 1-5"
