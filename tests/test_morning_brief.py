@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import tempfile
 import unittest
+from dataclasses import replace
 from datetime import date, datetime, time, timezone
 from pathlib import Path
 
@@ -481,6 +482,120 @@ class WeeklyEventTests(unittest.TestCase):
             ("SMH", "VOO", "QQQM", "MRVL", "SPCX"),
         )
         self.assertTrue(all(event.source_url.startswith("https://") for event in calendar.events))
+        self.assertTrue(all(event.event_id for event in calendar.events))
+        self.assertTrue(all(event.result is None for event in calendar.events))
+
+    def test_published_results_load_without_leaking_future_results(self) -> None:
+        released_now = datetime(2026, 9, 3, 22, 10, tzinfo=timezone.utc)
+        calendar = mb.load_weekly_event_calendar(released_now)
+
+        self.assertTrue(all(event.result is not None for event in calendar.events[:5]))
+        self.assertIsNone(calendar.events[-1].result)
+        services = calendar.events[4].result
+        self.assertIsNotNone(services)
+        self.assertEqual(services.metrics[0].actual, "55.4")
+        self.assertEqual(services.metrics[0].expected, "54.3")
+        self.assertIn("QQQM", services.portfolio_impact_zh)
+
+    def test_current_news_pull_can_fill_ism_result(self) -> None:
+        now = datetime(2026, 9, 3, 20, 30, tzinfo=timezone.utc)
+        calendar = mb.load_weekly_event_calendar(now)
+        services = replace(calendar.events[4], result=None)
+        calendar = replace(calendar, events=[*calendar.events[:4], services, calendar.events[5]])
+        release = {
+            "headline": "Gold Jumps 3%; ISM Services PMI Rises In August",
+            "summary": (
+                "ISM services PMI surged to 55.4 in August from 54.1, "
+                "topping market estimates of 54.3."
+            ),
+            "content": "",
+            "url": "https://example.com/ism-services",
+            "source": "Benzinga",
+            "created_at": "2026-09-03T14:05:00+00:00",
+        }
+
+        refreshed = mb.update_weekly_event_results(calendar, [release], now)
+        result = refreshed.events[4].result
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.verdict_zh, "增长强于预期")
+        self.assertEqual(result.metrics[0].actual, "55.4")
+        self.assertEqual(result.metrics[0].expected, "54.3")
+        self.assertEqual(result.metrics[0].previous, "54.1")
+
+    def test_current_news_pull_parses_negative_payroll_result(self) -> None:
+        now = datetime(2026, 9, 4, 13, 0, tzinfo=timezone.utc)
+        event = mb.load_weekly_event_calendar(now).events[-1]
+        release = {
+            "headline": "US employers cut jobs in August",
+            "summary": (
+                "Nonfarm payrolls contracted by 23,000 versus a consensus estimate "
+                "of 83,000. The unemployment rate came in at 4.1% versus 4.2%. "
+                "Average hourly earnings rose 0.1% month-over-month."
+            ),
+            "content": "",
+            "url": "https://example.com/jobs-report",
+            "source": "Benzinga",
+            "created_at": "2026-09-04T12:31:00+00:00",
+        }
+
+        result = mb._employment_result_from_article(event, release)
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.verdict_zh, "就业明显转弱")
+        self.assertEqual(result.metrics[0].actual, "-23K")
+        self.assertEqual(result.metrics[0].expected, "83K")
+        self.assertEqual(result.metrics[1].actual, "4.1%")
+        self.assertEqual(result.metrics[1].expected, "4.2%")
+
+    def test_employment_parser_handles_release_shorthand(self) -> None:
+        now = datetime(2026, 9, 4, 13, 0, tzinfo=timezone.utc)
+        event = mb.load_weekly_event_calendar(now).events[-1]
+        release = {
+            "headline": "Nasdaq gains as US jobs report lands",
+            "summary": (
+                "Nonfarm payrolls came at -23K vs 86K consensus. "
+                "Unemployment 4.1% vs 4.2% expected. "
+                "Average hourly earnings 0.1% vs 0.3%."
+            ),
+            "url": "https://example.com/jobs-shorthand",
+            "source": "Benzinga",
+            "created_at": "2026-09-04T12:31:00+00:00",
+        }
+
+        result = mb._employment_result_from_article(event, release)
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.metrics[0].actual, "-23K")
+        self.assertEqual(result.metrics[0].expected, "86K")
+        self.assertEqual(result.metrics[1].expected, "4.2%")
+        self.assertEqual(result.metrics[2].actual, "0.1%")
+
+    def test_event_result_cache_survives_next_render(self) -> None:
+        now = datetime(2026, 9, 4, 13, 0, tzinfo=timezone.utc)
+        calendar = mb.load_weekly_event_calendar(now)
+        employment = calendar.events[-1]
+        result = mb.EventResult(
+            published_at=datetime(2026, 9, 4, 12, 31, tzinfo=timezone.utc),
+            source="Test source",
+            source_url="https://example.com/result",
+            verdict_zh="已公布",
+            summary_zh="测试结果",
+            sector_impact_zh="测试板块影响",
+            portfolio_impact_zh="测试仓位影响",
+            metrics=(mb.EventMetric("非农就业", "100K", "90K"),),
+        )
+        with_result = replace(
+            calendar,
+            events=[*calendar.events[:-1], replace(employment, result=result)],
+        )
+
+        with tempfile.TemporaryDirectory() as directory:
+            cache_path = Path(directory) / mb.EVENT_RESULTS_CACHE_NAME
+            mb._write_event_results_cache(with_result, cache_path, now)
+            restored = mb.merge_cached_event_results(calendar, cache_path, now)
+
+        self.assertEqual(restored.events[-1].result.summary_zh, "测试结果")
 
     def test_invalid_calendar_entry_is_skipped_without_inventing_an_event(self) -> None:
         payload = {
@@ -533,7 +648,7 @@ class WeeklyEventTests(unittest.TestCase):
         self.assertIn("SMH / MRVL", page)
         self.assertEqual(page.count('<details class="event-card'), 6)
         self.assertNotIn('<details class="event-card event-next" open', page)
-        self.assertIn("点击事件，查看利好/利空情景和仓位影响", page)
+        self.assertIn("公布后直接显示实际结果", page)
         self.assertEqual(len(status["weekly_events"]["events"]), 6)
 
         messages = mb._notification_messages(
@@ -701,6 +816,15 @@ class BriefStructureTests(unittest.TestCase):
 
 
 class ScheduleTests(unittest.TestCase):
+    def test_workflow_uses_redundant_refreshes_and_separate_notifications(self) -> None:
+        workflow = (mb.ROOT / ".github" / "workflows" / "morning-brief.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn('cron: "7,22,37,52 0,8-23 * * 1-5"', workflow)
+        self.assertIn('cron: "7,37 * * 0,6"', workflow)
+        self.assertIn('"10 13 * * 1-5"|"10 14 * * 1-5"', workflow)
+        self.assertIn("python morning_brief.py --web-refresh --no-push", workflow)
+
     def test_schedule_gate_handles_daylight_and_standard_time(self) -> None:
         self.assertEqual(
             mb.scheduled_slot(datetime(2026, 7, 27, 13, 10, tzinfo=timezone.utc)),
@@ -770,11 +894,14 @@ class RenderTests(unittest.TestCase):
         self.assertIn("半导体", page)
         self.assertIn("SPCX / SpaceX 相关", page)
         self.assertIn("MRVL · Marvell", page)
-        self.assertIn("网页自动更新 · 每分钟检查", page)
+        self.assertIn("后台目标每 15 分钟更新", page)
+        self.assertIn("本页每分钟检查新版本", page)
+        self.assertIn("后台数据已延迟", page)
         self.assertIn('fetch("status.json?ts=" + Date.now()', page)
-        self.assertIn("window.setInterval(checkForUpdate, 60000)", page)
+        self.assertIn("window.setInterval(() =>", page)
         self.assertEqual(status["generated_at"], now.isoformat())
         self.assertEqual(status["overview"], "偏利空")
+        self.assertEqual(status["refresh_policy"]["backend_target_minutes"], 15)
         self.assertIn("@media (max-width: 680px)", page)
         self.assertIn("--bg: #ffffff", page)
         self.assertIn('<meta name="theme-color" content="#ffffff">', page)

@@ -12,13 +12,14 @@ The market section no longer treats a popular headline as the reason stocks move
 6. Match stories to the same session, actual index direction, broad-market language, and catalyst category.
 7. Produce a Chinese bullish/bearish overview from actual breadth, not headline tone.
 8. Group only the strongest stories into sector buckets, then render SPCX/SpaceX-related and MRVL news in dedicated sections.
-9. Show source links and confidence. If evidence is insufficient, the brief says so instead of inventing a cause.
+9. Detect supported macro-event results from the latest news pull, preserve them in a deployment cache, and show actual/expected/previous values with post-release sector and portfolio impact.
+10. Show source links and confidence. If evidence is insufficient, the brief says so instead of inventing a cause.
 
 ## Brief structure
 
 The published page uses a white, compact reading view. It shows the decision-useful line first; supporting evidence, scenarios, position impact, market-data notes, and story summaries stay collapsed until the reader opens them.
 
-1. **本周关键事件** — verified ET date/time and one-line watch item first; bullish/bearish scenarios, affected sectors, and monitored-position sensitivity expand on click.
+1. **本周关键事件** — released events show the actual result first; actual/expected/previous values, affected sectors, monitored-position impact, source, and pre-release scenarios expand on click.
 2. **盘前行情** — delayed extended-hours price versus prior close first; cumulative volume, range, feed, and timestamp expand on click.
 3. **今日总览** — `偏利好`, `偏利空`, `中性偏利好/利空`, or `中性分化`, backed by the four broad-index proxies and sector breadth.
 4. **板块核心新闻** — each sector shows one headline preview; open it for up to two high-signal stories and their summaries.
@@ -54,7 +55,7 @@ The published page uses a white, compact reading view. It shows the decision-use
 - ISM official Manufacturing and Services PMI release calendar.
 - Company investor-relations announcements for selected high-impact earnings.
 
-`data/weekly_events.json` is source-verified and time-bounded. The renderer shows only the active market week, so an expired event cannot silently roll forward as current. On Saturday and Sunday, “本周” means the coming Monday-through-Sunday market week.
+`data/weekly_events.json` is source-verified and time-bounded. The renderer shows only the active market week, so an expired event cannot silently roll forward as current. On Saturday and Sunday, “本周” means the coming Monday-through-Sunday market week. Supported macro releases are also checked against the current Alpaca/Benzinga article pull after their scheduled time. Parsed results are written to `docs/event-results.json` so a result cannot disappear on the next run; each result retains a visible source and timestamp.
 
 The current monitored-symbol list is `SMH / VOO / QQQM / MRVL / SPCX`. Only direction and sensitivity are published; weights, cost basis, and account values are not stored. Update the JSON when the monitored list or next verified calendar changes. A JSON-only push also triggers regeneration.
 
@@ -72,11 +73,11 @@ The live page is hosted on GitHub Pages at:
 
 https://kkriswei.github.io/morning-brief/
 
-GitHub Actions silently regenerates the page once an hour, 24/7. During weekday premarket hours, the premarket block keeps current extended-hours prices separate from the latest completed session.
+GitHub Actions targets a refresh every 15 minutes during weekday market-active hours, every 30 minutes on weekends, and hourly overnight. During weekday premarket hours, the premarket block keeps current extended-hours prices separate from the latest completed session.
 
 The weekend edition keeps Friday as the latest completed market session for the close recap, while sector, focus-list, and world sections accept only Saturday/Sunday stories. This prevents a high-scoring Friday recap from looking like current weekend news.
 
-These website refreshes do not send ntfy notifications. An open browser checks `docs/status.json` every minute and reloads only when a newly generated brief has actually been deployed.
+These website refreshes do not send ntfy notifications. An open browser checks `docs/status.json` every minute and reloads only when a newly generated brief has actually been deployed. The one-minute browser check is not described as a one-minute data refresh: the header always shows the exact generation time and turns amber/red when the deployed data is delayed.
 
 GitHub cron is best-effort and can start a few minutes late. The page therefore shows its generation time instead of claiming real-time data.
 
@@ -167,8 +168,9 @@ The brief reports delayed market data and evidence-ranked news attribution. `偏
 | `morning_brief.py` | Market bars, weekly calendar, news ranking, translations, HTML, and ntfy |
 | `data/weekly_events.json` | Time-bounded, source-linked events and scenario/position impact |
 | `tests/test_morning_brief.py` | Deterministic session, calendar, ranking, pagination, schedule, and render tests |
-| `.github/workflows/morning-brief.yml` | Hourly silent refresh plus DST-aware weekday notification slots |
+| `.github/workflows/morning-brief.yml` | Redundant 15/30-minute silent refreshes plus DST-aware weekday notification slots |
 | `docs/index.html` | Generated PWA page |
 | `docs/status.json` | Small deployment version marker used by browser auto-refresh |
+| `docs/event-results.json` | Persisted, source-linked event results found by earlier runs |
 | `docs/manifest.webmanifest` | PWA manifest |
 | `docs/icon.svg` | PWA icon |

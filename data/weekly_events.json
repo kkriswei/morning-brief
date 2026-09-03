@@ -1,9 +1,10 @@
 {
-  "verified_at": "2026-08-30T17:15:00-04:00",
+  "verified_at": "2026-09-03T18:05:00-04:00",
   "portfolio_symbols": ["SMH", "VOO", "QQQM", "MRVL", "SPCX"],
   "portfolio_note_zh": "按当前股票监控清单做定性敏感度分析；公开页面不保存仓位权重、成本或账户金额。",
   "events": [
     {
+      "id": "jolts-2026-07",
       "starts_at": "2026-09-01T10:00:00-04:00",
       "time_label_zh": "周二 10:00 AM ET",
       "title_zh": "美国 7 月 JOLTS 职位空缺",
@@ -31,9 +32,27 @@
           "sensitivity": "中",
           "summary_zh": "分散度较高，但极端就业信号仍会通过大盘盈利和估值传导。"
         }
-      ]
+      ],
+      "result": {
+        "published_at": "2026-09-01T10:00:00-04:00",
+        "source": "U.S. Bureau of Labor Statistics",
+        "source_url": "https://www.bls.gov/news.release/archives/jolts_09012026.htm",
+        "verdict_zh": "空缺小幅回升，招聘走弱",
+        "summary_zh": "7 月职位空缺升至 727.1 万，6 月修正值为 718.2 万；招聘降至 505.4 万，总离职降至 507.2 万。劳动力需求未失速，但招聘动能偏弱。",
+        "sector_impact_zh": "降息预期与增长担忧相互抵消；长久期科技偏受益于收益率缓和，金融和周期板块更在意招聘走弱。",
+        "portfolio_impact_zh": "QQQM、SMH、MRVL有利率缓和支撑；VOO与SPCX仍需防范增长预期下修。",
+        "tone": "mixed",
+        "metrics": [
+          {"label_zh": "职位空缺", "actual": "727.1 万", "previous": "718.2 万"},
+          {"label_zh": "招聘人数", "actual": "505.4 万", "previous": "533.2 万"},
+          {"label_zh": "总离职人数", "actual": "507.2 万", "previous": "533.7 万"}
+        ]
+      }
     },
     {
+      "id": "ism-manufacturing-2026-08",
+      "result_kind": "ism_manufacturing",
+      "result_terms": ["ism manufacturing", "manufacturing pmi"],
       "starts_at": "2026-09-01T10:00:00-04:00",
       "time_label_zh": "周二 10:00 AM ET",
       "title_zh": "美国 8 月 ISM 制造业 PMI",
@@ -61,9 +80,26 @@
           "sensitivity": "中",
           "summary_zh": "制造业占指数盈利的一部分，影响通常弱于就业报告。"
         }
-      ]
+      ],
+      "result": {
+        "published_at": "2026-09-01T10:00:00-04:00",
+        "source": "Institute for Supply Management",
+        "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/",
+        "verdict_zh": "制造业仍扩张，但动能放缓",
+        "summary_zh": "8 月制造业 PMI 为 54.6，低于 7 月的 55.6；新订单降至 53.7，生产 58.3，就业 51.2，价格指数维持 71.1。",
+        "sector_impact_zh": "工业与材料仍获扩张支撑，但订单和就业降温压低追涨理由；价格分项高企对高估值科技不利。",
+        "portfolio_impact_zh": "SMH、MRVL面临订单放缓与高价格分项的拉扯；QQQM、SPCX偏受利率压力，VOO影响中性。",
+        "tone": "mixed",
+        "metrics": [
+          {"label_zh": "ISM 制造业 PMI", "actual": "54.6", "previous": "55.6"},
+          {"label_zh": "新订单", "actual": "53.7", "previous": "56.7"},
+          {"label_zh": "就业", "actual": "51.2", "previous": "52.8"},
+          {"label_zh": "价格", "actual": "71.1", "previous": "71.1"}
+        ]
+      }
     },
     {
+      "id": "fed-beige-book-2026-09",
       "starts_at": "2026-09-02T14:00:00-04:00",
       "time_label_zh": "周三 2:00 PM ET",
       "title_zh": "美联储褐皮书",
@@ -91,9 +127,21 @@
           "sensitivity": "中",
           "summary_zh": "影响较分散，主要改变对大盘盈利和 9 月利率路径的判断。"
         }
-      ]
+      ],
+      "result": {
+        "published_at": "2026-09-02T14:00:00-04:00",
+        "source": "Federal Reserve Board",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202608-summary.htm",
+        "verdict_zh": "经济温和增长，但地区分化",
+        "summary_zh": "经济活动温和增加：12 个地区中 10 个报告轻微至温和增长，2 个基本不变；消费者支出略增，但汽车相关支出偏弱，企业前景分化加大。",
+        "sector_impact_zh": "软着陆叙事仍在，但消费和地区分化限制周期板块上行；后续通胀与就业数据仍决定利率方向。",
+        "portfolio_impact_zh": "VOO总体中性偏正面；QQQM、SMH和MRVL仍取决于收益率，SPCX继续对风险偏好高度敏感。",
+        "tone": "mixed",
+        "metrics": []
+      }
     },
     {
+      "id": "broadcom-fy2026-q3",
       "starts_at": "2026-09-02T17:00:00-04:00",
       "time_label_zh": "周三盘后 · 电话会 5:00 PM ET",
       "title_zh": "Broadcom（AVGO）FY2026 Q3 财报与指引",
@@ -121,9 +169,28 @@
           "sensitivity": "低至中",
           "summary_zh": "VOO 受权重和大盘情绪传导；SPCX 主要受风险偏好间接影响。"
         }
-      ]
+      ],
+      "result": {
+        "published_at": "2026-09-02T17:00:00-04:00",
+        "source": "Broadcom Investor Relations",
+        "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+        "verdict_zh": "AI 增长强劲，短线仍看指引预期差",
+        "summary_zh": "Q3 营收 296 亿美元，同比增长 86%；非 GAAP EPS 为 3.32 美元；AI 半导体收入 167 亿美元，同比增长 221%；Q4 营收指引约 348 亿美元。",
+        "sector_impact_zh": "AI 加速器与网络需求继续利好半导体和数据中心链；高估值下，股价更敏感于指引是否高于市场已计入的预期。",
+        "portfolio_impact_zh": "SMH、MRVL获得最直接的同业需求验证；QQQM受AI权重传导，VOO与SPCX主要受大盘风险偏好影响。",
+        "tone": "mixed",
+        "metrics": [
+          {"label_zh": "Q3 营收", "actual": "$29.6B"},
+          {"label_zh": "非 GAAP EPS", "actual": "$3.32"},
+          {"label_zh": "AI 半导体收入", "actual": "$16.7B"},
+          {"label_zh": "Q4 营收指引", "actual": "约 $34.8B"}
+        ]
+      }
     },
     {
+      "id": "ism-services-2026-08",
+      "result_kind": "ism_services",
+      "result_terms": ["ism services", "services pmi"],
       "starts_at": "2026-09-03T10:00:00-04:00",
       "time_label_zh": "周四 10:00 AM ET",
       "title_zh": "美国 8 月 ISM 服务业 PMI",
@@ -151,9 +218,28 @@
           "sensitivity": "中",
           "summary_zh": "服务业范围广，若数据显著偏离预期，对大盘影响会高于制造业 PMI。"
         }
-      ]
+      ],
+      "result": {
+        "published_at": "2026-09-03T10:00:00-04:00",
+        "source": "ISM（实际/前值）与 Benzinga（市场预期）",
+        "source_url": "https://www.benzinga.com/markets/market-summary/26/09/61608881/gold-jumps-3-ism-services-pmi-rises-in-august",
+        "verdict_zh": "需求强于预期，价格分项偏鹰",
+        "summary_zh": "8 月服务业 PMI 升至 55.4，高于市场预期 54.3 和前值 54.1；新订单升至 60.9，但就业仍在 47.8 的收缩区间，价格指数升至 72.6。",
+        "sector_impact_zh": "服务需求利好金融和消费服务，但价格压力可能推高收益率，对高估值科技和利率敏感资产不利。",
+        "portfolio_impact_zh": "VOO受增长支撑；QQQM、SMH、MRVL和SPCX面临强增长与利率上行的双向拉扯，短线偏谨慎。",
+        "tone": "mixed",
+        "metrics": [
+          {"label_zh": "ISM 服务业 PMI", "actual": "55.4", "expected": "54.3", "previous": "54.1"},
+          {"label_zh": "新订单", "actual": "60.9", "previous": "57.2"},
+          {"label_zh": "就业", "actual": "47.8", "previous": "47.4"},
+          {"label_zh": "价格", "actual": "72.6", "previous": "70.3"}
+        ]
+      }
     },
     {
+      "id": "employment-2026-08",
+      "result_kind": "employment",
+      "result_terms": ["nonfarm payroll", "jobs report", "unemployment rate", "employers added", "employers cut"],
       "starts_at": "2026-09-04T08:30:00-04:00",
       "time_label_zh": "周五 8:30 AM ET",
       "title_zh": "美国 8 月就业报告",

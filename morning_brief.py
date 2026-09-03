@@ -24,7 +24,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from datetime import date, datetime, time, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -41,6 +41,7 @@ ROOT = Path(__file__).resolve().parent
 ENV_PATH = ROOT / ".env"
 SITE_DIR = ROOT / "docs"
 WEEKLY_EVENTS_PATH = ROOT / "data" / "weekly_events.json"
+EVENT_RESULTS_CACHE_NAME = "event-results.json"
 NY_TZ = ZoneInfo("America/New_York")
 
 ALPACA_NEWS_URL = "https://data.alpaca.markets/v1beta1/news"
@@ -66,6 +67,9 @@ RSS_ITEMS_PER_FEED = 20
 NEWS_LOOKBACK_HOURS = 48
 MAX_NEWS_LOOKBACK_HOURS = 96
 SECTION_NEWS_LOOKBACK_HOURS = 36
+EVENT_RESULT_LOOKBACK_HOURS = 36
+EVENT_RESULT_GRACE_MINUTES = 15
+WEB_REFRESH_TARGET_MINUTES = 15
 SUMMARY_TARGET_CHARS = 360
 SUMMARY_MAX_CHARS = 480
 COMPLETED_SESSION_DELAY_MINUTES = 30
@@ -288,6 +292,27 @@ class PortfolioImpact:
 
 
 @dataclass(frozen=True)
+class EventMetric:
+    label_zh: str
+    actual: str
+    expected: str = ""
+    previous: str = ""
+
+
+@dataclass(frozen=True)
+class EventResult:
+    published_at: datetime
+    source: str
+    source_url: str
+    verdict_zh: str
+    summary_zh: str
+    sector_impact_zh: str
+    portfolio_impact_zh: str
+    tone: str = "neutral"
+    metrics: tuple[EventMetric, ...] = ()
+
+
+@dataclass(frozen=True)
 class WeeklyEvent:
     starts_at: datetime
     time_label_zh: str
@@ -301,6 +326,10 @@ class WeeklyEvent:
     bullish_sectors: tuple[str, ...]
     bearish_sectors: tuple[str, ...]
     portfolio_impacts: tuple[PortfolioImpact, ...]
+    event_id: str = ""
+    result_kind: str = ""
+    result_terms: tuple[str, ...] = ()
+    result: EventResult | None = None
 
 
 @dataclass
@@ -580,6 +609,102 @@ def market_week_dates(now: datetime) -> tuple[date, date]:
     return monday, monday + timedelta(days=6)
 
 
+def _event_result_from_payload(raw: object) -> EventResult | None:
+    if not isinstance(raw, dict):
+        return None
+    published_at = parse_ts(str(raw.get("published_at") or ""))
+    source_url = str(raw.get("source_url") or "")
+    if published_at is None or urlparse(source_url).scheme not in {"http", "https"}:
+        return None
+    metrics = tuple(
+        EventMetric(
+            label_zh=str(item.get("label_zh") or "指标"),
+            actual=str(item.get("actual") or ""),
+            expected=str(item.get("expected") or ""),
+            previous=str(item.get("previous") or ""),
+        )
+        for item in raw.get("metrics") or []
+        if isinstance(item, dict) and str(item.get("actual") or "").strip()
+    )
+    return EventResult(
+        published_at=published_at,
+        source=str(raw.get("source") or "来源未提供"),
+        source_url=source_url,
+        verdict_zh=str(raw.get("verdict_zh") or "结果已公布"),
+        summary_zh=str(raw.get("summary_zh") or ""),
+        sector_impact_zh=str(raw.get("sector_impact_zh") or ""),
+        portfolio_impact_zh=str(raw.get("portfolio_impact_zh") or ""),
+        tone=str(raw.get("tone") or "neutral"),
+        metrics=metrics,
+    )
+
+
+def _event_result_to_payload(result: EventResult) -> dict:
+    return {
+        "published_at": result.published_at.isoformat(),
+        "source": result.source,
+        "source_url": result.source_url,
+        "verdict_zh": result.verdict_zh,
+        "summary_zh": result.summary_zh,
+        "sector_impact_zh": result.sector_impact_zh,
+        "portfolio_impact_zh": result.portfolio_impact_zh,
+        "tone": result.tone,
+        "metrics": [
+            {
+                "label_zh": metric.label_zh,
+                "actual": metric.actual,
+                "expected": metric.expected,
+                "previous": metric.previous,
+            }
+            for metric in result.metrics
+        ],
+    }
+
+
+def merge_cached_event_results(
+    calendar: WeeklyEventCalendar,
+    path: Path,
+    as_of: datetime | None = None,
+) -> WeeklyEventCalendar:
+    """Restore results found by an earlier run so they do not disappear."""
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return calendar
+    raw_results = payload.get("results") if isinstance(payload, dict) else None
+    if not isinstance(raw_results, dict):
+        return calendar
+    events: list[WeeklyEvent] = []
+    for event in calendar.events:
+        result = event.result or _event_result_from_payload(
+            raw_results.get(event.event_id)
+        )
+        if result is not None and as_of is not None and result.published_at > as_of:
+            result = None
+        events.append(replace(event, result=result))
+    return replace(calendar, events=events)
+
+
+def _write_event_results_cache(
+    calendar: WeeklyEventCalendar,
+    path: Path,
+    now: datetime,
+) -> None:
+    results = {
+        event.event_id: _event_result_to_payload(event.result)
+        for event in calendar.events
+        if event.event_id and event.result is not None
+    }
+    payload = {
+        "updated_at": now.astimezone(timezone.utc).isoformat(),
+        "results": results,
+    }
+    path.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
 def load_weekly_event_calendar(
     now: datetime,
     path: Path = WEEKLY_EVENTS_PATH,
@@ -628,10 +753,18 @@ def load_weekly_event_calendar(
                 )
                 for item in raw.get("portfolio_impacts") or []
             )
+            title_zh = str(raw.get("title_zh") or "未命名事件")
+            event_id = str(raw.get("id") or "").strip()
+            if not event_id:
+                slug = re.sub(r"[^a-z0-9]+", "-", title_zh.lower()).strip("-")
+                event_id = f"{event_date.isoformat()}-{slug or 'event'}"
+            event_result = _event_result_from_payload(raw.get("result"))
+            if event_result is not None and event_result.published_at > now:
+                event_result = None
             event = WeeklyEvent(
                 starts_at=starts_at,
                 time_label_zh=str(raw.get("time_label_zh") or "时间待确认"),
-                title_zh=str(raw.get("title_zh") or "未命名事件"),
+                title_zh=title_zh,
                 importance=str(raw.get("importance") or "中"),
                 source=str(raw.get("source") or "来源未提供"),
                 source_url=source_url,
@@ -645,6 +778,14 @@ def load_weekly_event_calendar(
                     str(item) for item in raw.get("bearish_sectors") or []
                 ),
                 portfolio_impacts=impacts,
+                event_id=event_id,
+                result_kind=str(raw.get("result_kind") or "").strip(),
+                result_terms=tuple(
+                    str(item).strip().lower()
+                    for item in raw.get("result_terms") or []
+                    if str(item).strip()
+                ),
+                result=event_result,
             )
             events.append(event)
         except (AttributeError, TypeError, ValueError) as exc:
@@ -686,6 +827,286 @@ def _clean_markup(value: str) -> str:
         return ""
     text = BeautifulSoup(value, "html.parser").get_text(" ", strip=True)
     return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+
+def _first_match(text: str, patterns: tuple[str, ...]) -> str:
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+        if match:
+            return match.group(1).replace(",", "")
+    return ""
+
+
+def _event_article_text(article: dict) -> str:
+    return _clean_markup(
+        " ".join(
+            str(article.get(key) or "")
+            for key in ("headline", "summary", "content")
+        )
+    )
+
+
+def _metric_value(value: str, suffix: str = "") -> str:
+    return f"{value}{suffix}" if value else ""
+
+
+def _ism_result_from_article(event: WeeklyEvent, article: dict) -> EventResult | None:
+    text = _event_article_text(article)
+    flavor = "services" if event.result_kind == "ism_services" else "manufacturing"
+    actual = _first_match(
+        text,
+        (
+            rf"ISM\s+{flavor}\s+PMI[^.\n]{{0,100}}?(?:to|at|registered)\s+(\d{{2}}(?:\.\d+)?)",
+            rf"{flavor}\s+PMI[^.\n]{{0,100}}?(?:to|at|registered)\s+(\d{{2}}(?:\.\d+)?)",
+        ),
+    )
+    if not actual:
+        return None
+    previous = _first_match(
+        text,
+        (
+            r"(?:from|previous (?:month|reading)(?: of)?|compared to [^,.]{0,35}?figure of)\s+(\d{2}(?:\.\d+)?)",
+        ),
+    )
+    expected = _first_match(
+        text,
+        (
+            r"(?:market |consensus )?(?:estimates?|expectations?|forecast)(?: of| at)?\s+(\d{2}(?:\.\d+)?)",
+            r"(?:vs\.?|versus)\s+(\d{2}(?:\.\d+)?)\s+(?:estimate|consensus)",
+        ),
+    )
+    actual_value = float(actual)
+    expected_value = float(expected) if expected else None
+    if expected_value is not None and actual_value >= expected_value + 0.3:
+        verdict = "增长强于预期"
+    elif expected_value is not None and actual_value <= expected_value - 0.3:
+        verdict = "增长弱于预期"
+    elif actual_value >= 50:
+        verdict = "维持扩张"
+    else:
+        verdict = "处于收缩"
+    tone = "negative" if actual_value < 50 else "mixed"
+    sector = "服务业、金融和消费板块先看需求改善；高估值科技同时要防范收益率上行。"
+    portfolio = "VOO受增长支撑；QQQM、SMH、MRVL和SPCX的净影响取决于强数据是否继续推高利率。"
+    if flavor == "manufacturing":
+        sector = "工业、材料和运输先看订单与生产；半导体还要结合价格分项和终端需求。"
+        portfolio = "SMH与MRVL对订单周期最敏感；QQQM、SPCX和VOO主要通过增长与利率预期受影响。"
+    published_at = parse_ts(article.get("created_at")) or event.starts_at
+    return EventResult(
+        published_at=published_at,
+        source=str(article.get("source") or "新闻来源"),
+        source_url=_safe_url(str(article.get("url") or event.source_url)),
+        verdict_zh=verdict,
+        summary_zh=(
+            f"ISM {flavor.title()} PMI 公布为 {actual}"
+            + (f"，高于预期 {expected}" if expected and actual_value > float(expected) else "")
+            + (f"，低于预期 {expected}" if expected and actual_value < float(expected) else "")
+            + (f"；前值 {previous}。" if previous else "。")
+        ),
+        sector_impact_zh=sector,
+        portfolio_impact_zh=portfolio,
+        tone=tone,
+        metrics=(
+            EventMetric(
+                label_zh="ISM 服务业 PMI" if flavor == "services" else "ISM 制造业 PMI",
+                actual=actual,
+                expected=expected,
+                previous=previous,
+            ),
+        ),
+    )
+
+
+def _employment_result_from_article(event: WeeklyEvent, article: dict) -> EventResult | None:
+    text = _event_article_text(article)
+    payroll = _first_match(
+        text,
+        (
+            r"nonfarm payrolls?\s+(?:came in at|came at|contracted by|contracted|fell by|fell|declined by|declined|cut by|cut|lost|rose by|rose|increased by|increased|grew by|grew|added)\s+(-?[\d,]+)\s*[Kk]?",
+            r"payrolls?\s+(?:came in at|came at|contracted by|contracted|fell by|fell|declined by|declined|cut by|cut|lost|rose by|rose|increased by|increased|grew by|grew|added)\s+(-?[\d,]+)\s*[Kk]?",
+            r"(?:U\.?S\.?\s+)?employers?\s+(?:added|cut|shed|lost)\s+(-?[\d,]+)\s*[Kk]?",
+            r"(?:U\.?S\.?\s+)?(?:economy|businesses?)\s+(?:added|cut|shed|lost)\s+(-?[\d,]+)\s*[Kk]?\s+jobs",
+        ),
+    )
+    if not payroll:
+        return None
+    payroll_match = re.search(r"nonfarm payrolls?", text, flags=re.IGNORECASE)
+    payroll_context = text[payroll_match.start():payroll_match.start() + 360] if payroll_match else text
+    expected = _first_match(
+        payroll_context,
+        (
+            r"(?:against|versus|vs\.?|compared (?:with|to))\s+(?:(?:a\s+)?(?:consensus\s+)?(?:estimate|forecast)(?:\s+of)?\s+)?(-?[\d,]+)\s*[Kk]?",
+            r"(?:consensus|forecast|expected)\s+(?:was\s+|of\s+|at\s+|a gain of\s+)?(-?[\d,]+)\s*[Kk]?",
+        ),
+    )
+    unemployment = _first_match(
+        text,
+        (
+            r"unemployment(?: rate)?\s+(?:came in at|came at|was|held at|rose to|fell to|declined to|increased to)?\s*(\d+(?:\.\d+)?)%",
+        ),
+    )
+    unemployment_context_match = re.search(
+        r"unemployment(?: rate)?", text, flags=re.IGNORECASE
+    )
+    unemployment_context = (
+        text[unemployment_context_match.start():unemployment_context_match.start() + 220]
+        if unemployment_context_match else ""
+    )
+    unemployment_expected = _first_match(
+        unemployment_context,
+        (
+            r"(?:versus|vs\.?|compared (?:with|to))\s+(?:the\s+)?(\d+(?:\.\d+)?)%",
+            r"(?:expected|estimate|forecast|expectations?)(?:\s+at|\s+of|\s+for)?\s+(\d+(?:\.\d+)?)%",
+        ),
+    )
+    wage = _first_match(
+        text,
+        (
+            r"average hourly earnings\s+(?:came in at|rose by|rose|increased by|increased)\s+(\d+(?:\.\d+)?)%\s+(?:on the month|month-over-month|m/m)",
+            r"average hourly\s+(?:came in at|rose by|rose|increased by|increased)\s+(\d+(?:\.\d+)?)%",
+            r"average hourly earnings(?: growth)?(?:\s+(?:was|at))?\s+(\d+(?:\.\d+)?)%",
+        ),
+    )
+    payroll_value = int(payroll)
+    if payroll_value > 0 and re.search(
+        r"(?:(?:nonfarm\s+)?payrolls?|employers?|economy|businesses?)[^.]{0,45}?(?:contracted|fell|declined|cut|shed|lost)",
+        text,
+        flags=re.IGNORECASE,
+    ):
+        payroll_value = -payroll_value
+        payroll = str(payroll_value)
+    if abs(payroll_value) >= 1000:
+        payroll_value = round(payroll_value / 1000)
+        payroll = str(payroll_value)
+    expected_value = int(expected) if expected else None
+    if expected_value is not None and abs(expected_value) >= 1000:
+        expected_value = round(expected_value / 1000)
+        expected = str(expected_value)
+    unemployment_value = float(unemployment) if unemployment else None
+    unemployment_expected_value = (
+        float(unemployment_expected) if unemployment_expected else None
+    )
+    if expected_value is not None and payroll_value >= expected_value + 75:
+        verdict = "就业偏热"
+        tone = "negative"
+        summary = "就业明显强于预期，利率上行风险增加。"
+        sector = "金融和部分周期板块受增长支撑；高估值科技、REITs和小盘成长承受利率压力。"
+        portfolio = "QQQM、SMH、MRVL和SPCX偏利空；VOO受增长与估值两股力量拉扯。"
+    elif expected_value is not None and payroll_value <= expected_value - 75:
+        verdict = "就业明显转弱"
+        tone = "negative"
+        if (
+            unemployment_value is not None
+            and unemployment_expected_value is not None
+            and unemployment_value > unemployment_expected_value
+        ):
+            summary = "就业大幅低于预期且失业率偏高，降息预期上升，但衰退风险也在增加。"
+        else:
+            summary = "就业大幅低于预期，市场会提高降息押注，同时重新评估增长下行风险。"
+        sector = "长久期资产可能先受益于收益率回落；金融、消费和小盘周期面临盈利压力。"
+        portfolio = "QQQM和SMH可能先获利率支撑；MRVL、SPCX和VOO仍需防范增长下修。"
+    elif expected_value is not None and payroll_value <= expected_value - 40:
+        verdict = "就业温和降温"
+        tone = "positive"
+        summary = "就业低于预期但尚未显示失速，市场更可能交易降息预期。"
+        sector = "长久期科技与REITs偏受益；周期和金融板块表现取决于失业率。"
+        portfolio = "QQQM、SMH和MRVL偏利好；SPCX波动可能放大，VOO影响中性偏正面。"
+    else:
+        verdict = "就业大致符合预期"
+        tone = "neutral"
+        summary = "就业结果接近预期，市场影响更取决于失业率、工资和历史修正。"
+        sector = "板块影响偏中性，继续观察工资、收益率和盈利预期。"
+        portfolio = "SMH、MRVL、QQQM、SPCX和VOO暂无单一方向信号。"
+    metrics = [
+        EventMetric(
+            label_zh="非农就业",
+            actual=_metric_value(payroll, "K"),
+            expected=_metric_value(expected, "K"),
+        )
+    ]
+    if unemployment:
+        metrics.append(
+            EventMetric(
+                label_zh="失业率",
+                actual=_metric_value(unemployment, "%"),
+                expected=_metric_value(unemployment_expected, "%"),
+            )
+        )
+    if wage:
+        metrics.append(EventMetric(label_zh="平均时薪月率", actual=_metric_value(wage, "%")))
+    published_at = parse_ts(article.get("created_at")) or event.starts_at
+    return EventResult(
+        published_at=published_at,
+        source=str(article.get("source") or "新闻来源"),
+        source_url=_safe_url(str(article.get("url") or event.source_url)),
+        verdict_zh=verdict,
+        summary_zh=(
+            f"非农就业 {payroll}K"
+            + (f"，预期 {expected}K" if expected else "")
+            + (f"；失业率 {unemployment}%" if unemployment else "")
+            + (f"，预期 {unemployment_expected}%" if unemployment_expected else "")
+            + f"。{summary}"
+        ),
+        sector_impact_zh=sector,
+        portfolio_impact_zh=portfolio,
+        tone=tone,
+        metrics=tuple(metrics),
+    )
+
+
+def _event_result_from_article(event: WeeklyEvent, article: dict) -> EventResult | None:
+    if event.result_kind in {"ism_services", "ism_manufacturing"}:
+        return _ism_result_from_article(event, article)
+    if event.result_kind == "employment":
+        return _employment_result_from_article(event, article)
+    return None
+
+
+def update_weekly_event_results(
+    calendar: WeeklyEventCalendar,
+    articles: list[dict],
+    now: datetime,
+) -> WeeklyEventCalendar:
+    """Attach newly published event results found in the current news pull."""
+    refreshed: list[WeeklyEvent] = []
+    for event in calendar.events:
+        if event.result is not None or not event.result_kind or not event.result_terms:
+            refreshed.append(event)
+            continue
+        if now < event.starts_at + timedelta(minutes=EVENT_RESULT_GRACE_MINUTES):
+            refreshed.append(event)
+            continue
+        window_start = event.starts_at - timedelta(minutes=15)
+        window_end = event.starts_at + timedelta(hours=EVENT_RESULT_LOOKBACK_HOURS)
+        candidates: list[tuple[int, datetime, dict]] = []
+        for article in articles:
+            created_at = parse_ts(article.get("created_at"))
+            if created_at is None or not (window_start <= created_at <= min(now, window_end)):
+                continue
+            headline = _clean_markup(str(article.get("headline") or "")).lower()
+            summary = _clean_markup(str(article.get("summary") or "")).lower()
+            matching_terms = [
+                term for term in event.result_terms if term in headline or term in summary
+            ]
+            if not matching_terms:
+                continue
+            score = sum(5 if term in headline else 2 for term in matching_terms)
+            combined = f"{headline} {summary}"
+            if "consensus" in combined or "estimate" in combined or "expected" in combined:
+                score += 2
+            candidates.append((score, created_at, article))
+        candidates.sort(key=lambda item: (item[0], item[1]), reverse=True)
+        result = None
+        for _score, _created_at, article in candidates:
+            result = _event_result_from_article(event, article)
+            if result is not None:
+                print(
+                    f"  Event result found: {event.title_zh} — "
+                    f"{result.verdict_zh} ({result.source})"
+                )
+                break
+        refreshed.append(replace(event, result=result) if result else event)
+    return replace(calendar, events=refreshed)
 
 
 def _trim_summary(value: str, maximum: int = SUMMARY_MAX_CHARS) -> str:
@@ -1971,6 +2392,41 @@ def _premarket_section_html(premarket: PremarketPulse | None) -> str:
     )
 
 
+def _event_result_html(result: EventResult) -> str:
+    tone = result.tone if result.tone in {"positive", "negative", "mixed", "neutral"} else "neutral"
+    metrics = "".join(
+        '<div class="result-metric">'
+        f'<span>{_html_escape(metric.label_zh)}</span>'
+        f'<strong>{_html_escape(metric.actual)}</strong>'
+        '<small>'
+        + (
+            f'预期 {_html_escape(metric.expected)}'
+            if metric.expected else "预期未提供"
+        )
+        + (
+            f' · 前值 {_html_escape(metric.previous)}'
+            if metric.previous else ""
+        )
+        + '</small></div>'
+        for metric in result.metrics
+    )
+    published = result.published_at.astimezone(NY_TZ).strftime("%-m/%-d %-I:%M %p ET")
+    return (
+        f'<div class="event-result result-{tone}">'
+        '<div class="result-kicker">已公布结果</div>'
+        f'<div class="result-verdict">{_html_escape(result.verdict_zh)}</div>'
+        f'<p class="result-summary">{_html_escape(result.summary_zh)}</p>'
+        f'<div class="result-metrics">{metrics}</div>'
+        f'<p class="result-impact"><strong>板块：</strong>{_html_escape(result.sector_impact_zh)}</p>'
+        f'<p class="result-impact"><strong>你的仓位：</strong>{_html_escape(result.portfolio_impact_zh)}</p>'
+        '<div class="event-source">结果来源：'
+        f'<a href="{_html_escape(_safe_url(result.source_url))}" target="_blank" '
+        f'rel="noopener noreferrer">{_html_escape(result.source)}</a>'
+        f' · {_html_escape(published)}</div>'
+        '</div>'
+    )
+
+
 def _weekly_events_html(
     calendar: WeeklyEventCalendar,
     now: datetime,
@@ -1995,8 +2451,12 @@ def _weekly_events_html(
     next_time = min(future_times) if future_times else None
     cards: list[str] = []
     for event in calendar.events:
-        if event.starts_at <= now:
-            status_text, status_class = "已到时", "past"
+        if event.result is not None:
+            status_text, status_class = f"已公布 · {event.result.verdict_zh}", "released"
+        elif event.starts_at + timedelta(minutes=EVENT_RESULT_GRACE_MINUTES) <= now:
+            status_text, status_class = "等待结果", "pending-result"
+        elif event.starts_at <= now:
+            status_text, status_class = "公布中", "pending-result"
         elif next_time is not None and event.starts_at == next_time:
             status_text, status_class = "下一个", "next"
         else:
@@ -2020,20 +2480,8 @@ def _weekly_events_html(
             '</div>'
             for impact in event.portfolio_impacts
         )
-        cards.append(
-            f'<details class="event-card event-{status_class}">'
-            '<summary class="event-summary disclosure-summary">'
-            '<div class="event-summary-copy">'
-            '<div class="event-topline">'
-            f'<span class="event-time">{_html_escape(event.time_label_zh)}</span>'
-            f'<span class="event-status">{_html_escape(status_text)} · '
-            f'{_html_escape(event.importance)}重要度</span>'
-            '</div>'
-            f'<h3>{_html_escape(event.title_zh)}</h3>'
-            f'<p class="event-watch">{_html_escape(event.watch_zh)}</p>'
-            '</div>'
-            '</summary>'
-            '<div class="event-expanded">'
+        result_html = _event_result_html(event.result) if event.result else ""
+        scenario_html = (
             '<div class="scenario-grid">'
             '<div class="scenario positive">'
             '<div class="scenario-label">偏利好情景</div>'
@@ -2047,9 +2495,33 @@ def _weekly_events_html(
             '</div>'
             '</div>'
             '<div class="portfolio-impact">'
-            '<div class="portfolio-title">对当前监控仓位的影响</div>'
+            f'<div class="portfolio-title">{"公布前敏感度预案" if event.result else "对当前监控仓位的影响"}</div>'
             f'{portfolio_rows}'
             '</div>'
+        )
+        if event.result:
+            scenario_html = (
+                '<details class="pre-event-scenarios">'
+                '<summary>查看公布前情景预案</summary>'
+                f'{scenario_html}'
+                '</details>'
+            )
+        cards.append(
+            f'<details class="event-card event-{status_class}">'
+            '<summary class="event-summary disclosure-summary">'
+            '<div class="event-summary-copy">'
+            '<div class="event-topline">'
+            f'<span class="event-time">{_html_escape(event.time_label_zh)}</span>'
+            f'<span class="event-status">{_html_escape(status_text)} · '
+            f'{_html_escape(event.importance)}重要度</span>'
+            '</div>'
+            f'<h3>{_html_escape(event.title_zh)}</h3>'
+            f'<p class="event-watch">{_html_escape(event.result.summary_zh if event.result else event.watch_zh)}</p>'
+            '</div>'
+            '</summary>'
+            '<div class="event-expanded">'
+            f'{result_html}'
+            f'{scenario_html}'
             f'<div class="event-source">官方时间来源：'
             f'<a href="{_html_escape(_safe_url(event.source_url))}" target="_blank" '
             f'rel="noopener noreferrer">{_html_escape(event.source)}</a></div>'
@@ -2068,7 +2540,7 @@ def _weekly_events_html(
         f'<div class="session-date">{_html_escape(week_label)} · 日历核实于 '
         f'{_html_escape(verified)}</div>'
         '<h2>本周关键事件</h2>'
-        '<p class="section-note">点击事件，查看利好/利空情景和仓位影响。</p>'
+        '<p class="section-note">公布后直接显示实际结果；点击事件查看板块和仓位影响。</p>'
         f'{"".join(cards)}'
         '<details class="section-details">'
         '<summary>仓位与日历说明</summary>'
@@ -2352,6 +2824,10 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   .date { color: var(--muted); margin-top: 8px; font-size: 13px; }
   .refresh-status { display: flex; align-items: center; gap: 7px; color: var(--muted); margin-top: 8px; font-size: 12px; }
   .refresh-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 3px rgba(21, 114, 76, .09); }
+  .refresh-status.delayed { color: var(--amber); }
+  .refresh-status.delayed .refresh-dot { background: var(--amber); box-shadow: 0 0 0 3px rgba(154, 91, 43, .10); }
+  .refresh-status.stale { color: var(--red); }
+  .refresh-status.stale .refresh-dot { background: var(--red); box-shadow: 0 0 0 3px rgba(180, 63, 69, .10); }
   section { padding: 27px 0; border-bottom: 1px solid var(--line); }
   h2 { margin: 5px 0 14px; font-size: 23px; letter-spacing: -.02em; }
   summary { list-style: none; cursor: pointer; }
@@ -2395,7 +2871,8 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   .tone-neutral, .tone-unavailable { border-left-color: var(--amber); }
   .event-card { margin-top: 9px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
   .event-card.event-next { border-left: 3px solid var(--amber); }
-  .event-card.event-past { opacity: .66; }
+  .event-card.event-released { border-left: 3px solid var(--green); }
+  .event-card.event-pending-result { border-left: 3px solid var(--amber); }
   .event-summary { padding: 13px 15px; }
   .event-summary-copy { min-width: 0; }
   .event-topline { display: flex; align-items: center; gap: 8px; }
@@ -2404,6 +2881,21 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
   .event-card h3 { margin: 4px 0 3px; font-size: 18px; line-height: 1.3; }
   .event-watch { display: -webkit-box; margin: 0; overflow: hidden; color: var(--muted); font-size: 12px; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
   .event-expanded { padding: 14px 15px 15px; border-top: 1px solid var(--line); background: var(--surface-2); }
+  .event-result { margin-bottom: 11px; padding: 13px; border: 1px solid var(--line); border-left: 3px solid var(--amber); border-radius: 7px; background: var(--surface); }
+  .event-result.result-positive { border-left-color: var(--green); }
+  .event-result.result-negative { border-left-color: var(--red); }
+  .result-kicker { color: var(--muted); font-size: 9px; font-weight: 780; letter-spacing: .12em; }
+  .result-verdict { margin-top: 2px; font-size: 17px; font-weight: 780; }
+  .result-summary { margin: 5px 0 0; font-size: 12px; }
+  .result-metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(132px, 1fr)); gap: 7px; margin-top: 10px; }
+  .result-metric { display: grid; gap: 1px; padding: 9px; border-radius: 6px; background: var(--surface-2); }
+  .result-metric span, .result-metric small { color: var(--muted); font-size: 9px; }
+  .result-metric strong { font-size: 17px; font-variant-numeric: tabular-nums; }
+  .result-impact { margin: 9px 0 0; color: var(--muted); font-size: 12px; }
+  .result-impact strong { color: var(--ink); }
+  .pre-event-scenarios { margin-top: 10px; }
+  .pre-event-scenarios > summary { width: fit-content; color: var(--muted); font-size: 11px; text-decoration: underline; text-underline-offset: 3px; }
+  .pre-event-scenarios[open] > summary { margin-bottom: 10px; }
   .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
   .scenario { padding: 12px; border-radius: 7px; border: 1px solid var(--line); background: var(--surface); }
   .scenario.positive { border-left: 2px solid var(--green); }
@@ -2481,7 +2973,7 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     <div class="eyebrow">EVIDENCE-FIRST · US MARKETS</div>
     <h1>Market Brief</h1>
     <div class="date">$date_long · $mode_label</div>
-    <div class="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">网页自动更新 · 每分钟检查</span></div>
+    <div class="refresh-status" id="refresh-status"><span class="refresh-dot" aria-hidden="true"></span><span id="refresh-status-text">后台目标每 15 分钟更新 · 本页每分钟检查新版本 · 更新于 $generated_clock</span></div>
   </header>
   $weekly_events_section
   $premarket_section
@@ -2496,6 +2988,26 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
 (() => {
   const currentVersion = document.documentElement.dataset.generatedAt;
   const statusText = document.getElementById("refresh-status-text");
+  const statusWrap = document.getElementById("refresh-status");
+  const generatedClock = "$generated_clock";
+
+  function renderFreshness() {
+    const generatedAt = Date.parse(currentVersion);
+    if (!Number.isFinite(generatedAt)) return;
+    const ageMinutes = Math.max(0, Math.floor((Date.now() - generatedAt) / 60000));
+    statusWrap.classList.toggle("delayed", ageMinutes >= 25 && ageMinutes < 60);
+    statusWrap.classList.toggle("stale", ageMinutes >= 60);
+    if (ageMinutes < 25) {
+      const age = ageMinutes < 1 ? "刚刚" : ageMinutes + " 分钟前";
+      statusText.textContent = "更新于 " + generatedClock + " · " + age + " · 后台目标每15分钟";
+    } else if (ageMinutes < 60) {
+      statusText.textContent = "后台稍有延迟 · 更新于 " + generatedClock + " · 已 " + ageMinutes + " 分钟";
+    } else {
+      const ageHours = Math.floor(ageMinutes / 60);
+      const remainder = ageMinutes % 60;
+      statusText.textContent = "后台数据已延迟 " + ageHours + "小时" + remainder + "分钟 · 更新于 " + generatedClock + " · 本页每分钟重试";
+    }
+  }
 
   async function checkForUpdate() {
     try {
@@ -2513,8 +3025,12 @@ HTML_TEMPLATE = Template("""<!DOCTYPE html>
     }
   }
 
+  renderFreshness();
   checkForUpdate();
-  window.setInterval(checkForUpdate, 60000);
+  window.setInterval(() => {
+    renderFreshness();
+    checkForUpdate();
+  }, 60000);
   document.addEventListener("visibilitychange", () => {
     if (!document.hidden) checkForUpdate();
   });
@@ -2585,6 +3101,7 @@ def render_html(
         mode_label=_brief_mode(now),
         generated_iso=now.astimezone(timezone.utc).isoformat(),
         generated_et=local.strftime("%Y-%m-%d %-I:%M %p ET"),
+        generated_clock=local.strftime("%-I:%M %p ET"),
         premarket_section=_premarket_section_html(premarket),
         weekly_events_section=_weekly_events_html(weekly_calendar, now),
         market_section=_market_section_html(pulse, assessment, overview),
@@ -2601,6 +3118,11 @@ def render_html(
     status = {
         "generated_at": now.astimezone(timezone.utc).isoformat(),
         "generated_et": local.strftime("%Y-%m-%d %-I:%M %p ET"),
+        "refresh_policy": {
+            "backend_target_minutes": WEB_REFRESH_TARGET_MINUTES,
+            "browser_check_minutes": 1,
+            "scheduler": "GitHub Actions best effort",
+        },
         "mode": _brief_mode(now),
         "market_session": pulse.session_date.isoformat() if pulse.session_date else None,
         "overview": overview.label_zh,
@@ -2614,11 +3136,23 @@ def render_html(
             "portfolio_symbols": list(weekly_calendar.portfolio_symbols),
             "events": [
                 {
+                    "id": event.event_id,
                     "starts_at": event.starts_at.isoformat(),
                     "title_zh": event.title_zh,
                     "importance": event.importance,
                     "source": event.source,
                     "source_url": event.source_url,
+                    "state": (
+                        "released"
+                        if event.result is not None
+                        else "pending_result"
+                        if event.starts_at + timedelta(minutes=EVENT_RESULT_GRACE_MINUTES) <= now
+                        else "upcoming"
+                    ),
+                    "result": (
+                        _event_result_to_payload(event.result)
+                        if event.result is not None else None
+                    ),
                 }
                 for event in weekly_calendar.events
             ],
@@ -2644,6 +3178,11 @@ def render_html(
     (output_dir / "status.json").write_text(
         json.dumps(status, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
+    )
+    _write_event_results_cache(
+        weekly_calendar,
+        output_dir / EVENT_RESULTS_CACHE_NAME,
+        now,
     )
     (output_dir / "manifest.webmanifest").write_text(MANIFEST_JSON, encoding="utf-8")
     (output_dir / "icon.svg").write_text(ICON_SVG, encoding="utf-8")
@@ -2691,10 +3230,18 @@ def _notification_messages(
         lines.append(f"{premarket.note}；涨跌相对昨收。")
 
     if weekly_calendar.events:
+        released = sorted(
+            (event for event in weekly_calendar.events if event.result is not None),
+            key=lambda event: event.result.published_at,
+            reverse=True,
+        )
         upcoming = [
             event for event in weekly_calendar.events if event.starts_at > now
         ]
-        shown_events = upcoming[:3] if upcoming else weekly_calendar.events[-2:]
+        shown_events = released[:2]
+        shown_events.extend(upcoming[: max(0, 3 - len(shown_events))])
+        if not shown_events:
+            shown_events = weekly_calendar.events[-2:]
         lines.append("【本周关键事件】")
         for event in shown_events:
             symbol_groups = [
@@ -2702,6 +3249,14 @@ def _notification_messages(
                 for impact in event.portfolio_impacts
                 if impact.symbols
             ]
+            if event.result is not None:
+                lines.append(
+                    f"▸ {event.time_label_zh} · {event.title_zh} · "
+                    f"已公布：{event.result.verdict_zh}"
+                )
+                lines.append(f"结果：{event.result.summary_zh}")
+                lines.append(f"仓位：{event.result.portfolio_impact_zh}")
+                continue
             lines.append(f"▸ {event.time_label_zh} · {event.title_zh}")
             if event.bullish_sectors:
                 lines.append(f"利好情景关注：{'、'.join(event.bullish_sectors[:4])}")
@@ -2969,7 +3524,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
     now = datetime.now(timezone.utc)
-    weekly_calendar = load_weekly_event_calendar(now)
+    weekly_calendar = merge_cached_event_results(
+        load_weekly_event_calendar(now),
+        args.output_dir / EVENT_RESULTS_CACHE_NAME,
+        now,
+    )
 
     if args.demo:
         pulse, assessment, world_articles = _demo_payload(now)
@@ -3079,6 +3638,12 @@ def main(argv: list[str] | None = None) -> int:
         items = fetch_rss(spec, start, end)
         print(f"Fetched {len(items)} from {spec.source}")
         world_candidates.extend(items)
+
+    weekly_calendar = update_weekly_event_results(
+        weekly_calendar,
+        market_articles,
+        now,
+    )
 
     drivers = select_market_drivers(market_articles, pulse)
     current_market_articles = current_section_news(market_articles, now)

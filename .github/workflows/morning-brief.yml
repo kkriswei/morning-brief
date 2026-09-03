@@ -8,13 +8,16 @@ on:
       - "data/weekly_events.json"
       - "tests/**"
       - ".github/workflows/morning-brief.yml"
-  # GitHub cron is UTC-only. Each ET slot has an EDT and EST candidate;
-  # morning_brief.py --scheduled accepts only the invocation inside the local
-  # 09:00 or 16:45 ET window, so the duplicate exits without side effects.
+  # GitHub cron is UTC-only. Website refreshes are deliberately redundant
+  # because scheduled runs are best-effort and may start late. Notification
+  # slots remain gated in America/New_York by morning_brief.py --scheduled.
   schedule:
-    # Silent website refresh every hour, including nights and weekends.
-    # Notifications remain limited to the explicit weekday slots below.
-    - cron: "17 * * * *"
+    # Weekdays: target 15-minute refreshes during market-active UTC hours,
+    # hourly overnight. Weekends: target 30-minute refreshes around the clock.
+    - cron: "7,22,37,52 0,8-23 * * 1-5"
+    - cron: "17 1-7 * * 1-5"
+    - cron: "7,37 * * 0,6"
+    # DST-safe weekday phone-notification candidates.
     - cron: "10 13 * * 1-5"
     - cron: "10 14 * * 1-5"
     - cron: "45 20 * * 1-5"
@@ -57,10 +60,15 @@ jobs:
           NTFY_NEWS_TOPIC: ${{ secrets.NTFY_NEWS_TOPIC }}
           SCHEDULE_EXPRESSION: ${{ github.event.schedule }}
         run: |
-          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ "$SCHEDULE_EXPRESSION" = "17 * * * *" ]; then
-            python morning_brief.py --web-refresh --no-push
-          elif [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
-            python morning_brief.py --scheduled
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+            case "$SCHEDULE_EXPRESSION" in
+              "10 13 * * 1-5"|"10 14 * * 1-5"|"45 20 * * 1-5"|"45 21 * * 1-5")
+                python morning_brief.py --scheduled
+                ;;
+              *)
+                python morning_brief.py --web-refresh --no-push
+                ;;
+            esac
           elif [ "$GITHUB_EVENT_NAME" = "push" ]; then
             python morning_brief.py --no-push
           else
