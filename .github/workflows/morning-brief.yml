@@ -8,12 +8,12 @@ on:
       - "data/weekly_events.json"
       - "tests/**"
       - ".github/workflows/morning-brief.yml"
-  # GitHub cron is UTC-only. Website refreshes are deliberately redundant
-  # because scheduled runs are best-effort and may start late. Notification
-  # slots remain gated in America/New_York by morning_brief.py --scheduled.
+  # GitHub cron is UTC-only and best-effort. Wake frequently so a dropped run
+  # has another chance; the freshness gate skips the expensive build while the
+  # deployed brief is still fresh. Notification slots remain ET-gated below.
   schedule:
-    # Use one simple, off-the-hour expression for silent 24/7 refreshes.
-    - cron: "7-59/15 * * * *"
+    # Silent refresh watchdog, offset from the top of the hour.
+    - cron: "7-59/5 * * * *"
     # DST-safe weekday phone-notification candidates.
     - cron: "10 13 * * 1-5"
     - cron: "10 14 * * 1-5"
@@ -38,19 +38,69 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Check deployed brief freshness
+        id: refresh_gate
+        env:
+          SCHEDULE_EXPRESSION: ${{ github.event.schedule }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          notification_schedules = {
+              "10 13 * * 1-5",
+              "10 14 * * 1-5",
+              "45 20 * * 1-5",
+              "45 21 * * 1-5",
+          }
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+          schedule = os.environ.get("SCHEDULE_EXPRESSION", "")
+          should_run = event_name != "schedule" or schedule in notification_schedules
+          reason = "push/manual/notification"
+
+          if not should_run:
+              stale_after_minutes = 12
+              try:
+                  payload = json.loads(Path("docs/status.json").read_text(encoding="utf-8"))
+                  generated = datetime.fromisoformat(
+                      payload["generated_at"].replace("Z", "+00:00")
+                  )
+                  if generated.tzinfo is None:
+                      generated = generated.replace(tzinfo=timezone.utc)
+                  age_minutes = max(
+                      0,
+                      int((datetime.now(timezone.utc) - generated).total_seconds() // 60),
+                  )
+                  should_run = age_minutes >= stale_after_minutes
+                  reason = f"deployed brief is {age_minutes} minutes old"
+              except (OSError, KeyError, TypeError, ValueError, json.JSONDecodeError) as exc:
+                  should_run = True
+                  reason = f"freshness marker unavailable: {exc}"
+
+          print(f"should_run={str(should_run).lower()} ({reason})")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"should_run={str(should_run).lower()}\n")
+          PY
+
       - name: Set up Python
+        if: steps.refresh_gate.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: steps.refresh_gate.outputs.should_run == 'true'
         run: pip install requests beautifulsoup4
 
       - name: Run tests
+        if: steps.refresh_gate.outputs.should_run == 'true'
         run: python -m unittest discover -s tests -v
 
       - name: Generate morning brief
+        if: steps.refresh_gate.outputs.should_run == 'true'
         env:
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
           ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
@@ -73,7 +123,7 @@ jobs:
           fi
 
       - name: Commit updated brief
-        if: ${{ always() }}
+        if: ${{ always() && steps.refresh_gate.outputs.should_run == 'true' }}
         run: |
           git config user.name  "morning-brief-bot"
           git config user.email "morning-brief-bot@users.noreply.github.com"

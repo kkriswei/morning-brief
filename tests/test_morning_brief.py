@@ -820,9 +820,11 @@ class ScheduleTests(unittest.TestCase):
         workflow = (mb.ROOT / ".github" / "workflows" / "morning-brief.yml").read_text(
             encoding="utf-8"
         )
-        self.assertIn('cron: "7-59/15 * * * *"', workflow)
+        self.assertIn('cron: "7-59/5 * * * *"', workflow)
         self.assertIn('"10 13 * * 1-5"|"10 14 * * 1-5"', workflow)
         self.assertIn("python morning_brief.py --web-refresh --no-push", workflow)
+        self.assertIn("stale_after_minutes = 12", workflow)
+        self.assertIn("steps.refresh_gate.outputs.should_run == 'true'", workflow)
         cron_values = [
             line.split('"')[1]
             for line in workflow.splitlines()
