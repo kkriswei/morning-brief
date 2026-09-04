@@ -34,7 +34,9 @@ permissions:
 
 concurrency:
   group: morning-brief
-  cancel-in-progress: false
+  # A source push supersedes a run that checked out older code. The new run
+  # regenerates from the latest main branch instead of racing a stale commit.
+  cancel-in-progress: true
 
 jobs:
   build-and-deploy:
@@ -138,6 +140,13 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
+            git fetch origin main
+            if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+              echo "::warning::Remote main advanced; a newer run will regenerate the brief."
+              exit 0
+            fi
             git commit -m "Brief: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            if ! git push; then
+              echo "::warning::Remote main advanced during push; a newer run will regenerate the brief."
+            fi
           fi

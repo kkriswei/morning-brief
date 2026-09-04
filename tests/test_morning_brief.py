@@ -941,6 +941,8 @@ class ScheduleTests(unittest.TestCase):
         self.assertIn("stale_after_minutes = 12", workflow)
         self.assertIn("steps.refresh_gate.outputs.should_run == 'true'", workflow)
         self.assertIn("MANUAL_SILENT", workflow)
+        self.assertIn("cancel-in-progress: true", workflow)
+        self.assertIn("Remote main advanced", workflow)
         source = (mb.ROOT / "morning_brief.py").read_text(encoding="utf-8")
         self.assertIn("continuing as a silent website refresh", source)
         cron_values = [
