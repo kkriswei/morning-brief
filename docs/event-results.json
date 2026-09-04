@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:25:08.059909+00:00",
+  "updated_at": "2026-09-04T16:55:15.599229+00:00",
   "results": {
     "jolts-2026-07": {
       "published_at": "2026-09-01T14:00:00+00:00",
@@ -147,6 +147,30 @@
           "actual": "72.6",
           "expected": "",
           "previous": "70.3"
+        }
+      ]
+    },
+    "employment-2026-08": {
+      "published_at": "2026-09-04T15:10:13+00:00",
+      "source": "benzinga",
+      "source_url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+      "verdict_zh": "就业大致符合预期",
+      "summary_zh": "非农就业 162K；失业率 4.1%。就业结果接近预期，市场影响更取决于失业率、工资和历史修正。",
+      "sector_impact_zh": "板块影响偏中性，继续观察工资、收益率和盈利预期。",
+      "portfolio_impact_zh": "SMH、MRVL、QQQM、SPCX和VOO暂无单一方向信号。",
+      "tone": "neutral",
+      "metrics": [
+        {
+          "label_zh": "非农就业",
+          "actual": "162K",
+          "expected": "",
+          "previous": ""
+        },
+        {
+          "label_zh": "失业率",
+          "actual": "4.1%",
+          "expected": "",
+          "previous": ""
         }
       ]
     }

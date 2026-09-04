@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T13:25:08.059909+00:00",
-  "generated_et": "2026-09-04 9:25 AM ET",
+  "generated_at": "2026-09-04T16:55:15.599229+00:00",
+  "generated_et": "2026-09-04 12:55 PM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "盘前简报",
+  "mode": "晨间简报",
   "market_session": "2026-09-03",
   "overview": "偏利好",
   "weekly_events": {
@@ -222,70 +222,38 @@
         "importance": "最高",
         "source": "U.S. Bureau of Labor Statistics",
         "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
-        "state": "pending_result",
-        "result": null
+        "state": "released",
+        "result": {
+          "published_at": "2026-09-04T15:10:13+00:00",
+          "source": "benzinga",
+          "source_url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+          "verdict_zh": "就业大致符合预期",
+          "summary_zh": "非农就业 162K；失业率 4.1%。就业结果接近预期，市场影响更取决于失业率、工资和历史修正。",
+          "sector_impact_zh": "板块影响偏中性，继续观察工资、收益率和盈利预期。",
+          "portfolio_impact_zh": "SMH、MRVL、QQQM、SPCX和VOO暂无单一方向信号。",
+          "tone": "neutral",
+          "metrics": [
+            {
+              "label_zh": "非农就业",
+              "actual": "162K",
+              "expected": "",
+              "previous": ""
+            },
+            {
+              "label_zh": "失业率",
+              "actual": "4.1%",
+              "expected": "",
+              "previous": ""
+            }
+          ]
+        }
       }
     ]
   },
   "premarket": {
-    "active": true,
-    "as_of": "2026-09-04T13:09:00+00:00",
-    "feed": "sip",
-    "moves": {
-      "SPY": {
-        "price": 771.42,
-        "previous_close": 773.17,
-        "change_pct": -0.2263,
-        "volume": 1323164,
-        "high": 774.24,
-        "low": 770.5,
-        "as_of": "2026-09-04T13:09:00+00:00"
-      },
-      "QQQ": {
-        "price": 718.0,
-        "previous_close": 717.67,
-        "change_pct": 0.046,
-        "volume": 1323656,
-        "high": 722.06,
-        "low": 717.132,
-        "as_of": "2026-09-04T13:09:00+00:00"
-      },
-      "IWM": {
-        "price": 293.72,
-        "previous_close": 295.19,
-        "change_pct": -0.498,
-        "volume": 555777,
-        "high": 295.92,
-        "low": 293.24,
-        "as_of": "2026-09-04T13:09:00+00:00"
-      },
-      "SMH": {
-        "price": 558.6455,
-        "previous_close": 552.6,
-        "change_pct": 1.094,
-        "volume": 206503,
-        "high": 563.01,
-        "low": 555.78,
-        "as_of": "2026-09-04T13:06:00+00:00"
-      },
-      "MRVL": {
-        "price": 210.12,
-        "previous_close": 208.83,
-        "change_pct": 0.6177,
-        "volume": 800349,
-        "high": 214.42,
-        "low": 208.71,
-        "as_of": "2026-09-04T13:09:00+00:00"
-      },
-      "SPCX": {
-        "price": 148.62,
-        "previous_close": 149.74,
-        "change_pct": -0.748,
-        "volume": 2903926,
-        "high": 151.4,
-        "low": 147.86,
-        "as_of": "2026-09-04T13:09:00+00:00"
-      }
-    }
+    "active": false,
+    "as_of": null,
+    "feed": "unavailable",
+    "moves": {}
   }
 }
