@@ -19,8 +19,14 @@ on:
     - cron: "10 14 * * 1-5"
     - cron: "45 20 * * 1-5"
     - cron: "45 21 * * 1-5"
-  # Run on demand from the Actions tab
+  # Run on demand from the Actions tab or the independent stale-page watchdog.
   workflow_dispatch:
+    inputs:
+      silent:
+        description: "Refresh the website without sending a phone notification"
+        required: false
+        default: false
+        type: boolean
 
 # Allow the workflow to push commits back to the repo
 permissions:
@@ -106,6 +112,7 @@ jobs:
           ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
           NTFY_NEWS_TOPIC: ${{ secrets.NTFY_NEWS_TOPIC }}
           SCHEDULE_EXPRESSION: ${{ github.event.schedule }}
+          MANUAL_SILENT: ${{ inputs.silent }}
         run: |
           if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
             case "$SCHEDULE_EXPRESSION" in
@@ -116,7 +123,7 @@ jobs:
                 python morning_brief.py --web-refresh --no-push
                 ;;
             esac
-          elif [ "$GITHUB_EVENT_NAME" = "push" ]; then
+          elif [ "$GITHUB_EVENT_NAME" = "push" ] || [ "$MANUAL_SILENT" = "true" ]; then
             python morning_brief.py --no-push
           else
             python morning_brief.py

@@ -267,7 +267,24 @@
           "sensitivity": "高",
           "summary_zh": "这是本周对大盘盈利和美联储路径影响最大的宏观事件。"
         }
-      ]
+      ],
+      "result": {
+        "published_at": "2026-09-04T08:30:00-04:00",
+        "source": "U.S. Bureau of Labor Statistics",
+        "source_url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+        "verdict_zh": "就业增长回升，失业率稳定",
+        "summary_zh": "BLS 官方数据：8 月非农就业增加 162K，失业率维持 4.1%；平均时薪环比 +0.3%、同比 +3.1%，6 月和 7 月合计上修 55K。劳动力市场仍有韧性。",
+        "sector_impact_zh": "就业和工资保持韧性，利好金融、消费服务和部分周期板块的增长预期；若美债收益率因此上行，则对高估值科技、REITs和小盘成长偏利空。",
+        "portfolio_impact_zh": "VOO获得经济增长支撑；QQQM、SMH、MRVL和SPCX短线更容易受到收益率上行的估值压力，方向需结合盘中利率与价格反应确认。",
+        "tone": "mixed",
+        "metrics": [
+          {"label_zh": "非农就业", "actual": "+162K", "previous": "+21K"},
+          {"label_zh": "失业率", "actual": "4.1%", "previous": "4.1%"},
+          {"label_zh": "平均时薪月率", "actual": "+0.3%"},
+          {"label_zh": "平均时薪年率", "actual": "+3.1%"},
+          {"label_zh": "前两月合计修正", "actual": "+55K"}
+        ]
+      }
     }
   ]
 }

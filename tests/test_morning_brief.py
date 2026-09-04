@@ -71,6 +71,28 @@ class FakeResponse:
         return self.payload
 
 
+class FakeTextResponse:
+    def __init__(self, text: str):
+        self.text = text
+        self.content = text.encode("utf-8")
+
+    def raise_for_status(self) -> None:
+        return None
+
+
+class FakeOfficialClient:
+    def __init__(self, text: str):
+        self.text = text
+        self.urls: list[str] = []
+
+    def get(self, url, *, headers, timeout):
+        self.urls.append(url)
+        return FakeTextResponse(self.text)
+
+    def post(self, _url, *, headers, json, timeout):
+        return FakeResponse({"Results": {"series": []}})
+
+
 class FakeNewsClient:
     def __init__(self):
         self.calls: list[dict] = []
@@ -571,6 +593,95 @@ class WeeklyEventTests(unittest.TestCase):
         self.assertEqual(result.metrics[1].expected, "4.2%")
         self.assertEqual(result.metrics[2].actual, "0.1%")
 
+    def test_official_bls_employment_result_replaces_prediction_article(self) -> None:
+        now = datetime(2026, 9, 4, 13, 0, tzinfo=timezone.utc)
+        calendar = mb.load_weekly_event_calendar(now)
+        employment = replace(calendar.events[-1], result=None)
+        calendar = replace(calendar, events=[*calendar.events[:-1], employment])
+        official = """
+            THE EMPLOYMENT SITUATION - AUGUST 2026
+            Total nonfarm payroll employment increased by 162,000 in August,
+            and the unemployment rate was unchanged at 4.1 percent.
+            In August, average hourly earnings for all employees on private
+            nonfarm payrolls rose by 10 cents, or 0.3 percent, to $37.75.
+            Over the year, average hourly earnings have increased by 3.1 percent.
+            The change for June was revised up from +20,000 to +31,000, and the
+            change for July was revised up from -23,000 to +21,000. With these
+            revisions, employment in June and July combined is 55,000 higher.
+        """
+        prediction = {
+            "headline": "Prediction markets price a hot jobs report",
+            "summary": "Nonfarm payrolls increased by 190K.",
+            "url": "https://example.com/prediction-markets/jobs",
+            "source": "Prediction site",
+            "created_at": "2026-09-04T12:31:00+00:00",
+        }
+        client = FakeOfficialClient(official)
+
+        rejected = mb.update_weekly_event_results(calendar, [prediction], now)
+        self.assertIsNone(rejected.events[-1].result)
+
+        refreshed = mb.update_weekly_event_results(
+            calendar, [prediction], now, official_client=client
+        )
+        result = refreshed.events[-1].result
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.source, "U.S. Bureau of Labor Statistics")
+        self.assertEqual(result.metrics[0].actual, "162K")
+        self.assertEqual(result.metrics[0].previous, "21K")
+        self.assertEqual(result.metrics[1].actual, "4.1%")
+        self.assertEqual(result.metrics[2].actual, "+0.3%")
+        self.assertEqual(result.metrics[4].actual, "+55K")
+        self.assertIn("empsit_09042026.htm", client.urls[0])
+
+    def test_bls_api_series_compute_current_jobs_result(self) -> None:
+        now = datetime(2026, 9, 4, 13, 0, tzinfo=timezone.utc)
+        event = mb.load_weekly_event_calendar(now).events[-1]
+        payload = {
+            "status": "REQUEST_SUCCEEDED",
+            "Results": {
+                "series": [
+                    {
+                        "seriesID": "CES0000000001",
+                        "data": [
+                            {"year": "2026", "period": "M08", "value": "159075"},
+                            {"year": "2026", "period": "M07", "value": "158913"},
+                            {"year": "2026", "period": "M06", "value": "158892"},
+                        ],
+                    },
+                    {
+                        "seriesID": "LNS14000000",
+                        "data": [
+                            {"year": "2026", "period": "M08", "value": "4.1"},
+                            {"year": "2026", "period": "M07", "value": "4.1"},
+                        ],
+                    },
+                    {
+                        "seriesID": "CES0500000003",
+                        "data": [
+                            {"year": "2026", "period": "M08", "value": "37.75"},
+                            {"year": "2026", "period": "M07", "value": "37.65"},
+                            {"year": "2025", "period": "M08", "value": "36.61"},
+                        ],
+                    },
+                ]
+            },
+        }
+
+        result = mb._bls_employment_result_from_api(
+            event,
+            payload,
+            "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+        )
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.metrics[0].actual, "+162K")
+        self.assertEqual(result.metrics[0].previous, "+21K")
+        self.assertEqual(result.metrics[1].actual, "4.1%")
+        self.assertEqual(result.metrics[2].actual, "+0.3%")
+        self.assertEqual(result.metrics[3].actual, "+3.1%")
+
     def test_event_result_cache_survives_next_render(self) -> None:
         now = datetime(2026, 9, 4, 13, 0, tzinfo=timezone.utc)
         calendar = mb.load_weekly_event_calendar(now)
@@ -589,11 +700,15 @@ class WeeklyEventTests(unittest.TestCase):
             calendar,
             events=[*calendar.events[:-1], replace(employment, result=result)],
         )
+        without_result = replace(
+            calendar,
+            events=[*calendar.events[:-1], replace(employment, result=None)],
+        )
 
         with tempfile.TemporaryDirectory() as directory:
             cache_path = Path(directory) / mb.EVENT_RESULTS_CACHE_NAME
             mb._write_event_results_cache(with_result, cache_path, now)
-            restored = mb.merge_cached_event_results(calendar, cache_path, now)
+            restored = mb.merge_cached_event_results(without_result, cache_path, now)
 
         self.assertEqual(restored.events[-1].result.summary_zh, "测试结果")
 
@@ -825,6 +940,9 @@ class ScheduleTests(unittest.TestCase):
         self.assertIn("python morning_brief.py --web-refresh --no-push", workflow)
         self.assertIn("stale_after_minutes = 12", workflow)
         self.assertIn("steps.refresh_gate.outputs.should_run == 'true'", workflow)
+        self.assertIn("MANUAL_SILENT", workflow)
+        source = (mb.ROOT / "morning_brief.py").read_text(encoding="utf-8")
+        self.assertIn("continuing as a silent website refresh", source)
         cron_values = [
             line.split('"')[1]
             for line in workflow.splitlines()

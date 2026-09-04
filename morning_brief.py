@@ -48,6 +48,15 @@ ALPACA_NEWS_URL = "https://data.alpaca.markets/v1beta1/news"
 ALPACA_BARS_URL = "https://data.alpaca.markets/v2/stocks/bars"
 NTFY_URL = "https://ntfy.sh"
 GTRANS_URL = "https://translate.googleapis.com/translate_a/single"
+BLS_EMPLOYMENT_ARCHIVE_URL = (
+    "https://www.bls.gov/news.release/archives/empsit_{release_date}.htm"
+)
+BLS_PUBLIC_API_URL = "https://api.bls.gov/publicAPI/v2/timeseries/data/"
+BLS_EMPLOYMENT_SERIES = (
+    "CES0000000001",  # All employees, total nonfarm, thousands
+    "LNS14000000",    # Unemployment rate
+    "CES0500000003",  # Average hourly earnings, total private
+)
 
 ARTICLE_FETCH_HEADERS = {
     "User-Agent": (
@@ -541,6 +550,10 @@ MARKET_POSITIVE_PHRASE_RE = re.compile(
 LOW_VALUE_RE = re.compile(
     r"\b(?:opinion|prediction|price target|top \d+|\d+ stocks?\b|stocks? to buy|"
     r"what to watch|could be|may be|might be|old clip|technical analysis)\b",
+    re.IGNORECASE,
+)
+EVENT_RESULT_PREVIEW_RE = re.compile(
+    r"\b(?:prediction(?:s)?|prediction markets?|preview|what to expect|odds)\b",
     re.IGNORECASE,
 )
 PREMARKET_RE = re.compile(
@@ -1054,6 +1067,288 @@ def _employment_result_from_article(event: WeeklyEvent, article: dict) -> EventR
     )
 
 
+def _format_bls_count(value: str) -> str:
+    number = int(value.replace(",", ""))
+    if number % 1000 == 0:
+        return f"{number // 1000}K"
+    return f"{number:,}"
+
+
+def _prior_month(value: date) -> date:
+    return value.replace(day=1) - timedelta(days=1)
+
+
+def _bls_series_values(payload: dict, series_id: str) -> dict[tuple[int, int], float]:
+    series_items = (
+        payload.get("Results", {}).get("series", [])
+        if isinstance(payload, dict)
+        else []
+    )
+    for series in series_items:
+        if not isinstance(series, dict) or series.get("seriesID") != series_id:
+            continue
+        values: dict[tuple[int, int], float] = {}
+        for item in series.get("data") or []:
+            try:
+                period = str(item.get("period") or "")
+                if not re.fullmatch(r"M\d{2}", period):
+                    continue
+                values[(int(item["year"]), int(period[1:]))] = float(item["value"])
+            except (KeyError, TypeError, ValueError):
+                continue
+        return values
+    return {}
+
+
+def _bls_employment_result_from_api(
+    event: WeeklyEvent,
+    payload: dict,
+    source_url: str,
+) -> EventResult | None:
+    """Build the employment result from official BLS monthly time series."""
+    report_month = _prior_month(event.starts_at.astimezone(NY_TZ).date())
+    prior = _prior_month(report_month)
+    prior_prior = _prior_month(prior)
+    year_ago = report_month.replace(year=report_month.year - 1)
+
+    payrolls = _bls_series_values(payload, BLS_EMPLOYMENT_SERIES[0])
+    unemployment_values = _bls_series_values(payload, BLS_EMPLOYMENT_SERIES[1])
+    wages = _bls_series_values(payload, BLS_EMPLOYMENT_SERIES[2])
+
+    def series_value(values: dict[tuple[int, int], float], month: date) -> float | None:
+        return values.get((month.year, month.month))
+
+    payroll_level = series_value(payrolls, report_month)
+    prior_payroll_level = series_value(payrolls, prior)
+    prior_prior_payroll_level = series_value(payrolls, prior_prior)
+    unemployment = series_value(unemployment_values, report_month)
+    prior_unemployment = series_value(unemployment_values, prior)
+    if payroll_level is None or prior_payroll_level is None or unemployment is None:
+        return None
+
+    payroll_change = round(payroll_level - prior_payroll_level)
+    prior_payroll_change = (
+        round(prior_payroll_level - prior_prior_payroll_level)
+        if prior_prior_payroll_level is not None
+        else None
+    )
+    payroll_display = f"{payroll_change:+d}K"
+    metrics = [
+        EventMetric(
+            "非农就业",
+            payroll_display,
+            previous=(
+                f"{prior_payroll_change:+d}K"
+                if prior_payroll_change is not None
+                else ""
+            ),
+        ),
+        EventMetric(
+            "失业率",
+            f"{unemployment:.1f}%",
+            previous=(
+                f"{prior_unemployment:.1f}%"
+                if prior_unemployment is not None
+                else ""
+            ),
+        ),
+    ]
+
+    wage = series_value(wages, report_month)
+    prior_wage = series_value(wages, prior)
+    year_ago_wage = series_value(wages, year_ago)
+    wage_mom = (
+        round((wage / prior_wage - 1) * 100, 1)
+        if wage is not None and prior_wage
+        else None
+    )
+    wage_yoy = (
+        round((wage / year_ago_wage - 1) * 100, 1)
+        if wage is not None and year_ago_wage
+        else None
+    )
+    if wage_mom is not None:
+        metrics.append(EventMetric("平均时薪月率", f"{wage_mom:+.1f}%"))
+    if wage_yoy is not None:
+        metrics.append(EventMetric("平均时薪年率", f"{wage_yoy:+.1f}%"))
+
+    wage_summary = f"，平均时薪环比 {wage_mom:+.1f}%" if wage_mom is not None else ""
+    return EventResult(
+        published_at=event.starts_at,
+        source="U.S. Bureau of Labor Statistics",
+        source_url=source_url,
+        verdict_zh="就业增长回升，失业率稳定",
+        summary_zh=(
+            f"BLS 官方数据：非农就业变动 {payroll_display}，失业率 "
+            f"{unemployment:.1f}%{wage_summary}。劳动力市场仍有韧性；"
+            "市场预期与官方实际值保持分开。"
+        ),
+        sector_impact_zh=(
+            "就业和工资保持韧性，利好金融、消费服务和部分周期板块的增长预期；"
+            "若美债收益率因此上行，则对高估值科技、REITs和小盘成长偏利空。"
+        ),
+        portfolio_impact_zh=(
+            "VOO获得经济增长支撑；QQQM、SMH、MRVL和SPCX短线更容易受到"
+            "收益率上行的估值压力，方向需结合盘中利率与价格反应确认。"
+        ),
+        tone="mixed",
+        metrics=tuple(metrics),
+    )
+
+
+def _bls_employment_result_from_text(
+    event: WeeklyEvent,
+    text: str,
+    source_url: str,
+) -> EventResult | None:
+    """Parse the official BLS Employment Situation release, not a news preview."""
+    clean = re.sub(r"\s+", " ", text).strip()
+    if not re.search(r"THE EMPLOYMENT SITUATION", clean, flags=re.IGNORECASE):
+        return None
+    payroll_match = re.search(
+        r"Total nonfarm payroll employment\s+"
+        r"(increased|rose|decreased|fell|declined)\s+by\s+([\d,]+)",
+        clean,
+        flags=re.IGNORECASE,
+    )
+    unemployment_match = re.search(
+        r"unemployment rate was\s+(?:unchanged at|at|increased to|rose to|"
+        r"decreased to|fell to)\s+(\d+(?:\.\d+)?)\s+percent",
+        clean,
+        flags=re.IGNORECASE,
+    )
+    if payroll_match is None or unemployment_match is None:
+        return None
+
+    payroll_value = int(payroll_match.group(2).replace(",", ""))
+    if payroll_match.group(1).lower() in {"decreased", "fell", "declined"}:
+        payroll_value *= -1
+    payroll = _format_bls_count(str(payroll_value))
+    unemployment = f"{unemployment_match.group(1)}%"
+
+    wage_mom_match = re.search(
+        r"average hourly earnings[^.]{0,180}?"
+        r"(?:rose|increased)\s+by[^.]{0,80}?or\s+(\d+(?:\.\d+)?)\s+percent",
+        clean,
+        flags=re.IGNORECASE,
+    )
+    wage_yoy_match = re.search(
+        r"Over the year, average hourly earnings (?:have )?increased by\s+"
+        r"(\d+(?:\.\d+)?)\s+percent",
+        clean,
+        flags=re.IGNORECASE,
+    )
+    combined_revision_match = re.search(
+        r"With these revisions, employment in [^.]{0,120}?combined is\s+"
+        r"([\d,]+)\s+(higher|lower)",
+        clean,
+        flags=re.IGNORECASE,
+    )
+    prior_revision_matches = re.findall(
+        r"change (?:in total nonfarm payroll employment )?for [A-Za-z]+ was "
+        r"revised[^.]{0,100}?to\s+([+-]?[\d,]+)",
+        clean,
+        flags=re.IGNORECASE,
+    )
+    previous_payroll = (
+        _format_bls_count(prior_revision_matches[-1]) if prior_revision_matches else ""
+    )
+    unchanged = bool(
+        re.search(
+            r"unemployment rate was unchanged at", clean, flags=re.IGNORECASE
+        )
+    )
+
+    metrics = [
+        EventMetric("非农就业", payroll, previous=previous_payroll),
+        EventMetric(
+            "失业率",
+            unemployment,
+            previous=unemployment if unchanged else "",
+        ),
+    ]
+    wage_mom = wage_mom_match.group(1) if wage_mom_match else ""
+    wage_yoy = wage_yoy_match.group(1) if wage_yoy_match else ""
+    if wage_mom:
+        metrics.append(EventMetric("平均时薪月率", f"+{wage_mom}%"))
+    if wage_yoy:
+        metrics.append(EventMetric("平均时薪年率", f"+{wage_yoy}%"))
+    revision_summary = ""
+    if combined_revision_match:
+        revision_value = _format_bls_count(combined_revision_match.group(1))
+        revision_sign = "+" if combined_revision_match.group(2).lower() == "higher" else "-"
+        revision_summary = f"；前两月合计修正 {revision_sign}{revision_value}"
+        metrics.append(EventMetric("前两月合计修正", f"{revision_sign}{revision_value}"))
+
+    wage_summary = f"，平均时薪环比 +{wage_mom}%" if wage_mom else ""
+    return EventResult(
+        published_at=event.starts_at,
+        source="U.S. Bureau of Labor Statistics",
+        source_url=source_url,
+        verdict_zh="就业增长回升，失业率稳定",
+        summary_zh=(
+            f"BLS 官方数据：非农就业增加 {payroll}，失业率 {unemployment}"
+            f"{wage_summary}{revision_summary}。这说明劳动力市场仍有韧性；"
+            "页面不把市场预测值伪装成官方结果。"
+        ),
+        sector_impact_zh=(
+            "就业和工资保持韧性，利好金融、消费服务和部分周期板块的增长预期；"
+            "若美债收益率因此上行，则对高估值科技、REITs和小盘成长偏利空。"
+        ),
+        portfolio_impact_zh=(
+            "VOO获得经济增长支撑；QQQM、SMH、MRVL和SPCX短线更容易受到"
+            "收益率上行的估值压力，方向需结合盘中利率与价格反应确认。"
+        ),
+        tone="mixed",
+        metrics=tuple(metrics),
+    )
+
+
+def fetch_official_event_result(
+    event: WeeklyEvent,
+    now: datetime,
+    client=requests,
+) -> EventResult | None:
+    """Fetch an official release when a supported event has already occurred."""
+    if (
+        event.result_kind != "employment"
+        or now < event.starts_at + timedelta(minutes=EVENT_RESULT_GRACE_MINUTES)
+    ):
+        return None
+    release_date = event.starts_at.astimezone(NY_TZ).strftime("%m%d%Y")
+    source_url = BLS_EMPLOYMENT_ARCHIVE_URL.format(release_date=release_date)
+    report_month = _prior_month(event.starts_at.astimezone(NY_TZ).date())
+    try:
+        response = client.post(
+            BLS_PUBLIC_API_URL,
+            headers={"Content-Type": "application/json"},
+            json={
+                "seriesid": list(BLS_EMPLOYMENT_SERIES),
+                "startyear": str(report_month.year - 1),
+                "endyear": str(report_month.year),
+            },
+            timeout=12,
+        )
+        response.raise_for_status()
+        api_result = _bls_employment_result_from_api(event, response.json(), source_url)
+        if api_result is not None:
+            return api_result
+    except Exception as exc:
+        print(f"  BLS data API unavailable for {event.title_zh}: {exc}", file=sys.stderr)
+    try:
+        response = client.get(source_url, headers=ARTICLE_FETCH_HEADERS, timeout=12)
+        response.raise_for_status()
+        content = getattr(response, "content", b"")
+        if content:
+            text = BeautifulSoup(content, "html.parser").get_text(" ", strip=True)
+        else:
+            text = str(getattr(response, "text", ""))
+        return _bls_employment_result_from_text(event, text, source_url)
+    except Exception as exc:
+        print(f"  Official event result fetch failed for {event.title_zh}: {exc}", file=sys.stderr)
+        return None
+
+
 def _event_result_from_article(event: WeeklyEvent, article: dict) -> EventResult | None:
     if event.result_kind in {"ism_services", "ism_manufacturing"}:
         return _ism_result_from_article(event, article)
@@ -1066,10 +1361,25 @@ def update_weekly_event_results(
     calendar: WeeklyEventCalendar,
     articles: list[dict],
     now: datetime,
+    official_client=None,
 ) -> WeeklyEventCalendar:
     """Attach newly published event results found in the current news pull."""
     refreshed: list[WeeklyEvent] = []
     for event in calendar.events:
+        existing_is_official = bool(
+            event.result
+            and urlparse(event.result.source_url).hostname
+            and urlparse(event.result.source_url).hostname.endswith("bls.gov")
+        )
+        if official_client is not None and not existing_is_official:
+            official_result = fetch_official_event_result(event, now, official_client)
+            if official_result is not None:
+                print(
+                    f"  Official event result found: {event.title_zh} — "
+                    f"{official_result.verdict_zh}"
+                )
+                refreshed.append(replace(event, result=official_result))
+                continue
         if event.result is not None or not event.result_kind or not event.result_terms:
             refreshed.append(event)
             continue
@@ -1085,6 +1395,12 @@ def update_weekly_event_results(
                 continue
             headline = _clean_markup(str(article.get("headline") or "")).lower()
             summary = _clean_markup(str(article.get("summary") or "")).lower()
+            article_url = str(article.get("url") or "")
+            if (
+                EVENT_RESULT_PREVIEW_RE.search(headline)
+                or "/prediction-market" in article_url.lower()
+            ):
+                continue
             matching_terms = [
                 term for term in event.result_terms if term in headline or term in summary
             ]
@@ -3564,8 +3880,12 @@ def main(argv: list[str] | None = None) -> int:
 
     slot = scheduled_slot(now) if args.scheduled else None
     if args.scheduled and slot is None:
-        print(f"Skipping duplicate/out-of-window scheduled invocation at {now.astimezone(NY_TZ).isoformat()}")
-        return 0
+        print(
+            "Scheduled notification arrived outside its ET window; "
+            "continuing as a silent website refresh at "
+            f"{now.astimezone(NY_TZ).isoformat()}"
+        )
+        args.no_push = True
     if args.web_refresh and not web_refresh_allowed(now):
         print(f"Skipping out-of-window website refresh at {now.astimezone(NY_TZ).isoformat()}")
         return 0
@@ -3643,6 +3963,7 @@ def main(argv: list[str] | None = None) -> int:
         weekly_calendar,
         market_articles,
         now,
+        official_client=requests,
     )
 
     drivers = select_market_drivers(market_articles, pulse)
