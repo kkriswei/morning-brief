@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T02:38:19.009844+00:00",
-  "generated_et": "2026-09-06 10:38 PM ET",
+  "generated_at": "2026-09-07T07:32:12.199576+00:00",
+  "generated_et": "2026-09-07 3:32 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "周末新闻",
+  "mode": "晨间简报",
   "market_session": "2026-09-04",
   "overview": "偏利空",
   "weekly_events": {
