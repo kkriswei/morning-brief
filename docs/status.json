@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T07:32:12.199576+00:00",
-  "generated_et": "2026-09-07 3:32 AM ET",
+  "generated_at": "2026-09-07T10:36:51.660892+00:00",
+  "generated_et": "2026-09-07 6:36 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "晨间简报",
+  "mode": "盘前简报",
   "market_session": "2026-09-04",
   "overview": "偏利空",
   "weekly_events": {
@@ -23,7 +23,7 @@
     "events": []
   },
   "premarket": {
-    "active": false,
+    "active": true,
     "as_of": null,
     "feed": "unavailable",
     "moves": {}
