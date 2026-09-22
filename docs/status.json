@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-22T19:55:11.640608+00:00",
-  "generated_et": "2026-09-22 3:55 PM ET",
+  "generated_at": "2026-09-22T22:37:17.799489+00:00",
+  "generated_et": "2026-09-22 6:37 PM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "晨间简报",
-  "market_session": "2026-09-21",
-  "overview": "偏利好",
+  "mode": "收盘复盘",
+  "market_session": "2026-09-22",
+  "overview": "中性 · 明显分化",
   "weekly_events": {
     "week_start": "2026-09-21",
     "week_end": "2026-09-27",
