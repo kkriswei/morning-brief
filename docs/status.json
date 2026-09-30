@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T01:34:16.545255+00:00",
-  "generated_et": "2026-09-29 9:34 PM ET",
+  "generated_at": "2026-09-30T07:20:48.718694+00:00",
+  "generated_et": "2026-09-30 3:20 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "收盘复盘",
+  "mode": "晨间简报",
   "market_session": "2026-09-29",
   "overview": "中性",
   "weekly_events": {
