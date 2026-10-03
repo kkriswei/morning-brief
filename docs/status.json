@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-03T02:16:43.458660+00:00",
-  "generated_et": "2026-10-02 10:16 PM ET",
+  "generated_at": "2026-10-03T08:14:08.479149+00:00",
+  "generated_et": "2026-10-03 4:14 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "收盘复盘",
+  "mode": "周末新闻",
   "market_session": "2026-10-02",
   "overview": "偏利好",
   "weekly_events": {
-    "week_start": "2026-09-28",
-    "week_end": "2026-10-04",
+    "week_start": "2026-10-05",
+    "week_end": "2026-10-11",
     "verified_at": "2026-09-03T22:05:00+00:00",
     "portfolio_symbols": [
       "SMH",
