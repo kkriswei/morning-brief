@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-15T19:27:43.760958+00:00",
-  "generated_et": "2026-10-15 3:27 PM ET",
+  "generated_at": "2026-10-15T22:34:34.137196+00:00",
+  "generated_et": "2026-10-15 6:34 PM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "晨间简报",
-  "market_session": "2026-10-14",
-  "overview": "偏利空",
+  "mode": "收盘复盘",
+  "market_session": "2026-10-15",
+  "overview": "偏利好",
   "weekly_events": {
     "week_start": "2026-10-12",
     "week_end": "2026-10-18",
