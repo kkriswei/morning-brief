@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T05:01:20.821860+00:00",
-  "generated_et": "2026-10-16 1:01 AM ET",
+  "generated_at": "2026-10-16T09:39:21.558537+00:00",
+  "generated_et": "2026-10-16 5:39 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "晨间简报",
+  "mode": "盘前简报",
   "market_session": "2026-10-15",
   "overview": "偏利好",
   "weekly_events": {
@@ -23,9 +23,64 @@
     "events": []
   },
   "premarket": {
-    "active": false,
-    "as_of": null,
-    "feed": "unavailable",
-    "moves": {}
+    "active": true,
+    "as_of": "2026-10-16T09:23:00+00:00",
+    "feed": "sip",
+    "moves": {
+      "SPY": {
+        "price": 773.66,
+        "previous_close": 771.79,
+        "change_pct": 0.2423,
+        "volume": 69665,
+        "high": 773.9156,
+        "low": 772.35,
+        "as_of": "2026-10-16T09:23:00+00:00"
+      },
+      "QQQ": {
+        "price": 728.83,
+        "previous_close": 728.0,
+        "change_pct": 0.114,
+        "volume": 310614,
+        "high": 730.32,
+        "low": 728.04,
+        "as_of": "2026-10-16T09:23:00+00:00"
+      },
+      "IWM": {
+        "price": 276.3013,
+        "previous_close": 275.08,
+        "change_pct": 0.444,
+        "volume": 43562,
+        "high": 276.4,
+        "low": 275.24,
+        "as_of": "2026-10-16T09:23:00+00:00"
+      },
+      "SMH": {
+        "price": 556.06,
+        "previous_close": 558.84,
+        "change_pct": -0.4975,
+        "volume": 43501,
+        "high": 562.59,
+        "low": 555.96,
+        "as_of": "2026-10-16T09:21:00+00:00"
+      },
+      "MRVL": {
+        "price": 240.87,
+        "previous_close": 241.24,
+        "change_pct": -0.1534,
+        "volume": 154411,
+        "high": 244.92,
+        "low": 239.0,
+        "as_of": "2026-10-16T09:23:00+00:00"
+      },
+      "SPCX": {
+        "price": 152.13,
+        "previous_close": 148.62,
+        "change_pct": 2.3617,
+        "volume": 1361006,
+        "high": 153.41,
+        "low": 151.73,
+        "as_of": "2026-10-16T09:23:00+00:00"
+      }
+    }
   }
 }
