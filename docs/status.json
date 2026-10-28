@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T11:28:36.353004+00:00",
-  "generated_et": "2026-10-28 7:28 AM ET",
+  "generated_at": "2026-10-28T17:15:54.294597+00:00",
+  "generated_et": "2026-10-28 1:15 PM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "盘前简报",
+  "mode": "晨间简报",
   "market_session": "2026-10-27",
   "overview": "偏利好",
   "weekly_events": {
@@ -23,64 +23,9 @@
     "events": []
   },
   "premarket": {
-    "active": true,
-    "as_of": "2026-10-28T11:12:00+00:00",
-    "feed": "sip",
-    "moves": {
-      "SPY": {
-        "price": 770.87,
-        "previous_close": 769.66,
-        "change_pct": 0.1572,
-        "volume": 144497,
-        "high": 771.28,
-        "low": 769.67,
-        "as_of": "2026-10-28T11:12:00+00:00"
-      },
-      "QQQ": {
-        "price": 724.07,
-        "previous_close": 721.25,
-        "change_pct": 0.391,
-        "volume": 458579,
-        "high": 725.57,
-        "low": 723.03,
-        "as_of": "2026-10-28T11:12:00+00:00"
-      },
-      "IWM": {
-        "price": 279.7,
-        "previous_close": 280.18,
-        "change_pct": -0.1713,
-        "volume": 90319,
-        "high": 280.02,
-        "low": 279.34,
-        "as_of": "2026-10-28T11:12:00+00:00"
-      },
-      "SMH": {
-        "price": 565.08,
-        "previous_close": 557.98,
-        "change_pct": 1.2724,
-        "volume": 53774,
-        "high": 566.2,
-        "low": 561.7,
-        "as_of": "2026-10-28T11:12:00+00:00"
-      },
-      "MRVL": {
-        "price": 248.15,
-        "previous_close": 243.57,
-        "change_pct": 1.8804,
-        "volume": 208876,
-        "high": 249.6,
-        "low": 246.35,
-        "as_of": "2026-10-28T11:12:00+00:00"
-      },
-      "SPCX": {
-        "price": 149.25,
-        "previous_close": 148.58,
-        "change_pct": 0.4509,
-        "volume": 991556,
-        "high": 151.0,
-        "low": 149.16,
-        "as_of": "2026-10-28T11:12:00+00:00"
-      }
-    }
+    "active": false,
+    "as_of": null,
+    "feed": "unavailable",
+    "moves": {}
   }
 }
