@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T02:57:28.562553+00:00",
-  "generated_et": "2026-11-15 9:57 PM ET",
+  "generated_at": "2026-11-16T10:57:32.017607+00:00",
+  "generated_et": "2026-11-16 5:57 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "周末新闻",
+  "mode": "盘前简报",
   "market_session": "2026-11-13",
   "overview": "偏利空",
   "weekly_events": {
@@ -23,9 +23,64 @@
     "events": []
   },
   "premarket": {
-    "active": false,
-    "as_of": null,
-    "feed": "unavailable",
-    "moves": {}
+    "active": true,
+    "as_of": "2026-11-16T10:41:00+00:00",
+    "feed": "sip",
+    "moves": {
+      "SPY": {
+        "price": 751.69,
+        "previous_close": 754.37,
+        "change_pct": -0.3553,
+        "volume": 136470,
+        "high": 753.01,
+        "low": 749.73,
+        "as_of": "2026-11-16T10:41:00+00:00"
+      },
+      "QQQ": {
+        "price": 673.33,
+        "previous_close": 679.89,
+        "change_pct": -0.9649,
+        "volume": 494622,
+        "high": 675.48,
+        "low": 670.88,
+        "as_of": "2026-11-16T10:41:00+00:00"
+      },
+      "IWM": {
+        "price": 276.43,
+        "previous_close": 277.54,
+        "change_pct": -0.3999,
+        "volume": 49115,
+        "high": 276.97,
+        "low": 275.97,
+        "as_of": "2026-11-16T10:39:00+00:00"
+      },
+      "SMH": {
+        "price": 470.89,
+        "previous_close": 486.75,
+        "change_pct": -3.2583,
+        "volume": 47445,
+        "high": 476.0,
+        "low": 470.4,
+        "as_of": "2026-11-16T10:40:00+00:00"
+      },
+      "MRVL": {
+        "price": 149.39,
+        "previous_close": 156.76,
+        "change_pct": -4.7015,
+        "volume": 210681,
+        "high": 151.68,
+        "low": 149.02,
+        "as_of": "2026-11-16T10:35:00+00:00"
+      },
+      "SPCX": {
+        "price": 139.82,
+        "previous_close": 139.11,
+        "change_pct": 0.5104,
+        "volume": 1844917,
+        "high": 141.05,
+        "low": 138.5122,
+        "as_of": "2026-11-16T10:41:00+00:00"
+      }
+    }
   }
 }
