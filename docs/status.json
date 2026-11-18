@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T03:07:44.452160+00:00",
-  "generated_et": "2026-11-17 10:07 PM ET",
+  "generated_at": "2026-11-18T10:41:34.670089+00:00",
+  "generated_et": "2026-11-18 5:41 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "收盘复盘",
+  "mode": "盘前简报",
   "market_session": "2026-11-17",
   "overview": "偏利空",
   "weekly_events": {
@@ -23,9 +23,64 @@
     "events": []
   },
   "premarket": {
-    "active": false,
-    "as_of": null,
-    "feed": "unavailable",
-    "moves": {}
+    "active": true,
+    "as_of": "2026-11-18T10:25:00+00:00",
+    "feed": "sip",
+    "moves": {
+      "SPY": {
+        "price": 736.26,
+        "previous_close": 732.44,
+        "change_pct": 0.5215,
+        "volume": 139167,
+        "high": 737.39,
+        "low": 733.0862,
+        "as_of": "2026-11-18T10:25:00+00:00"
+      },
+      "QQQ": {
+        "price": 663.599,
+        "previous_close": 656.95,
+        "change_pct": 1.0121,
+        "volume": 476595,
+        "high": 665.23,
+        "low": 658.61,
+        "as_of": "2026-11-18T10:25:00+00:00"
+      },
+      "IWM": {
+        "price": 269.5,
+        "previous_close": 269.05,
+        "change_pct": 0.1673,
+        "volume": 53366,
+        "high": 269.76,
+        "low": 268.76,
+        "as_of": "2026-11-18T10:25:00+00:00"
+      },
+      "SMH": {
+        "price": 472.6,
+        "previous_close": 460.1,
+        "change_pct": 2.7168,
+        "volume": 55949,
+        "high": 474.87,
+        "low": 465.0,
+        "as_of": "2026-11-18T10:21:00+00:00"
+      },
+      "MRVL": {
+        "price": 153.63,
+        "previous_close": 148.74,
+        "change_pct": 3.2876,
+        "volume": 285267,
+        "high": 155.95,
+        "low": 151.99,
+        "as_of": "2026-11-18T10:25:00+00:00"
+      },
+      "SPCX": {
+        "price": 142.33,
+        "previous_close": 141.7,
+        "change_pct": 0.4446,
+        "volume": 562714,
+        "high": 143.21,
+        "low": 141.6,
+        "as_of": "2026-11-18T10:24:00+00:00"
+      }
+    }
   }
 }
