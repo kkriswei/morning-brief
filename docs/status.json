@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T13:26:13.466479+00:00",
-  "generated_et": "2026-11-25 8:26 AM ET",
+  "generated_at": "2026-11-25T22:25:04.445824+00:00",
+  "generated_et": "2026-11-25 5:25 PM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "盘前简报",
-  "market_session": "2026-11-24",
+  "mode": "收盘复盘",
+  "market_session": "2026-11-25",
   "overview": "中性 · 明显分化",
   "weekly_events": {
     "week_start": "2026-11-23",
@@ -23,64 +23,9 @@
     "events": []
   },
   "premarket": {
-    "active": true,
-    "as_of": "2026-11-25T13:10:00+00:00",
-    "feed": "sip",
-    "moves": {
-      "SPY": {
-        "price": 704.72,
-        "previous_close": 718.78,
-        "change_pct": -1.9561,
-        "volume": 1283211,
-        "high": 714.24,
-        "low": 703.84,
-        "as_of": "2026-11-25T13:10:00+00:00"
-      },
-      "QQQ": {
-        "price": 619.53,
-        "previous_close": 638.1,
-        "change_pct": -2.9102,
-        "volume": 2607604,
-        "high": 631.06,
-        "low": 618.43,
-        "as_of": "2026-11-25T13:10:00+00:00"
-      },
-      "IWM": {
-        "price": 263.66,
-        "previous_close": 267.14,
-        "change_pct": -1.3027,
-        "volume": 384462,
-        "high": 266.2,
-        "low": 263.29,
-        "as_of": "2026-11-25T13:10:00+00:00"
-      },
-      "SMH": {
-        "price": 407.03,
-        "previous_close": 426.75,
-        "change_pct": -4.621,
-        "volume": 299000,
-        "high": 420.46,
-        "low": 405.99,
-        "as_of": "2026-11-25T13:10:00+00:00"
-      },
-      "MRVL": {
-        "price": 123.9303,
-        "previous_close": 131.57,
-        "change_pct": -5.8066,
-        "volume": 677809,
-        "high": 131.57,
-        "low": 123.1,
-        "as_of": "2026-11-25T13:10:00+00:00"
-      },
-      "SPCX": {
-        "price": 121.67,
-        "previous_close": 125.81,
-        "change_pct": -3.2907,
-        "volume": 3450987,
-        "high": 124.6,
-        "low": 121.18,
-        "as_of": "2026-11-25T13:10:00+00:00"
-      }
-    }
+    "active": false,
+    "as_of": null,
+    "feed": "unavailable",
+    "moves": {}
   }
 }
