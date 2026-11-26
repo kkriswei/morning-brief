@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T04:21:44.986141+00:00",
-  "generated_et": "2026-11-25 11:21 PM ET",
+  "generated_at": "2026-11-26T14:03:28.320055+00:00",
+  "generated_et": "2026-11-26 9:03 AM ET",
   "refresh_policy": {
     "backend_target_minutes": 15,
     "browser_check_minutes": 1,
     "scheduler": "GitHub Actions best effort"
   },
-  "mode": "收盘复盘",
+  "mode": "盘前简报",
   "market_session": "2026-11-25",
   "overview": "中性 · 明显分化",
   "weekly_events": {
@@ -23,7 +23,7 @@
     "events": []
   },
   "premarket": {
-    "active": false,
+    "active": true,
     "as_of": null,
     "feed": "unavailable",
     "moves": {}
